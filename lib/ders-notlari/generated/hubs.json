@@ -384,6 +384,54 @@
         "href": "/ders-notlari/ankara-yildirim-beyazit/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -791,6 +839,54 @@
         "href": "/ders-notlari/ankara/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ankara/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ankara/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ankara/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ankara/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ankara/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ankara/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -1199,6 +1295,54 @@
         "href": "/ders-notlari/istanbul/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/istanbul/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/istanbul/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/istanbul/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/istanbul/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/istanbul/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/istanbul/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -1605,6 +1749,54 @@
         "href": "/ders-notlari/marmara/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/marmara/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/marmara/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/marmara/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/marmara/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/marmara/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/marmara/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -2013,6 +2205,54 @@
         "href": "/ders-notlari/galatasaray/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/galatasaray/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/galatasaray/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/galatasaray/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/galatasaray/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/galatasaray/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/galatasaray/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -2420,6 +2660,54 @@
         "href": "/ders-notlari/dokuz-eylul/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/dokuz-eylul/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/dokuz-eylul/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/dokuz-eylul/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/dokuz-eylul/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/dokuz-eylul/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/dokuz-eylul/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -2826,6 +3114,54 @@
         "href": "/ders-notlari/hacettepe/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/hacettepe/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/hacettepe/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/hacettepe/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/hacettepe/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/hacettepe/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/hacettepe/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -3233,6 +3569,54 @@
         "href": "/ders-notlari/ankara-hacibayram/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ankara-hacibayram/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ankara-hacibayram/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ankara-hacibayram/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ankara-hacibayram/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ankara-hacibayram/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ankara-hacibayram/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -3639,6 +4023,54 @@
         "href": "/ders-notlari/bilkent/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/bilkent/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/bilkent/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/bilkent/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/bilkent/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/bilkent/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/bilkent/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -4046,6 +4478,54 @@
         "href": "/ders-notlari/koc/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/koc/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/koc/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/koc/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/koc/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/koc/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/koc/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -4453,6 +4933,54 @@
         "href": "/ders-notlari/tobb-etu/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/tobb-etu/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/tobb-etu/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/tobb-etu/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/tobb-etu/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/tobb-etu/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/tobb-etu/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -4859,6 +5387,54 @@
         "href": "/ders-notlari/bogazici/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/bogazici/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/bogazici/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/bogazici/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/bogazici/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/bogazici/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/bogazici/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -5265,6 +5841,54 @@
         "href": "/ders-notlari/ege/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ege/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ege/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ege/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ege/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ege/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ege/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -5671,6 +6295,54 @@
         "href": "/ders-notlari/akdeniz/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/akdeniz/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/akdeniz/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/akdeniz/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/akdeniz/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/akdeniz/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/akdeniz/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -6077,6 +6749,54 @@
         "href": "/ders-notlari/selcuk/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/selcuk/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/selcuk/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/selcuk/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/selcuk/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/selcuk/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/selcuk/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -6483,6 +7203,54 @@
         "href": "/ders-notlari/erciyes/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/erciyes/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/erciyes/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/erciyes/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/erciyes/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/erciyes/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/erciyes/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -6890,6 +7658,54 @@
         "href": "/ders-notlari/uludag/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/uludag/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/uludag/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/uludag/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/uludag/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/uludag/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/uludag/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -7296,6 +8112,54 @@
         "href": "/ders-notlari/cukurova/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/cukurova/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/cukurova/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/cukurova/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/cukurova/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/cukurova/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/cukurova/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -7702,6 +8566,54 @@
         "href": "/ders-notlari/anadolu/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/anadolu/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/anadolu/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/anadolu/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/anadolu/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/anadolu/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/anadolu/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -8109,6 +9021,54 @@
         "href": "/ders-notlari/gazi-ankara/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/gazi-ankara/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/gazi-ankara/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/gazi-ankara/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/gazi-ankara/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/gazi-ankara/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/gazi-ankara/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -8516,6 +9476,54 @@
         "href": "/ders-notlari/yildiz-teknik/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/yildiz-teknik/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/yildiz-teknik/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/yildiz-teknik/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/yildiz-teknik/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/yildiz-teknik/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/yildiz-teknik/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -8922,6 +9930,54 @@
         "href": "/ders-notlari/istanbul-medeniyet/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/istanbul-medeniyet/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/istanbul-medeniyet/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/istanbul-medeniyet/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/istanbul-medeniyet/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/istanbul-medeniyet/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/istanbul-medeniyet/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -9329,6 +10385,54 @@
         "href": "/ders-notlari/bahcesehir/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/bahcesehir/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/bahcesehir/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/bahcesehir/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/bahcesehir/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/bahcesehir/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/bahcesehir/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -9735,6 +10839,54 @@
         "href": "/ders-notlari/yeditepe/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/yeditepe/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/yeditepe/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/yeditepe/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/yeditepe/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/yeditepe/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/yeditepe/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -10141,6 +11293,54 @@
         "href": "/ders-notlari/ozyegin/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ozyegin/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ozyegin/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ozyegin/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ozyegin/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ozyegin/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ozyegin/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -10547,6 +11747,54 @@
         "href": "/ders-notlari/kadir-has/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kadir-has/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kadir-has/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kadir-has/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kadir-has/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kadir-has/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kadir-has/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -10953,6 +12201,54 @@
         "href": "/ders-notlari/istanbul-bilgi/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/istanbul-bilgi/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/istanbul-bilgi/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/istanbul-bilgi/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/istanbul-bilgi/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/istanbul-bilgi/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/istanbul-bilgi/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -11359,6 +12655,54 @@
         "href": "/ders-notlari/mehmet-akif/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/mehmet-akif/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/mehmet-akif/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/mehmet-akif/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/mehmet-akif/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/mehmet-akif/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/mehmet-akif/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -11765,6 +13109,54 @@
         "href": "/ders-notlari/altinbas/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/altinbas/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/altinbas/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/altinbas/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/altinbas/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/altinbas/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/altinbas/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -12171,6 +13563,54 @@
         "href": "/ders-notlari/maltepe/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/maltepe/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/maltepe/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/maltepe/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/maltepe/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/maltepe/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/maltepe/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -12577,6 +14017,54 @@
         "href": "/ders-notlari/dogus/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/dogus/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/dogus/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/dogus/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/dogus/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/dogus/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/dogus/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -12983,6 +14471,54 @@
         "href": "/ders-notlari/isik/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/isik/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/isik/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/isik/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/isik/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/isik/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/isik/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -13389,6 +14925,54 @@
         "href": "/ders-notlari/okan/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/okan/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/okan/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/okan/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/okan/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/okan/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/okan/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -13795,6 +15379,54 @@
         "href": "/ders-notlari/kultur/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kultur/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kultur/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kultur/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kultur/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kultur/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kultur/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -14201,6 +15833,54 @@
         "href": "/ders-notlari/aydin/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/aydin/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/aydin/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/aydin/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/aydin/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/aydin/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/aydin/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -14607,6 +16287,54 @@
         "href": "/ders-notlari/gelisim/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/gelisim/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/gelisim/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/gelisim/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/gelisim/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/gelisim/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/gelisim/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -15013,6 +16741,54 @@
         "href": "/ders-notlari/topkapi/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/topkapi/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/topkapi/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/topkapi/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/topkapi/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/topkapi/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/topkapi/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -15419,6 +17195,54 @@
         "href": "/ders-notlari/nisantasi/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/nisantasi/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/nisantasi/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/nisantasi/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/nisantasi/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/nisantasi/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/nisantasi/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -15825,6 +17649,54 @@
         "href": "/ders-notlari/beykent/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/beykent/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/beykent/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/beykent/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/beykent/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/beykent/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/beykent/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -16231,6 +18103,54 @@
         "href": "/ders-notlari/halic/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/halic/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/halic/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/halic/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/halic/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/halic/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/halic/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -16637,6 +18557,54 @@
         "href": "/ders-notlari/fatih-sultan/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/fatih-sultan/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/fatih-sultan/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/fatih-sultan/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/fatih-sultan/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/fatih-sultan/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/fatih-sultan/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -17044,6 +19012,54 @@
         "href": "/ders-notlari/karadeniz-teknik/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/karadeniz-teknik/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/karadeniz-teknik/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/karadeniz-teknik/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/karadeniz-teknik/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/karadeniz-teknik/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/karadeniz-teknik/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -17451,6 +19467,54 @@
         "href": "/ders-notlari/ataturk/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ataturk/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ataturk/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ataturk/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ataturk/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ataturk/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ataturk/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -17857,6 +19921,54 @@
         "href": "/ders-notlari/inonu/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/inonu/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/inonu/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/inonu/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/inonu/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/inonu/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/inonu/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -18263,6 +20375,54 @@
         "href": "/ders-notlari/dicle/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/dicle/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/dicle/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/dicle/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/dicle/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/dicle/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/dicle/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -18669,6 +20829,54 @@
         "href": "/ders-notlari/firat/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/firat/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/firat/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/firat/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/firat/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/firat/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/firat/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -19075,6 +21283,54 @@
         "href": "/ders-notlari/gaziantep/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/gaziantep/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/gaziantep/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/gaziantep/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/gaziantep/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/gaziantep/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/gaziantep/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -19482,6 +21738,54 @@
         "href": "/ders-notlari/suleyman-demirel/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/suleyman-demirel/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/suleyman-demirel/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/suleyman-demirel/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/suleyman-demirel/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/suleyman-demirel/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/suleyman-demirel/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -19888,6 +22192,54 @@
         "href": "/ders-notlari/pamukkale/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/pamukkale/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/pamukkale/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/pamukkale/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/pamukkale/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/pamukkale/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/pamukkale/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -20294,6 +22646,54 @@
         "href": "/ders-notlari/mugla/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/mugla/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/mugla/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/mugla/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/mugla/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/mugla/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/mugla/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -20700,6 +23100,54 @@
         "href": "/ders-notlari/sakarya/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/sakarya/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/sakarya/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/sakarya/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/sakarya/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/sakarya/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/sakarya/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -21106,6 +23554,54 @@
         "href": "/ders-notlari/kocaeli/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kocaeli/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kocaeli/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kocaeli/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kocaeli/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kocaeli/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kocaeli/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -21512,6 +24008,54 @@
         "href": "/ders-notlari/trakya/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/trakya/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/trakya/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/trakya/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/trakya/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/trakya/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/trakya/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -21918,6 +24462,54 @@
         "href": "/ders-notlari/canakkale/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/canakkale/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/canakkale/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/canakkale/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/canakkale/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/canakkale/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/canakkale/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -22324,6 +24916,54 @@
         "href": "/ders-notlari/balikesir/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/balikesir/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/balikesir/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/balikesir/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/balikesir/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/balikesir/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/balikesir/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -22731,6 +25371,54 @@
         "href": "/ders-notlari/afyon/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/afyon/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/afyon/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/afyon/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/afyon/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/afyon/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/afyon/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -23137,6 +25825,54 @@
         "href": "/ders-notlari/dumlupinar/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/dumlupinar/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/dumlupinar/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/dumlupinar/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/dumlupinar/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/dumlupinar/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/dumlupinar/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -23543,6 +26279,54 @@
         "href": "/ders-notlari/eskisehir-osmangazi/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/eskisehir-osmangazi/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/eskisehir-osmangazi/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/eskisehir-osmangazi/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/eskisehir-osmangazi/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/eskisehir-osmangazi/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/eskisehir-osmangazi/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -23950,6 +26734,54 @@
         "href": "/ders-notlari/sivas-cumhuriyet/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/sivas-cumhuriyet/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/sivas-cumhuriyet/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/sivas-cumhuriyet/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/sivas-cumhuriyet/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/sivas-cumhuriyet/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/sivas-cumhuriyet/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -24356,6 +27188,54 @@
         "href": "/ders-notlari/tokat/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/tokat/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/tokat/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/tokat/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/tokat/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/tokat/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/tokat/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -24762,6 +27642,54 @@
         "href": "/ders-notlari/yozgat/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/yozgat/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/yozgat/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/yozgat/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/yozgat/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/yozgat/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/yozgat/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -25168,6 +28096,54 @@
         "href": "/ders-notlari/kirsehir/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kirsehir/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kirsehir/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kirsehir/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kirsehir/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kirsehir/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kirsehir/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -25574,6 +28550,54 @@
         "href": "/ders-notlari/nevsehir/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/nevsehir/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/nevsehir/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/nevsehir/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/nevsehir/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/nevsehir/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/nevsehir/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -25980,6 +29004,54 @@
         "href": "/ders-notlari/mersin/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/mersin/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/mersin/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/mersin/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/mersin/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/mersin/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/mersin/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -26387,6 +29459,54 @@
         "href": "/ders-notlari/hatay/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/hatay/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/hatay/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/hatay/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/hatay/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/hatay/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/hatay/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -26793,6 +29913,54 @@
         "href": "/ders-notlari/kahramanmaras/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kahramanmaras/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kahramanmaras/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kahramanmaras/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kahramanmaras/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kahramanmaras/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kahramanmaras/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -27199,6 +30367,54 @@
         "href": "/ders-notlari/osmaniye/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/osmaniye/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/osmaniye/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/osmaniye/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/osmaniye/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/osmaniye/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/osmaniye/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -27606,6 +30822,54 @@
         "href": "/ders-notlari/samsun/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/samsun/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/samsun/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/samsun/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/samsun/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/samsun/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/samsun/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -28012,6 +31276,54 @@
         "href": "/ders-notlari/ordu/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ordu/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ordu/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ordu/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ordu/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ordu/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ordu/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -28418,6 +31730,54 @@
         "href": "/ders-notlari/giresun/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/giresun/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/giresun/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/giresun/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/giresun/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/giresun/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/giresun/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -28825,6 +32185,54 @@
         "href": "/ders-notlari/rize/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/rize/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/rize/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/rize/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/rize/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/rize/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/rize/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -29231,6 +32639,54 @@
         "href": "/ders-notlari/artvin/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/artvin/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/artvin/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/artvin/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/artvin/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/artvin/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/artvin/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -29639,6 +33095,54 @@
         "href": "/ders-notlari/van-yyu/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/van-yyu/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/van-yyu/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/van-yyu/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/van-yyu/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/van-yyu/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/van-yyu/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -30045,6 +33549,54 @@
         "href": "/ders-notlari/agri/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/agri/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/agri/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/agri/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/agri/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/agri/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/agri/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -30451,6 +34003,54 @@
         "href": "/ders-notlari/kars/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kars/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kars/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kars/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kars/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kars/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kars/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -30857,6 +34457,54 @@
         "href": "/ders-notlari/erzincan/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/erzincan/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/erzincan/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/erzincan/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/erzincan/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/erzincan/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/erzincan/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -31263,6 +34911,54 @@
         "href": "/ders-notlari/bayburt/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/bayburt/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/bayburt/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/bayburt/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/bayburt/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/bayburt/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/bayburt/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -31669,6 +35365,54 @@
         "href": "/ders-notlari/gumushane/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/gumushane/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/gumushane/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/gumushane/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/gumushane/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/gumushane/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/gumushane/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -32075,6 +35819,54 @@
         "href": "/ders-notlari/bingol/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/bingol/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/bingol/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/bingol/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/bingol/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/bingol/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/bingol/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -32481,6 +36273,54 @@
         "href": "/ders-notlari/mus/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/mus/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/mus/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/mus/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/mus/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/mus/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/mus/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -32887,6 +36727,54 @@
         "href": "/ders-notlari/hakkari/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/hakkari/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/hakkari/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/hakkari/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/hakkari/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/hakkari/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/hakkari/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -33293,6 +37181,54 @@
         "href": "/ders-notlari/sirnak/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/sirnak/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/sirnak/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/sirnak/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/sirnak/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/sirnak/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/sirnak/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -33700,6 +37636,54 @@
         "href": "/ders-notlari/mardin/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/mardin/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/mardin/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/mardin/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/mardin/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/mardin/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/mardin/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -34106,6 +38090,54 @@
         "href": "/ders-notlari/batman/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/batman/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/batman/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/batman/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/batman/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/batman/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/batman/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -34512,6 +38544,54 @@
         "href": "/ders-notlari/siirt/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/siirt/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/siirt/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/siirt/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/siirt/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/siirt/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/siirt/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -34918,6 +38998,54 @@
         "href": "/ders-notlari/adiyaman/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/adiyaman/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/adiyaman/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/adiyaman/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/adiyaman/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/adiyaman/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/adiyaman/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -35324,6 +39452,54 @@
         "href": "/ders-notlari/kilis/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kilis/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kilis/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kilis/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kilis/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kilis/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kilis/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -35730,6 +39906,54 @@
         "href": "/ders-notlari/igdir/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/igdir/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/igdir/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/igdir/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/igdir/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/igdir/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/igdir/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -36136,6 +40360,54 @@
         "href": "/ders-notlari/ardahan/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ardahan/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ardahan/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ardahan/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ardahan/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ardahan/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ardahan/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -36542,6 +40814,54 @@
         "href": "/ders-notlari/bilecik/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/bilecik/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/bilecik/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/bilecik/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/bilecik/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/bilecik/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/bilecik/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -36949,6 +41269,54 @@
         "href": "/ders-notlari/bolu/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/bolu/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/bolu/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/bolu/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/bolu/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/bolu/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/bolu/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -37355,6 +41723,54 @@
         "href": "/ders-notlari/duzce/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/duzce/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/duzce/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/duzce/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/duzce/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/duzce/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/duzce/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -37761,6 +42177,54 @@
         "href": "/ders-notlari/zonguldak/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/zonguldak/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/zonguldak/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/zonguldak/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/zonguldak/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/zonguldak/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/zonguldak/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -38167,6 +42631,54 @@
         "href": "/ders-notlari/karabuk/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/karabuk/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/karabuk/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/karabuk/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/karabuk/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/karabuk/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/karabuk/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -38573,6 +43085,54 @@
         "href": "/ders-notlari/kastamonu/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kastamonu/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kastamonu/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kastamonu/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kastamonu/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kastamonu/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kastamonu/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -38979,6 +43539,54 @@
         "href": "/ders-notlari/sinop/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/sinop/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/sinop/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/sinop/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/sinop/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/sinop/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/sinop/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -39386,6 +43994,54 @@
         "href": "/ders-notlari/corum/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/corum/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/corum/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/corum/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/corum/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/corum/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/corum/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -39792,6 +44448,54 @@
         "href": "/ders-notlari/amasya/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/amasya/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/amasya/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/amasya/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/amasya/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/amasya/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/amasya/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -40198,6 +44902,54 @@
         "href": "/ders-notlari/cankiri/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/cankiri/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/cankiri/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/cankiri/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/cankiri/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/cankiri/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/cankiri/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -40604,6 +45356,54 @@
         "href": "/ders-notlari/kirikkale/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kirikkale/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kirikkale/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kirikkale/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kirikkale/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kirikkale/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kirikkale/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -41010,6 +45810,54 @@
         "href": "/ders-notlari/aksaray/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/aksaray/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/aksaray/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/aksaray/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/aksaray/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/aksaray/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/aksaray/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -41416,6 +46264,54 @@
         "href": "/ders-notlari/nigde/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/nigde/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/nigde/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/nigde/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/nigde/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/nigde/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/nigde/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -41822,6 +46718,54 @@
         "href": "/ders-notlari/konya-teknik/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/konya-teknik/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/konya-teknik/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/konya-teknik/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/konya-teknik/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/konya-teknik/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/konya-teknik/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -42228,6 +47172,54 @@
         "href": "/ders-notlari/karaman/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/karaman/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/karaman/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/karaman/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/karaman/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/karaman/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/karaman/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -42634,6 +47626,54 @@
         "href": "/ders-notlari/usak/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/usak/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/usak/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/usak/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/usak/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/usak/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/usak/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -43041,6 +48081,54 @@
         "href": "/ders-notlari/manisa/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/manisa/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/manisa/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/manisa/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/manisa/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/manisa/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/manisa/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -43447,6 +48535,54 @@
         "href": "/ders-notlari/aydin-adu/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/aydin-adu/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/aydin-adu/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/aydin-adu/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/aydin-adu/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/aydin-adu/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/aydin-adu/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -43853,6 +48989,54 @@
         "href": "/ders-notlari/tekirdag/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/tekirdag/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/tekirdag/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/tekirdag/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/tekirdag/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/tekirdag/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/tekirdag/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -44259,6 +49443,54 @@
         "href": "/ders-notlari/kirklareli/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kirklareli/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kirklareli/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kirklareli/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kirklareli/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kirklareli/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kirklareli/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -44665,6 +49897,54 @@
         "href": "/ders-notlari/atilim/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/atilim/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/atilim/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/atilim/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/atilim/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/atilim/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/atilim/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -45071,6 +50351,54 @@
         "href": "/ders-notlari/cankaya/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/cankaya/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/cankaya/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/cankaya/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/cankaya/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/cankaya/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/cankaya/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -45477,6 +50805,54 @@
         "href": "/ders-notlari/ufuk/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ufuk/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ufuk/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ufuk/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ufuk/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ufuk/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ufuk/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -45883,6 +51259,54 @@
         "href": "/ders-notlari/yasar/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/yasar/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/yasar/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/yasar/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/yasar/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/yasar/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/yasar/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -46289,6 +51713,54 @@
         "href": "/ders-notlari/izmir-ekonomi/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/izmir-ekonomi/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/izmir-ekonomi/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/izmir-ekonomi/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/izmir-ekonomi/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/izmir-ekonomi/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/izmir-ekonomi/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -46695,6 +52167,54 @@
         "href": "/ders-notlari/tinaztepe/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/tinaztepe/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/tinaztepe/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/tinaztepe/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/tinaztepe/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/tinaztepe/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/tinaztepe/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -47101,6 +52621,54 @@
         "href": "/ders-notlari/asbu-vakif/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/asbu-vakif/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/asbu-vakif/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/asbu-vakif/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/asbu-vakif/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/asbu-vakif/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/asbu-vakif/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -47507,6 +53075,54 @@
         "href": "/ders-notlari/hasan-kalyoncu/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/hasan-kalyoncu/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/hasan-kalyoncu/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/hasan-kalyoncu/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/hasan-kalyoncu/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/hasan-kalyoncu/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/hasan-kalyoncu/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -47913,6 +53529,54 @@
         "href": "/ders-notlari/sanko/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/sanko/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/sanko/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/sanko/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/sanko/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/sanko/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/sanko/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -48319,6 +53983,54 @@
         "href": "/ders-notlari/toros/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/toros/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/toros/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/toros/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/toros/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/toros/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/toros/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [
@@ -48725,6 +54437,54 @@
         "href": "/ders-notlari/cag/hmk-yillik",
         "ready": true,
         "variantOf": "hmk"
+      },
+      {
+        "code": "icra-donem-1",
+        "title": "İcra Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/cag/icra-donem-1",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-donem-2",
+        "title": "İcra Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/cag/icra-donem-2",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "icra-yillik",
+        "title": "İcra Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/cag/icra-yillik",
+        "ready": true,
+        "variantOf": "icra"
+      },
+      {
+        "code": "iflas-donem-1",
+        "title": "İflas Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/cag/iflas-donem-1",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-donem-2",
+        "title": "İflas Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/cag/iflas-donem-2",
+        "ready": true,
+        "variantOf": "iflas"
+      },
+      {
+        "code": "iflas-yillik",
+        "title": "İflas Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/cag/iflas-yillik",
+        "ready": true,
+        "variantOf": "iflas"
       }
     ],
     "seoParagraphs": [

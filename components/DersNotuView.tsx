@@ -435,6 +435,52 @@ export function DersNotuView({
               { code: 'hmk-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
             ],
           },
+          {
+            match:
+              note.variantOf === 'icra' ||
+              note.courseCode === 'icra-iflas' ||
+              note.courseCode.startsWith('icra-'),
+            title: 'İcra Hukuku · üç paket',
+            items: [
+              { code: 'icra-donem-1', label: '1. Dönem (Güz)', desc: 'Takip · ödeme emri · itiraz' },
+              { code: 'icra-donem-2', label: '2. Dönem (Bahar)', desc: 'Haciz · satış · sıra' },
+              { code: 'icra-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
+            ],
+            footer: (
+              <p className="text-[11px] text-charcoal/45 mt-3 m-0">
+                İflas / konkordato için:{' '}
+                <Link
+                  href={`/ders-notlari/${note.uniSlug}/iflas-yillik`}
+                  className="text-accent font-semibold hover:underline"
+                >
+                  İflas Hukuku yıllık
+                </Link>
+              </p>
+            ),
+          },
+          {
+            match:
+              note.variantOf === 'iflas' ||
+              note.courseCode === 'icra-iflas' ||
+              note.courseCode.startsWith('iflas-'),
+            title: 'İflas Hukuku · üç paket',
+            items: [
+              { code: 'iflas-donem-1', label: '1. Dönem (Güz)', desc: 'Sebep · yol · masa' },
+              { code: 'iflas-donem-2', label: '2. Dönem (Bahar)', desc: 'Kayıt · iptal · konkordato' },
+              { code: 'iflas-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
+            ],
+            footer: (
+              <p className="text-[11px] text-charcoal/45 mt-3 m-0">
+                Ferdi takip / haciz için:{' '}
+                <Link
+                  href={`/ders-notlari/${note.uniSlug}/icra-yillik`}
+                  className="text-accent font-semibold hover:underline"
+                >
+                  İcra Hukuku yıllık
+                </Link>
+              </p>
+            ),
+          },
         ];
         const activePacks = packs.filter((p) => p.match);
         if (!activePacks.length) return null;
@@ -890,6 +936,36 @@ export function UniHubView({ hub }: { hub: UniHubContent }) {
               { code: 'hmk-donem-1', title: '1. Dönem (Güz)' },
               { code: 'hmk-donem-2', title: '2. Dönem (Bahar)' },
               { code: 'hmk-yillik', title: 'Yıllık tam not' },
+            ],
+          },
+          {
+            show: hub.courses.some(
+              (c) =>
+                String(c.code).startsWith('icra-') ||
+                c.code === 'icra-iflas'
+            ),
+            title: 'İcra Hukuku — 1. dönem · 2. dönem · yıllık',
+            desc: 'Takip–itiraz–haciz–satış–sıra… üç premium not + PDF (iflas ayrı).',
+            border: 'border-accent/20 bg-accent/[0.04]',
+            itemBorder: 'border-accent/25',
+            accent: 'text-accent',
+            items: [
+              { code: 'icra-donem-1', title: '1. Dönem (Güz)' },
+              { code: 'icra-donem-2', title: '2. Dönem (Bahar)' },
+              { code: 'icra-yillik', title: 'Yıllık tam not' },
+            ],
+          },
+          {
+            show: hub.courses.some((c) => String(c.code).startsWith('iflas-')),
+            title: 'İflas Hukuku — 1. dönem · 2. dönem · yıllık',
+            desc: 'Masa–kayıt–sıra–iptal–konkordato… üç premium not + PDF (icra ayrı).',
+            border: 'border-primary/20 bg-primary/[0.04]',
+            itemBorder: 'border-primary/25',
+            accent: 'text-primary',
+            items: [
+              { code: 'iflas-donem-1', title: '1. Dönem (Güz)' },
+              { code: 'iflas-donem-2', title: '2. Dönem (Bahar)' },
+              { code: 'iflas-yillik', title: 'Yıllık tam not' },
             ],
           },
         ]
