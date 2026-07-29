@@ -696,6 +696,30 @@
         "href": "/ders-notlari/ankara-yildirim-beyazit/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -1415,6 +1439,30 @@
         "href": "/ders-notlari/ankara/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ankara/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ankara/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ankara/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -2135,6 +2183,30 @@
         "href": "/ders-notlari/istanbul/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/istanbul/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/istanbul/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/istanbul/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -2853,6 +2925,30 @@
         "href": "/ders-notlari/marmara/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/marmara/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/marmara/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/marmara/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -3573,6 +3669,30 @@
         "href": "/ders-notlari/galatasaray/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/galatasaray/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/galatasaray/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/galatasaray/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -4292,6 +4412,30 @@
         "href": "/ders-notlari/dokuz-eylul/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/dokuz-eylul/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/dokuz-eylul/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/dokuz-eylul/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -5010,6 +5154,30 @@
         "href": "/ders-notlari/hacettepe/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/hacettepe/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/hacettepe/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/hacettepe/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -5729,6 +5897,30 @@
         "href": "/ders-notlari/ankara-hacibayram/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ankara-hacibayram/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ankara-hacibayram/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ankara-hacibayram/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -6447,6 +6639,30 @@
         "href": "/ders-notlari/bilkent/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/bilkent/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/bilkent/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/bilkent/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -7166,6 +7382,30 @@
         "href": "/ders-notlari/koc/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/koc/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/koc/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/koc/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -7885,6 +8125,30 @@
         "href": "/ders-notlari/tobb-etu/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/tobb-etu/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/tobb-etu/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/tobb-etu/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -8603,6 +8867,30 @@
         "href": "/ders-notlari/bogazici/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/bogazici/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/bogazici/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/bogazici/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -9321,6 +9609,30 @@
         "href": "/ders-notlari/ege/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ege/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ege/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ege/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -10039,6 +10351,30 @@
         "href": "/ders-notlari/akdeniz/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/akdeniz/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/akdeniz/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/akdeniz/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -10757,6 +11093,30 @@
         "href": "/ders-notlari/selcuk/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/selcuk/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/selcuk/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/selcuk/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -11475,6 +11835,30 @@
         "href": "/ders-notlari/erciyes/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/erciyes/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/erciyes/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/erciyes/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -12194,6 +12578,30 @@
         "href": "/ders-notlari/uludag/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/uludag/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/uludag/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/uludag/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -12912,6 +13320,30 @@
         "href": "/ders-notlari/cukurova/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/cukurova/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/cukurova/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/cukurova/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -13630,6 +14062,30 @@
         "href": "/ders-notlari/anadolu/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/anadolu/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/anadolu/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/anadolu/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -14349,6 +14805,30 @@
         "href": "/ders-notlari/gazi-ankara/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/gazi-ankara/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/gazi-ankara/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/gazi-ankara/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -15068,6 +15548,30 @@
         "href": "/ders-notlari/yildiz-teknik/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/yildiz-teknik/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/yildiz-teknik/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/yildiz-teknik/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -15786,6 +16290,30 @@
         "href": "/ders-notlari/istanbul-medeniyet/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/istanbul-medeniyet/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/istanbul-medeniyet/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/istanbul-medeniyet/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -16505,6 +17033,30 @@
         "href": "/ders-notlari/bahcesehir/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/bahcesehir/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/bahcesehir/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/bahcesehir/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -17223,6 +17775,30 @@
         "href": "/ders-notlari/yeditepe/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/yeditepe/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/yeditepe/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/yeditepe/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -17941,6 +18517,30 @@
         "href": "/ders-notlari/ozyegin/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ozyegin/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ozyegin/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ozyegin/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -18659,6 +19259,30 @@
         "href": "/ders-notlari/kadir-has/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kadir-has/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kadir-has/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kadir-has/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -19377,6 +20001,30 @@
         "href": "/ders-notlari/istanbul-bilgi/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/istanbul-bilgi/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/istanbul-bilgi/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/istanbul-bilgi/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -20095,6 +20743,30 @@
         "href": "/ders-notlari/mehmet-akif/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/mehmet-akif/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/mehmet-akif/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/mehmet-akif/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -20813,6 +21485,30 @@
         "href": "/ders-notlari/altinbas/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/altinbas/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/altinbas/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/altinbas/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -21531,6 +22227,30 @@
         "href": "/ders-notlari/maltepe/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/maltepe/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/maltepe/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/maltepe/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -22249,6 +22969,30 @@
         "href": "/ders-notlari/dogus/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/dogus/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/dogus/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/dogus/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -22967,6 +23711,30 @@
         "href": "/ders-notlari/isik/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/isik/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/isik/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/isik/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -23685,6 +24453,30 @@
         "href": "/ders-notlari/okan/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/okan/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/okan/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/okan/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -24403,6 +25195,30 @@
         "href": "/ders-notlari/kultur/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kultur/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kultur/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kultur/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -25121,6 +25937,30 @@
         "href": "/ders-notlari/aydin/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/aydin/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/aydin/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/aydin/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -25839,6 +26679,30 @@
         "href": "/ders-notlari/gelisim/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/gelisim/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/gelisim/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/gelisim/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -26557,6 +27421,30 @@
         "href": "/ders-notlari/topkapi/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/topkapi/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/topkapi/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/topkapi/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -27275,6 +28163,30 @@
         "href": "/ders-notlari/nisantasi/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/nisantasi/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/nisantasi/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/nisantasi/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -27993,6 +28905,30 @@
         "href": "/ders-notlari/beykent/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/beykent/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/beykent/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/beykent/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -28711,6 +29647,30 @@
         "href": "/ders-notlari/halic/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/halic/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/halic/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/halic/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -29429,6 +30389,30 @@
         "href": "/ders-notlari/fatih-sultan/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/fatih-sultan/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/fatih-sultan/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/fatih-sultan/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -30148,6 +31132,30 @@
         "href": "/ders-notlari/karadeniz-teknik/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/karadeniz-teknik/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/karadeniz-teknik/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/karadeniz-teknik/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -30867,6 +31875,30 @@
         "href": "/ders-notlari/ataturk/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ataturk/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ataturk/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ataturk/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -31585,6 +32617,30 @@
         "href": "/ders-notlari/inonu/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/inonu/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/inonu/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/inonu/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -32303,6 +33359,30 @@
         "href": "/ders-notlari/dicle/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/dicle/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/dicle/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/dicle/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -33021,6 +34101,30 @@
         "href": "/ders-notlari/firat/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/firat/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/firat/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/firat/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -33739,6 +34843,30 @@
         "href": "/ders-notlari/gaziantep/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/gaziantep/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/gaziantep/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/gaziantep/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -34458,6 +35586,30 @@
         "href": "/ders-notlari/suleyman-demirel/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/suleyman-demirel/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/suleyman-demirel/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/suleyman-demirel/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -35176,6 +36328,30 @@
         "href": "/ders-notlari/pamukkale/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/pamukkale/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/pamukkale/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/pamukkale/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -35894,6 +37070,30 @@
         "href": "/ders-notlari/mugla/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/mugla/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/mugla/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/mugla/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -36612,6 +37812,30 @@
         "href": "/ders-notlari/sakarya/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/sakarya/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/sakarya/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/sakarya/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -37330,6 +38554,30 @@
         "href": "/ders-notlari/kocaeli/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kocaeli/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kocaeli/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kocaeli/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -38048,6 +39296,30 @@
         "href": "/ders-notlari/trakya/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/trakya/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/trakya/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/trakya/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -38766,6 +40038,30 @@
         "href": "/ders-notlari/canakkale/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/canakkale/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/canakkale/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/canakkale/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -39484,6 +40780,30 @@
         "href": "/ders-notlari/balikesir/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/balikesir/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/balikesir/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/balikesir/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -40203,6 +41523,30 @@
         "href": "/ders-notlari/afyon/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/afyon/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/afyon/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/afyon/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -40921,6 +42265,30 @@
         "href": "/ders-notlari/dumlupinar/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/dumlupinar/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/dumlupinar/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/dumlupinar/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -41639,6 +43007,30 @@
         "href": "/ders-notlari/eskisehir-osmangazi/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/eskisehir-osmangazi/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/eskisehir-osmangazi/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/eskisehir-osmangazi/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -42358,6 +43750,30 @@
         "href": "/ders-notlari/sivas-cumhuriyet/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/sivas-cumhuriyet/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/sivas-cumhuriyet/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/sivas-cumhuriyet/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -43076,6 +44492,30 @@
         "href": "/ders-notlari/tokat/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/tokat/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/tokat/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/tokat/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -43794,6 +45234,30 @@
         "href": "/ders-notlari/yozgat/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/yozgat/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/yozgat/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/yozgat/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -44512,6 +45976,30 @@
         "href": "/ders-notlari/kirsehir/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kirsehir/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kirsehir/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kirsehir/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -45230,6 +46718,30 @@
         "href": "/ders-notlari/nevsehir/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/nevsehir/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/nevsehir/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/nevsehir/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -45948,6 +47460,30 @@
         "href": "/ders-notlari/mersin/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/mersin/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/mersin/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/mersin/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -46667,6 +48203,30 @@
         "href": "/ders-notlari/hatay/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/hatay/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/hatay/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/hatay/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -47385,6 +48945,30 @@
         "href": "/ders-notlari/kahramanmaras/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kahramanmaras/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kahramanmaras/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kahramanmaras/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -48103,6 +49687,30 @@
         "href": "/ders-notlari/osmaniye/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/osmaniye/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/osmaniye/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/osmaniye/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -48822,6 +50430,30 @@
         "href": "/ders-notlari/samsun/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/samsun/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/samsun/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/samsun/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -49540,6 +51172,30 @@
         "href": "/ders-notlari/ordu/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ordu/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ordu/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ordu/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -50258,6 +51914,30 @@
         "href": "/ders-notlari/giresun/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/giresun/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/giresun/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/giresun/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -50977,6 +52657,30 @@
         "href": "/ders-notlari/rize/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/rize/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/rize/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/rize/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -51695,6 +53399,30 @@
         "href": "/ders-notlari/artvin/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/artvin/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/artvin/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/artvin/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -52415,6 +54143,30 @@
         "href": "/ders-notlari/van-yyu/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/van-yyu/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/van-yyu/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/van-yyu/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -53133,6 +54885,30 @@
         "href": "/ders-notlari/agri/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/agri/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/agri/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/agri/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -53851,6 +55627,30 @@
         "href": "/ders-notlari/kars/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kars/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kars/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kars/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -54569,6 +56369,30 @@
         "href": "/ders-notlari/erzincan/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/erzincan/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/erzincan/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/erzincan/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -55287,6 +57111,30 @@
         "href": "/ders-notlari/bayburt/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/bayburt/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/bayburt/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/bayburt/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -56005,6 +57853,30 @@
         "href": "/ders-notlari/gumushane/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/gumushane/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/gumushane/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/gumushane/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -56723,6 +58595,30 @@
         "href": "/ders-notlari/bingol/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/bingol/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/bingol/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/bingol/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -57441,6 +59337,30 @@
         "href": "/ders-notlari/mus/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/mus/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/mus/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/mus/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -58159,6 +60079,30 @@
         "href": "/ders-notlari/hakkari/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/hakkari/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/hakkari/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/hakkari/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -58877,6 +60821,30 @@
         "href": "/ders-notlari/sirnak/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/sirnak/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/sirnak/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/sirnak/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -59596,6 +61564,30 @@
         "href": "/ders-notlari/mardin/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/mardin/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/mardin/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/mardin/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -60314,6 +62306,30 @@
         "href": "/ders-notlari/batman/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/batman/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/batman/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/batman/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -61032,6 +63048,30 @@
         "href": "/ders-notlari/siirt/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/siirt/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/siirt/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/siirt/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -61750,6 +63790,30 @@
         "href": "/ders-notlari/adiyaman/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/adiyaman/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/adiyaman/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/adiyaman/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -62468,6 +64532,30 @@
         "href": "/ders-notlari/kilis/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kilis/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kilis/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kilis/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -63186,6 +65274,30 @@
         "href": "/ders-notlari/igdir/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/igdir/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/igdir/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/igdir/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -63904,6 +66016,30 @@
         "href": "/ders-notlari/ardahan/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ardahan/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ardahan/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ardahan/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -64622,6 +66758,30 @@
         "href": "/ders-notlari/bilecik/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/bilecik/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/bilecik/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/bilecik/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -65341,6 +67501,30 @@
         "href": "/ders-notlari/bolu/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/bolu/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/bolu/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/bolu/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -66059,6 +68243,30 @@
         "href": "/ders-notlari/duzce/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/duzce/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/duzce/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/duzce/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -66777,6 +68985,30 @@
         "href": "/ders-notlari/zonguldak/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/zonguldak/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/zonguldak/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/zonguldak/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -67495,6 +69727,30 @@
         "href": "/ders-notlari/karabuk/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/karabuk/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/karabuk/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/karabuk/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -68213,6 +70469,30 @@
         "href": "/ders-notlari/kastamonu/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kastamonu/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kastamonu/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kastamonu/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -68931,6 +71211,30 @@
         "href": "/ders-notlari/sinop/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/sinop/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/sinop/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/sinop/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -69650,6 +71954,30 @@
         "href": "/ders-notlari/corum/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/corum/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/corum/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/corum/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -70368,6 +72696,30 @@
         "href": "/ders-notlari/amasya/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/amasya/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/amasya/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/amasya/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -71086,6 +73438,30 @@
         "href": "/ders-notlari/cankiri/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/cankiri/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/cankiri/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/cankiri/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -71804,6 +74180,30 @@
         "href": "/ders-notlari/kirikkale/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kirikkale/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kirikkale/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kirikkale/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -72522,6 +74922,30 @@
         "href": "/ders-notlari/aksaray/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/aksaray/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/aksaray/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/aksaray/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -73240,6 +75664,30 @@
         "href": "/ders-notlari/nigde/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/nigde/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/nigde/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/nigde/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -73958,6 +76406,30 @@
         "href": "/ders-notlari/konya-teknik/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/konya-teknik/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/konya-teknik/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/konya-teknik/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -74676,6 +77148,30 @@
         "href": "/ders-notlari/karaman/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/karaman/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/karaman/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/karaman/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -75394,6 +77890,30 @@
         "href": "/ders-notlari/usak/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/usak/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/usak/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/usak/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -76113,6 +78633,30 @@
         "href": "/ders-notlari/manisa/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/manisa/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/manisa/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/manisa/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -76831,6 +79375,30 @@
         "href": "/ders-notlari/aydin-adu/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/aydin-adu/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/aydin-adu/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/aydin-adu/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -77549,6 +80117,30 @@
         "href": "/ders-notlari/tekirdag/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/tekirdag/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/tekirdag/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/tekirdag/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -78267,6 +80859,30 @@
         "href": "/ders-notlari/kirklareli/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kirklareli/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kirklareli/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kirklareli/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -78985,6 +81601,30 @@
         "href": "/ders-notlari/atilim/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/atilim/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/atilim/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/atilim/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -79703,6 +82343,30 @@
         "href": "/ders-notlari/cankaya/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/cankaya/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/cankaya/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/cankaya/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -80421,6 +83085,30 @@
         "href": "/ders-notlari/ufuk/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ufuk/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ufuk/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ufuk/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -81139,6 +83827,30 @@
         "href": "/ders-notlari/yasar/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/yasar/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/yasar/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/yasar/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -81857,6 +84569,30 @@
         "href": "/ders-notlari/izmir-ekonomi/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/izmir-ekonomi/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/izmir-ekonomi/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/izmir-ekonomi/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -82575,6 +85311,30 @@
         "href": "/ders-notlari/tinaztepe/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/tinaztepe/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/tinaztepe/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/tinaztepe/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -83293,6 +86053,30 @@
         "href": "/ders-notlari/asbu-vakif/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/asbu-vakif/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/asbu-vakif/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/asbu-vakif/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -84011,6 +86795,30 @@
         "href": "/ders-notlari/hasan-kalyoncu/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/hasan-kalyoncu/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/hasan-kalyoncu/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/hasan-kalyoncu/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -84729,6 +87537,30 @@
         "href": "/ders-notlari/sanko/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/sanko/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/sanko/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/sanko/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -85447,6 +88279,30 @@
         "href": "/ders-notlari/toros/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/toros/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/toros/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/toros/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -86165,6 +89021,30 @@
         "href": "/ders-notlari/cag/hukuk-ingilizcesi-yillik",
         "ready": true,
         "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "saglik-hukuku-donem-1",
+        "title": "Sağlık Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/cag/saglik-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-donem-2",
+        "title": "Sağlık Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/cag/saglik-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
+      },
+      {
+        "code": "saglik-hukuku-yillik",
+        "title": "Sağlık Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/cag/saglik-hukuku-yillik",
+        "ready": true,
+        "variantOf": "saglik-hukuku"
       }
     ],
     "seoParagraphs": [

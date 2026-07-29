@@ -3,7 +3,7 @@
   "wave": "all",
   "universityCount": 120,
   "hubCount": 120,
-  "noteCount": 10560,
+  "noteCount": 10920,
   "universities": [
     {
       "slug": "ankara-yildirim-beyazit",
@@ -89166,6 +89166,3246 @@
       "href": "/ders-notlari/cag/hukuk-ingilizcesi-yillik",
       "variantOf": "hukuk-ingilizcesi",
       "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "ankara-yildirim-beyazit__saglik-hukuku-donem-1",
+      "title": "AYBÜ Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "ankara-yildirim-beyazit__saglik-hukuku-donem-2",
+      "title": "AYBÜ Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "ankara-yildirim-beyazit__saglik-hukuku-yillik",
+      "title": "AYBÜ Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "ankara__saglik-hukuku-donem-1",
+      "title": "AÜHF Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "ankara__saglik-hukuku-donem-2",
+      "title": "AÜHF Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "ankara__saglik-hukuku-yillik",
+      "title": "AÜHF Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "istanbul__saglik-hukuku-donem-1",
+      "title": "İÜHF Sağlık Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "istanbul__saglik-hukuku-donem-2",
+      "title": "İÜHF Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "istanbul__saglik-hukuku-yillik",
+      "title": "İÜHF Sağlık Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "marmara__saglik-hukuku-donem-1",
+      "title": "MÜHF Sağlık Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "marmara__saglik-hukuku-donem-2",
+      "title": "MÜHF Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "marmara__saglik-hukuku-yillik",
+      "title": "MÜHF Sağlık Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "galatasaray__saglik-hukuku-donem-1",
+      "title": "GSÜ Sağlık Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "galatasaray__saglik-hukuku-donem-2",
+      "title": "GSÜ Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "galatasaray__saglik-hukuku-yillik",
+      "title": "GSÜ Sağlık Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "dokuz-eylul__saglik-hukuku-donem-1",
+      "title": "DEÜ Sağlık Hukuku 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "dokuz-eylul__saglik-hukuku-donem-2",
+      "title": "DEÜ Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "dokuz-eylul__saglik-hukuku-yillik",
+      "title": "DEÜ Sağlık Hukuku Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "hacettepe__saglik-hukuku-donem-1",
+      "title": "Hacettepe Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "hacettepe__saglik-hukuku-donem-2",
+      "title": "Hacettepe Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "hacettepe__saglik-hukuku-yillik",
+      "title": "Hacettepe Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "ankara-hacibayram__saglik-hukuku-donem-1",
+      "title": "AHBV Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "ankara-hacibayram__saglik-hukuku-donem-2",
+      "title": "AHBV Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "ankara-hacibayram__saglik-hukuku-yillik",
+      "title": "AHBV Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "bilkent__saglik-hukuku-donem-1",
+      "title": "Bilkent Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "bilkent__saglik-hukuku-donem-2",
+      "title": "Bilkent Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "bilkent__saglik-hukuku-yillik",
+      "title": "Bilkent Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "koc__saglik-hukuku-donem-1",
+      "title": "Koç Sağlık Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "koc__saglik-hukuku-donem-2",
+      "title": "Koç Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "koc__saglik-hukuku-yillik",
+      "title": "Koç Sağlık Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "tobb-etu__saglik-hukuku-donem-1",
+      "title": "TOBB ETÜ Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "tobb-etu__saglik-hukuku-donem-2",
+      "title": "TOBB ETÜ Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "tobb-etu__saglik-hukuku-yillik",
+      "title": "TOBB ETÜ Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "bogazici__saglik-hukuku-donem-1",
+      "title": "BÜ Sağlık Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "bogazici__saglik-hukuku-donem-2",
+      "title": "BÜ Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "bogazici__saglik-hukuku-yillik",
+      "title": "BÜ Sağlık Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "ege__saglik-hukuku-donem-1",
+      "title": "Ege Sağlık Hukuku 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "ege__saglik-hukuku-donem-2",
+      "title": "Ege Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "ege__saglik-hukuku-yillik",
+      "title": "Ege Sağlık Hukuku Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "akdeniz__saglik-hukuku-donem-1",
+      "title": "Akdeniz Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "akdeniz__saglik-hukuku-donem-2",
+      "title": "Akdeniz Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "akdeniz__saglik-hukuku-yillik",
+      "title": "Akdeniz Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "selcuk__saglik-hukuku-donem-1",
+      "title": "Selçuk Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "selcuk__saglik-hukuku-donem-2",
+      "title": "Selçuk Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "selcuk__saglik-hukuku-yillik",
+      "title": "Selçuk Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "erciyes__saglik-hukuku-donem-1",
+      "title": "Erciyes Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "erciyes__saglik-hukuku-donem-2",
+      "title": "Erciyes Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "erciyes__saglik-hukuku-yillik",
+      "title": "Erciyes Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "uludag__saglik-hukuku-donem-1",
+      "title": "Uludağ Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "uludag__saglik-hukuku-donem-2",
+      "title": "Uludağ Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "uludag__saglik-hukuku-yillik",
+      "title": "Uludağ Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "cukurova__saglik-hukuku-donem-1",
+      "title": "Çukurova Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "cukurova__saglik-hukuku-donem-2",
+      "title": "Çukurova Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "cukurova__saglik-hukuku-yillik",
+      "title": "Çukurova Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "anadolu__saglik-hukuku-donem-1",
+      "title": "Anadolu Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "anadolu__saglik-hukuku-donem-2",
+      "title": "Anadolu Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "anadolu__saglik-hukuku-yillik",
+      "title": "Anadolu Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "gazi-ankara__saglik-hukuku-donem-1",
+      "title": "ASBÜ Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "gazi-ankara__saglik-hukuku-donem-2",
+      "title": "ASBÜ Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "gazi-ankara__saglik-hukuku-yillik",
+      "title": "ASBÜ Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "yildiz-teknik__saglik-hukuku-donem-1",
+      "title": "YTÜ Sağlık Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "yildiz-teknik__saglik-hukuku-donem-2",
+      "title": "YTÜ Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "yildiz-teknik__saglik-hukuku-yillik",
+      "title": "YTÜ Sağlık Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "istanbul-medeniyet__saglik-hukuku-donem-1",
+      "title": "Medeniyet Sağlık Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "istanbul-medeniyet__saglik-hukuku-donem-2",
+      "title": "Medeniyet Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "istanbul-medeniyet__saglik-hukuku-yillik",
+      "title": "Medeniyet Sağlık Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "bahcesehir__saglik-hukuku-donem-1",
+      "title": "BAU Sağlık Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "bahcesehir__saglik-hukuku-donem-2",
+      "title": "BAU Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "bahcesehir__saglik-hukuku-yillik",
+      "title": "BAU Sağlık Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "yeditepe__saglik-hukuku-donem-1",
+      "title": "Yeditepe Sağlık Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "yeditepe__saglik-hukuku-donem-2",
+      "title": "Yeditepe Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "yeditepe__saglik-hukuku-yillik",
+      "title": "Yeditepe Sağlık Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "ozyegin__saglik-hukuku-donem-1",
+      "title": "Özyeğin Sağlık Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "ozyegin__saglik-hukuku-donem-2",
+      "title": "Özyeğin Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "ozyegin__saglik-hukuku-yillik",
+      "title": "Özyeğin Sağlık Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "kadir-has__saglik-hukuku-donem-1",
+      "title": "KHAS Sağlık Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "kadir-has__saglik-hukuku-donem-2",
+      "title": "KHAS Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "kadir-has__saglik-hukuku-yillik",
+      "title": "KHAS Sağlık Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "istanbul-bilgi__saglik-hukuku-donem-1",
+      "title": "Bilgi Sağlık Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "istanbul-bilgi__saglik-hukuku-donem-2",
+      "title": "Bilgi Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "istanbul-bilgi__saglik-hukuku-yillik",
+      "title": "Bilgi Sağlık Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "mehmet-akif__saglik-hukuku-donem-1",
+      "title": "Medipol Sağlık Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "mehmet-akif__saglik-hukuku-donem-2",
+      "title": "Medipol Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "mehmet-akif__saglik-hukuku-yillik",
+      "title": "Medipol Sağlık Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "altinbas__saglik-hukuku-donem-1",
+      "title": "Altınbaş Sağlık Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "altinbas__saglik-hukuku-donem-2",
+      "title": "Altınbaş Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "altinbas__saglik-hukuku-yillik",
+      "title": "Altınbaş Sağlık Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "maltepe__saglik-hukuku-donem-1",
+      "title": "Maltepe Sağlık Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "maltepe__saglik-hukuku-donem-2",
+      "title": "Maltepe Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "maltepe__saglik-hukuku-yillik",
+      "title": "Maltepe Sağlık Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "dogus__saglik-hukuku-donem-1",
+      "title": "Doğuş Sağlık Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "dogus__saglik-hukuku-donem-2",
+      "title": "Doğuş Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "dogus__saglik-hukuku-yillik",
+      "title": "Doğuş Sağlık Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "isik__saglik-hukuku-donem-1",
+      "title": "Işık Sağlık Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "isik__saglik-hukuku-donem-2",
+      "title": "Işık Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "isik__saglik-hukuku-yillik",
+      "title": "Işık Sağlık Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "okan__saglik-hukuku-donem-1",
+      "title": "Okan Sağlık Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "okan__saglik-hukuku-donem-2",
+      "title": "Okan Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "okan__saglik-hukuku-yillik",
+      "title": "Okan Sağlık Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "kultur__saglik-hukuku-donem-1",
+      "title": "İKÜ Sağlık Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "kultur__saglik-hukuku-donem-2",
+      "title": "İKÜ Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "kultur__saglik-hukuku-yillik",
+      "title": "İKÜ Sağlık Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "aydin__saglik-hukuku-donem-1",
+      "title": "İAÜ Sağlık Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "aydin__saglik-hukuku-donem-2",
+      "title": "İAÜ Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "aydin__saglik-hukuku-yillik",
+      "title": "İAÜ Sağlık Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "gelisim__saglik-hukuku-donem-1",
+      "title": "Gelişim Sağlık Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "gelisim__saglik-hukuku-donem-2",
+      "title": "Gelişim Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "gelisim__saglik-hukuku-yillik",
+      "title": "Gelişim Sağlık Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "topkapi__saglik-hukuku-donem-1",
+      "title": "Topkapı Sağlık Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "topkapi__saglik-hukuku-donem-2",
+      "title": "Topkapı Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "topkapi__saglik-hukuku-yillik",
+      "title": "Topkapı Sağlık Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "nisantasi__saglik-hukuku-donem-1",
+      "title": "Nişantaşı Sağlık Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "nisantasi__saglik-hukuku-donem-2",
+      "title": "Nişantaşı Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "nisantasi__saglik-hukuku-yillik",
+      "title": "Nişantaşı Sağlık Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "beykent__saglik-hukuku-donem-1",
+      "title": "Beykent Sağlık Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "beykent__saglik-hukuku-donem-2",
+      "title": "Beykent Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "beykent__saglik-hukuku-yillik",
+      "title": "Beykent Sağlık Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "halic__saglik-hukuku-donem-1",
+      "title": "Haliç Sağlık Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "halic__saglik-hukuku-donem-2",
+      "title": "Haliç Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "halic__saglik-hukuku-yillik",
+      "title": "Haliç Sağlık Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "fatih-sultan__saglik-hukuku-donem-1",
+      "title": "FSMVÜ Sağlık Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "fatih-sultan__saglik-hukuku-donem-2",
+      "title": "FSMVÜ Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "fatih-sultan__saglik-hukuku-yillik",
+      "title": "FSMVÜ Sağlık Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "karadeniz-teknik__saglik-hukuku-donem-1",
+      "title": "KTÜ Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "karadeniz-teknik__saglik-hukuku-donem-2",
+      "title": "KTÜ Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "karadeniz-teknik__saglik-hukuku-yillik",
+      "title": "KTÜ Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "ataturk__saglik-hukuku-donem-1",
+      "title": "Atatürk Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "ataturk__saglik-hukuku-donem-2",
+      "title": "Atatürk Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "ataturk__saglik-hukuku-yillik",
+      "title": "Atatürk Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "inonu__saglik-hukuku-donem-1",
+      "title": "İnönü Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "inonu__saglik-hukuku-donem-2",
+      "title": "İnönü Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "inonu__saglik-hukuku-yillik",
+      "title": "İnönü Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "dicle__saglik-hukuku-donem-1",
+      "title": "Dicle Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "dicle__saglik-hukuku-donem-2",
+      "title": "Dicle Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "dicle__saglik-hukuku-yillik",
+      "title": "Dicle Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "firat__saglik-hukuku-donem-1",
+      "title": "Fırat Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "firat__saglik-hukuku-donem-2",
+      "title": "Fırat Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "firat__saglik-hukuku-yillik",
+      "title": "Fırat Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "gaziantep__saglik-hukuku-donem-1",
+      "title": "GAÜN Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "gaziantep__saglik-hukuku-donem-2",
+      "title": "GAÜN Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "gaziantep__saglik-hukuku-yillik",
+      "title": "GAÜN Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "suleyman-demirel__saglik-hukuku-donem-1",
+      "title": "SDÜ Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "suleyman-demirel__saglik-hukuku-donem-2",
+      "title": "SDÜ Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "suleyman-demirel__saglik-hukuku-yillik",
+      "title": "SDÜ Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "pamukkale__saglik-hukuku-donem-1",
+      "title": "PAÜ Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "pamukkale__saglik-hukuku-donem-2",
+      "title": "PAÜ Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "pamukkale__saglik-hukuku-yillik",
+      "title": "PAÜ Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "mugla__saglik-hukuku-donem-1",
+      "title": "MSKU Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "mugla__saglik-hukuku-donem-2",
+      "title": "MSKU Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "mugla__saglik-hukuku-yillik",
+      "title": "MSKU Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "sakarya__saglik-hukuku-donem-1",
+      "title": "SAÜ Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "sakarya__saglik-hukuku-donem-2",
+      "title": "SAÜ Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "sakarya__saglik-hukuku-yillik",
+      "title": "SAÜ Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "kocaeli__saglik-hukuku-donem-1",
+      "title": "KOÜ Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "kocaeli__saglik-hukuku-donem-2",
+      "title": "KOÜ Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "kocaeli__saglik-hukuku-yillik",
+      "title": "KOÜ Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "trakya__saglik-hukuku-donem-1",
+      "title": "Trakya Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "trakya__saglik-hukuku-donem-2",
+      "title": "Trakya Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "trakya__saglik-hukuku-yillik",
+      "title": "Trakya Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "canakkale__saglik-hukuku-donem-1",
+      "title": "ÇOMÜ Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "canakkale__saglik-hukuku-donem-2",
+      "title": "ÇOMÜ Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "canakkale__saglik-hukuku-yillik",
+      "title": "ÇOMÜ Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "balikesir__saglik-hukuku-donem-1",
+      "title": "BAÜN Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "balikesir__saglik-hukuku-donem-2",
+      "title": "BAÜN Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "balikesir__saglik-hukuku-yillik",
+      "title": "BAÜN Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "afyon__saglik-hukuku-donem-1",
+      "title": "AKÜ Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "afyon__saglik-hukuku-donem-2",
+      "title": "AKÜ Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "afyon__saglik-hukuku-yillik",
+      "title": "AKÜ Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "dumlupinar__saglik-hukuku-donem-1",
+      "title": "DPÜ Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "dumlupinar__saglik-hukuku-donem-2",
+      "title": "DPÜ Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "dumlupinar__saglik-hukuku-yillik",
+      "title": "DPÜ Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "eskisehir-osmangazi__saglik-hukuku-donem-1",
+      "title": "ESOGÜ Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "eskisehir-osmangazi__saglik-hukuku-donem-2",
+      "title": "ESOGÜ Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "eskisehir-osmangazi__saglik-hukuku-yillik",
+      "title": "ESOGÜ Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "sivas-cumhuriyet__saglik-hukuku-donem-1",
+      "title": "SCÜ Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "sivas-cumhuriyet__saglik-hukuku-donem-2",
+      "title": "SCÜ Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "sivas-cumhuriyet__saglik-hukuku-yillik",
+      "title": "SCÜ Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "tokat__saglik-hukuku-donem-1",
+      "title": "TOGÜ Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "tokat__saglik-hukuku-donem-2",
+      "title": "TOGÜ Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "tokat__saglik-hukuku-yillik",
+      "title": "TOGÜ Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "yozgat__saglik-hukuku-donem-1",
+      "title": "Bozok Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "yozgat__saglik-hukuku-donem-2",
+      "title": "Bozok Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "yozgat__saglik-hukuku-yillik",
+      "title": "Bozok Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "kirsehir__saglik-hukuku-donem-1",
+      "title": "AHİEVRAN Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "kirsehir__saglik-hukuku-donem-2",
+      "title": "AHİEVRAN Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "kirsehir__saglik-hukuku-yillik",
+      "title": "AHİEVRAN Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "nevsehir__saglik-hukuku-donem-1",
+      "title": "NEVÜ Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "nevsehir__saglik-hukuku-donem-2",
+      "title": "NEVÜ Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "nevsehir__saglik-hukuku-yillik",
+      "title": "NEVÜ Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "mersin__saglik-hukuku-donem-1",
+      "title": "MEÜ Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "mersin__saglik-hukuku-donem-2",
+      "title": "MEÜ Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "mersin__saglik-hukuku-yillik",
+      "title": "MEÜ Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "hatay__saglik-hukuku-donem-1",
+      "title": "MKÜ Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "hatay__saglik-hukuku-donem-2",
+      "title": "MKÜ Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "hatay__saglik-hukuku-yillik",
+      "title": "MKÜ Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "kahramanmaras__saglik-hukuku-donem-1",
+      "title": "KSÜ Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "kahramanmaras__saglik-hukuku-donem-2",
+      "title": "KSÜ Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "kahramanmaras__saglik-hukuku-yillik",
+      "title": "KSÜ Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "osmaniye__saglik-hukuku-donem-1",
+      "title": "OKÜ Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "osmaniye__saglik-hukuku-donem-2",
+      "title": "OKÜ Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "osmaniye__saglik-hukuku-yillik",
+      "title": "OKÜ Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "samsun__saglik-hukuku-donem-1",
+      "title": "OMÜ Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "samsun__saglik-hukuku-donem-2",
+      "title": "OMÜ Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "samsun__saglik-hukuku-yillik",
+      "title": "OMÜ Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "ordu__saglik-hukuku-donem-1",
+      "title": "ODÜ Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "ordu__saglik-hukuku-donem-2",
+      "title": "ODÜ Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "ordu__saglik-hukuku-yillik",
+      "title": "ODÜ Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "giresun__saglik-hukuku-donem-1",
+      "title": "GÜ Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "giresun__saglik-hukuku-donem-2",
+      "title": "GÜ Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "giresun__saglik-hukuku-yillik",
+      "title": "GÜ Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "rize__saglik-hukuku-donem-1",
+      "title": "RTEÜ Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "rize__saglik-hukuku-donem-2",
+      "title": "RTEÜ Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "rize__saglik-hukuku-yillik",
+      "title": "RTEÜ Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "artvin__saglik-hukuku-donem-1",
+      "title": "AÇÜ Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "artvin__saglik-hukuku-donem-2",
+      "title": "AÇÜ Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "artvin__saglik-hukuku-yillik",
+      "title": "AÇÜ Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "van-yyu__saglik-hukuku-donem-1",
+      "title": "YYÜ Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "van-yyu__saglik-hukuku-donem-2",
+      "title": "YYÜ Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "van-yyu__saglik-hukuku-yillik",
+      "title": "YYÜ Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "agri__saglik-hukuku-donem-1",
+      "title": "AİÇÜ Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "agri__saglik-hukuku-donem-2",
+      "title": "AİÇÜ Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "agri__saglik-hukuku-yillik",
+      "title": "AİÇÜ Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "kars__saglik-hukuku-donem-1",
+      "title": "Kafkas Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "kars__saglik-hukuku-donem-2",
+      "title": "Kafkas Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "kars__saglik-hukuku-yillik",
+      "title": "Kafkas Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "erzincan__saglik-hukuku-donem-1",
+      "title": "EBYÜ Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "erzincan__saglik-hukuku-donem-2",
+      "title": "EBYÜ Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "erzincan__saglik-hukuku-yillik",
+      "title": "EBYÜ Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "bayburt__saglik-hukuku-donem-1",
+      "title": "Bayburt Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "bayburt__saglik-hukuku-donem-2",
+      "title": "Bayburt Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "bayburt__saglik-hukuku-yillik",
+      "title": "Bayburt Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "gumushane__saglik-hukuku-donem-1",
+      "title": "Gümüşhane Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "gumushane__saglik-hukuku-donem-2",
+      "title": "Gümüşhane Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "gumushane__saglik-hukuku-yillik",
+      "title": "Gümüşhane Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "bingol__saglik-hukuku-donem-1",
+      "title": "Bingöl Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "bingol__saglik-hukuku-donem-2",
+      "title": "Bingöl Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "bingol__saglik-hukuku-yillik",
+      "title": "Bingöl Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "mus__saglik-hukuku-donem-1",
+      "title": "Muş Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "mus__saglik-hukuku-donem-2",
+      "title": "Muş Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "mus__saglik-hukuku-yillik",
+      "title": "Muş Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "hakkari__saglik-hukuku-donem-1",
+      "title": "Hakkâri Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "hakkari__saglik-hukuku-donem-2",
+      "title": "Hakkâri Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "hakkari__saglik-hukuku-yillik",
+      "title": "Hakkâri Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "sirnak__saglik-hukuku-donem-1",
+      "title": "Şırnak Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "sirnak__saglik-hukuku-donem-2",
+      "title": "Şırnak Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "sirnak__saglik-hukuku-yillik",
+      "title": "Şırnak Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "mardin__saglik-hukuku-donem-1",
+      "title": "Artuklu Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "mardin__saglik-hukuku-donem-2",
+      "title": "Artuklu Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "mardin__saglik-hukuku-yillik",
+      "title": "Artuklu Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "batman__saglik-hukuku-donem-1",
+      "title": "Batman Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "batman__saglik-hukuku-donem-2",
+      "title": "Batman Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "batman__saglik-hukuku-yillik",
+      "title": "Batman Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "siirt__saglik-hukuku-donem-1",
+      "title": "Siirt Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "siirt__saglik-hukuku-donem-2",
+      "title": "Siirt Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "siirt__saglik-hukuku-yillik",
+      "title": "Siirt Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "adiyaman__saglik-hukuku-donem-1",
+      "title": "Adıyaman Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "adiyaman__saglik-hukuku-donem-2",
+      "title": "Adıyaman Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "adiyaman__saglik-hukuku-yillik",
+      "title": "Adıyaman Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "kilis__saglik-hukuku-donem-1",
+      "title": "Kilis Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "kilis__saglik-hukuku-donem-2",
+      "title": "Kilis Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "kilis__saglik-hukuku-yillik",
+      "title": "Kilis Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "igdir__saglik-hukuku-donem-1",
+      "title": "Iğdır Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "igdir__saglik-hukuku-donem-2",
+      "title": "Iğdır Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "igdir__saglik-hukuku-yillik",
+      "title": "Iğdır Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "ardahan__saglik-hukuku-donem-1",
+      "title": "Ardahan Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "ardahan__saglik-hukuku-donem-2",
+      "title": "Ardahan Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "ardahan__saglik-hukuku-yillik",
+      "title": "Ardahan Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "bilecik__saglik-hukuku-donem-1",
+      "title": "BŞEÜ Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "bilecik__saglik-hukuku-donem-2",
+      "title": "BŞEÜ Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "bilecik__saglik-hukuku-yillik",
+      "title": "BŞEÜ Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "bolu__saglik-hukuku-donem-1",
+      "title": "BAİBÜ Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "bolu__saglik-hukuku-donem-2",
+      "title": "BAİBÜ Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "bolu__saglik-hukuku-yillik",
+      "title": "BAİBÜ Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "duzce__saglik-hukuku-donem-1",
+      "title": "Düzce Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "duzce__saglik-hukuku-donem-2",
+      "title": "Düzce Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "duzce__saglik-hukuku-yillik",
+      "title": "Düzce Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "zonguldak__saglik-hukuku-donem-1",
+      "title": "BEÜN Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "zonguldak__saglik-hukuku-donem-2",
+      "title": "BEÜN Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "zonguldak__saglik-hukuku-yillik",
+      "title": "BEÜN Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "karabuk__saglik-hukuku-donem-1",
+      "title": "KBÜ Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "karabuk__saglik-hukuku-donem-2",
+      "title": "KBÜ Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "karabuk__saglik-hukuku-yillik",
+      "title": "KBÜ Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "kastamonu__saglik-hukuku-donem-1",
+      "title": "KÜ Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "kastamonu__saglik-hukuku-donem-2",
+      "title": "KÜ Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "kastamonu__saglik-hukuku-yillik",
+      "title": "KÜ Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "sinop__saglik-hukuku-donem-1",
+      "title": "Sinop Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "sinop__saglik-hukuku-donem-2",
+      "title": "Sinop Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "sinop__saglik-hukuku-yillik",
+      "title": "Sinop Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "corum__saglik-hukuku-donem-1",
+      "title": "Hitit Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "corum__saglik-hukuku-donem-2",
+      "title": "Hitit Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "corum__saglik-hukuku-yillik",
+      "title": "Hitit Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "amasya__saglik-hukuku-donem-1",
+      "title": "Amasya Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "amasya__saglik-hukuku-donem-2",
+      "title": "Amasya Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "amasya__saglik-hukuku-yillik",
+      "title": "Amasya Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "cankiri__saglik-hukuku-donem-1",
+      "title": "Karatekin Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "cankiri__saglik-hukuku-donem-2",
+      "title": "Karatekin Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "cankiri__saglik-hukuku-yillik",
+      "title": "Karatekin Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "kirikkale__saglik-hukuku-donem-1",
+      "title": "Kırıkkale Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "kirikkale__saglik-hukuku-donem-2",
+      "title": "Kırıkkale Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "kirikkale__saglik-hukuku-yillik",
+      "title": "Kırıkkale Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "aksaray__saglik-hukuku-donem-1",
+      "title": "Aksaray Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "aksaray__saglik-hukuku-donem-2",
+      "title": "Aksaray Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "aksaray__saglik-hukuku-yillik",
+      "title": "Aksaray Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "nigde__saglik-hukuku-donem-1",
+      "title": "ÖHÜ Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "nigde__saglik-hukuku-donem-2",
+      "title": "ÖHÜ Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "nigde__saglik-hukuku-yillik",
+      "title": "ÖHÜ Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "konya-teknik__saglik-hukuku-donem-1",
+      "title": "NEÜ Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "konya-teknik__saglik-hukuku-donem-2",
+      "title": "NEÜ Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "konya-teknik__saglik-hukuku-yillik",
+      "title": "NEÜ Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "karaman__saglik-hukuku-donem-1",
+      "title": "KMÜ Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "karaman__saglik-hukuku-donem-2",
+      "title": "KMÜ Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "karaman__saglik-hukuku-yillik",
+      "title": "KMÜ Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "usak__saglik-hukuku-donem-1",
+      "title": "Uşak Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "usak__saglik-hukuku-donem-2",
+      "title": "Uşak Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "usak__saglik-hukuku-yillik",
+      "title": "Uşak Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "manisa__saglik-hukuku-donem-1",
+      "title": "MCBÜ Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "manisa__saglik-hukuku-donem-2",
+      "title": "MCBÜ Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "manisa__saglik-hukuku-yillik",
+      "title": "MCBÜ Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "aydin-adu__saglik-hukuku-donem-1",
+      "title": "ADÜ Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "aydin-adu__saglik-hukuku-donem-2",
+      "title": "ADÜ Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "aydin-adu__saglik-hukuku-yillik",
+      "title": "ADÜ Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "tekirdag__saglik-hukuku-donem-1",
+      "title": "NKÜ Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "tekirdag__saglik-hukuku-donem-2",
+      "title": "NKÜ Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "tekirdag__saglik-hukuku-yillik",
+      "title": "NKÜ Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "kirklareli__saglik-hukuku-donem-1",
+      "title": "Kırklareli Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "kirklareli__saglik-hukuku-donem-2",
+      "title": "Kırklareli Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "kirklareli__saglik-hukuku-yillik",
+      "title": "Kırklareli Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "atilim__saglik-hukuku-donem-1",
+      "title": "Atılım Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "atilim__saglik-hukuku-donem-2",
+      "title": "Atılım Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "atilim__saglik-hukuku-yillik",
+      "title": "Atılım Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "cankaya__saglik-hukuku-donem-1",
+      "title": "Çankaya Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "cankaya__saglik-hukuku-donem-2",
+      "title": "Çankaya Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "cankaya__saglik-hukuku-yillik",
+      "title": "Çankaya Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "ufuk__saglik-hukuku-donem-1",
+      "title": "Ufuk Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "ufuk__saglik-hukuku-donem-2",
+      "title": "Ufuk Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "ufuk__saglik-hukuku-yillik",
+      "title": "Ufuk Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "yasar__saglik-hukuku-donem-1",
+      "title": "Yaşar Sağlık Hukuku 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "yasar__saglik-hukuku-donem-2",
+      "title": "Yaşar Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "yasar__saglik-hukuku-yillik",
+      "title": "Yaşar Sağlık Hukuku Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "izmir-ekonomi__saglik-hukuku-donem-1",
+      "title": "İEÜ Sağlık Hukuku 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "izmir-ekonomi__saglik-hukuku-donem-2",
+      "title": "İEÜ Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "izmir-ekonomi__saglik-hukuku-yillik",
+      "title": "İEÜ Sağlık Hukuku Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "tinaztepe__saglik-hukuku-donem-1",
+      "title": "Tınaztepe Sağlık Hukuku 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "tinaztepe__saglik-hukuku-donem-2",
+      "title": "Tınaztepe Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "tinaztepe__saglik-hukuku-yillik",
+      "title": "Tınaztepe Sağlık Hukuku Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "asbu-vakif__saglik-hukuku-donem-1",
+      "title": "ABÜ Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "asbu-vakif__saglik-hukuku-donem-2",
+      "title": "ABÜ Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "asbu-vakif__saglik-hukuku-yillik",
+      "title": "ABÜ Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "hasan-kalyoncu__saglik-hukuku-donem-1",
+      "title": "HKÜ Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "hasan-kalyoncu__saglik-hukuku-donem-2",
+      "title": "HKÜ Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "hasan-kalyoncu__saglik-hukuku-yillik",
+      "title": "HKÜ Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "sanko__saglik-hukuku-donem-1",
+      "title": "Sanko Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "sanko__saglik-hukuku-donem-2",
+      "title": "Sanko Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "sanko__saglik-hukuku-yillik",
+      "title": "Sanko Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "toros__saglik-hukuku-donem-1",
+      "title": "Toros Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "toros__saglik-hukuku-donem-2",
+      "title": "Toros Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "toros__saglik-hukuku-yillik",
+      "title": "Toros Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "saglik-hukuku-donem-1",
+      "slug": "cag__saglik-hukuku-donem-1",
+      "title": "Çağ Sağlık Hukuku 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/saglik-hukuku-donem-1",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "saglik-hukuku-donem-2",
+      "slug": "cag__saglik-hukuku-donem-2",
+      "title": "Çağ Sağlık Hukuku 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/saglik-hukuku-donem-2",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "saglik-hukuku-yillik",
+      "slug": "cag__saglik-hukuku-yillik",
+      "title": "Çağ Sağlık Hukuku Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/saglik-hukuku-yillik",
+      "variantOf": "saglik-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
     }
   ],
   "borclarGenelTripleAt": "2026-07-29T20:05:58.703Z",
@@ -89187,5 +92427,6 @@
   "idareHukukuTripleAt": "2026-07-29T21:01:24.134Z",
   "idariYargilamaTripleAt": "2026-07-29T21:04:37.496Z",
   "hukukFelsefesiTripleAt": "2026-07-29T21:08:50.747Z",
-  "hukukIngilizcesiTripleAt": "2026-07-29T21:12:01.835Z"
+  "hukukIngilizcesiTripleAt": "2026-07-29T21:12:01.835Z",
+  "saglikHukukuTripleAt": "2026-07-29T21:14:42.533Z"
 }
