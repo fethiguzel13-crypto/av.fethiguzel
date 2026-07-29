@@ -3,7 +3,7 @@
   "wave": "all",
   "universityCount": 120,
   "hubCount": 120,
-  "noteCount": 12720,
+  "noteCount": 13080,
   "universities": [
     {
       "slug": "ankara-yildirim-beyazit",
@@ -108606,6 +108606,3246 @@
       "href": "/ders-notlari/cag/hukuka-giris-yillik",
       "variantOf": "hukuka-giris",
       "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "anayasa-donem-1",
+      "slug": "ankara-yildirim-beyazit__anayasa-donem-1",
+      "title": "AYBÜ Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "anayasa-donem-2",
+      "slug": "ankara-yildirim-beyazit__anayasa-donem-2",
+      "title": "AYBÜ Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "anayasa-yillik",
+      "slug": "ankara-yildirim-beyazit__anayasa-yillik",
+      "title": "AYBÜ Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "anayasa-donem-1",
+      "slug": "ankara__anayasa-donem-1",
+      "title": "AÜHF Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "anayasa-donem-2",
+      "slug": "ankara__anayasa-donem-2",
+      "title": "AÜHF Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "anayasa-yillik",
+      "slug": "ankara__anayasa-yillik",
+      "title": "AÜHF Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "anayasa-donem-1",
+      "slug": "istanbul__anayasa-donem-1",
+      "title": "İÜHF Anayasa Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "anayasa-donem-2",
+      "slug": "istanbul__anayasa-donem-2",
+      "title": "İÜHF Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "anayasa-yillik",
+      "slug": "istanbul__anayasa-yillik",
+      "title": "İÜHF Anayasa Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "anayasa-donem-1",
+      "slug": "marmara__anayasa-donem-1",
+      "title": "MÜHF Anayasa Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "anayasa-donem-2",
+      "slug": "marmara__anayasa-donem-2",
+      "title": "MÜHF Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "anayasa-yillik",
+      "slug": "marmara__anayasa-yillik",
+      "title": "MÜHF Anayasa Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "anayasa-donem-1",
+      "slug": "galatasaray__anayasa-donem-1",
+      "title": "GSÜ Anayasa Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "anayasa-donem-2",
+      "slug": "galatasaray__anayasa-donem-2",
+      "title": "GSÜ Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "anayasa-yillik",
+      "slug": "galatasaray__anayasa-yillik",
+      "title": "GSÜ Anayasa Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "anayasa-donem-1",
+      "slug": "dokuz-eylul__anayasa-donem-1",
+      "title": "DEÜ Anayasa Hukuku 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "anayasa-donem-2",
+      "slug": "dokuz-eylul__anayasa-donem-2",
+      "title": "DEÜ Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "anayasa-yillik",
+      "slug": "dokuz-eylul__anayasa-yillik",
+      "title": "DEÜ Anayasa Hukuku Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "anayasa-donem-1",
+      "slug": "hacettepe__anayasa-donem-1",
+      "title": "Hacettepe Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "anayasa-donem-2",
+      "slug": "hacettepe__anayasa-donem-2",
+      "title": "Hacettepe Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "anayasa-yillik",
+      "slug": "hacettepe__anayasa-yillik",
+      "title": "Hacettepe Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "anayasa-donem-1",
+      "slug": "ankara-hacibayram__anayasa-donem-1",
+      "title": "AHBV Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "anayasa-donem-2",
+      "slug": "ankara-hacibayram__anayasa-donem-2",
+      "title": "AHBV Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "anayasa-yillik",
+      "slug": "ankara-hacibayram__anayasa-yillik",
+      "title": "AHBV Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "anayasa-donem-1",
+      "slug": "bilkent__anayasa-donem-1",
+      "title": "Bilkent Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "anayasa-donem-2",
+      "slug": "bilkent__anayasa-donem-2",
+      "title": "Bilkent Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "anayasa-yillik",
+      "slug": "bilkent__anayasa-yillik",
+      "title": "Bilkent Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "anayasa-donem-1",
+      "slug": "koc__anayasa-donem-1",
+      "title": "Koç Anayasa Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "anayasa-donem-2",
+      "slug": "koc__anayasa-donem-2",
+      "title": "Koç Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "anayasa-yillik",
+      "slug": "koc__anayasa-yillik",
+      "title": "Koç Anayasa Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "anayasa-donem-1",
+      "slug": "tobb-etu__anayasa-donem-1",
+      "title": "TOBB ETÜ Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "anayasa-donem-2",
+      "slug": "tobb-etu__anayasa-donem-2",
+      "title": "TOBB ETÜ Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "anayasa-yillik",
+      "slug": "tobb-etu__anayasa-yillik",
+      "title": "TOBB ETÜ Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "anayasa-donem-1",
+      "slug": "bogazici__anayasa-donem-1",
+      "title": "BÜ Anayasa Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "anayasa-donem-2",
+      "slug": "bogazici__anayasa-donem-2",
+      "title": "BÜ Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "anayasa-yillik",
+      "slug": "bogazici__anayasa-yillik",
+      "title": "BÜ Anayasa Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "anayasa-donem-1",
+      "slug": "ege__anayasa-donem-1",
+      "title": "Ege Anayasa Hukuku 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "anayasa-donem-2",
+      "slug": "ege__anayasa-donem-2",
+      "title": "Ege Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "anayasa-yillik",
+      "slug": "ege__anayasa-yillik",
+      "title": "Ege Anayasa Hukuku Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "anayasa-donem-1",
+      "slug": "akdeniz__anayasa-donem-1",
+      "title": "Akdeniz Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "anayasa-donem-2",
+      "slug": "akdeniz__anayasa-donem-2",
+      "title": "Akdeniz Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "anayasa-yillik",
+      "slug": "akdeniz__anayasa-yillik",
+      "title": "Akdeniz Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "anayasa-donem-1",
+      "slug": "selcuk__anayasa-donem-1",
+      "title": "Selçuk Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "anayasa-donem-2",
+      "slug": "selcuk__anayasa-donem-2",
+      "title": "Selçuk Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "anayasa-yillik",
+      "slug": "selcuk__anayasa-yillik",
+      "title": "Selçuk Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "anayasa-donem-1",
+      "slug": "erciyes__anayasa-donem-1",
+      "title": "Erciyes Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "anayasa-donem-2",
+      "slug": "erciyes__anayasa-donem-2",
+      "title": "Erciyes Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "anayasa-yillik",
+      "slug": "erciyes__anayasa-yillik",
+      "title": "Erciyes Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "anayasa-donem-1",
+      "slug": "uludag__anayasa-donem-1",
+      "title": "Uludağ Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "anayasa-donem-2",
+      "slug": "uludag__anayasa-donem-2",
+      "title": "Uludağ Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "anayasa-yillik",
+      "slug": "uludag__anayasa-yillik",
+      "title": "Uludağ Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "anayasa-donem-1",
+      "slug": "cukurova__anayasa-donem-1",
+      "title": "Çukurova Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "anayasa-donem-2",
+      "slug": "cukurova__anayasa-donem-2",
+      "title": "Çukurova Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "anayasa-yillik",
+      "slug": "cukurova__anayasa-yillik",
+      "title": "Çukurova Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "anayasa-donem-1",
+      "slug": "anadolu__anayasa-donem-1",
+      "title": "Anadolu Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "anayasa-donem-2",
+      "slug": "anadolu__anayasa-donem-2",
+      "title": "Anadolu Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "anayasa-yillik",
+      "slug": "anadolu__anayasa-yillik",
+      "title": "Anadolu Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "anayasa-donem-1",
+      "slug": "gazi-ankara__anayasa-donem-1",
+      "title": "ASBÜ Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "anayasa-donem-2",
+      "slug": "gazi-ankara__anayasa-donem-2",
+      "title": "ASBÜ Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "anayasa-yillik",
+      "slug": "gazi-ankara__anayasa-yillik",
+      "title": "ASBÜ Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "anayasa-donem-1",
+      "slug": "yildiz-teknik__anayasa-donem-1",
+      "title": "YTÜ Anayasa Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "anayasa-donem-2",
+      "slug": "yildiz-teknik__anayasa-donem-2",
+      "title": "YTÜ Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "anayasa-yillik",
+      "slug": "yildiz-teknik__anayasa-yillik",
+      "title": "YTÜ Anayasa Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "anayasa-donem-1",
+      "slug": "istanbul-medeniyet__anayasa-donem-1",
+      "title": "Medeniyet Anayasa Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "anayasa-donem-2",
+      "slug": "istanbul-medeniyet__anayasa-donem-2",
+      "title": "Medeniyet Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "anayasa-yillik",
+      "slug": "istanbul-medeniyet__anayasa-yillik",
+      "title": "Medeniyet Anayasa Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "anayasa-donem-1",
+      "slug": "bahcesehir__anayasa-donem-1",
+      "title": "BAU Anayasa Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "anayasa-donem-2",
+      "slug": "bahcesehir__anayasa-donem-2",
+      "title": "BAU Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "anayasa-yillik",
+      "slug": "bahcesehir__anayasa-yillik",
+      "title": "BAU Anayasa Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "anayasa-donem-1",
+      "slug": "yeditepe__anayasa-donem-1",
+      "title": "Yeditepe Anayasa Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "anayasa-donem-2",
+      "slug": "yeditepe__anayasa-donem-2",
+      "title": "Yeditepe Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "anayasa-yillik",
+      "slug": "yeditepe__anayasa-yillik",
+      "title": "Yeditepe Anayasa Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "anayasa-donem-1",
+      "slug": "ozyegin__anayasa-donem-1",
+      "title": "Özyeğin Anayasa Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "anayasa-donem-2",
+      "slug": "ozyegin__anayasa-donem-2",
+      "title": "Özyeğin Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "anayasa-yillik",
+      "slug": "ozyegin__anayasa-yillik",
+      "title": "Özyeğin Anayasa Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "anayasa-donem-1",
+      "slug": "kadir-has__anayasa-donem-1",
+      "title": "KHAS Anayasa Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "anayasa-donem-2",
+      "slug": "kadir-has__anayasa-donem-2",
+      "title": "KHAS Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "anayasa-yillik",
+      "slug": "kadir-has__anayasa-yillik",
+      "title": "KHAS Anayasa Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "anayasa-donem-1",
+      "slug": "istanbul-bilgi__anayasa-donem-1",
+      "title": "Bilgi Anayasa Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "anayasa-donem-2",
+      "slug": "istanbul-bilgi__anayasa-donem-2",
+      "title": "Bilgi Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "anayasa-yillik",
+      "slug": "istanbul-bilgi__anayasa-yillik",
+      "title": "Bilgi Anayasa Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "anayasa-donem-1",
+      "slug": "mehmet-akif__anayasa-donem-1",
+      "title": "Medipol Anayasa Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "anayasa-donem-2",
+      "slug": "mehmet-akif__anayasa-donem-2",
+      "title": "Medipol Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "anayasa-yillik",
+      "slug": "mehmet-akif__anayasa-yillik",
+      "title": "Medipol Anayasa Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "anayasa-donem-1",
+      "slug": "altinbas__anayasa-donem-1",
+      "title": "Altınbaş Anayasa Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "anayasa-donem-2",
+      "slug": "altinbas__anayasa-donem-2",
+      "title": "Altınbaş Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "anayasa-yillik",
+      "slug": "altinbas__anayasa-yillik",
+      "title": "Altınbaş Anayasa Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "anayasa-donem-1",
+      "slug": "maltepe__anayasa-donem-1",
+      "title": "Maltepe Anayasa Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "anayasa-donem-2",
+      "slug": "maltepe__anayasa-donem-2",
+      "title": "Maltepe Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "anayasa-yillik",
+      "slug": "maltepe__anayasa-yillik",
+      "title": "Maltepe Anayasa Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "anayasa-donem-1",
+      "slug": "dogus__anayasa-donem-1",
+      "title": "Doğuş Anayasa Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "anayasa-donem-2",
+      "slug": "dogus__anayasa-donem-2",
+      "title": "Doğuş Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "anayasa-yillik",
+      "slug": "dogus__anayasa-yillik",
+      "title": "Doğuş Anayasa Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "anayasa-donem-1",
+      "slug": "isik__anayasa-donem-1",
+      "title": "Işık Anayasa Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "anayasa-donem-2",
+      "slug": "isik__anayasa-donem-2",
+      "title": "Işık Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "anayasa-yillik",
+      "slug": "isik__anayasa-yillik",
+      "title": "Işık Anayasa Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "anayasa-donem-1",
+      "slug": "okan__anayasa-donem-1",
+      "title": "Okan Anayasa Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "anayasa-donem-2",
+      "slug": "okan__anayasa-donem-2",
+      "title": "Okan Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "anayasa-yillik",
+      "slug": "okan__anayasa-yillik",
+      "title": "Okan Anayasa Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "anayasa-donem-1",
+      "slug": "kultur__anayasa-donem-1",
+      "title": "İKÜ Anayasa Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "anayasa-donem-2",
+      "slug": "kultur__anayasa-donem-2",
+      "title": "İKÜ Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "anayasa-yillik",
+      "slug": "kultur__anayasa-yillik",
+      "title": "İKÜ Anayasa Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "anayasa-donem-1",
+      "slug": "aydin__anayasa-donem-1",
+      "title": "İAÜ Anayasa Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "anayasa-donem-2",
+      "slug": "aydin__anayasa-donem-2",
+      "title": "İAÜ Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "anayasa-yillik",
+      "slug": "aydin__anayasa-yillik",
+      "title": "İAÜ Anayasa Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "anayasa-donem-1",
+      "slug": "gelisim__anayasa-donem-1",
+      "title": "Gelişim Anayasa Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "anayasa-donem-2",
+      "slug": "gelisim__anayasa-donem-2",
+      "title": "Gelişim Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "anayasa-yillik",
+      "slug": "gelisim__anayasa-yillik",
+      "title": "Gelişim Anayasa Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "anayasa-donem-1",
+      "slug": "topkapi__anayasa-donem-1",
+      "title": "Topkapı Anayasa Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "anayasa-donem-2",
+      "slug": "topkapi__anayasa-donem-2",
+      "title": "Topkapı Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "anayasa-yillik",
+      "slug": "topkapi__anayasa-yillik",
+      "title": "Topkapı Anayasa Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "anayasa-donem-1",
+      "slug": "nisantasi__anayasa-donem-1",
+      "title": "Nişantaşı Anayasa Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "anayasa-donem-2",
+      "slug": "nisantasi__anayasa-donem-2",
+      "title": "Nişantaşı Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "anayasa-yillik",
+      "slug": "nisantasi__anayasa-yillik",
+      "title": "Nişantaşı Anayasa Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "anayasa-donem-1",
+      "slug": "beykent__anayasa-donem-1",
+      "title": "Beykent Anayasa Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "anayasa-donem-2",
+      "slug": "beykent__anayasa-donem-2",
+      "title": "Beykent Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "anayasa-yillik",
+      "slug": "beykent__anayasa-yillik",
+      "title": "Beykent Anayasa Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "anayasa-donem-1",
+      "slug": "halic__anayasa-donem-1",
+      "title": "Haliç Anayasa Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "anayasa-donem-2",
+      "slug": "halic__anayasa-donem-2",
+      "title": "Haliç Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "anayasa-yillik",
+      "slug": "halic__anayasa-yillik",
+      "title": "Haliç Anayasa Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "anayasa-donem-1",
+      "slug": "fatih-sultan__anayasa-donem-1",
+      "title": "FSMVÜ Anayasa Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "anayasa-donem-2",
+      "slug": "fatih-sultan__anayasa-donem-2",
+      "title": "FSMVÜ Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "anayasa-yillik",
+      "slug": "fatih-sultan__anayasa-yillik",
+      "title": "FSMVÜ Anayasa Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "anayasa-donem-1",
+      "slug": "karadeniz-teknik__anayasa-donem-1",
+      "title": "KTÜ Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "anayasa-donem-2",
+      "slug": "karadeniz-teknik__anayasa-donem-2",
+      "title": "KTÜ Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "anayasa-yillik",
+      "slug": "karadeniz-teknik__anayasa-yillik",
+      "title": "KTÜ Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "anayasa-donem-1",
+      "slug": "ataturk__anayasa-donem-1",
+      "title": "Atatürk Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "anayasa-donem-2",
+      "slug": "ataturk__anayasa-donem-2",
+      "title": "Atatürk Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "anayasa-yillik",
+      "slug": "ataturk__anayasa-yillik",
+      "title": "Atatürk Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "anayasa-donem-1",
+      "slug": "inonu__anayasa-donem-1",
+      "title": "İnönü Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "anayasa-donem-2",
+      "slug": "inonu__anayasa-donem-2",
+      "title": "İnönü Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "anayasa-yillik",
+      "slug": "inonu__anayasa-yillik",
+      "title": "İnönü Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "anayasa-donem-1",
+      "slug": "dicle__anayasa-donem-1",
+      "title": "Dicle Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "anayasa-donem-2",
+      "slug": "dicle__anayasa-donem-2",
+      "title": "Dicle Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "anayasa-yillik",
+      "slug": "dicle__anayasa-yillik",
+      "title": "Dicle Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "anayasa-donem-1",
+      "slug": "firat__anayasa-donem-1",
+      "title": "Fırat Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "anayasa-donem-2",
+      "slug": "firat__anayasa-donem-2",
+      "title": "Fırat Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "anayasa-yillik",
+      "slug": "firat__anayasa-yillik",
+      "title": "Fırat Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "anayasa-donem-1",
+      "slug": "gaziantep__anayasa-donem-1",
+      "title": "GAÜN Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "anayasa-donem-2",
+      "slug": "gaziantep__anayasa-donem-2",
+      "title": "GAÜN Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "anayasa-yillik",
+      "slug": "gaziantep__anayasa-yillik",
+      "title": "GAÜN Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "anayasa-donem-1",
+      "slug": "suleyman-demirel__anayasa-donem-1",
+      "title": "SDÜ Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "anayasa-donem-2",
+      "slug": "suleyman-demirel__anayasa-donem-2",
+      "title": "SDÜ Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "anayasa-yillik",
+      "slug": "suleyman-demirel__anayasa-yillik",
+      "title": "SDÜ Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "anayasa-donem-1",
+      "slug": "pamukkale__anayasa-donem-1",
+      "title": "PAÜ Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "anayasa-donem-2",
+      "slug": "pamukkale__anayasa-donem-2",
+      "title": "PAÜ Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "anayasa-yillik",
+      "slug": "pamukkale__anayasa-yillik",
+      "title": "PAÜ Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "anayasa-donem-1",
+      "slug": "mugla__anayasa-donem-1",
+      "title": "MSKU Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "anayasa-donem-2",
+      "slug": "mugla__anayasa-donem-2",
+      "title": "MSKU Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "anayasa-yillik",
+      "slug": "mugla__anayasa-yillik",
+      "title": "MSKU Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "anayasa-donem-1",
+      "slug": "sakarya__anayasa-donem-1",
+      "title": "SAÜ Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "anayasa-donem-2",
+      "slug": "sakarya__anayasa-donem-2",
+      "title": "SAÜ Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "anayasa-yillik",
+      "slug": "sakarya__anayasa-yillik",
+      "title": "SAÜ Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "anayasa-donem-1",
+      "slug": "kocaeli__anayasa-donem-1",
+      "title": "KOÜ Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "anayasa-donem-2",
+      "slug": "kocaeli__anayasa-donem-2",
+      "title": "KOÜ Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "anayasa-yillik",
+      "slug": "kocaeli__anayasa-yillik",
+      "title": "KOÜ Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "anayasa-donem-1",
+      "slug": "trakya__anayasa-donem-1",
+      "title": "Trakya Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "anayasa-donem-2",
+      "slug": "trakya__anayasa-donem-2",
+      "title": "Trakya Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "anayasa-yillik",
+      "slug": "trakya__anayasa-yillik",
+      "title": "Trakya Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "anayasa-donem-1",
+      "slug": "canakkale__anayasa-donem-1",
+      "title": "ÇOMÜ Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "anayasa-donem-2",
+      "slug": "canakkale__anayasa-donem-2",
+      "title": "ÇOMÜ Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "anayasa-yillik",
+      "slug": "canakkale__anayasa-yillik",
+      "title": "ÇOMÜ Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "anayasa-donem-1",
+      "slug": "balikesir__anayasa-donem-1",
+      "title": "BAÜN Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "anayasa-donem-2",
+      "slug": "balikesir__anayasa-donem-2",
+      "title": "BAÜN Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "anayasa-yillik",
+      "slug": "balikesir__anayasa-yillik",
+      "title": "BAÜN Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "anayasa-donem-1",
+      "slug": "afyon__anayasa-donem-1",
+      "title": "AKÜ Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "anayasa-donem-2",
+      "slug": "afyon__anayasa-donem-2",
+      "title": "AKÜ Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "anayasa-yillik",
+      "slug": "afyon__anayasa-yillik",
+      "title": "AKÜ Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "anayasa-donem-1",
+      "slug": "dumlupinar__anayasa-donem-1",
+      "title": "DPÜ Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "anayasa-donem-2",
+      "slug": "dumlupinar__anayasa-donem-2",
+      "title": "DPÜ Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "anayasa-yillik",
+      "slug": "dumlupinar__anayasa-yillik",
+      "title": "DPÜ Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "anayasa-donem-1",
+      "slug": "eskisehir-osmangazi__anayasa-donem-1",
+      "title": "ESOGÜ Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "anayasa-donem-2",
+      "slug": "eskisehir-osmangazi__anayasa-donem-2",
+      "title": "ESOGÜ Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "anayasa-yillik",
+      "slug": "eskisehir-osmangazi__anayasa-yillik",
+      "title": "ESOGÜ Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "anayasa-donem-1",
+      "slug": "sivas-cumhuriyet__anayasa-donem-1",
+      "title": "SCÜ Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "anayasa-donem-2",
+      "slug": "sivas-cumhuriyet__anayasa-donem-2",
+      "title": "SCÜ Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "anayasa-yillik",
+      "slug": "sivas-cumhuriyet__anayasa-yillik",
+      "title": "SCÜ Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "anayasa-donem-1",
+      "slug": "tokat__anayasa-donem-1",
+      "title": "TOGÜ Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "anayasa-donem-2",
+      "slug": "tokat__anayasa-donem-2",
+      "title": "TOGÜ Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "anayasa-yillik",
+      "slug": "tokat__anayasa-yillik",
+      "title": "TOGÜ Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "anayasa-donem-1",
+      "slug": "yozgat__anayasa-donem-1",
+      "title": "Bozok Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "anayasa-donem-2",
+      "slug": "yozgat__anayasa-donem-2",
+      "title": "Bozok Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "anayasa-yillik",
+      "slug": "yozgat__anayasa-yillik",
+      "title": "Bozok Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "anayasa-donem-1",
+      "slug": "kirsehir__anayasa-donem-1",
+      "title": "AHİEVRAN Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "anayasa-donem-2",
+      "slug": "kirsehir__anayasa-donem-2",
+      "title": "AHİEVRAN Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "anayasa-yillik",
+      "slug": "kirsehir__anayasa-yillik",
+      "title": "AHİEVRAN Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "anayasa-donem-1",
+      "slug": "nevsehir__anayasa-donem-1",
+      "title": "NEVÜ Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "anayasa-donem-2",
+      "slug": "nevsehir__anayasa-donem-2",
+      "title": "NEVÜ Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "anayasa-yillik",
+      "slug": "nevsehir__anayasa-yillik",
+      "title": "NEVÜ Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "anayasa-donem-1",
+      "slug": "mersin__anayasa-donem-1",
+      "title": "MEÜ Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "anayasa-donem-2",
+      "slug": "mersin__anayasa-donem-2",
+      "title": "MEÜ Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "anayasa-yillik",
+      "slug": "mersin__anayasa-yillik",
+      "title": "MEÜ Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "anayasa-donem-1",
+      "slug": "hatay__anayasa-donem-1",
+      "title": "MKÜ Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "anayasa-donem-2",
+      "slug": "hatay__anayasa-donem-2",
+      "title": "MKÜ Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "anayasa-yillik",
+      "slug": "hatay__anayasa-yillik",
+      "title": "MKÜ Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "anayasa-donem-1",
+      "slug": "kahramanmaras__anayasa-donem-1",
+      "title": "KSÜ Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "anayasa-donem-2",
+      "slug": "kahramanmaras__anayasa-donem-2",
+      "title": "KSÜ Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "anayasa-yillik",
+      "slug": "kahramanmaras__anayasa-yillik",
+      "title": "KSÜ Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "anayasa-donem-1",
+      "slug": "osmaniye__anayasa-donem-1",
+      "title": "OKÜ Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "anayasa-donem-2",
+      "slug": "osmaniye__anayasa-donem-2",
+      "title": "OKÜ Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "anayasa-yillik",
+      "slug": "osmaniye__anayasa-yillik",
+      "title": "OKÜ Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "anayasa-donem-1",
+      "slug": "samsun__anayasa-donem-1",
+      "title": "OMÜ Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "anayasa-donem-2",
+      "slug": "samsun__anayasa-donem-2",
+      "title": "OMÜ Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "anayasa-yillik",
+      "slug": "samsun__anayasa-yillik",
+      "title": "OMÜ Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "anayasa-donem-1",
+      "slug": "ordu__anayasa-donem-1",
+      "title": "ODÜ Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "anayasa-donem-2",
+      "slug": "ordu__anayasa-donem-2",
+      "title": "ODÜ Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "anayasa-yillik",
+      "slug": "ordu__anayasa-yillik",
+      "title": "ODÜ Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "anayasa-donem-1",
+      "slug": "giresun__anayasa-donem-1",
+      "title": "GÜ Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "anayasa-donem-2",
+      "slug": "giresun__anayasa-donem-2",
+      "title": "GÜ Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "anayasa-yillik",
+      "slug": "giresun__anayasa-yillik",
+      "title": "GÜ Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "anayasa-donem-1",
+      "slug": "rize__anayasa-donem-1",
+      "title": "RTEÜ Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "anayasa-donem-2",
+      "slug": "rize__anayasa-donem-2",
+      "title": "RTEÜ Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "anayasa-yillik",
+      "slug": "rize__anayasa-yillik",
+      "title": "RTEÜ Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "anayasa-donem-1",
+      "slug": "artvin__anayasa-donem-1",
+      "title": "AÇÜ Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "anayasa-donem-2",
+      "slug": "artvin__anayasa-donem-2",
+      "title": "AÇÜ Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "anayasa-yillik",
+      "slug": "artvin__anayasa-yillik",
+      "title": "AÇÜ Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "anayasa-donem-1",
+      "slug": "van-yyu__anayasa-donem-1",
+      "title": "YYÜ Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "anayasa-donem-2",
+      "slug": "van-yyu__anayasa-donem-2",
+      "title": "YYÜ Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "anayasa-yillik",
+      "slug": "van-yyu__anayasa-yillik",
+      "title": "YYÜ Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "anayasa-donem-1",
+      "slug": "agri__anayasa-donem-1",
+      "title": "AİÇÜ Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "anayasa-donem-2",
+      "slug": "agri__anayasa-donem-2",
+      "title": "AİÇÜ Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "anayasa-yillik",
+      "slug": "agri__anayasa-yillik",
+      "title": "AİÇÜ Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "anayasa-donem-1",
+      "slug": "kars__anayasa-donem-1",
+      "title": "Kafkas Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "anayasa-donem-2",
+      "slug": "kars__anayasa-donem-2",
+      "title": "Kafkas Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "anayasa-yillik",
+      "slug": "kars__anayasa-yillik",
+      "title": "Kafkas Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "anayasa-donem-1",
+      "slug": "erzincan__anayasa-donem-1",
+      "title": "EBYÜ Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "anayasa-donem-2",
+      "slug": "erzincan__anayasa-donem-2",
+      "title": "EBYÜ Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "anayasa-yillik",
+      "slug": "erzincan__anayasa-yillik",
+      "title": "EBYÜ Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "anayasa-donem-1",
+      "slug": "bayburt__anayasa-donem-1",
+      "title": "Bayburt Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "anayasa-donem-2",
+      "slug": "bayburt__anayasa-donem-2",
+      "title": "Bayburt Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "anayasa-yillik",
+      "slug": "bayburt__anayasa-yillik",
+      "title": "Bayburt Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "anayasa-donem-1",
+      "slug": "gumushane__anayasa-donem-1",
+      "title": "Gümüşhane Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "anayasa-donem-2",
+      "slug": "gumushane__anayasa-donem-2",
+      "title": "Gümüşhane Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "anayasa-yillik",
+      "slug": "gumushane__anayasa-yillik",
+      "title": "Gümüşhane Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "anayasa-donem-1",
+      "slug": "bingol__anayasa-donem-1",
+      "title": "Bingöl Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "anayasa-donem-2",
+      "slug": "bingol__anayasa-donem-2",
+      "title": "Bingöl Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "anayasa-yillik",
+      "slug": "bingol__anayasa-yillik",
+      "title": "Bingöl Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "anayasa-donem-1",
+      "slug": "mus__anayasa-donem-1",
+      "title": "Muş Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "anayasa-donem-2",
+      "slug": "mus__anayasa-donem-2",
+      "title": "Muş Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "anayasa-yillik",
+      "slug": "mus__anayasa-yillik",
+      "title": "Muş Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "anayasa-donem-1",
+      "slug": "hakkari__anayasa-donem-1",
+      "title": "Hakkâri Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "anayasa-donem-2",
+      "slug": "hakkari__anayasa-donem-2",
+      "title": "Hakkâri Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "anayasa-yillik",
+      "slug": "hakkari__anayasa-yillik",
+      "title": "Hakkâri Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "anayasa-donem-1",
+      "slug": "sirnak__anayasa-donem-1",
+      "title": "Şırnak Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "anayasa-donem-2",
+      "slug": "sirnak__anayasa-donem-2",
+      "title": "Şırnak Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "anayasa-yillik",
+      "slug": "sirnak__anayasa-yillik",
+      "title": "Şırnak Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "anayasa-donem-1",
+      "slug": "mardin__anayasa-donem-1",
+      "title": "Artuklu Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "anayasa-donem-2",
+      "slug": "mardin__anayasa-donem-2",
+      "title": "Artuklu Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "anayasa-yillik",
+      "slug": "mardin__anayasa-yillik",
+      "title": "Artuklu Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "anayasa-donem-1",
+      "slug": "batman__anayasa-donem-1",
+      "title": "Batman Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "anayasa-donem-2",
+      "slug": "batman__anayasa-donem-2",
+      "title": "Batman Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "anayasa-yillik",
+      "slug": "batman__anayasa-yillik",
+      "title": "Batman Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "anayasa-donem-1",
+      "slug": "siirt__anayasa-donem-1",
+      "title": "Siirt Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "anayasa-donem-2",
+      "slug": "siirt__anayasa-donem-2",
+      "title": "Siirt Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "anayasa-yillik",
+      "slug": "siirt__anayasa-yillik",
+      "title": "Siirt Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "anayasa-donem-1",
+      "slug": "adiyaman__anayasa-donem-1",
+      "title": "Adıyaman Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "anayasa-donem-2",
+      "slug": "adiyaman__anayasa-donem-2",
+      "title": "Adıyaman Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "anayasa-yillik",
+      "slug": "adiyaman__anayasa-yillik",
+      "title": "Adıyaman Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "anayasa-donem-1",
+      "slug": "kilis__anayasa-donem-1",
+      "title": "Kilis Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "anayasa-donem-2",
+      "slug": "kilis__anayasa-donem-2",
+      "title": "Kilis Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "anayasa-yillik",
+      "slug": "kilis__anayasa-yillik",
+      "title": "Kilis Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "anayasa-donem-1",
+      "slug": "igdir__anayasa-donem-1",
+      "title": "Iğdır Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "anayasa-donem-2",
+      "slug": "igdir__anayasa-donem-2",
+      "title": "Iğdır Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "anayasa-yillik",
+      "slug": "igdir__anayasa-yillik",
+      "title": "Iğdır Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "anayasa-donem-1",
+      "slug": "ardahan__anayasa-donem-1",
+      "title": "Ardahan Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "anayasa-donem-2",
+      "slug": "ardahan__anayasa-donem-2",
+      "title": "Ardahan Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "anayasa-yillik",
+      "slug": "ardahan__anayasa-yillik",
+      "title": "Ardahan Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "anayasa-donem-1",
+      "slug": "bilecik__anayasa-donem-1",
+      "title": "BŞEÜ Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "anayasa-donem-2",
+      "slug": "bilecik__anayasa-donem-2",
+      "title": "BŞEÜ Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "anayasa-yillik",
+      "slug": "bilecik__anayasa-yillik",
+      "title": "BŞEÜ Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "anayasa-donem-1",
+      "slug": "bolu__anayasa-donem-1",
+      "title": "BAİBÜ Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "anayasa-donem-2",
+      "slug": "bolu__anayasa-donem-2",
+      "title": "BAİBÜ Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "anayasa-yillik",
+      "slug": "bolu__anayasa-yillik",
+      "title": "BAİBÜ Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "anayasa-donem-1",
+      "slug": "duzce__anayasa-donem-1",
+      "title": "Düzce Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "anayasa-donem-2",
+      "slug": "duzce__anayasa-donem-2",
+      "title": "Düzce Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "anayasa-yillik",
+      "slug": "duzce__anayasa-yillik",
+      "title": "Düzce Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "anayasa-donem-1",
+      "slug": "zonguldak__anayasa-donem-1",
+      "title": "BEÜN Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "anayasa-donem-2",
+      "slug": "zonguldak__anayasa-donem-2",
+      "title": "BEÜN Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "anayasa-yillik",
+      "slug": "zonguldak__anayasa-yillik",
+      "title": "BEÜN Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "anayasa-donem-1",
+      "slug": "karabuk__anayasa-donem-1",
+      "title": "KBÜ Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "anayasa-donem-2",
+      "slug": "karabuk__anayasa-donem-2",
+      "title": "KBÜ Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "anayasa-yillik",
+      "slug": "karabuk__anayasa-yillik",
+      "title": "KBÜ Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "anayasa-donem-1",
+      "slug": "kastamonu__anayasa-donem-1",
+      "title": "KÜ Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "anayasa-donem-2",
+      "slug": "kastamonu__anayasa-donem-2",
+      "title": "KÜ Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "anayasa-yillik",
+      "slug": "kastamonu__anayasa-yillik",
+      "title": "KÜ Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "anayasa-donem-1",
+      "slug": "sinop__anayasa-donem-1",
+      "title": "Sinop Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "anayasa-donem-2",
+      "slug": "sinop__anayasa-donem-2",
+      "title": "Sinop Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "anayasa-yillik",
+      "slug": "sinop__anayasa-yillik",
+      "title": "Sinop Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "anayasa-donem-1",
+      "slug": "corum__anayasa-donem-1",
+      "title": "Hitit Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "anayasa-donem-2",
+      "slug": "corum__anayasa-donem-2",
+      "title": "Hitit Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "anayasa-yillik",
+      "slug": "corum__anayasa-yillik",
+      "title": "Hitit Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "anayasa-donem-1",
+      "slug": "amasya__anayasa-donem-1",
+      "title": "Amasya Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "anayasa-donem-2",
+      "slug": "amasya__anayasa-donem-2",
+      "title": "Amasya Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "anayasa-yillik",
+      "slug": "amasya__anayasa-yillik",
+      "title": "Amasya Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "anayasa-donem-1",
+      "slug": "cankiri__anayasa-donem-1",
+      "title": "Karatekin Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "anayasa-donem-2",
+      "slug": "cankiri__anayasa-donem-2",
+      "title": "Karatekin Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "anayasa-yillik",
+      "slug": "cankiri__anayasa-yillik",
+      "title": "Karatekin Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "anayasa-donem-1",
+      "slug": "kirikkale__anayasa-donem-1",
+      "title": "Kırıkkale Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "anayasa-donem-2",
+      "slug": "kirikkale__anayasa-donem-2",
+      "title": "Kırıkkale Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "anayasa-yillik",
+      "slug": "kirikkale__anayasa-yillik",
+      "title": "Kırıkkale Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "anayasa-donem-1",
+      "slug": "aksaray__anayasa-donem-1",
+      "title": "Aksaray Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "anayasa-donem-2",
+      "slug": "aksaray__anayasa-donem-2",
+      "title": "Aksaray Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "anayasa-yillik",
+      "slug": "aksaray__anayasa-yillik",
+      "title": "Aksaray Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "anayasa-donem-1",
+      "slug": "nigde__anayasa-donem-1",
+      "title": "ÖHÜ Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "anayasa-donem-2",
+      "slug": "nigde__anayasa-donem-2",
+      "title": "ÖHÜ Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "anayasa-yillik",
+      "slug": "nigde__anayasa-yillik",
+      "title": "ÖHÜ Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "anayasa-donem-1",
+      "slug": "konya-teknik__anayasa-donem-1",
+      "title": "NEÜ Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "anayasa-donem-2",
+      "slug": "konya-teknik__anayasa-donem-2",
+      "title": "NEÜ Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "anayasa-yillik",
+      "slug": "konya-teknik__anayasa-yillik",
+      "title": "NEÜ Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "anayasa-donem-1",
+      "slug": "karaman__anayasa-donem-1",
+      "title": "KMÜ Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "anayasa-donem-2",
+      "slug": "karaman__anayasa-donem-2",
+      "title": "KMÜ Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "anayasa-yillik",
+      "slug": "karaman__anayasa-yillik",
+      "title": "KMÜ Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "anayasa-donem-1",
+      "slug": "usak__anayasa-donem-1",
+      "title": "Uşak Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "anayasa-donem-2",
+      "slug": "usak__anayasa-donem-2",
+      "title": "Uşak Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "anayasa-yillik",
+      "slug": "usak__anayasa-yillik",
+      "title": "Uşak Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "anayasa-donem-1",
+      "slug": "manisa__anayasa-donem-1",
+      "title": "MCBÜ Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "anayasa-donem-2",
+      "slug": "manisa__anayasa-donem-2",
+      "title": "MCBÜ Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "anayasa-yillik",
+      "slug": "manisa__anayasa-yillik",
+      "title": "MCBÜ Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "anayasa-donem-1",
+      "slug": "aydin-adu__anayasa-donem-1",
+      "title": "ADÜ Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "anayasa-donem-2",
+      "slug": "aydin-adu__anayasa-donem-2",
+      "title": "ADÜ Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "anayasa-yillik",
+      "slug": "aydin-adu__anayasa-yillik",
+      "title": "ADÜ Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "anayasa-donem-1",
+      "slug": "tekirdag__anayasa-donem-1",
+      "title": "NKÜ Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "anayasa-donem-2",
+      "slug": "tekirdag__anayasa-donem-2",
+      "title": "NKÜ Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "anayasa-yillik",
+      "slug": "tekirdag__anayasa-yillik",
+      "title": "NKÜ Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "anayasa-donem-1",
+      "slug": "kirklareli__anayasa-donem-1",
+      "title": "Kırklareli Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "anayasa-donem-2",
+      "slug": "kirklareli__anayasa-donem-2",
+      "title": "Kırklareli Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "anayasa-yillik",
+      "slug": "kirklareli__anayasa-yillik",
+      "title": "Kırklareli Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "anayasa-donem-1",
+      "slug": "atilim__anayasa-donem-1",
+      "title": "Atılım Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "anayasa-donem-2",
+      "slug": "atilim__anayasa-donem-2",
+      "title": "Atılım Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "anayasa-yillik",
+      "slug": "atilim__anayasa-yillik",
+      "title": "Atılım Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "anayasa-donem-1",
+      "slug": "cankaya__anayasa-donem-1",
+      "title": "Çankaya Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "anayasa-donem-2",
+      "slug": "cankaya__anayasa-donem-2",
+      "title": "Çankaya Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "anayasa-yillik",
+      "slug": "cankaya__anayasa-yillik",
+      "title": "Çankaya Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "anayasa-donem-1",
+      "slug": "ufuk__anayasa-donem-1",
+      "title": "Ufuk Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "anayasa-donem-2",
+      "slug": "ufuk__anayasa-donem-2",
+      "title": "Ufuk Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "anayasa-yillik",
+      "slug": "ufuk__anayasa-yillik",
+      "title": "Ufuk Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "anayasa-donem-1",
+      "slug": "yasar__anayasa-donem-1",
+      "title": "Yaşar Anayasa Hukuku 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "anayasa-donem-2",
+      "slug": "yasar__anayasa-donem-2",
+      "title": "Yaşar Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "anayasa-yillik",
+      "slug": "yasar__anayasa-yillik",
+      "title": "Yaşar Anayasa Hukuku Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "anayasa-donem-1",
+      "slug": "izmir-ekonomi__anayasa-donem-1",
+      "title": "İEÜ Anayasa Hukuku 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "anayasa-donem-2",
+      "slug": "izmir-ekonomi__anayasa-donem-2",
+      "title": "İEÜ Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "anayasa-yillik",
+      "slug": "izmir-ekonomi__anayasa-yillik",
+      "title": "İEÜ Anayasa Hukuku Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "anayasa-donem-1",
+      "slug": "tinaztepe__anayasa-donem-1",
+      "title": "Tınaztepe Anayasa Hukuku 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "anayasa-donem-2",
+      "slug": "tinaztepe__anayasa-donem-2",
+      "title": "Tınaztepe Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "anayasa-yillik",
+      "slug": "tinaztepe__anayasa-yillik",
+      "title": "Tınaztepe Anayasa Hukuku Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "anayasa-donem-1",
+      "slug": "asbu-vakif__anayasa-donem-1",
+      "title": "ABÜ Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "anayasa-donem-2",
+      "slug": "asbu-vakif__anayasa-donem-2",
+      "title": "ABÜ Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "anayasa-yillik",
+      "slug": "asbu-vakif__anayasa-yillik",
+      "title": "ABÜ Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "anayasa-donem-1",
+      "slug": "hasan-kalyoncu__anayasa-donem-1",
+      "title": "HKÜ Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "anayasa-donem-2",
+      "slug": "hasan-kalyoncu__anayasa-donem-2",
+      "title": "HKÜ Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "anayasa-yillik",
+      "slug": "hasan-kalyoncu__anayasa-yillik",
+      "title": "HKÜ Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "anayasa-donem-1",
+      "slug": "sanko__anayasa-donem-1",
+      "title": "Sanko Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "anayasa-donem-2",
+      "slug": "sanko__anayasa-donem-2",
+      "title": "Sanko Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "anayasa-yillik",
+      "slug": "sanko__anayasa-yillik",
+      "title": "Sanko Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "anayasa-donem-1",
+      "slug": "toros__anayasa-donem-1",
+      "title": "Toros Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "anayasa-donem-2",
+      "slug": "toros__anayasa-donem-2",
+      "title": "Toros Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "anayasa-yillik",
+      "slug": "toros__anayasa-yillik",
+      "title": "Toros Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "anayasa-donem-1",
+      "slug": "cag__anayasa-donem-1",
+      "title": "Çağ Anayasa Hukuku 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/anayasa-donem-1",
+      "variantOf": "anayasa",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "anayasa-donem-2",
+      "slug": "cag__anayasa-donem-2",
+      "title": "Çağ Anayasa Hukuku 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/anayasa-donem-2",
+      "variantOf": "anayasa",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "anayasa-yillik",
+      "slug": "cag__anayasa-yillik",
+      "title": "Çağ Anayasa Hukuku Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/anayasa-yillik",
+      "variantOf": "anayasa",
+      "variantLabel": "Yıllık (Tam paket)"
     }
   ],
   "borclarGenelTripleAt": "2026-07-29T20:05:58.703Z",
@@ -108633,5 +111873,6 @@
   "insaatHukukuTripleAt": "2026-07-29T21:20:33.364Z",
   "arabuluculukTripleAt": "2026-07-29T21:23:11.701Z",
   "devletlerOzelTripleAt": "2026-07-29T21:26:09.690Z",
-  "hukukaGirisTripleAt": "2026-07-29T21:28:58.325Z"
+  "hukukaGirisTripleAt": "2026-07-29T21:28:58.325Z",
+  "anayasaTripleAt": "2026-07-29T21:32:17.211Z"
 }

@@ -840,6 +840,30 @@
         "href": "/ders-notlari/ankara-yildirim-beyazit/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -1703,6 +1727,30 @@
         "href": "/ders-notlari/ankara/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/ankara/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/ankara/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/ankara/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -2567,6 +2615,30 @@
         "href": "/ders-notlari/istanbul/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/istanbul/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/istanbul/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/istanbul/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -3429,6 +3501,30 @@
         "href": "/ders-notlari/marmara/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/marmara/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/marmara/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/marmara/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -4293,6 +4389,30 @@
         "href": "/ders-notlari/galatasaray/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/galatasaray/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/galatasaray/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/galatasaray/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -5156,6 +5276,30 @@
         "href": "/ders-notlari/dokuz-eylul/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/dokuz-eylul/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/dokuz-eylul/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/dokuz-eylul/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -6018,6 +6162,30 @@
         "href": "/ders-notlari/hacettepe/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/hacettepe/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/hacettepe/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/hacettepe/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -6881,6 +7049,30 @@
         "href": "/ders-notlari/ankara-hacibayram/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/ankara-hacibayram/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/ankara-hacibayram/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/ankara-hacibayram/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -7743,6 +7935,30 @@
         "href": "/ders-notlari/bilkent/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/bilkent/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/bilkent/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/bilkent/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -8606,6 +8822,30 @@
         "href": "/ders-notlari/koc/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/koc/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/koc/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/koc/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -9469,6 +9709,30 @@
         "href": "/ders-notlari/tobb-etu/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/tobb-etu/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/tobb-etu/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/tobb-etu/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -10331,6 +10595,30 @@
         "href": "/ders-notlari/bogazici/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/bogazici/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/bogazici/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/bogazici/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -11193,6 +11481,30 @@
         "href": "/ders-notlari/ege/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/ege/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/ege/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/ege/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -12055,6 +12367,30 @@
         "href": "/ders-notlari/akdeniz/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/akdeniz/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/akdeniz/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/akdeniz/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -12917,6 +13253,30 @@
         "href": "/ders-notlari/selcuk/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/selcuk/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/selcuk/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/selcuk/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -13779,6 +14139,30 @@
         "href": "/ders-notlari/erciyes/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/erciyes/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/erciyes/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/erciyes/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -14642,6 +15026,30 @@
         "href": "/ders-notlari/uludag/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/uludag/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/uludag/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/uludag/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -15504,6 +15912,30 @@
         "href": "/ders-notlari/cukurova/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/cukurova/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/cukurova/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/cukurova/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -16366,6 +16798,30 @@
         "href": "/ders-notlari/anadolu/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/anadolu/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/anadolu/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/anadolu/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -17229,6 +17685,30 @@
         "href": "/ders-notlari/gazi-ankara/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/gazi-ankara/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/gazi-ankara/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/gazi-ankara/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -18092,6 +18572,30 @@
         "href": "/ders-notlari/yildiz-teknik/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/yildiz-teknik/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/yildiz-teknik/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/yildiz-teknik/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -18954,6 +19458,30 @@
         "href": "/ders-notlari/istanbul-medeniyet/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/istanbul-medeniyet/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/istanbul-medeniyet/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/istanbul-medeniyet/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -19817,6 +20345,30 @@
         "href": "/ders-notlari/bahcesehir/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/bahcesehir/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/bahcesehir/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/bahcesehir/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -20679,6 +21231,30 @@
         "href": "/ders-notlari/yeditepe/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/yeditepe/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/yeditepe/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/yeditepe/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -21541,6 +22117,30 @@
         "href": "/ders-notlari/ozyegin/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/ozyegin/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/ozyegin/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/ozyegin/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -22403,6 +23003,30 @@
         "href": "/ders-notlari/kadir-has/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/kadir-has/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/kadir-has/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/kadir-has/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -23265,6 +23889,30 @@
         "href": "/ders-notlari/istanbul-bilgi/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/istanbul-bilgi/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/istanbul-bilgi/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/istanbul-bilgi/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -24127,6 +24775,30 @@
         "href": "/ders-notlari/mehmet-akif/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/mehmet-akif/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/mehmet-akif/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/mehmet-akif/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -24989,6 +25661,30 @@
         "href": "/ders-notlari/altinbas/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/altinbas/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/altinbas/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/altinbas/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -25851,6 +26547,30 @@
         "href": "/ders-notlari/maltepe/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/maltepe/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/maltepe/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/maltepe/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -26713,6 +27433,30 @@
         "href": "/ders-notlari/dogus/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/dogus/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/dogus/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/dogus/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -27575,6 +28319,30 @@
         "href": "/ders-notlari/isik/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/isik/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/isik/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/isik/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -28437,6 +29205,30 @@
         "href": "/ders-notlari/okan/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/okan/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/okan/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/okan/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -29299,6 +30091,30 @@
         "href": "/ders-notlari/kultur/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/kultur/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/kultur/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/kultur/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -30161,6 +30977,30 @@
         "href": "/ders-notlari/aydin/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/aydin/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/aydin/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/aydin/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -31023,6 +31863,30 @@
         "href": "/ders-notlari/gelisim/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/gelisim/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/gelisim/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/gelisim/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -31885,6 +32749,30 @@
         "href": "/ders-notlari/topkapi/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/topkapi/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/topkapi/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/topkapi/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -32747,6 +33635,30 @@
         "href": "/ders-notlari/nisantasi/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/nisantasi/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/nisantasi/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/nisantasi/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -33609,6 +34521,30 @@
         "href": "/ders-notlari/beykent/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/beykent/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/beykent/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/beykent/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -34471,6 +35407,30 @@
         "href": "/ders-notlari/halic/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/halic/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/halic/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/halic/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -35333,6 +36293,30 @@
         "href": "/ders-notlari/fatih-sultan/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/fatih-sultan/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/fatih-sultan/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/fatih-sultan/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -36196,6 +37180,30 @@
         "href": "/ders-notlari/karadeniz-teknik/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/karadeniz-teknik/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/karadeniz-teknik/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/karadeniz-teknik/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -37059,6 +38067,30 @@
         "href": "/ders-notlari/ataturk/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/ataturk/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/ataturk/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/ataturk/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -37921,6 +38953,30 @@
         "href": "/ders-notlari/inonu/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/inonu/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/inonu/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/inonu/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -38783,6 +39839,30 @@
         "href": "/ders-notlari/dicle/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/dicle/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/dicle/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/dicle/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -39645,6 +40725,30 @@
         "href": "/ders-notlari/firat/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/firat/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/firat/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/firat/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -40507,6 +41611,30 @@
         "href": "/ders-notlari/gaziantep/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/gaziantep/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/gaziantep/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/gaziantep/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -41370,6 +42498,30 @@
         "href": "/ders-notlari/suleyman-demirel/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/suleyman-demirel/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/suleyman-demirel/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/suleyman-demirel/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -42232,6 +43384,30 @@
         "href": "/ders-notlari/pamukkale/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/pamukkale/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/pamukkale/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/pamukkale/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -43094,6 +44270,30 @@
         "href": "/ders-notlari/mugla/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/mugla/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/mugla/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/mugla/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -43956,6 +45156,30 @@
         "href": "/ders-notlari/sakarya/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/sakarya/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/sakarya/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/sakarya/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -44818,6 +46042,30 @@
         "href": "/ders-notlari/kocaeli/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/kocaeli/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/kocaeli/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/kocaeli/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -45680,6 +46928,30 @@
         "href": "/ders-notlari/trakya/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/trakya/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/trakya/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/trakya/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -46542,6 +47814,30 @@
         "href": "/ders-notlari/canakkale/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/canakkale/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/canakkale/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/canakkale/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -47404,6 +48700,30 @@
         "href": "/ders-notlari/balikesir/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/balikesir/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/balikesir/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/balikesir/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -48267,6 +49587,30 @@
         "href": "/ders-notlari/afyon/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/afyon/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/afyon/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/afyon/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -49129,6 +50473,30 @@
         "href": "/ders-notlari/dumlupinar/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/dumlupinar/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/dumlupinar/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/dumlupinar/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -49991,6 +51359,30 @@
         "href": "/ders-notlari/eskisehir-osmangazi/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/eskisehir-osmangazi/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/eskisehir-osmangazi/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/eskisehir-osmangazi/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -50854,6 +52246,30 @@
         "href": "/ders-notlari/sivas-cumhuriyet/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/sivas-cumhuriyet/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/sivas-cumhuriyet/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/sivas-cumhuriyet/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -51716,6 +53132,30 @@
         "href": "/ders-notlari/tokat/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/tokat/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/tokat/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/tokat/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -52578,6 +54018,30 @@
         "href": "/ders-notlari/yozgat/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/yozgat/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/yozgat/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/yozgat/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -53440,6 +54904,30 @@
         "href": "/ders-notlari/kirsehir/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/kirsehir/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/kirsehir/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/kirsehir/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -54302,6 +55790,30 @@
         "href": "/ders-notlari/nevsehir/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/nevsehir/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/nevsehir/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/nevsehir/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -55164,6 +56676,30 @@
         "href": "/ders-notlari/mersin/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/mersin/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/mersin/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/mersin/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -56027,6 +57563,30 @@
         "href": "/ders-notlari/hatay/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/hatay/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/hatay/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/hatay/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -56889,6 +58449,30 @@
         "href": "/ders-notlari/kahramanmaras/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/kahramanmaras/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/kahramanmaras/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/kahramanmaras/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -57751,6 +59335,30 @@
         "href": "/ders-notlari/osmaniye/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/osmaniye/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/osmaniye/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/osmaniye/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -58614,6 +60222,30 @@
         "href": "/ders-notlari/samsun/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/samsun/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/samsun/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/samsun/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -59476,6 +61108,30 @@
         "href": "/ders-notlari/ordu/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/ordu/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/ordu/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/ordu/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -60338,6 +61994,30 @@
         "href": "/ders-notlari/giresun/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/giresun/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/giresun/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/giresun/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -61201,6 +62881,30 @@
         "href": "/ders-notlari/rize/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/rize/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/rize/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/rize/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -62063,6 +63767,30 @@
         "href": "/ders-notlari/artvin/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/artvin/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/artvin/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/artvin/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -62927,6 +64655,30 @@
         "href": "/ders-notlari/van-yyu/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/van-yyu/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/van-yyu/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/van-yyu/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -63789,6 +65541,30 @@
         "href": "/ders-notlari/agri/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/agri/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/agri/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/agri/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -64651,6 +66427,30 @@
         "href": "/ders-notlari/kars/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/kars/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/kars/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/kars/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -65513,6 +67313,30 @@
         "href": "/ders-notlari/erzincan/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/erzincan/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/erzincan/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/erzincan/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -66375,6 +68199,30 @@
         "href": "/ders-notlari/bayburt/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/bayburt/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/bayburt/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/bayburt/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -67237,6 +69085,30 @@
         "href": "/ders-notlari/gumushane/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/gumushane/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/gumushane/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/gumushane/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -68099,6 +69971,30 @@
         "href": "/ders-notlari/bingol/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/bingol/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/bingol/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/bingol/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -68961,6 +70857,30 @@
         "href": "/ders-notlari/mus/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/mus/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/mus/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/mus/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -69823,6 +71743,30 @@
         "href": "/ders-notlari/hakkari/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/hakkari/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/hakkari/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/hakkari/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -70685,6 +72629,30 @@
         "href": "/ders-notlari/sirnak/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/sirnak/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/sirnak/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/sirnak/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -71548,6 +73516,30 @@
         "href": "/ders-notlari/mardin/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/mardin/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/mardin/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/mardin/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -72410,6 +74402,30 @@
         "href": "/ders-notlari/batman/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/batman/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/batman/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/batman/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -73272,6 +75288,30 @@
         "href": "/ders-notlari/siirt/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/siirt/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/siirt/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/siirt/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -74134,6 +76174,30 @@
         "href": "/ders-notlari/adiyaman/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/adiyaman/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/adiyaman/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/adiyaman/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -74996,6 +77060,30 @@
         "href": "/ders-notlari/kilis/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/kilis/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/kilis/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/kilis/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -75858,6 +77946,30 @@
         "href": "/ders-notlari/igdir/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/igdir/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/igdir/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/igdir/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -76720,6 +78832,30 @@
         "href": "/ders-notlari/ardahan/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/ardahan/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/ardahan/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/ardahan/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -77582,6 +79718,30 @@
         "href": "/ders-notlari/bilecik/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/bilecik/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/bilecik/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/bilecik/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -78445,6 +80605,30 @@
         "href": "/ders-notlari/bolu/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/bolu/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/bolu/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/bolu/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -79307,6 +81491,30 @@
         "href": "/ders-notlari/duzce/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/duzce/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/duzce/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/duzce/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -80169,6 +82377,30 @@
         "href": "/ders-notlari/zonguldak/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/zonguldak/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/zonguldak/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/zonguldak/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -81031,6 +83263,30 @@
         "href": "/ders-notlari/karabuk/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/karabuk/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/karabuk/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/karabuk/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -81893,6 +84149,30 @@
         "href": "/ders-notlari/kastamonu/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/kastamonu/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/kastamonu/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/kastamonu/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -82755,6 +85035,30 @@
         "href": "/ders-notlari/sinop/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/sinop/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/sinop/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/sinop/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -83618,6 +85922,30 @@
         "href": "/ders-notlari/corum/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/corum/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/corum/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/corum/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -84480,6 +86808,30 @@
         "href": "/ders-notlari/amasya/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/amasya/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/amasya/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/amasya/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -85342,6 +87694,30 @@
         "href": "/ders-notlari/cankiri/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/cankiri/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/cankiri/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/cankiri/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -86204,6 +88580,30 @@
         "href": "/ders-notlari/kirikkale/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/kirikkale/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/kirikkale/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/kirikkale/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -87066,6 +89466,30 @@
         "href": "/ders-notlari/aksaray/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/aksaray/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/aksaray/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/aksaray/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -87928,6 +90352,30 @@
         "href": "/ders-notlari/nigde/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/nigde/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/nigde/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/nigde/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -88790,6 +91238,30 @@
         "href": "/ders-notlari/konya-teknik/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/konya-teknik/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/konya-teknik/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/konya-teknik/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -89652,6 +92124,30 @@
         "href": "/ders-notlari/karaman/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/karaman/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/karaman/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/karaman/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -90514,6 +93010,30 @@
         "href": "/ders-notlari/usak/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/usak/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/usak/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/usak/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -91377,6 +93897,30 @@
         "href": "/ders-notlari/manisa/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/manisa/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/manisa/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/manisa/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -92239,6 +94783,30 @@
         "href": "/ders-notlari/aydin-adu/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/aydin-adu/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/aydin-adu/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/aydin-adu/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -93101,6 +95669,30 @@
         "href": "/ders-notlari/tekirdag/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/tekirdag/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/tekirdag/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/tekirdag/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -93963,6 +96555,30 @@
         "href": "/ders-notlari/kirklareli/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/kirklareli/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/kirklareli/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/kirklareli/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -94825,6 +97441,30 @@
         "href": "/ders-notlari/atilim/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/atilim/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/atilim/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/atilim/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -95687,6 +98327,30 @@
         "href": "/ders-notlari/cankaya/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/cankaya/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/cankaya/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/cankaya/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -96549,6 +99213,30 @@
         "href": "/ders-notlari/ufuk/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/ufuk/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/ufuk/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/ufuk/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -97411,6 +100099,30 @@
         "href": "/ders-notlari/yasar/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/yasar/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/yasar/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/yasar/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -98273,6 +100985,30 @@
         "href": "/ders-notlari/izmir-ekonomi/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/izmir-ekonomi/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/izmir-ekonomi/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/izmir-ekonomi/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -99135,6 +101871,30 @@
         "href": "/ders-notlari/tinaztepe/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/tinaztepe/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/tinaztepe/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/tinaztepe/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -99997,6 +102757,30 @@
         "href": "/ders-notlari/asbu-vakif/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/asbu-vakif/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/asbu-vakif/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/asbu-vakif/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -100859,6 +103643,30 @@
         "href": "/ders-notlari/hasan-kalyoncu/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/hasan-kalyoncu/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/hasan-kalyoncu/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/hasan-kalyoncu/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -101721,6 +104529,30 @@
         "href": "/ders-notlari/sanko/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/sanko/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/sanko/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/sanko/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -102583,6 +105415,30 @@
         "href": "/ders-notlari/toros/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/toros/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/toros/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/toros/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [
@@ -103445,6 +106301,30 @@
         "href": "/ders-notlari/cag/hukuka-giris-yillik",
         "ready": true,
         "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "anayasa-donem-1",
+        "title": "Anayasa Hukuku — 1. Dönem (Genel Esaslar)",
+        "year": 1,
+        "href": "/ders-notlari/cag/anayasa-donem-1",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-donem-2",
+        "title": "Anayasa Hukuku — 2. Dönem (Türk Anayasa Düzeni)",
+        "year": 1,
+        "href": "/ders-notlari/cag/anayasa-donem-2",
+        "ready": true,
+        "variantOf": "anayasa"
+      },
+      {
+        "code": "anayasa-yillik",
+        "title": "Anayasa Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/cag/anayasa-yillik",
+        "ready": true,
+        "variantOf": "anayasa"
       }
     ],
     "seoParagraphs": [

@@ -747,6 +747,21 @@ export function DersNotuView({
               { code: 'hukuka-giris-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
             ],
           },
+          {
+            match:
+              note.variantOf === 'anayasa' ||
+              note.courseCode === 'anayasa-1' ||
+              note.courseCode === 'anayasa-2' ||
+              note.courseCode === 'anayasa' ||
+              note.courseCode.startsWith('anayasa-donem') ||
+              note.courseCode === 'anayasa-yillik',
+            title: 'Anayasa Hukuku · üç paket',
+            items: [
+              { code: 'anayasa-donem-1', label: '1. Dönem (Güz)', desc: 'Genel esaslar · haklar' },
+              { code: 'anayasa-donem-2', label: '2. Dönem (Bahar)', desc: 'Organlar · AYM' },
+              { code: 'anayasa-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
+            ],
+          },
         ];
         const activePacks = packs.filter((p) => p.match);
         if (!activePacks.length) return null;
@@ -1522,6 +1537,24 @@ export function UniHubView({ hub }: { hub: UniHubContent }) {
               { code: 'hukuka-giris-donem-1', title: '1. Dönem (Güz)' },
               { code: 'hukuka-giris-donem-2', title: '2. Dönem (Bahar)' },
               { code: 'hukuka-giris-yillik', title: 'Yıllık tam not' },
+            ],
+          },
+          {
+            show: hub.courses.some(
+              (c) =>
+                String(c.code).startsWith('anayasa') ||
+                c.code === 'anayasa-1' ||
+                c.code === 'anayasa-2'
+            ),
+            title: 'Anayasa Hukuku — 1. dönem · 2. dönem · yıllık',
+            desc: 'Genel esaslar–organlar–AYM–haklar… üç premium not + PDF.',
+            border: 'border-accent/20 bg-accent/[0.04]',
+            itemBorder: 'border-accent/25',
+            accent: 'text-accent',
+            items: [
+              { code: 'anayasa-donem-1', title: '1. Dönem (Genel Esaslar)' },
+              { code: 'anayasa-donem-2', title: '2. Dönem (Türk Düzeni)' },
+              { code: 'anayasa-yillik', title: 'Yıllık tam not' },
             ],
           },
         ]
