@@ -3,7 +3,7 @@
   "wave": "all",
   "universityCount": 120,
   "hubCount": 120,
-  "noteCount": 8760,
+  "noteCount": 9120,
   "universities": [
     {
       "slug": "ankara-yildirim-beyazit",
@@ -72966,6 +72966,3246 @@
       "href": "/ders-notlari/cag/ceza-ozel-yillik",
       "variantOf": "ceza-ozel",
       "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "cmk-donem-1",
+      "slug": "ankara-yildirim-beyazit__cmk-donem-1",
+      "title": "AYBÜ CMK 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "cmk-donem-2",
+      "slug": "ankara-yildirim-beyazit__cmk-donem-2",
+      "title": "AYBÜ CMK 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "cmk-yillik",
+      "slug": "ankara-yildirim-beyazit__cmk-yillik",
+      "title": "AYBÜ CMK Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "cmk-donem-1",
+      "slug": "ankara__cmk-donem-1",
+      "title": "AÜHF CMK 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "cmk-donem-2",
+      "slug": "ankara__cmk-donem-2",
+      "title": "AÜHF CMK 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "cmk-yillik",
+      "slug": "ankara__cmk-yillik",
+      "title": "AÜHF CMK Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "cmk-donem-1",
+      "slug": "istanbul__cmk-donem-1",
+      "title": "İÜHF CMK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "cmk-donem-2",
+      "slug": "istanbul__cmk-donem-2",
+      "title": "İÜHF CMK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "cmk-yillik",
+      "slug": "istanbul__cmk-yillik",
+      "title": "İÜHF CMK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "cmk-donem-1",
+      "slug": "marmara__cmk-donem-1",
+      "title": "MÜHF CMK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "cmk-donem-2",
+      "slug": "marmara__cmk-donem-2",
+      "title": "MÜHF CMK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "cmk-yillik",
+      "slug": "marmara__cmk-yillik",
+      "title": "MÜHF CMK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "cmk-donem-1",
+      "slug": "galatasaray__cmk-donem-1",
+      "title": "GSÜ CMK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "cmk-donem-2",
+      "slug": "galatasaray__cmk-donem-2",
+      "title": "GSÜ CMK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "cmk-yillik",
+      "slug": "galatasaray__cmk-yillik",
+      "title": "GSÜ CMK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "cmk-donem-1",
+      "slug": "dokuz-eylul__cmk-donem-1",
+      "title": "DEÜ CMK 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "cmk-donem-2",
+      "slug": "dokuz-eylul__cmk-donem-2",
+      "title": "DEÜ CMK 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "cmk-yillik",
+      "slug": "dokuz-eylul__cmk-yillik",
+      "title": "DEÜ CMK Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "cmk-donem-1",
+      "slug": "hacettepe__cmk-donem-1",
+      "title": "Hacettepe CMK 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "cmk-donem-2",
+      "slug": "hacettepe__cmk-donem-2",
+      "title": "Hacettepe CMK 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "cmk-yillik",
+      "slug": "hacettepe__cmk-yillik",
+      "title": "Hacettepe CMK Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "cmk-donem-1",
+      "slug": "ankara-hacibayram__cmk-donem-1",
+      "title": "AHBV CMK 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "cmk-donem-2",
+      "slug": "ankara-hacibayram__cmk-donem-2",
+      "title": "AHBV CMK 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "cmk-yillik",
+      "slug": "ankara-hacibayram__cmk-yillik",
+      "title": "AHBV CMK Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "cmk-donem-1",
+      "slug": "bilkent__cmk-donem-1",
+      "title": "Bilkent CMK 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "cmk-donem-2",
+      "slug": "bilkent__cmk-donem-2",
+      "title": "Bilkent CMK 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "cmk-yillik",
+      "slug": "bilkent__cmk-yillik",
+      "title": "Bilkent CMK Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "cmk-donem-1",
+      "slug": "koc__cmk-donem-1",
+      "title": "Koç CMK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "cmk-donem-2",
+      "slug": "koc__cmk-donem-2",
+      "title": "Koç CMK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "cmk-yillik",
+      "slug": "koc__cmk-yillik",
+      "title": "Koç CMK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "cmk-donem-1",
+      "slug": "tobb-etu__cmk-donem-1",
+      "title": "TOBB ETÜ CMK 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "cmk-donem-2",
+      "slug": "tobb-etu__cmk-donem-2",
+      "title": "TOBB ETÜ CMK 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "cmk-yillik",
+      "slug": "tobb-etu__cmk-yillik",
+      "title": "TOBB ETÜ CMK Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "cmk-donem-1",
+      "slug": "bogazici__cmk-donem-1",
+      "title": "BÜ CMK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "cmk-donem-2",
+      "slug": "bogazici__cmk-donem-2",
+      "title": "BÜ CMK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "cmk-yillik",
+      "slug": "bogazici__cmk-yillik",
+      "title": "BÜ CMK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "cmk-donem-1",
+      "slug": "ege__cmk-donem-1",
+      "title": "Ege CMK 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "cmk-donem-2",
+      "slug": "ege__cmk-donem-2",
+      "title": "Ege CMK 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "cmk-yillik",
+      "slug": "ege__cmk-yillik",
+      "title": "Ege CMK Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "cmk-donem-1",
+      "slug": "akdeniz__cmk-donem-1",
+      "title": "Akdeniz CMK 1. Dönem (Güz) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "cmk-donem-2",
+      "slug": "akdeniz__cmk-donem-2",
+      "title": "Akdeniz CMK 2. Dönem (Bahar) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "cmk-yillik",
+      "slug": "akdeniz__cmk-yillik",
+      "title": "Akdeniz CMK Yıllık (Tam paket) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "cmk-donem-1",
+      "slug": "selcuk__cmk-donem-1",
+      "title": "Selçuk CMK 1. Dönem (Güz) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "cmk-donem-2",
+      "slug": "selcuk__cmk-donem-2",
+      "title": "Selçuk CMK 2. Dönem (Bahar) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "cmk-yillik",
+      "slug": "selcuk__cmk-yillik",
+      "title": "Selçuk CMK Yıllık (Tam paket) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "cmk-donem-1",
+      "slug": "erciyes__cmk-donem-1",
+      "title": "Erciyes CMK 1. Dönem (Güz) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "cmk-donem-2",
+      "slug": "erciyes__cmk-donem-2",
+      "title": "Erciyes CMK 2. Dönem (Bahar) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "cmk-yillik",
+      "slug": "erciyes__cmk-yillik",
+      "title": "Erciyes CMK Yıllık (Tam paket) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "cmk-donem-1",
+      "slug": "uludag__cmk-donem-1",
+      "title": "Uludağ CMK 1. Dönem (Güz) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "cmk-donem-2",
+      "slug": "uludag__cmk-donem-2",
+      "title": "Uludağ CMK 2. Dönem (Bahar) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "cmk-yillik",
+      "slug": "uludag__cmk-yillik",
+      "title": "Uludağ CMK Yıllık (Tam paket) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "cmk-donem-1",
+      "slug": "cukurova__cmk-donem-1",
+      "title": "Çukurova CMK 1. Dönem (Güz) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "cmk-donem-2",
+      "slug": "cukurova__cmk-donem-2",
+      "title": "Çukurova CMK 2. Dönem (Bahar) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "cmk-yillik",
+      "slug": "cukurova__cmk-yillik",
+      "title": "Çukurova CMK Yıllık (Tam paket) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "cmk-donem-1",
+      "slug": "anadolu__cmk-donem-1",
+      "title": "Anadolu CMK 1. Dönem (Güz) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "cmk-donem-2",
+      "slug": "anadolu__cmk-donem-2",
+      "title": "Anadolu CMK 2. Dönem (Bahar) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "cmk-yillik",
+      "slug": "anadolu__cmk-yillik",
+      "title": "Anadolu CMK Yıllık (Tam paket) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "cmk-donem-1",
+      "slug": "gazi-ankara__cmk-donem-1",
+      "title": "ASBÜ CMK 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "cmk-donem-2",
+      "slug": "gazi-ankara__cmk-donem-2",
+      "title": "ASBÜ CMK 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "cmk-yillik",
+      "slug": "gazi-ankara__cmk-yillik",
+      "title": "ASBÜ CMK Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "cmk-donem-1",
+      "slug": "yildiz-teknik__cmk-donem-1",
+      "title": "YTÜ CMK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "cmk-donem-2",
+      "slug": "yildiz-teknik__cmk-donem-2",
+      "title": "YTÜ CMK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "cmk-yillik",
+      "slug": "yildiz-teknik__cmk-yillik",
+      "title": "YTÜ CMK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "cmk-donem-1",
+      "slug": "istanbul-medeniyet__cmk-donem-1",
+      "title": "Medeniyet CMK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "cmk-donem-2",
+      "slug": "istanbul-medeniyet__cmk-donem-2",
+      "title": "Medeniyet CMK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "cmk-yillik",
+      "slug": "istanbul-medeniyet__cmk-yillik",
+      "title": "Medeniyet CMK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "cmk-donem-1",
+      "slug": "bahcesehir__cmk-donem-1",
+      "title": "BAU CMK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "cmk-donem-2",
+      "slug": "bahcesehir__cmk-donem-2",
+      "title": "BAU CMK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "cmk-yillik",
+      "slug": "bahcesehir__cmk-yillik",
+      "title": "BAU CMK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "cmk-donem-1",
+      "slug": "yeditepe__cmk-donem-1",
+      "title": "Yeditepe CMK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "cmk-donem-2",
+      "slug": "yeditepe__cmk-donem-2",
+      "title": "Yeditepe CMK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "cmk-yillik",
+      "slug": "yeditepe__cmk-yillik",
+      "title": "Yeditepe CMK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "cmk-donem-1",
+      "slug": "ozyegin__cmk-donem-1",
+      "title": "Özyeğin CMK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "cmk-donem-2",
+      "slug": "ozyegin__cmk-donem-2",
+      "title": "Özyeğin CMK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "cmk-yillik",
+      "slug": "ozyegin__cmk-yillik",
+      "title": "Özyeğin CMK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "cmk-donem-1",
+      "slug": "kadir-has__cmk-donem-1",
+      "title": "KHAS CMK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "cmk-donem-2",
+      "slug": "kadir-has__cmk-donem-2",
+      "title": "KHAS CMK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "cmk-yillik",
+      "slug": "kadir-has__cmk-yillik",
+      "title": "KHAS CMK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "cmk-donem-1",
+      "slug": "istanbul-bilgi__cmk-donem-1",
+      "title": "Bilgi CMK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "cmk-donem-2",
+      "slug": "istanbul-bilgi__cmk-donem-2",
+      "title": "Bilgi CMK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "cmk-yillik",
+      "slug": "istanbul-bilgi__cmk-yillik",
+      "title": "Bilgi CMK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "cmk-donem-1",
+      "slug": "mehmet-akif__cmk-donem-1",
+      "title": "Medipol CMK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "cmk-donem-2",
+      "slug": "mehmet-akif__cmk-donem-2",
+      "title": "Medipol CMK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "cmk-yillik",
+      "slug": "mehmet-akif__cmk-yillik",
+      "title": "Medipol CMK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "cmk-donem-1",
+      "slug": "altinbas__cmk-donem-1",
+      "title": "Altınbaş CMK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "cmk-donem-2",
+      "slug": "altinbas__cmk-donem-2",
+      "title": "Altınbaş CMK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "cmk-yillik",
+      "slug": "altinbas__cmk-yillik",
+      "title": "Altınbaş CMK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "cmk-donem-1",
+      "slug": "maltepe__cmk-donem-1",
+      "title": "Maltepe CMK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "cmk-donem-2",
+      "slug": "maltepe__cmk-donem-2",
+      "title": "Maltepe CMK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "cmk-yillik",
+      "slug": "maltepe__cmk-yillik",
+      "title": "Maltepe CMK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "cmk-donem-1",
+      "slug": "dogus__cmk-donem-1",
+      "title": "Doğuş CMK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "cmk-donem-2",
+      "slug": "dogus__cmk-donem-2",
+      "title": "Doğuş CMK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "cmk-yillik",
+      "slug": "dogus__cmk-yillik",
+      "title": "Doğuş CMK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "cmk-donem-1",
+      "slug": "isik__cmk-donem-1",
+      "title": "Işık CMK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "cmk-donem-2",
+      "slug": "isik__cmk-donem-2",
+      "title": "Işık CMK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "cmk-yillik",
+      "slug": "isik__cmk-yillik",
+      "title": "Işık CMK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "cmk-donem-1",
+      "slug": "okan__cmk-donem-1",
+      "title": "Okan CMK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "cmk-donem-2",
+      "slug": "okan__cmk-donem-2",
+      "title": "Okan CMK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "cmk-yillik",
+      "slug": "okan__cmk-yillik",
+      "title": "Okan CMK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "cmk-donem-1",
+      "slug": "kultur__cmk-donem-1",
+      "title": "İKÜ CMK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "cmk-donem-2",
+      "slug": "kultur__cmk-donem-2",
+      "title": "İKÜ CMK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "cmk-yillik",
+      "slug": "kultur__cmk-yillik",
+      "title": "İKÜ CMK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "cmk-donem-1",
+      "slug": "aydin__cmk-donem-1",
+      "title": "İAÜ CMK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "cmk-donem-2",
+      "slug": "aydin__cmk-donem-2",
+      "title": "İAÜ CMK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "cmk-yillik",
+      "slug": "aydin__cmk-yillik",
+      "title": "İAÜ CMK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "cmk-donem-1",
+      "slug": "gelisim__cmk-donem-1",
+      "title": "Gelişim CMK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "cmk-donem-2",
+      "slug": "gelisim__cmk-donem-2",
+      "title": "Gelişim CMK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "cmk-yillik",
+      "slug": "gelisim__cmk-yillik",
+      "title": "Gelişim CMK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "cmk-donem-1",
+      "slug": "topkapi__cmk-donem-1",
+      "title": "Topkapı CMK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "cmk-donem-2",
+      "slug": "topkapi__cmk-donem-2",
+      "title": "Topkapı CMK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "cmk-yillik",
+      "slug": "topkapi__cmk-yillik",
+      "title": "Topkapı CMK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "cmk-donem-1",
+      "slug": "nisantasi__cmk-donem-1",
+      "title": "Nişantaşı CMK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "cmk-donem-2",
+      "slug": "nisantasi__cmk-donem-2",
+      "title": "Nişantaşı CMK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "cmk-yillik",
+      "slug": "nisantasi__cmk-yillik",
+      "title": "Nişantaşı CMK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "cmk-donem-1",
+      "slug": "beykent__cmk-donem-1",
+      "title": "Beykent CMK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "cmk-donem-2",
+      "slug": "beykent__cmk-donem-2",
+      "title": "Beykent CMK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "cmk-yillik",
+      "slug": "beykent__cmk-yillik",
+      "title": "Beykent CMK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "cmk-donem-1",
+      "slug": "halic__cmk-donem-1",
+      "title": "Haliç CMK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "cmk-donem-2",
+      "slug": "halic__cmk-donem-2",
+      "title": "Haliç CMK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "cmk-yillik",
+      "slug": "halic__cmk-yillik",
+      "title": "Haliç CMK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "cmk-donem-1",
+      "slug": "fatih-sultan__cmk-donem-1",
+      "title": "FSMVÜ CMK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "cmk-donem-2",
+      "slug": "fatih-sultan__cmk-donem-2",
+      "title": "FSMVÜ CMK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "cmk-yillik",
+      "slug": "fatih-sultan__cmk-yillik",
+      "title": "FSMVÜ CMK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "cmk-donem-1",
+      "slug": "karadeniz-teknik__cmk-donem-1",
+      "title": "KTÜ CMK 1. Dönem (Güz) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "cmk-donem-2",
+      "slug": "karadeniz-teknik__cmk-donem-2",
+      "title": "KTÜ CMK 2. Dönem (Bahar) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "cmk-yillik",
+      "slug": "karadeniz-teknik__cmk-yillik",
+      "title": "KTÜ CMK Yıllık (Tam paket) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "cmk-donem-1",
+      "slug": "ataturk__cmk-donem-1",
+      "title": "Atatürk CMK 1. Dönem (Güz) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "cmk-donem-2",
+      "slug": "ataturk__cmk-donem-2",
+      "title": "Atatürk CMK 2. Dönem (Bahar) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "cmk-yillik",
+      "slug": "ataturk__cmk-yillik",
+      "title": "Atatürk CMK Yıllık (Tam paket) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "cmk-donem-1",
+      "slug": "inonu__cmk-donem-1",
+      "title": "İnönü CMK 1. Dönem (Güz) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "cmk-donem-2",
+      "slug": "inonu__cmk-donem-2",
+      "title": "İnönü CMK 2. Dönem (Bahar) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "cmk-yillik",
+      "slug": "inonu__cmk-yillik",
+      "title": "İnönü CMK Yıllık (Tam paket) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "cmk-donem-1",
+      "slug": "dicle__cmk-donem-1",
+      "title": "Dicle CMK 1. Dönem (Güz) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "cmk-donem-2",
+      "slug": "dicle__cmk-donem-2",
+      "title": "Dicle CMK 2. Dönem (Bahar) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "cmk-yillik",
+      "slug": "dicle__cmk-yillik",
+      "title": "Dicle CMK Yıllık (Tam paket) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "cmk-donem-1",
+      "slug": "firat__cmk-donem-1",
+      "title": "Fırat CMK 1. Dönem (Güz) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "cmk-donem-2",
+      "slug": "firat__cmk-donem-2",
+      "title": "Fırat CMK 2. Dönem (Bahar) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "cmk-yillik",
+      "slug": "firat__cmk-yillik",
+      "title": "Fırat CMK Yıllık (Tam paket) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "cmk-donem-1",
+      "slug": "gaziantep__cmk-donem-1",
+      "title": "GAÜN CMK 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "cmk-donem-2",
+      "slug": "gaziantep__cmk-donem-2",
+      "title": "GAÜN CMK 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "cmk-yillik",
+      "slug": "gaziantep__cmk-yillik",
+      "title": "GAÜN CMK Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "cmk-donem-1",
+      "slug": "suleyman-demirel__cmk-donem-1",
+      "title": "SDÜ CMK 1. Dönem (Güz) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "cmk-donem-2",
+      "slug": "suleyman-demirel__cmk-donem-2",
+      "title": "SDÜ CMK 2. Dönem (Bahar) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "cmk-yillik",
+      "slug": "suleyman-demirel__cmk-yillik",
+      "title": "SDÜ CMK Yıllık (Tam paket) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "cmk-donem-1",
+      "slug": "pamukkale__cmk-donem-1",
+      "title": "PAÜ CMK 1. Dönem (Güz) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "cmk-donem-2",
+      "slug": "pamukkale__cmk-donem-2",
+      "title": "PAÜ CMK 2. Dönem (Bahar) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "cmk-yillik",
+      "slug": "pamukkale__cmk-yillik",
+      "title": "PAÜ CMK Yıllık (Tam paket) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "cmk-donem-1",
+      "slug": "mugla__cmk-donem-1",
+      "title": "MSKU CMK 1. Dönem (Güz) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "cmk-donem-2",
+      "slug": "mugla__cmk-donem-2",
+      "title": "MSKU CMK 2. Dönem (Bahar) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "cmk-yillik",
+      "slug": "mugla__cmk-yillik",
+      "title": "MSKU CMK Yıllık (Tam paket) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "cmk-donem-1",
+      "slug": "sakarya__cmk-donem-1",
+      "title": "SAÜ CMK 1. Dönem (Güz) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "cmk-donem-2",
+      "slug": "sakarya__cmk-donem-2",
+      "title": "SAÜ CMK 2. Dönem (Bahar) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "cmk-yillik",
+      "slug": "sakarya__cmk-yillik",
+      "title": "SAÜ CMK Yıllık (Tam paket) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "cmk-donem-1",
+      "slug": "kocaeli__cmk-donem-1",
+      "title": "KOÜ CMK 1. Dönem (Güz) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "cmk-donem-2",
+      "slug": "kocaeli__cmk-donem-2",
+      "title": "KOÜ CMK 2. Dönem (Bahar) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "cmk-yillik",
+      "slug": "kocaeli__cmk-yillik",
+      "title": "KOÜ CMK Yıllık (Tam paket) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "cmk-donem-1",
+      "slug": "trakya__cmk-donem-1",
+      "title": "Trakya CMK 1. Dönem (Güz) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "cmk-donem-2",
+      "slug": "trakya__cmk-donem-2",
+      "title": "Trakya CMK 2. Dönem (Bahar) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "cmk-yillik",
+      "slug": "trakya__cmk-yillik",
+      "title": "Trakya CMK Yıllık (Tam paket) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "cmk-donem-1",
+      "slug": "canakkale__cmk-donem-1",
+      "title": "ÇOMÜ CMK 1. Dönem (Güz) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "cmk-donem-2",
+      "slug": "canakkale__cmk-donem-2",
+      "title": "ÇOMÜ CMK 2. Dönem (Bahar) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "cmk-yillik",
+      "slug": "canakkale__cmk-yillik",
+      "title": "ÇOMÜ CMK Yıllık (Tam paket) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "cmk-donem-1",
+      "slug": "balikesir__cmk-donem-1",
+      "title": "BAÜN CMK 1. Dönem (Güz) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "cmk-donem-2",
+      "slug": "balikesir__cmk-donem-2",
+      "title": "BAÜN CMK 2. Dönem (Bahar) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "cmk-yillik",
+      "slug": "balikesir__cmk-yillik",
+      "title": "BAÜN CMK Yıllık (Tam paket) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "cmk-donem-1",
+      "slug": "afyon__cmk-donem-1",
+      "title": "AKÜ CMK 1. Dönem (Güz) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "cmk-donem-2",
+      "slug": "afyon__cmk-donem-2",
+      "title": "AKÜ CMK 2. Dönem (Bahar) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "cmk-yillik",
+      "slug": "afyon__cmk-yillik",
+      "title": "AKÜ CMK Yıllık (Tam paket) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "cmk-donem-1",
+      "slug": "dumlupinar__cmk-donem-1",
+      "title": "DPÜ CMK 1. Dönem (Güz) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "cmk-donem-2",
+      "slug": "dumlupinar__cmk-donem-2",
+      "title": "DPÜ CMK 2. Dönem (Bahar) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "cmk-yillik",
+      "slug": "dumlupinar__cmk-yillik",
+      "title": "DPÜ CMK Yıllık (Tam paket) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "cmk-donem-1",
+      "slug": "eskisehir-osmangazi__cmk-donem-1",
+      "title": "ESOGÜ CMK 1. Dönem (Güz) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "cmk-donem-2",
+      "slug": "eskisehir-osmangazi__cmk-donem-2",
+      "title": "ESOGÜ CMK 2. Dönem (Bahar) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "cmk-yillik",
+      "slug": "eskisehir-osmangazi__cmk-yillik",
+      "title": "ESOGÜ CMK Yıllık (Tam paket) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "cmk-donem-1",
+      "slug": "sivas-cumhuriyet__cmk-donem-1",
+      "title": "SCÜ CMK 1. Dönem (Güz) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "cmk-donem-2",
+      "slug": "sivas-cumhuriyet__cmk-donem-2",
+      "title": "SCÜ CMK 2. Dönem (Bahar) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "cmk-yillik",
+      "slug": "sivas-cumhuriyet__cmk-yillik",
+      "title": "SCÜ CMK Yıllık (Tam paket) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "cmk-donem-1",
+      "slug": "tokat__cmk-donem-1",
+      "title": "TOGÜ CMK 1. Dönem (Güz) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "cmk-donem-2",
+      "slug": "tokat__cmk-donem-2",
+      "title": "TOGÜ CMK 2. Dönem (Bahar) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "cmk-yillik",
+      "slug": "tokat__cmk-yillik",
+      "title": "TOGÜ CMK Yıllık (Tam paket) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "cmk-donem-1",
+      "slug": "yozgat__cmk-donem-1",
+      "title": "Bozok CMK 1. Dönem (Güz) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "cmk-donem-2",
+      "slug": "yozgat__cmk-donem-2",
+      "title": "Bozok CMK 2. Dönem (Bahar) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "cmk-yillik",
+      "slug": "yozgat__cmk-yillik",
+      "title": "Bozok CMK Yıllık (Tam paket) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "cmk-donem-1",
+      "slug": "kirsehir__cmk-donem-1",
+      "title": "AHİEVRAN CMK 1. Dönem (Güz) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "cmk-donem-2",
+      "slug": "kirsehir__cmk-donem-2",
+      "title": "AHİEVRAN CMK 2. Dönem (Bahar) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "cmk-yillik",
+      "slug": "kirsehir__cmk-yillik",
+      "title": "AHİEVRAN CMK Yıllık (Tam paket) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "cmk-donem-1",
+      "slug": "nevsehir__cmk-donem-1",
+      "title": "NEVÜ CMK 1. Dönem (Güz) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "cmk-donem-2",
+      "slug": "nevsehir__cmk-donem-2",
+      "title": "NEVÜ CMK 2. Dönem (Bahar) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "cmk-yillik",
+      "slug": "nevsehir__cmk-yillik",
+      "title": "NEVÜ CMK Yıllık (Tam paket) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "cmk-donem-1",
+      "slug": "mersin__cmk-donem-1",
+      "title": "MEÜ CMK 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "cmk-donem-2",
+      "slug": "mersin__cmk-donem-2",
+      "title": "MEÜ CMK 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "cmk-yillik",
+      "slug": "mersin__cmk-yillik",
+      "title": "MEÜ CMK Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "cmk-donem-1",
+      "slug": "hatay__cmk-donem-1",
+      "title": "MKÜ CMK 1. Dönem (Güz) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "cmk-donem-2",
+      "slug": "hatay__cmk-donem-2",
+      "title": "MKÜ CMK 2. Dönem (Bahar) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "cmk-yillik",
+      "slug": "hatay__cmk-yillik",
+      "title": "MKÜ CMK Yıllık (Tam paket) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "cmk-donem-1",
+      "slug": "kahramanmaras__cmk-donem-1",
+      "title": "KSÜ CMK 1. Dönem (Güz) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "cmk-donem-2",
+      "slug": "kahramanmaras__cmk-donem-2",
+      "title": "KSÜ CMK 2. Dönem (Bahar) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "cmk-yillik",
+      "slug": "kahramanmaras__cmk-yillik",
+      "title": "KSÜ CMK Yıllık (Tam paket) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "cmk-donem-1",
+      "slug": "osmaniye__cmk-donem-1",
+      "title": "OKÜ CMK 1. Dönem (Güz) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "cmk-donem-2",
+      "slug": "osmaniye__cmk-donem-2",
+      "title": "OKÜ CMK 2. Dönem (Bahar) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "cmk-yillik",
+      "slug": "osmaniye__cmk-yillik",
+      "title": "OKÜ CMK Yıllık (Tam paket) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "cmk-donem-1",
+      "slug": "samsun__cmk-donem-1",
+      "title": "OMÜ CMK 1. Dönem (Güz) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "cmk-donem-2",
+      "slug": "samsun__cmk-donem-2",
+      "title": "OMÜ CMK 2. Dönem (Bahar) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "cmk-yillik",
+      "slug": "samsun__cmk-yillik",
+      "title": "OMÜ CMK Yıllık (Tam paket) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "cmk-donem-1",
+      "slug": "ordu__cmk-donem-1",
+      "title": "ODÜ CMK 1. Dönem (Güz) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "cmk-donem-2",
+      "slug": "ordu__cmk-donem-2",
+      "title": "ODÜ CMK 2. Dönem (Bahar) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "cmk-yillik",
+      "slug": "ordu__cmk-yillik",
+      "title": "ODÜ CMK Yıllık (Tam paket) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "cmk-donem-1",
+      "slug": "giresun__cmk-donem-1",
+      "title": "GÜ CMK 1. Dönem (Güz) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "cmk-donem-2",
+      "slug": "giresun__cmk-donem-2",
+      "title": "GÜ CMK 2. Dönem (Bahar) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "cmk-yillik",
+      "slug": "giresun__cmk-yillik",
+      "title": "GÜ CMK Yıllık (Tam paket) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "cmk-donem-1",
+      "slug": "rize__cmk-donem-1",
+      "title": "RTEÜ CMK 1. Dönem (Güz) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "cmk-donem-2",
+      "slug": "rize__cmk-donem-2",
+      "title": "RTEÜ CMK 2. Dönem (Bahar) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "cmk-yillik",
+      "slug": "rize__cmk-yillik",
+      "title": "RTEÜ CMK Yıllık (Tam paket) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "cmk-donem-1",
+      "slug": "artvin__cmk-donem-1",
+      "title": "AÇÜ CMK 1. Dönem (Güz) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "cmk-donem-2",
+      "slug": "artvin__cmk-donem-2",
+      "title": "AÇÜ CMK 2. Dönem (Bahar) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "cmk-yillik",
+      "slug": "artvin__cmk-yillik",
+      "title": "AÇÜ CMK Yıllık (Tam paket) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "cmk-donem-1",
+      "slug": "van-yyu__cmk-donem-1",
+      "title": "YYÜ CMK 1. Dönem (Güz) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "cmk-donem-2",
+      "slug": "van-yyu__cmk-donem-2",
+      "title": "YYÜ CMK 2. Dönem (Bahar) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "cmk-yillik",
+      "slug": "van-yyu__cmk-yillik",
+      "title": "YYÜ CMK Yıllık (Tam paket) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "cmk-donem-1",
+      "slug": "agri__cmk-donem-1",
+      "title": "AİÇÜ CMK 1. Dönem (Güz) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "cmk-donem-2",
+      "slug": "agri__cmk-donem-2",
+      "title": "AİÇÜ CMK 2. Dönem (Bahar) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "cmk-yillik",
+      "slug": "agri__cmk-yillik",
+      "title": "AİÇÜ CMK Yıllık (Tam paket) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "cmk-donem-1",
+      "slug": "kars__cmk-donem-1",
+      "title": "Kafkas CMK 1. Dönem (Güz) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "cmk-donem-2",
+      "slug": "kars__cmk-donem-2",
+      "title": "Kafkas CMK 2. Dönem (Bahar) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "cmk-yillik",
+      "slug": "kars__cmk-yillik",
+      "title": "Kafkas CMK Yıllık (Tam paket) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "cmk-donem-1",
+      "slug": "erzincan__cmk-donem-1",
+      "title": "EBYÜ CMK 1. Dönem (Güz) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "cmk-donem-2",
+      "slug": "erzincan__cmk-donem-2",
+      "title": "EBYÜ CMK 2. Dönem (Bahar) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "cmk-yillik",
+      "slug": "erzincan__cmk-yillik",
+      "title": "EBYÜ CMK Yıllık (Tam paket) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "cmk-donem-1",
+      "slug": "bayburt__cmk-donem-1",
+      "title": "Bayburt CMK 1. Dönem (Güz) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "cmk-donem-2",
+      "slug": "bayburt__cmk-donem-2",
+      "title": "Bayburt CMK 2. Dönem (Bahar) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "cmk-yillik",
+      "slug": "bayburt__cmk-yillik",
+      "title": "Bayburt CMK Yıllık (Tam paket) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "cmk-donem-1",
+      "slug": "gumushane__cmk-donem-1",
+      "title": "Gümüşhane CMK 1. Dönem (Güz) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "cmk-donem-2",
+      "slug": "gumushane__cmk-donem-2",
+      "title": "Gümüşhane CMK 2. Dönem (Bahar) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "cmk-yillik",
+      "slug": "gumushane__cmk-yillik",
+      "title": "Gümüşhane CMK Yıllık (Tam paket) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "cmk-donem-1",
+      "slug": "bingol__cmk-donem-1",
+      "title": "Bingöl CMK 1. Dönem (Güz) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "cmk-donem-2",
+      "slug": "bingol__cmk-donem-2",
+      "title": "Bingöl CMK 2. Dönem (Bahar) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "cmk-yillik",
+      "slug": "bingol__cmk-yillik",
+      "title": "Bingöl CMK Yıllık (Tam paket) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "cmk-donem-1",
+      "slug": "mus__cmk-donem-1",
+      "title": "Muş CMK 1. Dönem (Güz) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "cmk-donem-2",
+      "slug": "mus__cmk-donem-2",
+      "title": "Muş CMK 2. Dönem (Bahar) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "cmk-yillik",
+      "slug": "mus__cmk-yillik",
+      "title": "Muş CMK Yıllık (Tam paket) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "cmk-donem-1",
+      "slug": "hakkari__cmk-donem-1",
+      "title": "Hakkâri CMK 1. Dönem (Güz) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "cmk-donem-2",
+      "slug": "hakkari__cmk-donem-2",
+      "title": "Hakkâri CMK 2. Dönem (Bahar) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "cmk-yillik",
+      "slug": "hakkari__cmk-yillik",
+      "title": "Hakkâri CMK Yıllık (Tam paket) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "cmk-donem-1",
+      "slug": "sirnak__cmk-donem-1",
+      "title": "Şırnak CMK 1. Dönem (Güz) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "cmk-donem-2",
+      "slug": "sirnak__cmk-donem-2",
+      "title": "Şırnak CMK 2. Dönem (Bahar) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "cmk-yillik",
+      "slug": "sirnak__cmk-yillik",
+      "title": "Şırnak CMK Yıllık (Tam paket) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "cmk-donem-1",
+      "slug": "mardin__cmk-donem-1",
+      "title": "Artuklu CMK 1. Dönem (Güz) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "cmk-donem-2",
+      "slug": "mardin__cmk-donem-2",
+      "title": "Artuklu CMK 2. Dönem (Bahar) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "cmk-yillik",
+      "slug": "mardin__cmk-yillik",
+      "title": "Artuklu CMK Yıllık (Tam paket) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "cmk-donem-1",
+      "slug": "batman__cmk-donem-1",
+      "title": "Batman CMK 1. Dönem (Güz) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "cmk-donem-2",
+      "slug": "batman__cmk-donem-2",
+      "title": "Batman CMK 2. Dönem (Bahar) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "cmk-yillik",
+      "slug": "batman__cmk-yillik",
+      "title": "Batman CMK Yıllık (Tam paket) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "cmk-donem-1",
+      "slug": "siirt__cmk-donem-1",
+      "title": "Siirt CMK 1. Dönem (Güz) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "cmk-donem-2",
+      "slug": "siirt__cmk-donem-2",
+      "title": "Siirt CMK 2. Dönem (Bahar) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "cmk-yillik",
+      "slug": "siirt__cmk-yillik",
+      "title": "Siirt CMK Yıllık (Tam paket) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "cmk-donem-1",
+      "slug": "adiyaman__cmk-donem-1",
+      "title": "Adıyaman CMK 1. Dönem (Güz) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "cmk-donem-2",
+      "slug": "adiyaman__cmk-donem-2",
+      "title": "Adıyaman CMK 2. Dönem (Bahar) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "cmk-yillik",
+      "slug": "adiyaman__cmk-yillik",
+      "title": "Adıyaman CMK Yıllık (Tam paket) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "cmk-donem-1",
+      "slug": "kilis__cmk-donem-1",
+      "title": "Kilis CMK 1. Dönem (Güz) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "cmk-donem-2",
+      "slug": "kilis__cmk-donem-2",
+      "title": "Kilis CMK 2. Dönem (Bahar) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "cmk-yillik",
+      "slug": "kilis__cmk-yillik",
+      "title": "Kilis CMK Yıllık (Tam paket) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "cmk-donem-1",
+      "slug": "igdir__cmk-donem-1",
+      "title": "Iğdır CMK 1. Dönem (Güz) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "cmk-donem-2",
+      "slug": "igdir__cmk-donem-2",
+      "title": "Iğdır CMK 2. Dönem (Bahar) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "cmk-yillik",
+      "slug": "igdir__cmk-yillik",
+      "title": "Iğdır CMK Yıllık (Tam paket) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "cmk-donem-1",
+      "slug": "ardahan__cmk-donem-1",
+      "title": "Ardahan CMK 1. Dönem (Güz) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "cmk-donem-2",
+      "slug": "ardahan__cmk-donem-2",
+      "title": "Ardahan CMK 2. Dönem (Bahar) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "cmk-yillik",
+      "slug": "ardahan__cmk-yillik",
+      "title": "Ardahan CMK Yıllık (Tam paket) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "cmk-donem-1",
+      "slug": "bilecik__cmk-donem-1",
+      "title": "BŞEÜ CMK 1. Dönem (Güz) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "cmk-donem-2",
+      "slug": "bilecik__cmk-donem-2",
+      "title": "BŞEÜ CMK 2. Dönem (Bahar) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "cmk-yillik",
+      "slug": "bilecik__cmk-yillik",
+      "title": "BŞEÜ CMK Yıllık (Tam paket) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "cmk-donem-1",
+      "slug": "bolu__cmk-donem-1",
+      "title": "BAİBÜ CMK 1. Dönem (Güz) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "cmk-donem-2",
+      "slug": "bolu__cmk-donem-2",
+      "title": "BAİBÜ CMK 2. Dönem (Bahar) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "cmk-yillik",
+      "slug": "bolu__cmk-yillik",
+      "title": "BAİBÜ CMK Yıllık (Tam paket) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "cmk-donem-1",
+      "slug": "duzce__cmk-donem-1",
+      "title": "Düzce CMK 1. Dönem (Güz) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "cmk-donem-2",
+      "slug": "duzce__cmk-donem-2",
+      "title": "Düzce CMK 2. Dönem (Bahar) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "cmk-yillik",
+      "slug": "duzce__cmk-yillik",
+      "title": "Düzce CMK Yıllık (Tam paket) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "cmk-donem-1",
+      "slug": "zonguldak__cmk-donem-1",
+      "title": "BEÜN CMK 1. Dönem (Güz) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "cmk-donem-2",
+      "slug": "zonguldak__cmk-donem-2",
+      "title": "BEÜN CMK 2. Dönem (Bahar) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "cmk-yillik",
+      "slug": "zonguldak__cmk-yillik",
+      "title": "BEÜN CMK Yıllık (Tam paket) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "cmk-donem-1",
+      "slug": "karabuk__cmk-donem-1",
+      "title": "KBÜ CMK 1. Dönem (Güz) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "cmk-donem-2",
+      "slug": "karabuk__cmk-donem-2",
+      "title": "KBÜ CMK 2. Dönem (Bahar) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "cmk-yillik",
+      "slug": "karabuk__cmk-yillik",
+      "title": "KBÜ CMK Yıllık (Tam paket) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "cmk-donem-1",
+      "slug": "kastamonu__cmk-donem-1",
+      "title": "KÜ CMK 1. Dönem (Güz) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "cmk-donem-2",
+      "slug": "kastamonu__cmk-donem-2",
+      "title": "KÜ CMK 2. Dönem (Bahar) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "cmk-yillik",
+      "slug": "kastamonu__cmk-yillik",
+      "title": "KÜ CMK Yıllık (Tam paket) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "cmk-donem-1",
+      "slug": "sinop__cmk-donem-1",
+      "title": "Sinop CMK 1. Dönem (Güz) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "cmk-donem-2",
+      "slug": "sinop__cmk-donem-2",
+      "title": "Sinop CMK 2. Dönem (Bahar) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "cmk-yillik",
+      "slug": "sinop__cmk-yillik",
+      "title": "Sinop CMK Yıllık (Tam paket) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "cmk-donem-1",
+      "slug": "corum__cmk-donem-1",
+      "title": "Hitit CMK 1. Dönem (Güz) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "cmk-donem-2",
+      "slug": "corum__cmk-donem-2",
+      "title": "Hitit CMK 2. Dönem (Bahar) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "cmk-yillik",
+      "slug": "corum__cmk-yillik",
+      "title": "Hitit CMK Yıllık (Tam paket) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "cmk-donem-1",
+      "slug": "amasya__cmk-donem-1",
+      "title": "Amasya CMK 1. Dönem (Güz) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "cmk-donem-2",
+      "slug": "amasya__cmk-donem-2",
+      "title": "Amasya CMK 2. Dönem (Bahar) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "cmk-yillik",
+      "slug": "amasya__cmk-yillik",
+      "title": "Amasya CMK Yıllık (Tam paket) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "cmk-donem-1",
+      "slug": "cankiri__cmk-donem-1",
+      "title": "Karatekin CMK 1. Dönem (Güz) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "cmk-donem-2",
+      "slug": "cankiri__cmk-donem-2",
+      "title": "Karatekin CMK 2. Dönem (Bahar) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "cmk-yillik",
+      "slug": "cankiri__cmk-yillik",
+      "title": "Karatekin CMK Yıllık (Tam paket) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "cmk-donem-1",
+      "slug": "kirikkale__cmk-donem-1",
+      "title": "Kırıkkale CMK 1. Dönem (Güz) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "cmk-donem-2",
+      "slug": "kirikkale__cmk-donem-2",
+      "title": "Kırıkkale CMK 2. Dönem (Bahar) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "cmk-yillik",
+      "slug": "kirikkale__cmk-yillik",
+      "title": "Kırıkkale CMK Yıllık (Tam paket) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "cmk-donem-1",
+      "slug": "aksaray__cmk-donem-1",
+      "title": "Aksaray CMK 1. Dönem (Güz) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "cmk-donem-2",
+      "slug": "aksaray__cmk-donem-2",
+      "title": "Aksaray CMK 2. Dönem (Bahar) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "cmk-yillik",
+      "slug": "aksaray__cmk-yillik",
+      "title": "Aksaray CMK Yıllık (Tam paket) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "cmk-donem-1",
+      "slug": "nigde__cmk-donem-1",
+      "title": "ÖHÜ CMK 1. Dönem (Güz) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "cmk-donem-2",
+      "slug": "nigde__cmk-donem-2",
+      "title": "ÖHÜ CMK 2. Dönem (Bahar) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "cmk-yillik",
+      "slug": "nigde__cmk-yillik",
+      "title": "ÖHÜ CMK Yıllık (Tam paket) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "cmk-donem-1",
+      "slug": "konya-teknik__cmk-donem-1",
+      "title": "NEÜ CMK 1. Dönem (Güz) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "cmk-donem-2",
+      "slug": "konya-teknik__cmk-donem-2",
+      "title": "NEÜ CMK 2. Dönem (Bahar) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "cmk-yillik",
+      "slug": "konya-teknik__cmk-yillik",
+      "title": "NEÜ CMK Yıllık (Tam paket) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "cmk-donem-1",
+      "slug": "karaman__cmk-donem-1",
+      "title": "KMÜ CMK 1. Dönem (Güz) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "cmk-donem-2",
+      "slug": "karaman__cmk-donem-2",
+      "title": "KMÜ CMK 2. Dönem (Bahar) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "cmk-yillik",
+      "slug": "karaman__cmk-yillik",
+      "title": "KMÜ CMK Yıllık (Tam paket) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "cmk-donem-1",
+      "slug": "usak__cmk-donem-1",
+      "title": "Uşak CMK 1. Dönem (Güz) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "cmk-donem-2",
+      "slug": "usak__cmk-donem-2",
+      "title": "Uşak CMK 2. Dönem (Bahar) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "cmk-yillik",
+      "slug": "usak__cmk-yillik",
+      "title": "Uşak CMK Yıllık (Tam paket) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "cmk-donem-1",
+      "slug": "manisa__cmk-donem-1",
+      "title": "MCBÜ CMK 1. Dönem (Güz) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "cmk-donem-2",
+      "slug": "manisa__cmk-donem-2",
+      "title": "MCBÜ CMK 2. Dönem (Bahar) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "cmk-yillik",
+      "slug": "manisa__cmk-yillik",
+      "title": "MCBÜ CMK Yıllık (Tam paket) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "cmk-donem-1",
+      "slug": "aydin-adu__cmk-donem-1",
+      "title": "ADÜ CMK 1. Dönem (Güz) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "cmk-donem-2",
+      "slug": "aydin-adu__cmk-donem-2",
+      "title": "ADÜ CMK 2. Dönem (Bahar) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "cmk-yillik",
+      "slug": "aydin-adu__cmk-yillik",
+      "title": "ADÜ CMK Yıllık (Tam paket) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "cmk-donem-1",
+      "slug": "tekirdag__cmk-donem-1",
+      "title": "NKÜ CMK 1. Dönem (Güz) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "cmk-donem-2",
+      "slug": "tekirdag__cmk-donem-2",
+      "title": "NKÜ CMK 2. Dönem (Bahar) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "cmk-yillik",
+      "slug": "tekirdag__cmk-yillik",
+      "title": "NKÜ CMK Yıllık (Tam paket) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "cmk-donem-1",
+      "slug": "kirklareli__cmk-donem-1",
+      "title": "Kırklareli CMK 1. Dönem (Güz) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "cmk-donem-2",
+      "slug": "kirklareli__cmk-donem-2",
+      "title": "Kırklareli CMK 2. Dönem (Bahar) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "cmk-yillik",
+      "slug": "kirklareli__cmk-yillik",
+      "title": "Kırklareli CMK Yıllık (Tam paket) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "cmk-donem-1",
+      "slug": "atilim__cmk-donem-1",
+      "title": "Atılım CMK 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "cmk-donem-2",
+      "slug": "atilim__cmk-donem-2",
+      "title": "Atılım CMK 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "cmk-yillik",
+      "slug": "atilim__cmk-yillik",
+      "title": "Atılım CMK Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "cmk-donem-1",
+      "slug": "cankaya__cmk-donem-1",
+      "title": "Çankaya CMK 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "cmk-donem-2",
+      "slug": "cankaya__cmk-donem-2",
+      "title": "Çankaya CMK 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "cmk-yillik",
+      "slug": "cankaya__cmk-yillik",
+      "title": "Çankaya CMK Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "cmk-donem-1",
+      "slug": "ufuk__cmk-donem-1",
+      "title": "Ufuk CMK 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "cmk-donem-2",
+      "slug": "ufuk__cmk-donem-2",
+      "title": "Ufuk CMK 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "cmk-yillik",
+      "slug": "ufuk__cmk-yillik",
+      "title": "Ufuk CMK Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "cmk-donem-1",
+      "slug": "yasar__cmk-donem-1",
+      "title": "Yaşar CMK 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "cmk-donem-2",
+      "slug": "yasar__cmk-donem-2",
+      "title": "Yaşar CMK 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "cmk-yillik",
+      "slug": "yasar__cmk-yillik",
+      "title": "Yaşar CMK Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "cmk-donem-1",
+      "slug": "izmir-ekonomi__cmk-donem-1",
+      "title": "İEÜ CMK 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "cmk-donem-2",
+      "slug": "izmir-ekonomi__cmk-donem-2",
+      "title": "İEÜ CMK 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "cmk-yillik",
+      "slug": "izmir-ekonomi__cmk-yillik",
+      "title": "İEÜ CMK Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "cmk-donem-1",
+      "slug": "tinaztepe__cmk-donem-1",
+      "title": "Tınaztepe CMK 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "cmk-donem-2",
+      "slug": "tinaztepe__cmk-donem-2",
+      "title": "Tınaztepe CMK 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "cmk-yillik",
+      "slug": "tinaztepe__cmk-yillik",
+      "title": "Tınaztepe CMK Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "cmk-donem-1",
+      "slug": "asbu-vakif__cmk-donem-1",
+      "title": "ABÜ CMK 1. Dönem (Güz) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "cmk-donem-2",
+      "slug": "asbu-vakif__cmk-donem-2",
+      "title": "ABÜ CMK 2. Dönem (Bahar) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "cmk-yillik",
+      "slug": "asbu-vakif__cmk-yillik",
+      "title": "ABÜ CMK Yıllık (Tam paket) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "cmk-donem-1",
+      "slug": "hasan-kalyoncu__cmk-donem-1",
+      "title": "HKÜ CMK 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "cmk-donem-2",
+      "slug": "hasan-kalyoncu__cmk-donem-2",
+      "title": "HKÜ CMK 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "cmk-yillik",
+      "slug": "hasan-kalyoncu__cmk-yillik",
+      "title": "HKÜ CMK Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "cmk-donem-1",
+      "slug": "sanko__cmk-donem-1",
+      "title": "Sanko CMK 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "cmk-donem-2",
+      "slug": "sanko__cmk-donem-2",
+      "title": "Sanko CMK 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "cmk-yillik",
+      "slug": "sanko__cmk-yillik",
+      "title": "Sanko CMK Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "cmk-donem-1",
+      "slug": "toros__cmk-donem-1",
+      "title": "Toros CMK 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "cmk-donem-2",
+      "slug": "toros__cmk-donem-2",
+      "title": "Toros CMK 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "cmk-yillik",
+      "slug": "toros__cmk-yillik",
+      "title": "Toros CMK Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "cmk-donem-1",
+      "slug": "cag__cmk-donem-1",
+      "title": "Çağ CMK 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/cmk-donem-1",
+      "variantOf": "cmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "cmk-donem-2",
+      "slug": "cag__cmk-donem-2",
+      "title": "Çağ CMK 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/cmk-donem-2",
+      "variantOf": "cmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "cmk-yillik",
+      "slug": "cag__cmk-yillik",
+      "title": "Çağ CMK Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/cmk-yillik",
+      "variantOf": "cmk",
+      "variantLabel": "Yıllık (Tam paket)"
     }
   ],
   "borclarGenelTripleAt": "2026-07-29T20:05:58.703Z",
@@ -72982,5 +76222,6 @@
   "sigortaHukukuTripleAt": "2026-07-29T20:46:50.872Z",
   "ticariIsletmeTripleAt": "2026-07-29T20:50:03.289Z",
   "cezaGenelTripleAt": "2026-07-29T20:55:24.643Z",
-  "cezaOzelTripleAt": "2026-07-29T20:55:26.055Z"
+  "cezaOzelTripleAt": "2026-07-29T20:55:26.055Z",
+  "cmkTripleAt": "2026-07-29T20:58:27.953Z"
 }

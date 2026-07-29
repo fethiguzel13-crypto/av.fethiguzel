@@ -576,6 +576,30 @@
         "href": "/ders-notlari/ankara-yildirim-beyazit/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -1175,6 +1199,30 @@
         "href": "/ders-notlari/ankara/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/ankara/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/ankara/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/ankara/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -1775,6 +1823,30 @@
         "href": "/ders-notlari/istanbul/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/istanbul/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/istanbul/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/istanbul/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -2373,6 +2445,30 @@
         "href": "/ders-notlari/marmara/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/marmara/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/marmara/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/marmara/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -2973,6 +3069,30 @@
         "href": "/ders-notlari/galatasaray/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/galatasaray/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/galatasaray/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/galatasaray/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -3572,6 +3692,30 @@
         "href": "/ders-notlari/dokuz-eylul/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/dokuz-eylul/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/dokuz-eylul/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/dokuz-eylul/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -4170,6 +4314,30 @@
         "href": "/ders-notlari/hacettepe/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/hacettepe/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/hacettepe/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/hacettepe/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -4769,6 +4937,30 @@
         "href": "/ders-notlari/ankara-hacibayram/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/ankara-hacibayram/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/ankara-hacibayram/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/ankara-hacibayram/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -5367,6 +5559,30 @@
         "href": "/ders-notlari/bilkent/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/bilkent/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/bilkent/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/bilkent/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -5966,6 +6182,30 @@
         "href": "/ders-notlari/koc/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/koc/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/koc/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/koc/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -6565,6 +6805,30 @@
         "href": "/ders-notlari/tobb-etu/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/tobb-etu/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/tobb-etu/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/tobb-etu/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -7163,6 +7427,30 @@
         "href": "/ders-notlari/bogazici/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/bogazici/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/bogazici/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/bogazici/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -7761,6 +8049,30 @@
         "href": "/ders-notlari/ege/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/ege/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/ege/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/ege/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -8359,6 +8671,30 @@
         "href": "/ders-notlari/akdeniz/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/akdeniz/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/akdeniz/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/akdeniz/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -8957,6 +9293,30 @@
         "href": "/ders-notlari/selcuk/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/selcuk/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/selcuk/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/selcuk/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -9555,6 +9915,30 @@
         "href": "/ders-notlari/erciyes/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/erciyes/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/erciyes/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/erciyes/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -10154,6 +10538,30 @@
         "href": "/ders-notlari/uludag/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/uludag/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/uludag/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/uludag/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -10752,6 +11160,30 @@
         "href": "/ders-notlari/cukurova/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/cukurova/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/cukurova/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/cukurova/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -11350,6 +11782,30 @@
         "href": "/ders-notlari/anadolu/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/anadolu/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/anadolu/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/anadolu/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -11949,6 +12405,30 @@
         "href": "/ders-notlari/gazi-ankara/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/gazi-ankara/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/gazi-ankara/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/gazi-ankara/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -12548,6 +13028,30 @@
         "href": "/ders-notlari/yildiz-teknik/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/yildiz-teknik/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/yildiz-teknik/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/yildiz-teknik/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -13146,6 +13650,30 @@
         "href": "/ders-notlari/istanbul-medeniyet/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/istanbul-medeniyet/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/istanbul-medeniyet/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/istanbul-medeniyet/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -13745,6 +14273,30 @@
         "href": "/ders-notlari/bahcesehir/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/bahcesehir/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/bahcesehir/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/bahcesehir/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -14343,6 +14895,30 @@
         "href": "/ders-notlari/yeditepe/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/yeditepe/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/yeditepe/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/yeditepe/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -14941,6 +15517,30 @@
         "href": "/ders-notlari/ozyegin/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/ozyegin/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/ozyegin/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/ozyegin/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -15539,6 +16139,30 @@
         "href": "/ders-notlari/kadir-has/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kadir-has/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kadir-has/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kadir-has/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -16137,6 +16761,30 @@
         "href": "/ders-notlari/istanbul-bilgi/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/istanbul-bilgi/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/istanbul-bilgi/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/istanbul-bilgi/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -16735,6 +17383,30 @@
         "href": "/ders-notlari/mehmet-akif/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/mehmet-akif/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/mehmet-akif/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/mehmet-akif/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -17333,6 +18005,30 @@
         "href": "/ders-notlari/altinbas/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/altinbas/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/altinbas/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/altinbas/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -17931,6 +18627,30 @@
         "href": "/ders-notlari/maltepe/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/maltepe/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/maltepe/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/maltepe/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -18529,6 +19249,30 @@
         "href": "/ders-notlari/dogus/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/dogus/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/dogus/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/dogus/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -19127,6 +19871,30 @@
         "href": "/ders-notlari/isik/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/isik/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/isik/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/isik/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -19725,6 +20493,30 @@
         "href": "/ders-notlari/okan/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/okan/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/okan/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/okan/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -20323,6 +21115,30 @@
         "href": "/ders-notlari/kultur/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kultur/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kultur/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kultur/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -20921,6 +21737,30 @@
         "href": "/ders-notlari/aydin/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/aydin/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/aydin/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/aydin/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -21519,6 +22359,30 @@
         "href": "/ders-notlari/gelisim/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/gelisim/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/gelisim/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/gelisim/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -22117,6 +22981,30 @@
         "href": "/ders-notlari/topkapi/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/topkapi/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/topkapi/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/topkapi/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -22715,6 +23603,30 @@
         "href": "/ders-notlari/nisantasi/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/nisantasi/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/nisantasi/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/nisantasi/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -23313,6 +24225,30 @@
         "href": "/ders-notlari/beykent/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/beykent/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/beykent/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/beykent/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -23911,6 +24847,30 @@
         "href": "/ders-notlari/halic/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/halic/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/halic/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/halic/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -24509,6 +25469,30 @@
         "href": "/ders-notlari/fatih-sultan/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/fatih-sultan/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/fatih-sultan/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/fatih-sultan/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -25108,6 +26092,30 @@
         "href": "/ders-notlari/karadeniz-teknik/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/karadeniz-teknik/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/karadeniz-teknik/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/karadeniz-teknik/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -25707,6 +26715,30 @@
         "href": "/ders-notlari/ataturk/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/ataturk/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/ataturk/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/ataturk/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -26305,6 +27337,30 @@
         "href": "/ders-notlari/inonu/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/inonu/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/inonu/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/inonu/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -26903,6 +27959,30 @@
         "href": "/ders-notlari/dicle/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/dicle/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/dicle/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/dicle/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -27501,6 +28581,30 @@
         "href": "/ders-notlari/firat/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/firat/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/firat/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/firat/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -28099,6 +29203,30 @@
         "href": "/ders-notlari/gaziantep/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/gaziantep/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/gaziantep/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/gaziantep/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -28698,6 +29826,30 @@
         "href": "/ders-notlari/suleyman-demirel/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/suleyman-demirel/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/suleyman-demirel/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/suleyman-demirel/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -29296,6 +30448,30 @@
         "href": "/ders-notlari/pamukkale/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/pamukkale/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/pamukkale/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/pamukkale/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -29894,6 +31070,30 @@
         "href": "/ders-notlari/mugla/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/mugla/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/mugla/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/mugla/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -30492,6 +31692,30 @@
         "href": "/ders-notlari/sakarya/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/sakarya/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/sakarya/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/sakarya/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -31090,6 +32314,30 @@
         "href": "/ders-notlari/kocaeli/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kocaeli/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kocaeli/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kocaeli/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -31688,6 +32936,30 @@
         "href": "/ders-notlari/trakya/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/trakya/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/trakya/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/trakya/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -32286,6 +33558,30 @@
         "href": "/ders-notlari/canakkale/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/canakkale/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/canakkale/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/canakkale/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -32884,6 +34180,30 @@
         "href": "/ders-notlari/balikesir/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/balikesir/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/balikesir/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/balikesir/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -33483,6 +34803,30 @@
         "href": "/ders-notlari/afyon/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/afyon/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/afyon/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/afyon/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -34081,6 +35425,30 @@
         "href": "/ders-notlari/dumlupinar/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/dumlupinar/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/dumlupinar/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/dumlupinar/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -34679,6 +36047,30 @@
         "href": "/ders-notlari/eskisehir-osmangazi/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/eskisehir-osmangazi/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/eskisehir-osmangazi/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/eskisehir-osmangazi/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -35278,6 +36670,30 @@
         "href": "/ders-notlari/sivas-cumhuriyet/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/sivas-cumhuriyet/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/sivas-cumhuriyet/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/sivas-cumhuriyet/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -35876,6 +37292,30 @@
         "href": "/ders-notlari/tokat/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/tokat/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/tokat/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/tokat/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -36474,6 +37914,30 @@
         "href": "/ders-notlari/yozgat/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/yozgat/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/yozgat/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/yozgat/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -37072,6 +38536,30 @@
         "href": "/ders-notlari/kirsehir/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kirsehir/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kirsehir/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kirsehir/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -37670,6 +39158,30 @@
         "href": "/ders-notlari/nevsehir/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/nevsehir/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/nevsehir/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/nevsehir/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -38268,6 +39780,30 @@
         "href": "/ders-notlari/mersin/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/mersin/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/mersin/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/mersin/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -38867,6 +40403,30 @@
         "href": "/ders-notlari/hatay/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/hatay/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/hatay/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/hatay/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -39465,6 +41025,30 @@
         "href": "/ders-notlari/kahramanmaras/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kahramanmaras/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kahramanmaras/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kahramanmaras/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -40063,6 +41647,30 @@
         "href": "/ders-notlari/osmaniye/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/osmaniye/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/osmaniye/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/osmaniye/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -40662,6 +42270,30 @@
         "href": "/ders-notlari/samsun/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/samsun/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/samsun/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/samsun/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -41260,6 +42892,30 @@
         "href": "/ders-notlari/ordu/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/ordu/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/ordu/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/ordu/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -41858,6 +43514,30 @@
         "href": "/ders-notlari/giresun/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/giresun/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/giresun/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/giresun/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -42457,6 +44137,30 @@
         "href": "/ders-notlari/rize/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/rize/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/rize/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/rize/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -43055,6 +44759,30 @@
         "href": "/ders-notlari/artvin/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/artvin/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/artvin/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/artvin/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -43655,6 +45383,30 @@
         "href": "/ders-notlari/van-yyu/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/van-yyu/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/van-yyu/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/van-yyu/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -44253,6 +46005,30 @@
         "href": "/ders-notlari/agri/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/agri/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/agri/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/agri/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -44851,6 +46627,30 @@
         "href": "/ders-notlari/kars/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kars/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kars/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kars/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -45449,6 +47249,30 @@
         "href": "/ders-notlari/erzincan/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/erzincan/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/erzincan/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/erzincan/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -46047,6 +47871,30 @@
         "href": "/ders-notlari/bayburt/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/bayburt/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/bayburt/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/bayburt/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -46645,6 +48493,30 @@
         "href": "/ders-notlari/gumushane/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/gumushane/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/gumushane/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/gumushane/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -47243,6 +49115,30 @@
         "href": "/ders-notlari/bingol/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/bingol/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/bingol/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/bingol/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -47841,6 +49737,30 @@
         "href": "/ders-notlari/mus/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/mus/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/mus/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/mus/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -48439,6 +50359,30 @@
         "href": "/ders-notlari/hakkari/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/hakkari/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/hakkari/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/hakkari/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -49037,6 +50981,30 @@
         "href": "/ders-notlari/sirnak/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/sirnak/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/sirnak/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/sirnak/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -49636,6 +51604,30 @@
         "href": "/ders-notlari/mardin/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/mardin/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/mardin/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/mardin/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -50234,6 +52226,30 @@
         "href": "/ders-notlari/batman/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/batman/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/batman/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/batman/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -50832,6 +52848,30 @@
         "href": "/ders-notlari/siirt/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/siirt/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/siirt/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/siirt/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -51430,6 +53470,30 @@
         "href": "/ders-notlari/adiyaman/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/adiyaman/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/adiyaman/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/adiyaman/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -52028,6 +54092,30 @@
         "href": "/ders-notlari/kilis/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kilis/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kilis/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kilis/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -52626,6 +54714,30 @@
         "href": "/ders-notlari/igdir/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/igdir/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/igdir/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/igdir/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -53224,6 +55336,30 @@
         "href": "/ders-notlari/ardahan/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/ardahan/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/ardahan/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/ardahan/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -53822,6 +55958,30 @@
         "href": "/ders-notlari/bilecik/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/bilecik/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/bilecik/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/bilecik/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -54421,6 +56581,30 @@
         "href": "/ders-notlari/bolu/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/bolu/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/bolu/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/bolu/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -55019,6 +57203,30 @@
         "href": "/ders-notlari/duzce/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/duzce/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/duzce/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/duzce/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -55617,6 +57825,30 @@
         "href": "/ders-notlari/zonguldak/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/zonguldak/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/zonguldak/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/zonguldak/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -56215,6 +58447,30 @@
         "href": "/ders-notlari/karabuk/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/karabuk/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/karabuk/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/karabuk/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -56813,6 +59069,30 @@
         "href": "/ders-notlari/kastamonu/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kastamonu/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kastamonu/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kastamonu/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -57411,6 +59691,30 @@
         "href": "/ders-notlari/sinop/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/sinop/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/sinop/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/sinop/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -58010,6 +60314,30 @@
         "href": "/ders-notlari/corum/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/corum/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/corum/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/corum/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -58608,6 +60936,30 @@
         "href": "/ders-notlari/amasya/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/amasya/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/amasya/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/amasya/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -59206,6 +61558,30 @@
         "href": "/ders-notlari/cankiri/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/cankiri/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/cankiri/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/cankiri/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -59804,6 +62180,30 @@
         "href": "/ders-notlari/kirikkale/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kirikkale/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kirikkale/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kirikkale/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -60402,6 +62802,30 @@
         "href": "/ders-notlari/aksaray/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/aksaray/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/aksaray/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/aksaray/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -61000,6 +63424,30 @@
         "href": "/ders-notlari/nigde/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/nigde/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/nigde/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/nigde/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -61598,6 +64046,30 @@
         "href": "/ders-notlari/konya-teknik/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/konya-teknik/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/konya-teknik/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/konya-teknik/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -62196,6 +64668,30 @@
         "href": "/ders-notlari/karaman/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/karaman/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/karaman/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/karaman/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -62794,6 +65290,30 @@
         "href": "/ders-notlari/usak/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/usak/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/usak/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/usak/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -63393,6 +65913,30 @@
         "href": "/ders-notlari/manisa/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/manisa/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/manisa/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/manisa/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -63991,6 +66535,30 @@
         "href": "/ders-notlari/aydin-adu/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/aydin-adu/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/aydin-adu/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/aydin-adu/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -64589,6 +67157,30 @@
         "href": "/ders-notlari/tekirdag/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/tekirdag/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/tekirdag/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/tekirdag/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -65187,6 +67779,30 @@
         "href": "/ders-notlari/kirklareli/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kirklareli/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kirklareli/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kirklareli/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -65785,6 +68401,30 @@
         "href": "/ders-notlari/atilim/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/atilim/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/atilim/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/atilim/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -66383,6 +69023,30 @@
         "href": "/ders-notlari/cankaya/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/cankaya/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/cankaya/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/cankaya/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -66981,6 +69645,30 @@
         "href": "/ders-notlari/ufuk/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/ufuk/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/ufuk/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/ufuk/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -67579,6 +70267,30 @@
         "href": "/ders-notlari/yasar/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/yasar/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/yasar/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/yasar/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -68177,6 +70889,30 @@
         "href": "/ders-notlari/izmir-ekonomi/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/izmir-ekonomi/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/izmir-ekonomi/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/izmir-ekonomi/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -68775,6 +71511,30 @@
         "href": "/ders-notlari/tinaztepe/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/tinaztepe/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/tinaztepe/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/tinaztepe/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -69373,6 +72133,30 @@
         "href": "/ders-notlari/asbu-vakif/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/asbu-vakif/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/asbu-vakif/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/asbu-vakif/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -69971,6 +72755,30 @@
         "href": "/ders-notlari/hasan-kalyoncu/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/hasan-kalyoncu/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/hasan-kalyoncu/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/hasan-kalyoncu/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -70569,6 +73377,30 @@
         "href": "/ders-notlari/sanko/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/sanko/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/sanko/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/sanko/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -71167,6 +73999,30 @@
         "href": "/ders-notlari/toros/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/toros/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/toros/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/toros/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [
@@ -71765,6 +74621,30 @@
         "href": "/ders-notlari/cag/ceza-ozel-yillik",
         "ready": true,
         "variantOf": "ceza-ozel"
+      },
+      {
+        "code": "cmk-donem-1",
+        "title": "CMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/cag/cmk-donem-1",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-donem-2",
+        "title": "CMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/cag/cmk-donem-2",
+        "ready": true,
+        "variantOf": "cmk"
+      },
+      {
+        "code": "cmk-yillik",
+        "title": "CMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/cag/cmk-yillik",
+        "ready": true,
+        "variantOf": "cmk"
       }
     ],
     "seoParagraphs": [

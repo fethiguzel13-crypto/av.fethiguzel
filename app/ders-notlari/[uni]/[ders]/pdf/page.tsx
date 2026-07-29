@@ -111,6 +111,9 @@ export default async function DersNotuPdfPage({ params }: Props) {
               'ceza-ozel-donem-1',
               'ceza-ozel-donem-2',
               'ceza-ozel-yillik',
+              'cmk-donem-1',
+              'cmk-donem-2',
+              'cmk-yillik',
             ].map((code) => (
               <a
                 key={code}
