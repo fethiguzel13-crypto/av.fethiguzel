@@ -259,6 +259,35 @@ function MevzuatSearchInner({
         return rawTokens.map((t) => expandToken(t));
     }, [q]);
 
+    // «TBK 13» → tam madde (madde-130 gürültüsünü bastır)
+    const exactMaddeHint = useMemo(() => {
+        const raw = q.trim();
+        const m = raw.match(
+            /^([a-zA-ZçğıöşüÇĞİÖŞÜ]{2,12})\s*(?:madde|m\.?|md\.?)?\s*[-.]?\s*(\d{1,4})\s*$/i
+        );
+        if (!m) return null;
+        const code = normalize(m[1]).replace(/[^a-z0-9-]/g, "");
+        const n = parseInt(m[2], 10);
+        if (!Number.isFinite(n)) return null;
+        const map: Record<string, string> = {
+            tbk: "tbk",
+            tmk: "tmk",
+            ttk: "ttk",
+            tck: "tck",
+            hmk: "hmk",
+            iik: "iik",
+            cmk: "cmk",
+            is: "is-kanunu",
+            iskanunu: "is-kanunu",
+            "is-kanunu": "is-kanunu",
+            vuk: "vuk",
+            kvkk: "kvkk",
+        };
+        const kanunId = map[code];
+        if (!kanunId) return null;
+        return { kanunId, n };
+    }, [q]);
+
     type ScoredMev = { item: IndexItem; score: number; matchSnippet: string };
     type ScoredSite = { item: SiteItem; score: number };
 
@@ -285,6 +314,25 @@ function MevzuatSearchInner({
                 let best = 0;
                 let used = group[0];
                 for (const t of group) {
+                    // Saf sayı token'ı: "13" → 130/113 içinde geçmesin; tam madde no veya " madde 13 "
+                    const isNum = /^\d+$/.test(t);
+                    if (isNum) {
+                        const exactNo = String(item.maddeNo) === t;
+                        const wordHit =
+                            hay.includes(` madde ${t} `) ||
+                            hay.endsWith(` madde ${t}`) ||
+                            titleN.includes(`madde ${t}`) ||
+                            new RegExp(`(?:^|\\s)${t}(?:\\s|$)`).test(` ${titleN} `);
+                        if (!exactNo && !wordHit) continue;
+                        groupHit = true;
+                        let s = exactNo ? 40 : 8;
+                        if (titleN.includes(`madde ${t}`)) s += 12;
+                        if (s > best) {
+                            best = s;
+                            used = t;
+                        }
+                        continue;
+                    }
                     if (!hay.includes(t)) continue;
                     groupHit = true;
                     let s = 1;
@@ -305,6 +353,15 @@ function MevzuatSearchInner({
                 matchedTokens.push(used);
             }
             if (!ok) continue;
+
+            // Tam «TBK 13» isabeti — en üste
+            if (
+                exactMaddeHint &&
+                item.kanunId === exactMaddeHint.kanunId &&
+                item.maddeNo === exactMaddeHint.n
+            ) {
+                score += 500;
+            }
 
             const displaySrc = item.body || item.snippet || item.title;
             scored.push({
@@ -345,7 +402,7 @@ function MevzuatSearchInner({
             siteResults: siteScored,
             totalMev: scored.length,
         };
-    }, [index, q, kanunFilter, tokenGroups, siteItems]);
+    }, [index, q, kanunFilter, tokenGroups, siteItems, exactMaddeHint]);
 
     const shownMev = useMemo(
         () => (compact ? mevResults.slice(0, 12) : mevResults.slice(0, visible)),

@@ -1066,6 +1066,21 @@ export const CLUSTERS = applyIcraExtras({
  * @type {Record<string, { canonicalPath: string, angle: string, title: string, h1: string, description: string, keywords: string[] }>}
  */
 export const MADDE_BRIDGES = {
+  'tbk-madde-13': {
+    canonicalPath: '/mevzuat/tbk/madde-13',
+    angle: 'Yazılı şekil — sözleşmenin değiştirilmesinde şekil zorunluluğu',
+    title: 'TBK 13 Yazılı Şekil — Vatandaş Özeti',
+    h1: 'TBK 13 nedir? Yazılı şekil kuralı (özet)',
+    description:
+      'TBK 13 / TBK madde 13: kanunda yazılı şekil öngörülen sözleşmenin değişikliğinde de yazılı şekil. Tam metin ve şerh: /mevzuat/tbk/madde-13 — Av. Fethi Güzel.',
+    keywords: [
+      'TBK 13',
+      'TBK madde 13',
+      'TBK m. 13',
+      'yazılı şekil',
+      'sözleşme şekil zorunluluğu',
+    ],
+  },
   'tbk-madde-125': {
     canonicalPath: '/mevzuat/tbk/madde-125',
     angle: 'Vatandaş özeti — tam metin ve şerh mevzuat sayfasında',

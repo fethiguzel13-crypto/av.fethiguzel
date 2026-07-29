@@ -104263,6 +104263,206 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     "keyInsight": "Bu sayfa sadece «Süre sonu yenileme» içindir. Süre veya feragat riski varsa ana rehbere gidin."
   },
   {
+    "slug": "tbk-madde-13",
+    "title": "TBK 13 Yazılı Şekil — Vatandaş Özeti",
+    "description": "TBK 13 / TBK madde 13: kanunda yazılı şekil öngörülen sözleşmenin değişikliğinde de yazılı şekil. Tam metin ve şerh: /mevzuat/tbk/madde-13 — Av. Fethi Güzel.",
+    "h1": "TBK 13 nedir? Yazılı şekil kuralı (özet)",
+    "keywords": [
+      "TBK 13",
+      "TBK madde 13",
+      "TBK m. 13",
+      "yazılı şekil",
+      "sözleşme şekil zorunluluğu"
+    ],
+    "category": "Mevzuat",
+    "related": [
+      "zamanaşimi-nedir",
+      "kanun-maddesi-nasil-okunur",
+      "mevzuat-nasil-aranir",
+      "tbk-nedir"
+    ],
+    "links": [
+      {
+        "label": "Tam madde metni + şerh",
+        "href": "/mevzuat/tbk/madde-13"
+      },
+      {
+        "label": "Kanun maddesi ara",
+        "href": "/ara"
+      },
+      {
+        "label": "TBK 13 tam metin",
+        "href": "/mevzuat/tbk/madde-13"
+      },
+      {
+        "label": "Ara",
+        "href": "/ara?q=TBK%2013"
+      }
+    ],
+    "lead": "TBK 13 nedir? Yazılı şekil kuralı — kısa vatandaş özeti («TBK 13», «TBK madde 13»). Resmî metin, fıkra, bent ve akademik şerh: /mevzuat/tbk/madde-13. Özet ile madde çelişirse madde metni esastır. Yürürlük tarihi Resmî Gazete / mevzuat.gov.tr ile doğrulanmalıdır.",
+    "sections": [
+      {
+        "heading": "Özet (vatandaş dili)",
+        "paragraphs": [
+          "TBK 13 nedir? Yazılı şekil kuralı konusunda ayrıntılı hüküm, fıkra ve bent yapısı mevzuat sayfasındadır. Bu bridge yalnızca arama niyetini karşılamak ve okuyucuyu doğru URL’ye yönlendirmek içindir.",
+          "Fıkra, bent ve atıf maddeleri atlanmamalıdır. Yürürlük ve değişiklik tarihi Resmî Gazete / mevzuat.gov.tr ile kontrol edilmelidir. Tanımlar ve sistematik yer (kısım/bölüm/ayrım) madde okumasının parçasıdır.",
+          "Madde okurken sistematik yer (bölüm/ayrım), tanımlar, atıf zinciri ve istisna fıkraları birlikte görülmelidir. Tek cümlelik özet hüküm yerine geçmez.",
+          "«TBK 13» araması çoğu zaman hem özet hem de tam metin ister; bu sayfa özeti verir, tam metin /mevzuat/tbk/madde-13 adresindedir."
+        ]
+      },
+      {
+        "heading": "Tam metin ve şerh nerede?",
+        "paragraphs": [
+          "Kanun maddesinin bağlayıcı metni ve akademik şerh: /mevzuat/tbk/madde-13",
+          "Arama: /ara · Mevzuat arşivi: /mevzuat · Okuma rehberi: /bilgi/kanun-maddesi-nasil-okunur",
+          "Süreç odaklı vatandaş rehberleri /bilgi dizinindedir; madde sayfası hüküm ve şerh içindir. Süreç + madde birlikte okunmalıdır."
+        ]
+      },
+      {
+        "heading": "Pratik uyarı ve canonical",
+        "paragraphs": [
+          "Özet ile resmî metin çelişirse resmî metin esastır. Somut uyuşmazlıkta avukat, güncel içtihat ve tebliğ tarihleri değerlendirilmelidir.",
+          "Bu bridge sayfa ranking sinyali olarak madde URL’sine (canonical) yönlendirir; içerik kopyası üretmez. Şerh akademik bilgilendirmedir; mahkeme kararı yerine geçmez.",
+          "Av. Fethi Güzel Hukuk Portalı bilgilendirme amaçlıdır; sonuç vaadi yoktur."
+        ]
+      },
+      {
+        "heading": "Maddeyi nasıl okumalısınız?",
+        "paragraphs": [
+          "Önce madde başlığı ve sistematik yeri, sonra fıkralar, sonra atıf maddeleri. Tanım fıkrasını atlamak yanlış yoruma yol açar.",
+          "Özet (bu sayfa) arama niyetini karşılar; karar ve atıf için tam metin sayfası esastır. Şerh akademik bilgilendirmedir."
+        ],
+        "bullets": [
+          "Fıkra/bent atlama",
+          "Yürürlük tarihini kontrol et",
+          "Atıf maddelerini aç",
+          "Süreç için /bilgi rehberine geç"
+        ]
+      }
+    ],
+    "steps": [
+      "Kısa özeti okuyun.",
+      "Tam maddeye gidin: /mevzuat/tbk/madde-13",
+      "Fıkra, bent ve atıfları kontrol edin.",
+      "Süreç için ilgili /bilgi rehberine geçin.",
+      "Gerekirse /ara ile bağlantılı maddeleri tarayın."
+    ],
+    "faq": [
+      {
+        "q": "Neden iki URL var?",
+        "a": "Biri vatandaş özeti, diğeri resmî metin+şerh. Arama motoruna madde sayfası kral URL olarak gösterilir (canonical)."
+      },
+      {
+        "q": "Hangisini okumalıyım?",
+        "a": "Karar, atıf ve şerh için /mevzuat/tbk/madde-13; hızlı özet için bu sayfa."
+      },
+      {
+        "q": "Şerh bağlayıcı mıdır?",
+        "a": "Hayır; akademik bilgilendirmedir. Karar mercie aittir."
+      },
+      {
+        "q": "Bu metin yeterli midir?",
+        "a": "Hayır. Özet amaçlıdır; uygulama için madde metni + süreç rehberi + gerekirse avukat gerekir."
+      },
+      {
+        "q": "«TBK 13» nerede tam metin?",
+        "a": "Tam resmî metin ve şerh: /mevzuat/tbk/madde-13"
+      },
+      {
+        "q": "«TBK 13» için tek cümlelik formül var mı?",
+        "a": "Hayır. Merci, süre, belge ve somut olgu bir arada değerlendirilir. Formül vaat eden kaynaklara güvenmeyin."
+      },
+      {
+        "q": "Örnekler gerçek dosya mıdır?",
+        "a": "Hayır. Öğretici senaryolardır; isim ve olay kurgusaldır. Somut dosyanızda avukat ve güncel mevzuat esastır."
+      },
+      {
+        "q": "Tablo ve checklist bağlayıcı mıdır?",
+        "a": "Hayır. Pratik hatırlatmadır. Resmî şart listesi mercie ve yürürlükteki metne göredir."
+      }
+    ],
+    "updated": "2026-07-29",
+    "role": "bridge",
+    "angle": "Yazılı şekil — sözleşmenin değiştirilmesinde şekil zorunluluğu",
+    "canonicalPath": "/mevzuat/tbk/madde-13",
+    "sitemapPriority": 0.45,
+    "examples": [
+      {
+        "title": "Örnek — Madde okuma",
+        "body": "Vatandaş «TBK 13» aramasında kısa özet ister; avukat veya dikkatli okuyucu ise fıkra, bent ve atıf maddelerini de ister. Özet ile yetinip işlem yapmak yerine önce tam madde metnine geçin, sonra süreç rehberine dönün.",
+        "takeaway": "Özet → tam madde → süreç rehberi sırası."
+      },
+      {
+        "title": "Örnek — «TBK 13»",
+        "body": "Kısa senaryo: Tebliğ tarihini yazdınız, belgeleri derlediniz, Yargıtay/Danıştay karar arama mercisine başvurmayı planlıyorsunuz. Bu sıra çoğu dosyada işe yarar.",
+        "takeaway": "Tarih → belge → merci → başvuru."
+      }
+    ],
+    "scenarios": [
+      {
+        "title": "Senaryo A — Süreyi kaçırmak üzere",
+        "facts": "Tebliğ tarihi yaklaşıyor; «TBK 13» için hangi mercie gideceğiniz net değil. Belgelerin bir kısmı eksik.",
+        "outcome": "Önce tebliğ tarihini ve son günü takvime yazın. Resmî Gazete ile mevzuat bankası ayrımını netleştirin. Eksik belge için kurumdan süre uzatımı/ek süre mümkün mü diye sorun; mümkün değilse eldekiyle yazılı başvuruyu kaçırmayın."
+      },
+      {
+        "title": "Senaryo B — Sözlü anlaşma",
+        "facts": "Karşı taraf «hallederiz» diyor; yazılı kayıt yok. «TBK madde 13» konusunda güvence veriliyor.",
+        "outcome": "Sözlü vaat tek başına çoğu mercide yetersizdir. Anlaşmayı e-posta, noter ihtarı veya tutanakla sabitleyin. Ödeme yapacaksanız dekont açıklamasına dosya/konu yazın. İstisna fıkraları atlamak"
+      }
+    ],
+    "table": {
+      "caption": "«TBK 13» — hızlı kontrol tablosu",
+      "headers": [
+        "Kontrol",
+        "Neden önemli?",
+        "Ne yapmalı?"
+      ],
+      "rows": [
+        [
+          "Tebliğ / öğrenme tarihi",
+          "Süre çoğu zaman buradan başlar",
+          "Mazbata, e-tebligat, SMS/e-posta kaydını saklayın"
+        ],
+        [
+          "Doğru merci",
+          "Yanlış kapı süre kaybettirir",
+          "Yargıtay/Danıştay karar arama / mevzuat bankası / Resmî Gazete ayrımını netleştirin"
+        ],
+        [
+          "Belge seti",
+          "Eksik evrak usulden risk",
+          "madde metni, örnek karar, ilgili yönetmelik, gerekçe (varsa)"
+        ],
+        [
+          "Dava / işlem şartı",
+          "Arabuluculuk vb. atlanırsa ret",
+          "Kapsamdaysa tutanağı almadan dava açmayın"
+        ],
+        [
+          "Feragat / ödeme metni",
+          "Geri dönüş zor olabilir",
+          "İmza öncesi kalem kalem okuyun"
+        ],
+        [
+          "Güncel mevzuat",
+          "Oran, tavan, sınır değişir",
+          "/ara ve /mevzuat ile maddeyi doğrulayın"
+        ]
+      ]
+    },
+    "checklist": [
+      "«TBK 13» için tebliğ/öğrenme veya olay tarihini yazdım",
+      "Doğru mercie karar verdim (Yargıtay/Danıştay karar arama)",
+      "Temel belgeleri topladım (madde metni, örnek karar)",
+      "Dava şartı (arabuluculuk/idari başvuru) varsa tamamladım",
+      "Yazılı başvuruyu yaptım; numara/dekont sakladım",
+      "Sonuç ve kanun yolu süresini takvime işledim",
+      "İlgili spoke sayfaları ve hesaplama araçlarını kontrol ettim"
+    ],
+    "visual": "clock",
+    "keyInsight": "Kısa özet yetermez. Resmî maddeyi okuyun. Çelişirse madde esastır."
+  },
+  {
     "slug": "tbk-madde-125",
     "title": "TBK 125 Zamanaşımı — Vatandaş Özeti",
     "description": "TBK m.125 genel zamanaşımı özeti. Resmî madde metni ve akademik şerh: avfethiguzel.com/mevzuat/tbk/madde-125",

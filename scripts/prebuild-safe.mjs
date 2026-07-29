@@ -42,4 +42,13 @@ if (r.status !== 0) {
     process.exit(r.status || 1);
 }
 
+const r2 = spawnSync(process.execPath, [join(root, 'scripts', 'build-priority-sitemap.mjs')], {
+    cwd: root,
+    stdio: 'inherit',
+    env: process.env,
+});
+if (r2.status !== 0) {
+    console.warn('[prebuild-safe] priority-sitemap failed (non-fatal)');
+}
+
 console.log('[prebuild-safe] done');
