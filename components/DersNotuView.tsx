@@ -505,6 +505,18 @@ export function DersNotuView({
               { code: 'kiymetli-evrak-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
             ],
           },
+          {
+            match:
+              note.variantOf === 'sigorta-hukuku' ||
+              note.courseCode === 'sigorta-hukuku' ||
+              note.courseCode.startsWith('sigorta-hukuku-'),
+            title: 'Sigorta Hukuku · üç paket',
+            items: [
+              { code: 'sigorta-hukuku-donem-1', label: '1. Dönem (Güz)', desc: 'Sözleşme · menfaat · beyan' },
+              { code: 'sigorta-hukuku-donem-2', label: '2. Dönem (Bahar)', desc: 'Branş · rücu · tahkim' },
+              { code: 'sigorta-hukuku-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
+            ],
+          },
         ];
         const activePacks = packs.filter((p) => p.match);
         if (!activePacks.length) return null;
@@ -1024,6 +1036,23 @@ export function UniHubView({ hub }: { hub: UniHubContent }) {
               { code: 'kiymetli-evrak-donem-1', title: '1. Dönem (Güz)' },
               { code: 'kiymetli-evrak-donem-2', title: '2. Dönem (Bahar)' },
               { code: 'kiymetli-evrak-yillik', title: 'Yıllık tam not' },
+            ],
+          },
+          {
+            show: hub.courses.some(
+              (c) =>
+                String(c.code).startsWith('sigorta-hukuku') ||
+                c.code === 'sigorta-hukuku'
+            ),
+            title: 'Sigorta Hukuku — 1. dönem · 2. dönem · yıllık',
+            desc: 'Sözleşme–menfaat–rücu–tahkim… üç premium not + PDF.',
+            border: 'border-accent/20 bg-accent/[0.04]',
+            itemBorder: 'border-accent/25',
+            accent: 'text-accent',
+            items: [
+              { code: 'sigorta-hukuku-donem-1', title: '1. Dönem (Güz)' },
+              { code: 'sigorta-hukuku-donem-2', title: '2. Dönem (Bahar)' },
+              { code: 'sigorta-hukuku-yillik', title: 'Yıllık tam not' },
             ],
           },
         ]

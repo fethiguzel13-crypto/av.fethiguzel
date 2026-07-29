@@ -3,7 +3,7 @@
   "wave": "all",
   "universityCount": 120,
   "hubCount": 120,
-  "noteCount": 7320,
+  "noteCount": 7680,
   "universities": [
     {
       "slug": "ankara-yildirim-beyazit",
@@ -60006,6 +60006,3246 @@
       "href": "/ders-notlari/cag/kiymetli-evrak-yillik",
       "variantOf": "kiymetli-evrak",
       "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "ankara-yildirim-beyazit__sigorta-hukuku-donem-1",
+      "title": "AYBÜ Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "ankara-yildirim-beyazit__sigorta-hukuku-donem-2",
+      "title": "AYBÜ Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "ankara-yildirim-beyazit__sigorta-hukuku-yillik",
+      "title": "AYBÜ Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "ankara__sigorta-hukuku-donem-1",
+      "title": "AÜHF Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "ankara__sigorta-hukuku-donem-2",
+      "title": "AÜHF Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "ankara__sigorta-hukuku-yillik",
+      "title": "AÜHF Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "istanbul__sigorta-hukuku-donem-1",
+      "title": "İÜHF Sigorta Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "istanbul__sigorta-hukuku-donem-2",
+      "title": "İÜHF Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "istanbul__sigorta-hukuku-yillik",
+      "title": "İÜHF Sigorta Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "marmara__sigorta-hukuku-donem-1",
+      "title": "MÜHF Sigorta Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "marmara__sigorta-hukuku-donem-2",
+      "title": "MÜHF Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "marmara__sigorta-hukuku-yillik",
+      "title": "MÜHF Sigorta Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "galatasaray__sigorta-hukuku-donem-1",
+      "title": "GSÜ Sigorta Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "galatasaray__sigorta-hukuku-donem-2",
+      "title": "GSÜ Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "galatasaray__sigorta-hukuku-yillik",
+      "title": "GSÜ Sigorta Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "dokuz-eylul__sigorta-hukuku-donem-1",
+      "title": "DEÜ Sigorta Hukuku 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "dokuz-eylul__sigorta-hukuku-donem-2",
+      "title": "DEÜ Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "dokuz-eylul__sigorta-hukuku-yillik",
+      "title": "DEÜ Sigorta Hukuku Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "hacettepe__sigorta-hukuku-donem-1",
+      "title": "Hacettepe Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "hacettepe__sigorta-hukuku-donem-2",
+      "title": "Hacettepe Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "hacettepe__sigorta-hukuku-yillik",
+      "title": "Hacettepe Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "ankara-hacibayram__sigorta-hukuku-donem-1",
+      "title": "AHBV Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "ankara-hacibayram__sigorta-hukuku-donem-2",
+      "title": "AHBV Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "ankara-hacibayram__sigorta-hukuku-yillik",
+      "title": "AHBV Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "bilkent__sigorta-hukuku-donem-1",
+      "title": "Bilkent Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "bilkent__sigorta-hukuku-donem-2",
+      "title": "Bilkent Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "bilkent__sigorta-hukuku-yillik",
+      "title": "Bilkent Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "koc__sigorta-hukuku-donem-1",
+      "title": "Koç Sigorta Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "koc__sigorta-hukuku-donem-2",
+      "title": "Koç Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "koc__sigorta-hukuku-yillik",
+      "title": "Koç Sigorta Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "tobb-etu__sigorta-hukuku-donem-1",
+      "title": "TOBB ETÜ Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "tobb-etu__sigorta-hukuku-donem-2",
+      "title": "TOBB ETÜ Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "tobb-etu__sigorta-hukuku-yillik",
+      "title": "TOBB ETÜ Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "bogazici__sigorta-hukuku-donem-1",
+      "title": "BÜ Sigorta Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "bogazici__sigorta-hukuku-donem-2",
+      "title": "BÜ Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "bogazici__sigorta-hukuku-yillik",
+      "title": "BÜ Sigorta Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "ege__sigorta-hukuku-donem-1",
+      "title": "Ege Sigorta Hukuku 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "ege__sigorta-hukuku-donem-2",
+      "title": "Ege Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "ege__sigorta-hukuku-yillik",
+      "title": "Ege Sigorta Hukuku Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "akdeniz__sigorta-hukuku-donem-1",
+      "title": "Akdeniz Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "akdeniz__sigorta-hukuku-donem-2",
+      "title": "Akdeniz Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "akdeniz__sigorta-hukuku-yillik",
+      "title": "Akdeniz Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "selcuk__sigorta-hukuku-donem-1",
+      "title": "Selçuk Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "selcuk__sigorta-hukuku-donem-2",
+      "title": "Selçuk Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "selcuk__sigorta-hukuku-yillik",
+      "title": "Selçuk Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "erciyes__sigorta-hukuku-donem-1",
+      "title": "Erciyes Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "erciyes__sigorta-hukuku-donem-2",
+      "title": "Erciyes Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "erciyes__sigorta-hukuku-yillik",
+      "title": "Erciyes Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "uludag__sigorta-hukuku-donem-1",
+      "title": "Uludağ Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "uludag__sigorta-hukuku-donem-2",
+      "title": "Uludağ Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "uludag__sigorta-hukuku-yillik",
+      "title": "Uludağ Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "cukurova__sigorta-hukuku-donem-1",
+      "title": "Çukurova Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "cukurova__sigorta-hukuku-donem-2",
+      "title": "Çukurova Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "cukurova__sigorta-hukuku-yillik",
+      "title": "Çukurova Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "anadolu__sigorta-hukuku-donem-1",
+      "title": "Anadolu Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "anadolu__sigorta-hukuku-donem-2",
+      "title": "Anadolu Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "anadolu__sigorta-hukuku-yillik",
+      "title": "Anadolu Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "gazi-ankara__sigorta-hukuku-donem-1",
+      "title": "ASBÜ Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "gazi-ankara__sigorta-hukuku-donem-2",
+      "title": "ASBÜ Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "gazi-ankara__sigorta-hukuku-yillik",
+      "title": "ASBÜ Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "yildiz-teknik__sigorta-hukuku-donem-1",
+      "title": "YTÜ Sigorta Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "yildiz-teknik__sigorta-hukuku-donem-2",
+      "title": "YTÜ Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "yildiz-teknik__sigorta-hukuku-yillik",
+      "title": "YTÜ Sigorta Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "istanbul-medeniyet__sigorta-hukuku-donem-1",
+      "title": "Medeniyet Sigorta Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "istanbul-medeniyet__sigorta-hukuku-donem-2",
+      "title": "Medeniyet Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "istanbul-medeniyet__sigorta-hukuku-yillik",
+      "title": "Medeniyet Sigorta Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "bahcesehir__sigorta-hukuku-donem-1",
+      "title": "BAU Sigorta Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "bahcesehir__sigorta-hukuku-donem-2",
+      "title": "BAU Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "bahcesehir__sigorta-hukuku-yillik",
+      "title": "BAU Sigorta Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "yeditepe__sigorta-hukuku-donem-1",
+      "title": "Yeditepe Sigorta Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "yeditepe__sigorta-hukuku-donem-2",
+      "title": "Yeditepe Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "yeditepe__sigorta-hukuku-yillik",
+      "title": "Yeditepe Sigorta Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "ozyegin__sigorta-hukuku-donem-1",
+      "title": "Özyeğin Sigorta Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "ozyegin__sigorta-hukuku-donem-2",
+      "title": "Özyeğin Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "ozyegin__sigorta-hukuku-yillik",
+      "title": "Özyeğin Sigorta Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "kadir-has__sigorta-hukuku-donem-1",
+      "title": "KHAS Sigorta Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "kadir-has__sigorta-hukuku-donem-2",
+      "title": "KHAS Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "kadir-has__sigorta-hukuku-yillik",
+      "title": "KHAS Sigorta Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "istanbul-bilgi__sigorta-hukuku-donem-1",
+      "title": "Bilgi Sigorta Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "istanbul-bilgi__sigorta-hukuku-donem-2",
+      "title": "Bilgi Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "istanbul-bilgi__sigorta-hukuku-yillik",
+      "title": "Bilgi Sigorta Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "mehmet-akif__sigorta-hukuku-donem-1",
+      "title": "Medipol Sigorta Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "mehmet-akif__sigorta-hukuku-donem-2",
+      "title": "Medipol Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "mehmet-akif__sigorta-hukuku-yillik",
+      "title": "Medipol Sigorta Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "altinbas__sigorta-hukuku-donem-1",
+      "title": "Altınbaş Sigorta Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "altinbas__sigorta-hukuku-donem-2",
+      "title": "Altınbaş Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "altinbas__sigorta-hukuku-yillik",
+      "title": "Altınbaş Sigorta Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "maltepe__sigorta-hukuku-donem-1",
+      "title": "Maltepe Sigorta Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "maltepe__sigorta-hukuku-donem-2",
+      "title": "Maltepe Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "maltepe__sigorta-hukuku-yillik",
+      "title": "Maltepe Sigorta Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "dogus__sigorta-hukuku-donem-1",
+      "title": "Doğuş Sigorta Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "dogus__sigorta-hukuku-donem-2",
+      "title": "Doğuş Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "dogus__sigorta-hukuku-yillik",
+      "title": "Doğuş Sigorta Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "isik__sigorta-hukuku-donem-1",
+      "title": "Işık Sigorta Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "isik__sigorta-hukuku-donem-2",
+      "title": "Işık Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "isik__sigorta-hukuku-yillik",
+      "title": "Işık Sigorta Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "okan__sigorta-hukuku-donem-1",
+      "title": "Okan Sigorta Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "okan__sigorta-hukuku-donem-2",
+      "title": "Okan Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "okan__sigorta-hukuku-yillik",
+      "title": "Okan Sigorta Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "kultur__sigorta-hukuku-donem-1",
+      "title": "İKÜ Sigorta Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "kultur__sigorta-hukuku-donem-2",
+      "title": "İKÜ Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "kultur__sigorta-hukuku-yillik",
+      "title": "İKÜ Sigorta Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "aydin__sigorta-hukuku-donem-1",
+      "title": "İAÜ Sigorta Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "aydin__sigorta-hukuku-donem-2",
+      "title": "İAÜ Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "aydin__sigorta-hukuku-yillik",
+      "title": "İAÜ Sigorta Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "gelisim__sigorta-hukuku-donem-1",
+      "title": "Gelişim Sigorta Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "gelisim__sigorta-hukuku-donem-2",
+      "title": "Gelişim Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "gelisim__sigorta-hukuku-yillik",
+      "title": "Gelişim Sigorta Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "topkapi__sigorta-hukuku-donem-1",
+      "title": "Topkapı Sigorta Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "topkapi__sigorta-hukuku-donem-2",
+      "title": "Topkapı Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "topkapi__sigorta-hukuku-yillik",
+      "title": "Topkapı Sigorta Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "nisantasi__sigorta-hukuku-donem-1",
+      "title": "Nişantaşı Sigorta Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "nisantasi__sigorta-hukuku-donem-2",
+      "title": "Nişantaşı Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "nisantasi__sigorta-hukuku-yillik",
+      "title": "Nişantaşı Sigorta Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "beykent__sigorta-hukuku-donem-1",
+      "title": "Beykent Sigorta Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "beykent__sigorta-hukuku-donem-2",
+      "title": "Beykent Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "beykent__sigorta-hukuku-yillik",
+      "title": "Beykent Sigorta Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "halic__sigorta-hukuku-donem-1",
+      "title": "Haliç Sigorta Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "halic__sigorta-hukuku-donem-2",
+      "title": "Haliç Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "halic__sigorta-hukuku-yillik",
+      "title": "Haliç Sigorta Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "fatih-sultan__sigorta-hukuku-donem-1",
+      "title": "FSMVÜ Sigorta Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "fatih-sultan__sigorta-hukuku-donem-2",
+      "title": "FSMVÜ Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "fatih-sultan__sigorta-hukuku-yillik",
+      "title": "FSMVÜ Sigorta Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "karadeniz-teknik__sigorta-hukuku-donem-1",
+      "title": "KTÜ Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "karadeniz-teknik__sigorta-hukuku-donem-2",
+      "title": "KTÜ Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "karadeniz-teknik__sigorta-hukuku-yillik",
+      "title": "KTÜ Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "ataturk__sigorta-hukuku-donem-1",
+      "title": "Atatürk Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "ataturk__sigorta-hukuku-donem-2",
+      "title": "Atatürk Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "ataturk__sigorta-hukuku-yillik",
+      "title": "Atatürk Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "inonu__sigorta-hukuku-donem-1",
+      "title": "İnönü Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "inonu__sigorta-hukuku-donem-2",
+      "title": "İnönü Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "inonu__sigorta-hukuku-yillik",
+      "title": "İnönü Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "dicle__sigorta-hukuku-donem-1",
+      "title": "Dicle Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "dicle__sigorta-hukuku-donem-2",
+      "title": "Dicle Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "dicle__sigorta-hukuku-yillik",
+      "title": "Dicle Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "firat__sigorta-hukuku-donem-1",
+      "title": "Fırat Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "firat__sigorta-hukuku-donem-2",
+      "title": "Fırat Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "firat__sigorta-hukuku-yillik",
+      "title": "Fırat Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "gaziantep__sigorta-hukuku-donem-1",
+      "title": "GAÜN Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "gaziantep__sigorta-hukuku-donem-2",
+      "title": "GAÜN Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "gaziantep__sigorta-hukuku-yillik",
+      "title": "GAÜN Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "suleyman-demirel__sigorta-hukuku-donem-1",
+      "title": "SDÜ Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "suleyman-demirel__sigorta-hukuku-donem-2",
+      "title": "SDÜ Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "suleyman-demirel__sigorta-hukuku-yillik",
+      "title": "SDÜ Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "pamukkale__sigorta-hukuku-donem-1",
+      "title": "PAÜ Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "pamukkale__sigorta-hukuku-donem-2",
+      "title": "PAÜ Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "pamukkale__sigorta-hukuku-yillik",
+      "title": "PAÜ Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "mugla__sigorta-hukuku-donem-1",
+      "title": "MSKU Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "mugla__sigorta-hukuku-donem-2",
+      "title": "MSKU Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "mugla__sigorta-hukuku-yillik",
+      "title": "MSKU Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "sakarya__sigorta-hukuku-donem-1",
+      "title": "SAÜ Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "sakarya__sigorta-hukuku-donem-2",
+      "title": "SAÜ Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "sakarya__sigorta-hukuku-yillik",
+      "title": "SAÜ Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "kocaeli__sigorta-hukuku-donem-1",
+      "title": "KOÜ Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "kocaeli__sigorta-hukuku-donem-2",
+      "title": "KOÜ Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "kocaeli__sigorta-hukuku-yillik",
+      "title": "KOÜ Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "trakya__sigorta-hukuku-donem-1",
+      "title": "Trakya Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "trakya__sigorta-hukuku-donem-2",
+      "title": "Trakya Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "trakya__sigorta-hukuku-yillik",
+      "title": "Trakya Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "canakkale__sigorta-hukuku-donem-1",
+      "title": "ÇOMÜ Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "canakkale__sigorta-hukuku-donem-2",
+      "title": "ÇOMÜ Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "canakkale__sigorta-hukuku-yillik",
+      "title": "ÇOMÜ Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "balikesir__sigorta-hukuku-donem-1",
+      "title": "BAÜN Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "balikesir__sigorta-hukuku-donem-2",
+      "title": "BAÜN Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "balikesir__sigorta-hukuku-yillik",
+      "title": "BAÜN Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "afyon__sigorta-hukuku-donem-1",
+      "title": "AKÜ Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "afyon__sigorta-hukuku-donem-2",
+      "title": "AKÜ Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "afyon__sigorta-hukuku-yillik",
+      "title": "AKÜ Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "dumlupinar__sigorta-hukuku-donem-1",
+      "title": "DPÜ Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "dumlupinar__sigorta-hukuku-donem-2",
+      "title": "DPÜ Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "dumlupinar__sigorta-hukuku-yillik",
+      "title": "DPÜ Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "eskisehir-osmangazi__sigorta-hukuku-donem-1",
+      "title": "ESOGÜ Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "eskisehir-osmangazi__sigorta-hukuku-donem-2",
+      "title": "ESOGÜ Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "eskisehir-osmangazi__sigorta-hukuku-yillik",
+      "title": "ESOGÜ Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "sivas-cumhuriyet__sigorta-hukuku-donem-1",
+      "title": "SCÜ Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "sivas-cumhuriyet__sigorta-hukuku-donem-2",
+      "title": "SCÜ Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "sivas-cumhuriyet__sigorta-hukuku-yillik",
+      "title": "SCÜ Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "tokat__sigorta-hukuku-donem-1",
+      "title": "TOGÜ Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "tokat__sigorta-hukuku-donem-2",
+      "title": "TOGÜ Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "tokat__sigorta-hukuku-yillik",
+      "title": "TOGÜ Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "yozgat__sigorta-hukuku-donem-1",
+      "title": "Bozok Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "yozgat__sigorta-hukuku-donem-2",
+      "title": "Bozok Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "yozgat__sigorta-hukuku-yillik",
+      "title": "Bozok Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "kirsehir__sigorta-hukuku-donem-1",
+      "title": "AHİEVRAN Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "kirsehir__sigorta-hukuku-donem-2",
+      "title": "AHİEVRAN Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "kirsehir__sigorta-hukuku-yillik",
+      "title": "AHİEVRAN Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "nevsehir__sigorta-hukuku-donem-1",
+      "title": "NEVÜ Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "nevsehir__sigorta-hukuku-donem-2",
+      "title": "NEVÜ Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "nevsehir__sigorta-hukuku-yillik",
+      "title": "NEVÜ Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "mersin__sigorta-hukuku-donem-1",
+      "title": "MEÜ Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "mersin__sigorta-hukuku-donem-2",
+      "title": "MEÜ Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "mersin__sigorta-hukuku-yillik",
+      "title": "MEÜ Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "hatay__sigorta-hukuku-donem-1",
+      "title": "MKÜ Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "hatay__sigorta-hukuku-donem-2",
+      "title": "MKÜ Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "hatay__sigorta-hukuku-yillik",
+      "title": "MKÜ Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "kahramanmaras__sigorta-hukuku-donem-1",
+      "title": "KSÜ Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "kahramanmaras__sigorta-hukuku-donem-2",
+      "title": "KSÜ Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "kahramanmaras__sigorta-hukuku-yillik",
+      "title": "KSÜ Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "osmaniye__sigorta-hukuku-donem-1",
+      "title": "OKÜ Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "osmaniye__sigorta-hukuku-donem-2",
+      "title": "OKÜ Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "osmaniye__sigorta-hukuku-yillik",
+      "title": "OKÜ Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "samsun__sigorta-hukuku-donem-1",
+      "title": "OMÜ Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "samsun__sigorta-hukuku-donem-2",
+      "title": "OMÜ Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "samsun__sigorta-hukuku-yillik",
+      "title": "OMÜ Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "ordu__sigorta-hukuku-donem-1",
+      "title": "ODÜ Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "ordu__sigorta-hukuku-donem-2",
+      "title": "ODÜ Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "ordu__sigorta-hukuku-yillik",
+      "title": "ODÜ Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "giresun__sigorta-hukuku-donem-1",
+      "title": "GÜ Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "giresun__sigorta-hukuku-donem-2",
+      "title": "GÜ Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "giresun__sigorta-hukuku-yillik",
+      "title": "GÜ Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "rize__sigorta-hukuku-donem-1",
+      "title": "RTEÜ Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "rize__sigorta-hukuku-donem-2",
+      "title": "RTEÜ Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "rize__sigorta-hukuku-yillik",
+      "title": "RTEÜ Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "artvin__sigorta-hukuku-donem-1",
+      "title": "AÇÜ Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "artvin__sigorta-hukuku-donem-2",
+      "title": "AÇÜ Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "artvin__sigorta-hukuku-yillik",
+      "title": "AÇÜ Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "van-yyu__sigorta-hukuku-donem-1",
+      "title": "YYÜ Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "van-yyu__sigorta-hukuku-donem-2",
+      "title": "YYÜ Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "van-yyu__sigorta-hukuku-yillik",
+      "title": "YYÜ Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "agri__sigorta-hukuku-donem-1",
+      "title": "AİÇÜ Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "agri__sigorta-hukuku-donem-2",
+      "title": "AİÇÜ Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "agri__sigorta-hukuku-yillik",
+      "title": "AİÇÜ Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "kars__sigorta-hukuku-donem-1",
+      "title": "Kafkas Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "kars__sigorta-hukuku-donem-2",
+      "title": "Kafkas Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "kars__sigorta-hukuku-yillik",
+      "title": "Kafkas Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "erzincan__sigorta-hukuku-donem-1",
+      "title": "EBYÜ Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "erzincan__sigorta-hukuku-donem-2",
+      "title": "EBYÜ Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "erzincan__sigorta-hukuku-yillik",
+      "title": "EBYÜ Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "bayburt__sigorta-hukuku-donem-1",
+      "title": "Bayburt Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "bayburt__sigorta-hukuku-donem-2",
+      "title": "Bayburt Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "bayburt__sigorta-hukuku-yillik",
+      "title": "Bayburt Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "gumushane__sigorta-hukuku-donem-1",
+      "title": "Gümüşhane Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "gumushane__sigorta-hukuku-donem-2",
+      "title": "Gümüşhane Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "gumushane__sigorta-hukuku-yillik",
+      "title": "Gümüşhane Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "bingol__sigorta-hukuku-donem-1",
+      "title": "Bingöl Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "bingol__sigorta-hukuku-donem-2",
+      "title": "Bingöl Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "bingol__sigorta-hukuku-yillik",
+      "title": "Bingöl Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "mus__sigorta-hukuku-donem-1",
+      "title": "Muş Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "mus__sigorta-hukuku-donem-2",
+      "title": "Muş Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "mus__sigorta-hukuku-yillik",
+      "title": "Muş Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "hakkari__sigorta-hukuku-donem-1",
+      "title": "Hakkâri Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "hakkari__sigorta-hukuku-donem-2",
+      "title": "Hakkâri Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "hakkari__sigorta-hukuku-yillik",
+      "title": "Hakkâri Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "sirnak__sigorta-hukuku-donem-1",
+      "title": "Şırnak Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "sirnak__sigorta-hukuku-donem-2",
+      "title": "Şırnak Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "sirnak__sigorta-hukuku-yillik",
+      "title": "Şırnak Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "mardin__sigorta-hukuku-donem-1",
+      "title": "Artuklu Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "mardin__sigorta-hukuku-donem-2",
+      "title": "Artuklu Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "mardin__sigorta-hukuku-yillik",
+      "title": "Artuklu Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "batman__sigorta-hukuku-donem-1",
+      "title": "Batman Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "batman__sigorta-hukuku-donem-2",
+      "title": "Batman Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "batman__sigorta-hukuku-yillik",
+      "title": "Batman Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "siirt__sigorta-hukuku-donem-1",
+      "title": "Siirt Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "siirt__sigorta-hukuku-donem-2",
+      "title": "Siirt Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "siirt__sigorta-hukuku-yillik",
+      "title": "Siirt Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "adiyaman__sigorta-hukuku-donem-1",
+      "title": "Adıyaman Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "adiyaman__sigorta-hukuku-donem-2",
+      "title": "Adıyaman Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "adiyaman__sigorta-hukuku-yillik",
+      "title": "Adıyaman Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "kilis__sigorta-hukuku-donem-1",
+      "title": "Kilis Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "kilis__sigorta-hukuku-donem-2",
+      "title": "Kilis Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "kilis__sigorta-hukuku-yillik",
+      "title": "Kilis Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "igdir__sigorta-hukuku-donem-1",
+      "title": "Iğdır Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "igdir__sigorta-hukuku-donem-2",
+      "title": "Iğdır Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "igdir__sigorta-hukuku-yillik",
+      "title": "Iğdır Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "ardahan__sigorta-hukuku-donem-1",
+      "title": "Ardahan Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "ardahan__sigorta-hukuku-donem-2",
+      "title": "Ardahan Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "ardahan__sigorta-hukuku-yillik",
+      "title": "Ardahan Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "bilecik__sigorta-hukuku-donem-1",
+      "title": "BŞEÜ Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "bilecik__sigorta-hukuku-donem-2",
+      "title": "BŞEÜ Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "bilecik__sigorta-hukuku-yillik",
+      "title": "BŞEÜ Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "bolu__sigorta-hukuku-donem-1",
+      "title": "BAİBÜ Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "bolu__sigorta-hukuku-donem-2",
+      "title": "BAİBÜ Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "bolu__sigorta-hukuku-yillik",
+      "title": "BAİBÜ Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "duzce__sigorta-hukuku-donem-1",
+      "title": "Düzce Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "duzce__sigorta-hukuku-donem-2",
+      "title": "Düzce Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "duzce__sigorta-hukuku-yillik",
+      "title": "Düzce Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "zonguldak__sigorta-hukuku-donem-1",
+      "title": "BEÜN Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "zonguldak__sigorta-hukuku-donem-2",
+      "title": "BEÜN Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "zonguldak__sigorta-hukuku-yillik",
+      "title": "BEÜN Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "karabuk__sigorta-hukuku-donem-1",
+      "title": "KBÜ Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "karabuk__sigorta-hukuku-donem-2",
+      "title": "KBÜ Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "karabuk__sigorta-hukuku-yillik",
+      "title": "KBÜ Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "kastamonu__sigorta-hukuku-donem-1",
+      "title": "KÜ Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "kastamonu__sigorta-hukuku-donem-2",
+      "title": "KÜ Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "kastamonu__sigorta-hukuku-yillik",
+      "title": "KÜ Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "sinop__sigorta-hukuku-donem-1",
+      "title": "Sinop Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "sinop__sigorta-hukuku-donem-2",
+      "title": "Sinop Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "sinop__sigorta-hukuku-yillik",
+      "title": "Sinop Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "corum__sigorta-hukuku-donem-1",
+      "title": "Hitit Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "corum__sigorta-hukuku-donem-2",
+      "title": "Hitit Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "corum__sigorta-hukuku-yillik",
+      "title": "Hitit Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "amasya__sigorta-hukuku-donem-1",
+      "title": "Amasya Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "amasya__sigorta-hukuku-donem-2",
+      "title": "Amasya Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "amasya__sigorta-hukuku-yillik",
+      "title": "Amasya Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "cankiri__sigorta-hukuku-donem-1",
+      "title": "Karatekin Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "cankiri__sigorta-hukuku-donem-2",
+      "title": "Karatekin Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "cankiri__sigorta-hukuku-yillik",
+      "title": "Karatekin Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "kirikkale__sigorta-hukuku-donem-1",
+      "title": "Kırıkkale Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "kirikkale__sigorta-hukuku-donem-2",
+      "title": "Kırıkkale Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "kirikkale__sigorta-hukuku-yillik",
+      "title": "Kırıkkale Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "aksaray__sigorta-hukuku-donem-1",
+      "title": "Aksaray Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "aksaray__sigorta-hukuku-donem-2",
+      "title": "Aksaray Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "aksaray__sigorta-hukuku-yillik",
+      "title": "Aksaray Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "nigde__sigorta-hukuku-donem-1",
+      "title": "ÖHÜ Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "nigde__sigorta-hukuku-donem-2",
+      "title": "ÖHÜ Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "nigde__sigorta-hukuku-yillik",
+      "title": "ÖHÜ Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "konya-teknik__sigorta-hukuku-donem-1",
+      "title": "NEÜ Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "konya-teknik__sigorta-hukuku-donem-2",
+      "title": "NEÜ Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "konya-teknik__sigorta-hukuku-yillik",
+      "title": "NEÜ Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "karaman__sigorta-hukuku-donem-1",
+      "title": "KMÜ Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "karaman__sigorta-hukuku-donem-2",
+      "title": "KMÜ Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "karaman__sigorta-hukuku-yillik",
+      "title": "KMÜ Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "usak__sigorta-hukuku-donem-1",
+      "title": "Uşak Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "usak__sigorta-hukuku-donem-2",
+      "title": "Uşak Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "usak__sigorta-hukuku-yillik",
+      "title": "Uşak Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "manisa__sigorta-hukuku-donem-1",
+      "title": "MCBÜ Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "manisa__sigorta-hukuku-donem-2",
+      "title": "MCBÜ Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "manisa__sigorta-hukuku-yillik",
+      "title": "MCBÜ Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "aydin-adu__sigorta-hukuku-donem-1",
+      "title": "ADÜ Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "aydin-adu__sigorta-hukuku-donem-2",
+      "title": "ADÜ Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "aydin-adu__sigorta-hukuku-yillik",
+      "title": "ADÜ Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "tekirdag__sigorta-hukuku-donem-1",
+      "title": "NKÜ Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "tekirdag__sigorta-hukuku-donem-2",
+      "title": "NKÜ Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "tekirdag__sigorta-hukuku-yillik",
+      "title": "NKÜ Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "kirklareli__sigorta-hukuku-donem-1",
+      "title": "Kırklareli Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "kirklareli__sigorta-hukuku-donem-2",
+      "title": "Kırklareli Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "kirklareli__sigorta-hukuku-yillik",
+      "title": "Kırklareli Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "atilim__sigorta-hukuku-donem-1",
+      "title": "Atılım Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "atilim__sigorta-hukuku-donem-2",
+      "title": "Atılım Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "atilim__sigorta-hukuku-yillik",
+      "title": "Atılım Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "cankaya__sigorta-hukuku-donem-1",
+      "title": "Çankaya Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "cankaya__sigorta-hukuku-donem-2",
+      "title": "Çankaya Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "cankaya__sigorta-hukuku-yillik",
+      "title": "Çankaya Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "ufuk__sigorta-hukuku-donem-1",
+      "title": "Ufuk Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "ufuk__sigorta-hukuku-donem-2",
+      "title": "Ufuk Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "ufuk__sigorta-hukuku-yillik",
+      "title": "Ufuk Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "yasar__sigorta-hukuku-donem-1",
+      "title": "Yaşar Sigorta Hukuku 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "yasar__sigorta-hukuku-donem-2",
+      "title": "Yaşar Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "yasar__sigorta-hukuku-yillik",
+      "title": "Yaşar Sigorta Hukuku Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "izmir-ekonomi__sigorta-hukuku-donem-1",
+      "title": "İEÜ Sigorta Hukuku 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "izmir-ekonomi__sigorta-hukuku-donem-2",
+      "title": "İEÜ Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "izmir-ekonomi__sigorta-hukuku-yillik",
+      "title": "İEÜ Sigorta Hukuku Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "tinaztepe__sigorta-hukuku-donem-1",
+      "title": "Tınaztepe Sigorta Hukuku 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "tinaztepe__sigorta-hukuku-donem-2",
+      "title": "Tınaztepe Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "tinaztepe__sigorta-hukuku-yillik",
+      "title": "Tınaztepe Sigorta Hukuku Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "asbu-vakif__sigorta-hukuku-donem-1",
+      "title": "ABÜ Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "asbu-vakif__sigorta-hukuku-donem-2",
+      "title": "ABÜ Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "asbu-vakif__sigorta-hukuku-yillik",
+      "title": "ABÜ Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "hasan-kalyoncu__sigorta-hukuku-donem-1",
+      "title": "HKÜ Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "hasan-kalyoncu__sigorta-hukuku-donem-2",
+      "title": "HKÜ Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "hasan-kalyoncu__sigorta-hukuku-yillik",
+      "title": "HKÜ Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "sanko__sigorta-hukuku-donem-1",
+      "title": "Sanko Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "sanko__sigorta-hukuku-donem-2",
+      "title": "Sanko Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "sanko__sigorta-hukuku-yillik",
+      "title": "Sanko Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "toros__sigorta-hukuku-donem-1",
+      "title": "Toros Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "toros__sigorta-hukuku-donem-2",
+      "title": "Toros Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "toros__sigorta-hukuku-yillik",
+      "title": "Toros Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "sigorta-hukuku-donem-1",
+      "slug": "cag__sigorta-hukuku-donem-1",
+      "title": "Çağ Sigorta Hukuku 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/sigorta-hukuku-donem-1",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "sigorta-hukuku-donem-2",
+      "slug": "cag__sigorta-hukuku-donem-2",
+      "title": "Çağ Sigorta Hukuku 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/sigorta-hukuku-donem-2",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "sigorta-hukuku-yillik",
+      "slug": "cag__sigorta-hukuku-yillik",
+      "title": "Çağ Sigorta Hukuku Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/sigorta-hukuku-yillik",
+      "variantOf": "sigorta-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
     }
   ],
   "borclarGenelTripleAt": "2026-07-29T20:05:58.703Z",
@@ -60018,5 +63258,6 @@
   "icraTripleAt": "2026-07-29T20:37:25.898Z",
   "iflasTripleAt": "2026-07-29T20:37:26.513Z",
   "sirketlerTripleAt": "2026-07-29T20:40:50.060Z",
-  "kiymetliEvrakTripleAt": "2026-07-29T20:43:38.050Z"
+  "kiymetliEvrakTripleAt": "2026-07-29T20:43:38.050Z",
+  "sigortaHukukuTripleAt": "2026-07-29T20:46:50.872Z"
 }

@@ -99,6 +99,9 @@ export default async function DersNotuPdfPage({ params }: Props) {
               'kiymetli-evrak-donem-1',
               'kiymetli-evrak-donem-2',
               'kiymetli-evrak-yillik',
+              'sigorta-hukuku-donem-1',
+              'sigorta-hukuku-donem-2',
+              'sigorta-hukuku-yillik',
             ].map((code) => (
               <a
                 key={code}
