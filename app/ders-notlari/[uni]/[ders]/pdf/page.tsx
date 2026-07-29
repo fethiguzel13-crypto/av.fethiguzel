@@ -162,6 +162,9 @@ export default async function DersNotuPdfPage({ params }: Props) {
               'adli-tip-donem-1',
               'adli-tip-donem-2',
               'adli-tip-yillik',
+              'deniz-ticareti-donem-1',
+              'deniz-ticareti-donem-2',
+              'deniz-ticareti-yillik',
             ].map((code) => (
               <a
                 key={code}

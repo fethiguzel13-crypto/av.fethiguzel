@@ -3,7 +3,7 @@
   "wave": "all",
   "universityCount": 120,
   "hubCount": 120,
-  "noteCount": 14880,
+  "noteCount": 15240,
   "universities": [
     {
       "slug": "ankara-yildirim-beyazit",
@@ -128046,6 +128046,3246 @@
       "href": "/ders-notlari/cag/adli-tip-yillik",
       "variantOf": "adli-tip",
       "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "ankara-yildirim-beyazit__deniz-ticareti-donem-1",
+      "title": "AYBÜ Deniz Ticareti 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "ankara-yildirim-beyazit__deniz-ticareti-donem-2",
+      "title": "AYBÜ Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "ankara-yildirim-beyazit__deniz-ticareti-yillik",
+      "title": "AYBÜ Deniz Ticareti Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "ankara__deniz-ticareti-donem-1",
+      "title": "AÜHF Deniz Ticareti 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "ankara__deniz-ticareti-donem-2",
+      "title": "AÜHF Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "ankara__deniz-ticareti-yillik",
+      "title": "AÜHF Deniz Ticareti Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "istanbul__deniz-ticareti-donem-1",
+      "title": "İÜHF Deniz Ticareti 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "istanbul__deniz-ticareti-donem-2",
+      "title": "İÜHF Deniz Ticareti 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "istanbul__deniz-ticareti-yillik",
+      "title": "İÜHF Deniz Ticareti Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "marmara__deniz-ticareti-donem-1",
+      "title": "MÜHF Deniz Ticareti 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "marmara__deniz-ticareti-donem-2",
+      "title": "MÜHF Deniz Ticareti 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "marmara__deniz-ticareti-yillik",
+      "title": "MÜHF Deniz Ticareti Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "galatasaray__deniz-ticareti-donem-1",
+      "title": "GSÜ Deniz Ticareti 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "galatasaray__deniz-ticareti-donem-2",
+      "title": "GSÜ Deniz Ticareti 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "galatasaray__deniz-ticareti-yillik",
+      "title": "GSÜ Deniz Ticareti Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "dokuz-eylul__deniz-ticareti-donem-1",
+      "title": "DEÜ Deniz Ticareti 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "dokuz-eylul__deniz-ticareti-donem-2",
+      "title": "DEÜ Deniz Ticareti 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "dokuz-eylul__deniz-ticareti-yillik",
+      "title": "DEÜ Deniz Ticareti Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "hacettepe__deniz-ticareti-donem-1",
+      "title": "Hacettepe Deniz Ticareti 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "hacettepe__deniz-ticareti-donem-2",
+      "title": "Hacettepe Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "hacettepe__deniz-ticareti-yillik",
+      "title": "Hacettepe Deniz Ticareti Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "ankara-hacibayram__deniz-ticareti-donem-1",
+      "title": "AHBV Deniz Ticareti 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "ankara-hacibayram__deniz-ticareti-donem-2",
+      "title": "AHBV Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "ankara-hacibayram__deniz-ticareti-yillik",
+      "title": "AHBV Deniz Ticareti Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "bilkent__deniz-ticareti-donem-1",
+      "title": "Bilkent Deniz Ticareti 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "bilkent__deniz-ticareti-donem-2",
+      "title": "Bilkent Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "bilkent__deniz-ticareti-yillik",
+      "title": "Bilkent Deniz Ticareti Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "koc__deniz-ticareti-donem-1",
+      "title": "Koç Deniz Ticareti 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "koc__deniz-ticareti-donem-2",
+      "title": "Koç Deniz Ticareti 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "koc__deniz-ticareti-yillik",
+      "title": "Koç Deniz Ticareti Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "tobb-etu__deniz-ticareti-donem-1",
+      "title": "TOBB ETÜ Deniz Ticareti 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "tobb-etu__deniz-ticareti-donem-2",
+      "title": "TOBB ETÜ Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "tobb-etu__deniz-ticareti-yillik",
+      "title": "TOBB ETÜ Deniz Ticareti Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "bogazici__deniz-ticareti-donem-1",
+      "title": "BÜ Deniz Ticareti 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "bogazici__deniz-ticareti-donem-2",
+      "title": "BÜ Deniz Ticareti 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "bogazici__deniz-ticareti-yillik",
+      "title": "BÜ Deniz Ticareti Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "ege__deniz-ticareti-donem-1",
+      "title": "Ege Deniz Ticareti 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "ege__deniz-ticareti-donem-2",
+      "title": "Ege Deniz Ticareti 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "ege__deniz-ticareti-yillik",
+      "title": "Ege Deniz Ticareti Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "akdeniz__deniz-ticareti-donem-1",
+      "title": "Akdeniz Deniz Ticareti 1. Dönem (Güz) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "akdeniz__deniz-ticareti-donem-2",
+      "title": "Akdeniz Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "akdeniz__deniz-ticareti-yillik",
+      "title": "Akdeniz Deniz Ticareti Yıllık (Tam paket) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "selcuk__deniz-ticareti-donem-1",
+      "title": "Selçuk Deniz Ticareti 1. Dönem (Güz) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "selcuk__deniz-ticareti-donem-2",
+      "title": "Selçuk Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "selcuk__deniz-ticareti-yillik",
+      "title": "Selçuk Deniz Ticareti Yıllık (Tam paket) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "erciyes__deniz-ticareti-donem-1",
+      "title": "Erciyes Deniz Ticareti 1. Dönem (Güz) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "erciyes__deniz-ticareti-donem-2",
+      "title": "Erciyes Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "erciyes__deniz-ticareti-yillik",
+      "title": "Erciyes Deniz Ticareti Yıllık (Tam paket) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "uludag__deniz-ticareti-donem-1",
+      "title": "Uludağ Deniz Ticareti 1. Dönem (Güz) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "uludag__deniz-ticareti-donem-2",
+      "title": "Uludağ Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "uludag__deniz-ticareti-yillik",
+      "title": "Uludağ Deniz Ticareti Yıllık (Tam paket) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "cukurova__deniz-ticareti-donem-1",
+      "title": "Çukurova Deniz Ticareti 1. Dönem (Güz) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "cukurova__deniz-ticareti-donem-2",
+      "title": "Çukurova Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "cukurova__deniz-ticareti-yillik",
+      "title": "Çukurova Deniz Ticareti Yıllık (Tam paket) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "anadolu__deniz-ticareti-donem-1",
+      "title": "Anadolu Deniz Ticareti 1. Dönem (Güz) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "anadolu__deniz-ticareti-donem-2",
+      "title": "Anadolu Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "anadolu__deniz-ticareti-yillik",
+      "title": "Anadolu Deniz Ticareti Yıllık (Tam paket) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "gazi-ankara__deniz-ticareti-donem-1",
+      "title": "ASBÜ Deniz Ticareti 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "gazi-ankara__deniz-ticareti-donem-2",
+      "title": "ASBÜ Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "gazi-ankara__deniz-ticareti-yillik",
+      "title": "ASBÜ Deniz Ticareti Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "yildiz-teknik__deniz-ticareti-donem-1",
+      "title": "YTÜ Deniz Ticareti 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "yildiz-teknik__deniz-ticareti-donem-2",
+      "title": "YTÜ Deniz Ticareti 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "yildiz-teknik__deniz-ticareti-yillik",
+      "title": "YTÜ Deniz Ticareti Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "istanbul-medeniyet__deniz-ticareti-donem-1",
+      "title": "Medeniyet Deniz Ticareti 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "istanbul-medeniyet__deniz-ticareti-donem-2",
+      "title": "Medeniyet Deniz Ticareti 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "istanbul-medeniyet__deniz-ticareti-yillik",
+      "title": "Medeniyet Deniz Ticareti Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "bahcesehir__deniz-ticareti-donem-1",
+      "title": "BAU Deniz Ticareti 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "bahcesehir__deniz-ticareti-donem-2",
+      "title": "BAU Deniz Ticareti 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "bahcesehir__deniz-ticareti-yillik",
+      "title": "BAU Deniz Ticareti Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "yeditepe__deniz-ticareti-donem-1",
+      "title": "Yeditepe Deniz Ticareti 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "yeditepe__deniz-ticareti-donem-2",
+      "title": "Yeditepe Deniz Ticareti 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "yeditepe__deniz-ticareti-yillik",
+      "title": "Yeditepe Deniz Ticareti Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "ozyegin__deniz-ticareti-donem-1",
+      "title": "Özyeğin Deniz Ticareti 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "ozyegin__deniz-ticareti-donem-2",
+      "title": "Özyeğin Deniz Ticareti 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "ozyegin__deniz-ticareti-yillik",
+      "title": "Özyeğin Deniz Ticareti Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "kadir-has__deniz-ticareti-donem-1",
+      "title": "KHAS Deniz Ticareti 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "kadir-has__deniz-ticareti-donem-2",
+      "title": "KHAS Deniz Ticareti 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "kadir-has__deniz-ticareti-yillik",
+      "title": "KHAS Deniz Ticareti Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "istanbul-bilgi__deniz-ticareti-donem-1",
+      "title": "Bilgi Deniz Ticareti 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "istanbul-bilgi__deniz-ticareti-donem-2",
+      "title": "Bilgi Deniz Ticareti 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "istanbul-bilgi__deniz-ticareti-yillik",
+      "title": "Bilgi Deniz Ticareti Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "mehmet-akif__deniz-ticareti-donem-1",
+      "title": "Medipol Deniz Ticareti 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "mehmet-akif__deniz-ticareti-donem-2",
+      "title": "Medipol Deniz Ticareti 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "mehmet-akif__deniz-ticareti-yillik",
+      "title": "Medipol Deniz Ticareti Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "altinbas__deniz-ticareti-donem-1",
+      "title": "Altınbaş Deniz Ticareti 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "altinbas__deniz-ticareti-donem-2",
+      "title": "Altınbaş Deniz Ticareti 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "altinbas__deniz-ticareti-yillik",
+      "title": "Altınbaş Deniz Ticareti Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "maltepe__deniz-ticareti-donem-1",
+      "title": "Maltepe Deniz Ticareti 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "maltepe__deniz-ticareti-donem-2",
+      "title": "Maltepe Deniz Ticareti 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "maltepe__deniz-ticareti-yillik",
+      "title": "Maltepe Deniz Ticareti Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "dogus__deniz-ticareti-donem-1",
+      "title": "Doğuş Deniz Ticareti 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "dogus__deniz-ticareti-donem-2",
+      "title": "Doğuş Deniz Ticareti 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "dogus__deniz-ticareti-yillik",
+      "title": "Doğuş Deniz Ticareti Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "isik__deniz-ticareti-donem-1",
+      "title": "Işık Deniz Ticareti 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "isik__deniz-ticareti-donem-2",
+      "title": "Işık Deniz Ticareti 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "isik__deniz-ticareti-yillik",
+      "title": "Işık Deniz Ticareti Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "okan__deniz-ticareti-donem-1",
+      "title": "Okan Deniz Ticareti 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "okan__deniz-ticareti-donem-2",
+      "title": "Okan Deniz Ticareti 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "okan__deniz-ticareti-yillik",
+      "title": "Okan Deniz Ticareti Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "kultur__deniz-ticareti-donem-1",
+      "title": "İKÜ Deniz Ticareti 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "kultur__deniz-ticareti-donem-2",
+      "title": "İKÜ Deniz Ticareti 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "kultur__deniz-ticareti-yillik",
+      "title": "İKÜ Deniz Ticareti Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "aydin__deniz-ticareti-donem-1",
+      "title": "İAÜ Deniz Ticareti 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "aydin__deniz-ticareti-donem-2",
+      "title": "İAÜ Deniz Ticareti 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "aydin__deniz-ticareti-yillik",
+      "title": "İAÜ Deniz Ticareti Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "gelisim__deniz-ticareti-donem-1",
+      "title": "Gelişim Deniz Ticareti 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "gelisim__deniz-ticareti-donem-2",
+      "title": "Gelişim Deniz Ticareti 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "gelisim__deniz-ticareti-yillik",
+      "title": "Gelişim Deniz Ticareti Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "topkapi__deniz-ticareti-donem-1",
+      "title": "Topkapı Deniz Ticareti 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "topkapi__deniz-ticareti-donem-2",
+      "title": "Topkapı Deniz Ticareti 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "topkapi__deniz-ticareti-yillik",
+      "title": "Topkapı Deniz Ticareti Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "nisantasi__deniz-ticareti-donem-1",
+      "title": "Nişantaşı Deniz Ticareti 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "nisantasi__deniz-ticareti-donem-2",
+      "title": "Nişantaşı Deniz Ticareti 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "nisantasi__deniz-ticareti-yillik",
+      "title": "Nişantaşı Deniz Ticareti Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "beykent__deniz-ticareti-donem-1",
+      "title": "Beykent Deniz Ticareti 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "beykent__deniz-ticareti-donem-2",
+      "title": "Beykent Deniz Ticareti 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "beykent__deniz-ticareti-yillik",
+      "title": "Beykent Deniz Ticareti Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "halic__deniz-ticareti-donem-1",
+      "title": "Haliç Deniz Ticareti 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "halic__deniz-ticareti-donem-2",
+      "title": "Haliç Deniz Ticareti 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "halic__deniz-ticareti-yillik",
+      "title": "Haliç Deniz Ticareti Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "fatih-sultan__deniz-ticareti-donem-1",
+      "title": "FSMVÜ Deniz Ticareti 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "fatih-sultan__deniz-ticareti-donem-2",
+      "title": "FSMVÜ Deniz Ticareti 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "fatih-sultan__deniz-ticareti-yillik",
+      "title": "FSMVÜ Deniz Ticareti Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "karadeniz-teknik__deniz-ticareti-donem-1",
+      "title": "KTÜ Deniz Ticareti 1. Dönem (Güz) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "karadeniz-teknik__deniz-ticareti-donem-2",
+      "title": "KTÜ Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "karadeniz-teknik__deniz-ticareti-yillik",
+      "title": "KTÜ Deniz Ticareti Yıllık (Tam paket) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "ataturk__deniz-ticareti-donem-1",
+      "title": "Atatürk Deniz Ticareti 1. Dönem (Güz) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "ataturk__deniz-ticareti-donem-2",
+      "title": "Atatürk Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "ataturk__deniz-ticareti-yillik",
+      "title": "Atatürk Deniz Ticareti Yıllık (Tam paket) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "inonu__deniz-ticareti-donem-1",
+      "title": "İnönü Deniz Ticareti 1. Dönem (Güz) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "inonu__deniz-ticareti-donem-2",
+      "title": "İnönü Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "inonu__deniz-ticareti-yillik",
+      "title": "İnönü Deniz Ticareti Yıllık (Tam paket) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "dicle__deniz-ticareti-donem-1",
+      "title": "Dicle Deniz Ticareti 1. Dönem (Güz) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "dicle__deniz-ticareti-donem-2",
+      "title": "Dicle Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "dicle__deniz-ticareti-yillik",
+      "title": "Dicle Deniz Ticareti Yıllık (Tam paket) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "firat__deniz-ticareti-donem-1",
+      "title": "Fırat Deniz Ticareti 1. Dönem (Güz) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "firat__deniz-ticareti-donem-2",
+      "title": "Fırat Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "firat__deniz-ticareti-yillik",
+      "title": "Fırat Deniz Ticareti Yıllık (Tam paket) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "gaziantep__deniz-ticareti-donem-1",
+      "title": "GAÜN Deniz Ticareti 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "gaziantep__deniz-ticareti-donem-2",
+      "title": "GAÜN Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "gaziantep__deniz-ticareti-yillik",
+      "title": "GAÜN Deniz Ticareti Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "suleyman-demirel__deniz-ticareti-donem-1",
+      "title": "SDÜ Deniz Ticareti 1. Dönem (Güz) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "suleyman-demirel__deniz-ticareti-donem-2",
+      "title": "SDÜ Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "suleyman-demirel__deniz-ticareti-yillik",
+      "title": "SDÜ Deniz Ticareti Yıllık (Tam paket) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "pamukkale__deniz-ticareti-donem-1",
+      "title": "PAÜ Deniz Ticareti 1. Dönem (Güz) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "pamukkale__deniz-ticareti-donem-2",
+      "title": "PAÜ Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "pamukkale__deniz-ticareti-yillik",
+      "title": "PAÜ Deniz Ticareti Yıllık (Tam paket) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "mugla__deniz-ticareti-donem-1",
+      "title": "MSKU Deniz Ticareti 1. Dönem (Güz) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "mugla__deniz-ticareti-donem-2",
+      "title": "MSKU Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "mugla__deniz-ticareti-yillik",
+      "title": "MSKU Deniz Ticareti Yıllık (Tam paket) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "sakarya__deniz-ticareti-donem-1",
+      "title": "SAÜ Deniz Ticareti 1. Dönem (Güz) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "sakarya__deniz-ticareti-donem-2",
+      "title": "SAÜ Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "sakarya__deniz-ticareti-yillik",
+      "title": "SAÜ Deniz Ticareti Yıllık (Tam paket) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "kocaeli__deniz-ticareti-donem-1",
+      "title": "KOÜ Deniz Ticareti 1. Dönem (Güz) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "kocaeli__deniz-ticareti-donem-2",
+      "title": "KOÜ Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "kocaeli__deniz-ticareti-yillik",
+      "title": "KOÜ Deniz Ticareti Yıllık (Tam paket) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "trakya__deniz-ticareti-donem-1",
+      "title": "Trakya Deniz Ticareti 1. Dönem (Güz) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "trakya__deniz-ticareti-donem-2",
+      "title": "Trakya Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "trakya__deniz-ticareti-yillik",
+      "title": "Trakya Deniz Ticareti Yıllık (Tam paket) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "canakkale__deniz-ticareti-donem-1",
+      "title": "ÇOMÜ Deniz Ticareti 1. Dönem (Güz) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "canakkale__deniz-ticareti-donem-2",
+      "title": "ÇOMÜ Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "canakkale__deniz-ticareti-yillik",
+      "title": "ÇOMÜ Deniz Ticareti Yıllık (Tam paket) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "balikesir__deniz-ticareti-donem-1",
+      "title": "BAÜN Deniz Ticareti 1. Dönem (Güz) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "balikesir__deniz-ticareti-donem-2",
+      "title": "BAÜN Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "balikesir__deniz-ticareti-yillik",
+      "title": "BAÜN Deniz Ticareti Yıllık (Tam paket) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "afyon__deniz-ticareti-donem-1",
+      "title": "AKÜ Deniz Ticareti 1. Dönem (Güz) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "afyon__deniz-ticareti-donem-2",
+      "title": "AKÜ Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "afyon__deniz-ticareti-yillik",
+      "title": "AKÜ Deniz Ticareti Yıllık (Tam paket) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "dumlupinar__deniz-ticareti-donem-1",
+      "title": "DPÜ Deniz Ticareti 1. Dönem (Güz) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "dumlupinar__deniz-ticareti-donem-2",
+      "title": "DPÜ Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "dumlupinar__deniz-ticareti-yillik",
+      "title": "DPÜ Deniz Ticareti Yıllık (Tam paket) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "eskisehir-osmangazi__deniz-ticareti-donem-1",
+      "title": "ESOGÜ Deniz Ticareti 1. Dönem (Güz) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "eskisehir-osmangazi__deniz-ticareti-donem-2",
+      "title": "ESOGÜ Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "eskisehir-osmangazi__deniz-ticareti-yillik",
+      "title": "ESOGÜ Deniz Ticareti Yıllık (Tam paket) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "sivas-cumhuriyet__deniz-ticareti-donem-1",
+      "title": "SCÜ Deniz Ticareti 1. Dönem (Güz) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "sivas-cumhuriyet__deniz-ticareti-donem-2",
+      "title": "SCÜ Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "sivas-cumhuriyet__deniz-ticareti-yillik",
+      "title": "SCÜ Deniz Ticareti Yıllık (Tam paket) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "tokat__deniz-ticareti-donem-1",
+      "title": "TOGÜ Deniz Ticareti 1. Dönem (Güz) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "tokat__deniz-ticareti-donem-2",
+      "title": "TOGÜ Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "tokat__deniz-ticareti-yillik",
+      "title": "TOGÜ Deniz Ticareti Yıllık (Tam paket) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "yozgat__deniz-ticareti-donem-1",
+      "title": "Bozok Deniz Ticareti 1. Dönem (Güz) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "yozgat__deniz-ticareti-donem-2",
+      "title": "Bozok Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "yozgat__deniz-ticareti-yillik",
+      "title": "Bozok Deniz Ticareti Yıllık (Tam paket) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "kirsehir__deniz-ticareti-donem-1",
+      "title": "AHİEVRAN Deniz Ticareti 1. Dönem (Güz) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "kirsehir__deniz-ticareti-donem-2",
+      "title": "AHİEVRAN Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "kirsehir__deniz-ticareti-yillik",
+      "title": "AHİEVRAN Deniz Ticareti Yıllık (Tam paket) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "nevsehir__deniz-ticareti-donem-1",
+      "title": "NEVÜ Deniz Ticareti 1. Dönem (Güz) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "nevsehir__deniz-ticareti-donem-2",
+      "title": "NEVÜ Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "nevsehir__deniz-ticareti-yillik",
+      "title": "NEVÜ Deniz Ticareti Yıllık (Tam paket) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "mersin__deniz-ticareti-donem-1",
+      "title": "MEÜ Deniz Ticareti 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "mersin__deniz-ticareti-donem-2",
+      "title": "MEÜ Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "mersin__deniz-ticareti-yillik",
+      "title": "MEÜ Deniz Ticareti Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "hatay__deniz-ticareti-donem-1",
+      "title": "MKÜ Deniz Ticareti 1. Dönem (Güz) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "hatay__deniz-ticareti-donem-2",
+      "title": "MKÜ Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "hatay__deniz-ticareti-yillik",
+      "title": "MKÜ Deniz Ticareti Yıllık (Tam paket) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "kahramanmaras__deniz-ticareti-donem-1",
+      "title": "KSÜ Deniz Ticareti 1. Dönem (Güz) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "kahramanmaras__deniz-ticareti-donem-2",
+      "title": "KSÜ Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "kahramanmaras__deniz-ticareti-yillik",
+      "title": "KSÜ Deniz Ticareti Yıllık (Tam paket) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "osmaniye__deniz-ticareti-donem-1",
+      "title": "OKÜ Deniz Ticareti 1. Dönem (Güz) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "osmaniye__deniz-ticareti-donem-2",
+      "title": "OKÜ Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "osmaniye__deniz-ticareti-yillik",
+      "title": "OKÜ Deniz Ticareti Yıllık (Tam paket) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "samsun__deniz-ticareti-donem-1",
+      "title": "OMÜ Deniz Ticareti 1. Dönem (Güz) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "samsun__deniz-ticareti-donem-2",
+      "title": "OMÜ Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "samsun__deniz-ticareti-yillik",
+      "title": "OMÜ Deniz Ticareti Yıllık (Tam paket) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "ordu__deniz-ticareti-donem-1",
+      "title": "ODÜ Deniz Ticareti 1. Dönem (Güz) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "ordu__deniz-ticareti-donem-2",
+      "title": "ODÜ Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "ordu__deniz-ticareti-yillik",
+      "title": "ODÜ Deniz Ticareti Yıllık (Tam paket) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "giresun__deniz-ticareti-donem-1",
+      "title": "GÜ Deniz Ticareti 1. Dönem (Güz) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "giresun__deniz-ticareti-donem-2",
+      "title": "GÜ Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "giresun__deniz-ticareti-yillik",
+      "title": "GÜ Deniz Ticareti Yıllık (Tam paket) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "rize__deniz-ticareti-donem-1",
+      "title": "RTEÜ Deniz Ticareti 1. Dönem (Güz) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "rize__deniz-ticareti-donem-2",
+      "title": "RTEÜ Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "rize__deniz-ticareti-yillik",
+      "title": "RTEÜ Deniz Ticareti Yıllık (Tam paket) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "artvin__deniz-ticareti-donem-1",
+      "title": "AÇÜ Deniz Ticareti 1. Dönem (Güz) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "artvin__deniz-ticareti-donem-2",
+      "title": "AÇÜ Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "artvin__deniz-ticareti-yillik",
+      "title": "AÇÜ Deniz Ticareti Yıllık (Tam paket) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "van-yyu__deniz-ticareti-donem-1",
+      "title": "YYÜ Deniz Ticareti 1. Dönem (Güz) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "van-yyu__deniz-ticareti-donem-2",
+      "title": "YYÜ Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "van-yyu__deniz-ticareti-yillik",
+      "title": "YYÜ Deniz Ticareti Yıllık (Tam paket) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "agri__deniz-ticareti-donem-1",
+      "title": "AİÇÜ Deniz Ticareti 1. Dönem (Güz) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "agri__deniz-ticareti-donem-2",
+      "title": "AİÇÜ Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "agri__deniz-ticareti-yillik",
+      "title": "AİÇÜ Deniz Ticareti Yıllık (Tam paket) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "kars__deniz-ticareti-donem-1",
+      "title": "Kafkas Deniz Ticareti 1. Dönem (Güz) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "kars__deniz-ticareti-donem-2",
+      "title": "Kafkas Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "kars__deniz-ticareti-yillik",
+      "title": "Kafkas Deniz Ticareti Yıllık (Tam paket) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "erzincan__deniz-ticareti-donem-1",
+      "title": "EBYÜ Deniz Ticareti 1. Dönem (Güz) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "erzincan__deniz-ticareti-donem-2",
+      "title": "EBYÜ Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "erzincan__deniz-ticareti-yillik",
+      "title": "EBYÜ Deniz Ticareti Yıllık (Tam paket) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "bayburt__deniz-ticareti-donem-1",
+      "title": "Bayburt Deniz Ticareti 1. Dönem (Güz) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "bayburt__deniz-ticareti-donem-2",
+      "title": "Bayburt Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "bayburt__deniz-ticareti-yillik",
+      "title": "Bayburt Deniz Ticareti Yıllık (Tam paket) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "gumushane__deniz-ticareti-donem-1",
+      "title": "Gümüşhane Deniz Ticareti 1. Dönem (Güz) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "gumushane__deniz-ticareti-donem-2",
+      "title": "Gümüşhane Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "gumushane__deniz-ticareti-yillik",
+      "title": "Gümüşhane Deniz Ticareti Yıllık (Tam paket) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "bingol__deniz-ticareti-donem-1",
+      "title": "Bingöl Deniz Ticareti 1. Dönem (Güz) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "bingol__deniz-ticareti-donem-2",
+      "title": "Bingöl Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "bingol__deniz-ticareti-yillik",
+      "title": "Bingöl Deniz Ticareti Yıllık (Tam paket) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "mus__deniz-ticareti-donem-1",
+      "title": "Muş Deniz Ticareti 1. Dönem (Güz) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "mus__deniz-ticareti-donem-2",
+      "title": "Muş Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "mus__deniz-ticareti-yillik",
+      "title": "Muş Deniz Ticareti Yıllık (Tam paket) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "hakkari__deniz-ticareti-donem-1",
+      "title": "Hakkâri Deniz Ticareti 1. Dönem (Güz) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "hakkari__deniz-ticareti-donem-2",
+      "title": "Hakkâri Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "hakkari__deniz-ticareti-yillik",
+      "title": "Hakkâri Deniz Ticareti Yıllık (Tam paket) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "sirnak__deniz-ticareti-donem-1",
+      "title": "Şırnak Deniz Ticareti 1. Dönem (Güz) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "sirnak__deniz-ticareti-donem-2",
+      "title": "Şırnak Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "sirnak__deniz-ticareti-yillik",
+      "title": "Şırnak Deniz Ticareti Yıllık (Tam paket) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "mardin__deniz-ticareti-donem-1",
+      "title": "Artuklu Deniz Ticareti 1. Dönem (Güz) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "mardin__deniz-ticareti-donem-2",
+      "title": "Artuklu Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "mardin__deniz-ticareti-yillik",
+      "title": "Artuklu Deniz Ticareti Yıllık (Tam paket) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "batman__deniz-ticareti-donem-1",
+      "title": "Batman Deniz Ticareti 1. Dönem (Güz) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "batman__deniz-ticareti-donem-2",
+      "title": "Batman Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "batman__deniz-ticareti-yillik",
+      "title": "Batman Deniz Ticareti Yıllık (Tam paket) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "siirt__deniz-ticareti-donem-1",
+      "title": "Siirt Deniz Ticareti 1. Dönem (Güz) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "siirt__deniz-ticareti-donem-2",
+      "title": "Siirt Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "siirt__deniz-ticareti-yillik",
+      "title": "Siirt Deniz Ticareti Yıllık (Tam paket) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "adiyaman__deniz-ticareti-donem-1",
+      "title": "Adıyaman Deniz Ticareti 1. Dönem (Güz) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "adiyaman__deniz-ticareti-donem-2",
+      "title": "Adıyaman Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "adiyaman__deniz-ticareti-yillik",
+      "title": "Adıyaman Deniz Ticareti Yıllık (Tam paket) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "kilis__deniz-ticareti-donem-1",
+      "title": "Kilis Deniz Ticareti 1. Dönem (Güz) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "kilis__deniz-ticareti-donem-2",
+      "title": "Kilis Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "kilis__deniz-ticareti-yillik",
+      "title": "Kilis Deniz Ticareti Yıllık (Tam paket) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "igdir__deniz-ticareti-donem-1",
+      "title": "Iğdır Deniz Ticareti 1. Dönem (Güz) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "igdir__deniz-ticareti-donem-2",
+      "title": "Iğdır Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "igdir__deniz-ticareti-yillik",
+      "title": "Iğdır Deniz Ticareti Yıllık (Tam paket) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "ardahan__deniz-ticareti-donem-1",
+      "title": "Ardahan Deniz Ticareti 1. Dönem (Güz) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "ardahan__deniz-ticareti-donem-2",
+      "title": "Ardahan Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "ardahan__deniz-ticareti-yillik",
+      "title": "Ardahan Deniz Ticareti Yıllık (Tam paket) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "bilecik__deniz-ticareti-donem-1",
+      "title": "BŞEÜ Deniz Ticareti 1. Dönem (Güz) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "bilecik__deniz-ticareti-donem-2",
+      "title": "BŞEÜ Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "bilecik__deniz-ticareti-yillik",
+      "title": "BŞEÜ Deniz Ticareti Yıllık (Tam paket) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "bolu__deniz-ticareti-donem-1",
+      "title": "BAİBÜ Deniz Ticareti 1. Dönem (Güz) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "bolu__deniz-ticareti-donem-2",
+      "title": "BAİBÜ Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "bolu__deniz-ticareti-yillik",
+      "title": "BAİBÜ Deniz Ticareti Yıllık (Tam paket) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "duzce__deniz-ticareti-donem-1",
+      "title": "Düzce Deniz Ticareti 1. Dönem (Güz) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "duzce__deniz-ticareti-donem-2",
+      "title": "Düzce Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "duzce__deniz-ticareti-yillik",
+      "title": "Düzce Deniz Ticareti Yıllık (Tam paket) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "zonguldak__deniz-ticareti-donem-1",
+      "title": "BEÜN Deniz Ticareti 1. Dönem (Güz) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "zonguldak__deniz-ticareti-donem-2",
+      "title": "BEÜN Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "zonguldak__deniz-ticareti-yillik",
+      "title": "BEÜN Deniz Ticareti Yıllık (Tam paket) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "karabuk__deniz-ticareti-donem-1",
+      "title": "KBÜ Deniz Ticareti 1. Dönem (Güz) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "karabuk__deniz-ticareti-donem-2",
+      "title": "KBÜ Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "karabuk__deniz-ticareti-yillik",
+      "title": "KBÜ Deniz Ticareti Yıllık (Tam paket) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "kastamonu__deniz-ticareti-donem-1",
+      "title": "KÜ Deniz Ticareti 1. Dönem (Güz) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "kastamonu__deniz-ticareti-donem-2",
+      "title": "KÜ Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "kastamonu__deniz-ticareti-yillik",
+      "title": "KÜ Deniz Ticareti Yıllık (Tam paket) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "sinop__deniz-ticareti-donem-1",
+      "title": "Sinop Deniz Ticareti 1. Dönem (Güz) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "sinop__deniz-ticareti-donem-2",
+      "title": "Sinop Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "sinop__deniz-ticareti-yillik",
+      "title": "Sinop Deniz Ticareti Yıllık (Tam paket) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "corum__deniz-ticareti-donem-1",
+      "title": "Hitit Deniz Ticareti 1. Dönem (Güz) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "corum__deniz-ticareti-donem-2",
+      "title": "Hitit Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "corum__deniz-ticareti-yillik",
+      "title": "Hitit Deniz Ticareti Yıllık (Tam paket) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "amasya__deniz-ticareti-donem-1",
+      "title": "Amasya Deniz Ticareti 1. Dönem (Güz) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "amasya__deniz-ticareti-donem-2",
+      "title": "Amasya Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "amasya__deniz-ticareti-yillik",
+      "title": "Amasya Deniz Ticareti Yıllık (Tam paket) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "cankiri__deniz-ticareti-donem-1",
+      "title": "Karatekin Deniz Ticareti 1. Dönem (Güz) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "cankiri__deniz-ticareti-donem-2",
+      "title": "Karatekin Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "cankiri__deniz-ticareti-yillik",
+      "title": "Karatekin Deniz Ticareti Yıllık (Tam paket) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "kirikkale__deniz-ticareti-donem-1",
+      "title": "Kırıkkale Deniz Ticareti 1. Dönem (Güz) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "kirikkale__deniz-ticareti-donem-2",
+      "title": "Kırıkkale Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "kirikkale__deniz-ticareti-yillik",
+      "title": "Kırıkkale Deniz Ticareti Yıllık (Tam paket) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "aksaray__deniz-ticareti-donem-1",
+      "title": "Aksaray Deniz Ticareti 1. Dönem (Güz) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "aksaray__deniz-ticareti-donem-2",
+      "title": "Aksaray Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "aksaray__deniz-ticareti-yillik",
+      "title": "Aksaray Deniz Ticareti Yıllık (Tam paket) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "nigde__deniz-ticareti-donem-1",
+      "title": "ÖHÜ Deniz Ticareti 1. Dönem (Güz) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "nigde__deniz-ticareti-donem-2",
+      "title": "ÖHÜ Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "nigde__deniz-ticareti-yillik",
+      "title": "ÖHÜ Deniz Ticareti Yıllık (Tam paket) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "konya-teknik__deniz-ticareti-donem-1",
+      "title": "NEÜ Deniz Ticareti 1. Dönem (Güz) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "konya-teknik__deniz-ticareti-donem-2",
+      "title": "NEÜ Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "konya-teknik__deniz-ticareti-yillik",
+      "title": "NEÜ Deniz Ticareti Yıllık (Tam paket) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "karaman__deniz-ticareti-donem-1",
+      "title": "KMÜ Deniz Ticareti 1. Dönem (Güz) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "karaman__deniz-ticareti-donem-2",
+      "title": "KMÜ Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "karaman__deniz-ticareti-yillik",
+      "title": "KMÜ Deniz Ticareti Yıllık (Tam paket) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "usak__deniz-ticareti-donem-1",
+      "title": "Uşak Deniz Ticareti 1. Dönem (Güz) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "usak__deniz-ticareti-donem-2",
+      "title": "Uşak Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "usak__deniz-ticareti-yillik",
+      "title": "Uşak Deniz Ticareti Yıllık (Tam paket) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "manisa__deniz-ticareti-donem-1",
+      "title": "MCBÜ Deniz Ticareti 1. Dönem (Güz) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "manisa__deniz-ticareti-donem-2",
+      "title": "MCBÜ Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "manisa__deniz-ticareti-yillik",
+      "title": "MCBÜ Deniz Ticareti Yıllık (Tam paket) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "aydin-adu__deniz-ticareti-donem-1",
+      "title": "ADÜ Deniz Ticareti 1. Dönem (Güz) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "aydin-adu__deniz-ticareti-donem-2",
+      "title": "ADÜ Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "aydin-adu__deniz-ticareti-yillik",
+      "title": "ADÜ Deniz Ticareti Yıllık (Tam paket) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "tekirdag__deniz-ticareti-donem-1",
+      "title": "NKÜ Deniz Ticareti 1. Dönem (Güz) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "tekirdag__deniz-ticareti-donem-2",
+      "title": "NKÜ Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "tekirdag__deniz-ticareti-yillik",
+      "title": "NKÜ Deniz Ticareti Yıllık (Tam paket) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "kirklareli__deniz-ticareti-donem-1",
+      "title": "Kırklareli Deniz Ticareti 1. Dönem (Güz) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "kirklareli__deniz-ticareti-donem-2",
+      "title": "Kırklareli Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "kirklareli__deniz-ticareti-yillik",
+      "title": "Kırklareli Deniz Ticareti Yıllık (Tam paket) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "atilim__deniz-ticareti-donem-1",
+      "title": "Atılım Deniz Ticareti 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "atilim__deniz-ticareti-donem-2",
+      "title": "Atılım Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "atilim__deniz-ticareti-yillik",
+      "title": "Atılım Deniz Ticareti Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "cankaya__deniz-ticareti-donem-1",
+      "title": "Çankaya Deniz Ticareti 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "cankaya__deniz-ticareti-donem-2",
+      "title": "Çankaya Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "cankaya__deniz-ticareti-yillik",
+      "title": "Çankaya Deniz Ticareti Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "ufuk__deniz-ticareti-donem-1",
+      "title": "Ufuk Deniz Ticareti 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "ufuk__deniz-ticareti-donem-2",
+      "title": "Ufuk Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "ufuk__deniz-ticareti-yillik",
+      "title": "Ufuk Deniz Ticareti Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "yasar__deniz-ticareti-donem-1",
+      "title": "Yaşar Deniz Ticareti 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "yasar__deniz-ticareti-donem-2",
+      "title": "Yaşar Deniz Ticareti 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "yasar__deniz-ticareti-yillik",
+      "title": "Yaşar Deniz Ticareti Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "izmir-ekonomi__deniz-ticareti-donem-1",
+      "title": "İEÜ Deniz Ticareti 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "izmir-ekonomi__deniz-ticareti-donem-2",
+      "title": "İEÜ Deniz Ticareti 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "izmir-ekonomi__deniz-ticareti-yillik",
+      "title": "İEÜ Deniz Ticareti Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "tinaztepe__deniz-ticareti-donem-1",
+      "title": "Tınaztepe Deniz Ticareti 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "tinaztepe__deniz-ticareti-donem-2",
+      "title": "Tınaztepe Deniz Ticareti 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "tinaztepe__deniz-ticareti-yillik",
+      "title": "Tınaztepe Deniz Ticareti Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "asbu-vakif__deniz-ticareti-donem-1",
+      "title": "ABÜ Deniz Ticareti 1. Dönem (Güz) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "asbu-vakif__deniz-ticareti-donem-2",
+      "title": "ABÜ Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "asbu-vakif__deniz-ticareti-yillik",
+      "title": "ABÜ Deniz Ticareti Yıllık (Tam paket) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "hasan-kalyoncu__deniz-ticareti-donem-1",
+      "title": "HKÜ Deniz Ticareti 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "hasan-kalyoncu__deniz-ticareti-donem-2",
+      "title": "HKÜ Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "hasan-kalyoncu__deniz-ticareti-yillik",
+      "title": "HKÜ Deniz Ticareti Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "sanko__deniz-ticareti-donem-1",
+      "title": "Sanko Deniz Ticareti 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "sanko__deniz-ticareti-donem-2",
+      "title": "Sanko Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "sanko__deniz-ticareti-yillik",
+      "title": "Sanko Deniz Ticareti Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "toros__deniz-ticareti-donem-1",
+      "title": "Toros Deniz Ticareti 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "toros__deniz-ticareti-donem-2",
+      "title": "Toros Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "toros__deniz-ticareti-yillik",
+      "title": "Toros Deniz Ticareti Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "deniz-ticareti-donem-1",
+      "slug": "cag__deniz-ticareti-donem-1",
+      "title": "Çağ Deniz Ticareti 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/deniz-ticareti-donem-1",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "deniz-ticareti-donem-2",
+      "slug": "cag__deniz-ticareti-donem-2",
+      "title": "Çağ Deniz Ticareti 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/deniz-ticareti-donem-2",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "deniz-ticareti-yillik",
+      "slug": "cag__deniz-ticareti-yillik",
+      "title": "Çağ Deniz Ticareti Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/deniz-ticareti-yillik",
+      "variantOf": "deniz-ticareti",
+      "variantLabel": "Yıllık (Tam paket)"
     }
   ],
   "borclarGenelTripleAt": "2026-07-29T20:05:58.703Z",
@@ -128079,5 +131319,6 @@
   "milletlerarasiHukukTripleAt": "2026-07-29T21:38:10.199Z",
   "hukukSosyolojisiTripleAt": "2026-07-29T21:41:19.291Z",
   "isHukukuTripleAt": "2026-07-29T21:44:20.241Z",
-  "adliTipTripleAt": "2026-07-29T21:47:28.757Z"
+  "adliTipTripleAt": "2026-07-29T21:47:28.757Z",
+  "denizTicaretiTripleAt": "2026-07-29T21:51:09.739Z"
 }

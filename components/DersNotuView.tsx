@@ -884,6 +884,36 @@ export function DersNotuView({
               </p>
             ),
           },
+          {
+            match:
+              note.variantOf === 'deniz-ticareti' ||
+              note.courseCode === 'deniz-ticareti' ||
+              note.courseCode.startsWith('deniz-ticareti-'),
+            title: 'Deniz Ticareti · üç paket',
+            items: [
+              { code: 'deniz-ticareti-donem-1', label: '1. Dönem (Güz)', desc: 'Gemi · donatan · sicil' },
+              { code: 'deniz-ticareti-donem-2', label: '2. Dönem (Bahar)', desc: 'Navlun · çarter · avarya' },
+              { code: 'deniz-ticareti-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
+            ],
+            footer: (
+              <p className="text-[11px] text-charcoal/45 mt-3 m-0">
+                Ticaret omurgası için:{' '}
+                <Link
+                  href={`/ders-notlari/${note.uniSlug}/ticari-isletme-yillik`}
+                  className="text-accent font-semibold hover:underline"
+                >
+                  Ticari İşletme yıllık
+                </Link>
+                {' · '}
+                <Link
+                  href={`/ders-notlari/${note.uniSlug}/sirketler-yillik`}
+                  className="text-accent font-semibold hover:underline"
+                >
+                  Şirketler yıllık
+                </Link>
+              </p>
+            ),
+          },
         ];
         const activePacks = packs.filter((p) => p.match);
         if (!activePacks.length) return null;
@@ -1762,6 +1792,23 @@ export function UniHubView({ hub }: { hub: UniHubContent }) {
               { code: 'adli-tip-donem-1', title: '1. Dönem (Güz)' },
               { code: 'adli-tip-donem-2', title: '2. Dönem (Bahar)' },
               { code: 'adli-tip-yillik', title: 'Yıllık tam not' },
+            ],
+          },
+          {
+            show: hub.courses.some(
+              (c) =>
+                String(c.code).startsWith('deniz-ticareti') ||
+                c.code === 'deniz-ticareti'
+            ),
+            title: 'Deniz Ticareti — 1. dönem · 2. dönem · yıllık',
+            desc: 'Gemi–donatan–navlun–çarter–avarya… üç premium not + PDF.',
+            border: 'border-accent/20 bg-accent/[0.04]',
+            itemBorder: 'border-accent/25',
+            accent: 'text-accent',
+            items: [
+              { code: 'deniz-ticareti-donem-1', title: '1. Dönem (Güz)' },
+              { code: 'deniz-ticareti-donem-2', title: '2. Dönem (Bahar)' },
+              { code: 'deniz-ticareti-yillik', title: 'Yıllık tam not' },
             ],
           },
         ]

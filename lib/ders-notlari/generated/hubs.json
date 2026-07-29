@@ -984,6 +984,30 @@
         "href": "/ders-notlari/ankara-yildirim-beyazit/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -1991,6 +2015,30 @@
         "href": "/ders-notlari/ankara/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ankara/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ankara/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ankara/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -2999,6 +3047,30 @@
         "href": "/ders-notlari/istanbul/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/istanbul/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/istanbul/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/istanbul/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -4005,6 +4077,30 @@
         "href": "/ders-notlari/marmara/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/marmara/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/marmara/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/marmara/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -5013,6 +5109,30 @@
         "href": "/ders-notlari/galatasaray/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/galatasaray/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/galatasaray/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/galatasaray/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -6020,6 +6140,30 @@
         "href": "/ders-notlari/dokuz-eylul/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/dokuz-eylul/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/dokuz-eylul/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/dokuz-eylul/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -7026,6 +7170,30 @@
         "href": "/ders-notlari/hacettepe/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/hacettepe/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/hacettepe/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/hacettepe/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -8033,6 +8201,30 @@
         "href": "/ders-notlari/ankara-hacibayram/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ankara-hacibayram/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ankara-hacibayram/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ankara-hacibayram/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -9039,6 +9231,30 @@
         "href": "/ders-notlari/bilkent/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/bilkent/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/bilkent/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/bilkent/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -10046,6 +10262,30 @@
         "href": "/ders-notlari/koc/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/koc/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/koc/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/koc/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -11053,6 +11293,30 @@
         "href": "/ders-notlari/tobb-etu/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/tobb-etu/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/tobb-etu/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/tobb-etu/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -12059,6 +12323,30 @@
         "href": "/ders-notlari/bogazici/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/bogazici/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/bogazici/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/bogazici/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -13065,6 +13353,30 @@
         "href": "/ders-notlari/ege/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ege/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ege/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ege/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -14071,6 +14383,30 @@
         "href": "/ders-notlari/akdeniz/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/akdeniz/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/akdeniz/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/akdeniz/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -15077,6 +15413,30 @@
         "href": "/ders-notlari/selcuk/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/selcuk/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/selcuk/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/selcuk/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -16083,6 +16443,30 @@
         "href": "/ders-notlari/erciyes/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/erciyes/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/erciyes/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/erciyes/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -17090,6 +17474,30 @@
         "href": "/ders-notlari/uludag/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/uludag/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/uludag/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/uludag/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -18096,6 +18504,30 @@
         "href": "/ders-notlari/cukurova/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/cukurova/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/cukurova/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/cukurova/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -19102,6 +19534,30 @@
         "href": "/ders-notlari/anadolu/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/anadolu/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/anadolu/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/anadolu/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -20109,6 +20565,30 @@
         "href": "/ders-notlari/gazi-ankara/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/gazi-ankara/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/gazi-ankara/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/gazi-ankara/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -21116,6 +21596,30 @@
         "href": "/ders-notlari/yildiz-teknik/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/yildiz-teknik/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/yildiz-teknik/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/yildiz-teknik/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -22122,6 +22626,30 @@
         "href": "/ders-notlari/istanbul-medeniyet/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/istanbul-medeniyet/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/istanbul-medeniyet/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/istanbul-medeniyet/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -23129,6 +23657,30 @@
         "href": "/ders-notlari/bahcesehir/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/bahcesehir/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/bahcesehir/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/bahcesehir/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -24135,6 +24687,30 @@
         "href": "/ders-notlari/yeditepe/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/yeditepe/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/yeditepe/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/yeditepe/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -25141,6 +25717,30 @@
         "href": "/ders-notlari/ozyegin/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ozyegin/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ozyegin/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ozyegin/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -26147,6 +26747,30 @@
         "href": "/ders-notlari/kadir-has/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kadir-has/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kadir-has/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kadir-has/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -27153,6 +27777,30 @@
         "href": "/ders-notlari/istanbul-bilgi/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/istanbul-bilgi/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/istanbul-bilgi/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/istanbul-bilgi/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -28159,6 +28807,30 @@
         "href": "/ders-notlari/mehmet-akif/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/mehmet-akif/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/mehmet-akif/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/mehmet-akif/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -29165,6 +29837,30 @@
         "href": "/ders-notlari/altinbas/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/altinbas/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/altinbas/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/altinbas/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -30171,6 +30867,30 @@
         "href": "/ders-notlari/maltepe/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/maltepe/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/maltepe/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/maltepe/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -31177,6 +31897,30 @@
         "href": "/ders-notlari/dogus/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/dogus/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/dogus/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/dogus/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -32183,6 +32927,30 @@
         "href": "/ders-notlari/isik/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/isik/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/isik/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/isik/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -33189,6 +33957,30 @@
         "href": "/ders-notlari/okan/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/okan/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/okan/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/okan/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -34195,6 +34987,30 @@
         "href": "/ders-notlari/kultur/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kultur/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kultur/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kultur/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -35201,6 +36017,30 @@
         "href": "/ders-notlari/aydin/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/aydin/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/aydin/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/aydin/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -36207,6 +37047,30 @@
         "href": "/ders-notlari/gelisim/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/gelisim/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/gelisim/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/gelisim/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -37213,6 +38077,30 @@
         "href": "/ders-notlari/topkapi/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/topkapi/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/topkapi/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/topkapi/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -38219,6 +39107,30 @@
         "href": "/ders-notlari/nisantasi/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/nisantasi/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/nisantasi/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/nisantasi/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -39225,6 +40137,30 @@
         "href": "/ders-notlari/beykent/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/beykent/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/beykent/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/beykent/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -40231,6 +41167,30 @@
         "href": "/ders-notlari/halic/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/halic/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/halic/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/halic/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -41237,6 +42197,30 @@
         "href": "/ders-notlari/fatih-sultan/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/fatih-sultan/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/fatih-sultan/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/fatih-sultan/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -42244,6 +43228,30 @@
         "href": "/ders-notlari/karadeniz-teknik/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/karadeniz-teknik/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/karadeniz-teknik/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/karadeniz-teknik/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -43251,6 +44259,30 @@
         "href": "/ders-notlari/ataturk/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ataturk/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ataturk/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ataturk/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -44257,6 +45289,30 @@
         "href": "/ders-notlari/inonu/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/inonu/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/inonu/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/inonu/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -45263,6 +46319,30 @@
         "href": "/ders-notlari/dicle/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/dicle/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/dicle/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/dicle/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -46269,6 +47349,30 @@
         "href": "/ders-notlari/firat/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/firat/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/firat/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/firat/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -47275,6 +48379,30 @@
         "href": "/ders-notlari/gaziantep/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/gaziantep/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/gaziantep/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/gaziantep/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -48282,6 +49410,30 @@
         "href": "/ders-notlari/suleyman-demirel/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/suleyman-demirel/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/suleyman-demirel/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/suleyman-demirel/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -49288,6 +50440,30 @@
         "href": "/ders-notlari/pamukkale/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/pamukkale/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/pamukkale/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/pamukkale/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -50294,6 +51470,30 @@
         "href": "/ders-notlari/mugla/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/mugla/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/mugla/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/mugla/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -51300,6 +52500,30 @@
         "href": "/ders-notlari/sakarya/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/sakarya/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/sakarya/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/sakarya/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -52306,6 +53530,30 @@
         "href": "/ders-notlari/kocaeli/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kocaeli/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kocaeli/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kocaeli/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -53312,6 +54560,30 @@
         "href": "/ders-notlari/trakya/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/trakya/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/trakya/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/trakya/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -54318,6 +55590,30 @@
         "href": "/ders-notlari/canakkale/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/canakkale/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/canakkale/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/canakkale/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -55324,6 +56620,30 @@
         "href": "/ders-notlari/balikesir/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/balikesir/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/balikesir/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/balikesir/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -56331,6 +57651,30 @@
         "href": "/ders-notlari/afyon/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/afyon/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/afyon/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/afyon/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -57337,6 +58681,30 @@
         "href": "/ders-notlari/dumlupinar/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/dumlupinar/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/dumlupinar/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/dumlupinar/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -58343,6 +59711,30 @@
         "href": "/ders-notlari/eskisehir-osmangazi/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/eskisehir-osmangazi/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/eskisehir-osmangazi/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/eskisehir-osmangazi/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -59350,6 +60742,30 @@
         "href": "/ders-notlari/sivas-cumhuriyet/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/sivas-cumhuriyet/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/sivas-cumhuriyet/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/sivas-cumhuriyet/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -60356,6 +61772,30 @@
         "href": "/ders-notlari/tokat/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/tokat/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/tokat/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/tokat/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -61362,6 +62802,30 @@
         "href": "/ders-notlari/yozgat/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/yozgat/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/yozgat/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/yozgat/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -62368,6 +63832,30 @@
         "href": "/ders-notlari/kirsehir/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kirsehir/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kirsehir/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kirsehir/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -63374,6 +64862,30 @@
         "href": "/ders-notlari/nevsehir/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/nevsehir/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/nevsehir/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/nevsehir/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -64380,6 +65892,30 @@
         "href": "/ders-notlari/mersin/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/mersin/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/mersin/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/mersin/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -65387,6 +66923,30 @@
         "href": "/ders-notlari/hatay/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/hatay/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/hatay/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/hatay/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -66393,6 +67953,30 @@
         "href": "/ders-notlari/kahramanmaras/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kahramanmaras/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kahramanmaras/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kahramanmaras/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -67399,6 +68983,30 @@
         "href": "/ders-notlari/osmaniye/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/osmaniye/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/osmaniye/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/osmaniye/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -68406,6 +70014,30 @@
         "href": "/ders-notlari/samsun/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/samsun/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/samsun/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/samsun/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -69412,6 +71044,30 @@
         "href": "/ders-notlari/ordu/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ordu/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ordu/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ordu/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -70418,6 +72074,30 @@
         "href": "/ders-notlari/giresun/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/giresun/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/giresun/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/giresun/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -71425,6 +73105,30 @@
         "href": "/ders-notlari/rize/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/rize/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/rize/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/rize/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -72431,6 +74135,30 @@
         "href": "/ders-notlari/artvin/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/artvin/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/artvin/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/artvin/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -73439,6 +75167,30 @@
         "href": "/ders-notlari/van-yyu/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/van-yyu/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/van-yyu/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/van-yyu/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -74445,6 +76197,30 @@
         "href": "/ders-notlari/agri/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/agri/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/agri/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/agri/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -75451,6 +77227,30 @@
         "href": "/ders-notlari/kars/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kars/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kars/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kars/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -76457,6 +78257,30 @@
         "href": "/ders-notlari/erzincan/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/erzincan/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/erzincan/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/erzincan/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -77463,6 +79287,30 @@
         "href": "/ders-notlari/bayburt/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/bayburt/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/bayburt/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/bayburt/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -78469,6 +80317,30 @@
         "href": "/ders-notlari/gumushane/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/gumushane/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/gumushane/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/gumushane/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -79475,6 +81347,30 @@
         "href": "/ders-notlari/bingol/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/bingol/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/bingol/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/bingol/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -80481,6 +82377,30 @@
         "href": "/ders-notlari/mus/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/mus/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/mus/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/mus/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -81487,6 +83407,30 @@
         "href": "/ders-notlari/hakkari/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/hakkari/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/hakkari/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/hakkari/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -82493,6 +84437,30 @@
         "href": "/ders-notlari/sirnak/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/sirnak/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/sirnak/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/sirnak/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -83500,6 +85468,30 @@
         "href": "/ders-notlari/mardin/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/mardin/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/mardin/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/mardin/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -84506,6 +86498,30 @@
         "href": "/ders-notlari/batman/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/batman/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/batman/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/batman/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -85512,6 +87528,30 @@
         "href": "/ders-notlari/siirt/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/siirt/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/siirt/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/siirt/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -86518,6 +88558,30 @@
         "href": "/ders-notlari/adiyaman/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/adiyaman/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/adiyaman/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/adiyaman/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -87524,6 +89588,30 @@
         "href": "/ders-notlari/kilis/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kilis/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kilis/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kilis/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -88530,6 +90618,30 @@
         "href": "/ders-notlari/igdir/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/igdir/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/igdir/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/igdir/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -89536,6 +91648,30 @@
         "href": "/ders-notlari/ardahan/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ardahan/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ardahan/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ardahan/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -90542,6 +92678,30 @@
         "href": "/ders-notlari/bilecik/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/bilecik/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/bilecik/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/bilecik/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -91549,6 +93709,30 @@
         "href": "/ders-notlari/bolu/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/bolu/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/bolu/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/bolu/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -92555,6 +94739,30 @@
         "href": "/ders-notlari/duzce/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/duzce/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/duzce/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/duzce/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -93561,6 +95769,30 @@
         "href": "/ders-notlari/zonguldak/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/zonguldak/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/zonguldak/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/zonguldak/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -94567,6 +96799,30 @@
         "href": "/ders-notlari/karabuk/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/karabuk/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/karabuk/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/karabuk/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -95573,6 +97829,30 @@
         "href": "/ders-notlari/kastamonu/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kastamonu/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kastamonu/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kastamonu/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -96579,6 +98859,30 @@
         "href": "/ders-notlari/sinop/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/sinop/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/sinop/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/sinop/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -97586,6 +99890,30 @@
         "href": "/ders-notlari/corum/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/corum/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/corum/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/corum/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -98592,6 +100920,30 @@
         "href": "/ders-notlari/amasya/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/amasya/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/amasya/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/amasya/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -99598,6 +101950,30 @@
         "href": "/ders-notlari/cankiri/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/cankiri/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/cankiri/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/cankiri/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -100604,6 +102980,30 @@
         "href": "/ders-notlari/kirikkale/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kirikkale/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kirikkale/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kirikkale/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -101610,6 +104010,30 @@
         "href": "/ders-notlari/aksaray/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/aksaray/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/aksaray/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/aksaray/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -102616,6 +105040,30 @@
         "href": "/ders-notlari/nigde/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/nigde/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/nigde/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/nigde/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -103622,6 +106070,30 @@
         "href": "/ders-notlari/konya-teknik/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/konya-teknik/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/konya-teknik/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/konya-teknik/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -104628,6 +107100,30 @@
         "href": "/ders-notlari/karaman/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/karaman/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/karaman/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/karaman/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -105634,6 +108130,30 @@
         "href": "/ders-notlari/usak/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/usak/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/usak/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/usak/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -106641,6 +109161,30 @@
         "href": "/ders-notlari/manisa/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/manisa/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/manisa/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/manisa/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -107647,6 +110191,30 @@
         "href": "/ders-notlari/aydin-adu/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/aydin-adu/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/aydin-adu/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/aydin-adu/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -108653,6 +111221,30 @@
         "href": "/ders-notlari/tekirdag/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/tekirdag/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/tekirdag/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/tekirdag/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -109659,6 +112251,30 @@
         "href": "/ders-notlari/kirklareli/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kirklareli/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kirklareli/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kirklareli/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -110665,6 +113281,30 @@
         "href": "/ders-notlari/atilim/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/atilim/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/atilim/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/atilim/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -111671,6 +114311,30 @@
         "href": "/ders-notlari/cankaya/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/cankaya/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/cankaya/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/cankaya/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -112677,6 +115341,30 @@
         "href": "/ders-notlari/ufuk/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ufuk/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ufuk/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ufuk/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -113683,6 +116371,30 @@
         "href": "/ders-notlari/yasar/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/yasar/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/yasar/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/yasar/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -114689,6 +117401,30 @@
         "href": "/ders-notlari/izmir-ekonomi/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/izmir-ekonomi/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/izmir-ekonomi/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/izmir-ekonomi/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -115695,6 +118431,30 @@
         "href": "/ders-notlari/tinaztepe/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/tinaztepe/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/tinaztepe/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/tinaztepe/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -116701,6 +119461,30 @@
         "href": "/ders-notlari/asbu-vakif/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/asbu-vakif/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/asbu-vakif/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/asbu-vakif/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -117707,6 +120491,30 @@
         "href": "/ders-notlari/hasan-kalyoncu/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/hasan-kalyoncu/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/hasan-kalyoncu/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/hasan-kalyoncu/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -118713,6 +121521,30 @@
         "href": "/ders-notlari/sanko/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/sanko/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/sanko/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/sanko/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -119719,6 +122551,30 @@
         "href": "/ders-notlari/toros/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/toros/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/toros/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/toros/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [
@@ -120725,6 +123581,30 @@
         "href": "/ders-notlari/cag/adli-tip-yillik",
         "ready": true,
         "variantOf": "adli-tip"
+      },
+      {
+        "code": "deniz-ticareti-donem-1",
+        "title": "Deniz Ticareti — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/cag/deniz-ticareti-donem-1",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-donem-2",
+        "title": "Deniz Ticareti — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/cag/deniz-ticareti-donem-2",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "deniz-ticareti-yillik",
+        "title": "Deniz Ticareti — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/cag/deniz-ticareti-yillik",
+        "ready": true,
+        "variantOf": "deniz-ticareti"
       }
     ],
     "seoParagraphs": [

@@ -40,6 +40,7 @@ export const CURRICULUM: CurriculumCourse[] = [
   { code: 'fikri-mulkiyet', title: 'Fikri Mülkiyet Hukuku', year: 4, semester: 'bahar', area: 'secmeli', keywords: ['fikri mülkiyet', 'marka', 'patent', 'telif'], core: true },
   { code: 'tuketici-hukuku', title: 'Tüketici Hukuku', year: 4, semester: 'bahar', area: 'secmeli', keywords: ['tüketici hukuku', 'TKHK', 'ayıplı mal'], core: true },
   { code: 'sigorta-hukuku', title: 'Sigorta Hukuku', year: 4, semester: 'bahar', area: 'ticaret', keywords: ['sigorta hukuku', 'TTK sigorta', 'poliçe', 'riziko'], core: true },
+  { code: 'deniz-ticareti', title: 'Deniz Ticareti Hukuku', year: 4, semester: 'bahar', area: 'ticaret', keywords: ['deniz ticareti', 'TTK deniz', 'gemi', 'navlun', 'çarter'], core: true },
 
   // Seçmeli şablonlar (genişletilebilir)
   { code: 'bilisim-hukuku', title: 'Bilişim Hukuku', year: 4, semester: 'guz', area: 'secmeli', keywords: ['bilişim hukuku', 'KVKK', 'siber'], core: false },
