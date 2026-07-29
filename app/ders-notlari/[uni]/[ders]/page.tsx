@@ -9,9 +9,33 @@ const SITE = 'https://www.avfethiguzel.com';
 
 type Props = { params: Promise<{ uni: string; ders: string }> };
 
+/**
+ * 3360 notun tamamını SSG etmek Vercel build süresini şişirir.
+ * Öncelikli ~600 not önceden üretilir; diğerleri dynamicParams ile runtime.
+ */
 export function generateStaticParams() {
-  return getAllNoteParams();
+  const all = getAllNoteParams();
+  // Öncelik: bilinen yüksek arama uni slug’ları + ilk dilim
+  const priority = new Set([
+    'ankara-yildirim-beyazit',
+    'ankara',
+    'istanbul',
+    'marmara',
+    'galatasaray',
+    'dokuz-eylul',
+    'hacettepe',
+    'bilkent',
+    'koc',
+    'tobb-etu',
+    'van-yyu',
+    'bogazici',
+  ]);
+  const first = all.filter((p) => priority.has(p.uni));
+  const rest = all.filter((p) => !priority.has(p.uni)).slice(0, 200);
+  return [...first, ...rest];
 }
+
+export const dynamicParams = true;
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { uni, ders } = await params;

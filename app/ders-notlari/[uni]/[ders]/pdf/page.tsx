@@ -6,8 +6,22 @@ import { getAllNoteParams, getHub, getNote } from '@/lib/ders-notlari';
 type Props = { params: Promise<{ uni: string; ders: string }> };
 
 export function generateStaticParams() {
-  return getAllNoteParams();
+  // PDF sayfaları da tam SSG yapmaz — build bütçesi
+  return getAllNoteParams()
+    .filter((p) =>
+      [
+        'ankara-yildirim-beyazit',
+        'ankara',
+        'istanbul',
+        'marmara',
+        'van-yyu',
+        'bilkent',
+      ].includes(p.uni)
+    )
+    .slice(0, 120);
 }
+
+export const dynamicParams = true;
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { uni, ders } = await params;
