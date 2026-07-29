@@ -744,6 +744,30 @@
         "href": "/ders-notlari/ankara-yildirim-beyazit/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -1511,6 +1535,30 @@
         "href": "/ders-notlari/ankara/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ankara/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ankara/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ankara/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -2279,6 +2327,30 @@
         "href": "/ders-notlari/istanbul/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/istanbul/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/istanbul/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/istanbul/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -3045,6 +3117,30 @@
         "href": "/ders-notlari/marmara/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/marmara/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/marmara/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/marmara/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -3813,6 +3909,30 @@
         "href": "/ders-notlari/galatasaray/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/galatasaray/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/galatasaray/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/galatasaray/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -4580,6 +4700,30 @@
         "href": "/ders-notlari/dokuz-eylul/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/dokuz-eylul/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/dokuz-eylul/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/dokuz-eylul/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -5346,6 +5490,30 @@
         "href": "/ders-notlari/hacettepe/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/hacettepe/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/hacettepe/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/hacettepe/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -6113,6 +6281,30 @@
         "href": "/ders-notlari/ankara-hacibayram/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ankara-hacibayram/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ankara-hacibayram/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ankara-hacibayram/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -6879,6 +7071,30 @@
         "href": "/ders-notlari/bilkent/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/bilkent/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/bilkent/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/bilkent/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -7646,6 +7862,30 @@
         "href": "/ders-notlari/koc/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/koc/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/koc/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/koc/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -8413,6 +8653,30 @@
         "href": "/ders-notlari/tobb-etu/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/tobb-etu/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/tobb-etu/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/tobb-etu/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -9179,6 +9443,30 @@
         "href": "/ders-notlari/bogazici/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/bogazici/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/bogazici/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/bogazici/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -9945,6 +10233,30 @@
         "href": "/ders-notlari/ege/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ege/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ege/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ege/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -10711,6 +11023,30 @@
         "href": "/ders-notlari/akdeniz/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/akdeniz/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/akdeniz/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/akdeniz/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -11477,6 +11813,30 @@
         "href": "/ders-notlari/selcuk/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/selcuk/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/selcuk/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/selcuk/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -12243,6 +12603,30 @@
         "href": "/ders-notlari/erciyes/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/erciyes/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/erciyes/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/erciyes/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -13010,6 +13394,30 @@
         "href": "/ders-notlari/uludag/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/uludag/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/uludag/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/uludag/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -13776,6 +14184,30 @@
         "href": "/ders-notlari/cukurova/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/cukurova/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/cukurova/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/cukurova/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -14542,6 +14974,30 @@
         "href": "/ders-notlari/anadolu/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/anadolu/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/anadolu/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/anadolu/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -15309,6 +15765,30 @@
         "href": "/ders-notlari/gazi-ankara/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/gazi-ankara/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/gazi-ankara/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/gazi-ankara/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -16076,6 +16556,30 @@
         "href": "/ders-notlari/yildiz-teknik/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/yildiz-teknik/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/yildiz-teknik/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/yildiz-teknik/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -16842,6 +17346,30 @@
         "href": "/ders-notlari/istanbul-medeniyet/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/istanbul-medeniyet/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/istanbul-medeniyet/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/istanbul-medeniyet/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -17609,6 +18137,30 @@
         "href": "/ders-notlari/bahcesehir/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/bahcesehir/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/bahcesehir/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/bahcesehir/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -18375,6 +18927,30 @@
         "href": "/ders-notlari/yeditepe/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/yeditepe/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/yeditepe/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/yeditepe/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -19141,6 +19717,30 @@
         "href": "/ders-notlari/ozyegin/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ozyegin/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ozyegin/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ozyegin/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -19907,6 +20507,30 @@
         "href": "/ders-notlari/kadir-has/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kadir-has/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kadir-has/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kadir-has/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -20673,6 +21297,30 @@
         "href": "/ders-notlari/istanbul-bilgi/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/istanbul-bilgi/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/istanbul-bilgi/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/istanbul-bilgi/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -21439,6 +22087,30 @@
         "href": "/ders-notlari/mehmet-akif/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/mehmet-akif/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/mehmet-akif/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/mehmet-akif/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -22205,6 +22877,30 @@
         "href": "/ders-notlari/altinbas/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/altinbas/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/altinbas/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/altinbas/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -22971,6 +23667,30 @@
         "href": "/ders-notlari/maltepe/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/maltepe/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/maltepe/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/maltepe/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -23737,6 +24457,30 @@
         "href": "/ders-notlari/dogus/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/dogus/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/dogus/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/dogus/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -24503,6 +25247,30 @@
         "href": "/ders-notlari/isik/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/isik/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/isik/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/isik/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -25269,6 +26037,30 @@
         "href": "/ders-notlari/okan/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/okan/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/okan/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/okan/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -26035,6 +26827,30 @@
         "href": "/ders-notlari/kultur/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kultur/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kultur/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kultur/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -26801,6 +27617,30 @@
         "href": "/ders-notlari/aydin/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/aydin/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/aydin/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/aydin/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -27567,6 +28407,30 @@
         "href": "/ders-notlari/gelisim/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/gelisim/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/gelisim/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/gelisim/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -28333,6 +29197,30 @@
         "href": "/ders-notlari/topkapi/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/topkapi/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/topkapi/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/topkapi/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -29099,6 +29987,30 @@
         "href": "/ders-notlari/nisantasi/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/nisantasi/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/nisantasi/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/nisantasi/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -29865,6 +30777,30 @@
         "href": "/ders-notlari/beykent/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/beykent/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/beykent/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/beykent/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -30631,6 +31567,30 @@
         "href": "/ders-notlari/halic/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/halic/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/halic/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/halic/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -31397,6 +32357,30 @@
         "href": "/ders-notlari/fatih-sultan/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/fatih-sultan/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/fatih-sultan/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/fatih-sultan/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -32164,6 +33148,30 @@
         "href": "/ders-notlari/karadeniz-teknik/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/karadeniz-teknik/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/karadeniz-teknik/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/karadeniz-teknik/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -32931,6 +33939,30 @@
         "href": "/ders-notlari/ataturk/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ataturk/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ataturk/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ataturk/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -33697,6 +34729,30 @@
         "href": "/ders-notlari/inonu/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/inonu/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/inonu/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/inonu/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -34463,6 +35519,30 @@
         "href": "/ders-notlari/dicle/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/dicle/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/dicle/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/dicle/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -35229,6 +36309,30 @@
         "href": "/ders-notlari/firat/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/firat/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/firat/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/firat/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -35995,6 +37099,30 @@
         "href": "/ders-notlari/gaziantep/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/gaziantep/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/gaziantep/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/gaziantep/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -36762,6 +37890,30 @@
         "href": "/ders-notlari/suleyman-demirel/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/suleyman-demirel/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/suleyman-demirel/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/suleyman-demirel/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -37528,6 +38680,30 @@
         "href": "/ders-notlari/pamukkale/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/pamukkale/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/pamukkale/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/pamukkale/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -38294,6 +39470,30 @@
         "href": "/ders-notlari/mugla/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/mugla/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/mugla/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/mugla/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -39060,6 +40260,30 @@
         "href": "/ders-notlari/sakarya/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/sakarya/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/sakarya/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/sakarya/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -39826,6 +41050,30 @@
         "href": "/ders-notlari/kocaeli/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kocaeli/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kocaeli/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kocaeli/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -40592,6 +41840,30 @@
         "href": "/ders-notlari/trakya/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/trakya/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/trakya/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/trakya/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -41358,6 +42630,30 @@
         "href": "/ders-notlari/canakkale/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/canakkale/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/canakkale/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/canakkale/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -42124,6 +43420,30 @@
         "href": "/ders-notlari/balikesir/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/balikesir/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/balikesir/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/balikesir/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -42891,6 +44211,30 @@
         "href": "/ders-notlari/afyon/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/afyon/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/afyon/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/afyon/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -43657,6 +45001,30 @@
         "href": "/ders-notlari/dumlupinar/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/dumlupinar/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/dumlupinar/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/dumlupinar/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -44423,6 +45791,30 @@
         "href": "/ders-notlari/eskisehir-osmangazi/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/eskisehir-osmangazi/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/eskisehir-osmangazi/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/eskisehir-osmangazi/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -45190,6 +46582,30 @@
         "href": "/ders-notlari/sivas-cumhuriyet/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/sivas-cumhuriyet/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/sivas-cumhuriyet/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/sivas-cumhuriyet/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -45956,6 +47372,30 @@
         "href": "/ders-notlari/tokat/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/tokat/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/tokat/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/tokat/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -46722,6 +48162,30 @@
         "href": "/ders-notlari/yozgat/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/yozgat/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/yozgat/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/yozgat/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -47488,6 +48952,30 @@
         "href": "/ders-notlari/kirsehir/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kirsehir/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kirsehir/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kirsehir/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -48254,6 +49742,30 @@
         "href": "/ders-notlari/nevsehir/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/nevsehir/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/nevsehir/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/nevsehir/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -49020,6 +50532,30 @@
         "href": "/ders-notlari/mersin/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/mersin/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/mersin/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/mersin/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -49787,6 +51323,30 @@
         "href": "/ders-notlari/hatay/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/hatay/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/hatay/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/hatay/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -50553,6 +52113,30 @@
         "href": "/ders-notlari/kahramanmaras/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kahramanmaras/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kahramanmaras/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kahramanmaras/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -51319,6 +52903,30 @@
         "href": "/ders-notlari/osmaniye/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/osmaniye/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/osmaniye/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/osmaniye/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -52086,6 +53694,30 @@
         "href": "/ders-notlari/samsun/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/samsun/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/samsun/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/samsun/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -52852,6 +54484,30 @@
         "href": "/ders-notlari/ordu/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ordu/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ordu/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ordu/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -53618,6 +55274,30 @@
         "href": "/ders-notlari/giresun/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/giresun/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/giresun/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/giresun/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -54385,6 +56065,30 @@
         "href": "/ders-notlari/rize/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/rize/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/rize/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/rize/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -55151,6 +56855,30 @@
         "href": "/ders-notlari/artvin/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/artvin/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/artvin/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/artvin/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -55919,6 +57647,30 @@
         "href": "/ders-notlari/van-yyu/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/van-yyu/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/van-yyu/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/van-yyu/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -56685,6 +58437,30 @@
         "href": "/ders-notlari/agri/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/agri/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/agri/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/agri/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -57451,6 +59227,30 @@
         "href": "/ders-notlari/kars/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kars/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kars/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kars/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -58217,6 +60017,30 @@
         "href": "/ders-notlari/erzincan/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/erzincan/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/erzincan/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/erzincan/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -58983,6 +60807,30 @@
         "href": "/ders-notlari/bayburt/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/bayburt/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/bayburt/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/bayburt/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -59749,6 +61597,30 @@
         "href": "/ders-notlari/gumushane/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/gumushane/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/gumushane/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/gumushane/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -60515,6 +62387,30 @@
         "href": "/ders-notlari/bingol/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/bingol/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/bingol/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/bingol/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -61281,6 +63177,30 @@
         "href": "/ders-notlari/mus/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/mus/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/mus/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/mus/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -62047,6 +63967,30 @@
         "href": "/ders-notlari/hakkari/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/hakkari/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/hakkari/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/hakkari/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -62813,6 +64757,30 @@
         "href": "/ders-notlari/sirnak/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/sirnak/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/sirnak/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/sirnak/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -63580,6 +65548,30 @@
         "href": "/ders-notlari/mardin/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/mardin/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/mardin/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/mardin/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -64346,6 +66338,30 @@
         "href": "/ders-notlari/batman/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/batman/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/batman/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/batman/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -65112,6 +67128,30 @@
         "href": "/ders-notlari/siirt/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/siirt/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/siirt/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/siirt/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -65878,6 +67918,30 @@
         "href": "/ders-notlari/adiyaman/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/adiyaman/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/adiyaman/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/adiyaman/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -66644,6 +68708,30 @@
         "href": "/ders-notlari/kilis/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kilis/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kilis/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kilis/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -67410,6 +69498,30 @@
         "href": "/ders-notlari/igdir/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/igdir/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/igdir/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/igdir/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -68176,6 +70288,30 @@
         "href": "/ders-notlari/ardahan/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ardahan/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ardahan/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ardahan/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -68942,6 +71078,30 @@
         "href": "/ders-notlari/bilecik/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/bilecik/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/bilecik/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/bilecik/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -69709,6 +71869,30 @@
         "href": "/ders-notlari/bolu/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/bolu/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/bolu/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/bolu/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -70475,6 +72659,30 @@
         "href": "/ders-notlari/duzce/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/duzce/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/duzce/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/duzce/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -71241,6 +73449,30 @@
         "href": "/ders-notlari/zonguldak/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/zonguldak/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/zonguldak/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/zonguldak/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -72007,6 +74239,30 @@
         "href": "/ders-notlari/karabuk/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/karabuk/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/karabuk/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/karabuk/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -72773,6 +75029,30 @@
         "href": "/ders-notlari/kastamonu/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kastamonu/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kastamonu/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kastamonu/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -73539,6 +75819,30 @@
         "href": "/ders-notlari/sinop/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/sinop/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/sinop/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/sinop/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -74306,6 +76610,30 @@
         "href": "/ders-notlari/corum/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/corum/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/corum/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/corum/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -75072,6 +77400,30 @@
         "href": "/ders-notlari/amasya/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/amasya/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/amasya/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/amasya/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -75838,6 +78190,30 @@
         "href": "/ders-notlari/cankiri/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/cankiri/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/cankiri/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/cankiri/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -76604,6 +78980,30 @@
         "href": "/ders-notlari/kirikkale/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kirikkale/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kirikkale/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kirikkale/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -77370,6 +79770,30 @@
         "href": "/ders-notlari/aksaray/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/aksaray/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/aksaray/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/aksaray/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -78136,6 +80560,30 @@
         "href": "/ders-notlari/nigde/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/nigde/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/nigde/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/nigde/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -78902,6 +81350,30 @@
         "href": "/ders-notlari/konya-teknik/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/konya-teknik/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/konya-teknik/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/konya-teknik/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -79668,6 +82140,30 @@
         "href": "/ders-notlari/karaman/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/karaman/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/karaman/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/karaman/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -80434,6 +82930,30 @@
         "href": "/ders-notlari/usak/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/usak/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/usak/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/usak/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -81201,6 +83721,30 @@
         "href": "/ders-notlari/manisa/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/manisa/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/manisa/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/manisa/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -81967,6 +84511,30 @@
         "href": "/ders-notlari/aydin-adu/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/aydin-adu/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/aydin-adu/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/aydin-adu/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -82733,6 +85301,30 @@
         "href": "/ders-notlari/tekirdag/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/tekirdag/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/tekirdag/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/tekirdag/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -83499,6 +86091,30 @@
         "href": "/ders-notlari/kirklareli/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kirklareli/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kirklareli/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kirklareli/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -84265,6 +86881,30 @@
         "href": "/ders-notlari/atilim/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/atilim/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/atilim/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/atilim/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -85031,6 +87671,30 @@
         "href": "/ders-notlari/cankaya/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/cankaya/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/cankaya/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/cankaya/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -85797,6 +88461,30 @@
         "href": "/ders-notlari/ufuk/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ufuk/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ufuk/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ufuk/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -86563,6 +89251,30 @@
         "href": "/ders-notlari/yasar/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/yasar/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/yasar/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/yasar/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -87329,6 +90041,30 @@
         "href": "/ders-notlari/izmir-ekonomi/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/izmir-ekonomi/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/izmir-ekonomi/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/izmir-ekonomi/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -88095,6 +90831,30 @@
         "href": "/ders-notlari/tinaztepe/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/tinaztepe/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/tinaztepe/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/tinaztepe/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -88861,6 +91621,30 @@
         "href": "/ders-notlari/asbu-vakif/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/asbu-vakif/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/asbu-vakif/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/asbu-vakif/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -89627,6 +92411,30 @@
         "href": "/ders-notlari/hasan-kalyoncu/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/hasan-kalyoncu/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/hasan-kalyoncu/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/hasan-kalyoncu/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -90393,6 +93201,30 @@
         "href": "/ders-notlari/sanko/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/sanko/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/sanko/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/sanko/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -91159,6 +93991,30 @@
         "href": "/ders-notlari/toros/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/toros/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/toros/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/toros/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -91925,6 +94781,30 @@
         "href": "/ders-notlari/cag/tuketici-hukuku-yillik",
         "ready": true,
         "variantOf": "tuketici-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-1",
+        "title": "İnşaat Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/cag/insaat-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-donem-2",
+        "title": "İnşaat Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/cag/insaat-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "insaat-hukuku-yillik",
+        "title": "İnşaat Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/cag/insaat-hukuku-yillik",
+        "ready": true,
+        "variantOf": "insaat-hukuku"
       }
     ],
     "seoParagraphs": [

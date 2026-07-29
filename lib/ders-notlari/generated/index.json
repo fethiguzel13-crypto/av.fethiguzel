@@ -3,7 +3,7 @@
   "wave": "all",
   "universityCount": 120,
   "hubCount": 120,
-  "noteCount": 11280,
+  "noteCount": 11640,
   "universities": [
     {
       "slug": "ankara-yildirim-beyazit",
@@ -95646,6 +95646,3246 @@
       "href": "/ders-notlari/cag/tuketici-hukuku-yillik",
       "variantOf": "tuketici-hukuku",
       "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "ankara-yildirim-beyazit__insaat-hukuku-donem-1",
+      "title": "AYBÜ İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "ankara-yildirim-beyazit__insaat-hukuku-donem-2",
+      "title": "AYBÜ İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "ankara-yildirim-beyazit__insaat-hukuku-yillik",
+      "title": "AYBÜ İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "ankara__insaat-hukuku-donem-1",
+      "title": "AÜHF İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "ankara__insaat-hukuku-donem-2",
+      "title": "AÜHF İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "ankara__insaat-hukuku-yillik",
+      "title": "AÜHF İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "istanbul__insaat-hukuku-donem-1",
+      "title": "İÜHF İnşaat Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "istanbul__insaat-hukuku-donem-2",
+      "title": "İÜHF İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "istanbul__insaat-hukuku-yillik",
+      "title": "İÜHF İnşaat Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "marmara__insaat-hukuku-donem-1",
+      "title": "MÜHF İnşaat Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "marmara__insaat-hukuku-donem-2",
+      "title": "MÜHF İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "marmara__insaat-hukuku-yillik",
+      "title": "MÜHF İnşaat Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "galatasaray__insaat-hukuku-donem-1",
+      "title": "GSÜ İnşaat Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "galatasaray__insaat-hukuku-donem-2",
+      "title": "GSÜ İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "galatasaray__insaat-hukuku-yillik",
+      "title": "GSÜ İnşaat Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "dokuz-eylul__insaat-hukuku-donem-1",
+      "title": "DEÜ İnşaat Hukuku 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "dokuz-eylul__insaat-hukuku-donem-2",
+      "title": "DEÜ İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "dokuz-eylul__insaat-hukuku-yillik",
+      "title": "DEÜ İnşaat Hukuku Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "hacettepe__insaat-hukuku-donem-1",
+      "title": "Hacettepe İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "hacettepe__insaat-hukuku-donem-2",
+      "title": "Hacettepe İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "hacettepe__insaat-hukuku-yillik",
+      "title": "Hacettepe İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "ankara-hacibayram__insaat-hukuku-donem-1",
+      "title": "AHBV İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "ankara-hacibayram__insaat-hukuku-donem-2",
+      "title": "AHBV İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "ankara-hacibayram__insaat-hukuku-yillik",
+      "title": "AHBV İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "bilkent__insaat-hukuku-donem-1",
+      "title": "Bilkent İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "bilkent__insaat-hukuku-donem-2",
+      "title": "Bilkent İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "bilkent__insaat-hukuku-yillik",
+      "title": "Bilkent İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "koc__insaat-hukuku-donem-1",
+      "title": "Koç İnşaat Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "koc__insaat-hukuku-donem-2",
+      "title": "Koç İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "koc__insaat-hukuku-yillik",
+      "title": "Koç İnşaat Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "tobb-etu__insaat-hukuku-donem-1",
+      "title": "TOBB ETÜ İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "tobb-etu__insaat-hukuku-donem-2",
+      "title": "TOBB ETÜ İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "tobb-etu__insaat-hukuku-yillik",
+      "title": "TOBB ETÜ İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "bogazici__insaat-hukuku-donem-1",
+      "title": "BÜ İnşaat Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "bogazici__insaat-hukuku-donem-2",
+      "title": "BÜ İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "bogazici__insaat-hukuku-yillik",
+      "title": "BÜ İnşaat Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "ege__insaat-hukuku-donem-1",
+      "title": "Ege İnşaat Hukuku 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "ege__insaat-hukuku-donem-2",
+      "title": "Ege İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "ege__insaat-hukuku-yillik",
+      "title": "Ege İnşaat Hukuku Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "akdeniz__insaat-hukuku-donem-1",
+      "title": "Akdeniz İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "akdeniz__insaat-hukuku-donem-2",
+      "title": "Akdeniz İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "akdeniz__insaat-hukuku-yillik",
+      "title": "Akdeniz İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "selcuk__insaat-hukuku-donem-1",
+      "title": "Selçuk İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "selcuk__insaat-hukuku-donem-2",
+      "title": "Selçuk İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "selcuk__insaat-hukuku-yillik",
+      "title": "Selçuk İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "erciyes__insaat-hukuku-donem-1",
+      "title": "Erciyes İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "erciyes__insaat-hukuku-donem-2",
+      "title": "Erciyes İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "erciyes__insaat-hukuku-yillik",
+      "title": "Erciyes İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "uludag__insaat-hukuku-donem-1",
+      "title": "Uludağ İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "uludag__insaat-hukuku-donem-2",
+      "title": "Uludağ İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "uludag__insaat-hukuku-yillik",
+      "title": "Uludağ İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "cukurova__insaat-hukuku-donem-1",
+      "title": "Çukurova İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "cukurova__insaat-hukuku-donem-2",
+      "title": "Çukurova İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "cukurova__insaat-hukuku-yillik",
+      "title": "Çukurova İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "anadolu__insaat-hukuku-donem-1",
+      "title": "Anadolu İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "anadolu__insaat-hukuku-donem-2",
+      "title": "Anadolu İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "anadolu__insaat-hukuku-yillik",
+      "title": "Anadolu İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "gazi-ankara__insaat-hukuku-donem-1",
+      "title": "ASBÜ İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "gazi-ankara__insaat-hukuku-donem-2",
+      "title": "ASBÜ İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "gazi-ankara__insaat-hukuku-yillik",
+      "title": "ASBÜ İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "yildiz-teknik__insaat-hukuku-donem-1",
+      "title": "YTÜ İnşaat Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "yildiz-teknik__insaat-hukuku-donem-2",
+      "title": "YTÜ İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "yildiz-teknik__insaat-hukuku-yillik",
+      "title": "YTÜ İnşaat Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "istanbul-medeniyet__insaat-hukuku-donem-1",
+      "title": "Medeniyet İnşaat Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "istanbul-medeniyet__insaat-hukuku-donem-2",
+      "title": "Medeniyet İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "istanbul-medeniyet__insaat-hukuku-yillik",
+      "title": "Medeniyet İnşaat Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "bahcesehir__insaat-hukuku-donem-1",
+      "title": "BAU İnşaat Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "bahcesehir__insaat-hukuku-donem-2",
+      "title": "BAU İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "bahcesehir__insaat-hukuku-yillik",
+      "title": "BAU İnşaat Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "yeditepe__insaat-hukuku-donem-1",
+      "title": "Yeditepe İnşaat Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "yeditepe__insaat-hukuku-donem-2",
+      "title": "Yeditepe İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "yeditepe__insaat-hukuku-yillik",
+      "title": "Yeditepe İnşaat Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "ozyegin__insaat-hukuku-donem-1",
+      "title": "Özyeğin İnşaat Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "ozyegin__insaat-hukuku-donem-2",
+      "title": "Özyeğin İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "ozyegin__insaat-hukuku-yillik",
+      "title": "Özyeğin İnşaat Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "kadir-has__insaat-hukuku-donem-1",
+      "title": "KHAS İnşaat Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "kadir-has__insaat-hukuku-donem-2",
+      "title": "KHAS İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "kadir-has__insaat-hukuku-yillik",
+      "title": "KHAS İnşaat Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "istanbul-bilgi__insaat-hukuku-donem-1",
+      "title": "Bilgi İnşaat Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "istanbul-bilgi__insaat-hukuku-donem-2",
+      "title": "Bilgi İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "istanbul-bilgi__insaat-hukuku-yillik",
+      "title": "Bilgi İnşaat Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "mehmet-akif__insaat-hukuku-donem-1",
+      "title": "Medipol İnşaat Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "mehmet-akif__insaat-hukuku-donem-2",
+      "title": "Medipol İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "mehmet-akif__insaat-hukuku-yillik",
+      "title": "Medipol İnşaat Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "altinbas__insaat-hukuku-donem-1",
+      "title": "Altınbaş İnşaat Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "altinbas__insaat-hukuku-donem-2",
+      "title": "Altınbaş İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "altinbas__insaat-hukuku-yillik",
+      "title": "Altınbaş İnşaat Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "maltepe__insaat-hukuku-donem-1",
+      "title": "Maltepe İnşaat Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "maltepe__insaat-hukuku-donem-2",
+      "title": "Maltepe İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "maltepe__insaat-hukuku-yillik",
+      "title": "Maltepe İnşaat Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "dogus__insaat-hukuku-donem-1",
+      "title": "Doğuş İnşaat Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "dogus__insaat-hukuku-donem-2",
+      "title": "Doğuş İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "dogus__insaat-hukuku-yillik",
+      "title": "Doğuş İnşaat Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "isik__insaat-hukuku-donem-1",
+      "title": "Işık İnşaat Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "isik__insaat-hukuku-donem-2",
+      "title": "Işık İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "isik__insaat-hukuku-yillik",
+      "title": "Işık İnşaat Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "okan__insaat-hukuku-donem-1",
+      "title": "Okan İnşaat Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "okan__insaat-hukuku-donem-2",
+      "title": "Okan İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "okan__insaat-hukuku-yillik",
+      "title": "Okan İnşaat Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "kultur__insaat-hukuku-donem-1",
+      "title": "İKÜ İnşaat Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "kultur__insaat-hukuku-donem-2",
+      "title": "İKÜ İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "kultur__insaat-hukuku-yillik",
+      "title": "İKÜ İnşaat Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "aydin__insaat-hukuku-donem-1",
+      "title": "İAÜ İnşaat Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "aydin__insaat-hukuku-donem-2",
+      "title": "İAÜ İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "aydin__insaat-hukuku-yillik",
+      "title": "İAÜ İnşaat Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "gelisim__insaat-hukuku-donem-1",
+      "title": "Gelişim İnşaat Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "gelisim__insaat-hukuku-donem-2",
+      "title": "Gelişim İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "gelisim__insaat-hukuku-yillik",
+      "title": "Gelişim İnşaat Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "topkapi__insaat-hukuku-donem-1",
+      "title": "Topkapı İnşaat Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "topkapi__insaat-hukuku-donem-2",
+      "title": "Topkapı İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "topkapi__insaat-hukuku-yillik",
+      "title": "Topkapı İnşaat Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "nisantasi__insaat-hukuku-donem-1",
+      "title": "Nişantaşı İnşaat Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "nisantasi__insaat-hukuku-donem-2",
+      "title": "Nişantaşı İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "nisantasi__insaat-hukuku-yillik",
+      "title": "Nişantaşı İnşaat Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "beykent__insaat-hukuku-donem-1",
+      "title": "Beykent İnşaat Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "beykent__insaat-hukuku-donem-2",
+      "title": "Beykent İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "beykent__insaat-hukuku-yillik",
+      "title": "Beykent İnşaat Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "halic__insaat-hukuku-donem-1",
+      "title": "Haliç İnşaat Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "halic__insaat-hukuku-donem-2",
+      "title": "Haliç İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "halic__insaat-hukuku-yillik",
+      "title": "Haliç İnşaat Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "fatih-sultan__insaat-hukuku-donem-1",
+      "title": "FSMVÜ İnşaat Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "fatih-sultan__insaat-hukuku-donem-2",
+      "title": "FSMVÜ İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "fatih-sultan__insaat-hukuku-yillik",
+      "title": "FSMVÜ İnşaat Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "karadeniz-teknik__insaat-hukuku-donem-1",
+      "title": "KTÜ İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "karadeniz-teknik__insaat-hukuku-donem-2",
+      "title": "KTÜ İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "karadeniz-teknik__insaat-hukuku-yillik",
+      "title": "KTÜ İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "ataturk__insaat-hukuku-donem-1",
+      "title": "Atatürk İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "ataturk__insaat-hukuku-donem-2",
+      "title": "Atatürk İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "ataturk__insaat-hukuku-yillik",
+      "title": "Atatürk İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "inonu__insaat-hukuku-donem-1",
+      "title": "İnönü İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "inonu__insaat-hukuku-donem-2",
+      "title": "İnönü İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "inonu__insaat-hukuku-yillik",
+      "title": "İnönü İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "dicle__insaat-hukuku-donem-1",
+      "title": "Dicle İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "dicle__insaat-hukuku-donem-2",
+      "title": "Dicle İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "dicle__insaat-hukuku-yillik",
+      "title": "Dicle İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "firat__insaat-hukuku-donem-1",
+      "title": "Fırat İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "firat__insaat-hukuku-donem-2",
+      "title": "Fırat İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "firat__insaat-hukuku-yillik",
+      "title": "Fırat İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "gaziantep__insaat-hukuku-donem-1",
+      "title": "GAÜN İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "gaziantep__insaat-hukuku-donem-2",
+      "title": "GAÜN İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "gaziantep__insaat-hukuku-yillik",
+      "title": "GAÜN İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "suleyman-demirel__insaat-hukuku-donem-1",
+      "title": "SDÜ İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "suleyman-demirel__insaat-hukuku-donem-2",
+      "title": "SDÜ İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "suleyman-demirel__insaat-hukuku-yillik",
+      "title": "SDÜ İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "pamukkale__insaat-hukuku-donem-1",
+      "title": "PAÜ İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "pamukkale__insaat-hukuku-donem-2",
+      "title": "PAÜ İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "pamukkale__insaat-hukuku-yillik",
+      "title": "PAÜ İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "mugla__insaat-hukuku-donem-1",
+      "title": "MSKU İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "mugla__insaat-hukuku-donem-2",
+      "title": "MSKU İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "mugla__insaat-hukuku-yillik",
+      "title": "MSKU İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "sakarya__insaat-hukuku-donem-1",
+      "title": "SAÜ İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "sakarya__insaat-hukuku-donem-2",
+      "title": "SAÜ İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "sakarya__insaat-hukuku-yillik",
+      "title": "SAÜ İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "kocaeli__insaat-hukuku-donem-1",
+      "title": "KOÜ İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "kocaeli__insaat-hukuku-donem-2",
+      "title": "KOÜ İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "kocaeli__insaat-hukuku-yillik",
+      "title": "KOÜ İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "trakya__insaat-hukuku-donem-1",
+      "title": "Trakya İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "trakya__insaat-hukuku-donem-2",
+      "title": "Trakya İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "trakya__insaat-hukuku-yillik",
+      "title": "Trakya İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "canakkale__insaat-hukuku-donem-1",
+      "title": "ÇOMÜ İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "canakkale__insaat-hukuku-donem-2",
+      "title": "ÇOMÜ İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "canakkale__insaat-hukuku-yillik",
+      "title": "ÇOMÜ İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "balikesir__insaat-hukuku-donem-1",
+      "title": "BAÜN İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "balikesir__insaat-hukuku-donem-2",
+      "title": "BAÜN İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "balikesir__insaat-hukuku-yillik",
+      "title": "BAÜN İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "afyon__insaat-hukuku-donem-1",
+      "title": "AKÜ İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "afyon__insaat-hukuku-donem-2",
+      "title": "AKÜ İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "afyon__insaat-hukuku-yillik",
+      "title": "AKÜ İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "dumlupinar__insaat-hukuku-donem-1",
+      "title": "DPÜ İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "dumlupinar__insaat-hukuku-donem-2",
+      "title": "DPÜ İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "dumlupinar__insaat-hukuku-yillik",
+      "title": "DPÜ İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "eskisehir-osmangazi__insaat-hukuku-donem-1",
+      "title": "ESOGÜ İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "eskisehir-osmangazi__insaat-hukuku-donem-2",
+      "title": "ESOGÜ İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "eskisehir-osmangazi__insaat-hukuku-yillik",
+      "title": "ESOGÜ İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "sivas-cumhuriyet__insaat-hukuku-donem-1",
+      "title": "SCÜ İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "sivas-cumhuriyet__insaat-hukuku-donem-2",
+      "title": "SCÜ İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "sivas-cumhuriyet__insaat-hukuku-yillik",
+      "title": "SCÜ İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "tokat__insaat-hukuku-donem-1",
+      "title": "TOGÜ İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "tokat__insaat-hukuku-donem-2",
+      "title": "TOGÜ İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "tokat__insaat-hukuku-yillik",
+      "title": "TOGÜ İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "yozgat__insaat-hukuku-donem-1",
+      "title": "Bozok İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "yozgat__insaat-hukuku-donem-2",
+      "title": "Bozok İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "yozgat__insaat-hukuku-yillik",
+      "title": "Bozok İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "kirsehir__insaat-hukuku-donem-1",
+      "title": "AHİEVRAN İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "kirsehir__insaat-hukuku-donem-2",
+      "title": "AHİEVRAN İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "kirsehir__insaat-hukuku-yillik",
+      "title": "AHİEVRAN İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "nevsehir__insaat-hukuku-donem-1",
+      "title": "NEVÜ İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "nevsehir__insaat-hukuku-donem-2",
+      "title": "NEVÜ İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "nevsehir__insaat-hukuku-yillik",
+      "title": "NEVÜ İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "mersin__insaat-hukuku-donem-1",
+      "title": "MEÜ İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "mersin__insaat-hukuku-donem-2",
+      "title": "MEÜ İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "mersin__insaat-hukuku-yillik",
+      "title": "MEÜ İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "hatay__insaat-hukuku-donem-1",
+      "title": "MKÜ İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "hatay__insaat-hukuku-donem-2",
+      "title": "MKÜ İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "hatay__insaat-hukuku-yillik",
+      "title": "MKÜ İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "kahramanmaras__insaat-hukuku-donem-1",
+      "title": "KSÜ İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "kahramanmaras__insaat-hukuku-donem-2",
+      "title": "KSÜ İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "kahramanmaras__insaat-hukuku-yillik",
+      "title": "KSÜ İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "osmaniye__insaat-hukuku-donem-1",
+      "title": "OKÜ İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "osmaniye__insaat-hukuku-donem-2",
+      "title": "OKÜ İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "osmaniye__insaat-hukuku-yillik",
+      "title": "OKÜ İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "samsun__insaat-hukuku-donem-1",
+      "title": "OMÜ İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "samsun__insaat-hukuku-donem-2",
+      "title": "OMÜ İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "samsun__insaat-hukuku-yillik",
+      "title": "OMÜ İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "ordu__insaat-hukuku-donem-1",
+      "title": "ODÜ İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "ordu__insaat-hukuku-donem-2",
+      "title": "ODÜ İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "ordu__insaat-hukuku-yillik",
+      "title": "ODÜ İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "giresun__insaat-hukuku-donem-1",
+      "title": "GÜ İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "giresun__insaat-hukuku-donem-2",
+      "title": "GÜ İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "giresun__insaat-hukuku-yillik",
+      "title": "GÜ İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "rize__insaat-hukuku-donem-1",
+      "title": "RTEÜ İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "rize__insaat-hukuku-donem-2",
+      "title": "RTEÜ İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "rize__insaat-hukuku-yillik",
+      "title": "RTEÜ İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "artvin__insaat-hukuku-donem-1",
+      "title": "AÇÜ İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "artvin__insaat-hukuku-donem-2",
+      "title": "AÇÜ İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "artvin__insaat-hukuku-yillik",
+      "title": "AÇÜ İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "van-yyu__insaat-hukuku-donem-1",
+      "title": "YYÜ İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "van-yyu__insaat-hukuku-donem-2",
+      "title": "YYÜ İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "van-yyu__insaat-hukuku-yillik",
+      "title": "YYÜ İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "agri__insaat-hukuku-donem-1",
+      "title": "AİÇÜ İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "agri__insaat-hukuku-donem-2",
+      "title": "AİÇÜ İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "agri__insaat-hukuku-yillik",
+      "title": "AİÇÜ İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "kars__insaat-hukuku-donem-1",
+      "title": "Kafkas İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "kars__insaat-hukuku-donem-2",
+      "title": "Kafkas İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "kars__insaat-hukuku-yillik",
+      "title": "Kafkas İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "erzincan__insaat-hukuku-donem-1",
+      "title": "EBYÜ İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "erzincan__insaat-hukuku-donem-2",
+      "title": "EBYÜ İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "erzincan__insaat-hukuku-yillik",
+      "title": "EBYÜ İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "bayburt__insaat-hukuku-donem-1",
+      "title": "Bayburt İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "bayburt__insaat-hukuku-donem-2",
+      "title": "Bayburt İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "bayburt__insaat-hukuku-yillik",
+      "title": "Bayburt İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "gumushane__insaat-hukuku-donem-1",
+      "title": "Gümüşhane İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "gumushane__insaat-hukuku-donem-2",
+      "title": "Gümüşhane İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "gumushane__insaat-hukuku-yillik",
+      "title": "Gümüşhane İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "bingol__insaat-hukuku-donem-1",
+      "title": "Bingöl İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "bingol__insaat-hukuku-donem-2",
+      "title": "Bingöl İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "bingol__insaat-hukuku-yillik",
+      "title": "Bingöl İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "mus__insaat-hukuku-donem-1",
+      "title": "Muş İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "mus__insaat-hukuku-donem-2",
+      "title": "Muş İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "mus__insaat-hukuku-yillik",
+      "title": "Muş İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "hakkari__insaat-hukuku-donem-1",
+      "title": "Hakkâri İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "hakkari__insaat-hukuku-donem-2",
+      "title": "Hakkâri İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "hakkari__insaat-hukuku-yillik",
+      "title": "Hakkâri İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "sirnak__insaat-hukuku-donem-1",
+      "title": "Şırnak İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "sirnak__insaat-hukuku-donem-2",
+      "title": "Şırnak İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "sirnak__insaat-hukuku-yillik",
+      "title": "Şırnak İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "mardin__insaat-hukuku-donem-1",
+      "title": "Artuklu İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "mardin__insaat-hukuku-donem-2",
+      "title": "Artuklu İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "mardin__insaat-hukuku-yillik",
+      "title": "Artuklu İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "batman__insaat-hukuku-donem-1",
+      "title": "Batman İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "batman__insaat-hukuku-donem-2",
+      "title": "Batman İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "batman__insaat-hukuku-yillik",
+      "title": "Batman İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "siirt__insaat-hukuku-donem-1",
+      "title": "Siirt İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "siirt__insaat-hukuku-donem-2",
+      "title": "Siirt İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "siirt__insaat-hukuku-yillik",
+      "title": "Siirt İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "adiyaman__insaat-hukuku-donem-1",
+      "title": "Adıyaman İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "adiyaman__insaat-hukuku-donem-2",
+      "title": "Adıyaman İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "adiyaman__insaat-hukuku-yillik",
+      "title": "Adıyaman İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "kilis__insaat-hukuku-donem-1",
+      "title": "Kilis İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "kilis__insaat-hukuku-donem-2",
+      "title": "Kilis İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "kilis__insaat-hukuku-yillik",
+      "title": "Kilis İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "igdir__insaat-hukuku-donem-1",
+      "title": "Iğdır İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "igdir__insaat-hukuku-donem-2",
+      "title": "Iğdır İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "igdir__insaat-hukuku-yillik",
+      "title": "Iğdır İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "ardahan__insaat-hukuku-donem-1",
+      "title": "Ardahan İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "ardahan__insaat-hukuku-donem-2",
+      "title": "Ardahan İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "ardahan__insaat-hukuku-yillik",
+      "title": "Ardahan İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "bilecik__insaat-hukuku-donem-1",
+      "title": "BŞEÜ İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "bilecik__insaat-hukuku-donem-2",
+      "title": "BŞEÜ İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "bilecik__insaat-hukuku-yillik",
+      "title": "BŞEÜ İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "bolu__insaat-hukuku-donem-1",
+      "title": "BAİBÜ İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "bolu__insaat-hukuku-donem-2",
+      "title": "BAİBÜ İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "bolu__insaat-hukuku-yillik",
+      "title": "BAİBÜ İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "duzce__insaat-hukuku-donem-1",
+      "title": "Düzce İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "duzce__insaat-hukuku-donem-2",
+      "title": "Düzce İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "duzce__insaat-hukuku-yillik",
+      "title": "Düzce İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "zonguldak__insaat-hukuku-donem-1",
+      "title": "BEÜN İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "zonguldak__insaat-hukuku-donem-2",
+      "title": "BEÜN İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "zonguldak__insaat-hukuku-yillik",
+      "title": "BEÜN İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "karabuk__insaat-hukuku-donem-1",
+      "title": "KBÜ İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "karabuk__insaat-hukuku-donem-2",
+      "title": "KBÜ İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "karabuk__insaat-hukuku-yillik",
+      "title": "KBÜ İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "kastamonu__insaat-hukuku-donem-1",
+      "title": "KÜ İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "kastamonu__insaat-hukuku-donem-2",
+      "title": "KÜ İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "kastamonu__insaat-hukuku-yillik",
+      "title": "KÜ İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "sinop__insaat-hukuku-donem-1",
+      "title": "Sinop İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "sinop__insaat-hukuku-donem-2",
+      "title": "Sinop İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "sinop__insaat-hukuku-yillik",
+      "title": "Sinop İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "corum__insaat-hukuku-donem-1",
+      "title": "Hitit İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "corum__insaat-hukuku-donem-2",
+      "title": "Hitit İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "corum__insaat-hukuku-yillik",
+      "title": "Hitit İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "amasya__insaat-hukuku-donem-1",
+      "title": "Amasya İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "amasya__insaat-hukuku-donem-2",
+      "title": "Amasya İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "amasya__insaat-hukuku-yillik",
+      "title": "Amasya İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "cankiri__insaat-hukuku-donem-1",
+      "title": "Karatekin İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "cankiri__insaat-hukuku-donem-2",
+      "title": "Karatekin İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "cankiri__insaat-hukuku-yillik",
+      "title": "Karatekin İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "kirikkale__insaat-hukuku-donem-1",
+      "title": "Kırıkkale İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "kirikkale__insaat-hukuku-donem-2",
+      "title": "Kırıkkale İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "kirikkale__insaat-hukuku-yillik",
+      "title": "Kırıkkale İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "aksaray__insaat-hukuku-donem-1",
+      "title": "Aksaray İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "aksaray__insaat-hukuku-donem-2",
+      "title": "Aksaray İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "aksaray__insaat-hukuku-yillik",
+      "title": "Aksaray İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "nigde__insaat-hukuku-donem-1",
+      "title": "ÖHÜ İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "nigde__insaat-hukuku-donem-2",
+      "title": "ÖHÜ İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "nigde__insaat-hukuku-yillik",
+      "title": "ÖHÜ İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "konya-teknik__insaat-hukuku-donem-1",
+      "title": "NEÜ İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "konya-teknik__insaat-hukuku-donem-2",
+      "title": "NEÜ İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "konya-teknik__insaat-hukuku-yillik",
+      "title": "NEÜ İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "karaman__insaat-hukuku-donem-1",
+      "title": "KMÜ İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "karaman__insaat-hukuku-donem-2",
+      "title": "KMÜ İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "karaman__insaat-hukuku-yillik",
+      "title": "KMÜ İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "usak__insaat-hukuku-donem-1",
+      "title": "Uşak İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "usak__insaat-hukuku-donem-2",
+      "title": "Uşak İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "usak__insaat-hukuku-yillik",
+      "title": "Uşak İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "manisa__insaat-hukuku-donem-1",
+      "title": "MCBÜ İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "manisa__insaat-hukuku-donem-2",
+      "title": "MCBÜ İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "manisa__insaat-hukuku-yillik",
+      "title": "MCBÜ İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "aydin-adu__insaat-hukuku-donem-1",
+      "title": "ADÜ İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "aydin-adu__insaat-hukuku-donem-2",
+      "title": "ADÜ İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "aydin-adu__insaat-hukuku-yillik",
+      "title": "ADÜ İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "tekirdag__insaat-hukuku-donem-1",
+      "title": "NKÜ İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "tekirdag__insaat-hukuku-donem-2",
+      "title": "NKÜ İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "tekirdag__insaat-hukuku-yillik",
+      "title": "NKÜ İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "kirklareli__insaat-hukuku-donem-1",
+      "title": "Kırklareli İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "kirklareli__insaat-hukuku-donem-2",
+      "title": "Kırklareli İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "kirklareli__insaat-hukuku-yillik",
+      "title": "Kırklareli İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "atilim__insaat-hukuku-donem-1",
+      "title": "Atılım İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "atilim__insaat-hukuku-donem-2",
+      "title": "Atılım İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "atilim__insaat-hukuku-yillik",
+      "title": "Atılım İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "cankaya__insaat-hukuku-donem-1",
+      "title": "Çankaya İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "cankaya__insaat-hukuku-donem-2",
+      "title": "Çankaya İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "cankaya__insaat-hukuku-yillik",
+      "title": "Çankaya İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "ufuk__insaat-hukuku-donem-1",
+      "title": "Ufuk İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "ufuk__insaat-hukuku-donem-2",
+      "title": "Ufuk İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "ufuk__insaat-hukuku-yillik",
+      "title": "Ufuk İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "yasar__insaat-hukuku-donem-1",
+      "title": "Yaşar İnşaat Hukuku 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "yasar__insaat-hukuku-donem-2",
+      "title": "Yaşar İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "yasar__insaat-hukuku-yillik",
+      "title": "Yaşar İnşaat Hukuku Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "izmir-ekonomi__insaat-hukuku-donem-1",
+      "title": "İEÜ İnşaat Hukuku 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "izmir-ekonomi__insaat-hukuku-donem-2",
+      "title": "İEÜ İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "izmir-ekonomi__insaat-hukuku-yillik",
+      "title": "İEÜ İnşaat Hukuku Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "tinaztepe__insaat-hukuku-donem-1",
+      "title": "Tınaztepe İnşaat Hukuku 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "tinaztepe__insaat-hukuku-donem-2",
+      "title": "Tınaztepe İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "tinaztepe__insaat-hukuku-yillik",
+      "title": "Tınaztepe İnşaat Hukuku Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "asbu-vakif__insaat-hukuku-donem-1",
+      "title": "ABÜ İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "asbu-vakif__insaat-hukuku-donem-2",
+      "title": "ABÜ İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "asbu-vakif__insaat-hukuku-yillik",
+      "title": "ABÜ İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "hasan-kalyoncu__insaat-hukuku-donem-1",
+      "title": "HKÜ İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "hasan-kalyoncu__insaat-hukuku-donem-2",
+      "title": "HKÜ İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "hasan-kalyoncu__insaat-hukuku-yillik",
+      "title": "HKÜ İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "sanko__insaat-hukuku-donem-1",
+      "title": "Sanko İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "sanko__insaat-hukuku-donem-2",
+      "title": "Sanko İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "sanko__insaat-hukuku-yillik",
+      "title": "Sanko İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "toros__insaat-hukuku-donem-1",
+      "title": "Toros İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "toros__insaat-hukuku-donem-2",
+      "title": "Toros İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "toros__insaat-hukuku-yillik",
+      "title": "Toros İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "insaat-hukuku-donem-1",
+      "slug": "cag__insaat-hukuku-donem-1",
+      "title": "Çağ İnşaat Hukuku 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/insaat-hukuku-donem-1",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "insaat-hukuku-donem-2",
+      "slug": "cag__insaat-hukuku-donem-2",
+      "title": "Çağ İnşaat Hukuku 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/insaat-hukuku-donem-2",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "insaat-hukuku-yillik",
+      "slug": "cag__insaat-hukuku-yillik",
+      "title": "Çağ İnşaat Hukuku Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/insaat-hukuku-yillik",
+      "variantOf": "insaat-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
     }
   ],
   "borclarGenelTripleAt": "2026-07-29T20:05:58.703Z",
@@ -95669,5 +98909,6 @@
   "hukukFelsefesiTripleAt": "2026-07-29T21:08:50.747Z",
   "hukukIngilizcesiTripleAt": "2026-07-29T21:12:01.835Z",
   "saglikHukukuTripleAt": "2026-07-29T21:14:42.533Z",
-  "tuketiciHukukuTripleAt": "2026-07-29T21:17:38.037Z"
+  "tuketiciHukukuTripleAt": "2026-07-29T21:17:38.037Z",
+  "insaatHukukuTripleAt": "2026-07-29T21:20:33.364Z"
 }
