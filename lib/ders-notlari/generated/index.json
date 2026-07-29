@@ -3,7 +3,7 @@
   "wave": "all",
   "universityCount": 120,
   "hubCount": 120,
-  "noteCount": 6600,
+  "noteCount": 6960,
   "universities": [
     {
       "slug": "ankara-yildirim-beyazit",
@@ -53526,6 +53526,3246 @@
       "href": "/ders-notlari/cag/iflas-yillik",
       "variantOf": "iflas",
       "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "sirketler-donem-1",
+      "slug": "ankara-yildirim-beyazit__sirketler-donem-1",
+      "title": "AYBÜ Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "sirketler-donem-2",
+      "slug": "ankara-yildirim-beyazit__sirketler-donem-2",
+      "title": "AYBÜ Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "sirketler-yillik",
+      "slug": "ankara-yildirim-beyazit__sirketler-yillik",
+      "title": "AYBÜ Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "sirketler-donem-1",
+      "slug": "ankara__sirketler-donem-1",
+      "title": "AÜHF Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "sirketler-donem-2",
+      "slug": "ankara__sirketler-donem-2",
+      "title": "AÜHF Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "sirketler-yillik",
+      "slug": "ankara__sirketler-yillik",
+      "title": "AÜHF Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "sirketler-donem-1",
+      "slug": "istanbul__sirketler-donem-1",
+      "title": "İÜHF Şirketler Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "sirketler-donem-2",
+      "slug": "istanbul__sirketler-donem-2",
+      "title": "İÜHF Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "sirketler-yillik",
+      "slug": "istanbul__sirketler-yillik",
+      "title": "İÜHF Şirketler Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "sirketler-donem-1",
+      "slug": "marmara__sirketler-donem-1",
+      "title": "MÜHF Şirketler Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "sirketler-donem-2",
+      "slug": "marmara__sirketler-donem-2",
+      "title": "MÜHF Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "sirketler-yillik",
+      "slug": "marmara__sirketler-yillik",
+      "title": "MÜHF Şirketler Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "sirketler-donem-1",
+      "slug": "galatasaray__sirketler-donem-1",
+      "title": "GSÜ Şirketler Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "sirketler-donem-2",
+      "slug": "galatasaray__sirketler-donem-2",
+      "title": "GSÜ Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "sirketler-yillik",
+      "slug": "galatasaray__sirketler-yillik",
+      "title": "GSÜ Şirketler Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "sirketler-donem-1",
+      "slug": "dokuz-eylul__sirketler-donem-1",
+      "title": "DEÜ Şirketler Hukuku 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "sirketler-donem-2",
+      "slug": "dokuz-eylul__sirketler-donem-2",
+      "title": "DEÜ Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "sirketler-yillik",
+      "slug": "dokuz-eylul__sirketler-yillik",
+      "title": "DEÜ Şirketler Hukuku Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "sirketler-donem-1",
+      "slug": "hacettepe__sirketler-donem-1",
+      "title": "Hacettepe Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "sirketler-donem-2",
+      "slug": "hacettepe__sirketler-donem-2",
+      "title": "Hacettepe Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "sirketler-yillik",
+      "slug": "hacettepe__sirketler-yillik",
+      "title": "Hacettepe Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "sirketler-donem-1",
+      "slug": "ankara-hacibayram__sirketler-donem-1",
+      "title": "AHBV Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "sirketler-donem-2",
+      "slug": "ankara-hacibayram__sirketler-donem-2",
+      "title": "AHBV Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "sirketler-yillik",
+      "slug": "ankara-hacibayram__sirketler-yillik",
+      "title": "AHBV Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "sirketler-donem-1",
+      "slug": "bilkent__sirketler-donem-1",
+      "title": "Bilkent Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "sirketler-donem-2",
+      "slug": "bilkent__sirketler-donem-2",
+      "title": "Bilkent Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "sirketler-yillik",
+      "slug": "bilkent__sirketler-yillik",
+      "title": "Bilkent Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "sirketler-donem-1",
+      "slug": "koc__sirketler-donem-1",
+      "title": "Koç Şirketler Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "sirketler-donem-2",
+      "slug": "koc__sirketler-donem-2",
+      "title": "Koç Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "sirketler-yillik",
+      "slug": "koc__sirketler-yillik",
+      "title": "Koç Şirketler Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "sirketler-donem-1",
+      "slug": "tobb-etu__sirketler-donem-1",
+      "title": "TOBB ETÜ Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "sirketler-donem-2",
+      "slug": "tobb-etu__sirketler-donem-2",
+      "title": "TOBB ETÜ Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "sirketler-yillik",
+      "slug": "tobb-etu__sirketler-yillik",
+      "title": "TOBB ETÜ Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "sirketler-donem-1",
+      "slug": "bogazici__sirketler-donem-1",
+      "title": "BÜ Şirketler Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "sirketler-donem-2",
+      "slug": "bogazici__sirketler-donem-2",
+      "title": "BÜ Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "sirketler-yillik",
+      "slug": "bogazici__sirketler-yillik",
+      "title": "BÜ Şirketler Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "sirketler-donem-1",
+      "slug": "ege__sirketler-donem-1",
+      "title": "Ege Şirketler Hukuku 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "sirketler-donem-2",
+      "slug": "ege__sirketler-donem-2",
+      "title": "Ege Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "sirketler-yillik",
+      "slug": "ege__sirketler-yillik",
+      "title": "Ege Şirketler Hukuku Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "sirketler-donem-1",
+      "slug": "akdeniz__sirketler-donem-1",
+      "title": "Akdeniz Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "sirketler-donem-2",
+      "slug": "akdeniz__sirketler-donem-2",
+      "title": "Akdeniz Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "sirketler-yillik",
+      "slug": "akdeniz__sirketler-yillik",
+      "title": "Akdeniz Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "sirketler-donem-1",
+      "slug": "selcuk__sirketler-donem-1",
+      "title": "Selçuk Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "sirketler-donem-2",
+      "slug": "selcuk__sirketler-donem-2",
+      "title": "Selçuk Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "sirketler-yillik",
+      "slug": "selcuk__sirketler-yillik",
+      "title": "Selçuk Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "sirketler-donem-1",
+      "slug": "erciyes__sirketler-donem-1",
+      "title": "Erciyes Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "sirketler-donem-2",
+      "slug": "erciyes__sirketler-donem-2",
+      "title": "Erciyes Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "sirketler-yillik",
+      "slug": "erciyes__sirketler-yillik",
+      "title": "Erciyes Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "sirketler-donem-1",
+      "slug": "uludag__sirketler-donem-1",
+      "title": "Uludağ Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "sirketler-donem-2",
+      "slug": "uludag__sirketler-donem-2",
+      "title": "Uludağ Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "sirketler-yillik",
+      "slug": "uludag__sirketler-yillik",
+      "title": "Uludağ Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "sirketler-donem-1",
+      "slug": "cukurova__sirketler-donem-1",
+      "title": "Çukurova Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "sirketler-donem-2",
+      "slug": "cukurova__sirketler-donem-2",
+      "title": "Çukurova Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "sirketler-yillik",
+      "slug": "cukurova__sirketler-yillik",
+      "title": "Çukurova Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "sirketler-donem-1",
+      "slug": "anadolu__sirketler-donem-1",
+      "title": "Anadolu Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "sirketler-donem-2",
+      "slug": "anadolu__sirketler-donem-2",
+      "title": "Anadolu Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "sirketler-yillik",
+      "slug": "anadolu__sirketler-yillik",
+      "title": "Anadolu Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "sirketler-donem-1",
+      "slug": "gazi-ankara__sirketler-donem-1",
+      "title": "ASBÜ Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "sirketler-donem-2",
+      "slug": "gazi-ankara__sirketler-donem-2",
+      "title": "ASBÜ Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "sirketler-yillik",
+      "slug": "gazi-ankara__sirketler-yillik",
+      "title": "ASBÜ Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "sirketler-donem-1",
+      "slug": "yildiz-teknik__sirketler-donem-1",
+      "title": "YTÜ Şirketler Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "sirketler-donem-2",
+      "slug": "yildiz-teknik__sirketler-donem-2",
+      "title": "YTÜ Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "sirketler-yillik",
+      "slug": "yildiz-teknik__sirketler-yillik",
+      "title": "YTÜ Şirketler Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "sirketler-donem-1",
+      "slug": "istanbul-medeniyet__sirketler-donem-1",
+      "title": "Medeniyet Şirketler Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "sirketler-donem-2",
+      "slug": "istanbul-medeniyet__sirketler-donem-2",
+      "title": "Medeniyet Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "sirketler-yillik",
+      "slug": "istanbul-medeniyet__sirketler-yillik",
+      "title": "Medeniyet Şirketler Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "sirketler-donem-1",
+      "slug": "bahcesehir__sirketler-donem-1",
+      "title": "BAU Şirketler Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "sirketler-donem-2",
+      "slug": "bahcesehir__sirketler-donem-2",
+      "title": "BAU Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "sirketler-yillik",
+      "slug": "bahcesehir__sirketler-yillik",
+      "title": "BAU Şirketler Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "sirketler-donem-1",
+      "slug": "yeditepe__sirketler-donem-1",
+      "title": "Yeditepe Şirketler Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "sirketler-donem-2",
+      "slug": "yeditepe__sirketler-donem-2",
+      "title": "Yeditepe Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "sirketler-yillik",
+      "slug": "yeditepe__sirketler-yillik",
+      "title": "Yeditepe Şirketler Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "sirketler-donem-1",
+      "slug": "ozyegin__sirketler-donem-1",
+      "title": "Özyeğin Şirketler Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "sirketler-donem-2",
+      "slug": "ozyegin__sirketler-donem-2",
+      "title": "Özyeğin Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "sirketler-yillik",
+      "slug": "ozyegin__sirketler-yillik",
+      "title": "Özyeğin Şirketler Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "sirketler-donem-1",
+      "slug": "kadir-has__sirketler-donem-1",
+      "title": "KHAS Şirketler Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "sirketler-donem-2",
+      "slug": "kadir-has__sirketler-donem-2",
+      "title": "KHAS Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "sirketler-yillik",
+      "slug": "kadir-has__sirketler-yillik",
+      "title": "KHAS Şirketler Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "sirketler-donem-1",
+      "slug": "istanbul-bilgi__sirketler-donem-1",
+      "title": "Bilgi Şirketler Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "sirketler-donem-2",
+      "slug": "istanbul-bilgi__sirketler-donem-2",
+      "title": "Bilgi Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "sirketler-yillik",
+      "slug": "istanbul-bilgi__sirketler-yillik",
+      "title": "Bilgi Şirketler Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "sirketler-donem-1",
+      "slug": "mehmet-akif__sirketler-donem-1",
+      "title": "Medipol Şirketler Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "sirketler-donem-2",
+      "slug": "mehmet-akif__sirketler-donem-2",
+      "title": "Medipol Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "sirketler-yillik",
+      "slug": "mehmet-akif__sirketler-yillik",
+      "title": "Medipol Şirketler Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "sirketler-donem-1",
+      "slug": "altinbas__sirketler-donem-1",
+      "title": "Altınbaş Şirketler Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "sirketler-donem-2",
+      "slug": "altinbas__sirketler-donem-2",
+      "title": "Altınbaş Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "sirketler-yillik",
+      "slug": "altinbas__sirketler-yillik",
+      "title": "Altınbaş Şirketler Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "sirketler-donem-1",
+      "slug": "maltepe__sirketler-donem-1",
+      "title": "Maltepe Şirketler Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "sirketler-donem-2",
+      "slug": "maltepe__sirketler-donem-2",
+      "title": "Maltepe Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "sirketler-yillik",
+      "slug": "maltepe__sirketler-yillik",
+      "title": "Maltepe Şirketler Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "sirketler-donem-1",
+      "slug": "dogus__sirketler-donem-1",
+      "title": "Doğuş Şirketler Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "sirketler-donem-2",
+      "slug": "dogus__sirketler-donem-2",
+      "title": "Doğuş Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "sirketler-yillik",
+      "slug": "dogus__sirketler-yillik",
+      "title": "Doğuş Şirketler Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "sirketler-donem-1",
+      "slug": "isik__sirketler-donem-1",
+      "title": "Işık Şirketler Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "sirketler-donem-2",
+      "slug": "isik__sirketler-donem-2",
+      "title": "Işık Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "sirketler-yillik",
+      "slug": "isik__sirketler-yillik",
+      "title": "Işık Şirketler Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "sirketler-donem-1",
+      "slug": "okan__sirketler-donem-1",
+      "title": "Okan Şirketler Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "sirketler-donem-2",
+      "slug": "okan__sirketler-donem-2",
+      "title": "Okan Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "sirketler-yillik",
+      "slug": "okan__sirketler-yillik",
+      "title": "Okan Şirketler Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "sirketler-donem-1",
+      "slug": "kultur__sirketler-donem-1",
+      "title": "İKÜ Şirketler Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "sirketler-donem-2",
+      "slug": "kultur__sirketler-donem-2",
+      "title": "İKÜ Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "sirketler-yillik",
+      "slug": "kultur__sirketler-yillik",
+      "title": "İKÜ Şirketler Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "sirketler-donem-1",
+      "slug": "aydin__sirketler-donem-1",
+      "title": "İAÜ Şirketler Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "sirketler-donem-2",
+      "slug": "aydin__sirketler-donem-2",
+      "title": "İAÜ Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "sirketler-yillik",
+      "slug": "aydin__sirketler-yillik",
+      "title": "İAÜ Şirketler Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "sirketler-donem-1",
+      "slug": "gelisim__sirketler-donem-1",
+      "title": "Gelişim Şirketler Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "sirketler-donem-2",
+      "slug": "gelisim__sirketler-donem-2",
+      "title": "Gelişim Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "sirketler-yillik",
+      "slug": "gelisim__sirketler-yillik",
+      "title": "Gelişim Şirketler Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "sirketler-donem-1",
+      "slug": "topkapi__sirketler-donem-1",
+      "title": "Topkapı Şirketler Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "sirketler-donem-2",
+      "slug": "topkapi__sirketler-donem-2",
+      "title": "Topkapı Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "sirketler-yillik",
+      "slug": "topkapi__sirketler-yillik",
+      "title": "Topkapı Şirketler Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "sirketler-donem-1",
+      "slug": "nisantasi__sirketler-donem-1",
+      "title": "Nişantaşı Şirketler Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "sirketler-donem-2",
+      "slug": "nisantasi__sirketler-donem-2",
+      "title": "Nişantaşı Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "sirketler-yillik",
+      "slug": "nisantasi__sirketler-yillik",
+      "title": "Nişantaşı Şirketler Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "sirketler-donem-1",
+      "slug": "beykent__sirketler-donem-1",
+      "title": "Beykent Şirketler Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "sirketler-donem-2",
+      "slug": "beykent__sirketler-donem-2",
+      "title": "Beykent Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "sirketler-yillik",
+      "slug": "beykent__sirketler-yillik",
+      "title": "Beykent Şirketler Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "sirketler-donem-1",
+      "slug": "halic__sirketler-donem-1",
+      "title": "Haliç Şirketler Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "sirketler-donem-2",
+      "slug": "halic__sirketler-donem-2",
+      "title": "Haliç Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "sirketler-yillik",
+      "slug": "halic__sirketler-yillik",
+      "title": "Haliç Şirketler Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "sirketler-donem-1",
+      "slug": "fatih-sultan__sirketler-donem-1",
+      "title": "FSMVÜ Şirketler Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "sirketler-donem-2",
+      "slug": "fatih-sultan__sirketler-donem-2",
+      "title": "FSMVÜ Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "sirketler-yillik",
+      "slug": "fatih-sultan__sirketler-yillik",
+      "title": "FSMVÜ Şirketler Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "sirketler-donem-1",
+      "slug": "karadeniz-teknik__sirketler-donem-1",
+      "title": "KTÜ Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "sirketler-donem-2",
+      "slug": "karadeniz-teknik__sirketler-donem-2",
+      "title": "KTÜ Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "sirketler-yillik",
+      "slug": "karadeniz-teknik__sirketler-yillik",
+      "title": "KTÜ Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "sirketler-donem-1",
+      "slug": "ataturk__sirketler-donem-1",
+      "title": "Atatürk Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "sirketler-donem-2",
+      "slug": "ataturk__sirketler-donem-2",
+      "title": "Atatürk Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "sirketler-yillik",
+      "slug": "ataturk__sirketler-yillik",
+      "title": "Atatürk Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "sirketler-donem-1",
+      "slug": "inonu__sirketler-donem-1",
+      "title": "İnönü Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "sirketler-donem-2",
+      "slug": "inonu__sirketler-donem-2",
+      "title": "İnönü Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "sirketler-yillik",
+      "slug": "inonu__sirketler-yillik",
+      "title": "İnönü Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "sirketler-donem-1",
+      "slug": "dicle__sirketler-donem-1",
+      "title": "Dicle Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "sirketler-donem-2",
+      "slug": "dicle__sirketler-donem-2",
+      "title": "Dicle Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "sirketler-yillik",
+      "slug": "dicle__sirketler-yillik",
+      "title": "Dicle Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "sirketler-donem-1",
+      "slug": "firat__sirketler-donem-1",
+      "title": "Fırat Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "sirketler-donem-2",
+      "slug": "firat__sirketler-donem-2",
+      "title": "Fırat Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "sirketler-yillik",
+      "slug": "firat__sirketler-yillik",
+      "title": "Fırat Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "sirketler-donem-1",
+      "slug": "gaziantep__sirketler-donem-1",
+      "title": "GAÜN Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "sirketler-donem-2",
+      "slug": "gaziantep__sirketler-donem-2",
+      "title": "GAÜN Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "sirketler-yillik",
+      "slug": "gaziantep__sirketler-yillik",
+      "title": "GAÜN Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "sirketler-donem-1",
+      "slug": "suleyman-demirel__sirketler-donem-1",
+      "title": "SDÜ Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "sirketler-donem-2",
+      "slug": "suleyman-demirel__sirketler-donem-2",
+      "title": "SDÜ Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "sirketler-yillik",
+      "slug": "suleyman-demirel__sirketler-yillik",
+      "title": "SDÜ Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "sirketler-donem-1",
+      "slug": "pamukkale__sirketler-donem-1",
+      "title": "PAÜ Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "sirketler-donem-2",
+      "slug": "pamukkale__sirketler-donem-2",
+      "title": "PAÜ Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "sirketler-yillik",
+      "slug": "pamukkale__sirketler-yillik",
+      "title": "PAÜ Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "sirketler-donem-1",
+      "slug": "mugla__sirketler-donem-1",
+      "title": "MSKU Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "sirketler-donem-2",
+      "slug": "mugla__sirketler-donem-2",
+      "title": "MSKU Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "sirketler-yillik",
+      "slug": "mugla__sirketler-yillik",
+      "title": "MSKU Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "sirketler-donem-1",
+      "slug": "sakarya__sirketler-donem-1",
+      "title": "SAÜ Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "sirketler-donem-2",
+      "slug": "sakarya__sirketler-donem-2",
+      "title": "SAÜ Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "sirketler-yillik",
+      "slug": "sakarya__sirketler-yillik",
+      "title": "SAÜ Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "sirketler-donem-1",
+      "slug": "kocaeli__sirketler-donem-1",
+      "title": "KOÜ Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "sirketler-donem-2",
+      "slug": "kocaeli__sirketler-donem-2",
+      "title": "KOÜ Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "sirketler-yillik",
+      "slug": "kocaeli__sirketler-yillik",
+      "title": "KOÜ Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "sirketler-donem-1",
+      "slug": "trakya__sirketler-donem-1",
+      "title": "Trakya Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "sirketler-donem-2",
+      "slug": "trakya__sirketler-donem-2",
+      "title": "Trakya Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "sirketler-yillik",
+      "slug": "trakya__sirketler-yillik",
+      "title": "Trakya Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "sirketler-donem-1",
+      "slug": "canakkale__sirketler-donem-1",
+      "title": "ÇOMÜ Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "sirketler-donem-2",
+      "slug": "canakkale__sirketler-donem-2",
+      "title": "ÇOMÜ Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "sirketler-yillik",
+      "slug": "canakkale__sirketler-yillik",
+      "title": "ÇOMÜ Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "sirketler-donem-1",
+      "slug": "balikesir__sirketler-donem-1",
+      "title": "BAÜN Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "sirketler-donem-2",
+      "slug": "balikesir__sirketler-donem-2",
+      "title": "BAÜN Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "sirketler-yillik",
+      "slug": "balikesir__sirketler-yillik",
+      "title": "BAÜN Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "sirketler-donem-1",
+      "slug": "afyon__sirketler-donem-1",
+      "title": "AKÜ Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "sirketler-donem-2",
+      "slug": "afyon__sirketler-donem-2",
+      "title": "AKÜ Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "sirketler-yillik",
+      "slug": "afyon__sirketler-yillik",
+      "title": "AKÜ Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "sirketler-donem-1",
+      "slug": "dumlupinar__sirketler-donem-1",
+      "title": "DPÜ Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "sirketler-donem-2",
+      "slug": "dumlupinar__sirketler-donem-2",
+      "title": "DPÜ Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "sirketler-yillik",
+      "slug": "dumlupinar__sirketler-yillik",
+      "title": "DPÜ Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "sirketler-donem-1",
+      "slug": "eskisehir-osmangazi__sirketler-donem-1",
+      "title": "ESOGÜ Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "sirketler-donem-2",
+      "slug": "eskisehir-osmangazi__sirketler-donem-2",
+      "title": "ESOGÜ Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "sirketler-yillik",
+      "slug": "eskisehir-osmangazi__sirketler-yillik",
+      "title": "ESOGÜ Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "sirketler-donem-1",
+      "slug": "sivas-cumhuriyet__sirketler-donem-1",
+      "title": "SCÜ Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "sirketler-donem-2",
+      "slug": "sivas-cumhuriyet__sirketler-donem-2",
+      "title": "SCÜ Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "sirketler-yillik",
+      "slug": "sivas-cumhuriyet__sirketler-yillik",
+      "title": "SCÜ Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "sirketler-donem-1",
+      "slug": "tokat__sirketler-donem-1",
+      "title": "TOGÜ Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "sirketler-donem-2",
+      "slug": "tokat__sirketler-donem-2",
+      "title": "TOGÜ Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "sirketler-yillik",
+      "slug": "tokat__sirketler-yillik",
+      "title": "TOGÜ Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "sirketler-donem-1",
+      "slug": "yozgat__sirketler-donem-1",
+      "title": "Bozok Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "sirketler-donem-2",
+      "slug": "yozgat__sirketler-donem-2",
+      "title": "Bozok Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "sirketler-yillik",
+      "slug": "yozgat__sirketler-yillik",
+      "title": "Bozok Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "sirketler-donem-1",
+      "slug": "kirsehir__sirketler-donem-1",
+      "title": "AHİEVRAN Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "sirketler-donem-2",
+      "slug": "kirsehir__sirketler-donem-2",
+      "title": "AHİEVRAN Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "sirketler-yillik",
+      "slug": "kirsehir__sirketler-yillik",
+      "title": "AHİEVRAN Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "sirketler-donem-1",
+      "slug": "nevsehir__sirketler-donem-1",
+      "title": "NEVÜ Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "sirketler-donem-2",
+      "slug": "nevsehir__sirketler-donem-2",
+      "title": "NEVÜ Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "sirketler-yillik",
+      "slug": "nevsehir__sirketler-yillik",
+      "title": "NEVÜ Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "sirketler-donem-1",
+      "slug": "mersin__sirketler-donem-1",
+      "title": "MEÜ Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "sirketler-donem-2",
+      "slug": "mersin__sirketler-donem-2",
+      "title": "MEÜ Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "sirketler-yillik",
+      "slug": "mersin__sirketler-yillik",
+      "title": "MEÜ Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "sirketler-donem-1",
+      "slug": "hatay__sirketler-donem-1",
+      "title": "MKÜ Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "sirketler-donem-2",
+      "slug": "hatay__sirketler-donem-2",
+      "title": "MKÜ Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "sirketler-yillik",
+      "slug": "hatay__sirketler-yillik",
+      "title": "MKÜ Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "sirketler-donem-1",
+      "slug": "kahramanmaras__sirketler-donem-1",
+      "title": "KSÜ Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "sirketler-donem-2",
+      "slug": "kahramanmaras__sirketler-donem-2",
+      "title": "KSÜ Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "sirketler-yillik",
+      "slug": "kahramanmaras__sirketler-yillik",
+      "title": "KSÜ Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "sirketler-donem-1",
+      "slug": "osmaniye__sirketler-donem-1",
+      "title": "OKÜ Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "sirketler-donem-2",
+      "slug": "osmaniye__sirketler-donem-2",
+      "title": "OKÜ Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "sirketler-yillik",
+      "slug": "osmaniye__sirketler-yillik",
+      "title": "OKÜ Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "sirketler-donem-1",
+      "slug": "samsun__sirketler-donem-1",
+      "title": "OMÜ Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "sirketler-donem-2",
+      "slug": "samsun__sirketler-donem-2",
+      "title": "OMÜ Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "sirketler-yillik",
+      "slug": "samsun__sirketler-yillik",
+      "title": "OMÜ Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "sirketler-donem-1",
+      "slug": "ordu__sirketler-donem-1",
+      "title": "ODÜ Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "sirketler-donem-2",
+      "slug": "ordu__sirketler-donem-2",
+      "title": "ODÜ Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "sirketler-yillik",
+      "slug": "ordu__sirketler-yillik",
+      "title": "ODÜ Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "sirketler-donem-1",
+      "slug": "giresun__sirketler-donem-1",
+      "title": "GÜ Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "sirketler-donem-2",
+      "slug": "giresun__sirketler-donem-2",
+      "title": "GÜ Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "sirketler-yillik",
+      "slug": "giresun__sirketler-yillik",
+      "title": "GÜ Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "sirketler-donem-1",
+      "slug": "rize__sirketler-donem-1",
+      "title": "RTEÜ Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "sirketler-donem-2",
+      "slug": "rize__sirketler-donem-2",
+      "title": "RTEÜ Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "sirketler-yillik",
+      "slug": "rize__sirketler-yillik",
+      "title": "RTEÜ Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "sirketler-donem-1",
+      "slug": "artvin__sirketler-donem-1",
+      "title": "AÇÜ Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "sirketler-donem-2",
+      "slug": "artvin__sirketler-donem-2",
+      "title": "AÇÜ Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "sirketler-yillik",
+      "slug": "artvin__sirketler-yillik",
+      "title": "AÇÜ Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "sirketler-donem-1",
+      "slug": "van-yyu__sirketler-donem-1",
+      "title": "YYÜ Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "sirketler-donem-2",
+      "slug": "van-yyu__sirketler-donem-2",
+      "title": "YYÜ Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "sirketler-yillik",
+      "slug": "van-yyu__sirketler-yillik",
+      "title": "YYÜ Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "sirketler-donem-1",
+      "slug": "agri__sirketler-donem-1",
+      "title": "AİÇÜ Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "sirketler-donem-2",
+      "slug": "agri__sirketler-donem-2",
+      "title": "AİÇÜ Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "sirketler-yillik",
+      "slug": "agri__sirketler-yillik",
+      "title": "AİÇÜ Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "sirketler-donem-1",
+      "slug": "kars__sirketler-donem-1",
+      "title": "Kafkas Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "sirketler-donem-2",
+      "slug": "kars__sirketler-donem-2",
+      "title": "Kafkas Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "sirketler-yillik",
+      "slug": "kars__sirketler-yillik",
+      "title": "Kafkas Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "sirketler-donem-1",
+      "slug": "erzincan__sirketler-donem-1",
+      "title": "EBYÜ Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "sirketler-donem-2",
+      "slug": "erzincan__sirketler-donem-2",
+      "title": "EBYÜ Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "sirketler-yillik",
+      "slug": "erzincan__sirketler-yillik",
+      "title": "EBYÜ Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "sirketler-donem-1",
+      "slug": "bayburt__sirketler-donem-1",
+      "title": "Bayburt Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "sirketler-donem-2",
+      "slug": "bayburt__sirketler-donem-2",
+      "title": "Bayburt Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "sirketler-yillik",
+      "slug": "bayburt__sirketler-yillik",
+      "title": "Bayburt Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "sirketler-donem-1",
+      "slug": "gumushane__sirketler-donem-1",
+      "title": "Gümüşhane Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "sirketler-donem-2",
+      "slug": "gumushane__sirketler-donem-2",
+      "title": "Gümüşhane Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "sirketler-yillik",
+      "slug": "gumushane__sirketler-yillik",
+      "title": "Gümüşhane Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "sirketler-donem-1",
+      "slug": "bingol__sirketler-donem-1",
+      "title": "Bingöl Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "sirketler-donem-2",
+      "slug": "bingol__sirketler-donem-2",
+      "title": "Bingöl Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "sirketler-yillik",
+      "slug": "bingol__sirketler-yillik",
+      "title": "Bingöl Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "sirketler-donem-1",
+      "slug": "mus__sirketler-donem-1",
+      "title": "Muş Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "sirketler-donem-2",
+      "slug": "mus__sirketler-donem-2",
+      "title": "Muş Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "sirketler-yillik",
+      "slug": "mus__sirketler-yillik",
+      "title": "Muş Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "sirketler-donem-1",
+      "slug": "hakkari__sirketler-donem-1",
+      "title": "Hakkâri Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "sirketler-donem-2",
+      "slug": "hakkari__sirketler-donem-2",
+      "title": "Hakkâri Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "sirketler-yillik",
+      "slug": "hakkari__sirketler-yillik",
+      "title": "Hakkâri Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "sirketler-donem-1",
+      "slug": "sirnak__sirketler-donem-1",
+      "title": "Şırnak Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "sirketler-donem-2",
+      "slug": "sirnak__sirketler-donem-2",
+      "title": "Şırnak Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "sirketler-yillik",
+      "slug": "sirnak__sirketler-yillik",
+      "title": "Şırnak Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "sirketler-donem-1",
+      "slug": "mardin__sirketler-donem-1",
+      "title": "Artuklu Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "sirketler-donem-2",
+      "slug": "mardin__sirketler-donem-2",
+      "title": "Artuklu Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "sirketler-yillik",
+      "slug": "mardin__sirketler-yillik",
+      "title": "Artuklu Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "sirketler-donem-1",
+      "slug": "batman__sirketler-donem-1",
+      "title": "Batman Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "sirketler-donem-2",
+      "slug": "batman__sirketler-donem-2",
+      "title": "Batman Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "sirketler-yillik",
+      "slug": "batman__sirketler-yillik",
+      "title": "Batman Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "sirketler-donem-1",
+      "slug": "siirt__sirketler-donem-1",
+      "title": "Siirt Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "sirketler-donem-2",
+      "slug": "siirt__sirketler-donem-2",
+      "title": "Siirt Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "sirketler-yillik",
+      "slug": "siirt__sirketler-yillik",
+      "title": "Siirt Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "sirketler-donem-1",
+      "slug": "adiyaman__sirketler-donem-1",
+      "title": "Adıyaman Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "sirketler-donem-2",
+      "slug": "adiyaman__sirketler-donem-2",
+      "title": "Adıyaman Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "sirketler-yillik",
+      "slug": "adiyaman__sirketler-yillik",
+      "title": "Adıyaman Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "sirketler-donem-1",
+      "slug": "kilis__sirketler-donem-1",
+      "title": "Kilis Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "sirketler-donem-2",
+      "slug": "kilis__sirketler-donem-2",
+      "title": "Kilis Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "sirketler-yillik",
+      "slug": "kilis__sirketler-yillik",
+      "title": "Kilis Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "sirketler-donem-1",
+      "slug": "igdir__sirketler-donem-1",
+      "title": "Iğdır Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "sirketler-donem-2",
+      "slug": "igdir__sirketler-donem-2",
+      "title": "Iğdır Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "sirketler-yillik",
+      "slug": "igdir__sirketler-yillik",
+      "title": "Iğdır Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "sirketler-donem-1",
+      "slug": "ardahan__sirketler-donem-1",
+      "title": "Ardahan Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "sirketler-donem-2",
+      "slug": "ardahan__sirketler-donem-2",
+      "title": "Ardahan Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "sirketler-yillik",
+      "slug": "ardahan__sirketler-yillik",
+      "title": "Ardahan Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "sirketler-donem-1",
+      "slug": "bilecik__sirketler-donem-1",
+      "title": "BŞEÜ Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "sirketler-donem-2",
+      "slug": "bilecik__sirketler-donem-2",
+      "title": "BŞEÜ Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "sirketler-yillik",
+      "slug": "bilecik__sirketler-yillik",
+      "title": "BŞEÜ Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "sirketler-donem-1",
+      "slug": "bolu__sirketler-donem-1",
+      "title": "BAİBÜ Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "sirketler-donem-2",
+      "slug": "bolu__sirketler-donem-2",
+      "title": "BAİBÜ Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "sirketler-yillik",
+      "slug": "bolu__sirketler-yillik",
+      "title": "BAİBÜ Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "sirketler-donem-1",
+      "slug": "duzce__sirketler-donem-1",
+      "title": "Düzce Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "sirketler-donem-2",
+      "slug": "duzce__sirketler-donem-2",
+      "title": "Düzce Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "sirketler-yillik",
+      "slug": "duzce__sirketler-yillik",
+      "title": "Düzce Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "sirketler-donem-1",
+      "slug": "zonguldak__sirketler-donem-1",
+      "title": "BEÜN Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "sirketler-donem-2",
+      "slug": "zonguldak__sirketler-donem-2",
+      "title": "BEÜN Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "sirketler-yillik",
+      "slug": "zonguldak__sirketler-yillik",
+      "title": "BEÜN Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "sirketler-donem-1",
+      "slug": "karabuk__sirketler-donem-1",
+      "title": "KBÜ Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "sirketler-donem-2",
+      "slug": "karabuk__sirketler-donem-2",
+      "title": "KBÜ Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "sirketler-yillik",
+      "slug": "karabuk__sirketler-yillik",
+      "title": "KBÜ Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "sirketler-donem-1",
+      "slug": "kastamonu__sirketler-donem-1",
+      "title": "KÜ Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "sirketler-donem-2",
+      "slug": "kastamonu__sirketler-donem-2",
+      "title": "KÜ Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "sirketler-yillik",
+      "slug": "kastamonu__sirketler-yillik",
+      "title": "KÜ Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "sirketler-donem-1",
+      "slug": "sinop__sirketler-donem-1",
+      "title": "Sinop Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "sirketler-donem-2",
+      "slug": "sinop__sirketler-donem-2",
+      "title": "Sinop Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "sirketler-yillik",
+      "slug": "sinop__sirketler-yillik",
+      "title": "Sinop Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "sirketler-donem-1",
+      "slug": "corum__sirketler-donem-1",
+      "title": "Hitit Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "sirketler-donem-2",
+      "slug": "corum__sirketler-donem-2",
+      "title": "Hitit Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "sirketler-yillik",
+      "slug": "corum__sirketler-yillik",
+      "title": "Hitit Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "sirketler-donem-1",
+      "slug": "amasya__sirketler-donem-1",
+      "title": "Amasya Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "sirketler-donem-2",
+      "slug": "amasya__sirketler-donem-2",
+      "title": "Amasya Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "sirketler-yillik",
+      "slug": "amasya__sirketler-yillik",
+      "title": "Amasya Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "sirketler-donem-1",
+      "slug": "cankiri__sirketler-donem-1",
+      "title": "Karatekin Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "sirketler-donem-2",
+      "slug": "cankiri__sirketler-donem-2",
+      "title": "Karatekin Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "sirketler-yillik",
+      "slug": "cankiri__sirketler-yillik",
+      "title": "Karatekin Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "sirketler-donem-1",
+      "slug": "kirikkale__sirketler-donem-1",
+      "title": "Kırıkkale Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "sirketler-donem-2",
+      "slug": "kirikkale__sirketler-donem-2",
+      "title": "Kırıkkale Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "sirketler-yillik",
+      "slug": "kirikkale__sirketler-yillik",
+      "title": "Kırıkkale Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "sirketler-donem-1",
+      "slug": "aksaray__sirketler-donem-1",
+      "title": "Aksaray Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "sirketler-donem-2",
+      "slug": "aksaray__sirketler-donem-2",
+      "title": "Aksaray Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "sirketler-yillik",
+      "slug": "aksaray__sirketler-yillik",
+      "title": "Aksaray Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "sirketler-donem-1",
+      "slug": "nigde__sirketler-donem-1",
+      "title": "ÖHÜ Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "sirketler-donem-2",
+      "slug": "nigde__sirketler-donem-2",
+      "title": "ÖHÜ Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "sirketler-yillik",
+      "slug": "nigde__sirketler-yillik",
+      "title": "ÖHÜ Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "sirketler-donem-1",
+      "slug": "konya-teknik__sirketler-donem-1",
+      "title": "NEÜ Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "sirketler-donem-2",
+      "slug": "konya-teknik__sirketler-donem-2",
+      "title": "NEÜ Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "sirketler-yillik",
+      "slug": "konya-teknik__sirketler-yillik",
+      "title": "NEÜ Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "sirketler-donem-1",
+      "slug": "karaman__sirketler-donem-1",
+      "title": "KMÜ Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "sirketler-donem-2",
+      "slug": "karaman__sirketler-donem-2",
+      "title": "KMÜ Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "sirketler-yillik",
+      "slug": "karaman__sirketler-yillik",
+      "title": "KMÜ Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "sirketler-donem-1",
+      "slug": "usak__sirketler-donem-1",
+      "title": "Uşak Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "sirketler-donem-2",
+      "slug": "usak__sirketler-donem-2",
+      "title": "Uşak Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "sirketler-yillik",
+      "slug": "usak__sirketler-yillik",
+      "title": "Uşak Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "sirketler-donem-1",
+      "slug": "manisa__sirketler-donem-1",
+      "title": "MCBÜ Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "sirketler-donem-2",
+      "slug": "manisa__sirketler-donem-2",
+      "title": "MCBÜ Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "sirketler-yillik",
+      "slug": "manisa__sirketler-yillik",
+      "title": "MCBÜ Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "sirketler-donem-1",
+      "slug": "aydin-adu__sirketler-donem-1",
+      "title": "ADÜ Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "sirketler-donem-2",
+      "slug": "aydin-adu__sirketler-donem-2",
+      "title": "ADÜ Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "sirketler-yillik",
+      "slug": "aydin-adu__sirketler-yillik",
+      "title": "ADÜ Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "sirketler-donem-1",
+      "slug": "tekirdag__sirketler-donem-1",
+      "title": "NKÜ Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "sirketler-donem-2",
+      "slug": "tekirdag__sirketler-donem-2",
+      "title": "NKÜ Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "sirketler-yillik",
+      "slug": "tekirdag__sirketler-yillik",
+      "title": "NKÜ Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "sirketler-donem-1",
+      "slug": "kirklareli__sirketler-donem-1",
+      "title": "Kırklareli Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "sirketler-donem-2",
+      "slug": "kirklareli__sirketler-donem-2",
+      "title": "Kırklareli Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "sirketler-yillik",
+      "slug": "kirklareli__sirketler-yillik",
+      "title": "Kırklareli Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "sirketler-donem-1",
+      "slug": "atilim__sirketler-donem-1",
+      "title": "Atılım Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "sirketler-donem-2",
+      "slug": "atilim__sirketler-donem-2",
+      "title": "Atılım Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "sirketler-yillik",
+      "slug": "atilim__sirketler-yillik",
+      "title": "Atılım Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "sirketler-donem-1",
+      "slug": "cankaya__sirketler-donem-1",
+      "title": "Çankaya Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "sirketler-donem-2",
+      "slug": "cankaya__sirketler-donem-2",
+      "title": "Çankaya Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "sirketler-yillik",
+      "slug": "cankaya__sirketler-yillik",
+      "title": "Çankaya Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "sirketler-donem-1",
+      "slug": "ufuk__sirketler-donem-1",
+      "title": "Ufuk Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "sirketler-donem-2",
+      "slug": "ufuk__sirketler-donem-2",
+      "title": "Ufuk Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "sirketler-yillik",
+      "slug": "ufuk__sirketler-yillik",
+      "title": "Ufuk Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "sirketler-donem-1",
+      "slug": "yasar__sirketler-donem-1",
+      "title": "Yaşar Şirketler Hukuku 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "sirketler-donem-2",
+      "slug": "yasar__sirketler-donem-2",
+      "title": "Yaşar Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "sirketler-yillik",
+      "slug": "yasar__sirketler-yillik",
+      "title": "Yaşar Şirketler Hukuku Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "sirketler-donem-1",
+      "slug": "izmir-ekonomi__sirketler-donem-1",
+      "title": "İEÜ Şirketler Hukuku 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "sirketler-donem-2",
+      "slug": "izmir-ekonomi__sirketler-donem-2",
+      "title": "İEÜ Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "sirketler-yillik",
+      "slug": "izmir-ekonomi__sirketler-yillik",
+      "title": "İEÜ Şirketler Hukuku Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "sirketler-donem-1",
+      "slug": "tinaztepe__sirketler-donem-1",
+      "title": "Tınaztepe Şirketler Hukuku 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "sirketler-donem-2",
+      "slug": "tinaztepe__sirketler-donem-2",
+      "title": "Tınaztepe Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "sirketler-yillik",
+      "slug": "tinaztepe__sirketler-yillik",
+      "title": "Tınaztepe Şirketler Hukuku Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "sirketler-donem-1",
+      "slug": "asbu-vakif__sirketler-donem-1",
+      "title": "ABÜ Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "sirketler-donem-2",
+      "slug": "asbu-vakif__sirketler-donem-2",
+      "title": "ABÜ Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "sirketler-yillik",
+      "slug": "asbu-vakif__sirketler-yillik",
+      "title": "ABÜ Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "sirketler-donem-1",
+      "slug": "hasan-kalyoncu__sirketler-donem-1",
+      "title": "HKÜ Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "sirketler-donem-2",
+      "slug": "hasan-kalyoncu__sirketler-donem-2",
+      "title": "HKÜ Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "sirketler-yillik",
+      "slug": "hasan-kalyoncu__sirketler-yillik",
+      "title": "HKÜ Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "sirketler-donem-1",
+      "slug": "sanko__sirketler-donem-1",
+      "title": "Sanko Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "sirketler-donem-2",
+      "slug": "sanko__sirketler-donem-2",
+      "title": "Sanko Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "sirketler-yillik",
+      "slug": "sanko__sirketler-yillik",
+      "title": "Sanko Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "sirketler-donem-1",
+      "slug": "toros__sirketler-donem-1",
+      "title": "Toros Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "sirketler-donem-2",
+      "slug": "toros__sirketler-donem-2",
+      "title": "Toros Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "sirketler-yillik",
+      "slug": "toros__sirketler-yillik",
+      "title": "Toros Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "sirketler-donem-1",
+      "slug": "cag__sirketler-donem-1",
+      "title": "Çağ Şirketler Hukuku 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/sirketler-donem-1",
+      "variantOf": "sirketler",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "sirketler-donem-2",
+      "slug": "cag__sirketler-donem-2",
+      "title": "Çağ Şirketler Hukuku 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/sirketler-donem-2",
+      "variantOf": "sirketler",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "sirketler-yillik",
+      "slug": "cag__sirketler-yillik",
+      "title": "Çağ Şirketler Hukuku Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/sirketler-yillik",
+      "variantOf": "sirketler",
+      "variantLabel": "Yıllık (Tam paket)"
     }
   ],
   "borclarGenelTripleAt": "2026-07-29T20:05:58.703Z",
@@ -53536,5 +56776,6 @@
   "tmk2KitapTripleAt": "2026-07-29T20:29:33.697Z",
   "hmkTripleAt": "2026-07-29T20:32:21.565Z",
   "icraTripleAt": "2026-07-29T20:37:25.898Z",
-  "iflasTripleAt": "2026-07-29T20:37:26.513Z"
+  "iflasTripleAt": "2026-07-29T20:37:26.513Z",
+  "sirketlerTripleAt": "2026-07-29T20:40:50.060Z"
 }

@@ -93,6 +93,9 @@ export default async function DersNotuPdfPage({ params }: Props) {
               'iflas-donem-1',
               'iflas-donem-2',
               'iflas-yillik',
+              'sirketler-donem-1',
+              'sirketler-donem-2',
+              'sirketler-yillik',
             ].map((code) => (
               <a
                 key={code}

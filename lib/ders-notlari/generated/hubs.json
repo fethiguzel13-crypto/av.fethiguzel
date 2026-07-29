@@ -432,6 +432,30 @@
         "href": "/ders-notlari/ankara-yildirim-beyazit/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -887,6 +911,30 @@
         "href": "/ders-notlari/ankara/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ankara/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ankara/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ankara/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -1343,6 +1391,30 @@
         "href": "/ders-notlari/istanbul/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/istanbul/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/istanbul/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/istanbul/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -1797,6 +1869,30 @@
         "href": "/ders-notlari/marmara/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/marmara/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/marmara/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/marmara/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -2253,6 +2349,30 @@
         "href": "/ders-notlari/galatasaray/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/galatasaray/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/galatasaray/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/galatasaray/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -2708,6 +2828,30 @@
         "href": "/ders-notlari/dokuz-eylul/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/dokuz-eylul/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/dokuz-eylul/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/dokuz-eylul/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -3162,6 +3306,30 @@
         "href": "/ders-notlari/hacettepe/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/hacettepe/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/hacettepe/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/hacettepe/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -3617,6 +3785,30 @@
         "href": "/ders-notlari/ankara-hacibayram/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ankara-hacibayram/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ankara-hacibayram/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ankara-hacibayram/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -4071,6 +4263,30 @@
         "href": "/ders-notlari/bilkent/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/bilkent/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/bilkent/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/bilkent/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -4526,6 +4742,30 @@
         "href": "/ders-notlari/koc/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/koc/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/koc/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/koc/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -4981,6 +5221,30 @@
         "href": "/ders-notlari/tobb-etu/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/tobb-etu/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/tobb-etu/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/tobb-etu/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -5435,6 +5699,30 @@
         "href": "/ders-notlari/bogazici/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/bogazici/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/bogazici/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/bogazici/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -5889,6 +6177,30 @@
         "href": "/ders-notlari/ege/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ege/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ege/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ege/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -6343,6 +6655,30 @@
         "href": "/ders-notlari/akdeniz/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/akdeniz/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/akdeniz/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/akdeniz/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -6797,6 +7133,30 @@
         "href": "/ders-notlari/selcuk/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/selcuk/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/selcuk/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/selcuk/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -7251,6 +7611,30 @@
         "href": "/ders-notlari/erciyes/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/erciyes/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/erciyes/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/erciyes/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -7706,6 +8090,30 @@
         "href": "/ders-notlari/uludag/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/uludag/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/uludag/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/uludag/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -8160,6 +8568,30 @@
         "href": "/ders-notlari/cukurova/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/cukurova/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/cukurova/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/cukurova/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -8614,6 +9046,30 @@
         "href": "/ders-notlari/anadolu/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/anadolu/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/anadolu/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/anadolu/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -9069,6 +9525,30 @@
         "href": "/ders-notlari/gazi-ankara/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/gazi-ankara/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/gazi-ankara/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/gazi-ankara/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -9524,6 +10004,30 @@
         "href": "/ders-notlari/yildiz-teknik/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/yildiz-teknik/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/yildiz-teknik/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/yildiz-teknik/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -9978,6 +10482,30 @@
         "href": "/ders-notlari/istanbul-medeniyet/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/istanbul-medeniyet/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/istanbul-medeniyet/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/istanbul-medeniyet/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -10433,6 +10961,30 @@
         "href": "/ders-notlari/bahcesehir/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/bahcesehir/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/bahcesehir/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/bahcesehir/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -10887,6 +11439,30 @@
         "href": "/ders-notlari/yeditepe/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/yeditepe/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/yeditepe/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/yeditepe/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -11341,6 +11917,30 @@
         "href": "/ders-notlari/ozyegin/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ozyegin/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ozyegin/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ozyegin/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -11795,6 +12395,30 @@
         "href": "/ders-notlari/kadir-has/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kadir-has/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kadir-has/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kadir-has/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -12249,6 +12873,30 @@
         "href": "/ders-notlari/istanbul-bilgi/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/istanbul-bilgi/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/istanbul-bilgi/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/istanbul-bilgi/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -12703,6 +13351,30 @@
         "href": "/ders-notlari/mehmet-akif/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/mehmet-akif/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/mehmet-akif/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/mehmet-akif/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -13157,6 +13829,30 @@
         "href": "/ders-notlari/altinbas/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/altinbas/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/altinbas/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/altinbas/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -13611,6 +14307,30 @@
         "href": "/ders-notlari/maltepe/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/maltepe/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/maltepe/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/maltepe/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -14065,6 +14785,30 @@
         "href": "/ders-notlari/dogus/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/dogus/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/dogus/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/dogus/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -14519,6 +15263,30 @@
         "href": "/ders-notlari/isik/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/isik/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/isik/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/isik/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -14973,6 +15741,30 @@
         "href": "/ders-notlari/okan/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/okan/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/okan/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/okan/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -15427,6 +16219,30 @@
         "href": "/ders-notlari/kultur/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kultur/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kultur/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kultur/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -15881,6 +16697,30 @@
         "href": "/ders-notlari/aydin/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/aydin/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/aydin/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/aydin/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -16335,6 +17175,30 @@
         "href": "/ders-notlari/gelisim/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/gelisim/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/gelisim/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/gelisim/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -16789,6 +17653,30 @@
         "href": "/ders-notlari/topkapi/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/topkapi/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/topkapi/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/topkapi/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -17243,6 +18131,30 @@
         "href": "/ders-notlari/nisantasi/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/nisantasi/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/nisantasi/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/nisantasi/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -17697,6 +18609,30 @@
         "href": "/ders-notlari/beykent/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/beykent/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/beykent/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/beykent/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -18151,6 +19087,30 @@
         "href": "/ders-notlari/halic/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/halic/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/halic/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/halic/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -18605,6 +19565,30 @@
         "href": "/ders-notlari/fatih-sultan/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/fatih-sultan/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/fatih-sultan/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/fatih-sultan/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -19060,6 +20044,30 @@
         "href": "/ders-notlari/karadeniz-teknik/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/karadeniz-teknik/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/karadeniz-teknik/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/karadeniz-teknik/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -19515,6 +20523,30 @@
         "href": "/ders-notlari/ataturk/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ataturk/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ataturk/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ataturk/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -19969,6 +21001,30 @@
         "href": "/ders-notlari/inonu/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/inonu/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/inonu/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/inonu/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -20423,6 +21479,30 @@
         "href": "/ders-notlari/dicle/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/dicle/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/dicle/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/dicle/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -20877,6 +21957,30 @@
         "href": "/ders-notlari/firat/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/firat/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/firat/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/firat/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -21331,6 +22435,30 @@
         "href": "/ders-notlari/gaziantep/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/gaziantep/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/gaziantep/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/gaziantep/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -21786,6 +22914,30 @@
         "href": "/ders-notlari/suleyman-demirel/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/suleyman-demirel/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/suleyman-demirel/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/suleyman-demirel/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -22240,6 +23392,30 @@
         "href": "/ders-notlari/pamukkale/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/pamukkale/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/pamukkale/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/pamukkale/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -22694,6 +23870,30 @@
         "href": "/ders-notlari/mugla/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/mugla/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/mugla/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/mugla/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -23148,6 +24348,30 @@
         "href": "/ders-notlari/sakarya/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/sakarya/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/sakarya/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/sakarya/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -23602,6 +24826,30 @@
         "href": "/ders-notlari/kocaeli/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kocaeli/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kocaeli/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kocaeli/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -24056,6 +25304,30 @@
         "href": "/ders-notlari/trakya/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/trakya/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/trakya/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/trakya/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -24510,6 +25782,30 @@
         "href": "/ders-notlari/canakkale/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/canakkale/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/canakkale/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/canakkale/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -24964,6 +26260,30 @@
         "href": "/ders-notlari/balikesir/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/balikesir/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/balikesir/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/balikesir/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -25419,6 +26739,30 @@
         "href": "/ders-notlari/afyon/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/afyon/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/afyon/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/afyon/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -25873,6 +27217,30 @@
         "href": "/ders-notlari/dumlupinar/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/dumlupinar/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/dumlupinar/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/dumlupinar/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -26327,6 +27695,30 @@
         "href": "/ders-notlari/eskisehir-osmangazi/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/eskisehir-osmangazi/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/eskisehir-osmangazi/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/eskisehir-osmangazi/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -26782,6 +28174,30 @@
         "href": "/ders-notlari/sivas-cumhuriyet/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/sivas-cumhuriyet/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/sivas-cumhuriyet/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/sivas-cumhuriyet/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -27236,6 +28652,30 @@
         "href": "/ders-notlari/tokat/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/tokat/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/tokat/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/tokat/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -27690,6 +29130,30 @@
         "href": "/ders-notlari/yozgat/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/yozgat/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/yozgat/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/yozgat/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -28144,6 +29608,30 @@
         "href": "/ders-notlari/kirsehir/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kirsehir/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kirsehir/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kirsehir/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -28598,6 +30086,30 @@
         "href": "/ders-notlari/nevsehir/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/nevsehir/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/nevsehir/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/nevsehir/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -29052,6 +30564,30 @@
         "href": "/ders-notlari/mersin/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/mersin/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/mersin/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/mersin/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -29507,6 +31043,30 @@
         "href": "/ders-notlari/hatay/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/hatay/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/hatay/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/hatay/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -29961,6 +31521,30 @@
         "href": "/ders-notlari/kahramanmaras/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kahramanmaras/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kahramanmaras/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kahramanmaras/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -30415,6 +31999,30 @@
         "href": "/ders-notlari/osmaniye/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/osmaniye/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/osmaniye/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/osmaniye/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -30870,6 +32478,30 @@
         "href": "/ders-notlari/samsun/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/samsun/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/samsun/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/samsun/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -31324,6 +32956,30 @@
         "href": "/ders-notlari/ordu/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ordu/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ordu/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ordu/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -31778,6 +33434,30 @@
         "href": "/ders-notlari/giresun/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/giresun/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/giresun/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/giresun/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -32233,6 +33913,30 @@
         "href": "/ders-notlari/rize/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/rize/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/rize/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/rize/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -32687,6 +34391,30 @@
         "href": "/ders-notlari/artvin/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/artvin/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/artvin/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/artvin/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -33143,6 +34871,30 @@
         "href": "/ders-notlari/van-yyu/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/van-yyu/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/van-yyu/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/van-yyu/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -33597,6 +35349,30 @@
         "href": "/ders-notlari/agri/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/agri/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/agri/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/agri/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -34051,6 +35827,30 @@
         "href": "/ders-notlari/kars/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kars/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kars/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kars/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -34505,6 +36305,30 @@
         "href": "/ders-notlari/erzincan/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/erzincan/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/erzincan/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/erzincan/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -34959,6 +36783,30 @@
         "href": "/ders-notlari/bayburt/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/bayburt/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/bayburt/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/bayburt/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -35413,6 +37261,30 @@
         "href": "/ders-notlari/gumushane/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/gumushane/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/gumushane/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/gumushane/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -35867,6 +37739,30 @@
         "href": "/ders-notlari/bingol/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/bingol/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/bingol/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/bingol/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -36321,6 +38217,30 @@
         "href": "/ders-notlari/mus/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/mus/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/mus/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/mus/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -36775,6 +38695,30 @@
         "href": "/ders-notlari/hakkari/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/hakkari/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/hakkari/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/hakkari/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -37229,6 +39173,30 @@
         "href": "/ders-notlari/sirnak/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/sirnak/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/sirnak/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/sirnak/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -37684,6 +39652,30 @@
         "href": "/ders-notlari/mardin/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/mardin/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/mardin/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/mardin/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -38138,6 +40130,30 @@
         "href": "/ders-notlari/batman/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/batman/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/batman/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/batman/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -38592,6 +40608,30 @@
         "href": "/ders-notlari/siirt/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/siirt/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/siirt/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/siirt/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -39046,6 +41086,30 @@
         "href": "/ders-notlari/adiyaman/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/adiyaman/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/adiyaman/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/adiyaman/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -39500,6 +41564,30 @@
         "href": "/ders-notlari/kilis/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kilis/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kilis/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kilis/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -39954,6 +42042,30 @@
         "href": "/ders-notlari/igdir/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/igdir/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/igdir/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/igdir/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -40408,6 +42520,30 @@
         "href": "/ders-notlari/ardahan/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ardahan/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ardahan/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ardahan/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -40862,6 +42998,30 @@
         "href": "/ders-notlari/bilecik/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/bilecik/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/bilecik/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/bilecik/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -41317,6 +43477,30 @@
         "href": "/ders-notlari/bolu/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/bolu/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/bolu/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/bolu/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -41771,6 +43955,30 @@
         "href": "/ders-notlari/duzce/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/duzce/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/duzce/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/duzce/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -42225,6 +44433,30 @@
         "href": "/ders-notlari/zonguldak/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/zonguldak/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/zonguldak/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/zonguldak/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -42679,6 +44911,30 @@
         "href": "/ders-notlari/karabuk/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/karabuk/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/karabuk/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/karabuk/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -43133,6 +45389,30 @@
         "href": "/ders-notlari/kastamonu/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kastamonu/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kastamonu/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kastamonu/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -43587,6 +45867,30 @@
         "href": "/ders-notlari/sinop/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/sinop/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/sinop/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/sinop/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -44042,6 +46346,30 @@
         "href": "/ders-notlari/corum/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/corum/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/corum/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/corum/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -44496,6 +46824,30 @@
         "href": "/ders-notlari/amasya/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/amasya/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/amasya/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/amasya/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -44950,6 +47302,30 @@
         "href": "/ders-notlari/cankiri/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/cankiri/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/cankiri/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/cankiri/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -45404,6 +47780,30 @@
         "href": "/ders-notlari/kirikkale/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kirikkale/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kirikkale/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kirikkale/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -45858,6 +48258,30 @@
         "href": "/ders-notlari/aksaray/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/aksaray/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/aksaray/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/aksaray/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -46312,6 +48736,30 @@
         "href": "/ders-notlari/nigde/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/nigde/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/nigde/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/nigde/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -46766,6 +49214,30 @@
         "href": "/ders-notlari/konya-teknik/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/konya-teknik/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/konya-teknik/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/konya-teknik/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -47220,6 +49692,30 @@
         "href": "/ders-notlari/karaman/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/karaman/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/karaman/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/karaman/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -47674,6 +50170,30 @@
         "href": "/ders-notlari/usak/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/usak/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/usak/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/usak/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -48129,6 +50649,30 @@
         "href": "/ders-notlari/manisa/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/manisa/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/manisa/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/manisa/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -48583,6 +51127,30 @@
         "href": "/ders-notlari/aydin-adu/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/aydin-adu/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/aydin-adu/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/aydin-adu/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -49037,6 +51605,30 @@
         "href": "/ders-notlari/tekirdag/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/tekirdag/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/tekirdag/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/tekirdag/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -49491,6 +52083,30 @@
         "href": "/ders-notlari/kirklareli/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kirklareli/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kirklareli/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kirklareli/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -49945,6 +52561,30 @@
         "href": "/ders-notlari/atilim/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/atilim/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/atilim/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/atilim/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -50399,6 +53039,30 @@
         "href": "/ders-notlari/cankaya/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/cankaya/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/cankaya/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/cankaya/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -50853,6 +53517,30 @@
         "href": "/ders-notlari/ufuk/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ufuk/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ufuk/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ufuk/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -51307,6 +53995,30 @@
         "href": "/ders-notlari/yasar/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/yasar/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/yasar/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/yasar/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -51761,6 +54473,30 @@
         "href": "/ders-notlari/izmir-ekonomi/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/izmir-ekonomi/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/izmir-ekonomi/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/izmir-ekonomi/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -52215,6 +54951,30 @@
         "href": "/ders-notlari/tinaztepe/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/tinaztepe/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/tinaztepe/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/tinaztepe/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -52669,6 +55429,30 @@
         "href": "/ders-notlari/asbu-vakif/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/asbu-vakif/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/asbu-vakif/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/asbu-vakif/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -53123,6 +55907,30 @@
         "href": "/ders-notlari/hasan-kalyoncu/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/hasan-kalyoncu/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/hasan-kalyoncu/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/hasan-kalyoncu/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -53577,6 +56385,30 @@
         "href": "/ders-notlari/sanko/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/sanko/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/sanko/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/sanko/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -54031,6 +56863,30 @@
         "href": "/ders-notlari/toros/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/toros/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/toros/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/toros/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
@@ -54485,6 +57341,30 @@
         "href": "/ders-notlari/cag/iflas-yillik",
         "ready": true,
         "variantOf": "iflas"
+      },
+      {
+        "code": "sirketler-donem-1",
+        "title": "Şirketler Hukuku — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/cag/sirketler-donem-1",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-donem-2",
+        "title": "Şirketler Hukuku — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/cag/sirketler-donem-2",
+        "ready": true,
+        "variantOf": "sirketler"
+      },
+      {
+        "code": "sirketler-yillik",
+        "title": "Şirketler Hukuku — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/cag/sirketler-yillik",
+        "ready": true,
+        "variantOf": "sirketler"
       }
     ],
     "seoParagraphs": [
