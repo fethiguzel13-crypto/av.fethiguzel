@@ -3,7 +3,7 @@
   "wave": "all",
   "universityCount": 120,
   "hubCount": 120,
-  "noteCount": 10200,
+  "noteCount": 10560,
   "universities": [
     {
       "slug": "ankara-yildirim-beyazit",
@@ -85926,6 +85926,3246 @@
       "href": "/ders-notlari/cag/hukuk-felsefesi-yillik",
       "variantOf": "hukuk-felsefesi",
       "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "ankara-yildirim-beyazit__hukuk-ingilizcesi-donem-1",
+      "title": "AYBÜ Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "ankara-yildirim-beyazit__hukuk-ingilizcesi-donem-2",
+      "title": "AYBÜ Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "ankara-yildirim-beyazit__hukuk-ingilizcesi-yillik",
+      "title": "AYBÜ Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "ankara__hukuk-ingilizcesi-donem-1",
+      "title": "AÜHF Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "ankara__hukuk-ingilizcesi-donem-2",
+      "title": "AÜHF Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "ankara__hukuk-ingilizcesi-yillik",
+      "title": "AÜHF Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "istanbul__hukuk-ingilizcesi-donem-1",
+      "title": "İÜHF Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "istanbul__hukuk-ingilizcesi-donem-2",
+      "title": "İÜHF Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "istanbul__hukuk-ingilizcesi-yillik",
+      "title": "İÜHF Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "marmara__hukuk-ingilizcesi-donem-1",
+      "title": "MÜHF Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "marmara__hukuk-ingilizcesi-donem-2",
+      "title": "MÜHF Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "marmara__hukuk-ingilizcesi-yillik",
+      "title": "MÜHF Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "galatasaray__hukuk-ingilizcesi-donem-1",
+      "title": "GSÜ Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "galatasaray__hukuk-ingilizcesi-donem-2",
+      "title": "GSÜ Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "galatasaray__hukuk-ingilizcesi-yillik",
+      "title": "GSÜ Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "dokuz-eylul__hukuk-ingilizcesi-donem-1",
+      "title": "DEÜ Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "dokuz-eylul__hukuk-ingilizcesi-donem-2",
+      "title": "DEÜ Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "dokuz-eylul__hukuk-ingilizcesi-yillik",
+      "title": "DEÜ Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "hacettepe__hukuk-ingilizcesi-donem-1",
+      "title": "Hacettepe Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "hacettepe__hukuk-ingilizcesi-donem-2",
+      "title": "Hacettepe Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "hacettepe__hukuk-ingilizcesi-yillik",
+      "title": "Hacettepe Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "ankara-hacibayram__hukuk-ingilizcesi-donem-1",
+      "title": "AHBV Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "ankara-hacibayram__hukuk-ingilizcesi-donem-2",
+      "title": "AHBV Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "ankara-hacibayram__hukuk-ingilizcesi-yillik",
+      "title": "AHBV Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "bilkent__hukuk-ingilizcesi-donem-1",
+      "title": "Bilkent Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "bilkent__hukuk-ingilizcesi-donem-2",
+      "title": "Bilkent Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "bilkent__hukuk-ingilizcesi-yillik",
+      "title": "Bilkent Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "koc__hukuk-ingilizcesi-donem-1",
+      "title": "Koç Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "koc__hukuk-ingilizcesi-donem-2",
+      "title": "Koç Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "koc__hukuk-ingilizcesi-yillik",
+      "title": "Koç Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "tobb-etu__hukuk-ingilizcesi-donem-1",
+      "title": "TOBB ETÜ Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "tobb-etu__hukuk-ingilizcesi-donem-2",
+      "title": "TOBB ETÜ Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "tobb-etu__hukuk-ingilizcesi-yillik",
+      "title": "TOBB ETÜ Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "bogazici__hukuk-ingilizcesi-donem-1",
+      "title": "BÜ Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "bogazici__hukuk-ingilizcesi-donem-2",
+      "title": "BÜ Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "bogazici__hukuk-ingilizcesi-yillik",
+      "title": "BÜ Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "ege__hukuk-ingilizcesi-donem-1",
+      "title": "Ege Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "ege__hukuk-ingilizcesi-donem-2",
+      "title": "Ege Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "ege__hukuk-ingilizcesi-yillik",
+      "title": "Ege Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "akdeniz__hukuk-ingilizcesi-donem-1",
+      "title": "Akdeniz Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "akdeniz__hukuk-ingilizcesi-donem-2",
+      "title": "Akdeniz Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "akdeniz__hukuk-ingilizcesi-yillik",
+      "title": "Akdeniz Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "selcuk__hukuk-ingilizcesi-donem-1",
+      "title": "Selçuk Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "selcuk__hukuk-ingilizcesi-donem-2",
+      "title": "Selçuk Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "selcuk__hukuk-ingilizcesi-yillik",
+      "title": "Selçuk Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "erciyes__hukuk-ingilizcesi-donem-1",
+      "title": "Erciyes Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "erciyes__hukuk-ingilizcesi-donem-2",
+      "title": "Erciyes Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "erciyes__hukuk-ingilizcesi-yillik",
+      "title": "Erciyes Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "uludag__hukuk-ingilizcesi-donem-1",
+      "title": "Uludağ Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "uludag__hukuk-ingilizcesi-donem-2",
+      "title": "Uludağ Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "uludag__hukuk-ingilizcesi-yillik",
+      "title": "Uludağ Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "cukurova__hukuk-ingilizcesi-donem-1",
+      "title": "Çukurova Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "cukurova__hukuk-ingilizcesi-donem-2",
+      "title": "Çukurova Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "cukurova__hukuk-ingilizcesi-yillik",
+      "title": "Çukurova Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "anadolu__hukuk-ingilizcesi-donem-1",
+      "title": "Anadolu Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "anadolu__hukuk-ingilizcesi-donem-2",
+      "title": "Anadolu Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "anadolu__hukuk-ingilizcesi-yillik",
+      "title": "Anadolu Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "gazi-ankara__hukuk-ingilizcesi-donem-1",
+      "title": "ASBÜ Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "gazi-ankara__hukuk-ingilizcesi-donem-2",
+      "title": "ASBÜ Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "gazi-ankara__hukuk-ingilizcesi-yillik",
+      "title": "ASBÜ Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "yildiz-teknik__hukuk-ingilizcesi-donem-1",
+      "title": "YTÜ Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "yildiz-teknik__hukuk-ingilizcesi-donem-2",
+      "title": "YTÜ Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "yildiz-teknik__hukuk-ingilizcesi-yillik",
+      "title": "YTÜ Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "istanbul-medeniyet__hukuk-ingilizcesi-donem-1",
+      "title": "Medeniyet Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "istanbul-medeniyet__hukuk-ingilizcesi-donem-2",
+      "title": "Medeniyet Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "istanbul-medeniyet__hukuk-ingilizcesi-yillik",
+      "title": "Medeniyet Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "bahcesehir__hukuk-ingilizcesi-donem-1",
+      "title": "BAU Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "bahcesehir__hukuk-ingilizcesi-donem-2",
+      "title": "BAU Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "bahcesehir__hukuk-ingilizcesi-yillik",
+      "title": "BAU Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "yeditepe__hukuk-ingilizcesi-donem-1",
+      "title": "Yeditepe Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "yeditepe__hukuk-ingilizcesi-donem-2",
+      "title": "Yeditepe Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "yeditepe__hukuk-ingilizcesi-yillik",
+      "title": "Yeditepe Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "ozyegin__hukuk-ingilizcesi-donem-1",
+      "title": "Özyeğin Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "ozyegin__hukuk-ingilizcesi-donem-2",
+      "title": "Özyeğin Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "ozyegin__hukuk-ingilizcesi-yillik",
+      "title": "Özyeğin Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "kadir-has__hukuk-ingilizcesi-donem-1",
+      "title": "KHAS Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "kadir-has__hukuk-ingilizcesi-donem-2",
+      "title": "KHAS Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "kadir-has__hukuk-ingilizcesi-yillik",
+      "title": "KHAS Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "istanbul-bilgi__hukuk-ingilizcesi-donem-1",
+      "title": "Bilgi Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "istanbul-bilgi__hukuk-ingilizcesi-donem-2",
+      "title": "Bilgi Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "istanbul-bilgi__hukuk-ingilizcesi-yillik",
+      "title": "Bilgi Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "mehmet-akif__hukuk-ingilizcesi-donem-1",
+      "title": "Medipol Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "mehmet-akif__hukuk-ingilizcesi-donem-2",
+      "title": "Medipol Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "mehmet-akif__hukuk-ingilizcesi-yillik",
+      "title": "Medipol Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "altinbas__hukuk-ingilizcesi-donem-1",
+      "title": "Altınbaş Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "altinbas__hukuk-ingilizcesi-donem-2",
+      "title": "Altınbaş Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "altinbas__hukuk-ingilizcesi-yillik",
+      "title": "Altınbaş Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "maltepe__hukuk-ingilizcesi-donem-1",
+      "title": "Maltepe Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "maltepe__hukuk-ingilizcesi-donem-2",
+      "title": "Maltepe Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "maltepe__hukuk-ingilizcesi-yillik",
+      "title": "Maltepe Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "dogus__hukuk-ingilizcesi-donem-1",
+      "title": "Doğuş Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "dogus__hukuk-ingilizcesi-donem-2",
+      "title": "Doğuş Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "dogus__hukuk-ingilizcesi-yillik",
+      "title": "Doğuş Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "isik__hukuk-ingilizcesi-donem-1",
+      "title": "Işık Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "isik__hukuk-ingilizcesi-donem-2",
+      "title": "Işık Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "isik__hukuk-ingilizcesi-yillik",
+      "title": "Işık Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "okan__hukuk-ingilizcesi-donem-1",
+      "title": "Okan Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "okan__hukuk-ingilizcesi-donem-2",
+      "title": "Okan Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "okan__hukuk-ingilizcesi-yillik",
+      "title": "Okan Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "kultur__hukuk-ingilizcesi-donem-1",
+      "title": "İKÜ Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "kultur__hukuk-ingilizcesi-donem-2",
+      "title": "İKÜ Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "kultur__hukuk-ingilizcesi-yillik",
+      "title": "İKÜ Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "aydin__hukuk-ingilizcesi-donem-1",
+      "title": "İAÜ Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "aydin__hukuk-ingilizcesi-donem-2",
+      "title": "İAÜ Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "aydin__hukuk-ingilizcesi-yillik",
+      "title": "İAÜ Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "gelisim__hukuk-ingilizcesi-donem-1",
+      "title": "Gelişim Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "gelisim__hukuk-ingilizcesi-donem-2",
+      "title": "Gelişim Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "gelisim__hukuk-ingilizcesi-yillik",
+      "title": "Gelişim Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "topkapi__hukuk-ingilizcesi-donem-1",
+      "title": "Topkapı Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "topkapi__hukuk-ingilizcesi-donem-2",
+      "title": "Topkapı Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "topkapi__hukuk-ingilizcesi-yillik",
+      "title": "Topkapı Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "nisantasi__hukuk-ingilizcesi-donem-1",
+      "title": "Nişantaşı Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "nisantasi__hukuk-ingilizcesi-donem-2",
+      "title": "Nişantaşı Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "nisantasi__hukuk-ingilizcesi-yillik",
+      "title": "Nişantaşı Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "beykent__hukuk-ingilizcesi-donem-1",
+      "title": "Beykent Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "beykent__hukuk-ingilizcesi-donem-2",
+      "title": "Beykent Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "beykent__hukuk-ingilizcesi-yillik",
+      "title": "Beykent Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "halic__hukuk-ingilizcesi-donem-1",
+      "title": "Haliç Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "halic__hukuk-ingilizcesi-donem-2",
+      "title": "Haliç Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "halic__hukuk-ingilizcesi-yillik",
+      "title": "Haliç Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "fatih-sultan__hukuk-ingilizcesi-donem-1",
+      "title": "FSMVÜ Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "fatih-sultan__hukuk-ingilizcesi-donem-2",
+      "title": "FSMVÜ Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "fatih-sultan__hukuk-ingilizcesi-yillik",
+      "title": "FSMVÜ Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "karadeniz-teknik__hukuk-ingilizcesi-donem-1",
+      "title": "KTÜ Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "karadeniz-teknik__hukuk-ingilizcesi-donem-2",
+      "title": "KTÜ Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "karadeniz-teknik__hukuk-ingilizcesi-yillik",
+      "title": "KTÜ Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "ataturk__hukuk-ingilizcesi-donem-1",
+      "title": "Atatürk Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "ataturk__hukuk-ingilizcesi-donem-2",
+      "title": "Atatürk Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "ataturk__hukuk-ingilizcesi-yillik",
+      "title": "Atatürk Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "inonu__hukuk-ingilizcesi-donem-1",
+      "title": "İnönü Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "inonu__hukuk-ingilizcesi-donem-2",
+      "title": "İnönü Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "inonu__hukuk-ingilizcesi-yillik",
+      "title": "İnönü Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "dicle__hukuk-ingilizcesi-donem-1",
+      "title": "Dicle Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "dicle__hukuk-ingilizcesi-donem-2",
+      "title": "Dicle Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "dicle__hukuk-ingilizcesi-yillik",
+      "title": "Dicle Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "firat__hukuk-ingilizcesi-donem-1",
+      "title": "Fırat Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "firat__hukuk-ingilizcesi-donem-2",
+      "title": "Fırat Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "firat__hukuk-ingilizcesi-yillik",
+      "title": "Fırat Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "gaziantep__hukuk-ingilizcesi-donem-1",
+      "title": "GAÜN Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "gaziantep__hukuk-ingilizcesi-donem-2",
+      "title": "GAÜN Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "gaziantep__hukuk-ingilizcesi-yillik",
+      "title": "GAÜN Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "suleyman-demirel__hukuk-ingilizcesi-donem-1",
+      "title": "SDÜ Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "suleyman-demirel__hukuk-ingilizcesi-donem-2",
+      "title": "SDÜ Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "suleyman-demirel__hukuk-ingilizcesi-yillik",
+      "title": "SDÜ Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "pamukkale__hukuk-ingilizcesi-donem-1",
+      "title": "PAÜ Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "pamukkale__hukuk-ingilizcesi-donem-2",
+      "title": "PAÜ Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "pamukkale__hukuk-ingilizcesi-yillik",
+      "title": "PAÜ Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "mugla__hukuk-ingilizcesi-donem-1",
+      "title": "MSKU Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "mugla__hukuk-ingilizcesi-donem-2",
+      "title": "MSKU Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "mugla__hukuk-ingilizcesi-yillik",
+      "title": "MSKU Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "sakarya__hukuk-ingilizcesi-donem-1",
+      "title": "SAÜ Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "sakarya__hukuk-ingilizcesi-donem-2",
+      "title": "SAÜ Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "sakarya__hukuk-ingilizcesi-yillik",
+      "title": "SAÜ Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "kocaeli__hukuk-ingilizcesi-donem-1",
+      "title": "KOÜ Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "kocaeli__hukuk-ingilizcesi-donem-2",
+      "title": "KOÜ Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "kocaeli__hukuk-ingilizcesi-yillik",
+      "title": "KOÜ Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "trakya__hukuk-ingilizcesi-donem-1",
+      "title": "Trakya Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "trakya__hukuk-ingilizcesi-donem-2",
+      "title": "Trakya Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "trakya__hukuk-ingilizcesi-yillik",
+      "title": "Trakya Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "canakkale__hukuk-ingilizcesi-donem-1",
+      "title": "ÇOMÜ Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "canakkale__hukuk-ingilizcesi-donem-2",
+      "title": "ÇOMÜ Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "canakkale__hukuk-ingilizcesi-yillik",
+      "title": "ÇOMÜ Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "balikesir__hukuk-ingilizcesi-donem-1",
+      "title": "BAÜN Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "balikesir__hukuk-ingilizcesi-donem-2",
+      "title": "BAÜN Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "balikesir__hukuk-ingilizcesi-yillik",
+      "title": "BAÜN Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "afyon__hukuk-ingilizcesi-donem-1",
+      "title": "AKÜ Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "afyon__hukuk-ingilizcesi-donem-2",
+      "title": "AKÜ Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "afyon__hukuk-ingilizcesi-yillik",
+      "title": "AKÜ Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "dumlupinar__hukuk-ingilizcesi-donem-1",
+      "title": "DPÜ Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "dumlupinar__hukuk-ingilizcesi-donem-2",
+      "title": "DPÜ Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "dumlupinar__hukuk-ingilizcesi-yillik",
+      "title": "DPÜ Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "eskisehir-osmangazi__hukuk-ingilizcesi-donem-1",
+      "title": "ESOGÜ Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "eskisehir-osmangazi__hukuk-ingilizcesi-donem-2",
+      "title": "ESOGÜ Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "eskisehir-osmangazi__hukuk-ingilizcesi-yillik",
+      "title": "ESOGÜ Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "sivas-cumhuriyet__hukuk-ingilizcesi-donem-1",
+      "title": "SCÜ Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "sivas-cumhuriyet__hukuk-ingilizcesi-donem-2",
+      "title": "SCÜ Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "sivas-cumhuriyet__hukuk-ingilizcesi-yillik",
+      "title": "SCÜ Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "tokat__hukuk-ingilizcesi-donem-1",
+      "title": "TOGÜ Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "tokat__hukuk-ingilizcesi-donem-2",
+      "title": "TOGÜ Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "tokat__hukuk-ingilizcesi-yillik",
+      "title": "TOGÜ Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "yozgat__hukuk-ingilizcesi-donem-1",
+      "title": "Bozok Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "yozgat__hukuk-ingilizcesi-donem-2",
+      "title": "Bozok Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "yozgat__hukuk-ingilizcesi-yillik",
+      "title": "Bozok Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "kirsehir__hukuk-ingilizcesi-donem-1",
+      "title": "AHİEVRAN Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "kirsehir__hukuk-ingilizcesi-donem-2",
+      "title": "AHİEVRAN Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "kirsehir__hukuk-ingilizcesi-yillik",
+      "title": "AHİEVRAN Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "nevsehir__hukuk-ingilizcesi-donem-1",
+      "title": "NEVÜ Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "nevsehir__hukuk-ingilizcesi-donem-2",
+      "title": "NEVÜ Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "nevsehir__hukuk-ingilizcesi-yillik",
+      "title": "NEVÜ Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "mersin__hukuk-ingilizcesi-donem-1",
+      "title": "MEÜ Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "mersin__hukuk-ingilizcesi-donem-2",
+      "title": "MEÜ Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "mersin__hukuk-ingilizcesi-yillik",
+      "title": "MEÜ Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "hatay__hukuk-ingilizcesi-donem-1",
+      "title": "MKÜ Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "hatay__hukuk-ingilizcesi-donem-2",
+      "title": "MKÜ Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "hatay__hukuk-ingilizcesi-yillik",
+      "title": "MKÜ Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "kahramanmaras__hukuk-ingilizcesi-donem-1",
+      "title": "KSÜ Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "kahramanmaras__hukuk-ingilizcesi-donem-2",
+      "title": "KSÜ Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "kahramanmaras__hukuk-ingilizcesi-yillik",
+      "title": "KSÜ Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "osmaniye__hukuk-ingilizcesi-donem-1",
+      "title": "OKÜ Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "osmaniye__hukuk-ingilizcesi-donem-2",
+      "title": "OKÜ Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "osmaniye__hukuk-ingilizcesi-yillik",
+      "title": "OKÜ Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "samsun__hukuk-ingilizcesi-donem-1",
+      "title": "OMÜ Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "samsun__hukuk-ingilizcesi-donem-2",
+      "title": "OMÜ Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "samsun__hukuk-ingilizcesi-yillik",
+      "title": "OMÜ Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "ordu__hukuk-ingilizcesi-donem-1",
+      "title": "ODÜ Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "ordu__hukuk-ingilizcesi-donem-2",
+      "title": "ODÜ Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "ordu__hukuk-ingilizcesi-yillik",
+      "title": "ODÜ Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "giresun__hukuk-ingilizcesi-donem-1",
+      "title": "GÜ Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "giresun__hukuk-ingilizcesi-donem-2",
+      "title": "GÜ Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "giresun__hukuk-ingilizcesi-yillik",
+      "title": "GÜ Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "rize__hukuk-ingilizcesi-donem-1",
+      "title": "RTEÜ Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "rize__hukuk-ingilizcesi-donem-2",
+      "title": "RTEÜ Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "rize__hukuk-ingilizcesi-yillik",
+      "title": "RTEÜ Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "artvin__hukuk-ingilizcesi-donem-1",
+      "title": "AÇÜ Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "artvin__hukuk-ingilizcesi-donem-2",
+      "title": "AÇÜ Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "artvin__hukuk-ingilizcesi-yillik",
+      "title": "AÇÜ Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "van-yyu__hukuk-ingilizcesi-donem-1",
+      "title": "YYÜ Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "van-yyu__hukuk-ingilizcesi-donem-2",
+      "title": "YYÜ Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "van-yyu__hukuk-ingilizcesi-yillik",
+      "title": "YYÜ Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "agri__hukuk-ingilizcesi-donem-1",
+      "title": "AİÇÜ Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "agri__hukuk-ingilizcesi-donem-2",
+      "title": "AİÇÜ Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "agri__hukuk-ingilizcesi-yillik",
+      "title": "AİÇÜ Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "kars__hukuk-ingilizcesi-donem-1",
+      "title": "Kafkas Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "kars__hukuk-ingilizcesi-donem-2",
+      "title": "Kafkas Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "kars__hukuk-ingilizcesi-yillik",
+      "title": "Kafkas Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "erzincan__hukuk-ingilizcesi-donem-1",
+      "title": "EBYÜ Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "erzincan__hukuk-ingilizcesi-donem-2",
+      "title": "EBYÜ Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "erzincan__hukuk-ingilizcesi-yillik",
+      "title": "EBYÜ Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "bayburt__hukuk-ingilizcesi-donem-1",
+      "title": "Bayburt Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "bayburt__hukuk-ingilizcesi-donem-2",
+      "title": "Bayburt Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "bayburt__hukuk-ingilizcesi-yillik",
+      "title": "Bayburt Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "gumushane__hukuk-ingilizcesi-donem-1",
+      "title": "Gümüşhane Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "gumushane__hukuk-ingilizcesi-donem-2",
+      "title": "Gümüşhane Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "gumushane__hukuk-ingilizcesi-yillik",
+      "title": "Gümüşhane Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "bingol__hukuk-ingilizcesi-donem-1",
+      "title": "Bingöl Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "bingol__hukuk-ingilizcesi-donem-2",
+      "title": "Bingöl Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "bingol__hukuk-ingilizcesi-yillik",
+      "title": "Bingöl Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "mus__hukuk-ingilizcesi-donem-1",
+      "title": "Muş Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "mus__hukuk-ingilizcesi-donem-2",
+      "title": "Muş Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "mus__hukuk-ingilizcesi-yillik",
+      "title": "Muş Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "hakkari__hukuk-ingilizcesi-donem-1",
+      "title": "Hakkâri Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "hakkari__hukuk-ingilizcesi-donem-2",
+      "title": "Hakkâri Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "hakkari__hukuk-ingilizcesi-yillik",
+      "title": "Hakkâri Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "sirnak__hukuk-ingilizcesi-donem-1",
+      "title": "Şırnak Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "sirnak__hukuk-ingilizcesi-donem-2",
+      "title": "Şırnak Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "sirnak__hukuk-ingilizcesi-yillik",
+      "title": "Şırnak Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "mardin__hukuk-ingilizcesi-donem-1",
+      "title": "Artuklu Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "mardin__hukuk-ingilizcesi-donem-2",
+      "title": "Artuklu Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "mardin__hukuk-ingilizcesi-yillik",
+      "title": "Artuklu Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "batman__hukuk-ingilizcesi-donem-1",
+      "title": "Batman Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "batman__hukuk-ingilizcesi-donem-2",
+      "title": "Batman Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "batman__hukuk-ingilizcesi-yillik",
+      "title": "Batman Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "siirt__hukuk-ingilizcesi-donem-1",
+      "title": "Siirt Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "siirt__hukuk-ingilizcesi-donem-2",
+      "title": "Siirt Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "siirt__hukuk-ingilizcesi-yillik",
+      "title": "Siirt Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "adiyaman__hukuk-ingilizcesi-donem-1",
+      "title": "Adıyaman Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "adiyaman__hukuk-ingilizcesi-donem-2",
+      "title": "Adıyaman Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "adiyaman__hukuk-ingilizcesi-yillik",
+      "title": "Adıyaman Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "kilis__hukuk-ingilizcesi-donem-1",
+      "title": "Kilis Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "kilis__hukuk-ingilizcesi-donem-2",
+      "title": "Kilis Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "kilis__hukuk-ingilizcesi-yillik",
+      "title": "Kilis Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "igdir__hukuk-ingilizcesi-donem-1",
+      "title": "Iğdır Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "igdir__hukuk-ingilizcesi-donem-2",
+      "title": "Iğdır Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "igdir__hukuk-ingilizcesi-yillik",
+      "title": "Iğdır Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "ardahan__hukuk-ingilizcesi-donem-1",
+      "title": "Ardahan Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "ardahan__hukuk-ingilizcesi-donem-2",
+      "title": "Ardahan Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "ardahan__hukuk-ingilizcesi-yillik",
+      "title": "Ardahan Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "bilecik__hukuk-ingilizcesi-donem-1",
+      "title": "BŞEÜ Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "bilecik__hukuk-ingilizcesi-donem-2",
+      "title": "BŞEÜ Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "bilecik__hukuk-ingilizcesi-yillik",
+      "title": "BŞEÜ Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "bolu__hukuk-ingilizcesi-donem-1",
+      "title": "BAİBÜ Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "bolu__hukuk-ingilizcesi-donem-2",
+      "title": "BAİBÜ Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "bolu__hukuk-ingilizcesi-yillik",
+      "title": "BAİBÜ Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "duzce__hukuk-ingilizcesi-donem-1",
+      "title": "Düzce Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "duzce__hukuk-ingilizcesi-donem-2",
+      "title": "Düzce Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "duzce__hukuk-ingilizcesi-yillik",
+      "title": "Düzce Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "zonguldak__hukuk-ingilizcesi-donem-1",
+      "title": "BEÜN Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "zonguldak__hukuk-ingilizcesi-donem-2",
+      "title": "BEÜN Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "zonguldak__hukuk-ingilizcesi-yillik",
+      "title": "BEÜN Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "karabuk__hukuk-ingilizcesi-donem-1",
+      "title": "KBÜ Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "karabuk__hukuk-ingilizcesi-donem-2",
+      "title": "KBÜ Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "karabuk__hukuk-ingilizcesi-yillik",
+      "title": "KBÜ Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "kastamonu__hukuk-ingilizcesi-donem-1",
+      "title": "KÜ Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "kastamonu__hukuk-ingilizcesi-donem-2",
+      "title": "KÜ Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "kastamonu__hukuk-ingilizcesi-yillik",
+      "title": "KÜ Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "sinop__hukuk-ingilizcesi-donem-1",
+      "title": "Sinop Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "sinop__hukuk-ingilizcesi-donem-2",
+      "title": "Sinop Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "sinop__hukuk-ingilizcesi-yillik",
+      "title": "Sinop Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "corum__hukuk-ingilizcesi-donem-1",
+      "title": "Hitit Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "corum__hukuk-ingilizcesi-donem-2",
+      "title": "Hitit Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "corum__hukuk-ingilizcesi-yillik",
+      "title": "Hitit Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "amasya__hukuk-ingilizcesi-donem-1",
+      "title": "Amasya Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "amasya__hukuk-ingilizcesi-donem-2",
+      "title": "Amasya Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "amasya__hukuk-ingilizcesi-yillik",
+      "title": "Amasya Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "cankiri__hukuk-ingilizcesi-donem-1",
+      "title": "Karatekin Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "cankiri__hukuk-ingilizcesi-donem-2",
+      "title": "Karatekin Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "cankiri__hukuk-ingilizcesi-yillik",
+      "title": "Karatekin Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "kirikkale__hukuk-ingilizcesi-donem-1",
+      "title": "Kırıkkale Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "kirikkale__hukuk-ingilizcesi-donem-2",
+      "title": "Kırıkkale Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "kirikkale__hukuk-ingilizcesi-yillik",
+      "title": "Kırıkkale Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "aksaray__hukuk-ingilizcesi-donem-1",
+      "title": "Aksaray Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "aksaray__hukuk-ingilizcesi-donem-2",
+      "title": "Aksaray Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "aksaray__hukuk-ingilizcesi-yillik",
+      "title": "Aksaray Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "nigde__hukuk-ingilizcesi-donem-1",
+      "title": "ÖHÜ Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "nigde__hukuk-ingilizcesi-donem-2",
+      "title": "ÖHÜ Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "nigde__hukuk-ingilizcesi-yillik",
+      "title": "ÖHÜ Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "konya-teknik__hukuk-ingilizcesi-donem-1",
+      "title": "NEÜ Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "konya-teknik__hukuk-ingilizcesi-donem-2",
+      "title": "NEÜ Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "konya-teknik__hukuk-ingilizcesi-yillik",
+      "title": "NEÜ Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "karaman__hukuk-ingilizcesi-donem-1",
+      "title": "KMÜ Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "karaman__hukuk-ingilizcesi-donem-2",
+      "title": "KMÜ Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "karaman__hukuk-ingilizcesi-yillik",
+      "title": "KMÜ Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "usak__hukuk-ingilizcesi-donem-1",
+      "title": "Uşak Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "usak__hukuk-ingilizcesi-donem-2",
+      "title": "Uşak Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "usak__hukuk-ingilizcesi-yillik",
+      "title": "Uşak Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "manisa__hukuk-ingilizcesi-donem-1",
+      "title": "MCBÜ Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "manisa__hukuk-ingilizcesi-donem-2",
+      "title": "MCBÜ Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "manisa__hukuk-ingilizcesi-yillik",
+      "title": "MCBÜ Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "aydin-adu__hukuk-ingilizcesi-donem-1",
+      "title": "ADÜ Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "aydin-adu__hukuk-ingilizcesi-donem-2",
+      "title": "ADÜ Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "aydin-adu__hukuk-ingilizcesi-yillik",
+      "title": "ADÜ Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "tekirdag__hukuk-ingilizcesi-donem-1",
+      "title": "NKÜ Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "tekirdag__hukuk-ingilizcesi-donem-2",
+      "title": "NKÜ Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "tekirdag__hukuk-ingilizcesi-yillik",
+      "title": "NKÜ Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "kirklareli__hukuk-ingilizcesi-donem-1",
+      "title": "Kırklareli Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "kirklareli__hukuk-ingilizcesi-donem-2",
+      "title": "Kırklareli Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "kirklareli__hukuk-ingilizcesi-yillik",
+      "title": "Kırklareli Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "atilim__hukuk-ingilizcesi-donem-1",
+      "title": "Atılım Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "atilim__hukuk-ingilizcesi-donem-2",
+      "title": "Atılım Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "atilim__hukuk-ingilizcesi-yillik",
+      "title": "Atılım Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "cankaya__hukuk-ingilizcesi-donem-1",
+      "title": "Çankaya Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "cankaya__hukuk-ingilizcesi-donem-2",
+      "title": "Çankaya Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "cankaya__hukuk-ingilizcesi-yillik",
+      "title": "Çankaya Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "ufuk__hukuk-ingilizcesi-donem-1",
+      "title": "Ufuk Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "ufuk__hukuk-ingilizcesi-donem-2",
+      "title": "Ufuk Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "ufuk__hukuk-ingilizcesi-yillik",
+      "title": "Ufuk Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "yasar__hukuk-ingilizcesi-donem-1",
+      "title": "Yaşar Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "yasar__hukuk-ingilizcesi-donem-2",
+      "title": "Yaşar Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "yasar__hukuk-ingilizcesi-yillik",
+      "title": "Yaşar Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "izmir-ekonomi__hukuk-ingilizcesi-donem-1",
+      "title": "İEÜ Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "izmir-ekonomi__hukuk-ingilizcesi-donem-2",
+      "title": "İEÜ Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "izmir-ekonomi__hukuk-ingilizcesi-yillik",
+      "title": "İEÜ Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "tinaztepe__hukuk-ingilizcesi-donem-1",
+      "title": "Tınaztepe Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "tinaztepe__hukuk-ingilizcesi-donem-2",
+      "title": "Tınaztepe Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "tinaztepe__hukuk-ingilizcesi-yillik",
+      "title": "Tınaztepe Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "asbu-vakif__hukuk-ingilizcesi-donem-1",
+      "title": "ABÜ Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "asbu-vakif__hukuk-ingilizcesi-donem-2",
+      "title": "ABÜ Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "asbu-vakif__hukuk-ingilizcesi-yillik",
+      "title": "ABÜ Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "hasan-kalyoncu__hukuk-ingilizcesi-donem-1",
+      "title": "HKÜ Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "hasan-kalyoncu__hukuk-ingilizcesi-donem-2",
+      "title": "HKÜ Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "hasan-kalyoncu__hukuk-ingilizcesi-yillik",
+      "title": "HKÜ Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "sanko__hukuk-ingilizcesi-donem-1",
+      "title": "Sanko Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "sanko__hukuk-ingilizcesi-donem-2",
+      "title": "Sanko Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "sanko__hukuk-ingilizcesi-yillik",
+      "title": "Sanko Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "toros__hukuk-ingilizcesi-donem-1",
+      "title": "Toros Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "toros__hukuk-ingilizcesi-donem-2",
+      "title": "Toros Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "toros__hukuk-ingilizcesi-yillik",
+      "title": "Toros Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "hukuk-ingilizcesi-donem-1",
+      "slug": "cag__hukuk-ingilizcesi-donem-1",
+      "title": "Çağ Hukuk İngilizcesi 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/hukuk-ingilizcesi-donem-1",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "hukuk-ingilizcesi-donem-2",
+      "slug": "cag__hukuk-ingilizcesi-donem-2",
+      "title": "Çağ Hukuk İngilizcesi 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/hukuk-ingilizcesi-donem-2",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "hukuk-ingilizcesi-yillik",
+      "slug": "cag__hukuk-ingilizcesi-yillik",
+      "title": "Çağ Hukuk İngilizcesi Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/hukuk-ingilizcesi-yillik",
+      "variantOf": "hukuk-ingilizcesi",
+      "variantLabel": "Yıllık (Tam paket)"
     }
   ],
   "borclarGenelTripleAt": "2026-07-29T20:05:58.703Z",
@@ -85946,5 +89186,6 @@
   "cmkTripleAt": "2026-07-29T20:58:27.953Z",
   "idareHukukuTripleAt": "2026-07-29T21:01:24.134Z",
   "idariYargilamaTripleAt": "2026-07-29T21:04:37.496Z",
-  "hukukFelsefesiTripleAt": "2026-07-29T21:08:50.747Z"
+  "hukukFelsefesiTripleAt": "2026-07-29T21:08:50.747Z",
+  "hukukIngilizcesiTripleAt": "2026-07-29T21:12:01.835Z"
 }

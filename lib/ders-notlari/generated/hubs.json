@@ -672,6 +672,30 @@
         "href": "/ders-notlari/ankara-yildirim-beyazit/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -1367,6 +1391,30 @@
         "href": "/ders-notlari/ankara/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/ankara/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/ankara/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/ankara/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -2063,6 +2111,30 @@
         "href": "/ders-notlari/istanbul/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/istanbul/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/istanbul/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/istanbul/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -2757,6 +2829,30 @@
         "href": "/ders-notlari/marmara/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/marmara/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/marmara/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/marmara/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -3453,6 +3549,30 @@
         "href": "/ders-notlari/galatasaray/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/galatasaray/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/galatasaray/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/galatasaray/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -4148,6 +4268,30 @@
         "href": "/ders-notlari/dokuz-eylul/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/dokuz-eylul/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/dokuz-eylul/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/dokuz-eylul/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -4842,6 +4986,30 @@
         "href": "/ders-notlari/hacettepe/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/hacettepe/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/hacettepe/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/hacettepe/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -5537,6 +5705,30 @@
         "href": "/ders-notlari/ankara-hacibayram/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/ankara-hacibayram/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/ankara-hacibayram/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/ankara-hacibayram/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -6231,6 +6423,30 @@
         "href": "/ders-notlari/bilkent/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/bilkent/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/bilkent/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/bilkent/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -6926,6 +7142,30 @@
         "href": "/ders-notlari/koc/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/koc/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/koc/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/koc/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -7621,6 +7861,30 @@
         "href": "/ders-notlari/tobb-etu/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/tobb-etu/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/tobb-etu/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/tobb-etu/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -8315,6 +8579,30 @@
         "href": "/ders-notlari/bogazici/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/bogazici/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/bogazici/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/bogazici/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -9009,6 +9297,30 @@
         "href": "/ders-notlari/ege/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/ege/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/ege/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/ege/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -9703,6 +10015,30 @@
         "href": "/ders-notlari/akdeniz/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/akdeniz/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/akdeniz/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/akdeniz/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -10397,6 +10733,30 @@
         "href": "/ders-notlari/selcuk/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/selcuk/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/selcuk/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/selcuk/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -11091,6 +11451,30 @@
         "href": "/ders-notlari/erciyes/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/erciyes/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/erciyes/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/erciyes/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -11786,6 +12170,30 @@
         "href": "/ders-notlari/uludag/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/uludag/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/uludag/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/uludag/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -12480,6 +12888,30 @@
         "href": "/ders-notlari/cukurova/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/cukurova/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/cukurova/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/cukurova/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -13174,6 +13606,30 @@
         "href": "/ders-notlari/anadolu/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/anadolu/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/anadolu/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/anadolu/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -13869,6 +14325,30 @@
         "href": "/ders-notlari/gazi-ankara/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/gazi-ankara/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/gazi-ankara/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/gazi-ankara/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -14564,6 +15044,30 @@
         "href": "/ders-notlari/yildiz-teknik/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/yildiz-teknik/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/yildiz-teknik/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/yildiz-teknik/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -15258,6 +15762,30 @@
         "href": "/ders-notlari/istanbul-medeniyet/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/istanbul-medeniyet/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/istanbul-medeniyet/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/istanbul-medeniyet/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -15953,6 +16481,30 @@
         "href": "/ders-notlari/bahcesehir/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/bahcesehir/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/bahcesehir/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/bahcesehir/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -16647,6 +17199,30 @@
         "href": "/ders-notlari/yeditepe/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/yeditepe/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/yeditepe/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/yeditepe/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -17341,6 +17917,30 @@
         "href": "/ders-notlari/ozyegin/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/ozyegin/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/ozyegin/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/ozyegin/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -18035,6 +18635,30 @@
         "href": "/ders-notlari/kadir-has/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/kadir-has/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/kadir-has/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/kadir-has/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -18729,6 +19353,30 @@
         "href": "/ders-notlari/istanbul-bilgi/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/istanbul-bilgi/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/istanbul-bilgi/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/istanbul-bilgi/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -19423,6 +20071,30 @@
         "href": "/ders-notlari/mehmet-akif/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/mehmet-akif/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/mehmet-akif/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/mehmet-akif/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -20117,6 +20789,30 @@
         "href": "/ders-notlari/altinbas/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/altinbas/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/altinbas/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/altinbas/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -20811,6 +21507,30 @@
         "href": "/ders-notlari/maltepe/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/maltepe/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/maltepe/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/maltepe/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -21505,6 +22225,30 @@
         "href": "/ders-notlari/dogus/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/dogus/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/dogus/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/dogus/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -22199,6 +22943,30 @@
         "href": "/ders-notlari/isik/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/isik/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/isik/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/isik/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -22893,6 +23661,30 @@
         "href": "/ders-notlari/okan/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/okan/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/okan/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/okan/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -23587,6 +24379,30 @@
         "href": "/ders-notlari/kultur/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/kultur/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/kultur/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/kultur/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -24281,6 +25097,30 @@
         "href": "/ders-notlari/aydin/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/aydin/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/aydin/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/aydin/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -24975,6 +25815,30 @@
         "href": "/ders-notlari/gelisim/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/gelisim/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/gelisim/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/gelisim/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -25669,6 +26533,30 @@
         "href": "/ders-notlari/topkapi/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/topkapi/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/topkapi/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/topkapi/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -26363,6 +27251,30 @@
         "href": "/ders-notlari/nisantasi/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/nisantasi/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/nisantasi/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/nisantasi/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -27057,6 +27969,30 @@
         "href": "/ders-notlari/beykent/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/beykent/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/beykent/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/beykent/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -27751,6 +28687,30 @@
         "href": "/ders-notlari/halic/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/halic/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/halic/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/halic/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -28445,6 +29405,30 @@
         "href": "/ders-notlari/fatih-sultan/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/fatih-sultan/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/fatih-sultan/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/fatih-sultan/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -29140,6 +30124,30 @@
         "href": "/ders-notlari/karadeniz-teknik/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/karadeniz-teknik/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/karadeniz-teknik/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/karadeniz-teknik/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -29835,6 +30843,30 @@
         "href": "/ders-notlari/ataturk/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/ataturk/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/ataturk/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/ataturk/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -30529,6 +31561,30 @@
         "href": "/ders-notlari/inonu/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/inonu/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/inonu/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/inonu/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -31223,6 +32279,30 @@
         "href": "/ders-notlari/dicle/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/dicle/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/dicle/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/dicle/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -31917,6 +32997,30 @@
         "href": "/ders-notlari/firat/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/firat/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/firat/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/firat/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -32611,6 +33715,30 @@
         "href": "/ders-notlari/gaziantep/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/gaziantep/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/gaziantep/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/gaziantep/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -33306,6 +34434,30 @@
         "href": "/ders-notlari/suleyman-demirel/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/suleyman-demirel/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/suleyman-demirel/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/suleyman-demirel/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -34000,6 +35152,30 @@
         "href": "/ders-notlari/pamukkale/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/pamukkale/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/pamukkale/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/pamukkale/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -34694,6 +35870,30 @@
         "href": "/ders-notlari/mugla/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/mugla/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/mugla/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/mugla/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -35388,6 +36588,30 @@
         "href": "/ders-notlari/sakarya/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/sakarya/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/sakarya/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/sakarya/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -36082,6 +37306,30 @@
         "href": "/ders-notlari/kocaeli/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/kocaeli/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/kocaeli/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/kocaeli/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -36776,6 +38024,30 @@
         "href": "/ders-notlari/trakya/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/trakya/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/trakya/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/trakya/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -37470,6 +38742,30 @@
         "href": "/ders-notlari/canakkale/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/canakkale/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/canakkale/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/canakkale/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -38164,6 +39460,30 @@
         "href": "/ders-notlari/balikesir/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/balikesir/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/balikesir/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/balikesir/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -38859,6 +40179,30 @@
         "href": "/ders-notlari/afyon/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/afyon/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/afyon/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/afyon/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -39553,6 +40897,30 @@
         "href": "/ders-notlari/dumlupinar/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/dumlupinar/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/dumlupinar/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/dumlupinar/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -40247,6 +41615,30 @@
         "href": "/ders-notlari/eskisehir-osmangazi/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/eskisehir-osmangazi/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/eskisehir-osmangazi/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/eskisehir-osmangazi/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -40942,6 +42334,30 @@
         "href": "/ders-notlari/sivas-cumhuriyet/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/sivas-cumhuriyet/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/sivas-cumhuriyet/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/sivas-cumhuriyet/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -41636,6 +43052,30 @@
         "href": "/ders-notlari/tokat/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/tokat/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/tokat/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/tokat/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -42330,6 +43770,30 @@
         "href": "/ders-notlari/yozgat/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/yozgat/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/yozgat/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/yozgat/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -43024,6 +44488,30 @@
         "href": "/ders-notlari/kirsehir/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/kirsehir/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/kirsehir/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/kirsehir/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -43718,6 +45206,30 @@
         "href": "/ders-notlari/nevsehir/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/nevsehir/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/nevsehir/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/nevsehir/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -44412,6 +45924,30 @@
         "href": "/ders-notlari/mersin/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/mersin/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/mersin/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/mersin/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -45107,6 +46643,30 @@
         "href": "/ders-notlari/hatay/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/hatay/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/hatay/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/hatay/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -45801,6 +47361,30 @@
         "href": "/ders-notlari/kahramanmaras/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/kahramanmaras/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/kahramanmaras/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/kahramanmaras/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -46495,6 +48079,30 @@
         "href": "/ders-notlari/osmaniye/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/osmaniye/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/osmaniye/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/osmaniye/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -47190,6 +48798,30 @@
         "href": "/ders-notlari/samsun/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/samsun/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/samsun/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/samsun/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -47884,6 +49516,30 @@
         "href": "/ders-notlari/ordu/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/ordu/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/ordu/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/ordu/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -48578,6 +50234,30 @@
         "href": "/ders-notlari/giresun/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/giresun/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/giresun/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/giresun/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -49273,6 +50953,30 @@
         "href": "/ders-notlari/rize/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/rize/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/rize/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/rize/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -49967,6 +51671,30 @@
         "href": "/ders-notlari/artvin/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/artvin/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/artvin/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/artvin/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -50663,6 +52391,30 @@
         "href": "/ders-notlari/van-yyu/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/van-yyu/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/van-yyu/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/van-yyu/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -51357,6 +53109,30 @@
         "href": "/ders-notlari/agri/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/agri/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/agri/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/agri/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -52051,6 +53827,30 @@
         "href": "/ders-notlari/kars/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/kars/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/kars/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/kars/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -52745,6 +54545,30 @@
         "href": "/ders-notlari/erzincan/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/erzincan/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/erzincan/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/erzincan/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -53439,6 +55263,30 @@
         "href": "/ders-notlari/bayburt/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/bayburt/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/bayburt/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/bayburt/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -54133,6 +55981,30 @@
         "href": "/ders-notlari/gumushane/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/gumushane/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/gumushane/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/gumushane/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -54827,6 +56699,30 @@
         "href": "/ders-notlari/bingol/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/bingol/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/bingol/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/bingol/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -55521,6 +57417,30 @@
         "href": "/ders-notlari/mus/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/mus/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/mus/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/mus/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -56215,6 +58135,30 @@
         "href": "/ders-notlari/hakkari/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/hakkari/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/hakkari/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/hakkari/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -56909,6 +58853,30 @@
         "href": "/ders-notlari/sirnak/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/sirnak/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/sirnak/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/sirnak/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -57604,6 +59572,30 @@
         "href": "/ders-notlari/mardin/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/mardin/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/mardin/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/mardin/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -58298,6 +60290,30 @@
         "href": "/ders-notlari/batman/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/batman/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/batman/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/batman/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -58992,6 +61008,30 @@
         "href": "/ders-notlari/siirt/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/siirt/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/siirt/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/siirt/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -59686,6 +61726,30 @@
         "href": "/ders-notlari/adiyaman/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/adiyaman/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/adiyaman/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/adiyaman/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -60380,6 +62444,30 @@
         "href": "/ders-notlari/kilis/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/kilis/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/kilis/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/kilis/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -61074,6 +63162,30 @@
         "href": "/ders-notlari/igdir/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/igdir/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/igdir/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/igdir/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -61768,6 +63880,30 @@
         "href": "/ders-notlari/ardahan/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/ardahan/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/ardahan/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/ardahan/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -62462,6 +64598,30 @@
         "href": "/ders-notlari/bilecik/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/bilecik/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/bilecik/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/bilecik/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -63157,6 +65317,30 @@
         "href": "/ders-notlari/bolu/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/bolu/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/bolu/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/bolu/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -63851,6 +66035,30 @@
         "href": "/ders-notlari/duzce/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/duzce/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/duzce/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/duzce/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -64545,6 +66753,30 @@
         "href": "/ders-notlari/zonguldak/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/zonguldak/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/zonguldak/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/zonguldak/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -65239,6 +67471,30 @@
         "href": "/ders-notlari/karabuk/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/karabuk/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/karabuk/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/karabuk/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -65933,6 +68189,30 @@
         "href": "/ders-notlari/kastamonu/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/kastamonu/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/kastamonu/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/kastamonu/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -66627,6 +68907,30 @@
         "href": "/ders-notlari/sinop/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/sinop/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/sinop/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/sinop/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -67322,6 +69626,30 @@
         "href": "/ders-notlari/corum/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/corum/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/corum/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/corum/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -68016,6 +70344,30 @@
         "href": "/ders-notlari/amasya/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/amasya/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/amasya/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/amasya/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -68710,6 +71062,30 @@
         "href": "/ders-notlari/cankiri/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/cankiri/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/cankiri/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/cankiri/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -69404,6 +71780,30 @@
         "href": "/ders-notlari/kirikkale/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/kirikkale/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/kirikkale/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/kirikkale/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -70098,6 +72498,30 @@
         "href": "/ders-notlari/aksaray/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/aksaray/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/aksaray/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/aksaray/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -70792,6 +73216,30 @@
         "href": "/ders-notlari/nigde/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/nigde/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/nigde/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/nigde/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -71486,6 +73934,30 @@
         "href": "/ders-notlari/konya-teknik/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/konya-teknik/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/konya-teknik/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/konya-teknik/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -72180,6 +74652,30 @@
         "href": "/ders-notlari/karaman/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/karaman/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/karaman/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/karaman/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -72874,6 +75370,30 @@
         "href": "/ders-notlari/usak/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/usak/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/usak/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/usak/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -73569,6 +76089,30 @@
         "href": "/ders-notlari/manisa/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/manisa/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/manisa/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/manisa/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -74263,6 +76807,30 @@
         "href": "/ders-notlari/aydin-adu/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/aydin-adu/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/aydin-adu/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/aydin-adu/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -74957,6 +77525,30 @@
         "href": "/ders-notlari/tekirdag/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/tekirdag/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/tekirdag/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/tekirdag/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -75651,6 +78243,30 @@
         "href": "/ders-notlari/kirklareli/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/kirklareli/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/kirklareli/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/kirklareli/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -76345,6 +78961,30 @@
         "href": "/ders-notlari/atilim/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/atilim/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/atilim/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/atilim/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -77039,6 +79679,30 @@
         "href": "/ders-notlari/cankaya/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/cankaya/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/cankaya/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/cankaya/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -77733,6 +80397,30 @@
         "href": "/ders-notlari/ufuk/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/ufuk/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/ufuk/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/ufuk/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -78427,6 +81115,30 @@
         "href": "/ders-notlari/yasar/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/yasar/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/yasar/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/yasar/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -79121,6 +81833,30 @@
         "href": "/ders-notlari/izmir-ekonomi/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/izmir-ekonomi/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/izmir-ekonomi/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/izmir-ekonomi/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -79815,6 +82551,30 @@
         "href": "/ders-notlari/tinaztepe/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/tinaztepe/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/tinaztepe/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/tinaztepe/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -80509,6 +83269,30 @@
         "href": "/ders-notlari/asbu-vakif/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/asbu-vakif/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/asbu-vakif/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/asbu-vakif/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -81203,6 +83987,30 @@
         "href": "/ders-notlari/hasan-kalyoncu/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/hasan-kalyoncu/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/hasan-kalyoncu/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/hasan-kalyoncu/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -81897,6 +84705,30 @@
         "href": "/ders-notlari/sanko/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/sanko/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/sanko/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/sanko/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -82591,6 +85423,30 @@
         "href": "/ders-notlari/toros/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/toros/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/toros/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/toros/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [
@@ -83285,6 +86141,30 @@
         "href": "/ders-notlari/cag/hukuk-felsefesi-yillik",
         "ready": true,
         "variantOf": "hukuk-felsefesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-1",
+        "title": "Hukuk İngilizcesi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/cag/hukuk-ingilizcesi-donem-1",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-donem-2",
+        "title": "Hukuk İngilizcesi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/cag/hukuk-ingilizcesi-donem-2",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
+      },
+      {
+        "code": "hukuk-ingilizcesi-yillik",
+        "title": "Hukuk İngilizcesi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/cag/hukuk-ingilizcesi-yillik",
+        "ready": true,
+        "variantOf": "hukuk-ingilizcesi"
       }
     ],
     "seoParagraphs": [

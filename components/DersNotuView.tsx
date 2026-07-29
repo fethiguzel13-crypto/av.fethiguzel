@@ -663,6 +663,18 @@ export function DersNotuView({
               { code: 'hukuk-felsefesi-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
             ],
           },
+          {
+            match:
+              note.variantOf === 'hukuk-ingilizcesi' ||
+              note.courseCode === 'hukuk-ingilizcesi' ||
+              note.courseCode.startsWith('hukuk-ingilizcesi-'),
+            title: 'Hukuk İngilizcesi · üç paket',
+            items: [
+              { code: 'hukuk-ingilizcesi-donem-1', label: '1. Dönem (Güz)', desc: 'Vocab · court · contract' },
+              { code: 'hukuk-ingilizcesi-donem-2', label: '2. Dönem (Bahar)', desc: 'Litigation · letter · judgment' },
+              { code: 'hukuk-ingilizcesi-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
+            ],
+          },
         ];
         const activePacks = packs.filter((p) => p.match);
         if (!activePacks.length) return null;
@@ -1319,6 +1331,23 @@ export function UniHubView({ hub }: { hub: UniHubContent }) {
               { code: 'hukuk-felsefesi-donem-1', title: '1. Dönem (Güz)' },
               { code: 'hukuk-felsefesi-donem-2', title: '2. Dönem (Bahar)' },
               { code: 'hukuk-felsefesi-yillik', title: 'Yıllık tam not' },
+            ],
+          },
+          {
+            show: hub.courses.some(
+              (c) =>
+                String(c.code).startsWith('hukuk-ingilizcesi') ||
+                c.code === 'hukuk-ingilizcesi'
+            ),
+            title: 'Hukuk İngilizcesi — 1. dönem · 2. dönem · yıllık',
+            desc: 'Legal English vocab–contract–litigation–yazışma… üç premium not + PDF.',
+            border: 'border-primary/20 bg-primary/[0.04]',
+            itemBorder: 'border-primary/25',
+            accent: 'text-primary',
+            items: [
+              { code: 'hukuk-ingilizcesi-donem-1', title: '1. Dönem (Güz)' },
+              { code: 'hukuk-ingilizcesi-donem-2', title: '2. Dönem (Bahar)' },
+              { code: 'hukuk-ingilizcesi-yillik', title: 'Yıllık tam not' },
             ],
           },
         ]

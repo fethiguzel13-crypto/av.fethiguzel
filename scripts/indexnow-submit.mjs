@@ -161,6 +161,11 @@ const PRIORITY = [
   `https://${HOST}/ders-notlari/ankara-yildirim-beyazit/hukuk-felsefesi-yillik`,
   `https://${HOST}/ders-notlari/ankara-yildirim-beyazit/hukuk-felsefesi-donem-1/pdf`,
   `https://${HOST}/ders-notlari/marmara/hukuk-felsefesi-yillik`,
+  `https://${HOST}/ders-notlari/ankara-yildirim-beyazit/hukuk-ingilizcesi-donem-1`,
+  `https://${HOST}/ders-notlari/ankara-yildirim-beyazit/hukuk-ingilizcesi-donem-2`,
+  `https://${HOST}/ders-notlari/ankara-yildirim-beyazit/hukuk-ingilizcesi-yillik`,
+  `https://${HOST}/ders-notlari/ankara-yildirim-beyazit/hukuk-ingilizcesi-donem-1/pdf`,
+  `https://${HOST}/ders-notlari/marmara/hukuk-ingilizcesi-yillik`,
 ];
 
 // First 80 TBK maddeleri — crawl seed

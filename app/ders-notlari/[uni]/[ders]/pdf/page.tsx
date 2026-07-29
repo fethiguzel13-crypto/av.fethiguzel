@@ -123,6 +123,9 @@ export default async function DersNotuPdfPage({ params }: Props) {
               'hukuk-felsefesi-donem-1',
               'hukuk-felsefesi-donem-2',
               'hukuk-felsefesi-yillik',
+              'hukuk-ingilizcesi-donem-1',
+              'hukuk-ingilizcesi-donem-2',
+              'hukuk-ingilizcesi-yillik',
             ].map((code) => (
               <a
                 key={code}

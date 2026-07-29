@@ -9,6 +9,7 @@ export const CURRICULUM: CurriculumCourse[] = [
   { code: 'medeni-baslangic', title: 'Medeni Hukuka Giriş ve Başlangıç Hükümleri', year: 1, semester: 'bahar', area: 'ozel', keywords: ['medeni hukuk', 'TMK başlangıç', 'kişiler hukuku giriş'], core: true },
   { code: 'anayasa-2', title: 'Anayasa Hukuku II (Türk Anayasa Düzeni)', year: 1, semester: 'bahar', area: 'kamu', keywords: ['anayasa organları', 'yasama yürütme yargı'], core: true },
   { code: 'hukuk-felsefesi', title: 'Hukuk Felsefesi ve Sosyolojisi', year: 1, semester: 'bahar', area: 'genel', keywords: ['hukuk felsefesi', 'hukuk sosyolojisi'], core: true },
+  { code: 'hukuk-ingilizcesi', title: 'Hukuk İngilizcesi / Legal English', year: 1, semester: 'guz', area: 'genel', keywords: ['hukuk ingilizcesi', 'legal english', 'hukuki terminoloji'], core: true },
 
   // 2. sınıf
   { code: 'borclar-genel', title: 'Borçlar Hukuku Genel Hükümler', year: 2, semester: 'guz', area: 'ozel', keywords: ['borçlar hukuku', 'TBK genel', 'sözleşme'], core: true },
