@@ -411,6 +411,18 @@ export function DersNotuView({
               { code: 'tmk-1-kitap-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
             ],
           },
+          {
+            match:
+              note.variantOf === 'tmk-2-kitap' ||
+              note.courseCode === 'aile-hukuku' ||
+              note.courseCode.startsWith('tmk-2-kitap-'),
+            title: 'TMK 2. Kitap · üç paket',
+            items: [
+              { code: 'tmk-2-kitap-donem-1', label: '1. Dönem (Güz)', desc: 'Nişan · evlenme · boşanma' },
+              { code: 'tmk-2-kitap-donem-2', label: '2. Dönem (Bahar)', desc: 'Mal · velayet · nafaka' },
+              { code: 'tmk-2-kitap-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
+            ],
+          },
         ];
         const activePacks = packs.filter((p) => p.match);
         if (!activePacks.length) return null;
@@ -831,6 +843,23 @@ export function UniHubView({ hub }: { hub: UniHubContent }) {
               { code: 'tmk-1-kitap-donem-1', title: '1. Dönem (Güz)' },
               { code: 'tmk-1-kitap-donem-2', title: '2. Dönem (Bahar)' },
               { code: 'tmk-1-kitap-yillik', title: 'Yıllık tam not' },
+            ],
+          },
+          {
+            show: hub.courses.some(
+              (c) =>
+                String(c.code).startsWith('tmk-2-kitap') ||
+                c.code === 'aile-hukuku'
+            ),
+            title: 'TMK 2. Kitap — 1. dönem · 2. dönem · yıllık',
+            desc: 'Nişan–boşanma–mal rejimi–velayet–nafaka… üç premium not + PDF.',
+            border: 'border-primary/20 bg-primary/[0.04]',
+            itemBorder: 'border-primary/25',
+            accent: 'text-primary',
+            items: [
+              { code: 'tmk-2-kitap-donem-1', title: '1. Dönem (Güz)' },
+              { code: 'tmk-2-kitap-donem-2', title: '2. Dönem (Bahar)' },
+              { code: 'tmk-2-kitap-yillik', title: 'Yıllık tam not' },
             ],
           },
         ]

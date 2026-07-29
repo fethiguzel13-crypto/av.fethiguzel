@@ -91,6 +91,11 @@ const PRIORITY = [
   `https://${HOST}/ders-notlari/ankara-yildirim-beyazit/tmk-1-kitap-yillik`,
   `https://${HOST}/ders-notlari/ankara-yildirim-beyazit/tmk-1-kitap-donem-1/pdf`,
   `https://${HOST}/ders-notlari/marmara/tmk-1-kitap-yillik`,
+  `https://${HOST}/ders-notlari/ankara-yildirim-beyazit/tmk-2-kitap-donem-1`,
+  `https://${HOST}/ders-notlari/ankara-yildirim-beyazit/tmk-2-kitap-donem-2`,
+  `https://${HOST}/ders-notlari/ankara-yildirim-beyazit/tmk-2-kitap-yillik`,
+  `https://${HOST}/ders-notlari/ankara-yildirim-beyazit/tmk-2-kitap-donem-1/pdf`,
+  `https://${HOST}/ders-notlari/marmara/tmk-2-kitap-yillik`,
 ];
 
 // First 80 TBK maddeleri — crawl seed
