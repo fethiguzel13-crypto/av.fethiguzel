@@ -1,10 +1,7 @@
 /**
- * Hukuk fakültesi ders notları üretici.
+ * Hukuk fakültesi ders notları üretici (premium / ders bazlı bankalar).
  *
- * Dalga 1: tüm aktif fakülte hub’ları + öncelik-1 fakültelerde çekirdek ders notları
- * (kalite eşiği: derin gövde; şablon spam yok).
- *
- * Run: node scripts/generate-ders-notlari.mjs
+ * Run: node scripts/generate-ders-notlari.mjs --wave=all
  *      node scripts/generate-ders-notlari.mjs --wave=1
  *      node scripts/generate-ders-notlari.mjs --wave=hubs-only
  */

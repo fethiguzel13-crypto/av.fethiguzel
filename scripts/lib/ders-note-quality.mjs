@@ -1,6 +1,7 @@
 /**
  * Premium ders notu içerik motoru — anlaşılır metin + zengin diyagram verisi.
  */
+import { CORE_COURSE_BANKS } from './ders-note-banks-all-core.mjs';
 
 function hash(str) {
   let h = 2166136261;
@@ -11,8 +12,8 @@ function hash(str) {
   return h >>> 0;
 }
 
-/** Ders bazlı akademik omurga — tanım, tuzak, örnek */
-const COURSE_BANK = {
+/** Ders bazlı akademik omurga — önce özel bankalar, sonra çekirdek 28, en sonda default */
+const COURSE_BANK_BASE = {
   'borclar-genel': {
     codeHint: 'TBK m.1–206',
     oneLiner:
@@ -565,9 +566,14 @@ const COURSE_BANK = {
       ],
     },
   },
+
 };
 
+// Özel derin bankalar (bu dosyadaki) CORE üzerine yazar
+const COURSE_BANK = { ...CORE_COURSE_BANKS, ...COURSE_BANK_BASE };
+
 // Alan bazlı ek tuzaklar
+
 const AREA_EXTRA = {
   ozel: 'Özel hukukta irade, şekil ve ispat üçlüsünü her soruda kontrol edin.',
   kamu: 'Kamu hukukunda yetki – şekil – sebep – konu – amaç (idari işlem) veya suç teorisi kutularını karıştırmayın.',
@@ -657,6 +663,19 @@ export function buildPremiumNote(uni, course, coreCourses) {
       ],
       hapBilgi: 'Subsumption = olgu → unsur eşlemesi. Bu cümleyi kâğıda fiilen yazın.',
     },
+    ...(bank.keyMadde
+      ? [
+          {
+            heading: '4b. Pusula maddeler / dayanaklar (ezber listesi değil)',
+            paragraphs: [
+              `Bu dersin sık dayanakları aşağıdadır. Ezber listesi gibi yığmayın; her birini “hangi soru tipinde devreye girer?” diye işaretleyin. Güncel metin için mevzuat bankasına bakın.`,
+            ],
+            bullets: bank.keyMadde.map((m, i) => `${i + 1}) ${m}`),
+            hapBilgi: 'Madde numarası + unsur iskeleti birlikte puan getirir.',
+            uyari: 'Salt madde ezberi, olaya uygulamadan düşük kalır.',
+          },
+        ]
+      : []),
     {
       heading: '5. Sınav tuzağı defteri',
       paragraphs: [
