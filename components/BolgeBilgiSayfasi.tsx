@@ -6,6 +6,7 @@ import { BookOpen, Scale, ArrowRight, MapPin, Info } from 'lucide-react';
 import { SITE_URL, PROFILE } from '@/lib/profile';
 import type { BolgeBilgi } from '@/lib/bolge-bilgi';
 import { BOLGE_BILGILERI } from '@/lib/bolge-bilgi';
+import { BOLGE_MAKALELER } from '@/lib/bolge-makaleler';
 
 export default function BolgeBilgiSayfasi({ veri }: { veri: BolgeBilgi }) {
   const pageUrl = `${SITE_URL}/${veri.slug}`;
@@ -206,6 +207,44 @@ export default function BolgeBilgiSayfasi({ veri }: { veri: BolgeBilgi }) {
             Ofis adresi profil sayfasındadır. Bu sayfa konum bazlı reklam değildir.
           </p>
         </section>
+
+        {(() => {
+          const makaleler = BOLGE_MAKALELER.filter(
+            (m) =>
+              m.yerlesim === veri.yerlesim ||
+              m.bolgeHref === `/${veri.slug}` ||
+              m.il === veri.il
+          ).slice(0, 6);
+          if (!makaleler.length) return null;
+          return (
+            <section className="mb-12">
+              <h2 className="text-lg font-heading font-bold text-charcoal mb-3">
+                {veri.yerlesim} ve çevresi — hukuki makaleler
+              </h2>
+              <p className="text-sm text-charcoal/50 mb-4">
+                Tarihi gelişmeler, nüfus ve taşınmaz olayları — grafik destekli bilgilendirme yazıları.
+              </p>
+              <ul className="space-y-2">
+                {makaleler.map((m) => (
+                  <li key={m.slug}>
+                    <Link
+                      href={`/bolge-yazi/${m.slug}`}
+                      className="text-sm font-semibold text-accent hover:underline"
+                    >
+                      {m.h1}
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+              <Link
+                href="/bolge-yazi"
+                className="inline-block mt-4 text-xs font-bold text-charcoal/50 hover:text-accent"
+              >
+                Tüm bölge yazıları →
+              </Link>
+            </section>
+          );
+        })()}
 
         {other.length > 0 && (
           <section>

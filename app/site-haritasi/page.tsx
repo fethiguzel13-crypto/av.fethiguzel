@@ -28,6 +28,7 @@ const CORE = [
     { href: '/kavram', ad: 'Hukuki kavramlar' },
     { href: '/bilgi', ad: 'Vatandaş bilgi rehberi' },
     { href: '/ders-notlari', ad: 'Hukuk fakültesi ders notları' },
+    { href: '/bolge-yazi', ad: 'Bölgesel hukuki makaleler' },
     { href: '/makaleler', ad: 'Makaleler' },
     { href: '/eserlerim', ad: 'Eserler / kitap' },
     { href: '/e-durusma', ad: 'e-Duruşma hub' },

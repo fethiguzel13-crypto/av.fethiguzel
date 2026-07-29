@@ -1,4 +1,4 @@
-﻿﻿# Av. Fethi Güzel Hukuk Portalı
+﻿﻿﻿﻿# Av. Fethi Güzel Hukuk Portalı
 
 > Türkiye merkezli, açık erişimli dijital hukuk kütüphanesi ve avukatlık bilgilendirme sitesi.
 > Kanun maddeleri, akademik şerhler, günlük içtihat, hukuki hesaplama araçları.
@@ -46,6 +46,8 @@ X / Twitter: https://x.com/avfethiguzel (@avfethiguzel)
 - Örnek ana rehberler: /bilgi/kidem-tazminati-nasil-alinir · /bilgi/icra-takibi-nedir · /bilgi/trafik-cezasina-itiraz · /bilgi/bosanma-davasi-nasil-acilir · /bilgi/kanun-maddesi-nasil-okunur
 - Hukuk ders notları (ücretsiz, ana sayfada değil): https://avfethiguzel.com/ders-notlari
 - Örnek ders hub: /ders-notlari/ankara-yildirim-beyazit · /ders-notlari/marmara · /ders-notlari/van-yyu
+- Bölgesel hukuki makaleler (tarih, nüfus, taşınmaz; grafikli): https://avfethiguzel.com/bolge-yazi
+- Örnek: /bolge-yazi/van-golu-havzasi-tasinmaz-ve-miras-hukuku · /bolge-yazi/ahlat-vakif-miras-ve-tarihi-tasinmazlar · /bolge-yazi/caldiran-tarimsal-tasinmaz-kadastro-ve-nufus
 - Hesaplama hub: https://avfethiguzel.com/hesaplama
 - Örnek araçlar: /hesaplama/kidem · /hesaplama/miras · /hesaplama/faiz · /hesaplama/vekalet
 - Tarife güncellemeleri: https://avfethiguzel.com/tarife-guncellemeleri

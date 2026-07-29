@@ -52,6 +52,19 @@ const PRIORITY = [
   `https://${HOST}/hizmet-bolgeleri`,
   `https://${HOST}/site-haritasi`,
   `https://${HOST}/ders-notlari-sitemap.xml`,
+  `https://${HOST}/bolge-yazi`,
+  `https://${HOST}/bolge-yazi/van-golu-havzasi-tasinmaz-ve-miras-hukuku`,
+  `https://${HOST}/bolge-yazi/van-2011-depremi-sozlesme-ve-konut-hukuku`,
+  `https://${HOST}/bolge-yazi/ahlat-vakif-miras-ve-tarihi-tasinmazlar`,
+  `https://${HOST}/bolge-yazi/caldiran-tarimsal-tasinmaz-kadastro-ve-nufus`,
+  `https://${HOST}/bolge-yazi/bitlis-miras-paydasligi-ve-daglik-tasinmaz`,
+  `https://${HOST}/bolge-yazi/tatvan-ticaret-kira-ve-ulastirma-hukuku`,
+  `https://${HOST}/bolge-yazi/adilcevaz-gol-kiyisi-mulkiyet-ve-miras`,
+  `https://${HOST}/bolge-yazi/agri-sinir-bolgesi-tasinmaz-miras-ve-idare`,
+  `https://${HOST}/bolge-yazi/patnos-icra-tarimsal-alacak-ve-nufus`,
+  `https://${HOST}/bolge-yazi/muradiye-aile-miras-ve-nufus-olaylari`,
+  `https://${HOST}/bolge-yazi/ercis-nufus-veraset-tapu-intikali`,
+  `https://${HOST}/bolge-yazi/dogu-anadolu-el-birligi-mulkiyet-ve-miras-pratikleri`,
 ];
 
 // First 80 TBK maddeleri — crawl seed

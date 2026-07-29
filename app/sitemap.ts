@@ -39,6 +39,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     { url: `${baseUrl}/ar`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.7 },
     { url: `${baseUrl}/hizmet-bolgeleri`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.5 },
     { url: `${baseUrl}/ders-notlari`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.88 },
+    { url: `${baseUrl}/bolge-yazi`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.86 },
     { url: `${baseUrl}/hizmetler`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.85 },
     { url: `${baseUrl}/rehber`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.8 },
     { url: `${baseUrl}/rehber/miras-paylasimi`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.75 },
@@ -184,12 +185,21 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
       });
   }
 
+  const { getAllBolgeMakaleSlugs } = await import('@/lib/bolge-makaleler');
+  const bolgeYaziRoutes: MetadataRoute.Sitemap = getAllBolgeMakaleSlugs().map((slug) => ({
+    url: `${baseUrl}/bolge-yazi/${slug}`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly' as const,
+    priority: 0.78,
+  }));
+
   // High-value first for crawlers that read only the start of large sitemaps
   return [
     ...staticRoutes,
     ...kanunHubs,
     ...bilgiRoutes,
     ...bilgiKategoriRoutes,
+    ...bolgeYaziRoutes,
     ...hesaplamaRoutes,
     ...kavramRoutes,
     ...ilceRoutes,

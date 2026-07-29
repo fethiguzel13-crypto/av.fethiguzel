@@ -44,7 +44,28 @@ const pages = [
     { type: 'sayfa', title: 'Mevzuat yer imi aracı', href: '/bookmarklet', keywords: 'bookmarklet arama eklenti' },
     { type: 'sayfa', title: 'Vatandaş bilgi rehberi', href: '/bilgi', keywords: 'vatandaş rehber emlak kıdem icra boşanma' },
     { type: 'sayfa', title: 'Hukuk fakültesi ders notları', href: '/ders-notlari', keywords: 'hukuk ders notu ücretsiz pdf fakülte' },
+    { type: 'sayfa', title: 'Bölgesel hukuki makaleler', href: '/bolge-yazi', keywords: 'van bitlis ağrı tatvan ahlat miras tapu nüfus makale' },
 ];
+
+// Bölge makaleleri
+try {
+  const makaleSrc = readFileSync(join(root, 'lib/bolge-makaleler/data.ts'), 'utf8');
+  const start = makaleSrc.indexOf('export const BOLGE_MAKALELER');
+  const chunk = start >= 0 ? makaleSrc.slice(start) : makaleSrc;
+  const mSlugs = [...chunk.matchAll(/slug:\s*'([^']+)'/g)].map((m) => m[1]);
+  const mH1s = [...chunk.matchAll(/h1:\s*'((?:\\'|[^'])*)'/g)].map((m) => m[1].replace(/\\'/g, "'"));
+  const n = Math.min(mSlugs.length, mH1s.length);
+  for (let i = 0; i < n; i++) {
+    pages.push({
+      type: 'bolge-yazi',
+      title: mH1s[i],
+      href: `/bolge-yazi/${mSlugs[i]}`,
+      keywords: `${mSlugs[i].replace(/-/g, ' ')} hukuki makale bilgilendirme`,
+    });
+  }
+} catch (e) {
+  console.warn('bolge-makale index skip', e.message);
+}
 
 // Bölgesel bilgilendirme
 try {
