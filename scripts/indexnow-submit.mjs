@@ -191,6 +191,11 @@ const PRIORITY = [
   `https://${HOST}/ders-notlari/ankara-yildirim-beyazit/devletler-ozel-yillik`,
   `https://${HOST}/ders-notlari/ankara-yildirim-beyazit/devletler-ozel-donem-1/pdf`,
   `https://${HOST}/ders-notlari/marmara/devletler-ozel-yillik`,
+  `https://${HOST}/ders-notlari/ankara-yildirim-beyazit/hukuka-giris-donem-1`,
+  `https://${HOST}/ders-notlari/ankara-yildirim-beyazit/hukuka-giris-donem-2`,
+  `https://${HOST}/ders-notlari/ankara-yildirim-beyazit/hukuka-giris-yillik`,
+  `https://${HOST}/ders-notlari/ankara-yildirim-beyazit/hukuka-giris-donem-1/pdf`,
+  `https://${HOST}/ders-notlari/marmara/hukuka-giris-yillik`,
 ];
 
 // First 80 TBK maddeleri — crawl seed

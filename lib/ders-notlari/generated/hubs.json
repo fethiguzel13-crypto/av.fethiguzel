@@ -816,6 +816,30 @@
         "href": "/ders-notlari/ankara-yildirim-beyazit/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -1655,6 +1679,30 @@
         "href": "/ders-notlari/ankara/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/ankara/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/ankara/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/ankara/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -2495,6 +2543,30 @@
         "href": "/ders-notlari/istanbul/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/istanbul/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/istanbul/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/istanbul/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -3333,6 +3405,30 @@
         "href": "/ders-notlari/marmara/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/marmara/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/marmara/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/marmara/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -4173,6 +4269,30 @@
         "href": "/ders-notlari/galatasaray/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/galatasaray/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/galatasaray/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/galatasaray/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -5012,6 +5132,30 @@
         "href": "/ders-notlari/dokuz-eylul/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/dokuz-eylul/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/dokuz-eylul/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/dokuz-eylul/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -5850,6 +5994,30 @@
         "href": "/ders-notlari/hacettepe/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/hacettepe/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/hacettepe/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/hacettepe/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -6689,6 +6857,30 @@
         "href": "/ders-notlari/ankara-hacibayram/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/ankara-hacibayram/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/ankara-hacibayram/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/ankara-hacibayram/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -7527,6 +7719,30 @@
         "href": "/ders-notlari/bilkent/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/bilkent/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/bilkent/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/bilkent/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -8366,6 +8582,30 @@
         "href": "/ders-notlari/koc/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/koc/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/koc/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/koc/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -9205,6 +9445,30 @@
         "href": "/ders-notlari/tobb-etu/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/tobb-etu/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/tobb-etu/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/tobb-etu/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -10043,6 +10307,30 @@
         "href": "/ders-notlari/bogazici/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/bogazici/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/bogazici/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/bogazici/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -10881,6 +11169,30 @@
         "href": "/ders-notlari/ege/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/ege/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/ege/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/ege/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -11719,6 +12031,30 @@
         "href": "/ders-notlari/akdeniz/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/akdeniz/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/akdeniz/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/akdeniz/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -12557,6 +12893,30 @@
         "href": "/ders-notlari/selcuk/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/selcuk/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/selcuk/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/selcuk/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -13395,6 +13755,30 @@
         "href": "/ders-notlari/erciyes/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/erciyes/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/erciyes/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/erciyes/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -14234,6 +14618,30 @@
         "href": "/ders-notlari/uludag/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/uludag/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/uludag/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/uludag/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -15072,6 +15480,30 @@
         "href": "/ders-notlari/cukurova/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/cukurova/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/cukurova/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/cukurova/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -15910,6 +16342,30 @@
         "href": "/ders-notlari/anadolu/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/anadolu/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/anadolu/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/anadolu/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -16749,6 +17205,30 @@
         "href": "/ders-notlari/gazi-ankara/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/gazi-ankara/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/gazi-ankara/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/gazi-ankara/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -17588,6 +18068,30 @@
         "href": "/ders-notlari/yildiz-teknik/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/yildiz-teknik/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/yildiz-teknik/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/yildiz-teknik/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -18426,6 +18930,30 @@
         "href": "/ders-notlari/istanbul-medeniyet/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/istanbul-medeniyet/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/istanbul-medeniyet/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/istanbul-medeniyet/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -19265,6 +19793,30 @@
         "href": "/ders-notlari/bahcesehir/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/bahcesehir/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/bahcesehir/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/bahcesehir/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -20103,6 +20655,30 @@
         "href": "/ders-notlari/yeditepe/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/yeditepe/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/yeditepe/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/yeditepe/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -20941,6 +21517,30 @@
         "href": "/ders-notlari/ozyegin/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/ozyegin/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/ozyegin/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/ozyegin/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -21779,6 +22379,30 @@
         "href": "/ders-notlari/kadir-has/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/kadir-has/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/kadir-has/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/kadir-has/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -22617,6 +23241,30 @@
         "href": "/ders-notlari/istanbul-bilgi/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/istanbul-bilgi/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/istanbul-bilgi/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/istanbul-bilgi/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -23455,6 +24103,30 @@
         "href": "/ders-notlari/mehmet-akif/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/mehmet-akif/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/mehmet-akif/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/mehmet-akif/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -24293,6 +24965,30 @@
         "href": "/ders-notlari/altinbas/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/altinbas/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/altinbas/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/altinbas/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -25131,6 +25827,30 @@
         "href": "/ders-notlari/maltepe/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/maltepe/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/maltepe/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/maltepe/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -25969,6 +26689,30 @@
         "href": "/ders-notlari/dogus/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/dogus/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/dogus/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/dogus/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -26807,6 +27551,30 @@
         "href": "/ders-notlari/isik/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/isik/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/isik/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/isik/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -27645,6 +28413,30 @@
         "href": "/ders-notlari/okan/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/okan/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/okan/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/okan/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -28483,6 +29275,30 @@
         "href": "/ders-notlari/kultur/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/kultur/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/kultur/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/kultur/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -29321,6 +30137,30 @@
         "href": "/ders-notlari/aydin/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/aydin/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/aydin/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/aydin/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -30159,6 +30999,30 @@
         "href": "/ders-notlari/gelisim/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/gelisim/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/gelisim/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/gelisim/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -30997,6 +31861,30 @@
         "href": "/ders-notlari/topkapi/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/topkapi/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/topkapi/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/topkapi/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -31835,6 +32723,30 @@
         "href": "/ders-notlari/nisantasi/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/nisantasi/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/nisantasi/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/nisantasi/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -32673,6 +33585,30 @@
         "href": "/ders-notlari/beykent/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/beykent/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/beykent/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/beykent/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -33511,6 +34447,30 @@
         "href": "/ders-notlari/halic/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/halic/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/halic/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/halic/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -34349,6 +35309,30 @@
         "href": "/ders-notlari/fatih-sultan/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/fatih-sultan/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/fatih-sultan/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/fatih-sultan/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -35188,6 +36172,30 @@
         "href": "/ders-notlari/karadeniz-teknik/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/karadeniz-teknik/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/karadeniz-teknik/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/karadeniz-teknik/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -36027,6 +37035,30 @@
         "href": "/ders-notlari/ataturk/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/ataturk/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/ataturk/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/ataturk/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -36865,6 +37897,30 @@
         "href": "/ders-notlari/inonu/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/inonu/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/inonu/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/inonu/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -37703,6 +38759,30 @@
         "href": "/ders-notlari/dicle/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/dicle/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/dicle/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/dicle/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -38541,6 +39621,30 @@
         "href": "/ders-notlari/firat/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/firat/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/firat/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/firat/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -39379,6 +40483,30 @@
         "href": "/ders-notlari/gaziantep/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/gaziantep/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/gaziantep/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/gaziantep/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -40218,6 +41346,30 @@
         "href": "/ders-notlari/suleyman-demirel/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/suleyman-demirel/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/suleyman-demirel/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/suleyman-demirel/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -41056,6 +42208,30 @@
         "href": "/ders-notlari/pamukkale/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/pamukkale/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/pamukkale/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/pamukkale/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -41894,6 +43070,30 @@
         "href": "/ders-notlari/mugla/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/mugla/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/mugla/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/mugla/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -42732,6 +43932,30 @@
         "href": "/ders-notlari/sakarya/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/sakarya/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/sakarya/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/sakarya/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -43570,6 +44794,30 @@
         "href": "/ders-notlari/kocaeli/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/kocaeli/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/kocaeli/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/kocaeli/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -44408,6 +45656,30 @@
         "href": "/ders-notlari/trakya/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/trakya/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/trakya/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/trakya/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -45246,6 +46518,30 @@
         "href": "/ders-notlari/canakkale/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/canakkale/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/canakkale/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/canakkale/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -46084,6 +47380,30 @@
         "href": "/ders-notlari/balikesir/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/balikesir/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/balikesir/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/balikesir/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -46923,6 +48243,30 @@
         "href": "/ders-notlari/afyon/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/afyon/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/afyon/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/afyon/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -47761,6 +49105,30 @@
         "href": "/ders-notlari/dumlupinar/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/dumlupinar/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/dumlupinar/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/dumlupinar/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -48599,6 +49967,30 @@
         "href": "/ders-notlari/eskisehir-osmangazi/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/eskisehir-osmangazi/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/eskisehir-osmangazi/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/eskisehir-osmangazi/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -49438,6 +50830,30 @@
         "href": "/ders-notlari/sivas-cumhuriyet/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/sivas-cumhuriyet/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/sivas-cumhuriyet/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/sivas-cumhuriyet/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -50276,6 +51692,30 @@
         "href": "/ders-notlari/tokat/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/tokat/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/tokat/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/tokat/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -51114,6 +52554,30 @@
         "href": "/ders-notlari/yozgat/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/yozgat/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/yozgat/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/yozgat/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -51952,6 +53416,30 @@
         "href": "/ders-notlari/kirsehir/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/kirsehir/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/kirsehir/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/kirsehir/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -52790,6 +54278,30 @@
         "href": "/ders-notlari/nevsehir/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/nevsehir/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/nevsehir/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/nevsehir/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -53628,6 +55140,30 @@
         "href": "/ders-notlari/mersin/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/mersin/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/mersin/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/mersin/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -54467,6 +56003,30 @@
         "href": "/ders-notlari/hatay/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/hatay/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/hatay/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/hatay/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -55305,6 +56865,30 @@
         "href": "/ders-notlari/kahramanmaras/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/kahramanmaras/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/kahramanmaras/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/kahramanmaras/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -56143,6 +57727,30 @@
         "href": "/ders-notlari/osmaniye/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/osmaniye/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/osmaniye/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/osmaniye/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -56982,6 +58590,30 @@
         "href": "/ders-notlari/samsun/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/samsun/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/samsun/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/samsun/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -57820,6 +59452,30 @@
         "href": "/ders-notlari/ordu/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/ordu/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/ordu/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/ordu/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -58658,6 +60314,30 @@
         "href": "/ders-notlari/giresun/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/giresun/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/giresun/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/giresun/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -59497,6 +61177,30 @@
         "href": "/ders-notlari/rize/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/rize/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/rize/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/rize/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -60335,6 +62039,30 @@
         "href": "/ders-notlari/artvin/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/artvin/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/artvin/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/artvin/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -61175,6 +62903,30 @@
         "href": "/ders-notlari/van-yyu/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/van-yyu/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/van-yyu/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/van-yyu/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -62013,6 +63765,30 @@
         "href": "/ders-notlari/agri/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/agri/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/agri/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/agri/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -62851,6 +64627,30 @@
         "href": "/ders-notlari/kars/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/kars/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/kars/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/kars/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -63689,6 +65489,30 @@
         "href": "/ders-notlari/erzincan/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/erzincan/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/erzincan/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/erzincan/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -64527,6 +66351,30 @@
         "href": "/ders-notlari/bayburt/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/bayburt/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/bayburt/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/bayburt/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -65365,6 +67213,30 @@
         "href": "/ders-notlari/gumushane/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/gumushane/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/gumushane/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/gumushane/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -66203,6 +68075,30 @@
         "href": "/ders-notlari/bingol/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/bingol/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/bingol/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/bingol/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -67041,6 +68937,30 @@
         "href": "/ders-notlari/mus/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/mus/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/mus/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/mus/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -67879,6 +69799,30 @@
         "href": "/ders-notlari/hakkari/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/hakkari/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/hakkari/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/hakkari/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -68717,6 +70661,30 @@
         "href": "/ders-notlari/sirnak/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/sirnak/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/sirnak/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/sirnak/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -69556,6 +71524,30 @@
         "href": "/ders-notlari/mardin/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/mardin/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/mardin/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/mardin/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -70394,6 +72386,30 @@
         "href": "/ders-notlari/batman/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/batman/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/batman/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/batman/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -71232,6 +73248,30 @@
         "href": "/ders-notlari/siirt/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/siirt/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/siirt/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/siirt/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -72070,6 +74110,30 @@
         "href": "/ders-notlari/adiyaman/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/adiyaman/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/adiyaman/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/adiyaman/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -72908,6 +74972,30 @@
         "href": "/ders-notlari/kilis/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/kilis/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/kilis/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/kilis/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -73746,6 +75834,30 @@
         "href": "/ders-notlari/igdir/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/igdir/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/igdir/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/igdir/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -74584,6 +76696,30 @@
         "href": "/ders-notlari/ardahan/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/ardahan/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/ardahan/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/ardahan/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -75422,6 +77558,30 @@
         "href": "/ders-notlari/bilecik/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/bilecik/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/bilecik/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/bilecik/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -76261,6 +78421,30 @@
         "href": "/ders-notlari/bolu/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/bolu/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/bolu/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/bolu/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -77099,6 +79283,30 @@
         "href": "/ders-notlari/duzce/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/duzce/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/duzce/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/duzce/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -77937,6 +80145,30 @@
         "href": "/ders-notlari/zonguldak/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/zonguldak/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/zonguldak/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/zonguldak/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -78775,6 +81007,30 @@
         "href": "/ders-notlari/karabuk/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/karabuk/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/karabuk/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/karabuk/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -79613,6 +81869,30 @@
         "href": "/ders-notlari/kastamonu/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/kastamonu/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/kastamonu/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/kastamonu/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -80451,6 +82731,30 @@
         "href": "/ders-notlari/sinop/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/sinop/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/sinop/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/sinop/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -81290,6 +83594,30 @@
         "href": "/ders-notlari/corum/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/corum/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/corum/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/corum/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -82128,6 +84456,30 @@
         "href": "/ders-notlari/amasya/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/amasya/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/amasya/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/amasya/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -82966,6 +85318,30 @@
         "href": "/ders-notlari/cankiri/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/cankiri/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/cankiri/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/cankiri/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -83804,6 +86180,30 @@
         "href": "/ders-notlari/kirikkale/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/kirikkale/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/kirikkale/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/kirikkale/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -84642,6 +87042,30 @@
         "href": "/ders-notlari/aksaray/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/aksaray/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/aksaray/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/aksaray/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -85480,6 +87904,30 @@
         "href": "/ders-notlari/nigde/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/nigde/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/nigde/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/nigde/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -86318,6 +88766,30 @@
         "href": "/ders-notlari/konya-teknik/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/konya-teknik/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/konya-teknik/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/konya-teknik/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -87156,6 +89628,30 @@
         "href": "/ders-notlari/karaman/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/karaman/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/karaman/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/karaman/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -87994,6 +90490,30 @@
         "href": "/ders-notlari/usak/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/usak/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/usak/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/usak/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -88833,6 +91353,30 @@
         "href": "/ders-notlari/manisa/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/manisa/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/manisa/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/manisa/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -89671,6 +92215,30 @@
         "href": "/ders-notlari/aydin-adu/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/aydin-adu/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/aydin-adu/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/aydin-adu/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -90509,6 +93077,30 @@
         "href": "/ders-notlari/tekirdag/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/tekirdag/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/tekirdag/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/tekirdag/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -91347,6 +93939,30 @@
         "href": "/ders-notlari/kirklareli/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/kirklareli/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/kirklareli/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/kirklareli/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -92185,6 +94801,30 @@
         "href": "/ders-notlari/atilim/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/atilim/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/atilim/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/atilim/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -93023,6 +95663,30 @@
         "href": "/ders-notlari/cankaya/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/cankaya/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/cankaya/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/cankaya/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -93861,6 +96525,30 @@
         "href": "/ders-notlari/ufuk/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/ufuk/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/ufuk/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/ufuk/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -94699,6 +97387,30 @@
         "href": "/ders-notlari/yasar/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/yasar/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/yasar/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/yasar/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -95537,6 +98249,30 @@
         "href": "/ders-notlari/izmir-ekonomi/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/izmir-ekonomi/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/izmir-ekonomi/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/izmir-ekonomi/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -96375,6 +99111,30 @@
         "href": "/ders-notlari/tinaztepe/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/tinaztepe/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/tinaztepe/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/tinaztepe/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -97213,6 +99973,30 @@
         "href": "/ders-notlari/asbu-vakif/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/asbu-vakif/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/asbu-vakif/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/asbu-vakif/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -98051,6 +100835,30 @@
         "href": "/ders-notlari/hasan-kalyoncu/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/hasan-kalyoncu/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/hasan-kalyoncu/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/hasan-kalyoncu/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -98889,6 +101697,30 @@
         "href": "/ders-notlari/sanko/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/sanko/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/sanko/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/sanko/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -99727,6 +102559,30 @@
         "href": "/ders-notlari/toros/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/toros/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/toros/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/toros/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [
@@ -100565,6 +103421,30 @@
         "href": "/ders-notlari/cag/devletler-ozel-yillik",
         "ready": true,
         "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "hukuka-giris-donem-1",
+        "title": "Hukuka Giriş — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/cag/hukuka-giris-donem-1",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-donem-2",
+        "title": "Hukuka Giriş — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/cag/hukuka-giris-donem-2",
+        "ready": true,
+        "variantOf": "hukuka-giris"
+      },
+      {
+        "code": "hukuka-giris-yillik",
+        "title": "Hukuka Giriş — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/cag/hukuka-giris-yillik",
+        "ready": true,
+        "variantOf": "hukuka-giris"
       }
     ],
     "seoParagraphs": [

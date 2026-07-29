@@ -3,7 +3,7 @@
   "wave": "all",
   "universityCount": 120,
   "hubCount": 120,
-  "noteCount": 12360,
+  "noteCount": 12720,
   "universities": [
     {
       "slug": "ankara-yildirim-beyazit",
@@ -105366,6 +105366,3246 @@
       "href": "/ders-notlari/cag/devletler-ozel-yillik",
       "variantOf": "devletler-ozel",
       "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "ankara-yildirim-beyazit__hukuka-giris-donem-1",
+      "title": "AYBÜ Hukuka Giriş 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "ankara-yildirim-beyazit__hukuka-giris-donem-2",
+      "title": "AYBÜ Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "ankara-yildirim-beyazit__hukuka-giris-yillik",
+      "title": "AYBÜ Hukuka Giriş Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "ankara__hukuka-giris-donem-1",
+      "title": "AÜHF Hukuka Giriş 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "ankara__hukuka-giris-donem-2",
+      "title": "AÜHF Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "ankara__hukuka-giris-yillik",
+      "title": "AÜHF Hukuka Giriş Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "istanbul__hukuka-giris-donem-1",
+      "title": "İÜHF Hukuka Giriş 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "istanbul__hukuka-giris-donem-2",
+      "title": "İÜHF Hukuka Giriş 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "istanbul__hukuka-giris-yillik",
+      "title": "İÜHF Hukuka Giriş Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "marmara__hukuka-giris-donem-1",
+      "title": "MÜHF Hukuka Giriş 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "marmara__hukuka-giris-donem-2",
+      "title": "MÜHF Hukuka Giriş 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "marmara__hukuka-giris-yillik",
+      "title": "MÜHF Hukuka Giriş Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "galatasaray__hukuka-giris-donem-1",
+      "title": "GSÜ Hukuka Giriş 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "galatasaray__hukuka-giris-donem-2",
+      "title": "GSÜ Hukuka Giriş 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "galatasaray__hukuka-giris-yillik",
+      "title": "GSÜ Hukuka Giriş Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "dokuz-eylul__hukuka-giris-donem-1",
+      "title": "DEÜ Hukuka Giriş 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "dokuz-eylul__hukuka-giris-donem-2",
+      "title": "DEÜ Hukuka Giriş 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "dokuz-eylul__hukuka-giris-yillik",
+      "title": "DEÜ Hukuka Giriş Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "hacettepe__hukuka-giris-donem-1",
+      "title": "Hacettepe Hukuka Giriş 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "hacettepe__hukuka-giris-donem-2",
+      "title": "Hacettepe Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "hacettepe__hukuka-giris-yillik",
+      "title": "Hacettepe Hukuka Giriş Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "ankara-hacibayram__hukuka-giris-donem-1",
+      "title": "AHBV Hukuka Giriş 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "ankara-hacibayram__hukuka-giris-donem-2",
+      "title": "AHBV Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "ankara-hacibayram__hukuka-giris-yillik",
+      "title": "AHBV Hukuka Giriş Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "bilkent__hukuka-giris-donem-1",
+      "title": "Bilkent Hukuka Giriş 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "bilkent__hukuka-giris-donem-2",
+      "title": "Bilkent Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "bilkent__hukuka-giris-yillik",
+      "title": "Bilkent Hukuka Giriş Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "koc__hukuka-giris-donem-1",
+      "title": "Koç Hukuka Giriş 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "koc__hukuka-giris-donem-2",
+      "title": "Koç Hukuka Giriş 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "koc__hukuka-giris-yillik",
+      "title": "Koç Hukuka Giriş Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "tobb-etu__hukuka-giris-donem-1",
+      "title": "TOBB ETÜ Hukuka Giriş 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "tobb-etu__hukuka-giris-donem-2",
+      "title": "TOBB ETÜ Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "tobb-etu__hukuka-giris-yillik",
+      "title": "TOBB ETÜ Hukuka Giriş Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "bogazici__hukuka-giris-donem-1",
+      "title": "BÜ Hukuka Giriş 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "bogazici__hukuka-giris-donem-2",
+      "title": "BÜ Hukuka Giriş 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "bogazici__hukuka-giris-yillik",
+      "title": "BÜ Hukuka Giriş Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "ege__hukuka-giris-donem-1",
+      "title": "Ege Hukuka Giriş 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "ege__hukuka-giris-donem-2",
+      "title": "Ege Hukuka Giriş 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "ege__hukuka-giris-yillik",
+      "title": "Ege Hukuka Giriş Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "akdeniz__hukuka-giris-donem-1",
+      "title": "Akdeniz Hukuka Giriş 1. Dönem (Güz) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "akdeniz__hukuka-giris-donem-2",
+      "title": "Akdeniz Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "akdeniz__hukuka-giris-yillik",
+      "title": "Akdeniz Hukuka Giriş Yıllık (Tam paket) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "selcuk__hukuka-giris-donem-1",
+      "title": "Selçuk Hukuka Giriş 1. Dönem (Güz) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "selcuk__hukuka-giris-donem-2",
+      "title": "Selçuk Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "selcuk__hukuka-giris-yillik",
+      "title": "Selçuk Hukuka Giriş Yıllık (Tam paket) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "erciyes__hukuka-giris-donem-1",
+      "title": "Erciyes Hukuka Giriş 1. Dönem (Güz) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "erciyes__hukuka-giris-donem-2",
+      "title": "Erciyes Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "erciyes__hukuka-giris-yillik",
+      "title": "Erciyes Hukuka Giriş Yıllık (Tam paket) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "uludag__hukuka-giris-donem-1",
+      "title": "Uludağ Hukuka Giriş 1. Dönem (Güz) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "uludag__hukuka-giris-donem-2",
+      "title": "Uludağ Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "uludag__hukuka-giris-yillik",
+      "title": "Uludağ Hukuka Giriş Yıllık (Tam paket) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "cukurova__hukuka-giris-donem-1",
+      "title": "Çukurova Hukuka Giriş 1. Dönem (Güz) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "cukurova__hukuka-giris-donem-2",
+      "title": "Çukurova Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "cukurova__hukuka-giris-yillik",
+      "title": "Çukurova Hukuka Giriş Yıllık (Tam paket) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "anadolu__hukuka-giris-donem-1",
+      "title": "Anadolu Hukuka Giriş 1. Dönem (Güz) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "anadolu__hukuka-giris-donem-2",
+      "title": "Anadolu Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "anadolu__hukuka-giris-yillik",
+      "title": "Anadolu Hukuka Giriş Yıllık (Tam paket) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "gazi-ankara__hukuka-giris-donem-1",
+      "title": "ASBÜ Hukuka Giriş 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "gazi-ankara__hukuka-giris-donem-2",
+      "title": "ASBÜ Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "gazi-ankara__hukuka-giris-yillik",
+      "title": "ASBÜ Hukuka Giriş Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "yildiz-teknik__hukuka-giris-donem-1",
+      "title": "YTÜ Hukuka Giriş 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "yildiz-teknik__hukuka-giris-donem-2",
+      "title": "YTÜ Hukuka Giriş 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "yildiz-teknik__hukuka-giris-yillik",
+      "title": "YTÜ Hukuka Giriş Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "istanbul-medeniyet__hukuka-giris-donem-1",
+      "title": "Medeniyet Hukuka Giriş 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "istanbul-medeniyet__hukuka-giris-donem-2",
+      "title": "Medeniyet Hukuka Giriş 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "istanbul-medeniyet__hukuka-giris-yillik",
+      "title": "Medeniyet Hukuka Giriş Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "bahcesehir__hukuka-giris-donem-1",
+      "title": "BAU Hukuka Giriş 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "bahcesehir__hukuka-giris-donem-2",
+      "title": "BAU Hukuka Giriş 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "bahcesehir__hukuka-giris-yillik",
+      "title": "BAU Hukuka Giriş Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "yeditepe__hukuka-giris-donem-1",
+      "title": "Yeditepe Hukuka Giriş 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "yeditepe__hukuka-giris-donem-2",
+      "title": "Yeditepe Hukuka Giriş 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "yeditepe__hukuka-giris-yillik",
+      "title": "Yeditepe Hukuka Giriş Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "ozyegin__hukuka-giris-donem-1",
+      "title": "Özyeğin Hukuka Giriş 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "ozyegin__hukuka-giris-donem-2",
+      "title": "Özyeğin Hukuka Giriş 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "ozyegin__hukuka-giris-yillik",
+      "title": "Özyeğin Hukuka Giriş Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "kadir-has__hukuka-giris-donem-1",
+      "title": "KHAS Hukuka Giriş 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "kadir-has__hukuka-giris-donem-2",
+      "title": "KHAS Hukuka Giriş 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "kadir-has__hukuka-giris-yillik",
+      "title": "KHAS Hukuka Giriş Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "istanbul-bilgi__hukuka-giris-donem-1",
+      "title": "Bilgi Hukuka Giriş 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "istanbul-bilgi__hukuka-giris-donem-2",
+      "title": "Bilgi Hukuka Giriş 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "istanbul-bilgi__hukuka-giris-yillik",
+      "title": "Bilgi Hukuka Giriş Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "mehmet-akif__hukuka-giris-donem-1",
+      "title": "Medipol Hukuka Giriş 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "mehmet-akif__hukuka-giris-donem-2",
+      "title": "Medipol Hukuka Giriş 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "mehmet-akif__hukuka-giris-yillik",
+      "title": "Medipol Hukuka Giriş Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "altinbas__hukuka-giris-donem-1",
+      "title": "Altınbaş Hukuka Giriş 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "altinbas__hukuka-giris-donem-2",
+      "title": "Altınbaş Hukuka Giriş 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "altinbas__hukuka-giris-yillik",
+      "title": "Altınbaş Hukuka Giriş Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "maltepe__hukuka-giris-donem-1",
+      "title": "Maltepe Hukuka Giriş 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "maltepe__hukuka-giris-donem-2",
+      "title": "Maltepe Hukuka Giriş 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "maltepe__hukuka-giris-yillik",
+      "title": "Maltepe Hukuka Giriş Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "dogus__hukuka-giris-donem-1",
+      "title": "Doğuş Hukuka Giriş 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "dogus__hukuka-giris-donem-2",
+      "title": "Doğuş Hukuka Giriş 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "dogus__hukuka-giris-yillik",
+      "title": "Doğuş Hukuka Giriş Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "isik__hukuka-giris-donem-1",
+      "title": "Işık Hukuka Giriş 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "isik__hukuka-giris-donem-2",
+      "title": "Işık Hukuka Giriş 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "isik__hukuka-giris-yillik",
+      "title": "Işık Hukuka Giriş Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "okan__hukuka-giris-donem-1",
+      "title": "Okan Hukuka Giriş 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "okan__hukuka-giris-donem-2",
+      "title": "Okan Hukuka Giriş 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "okan__hukuka-giris-yillik",
+      "title": "Okan Hukuka Giriş Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "kultur__hukuka-giris-donem-1",
+      "title": "İKÜ Hukuka Giriş 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "kultur__hukuka-giris-donem-2",
+      "title": "İKÜ Hukuka Giriş 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "kultur__hukuka-giris-yillik",
+      "title": "İKÜ Hukuka Giriş Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "aydin__hukuka-giris-donem-1",
+      "title": "İAÜ Hukuka Giriş 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "aydin__hukuka-giris-donem-2",
+      "title": "İAÜ Hukuka Giriş 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "aydin__hukuka-giris-yillik",
+      "title": "İAÜ Hukuka Giriş Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "gelisim__hukuka-giris-donem-1",
+      "title": "Gelişim Hukuka Giriş 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "gelisim__hukuka-giris-donem-2",
+      "title": "Gelişim Hukuka Giriş 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "gelisim__hukuka-giris-yillik",
+      "title": "Gelişim Hukuka Giriş Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "topkapi__hukuka-giris-donem-1",
+      "title": "Topkapı Hukuka Giriş 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "topkapi__hukuka-giris-donem-2",
+      "title": "Topkapı Hukuka Giriş 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "topkapi__hukuka-giris-yillik",
+      "title": "Topkapı Hukuka Giriş Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "nisantasi__hukuka-giris-donem-1",
+      "title": "Nişantaşı Hukuka Giriş 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "nisantasi__hukuka-giris-donem-2",
+      "title": "Nişantaşı Hukuka Giriş 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "nisantasi__hukuka-giris-yillik",
+      "title": "Nişantaşı Hukuka Giriş Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "beykent__hukuka-giris-donem-1",
+      "title": "Beykent Hukuka Giriş 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "beykent__hukuka-giris-donem-2",
+      "title": "Beykent Hukuka Giriş 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "beykent__hukuka-giris-yillik",
+      "title": "Beykent Hukuka Giriş Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "halic__hukuka-giris-donem-1",
+      "title": "Haliç Hukuka Giriş 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "halic__hukuka-giris-donem-2",
+      "title": "Haliç Hukuka Giriş 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "halic__hukuka-giris-yillik",
+      "title": "Haliç Hukuka Giriş Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "fatih-sultan__hukuka-giris-donem-1",
+      "title": "FSMVÜ Hukuka Giriş 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "fatih-sultan__hukuka-giris-donem-2",
+      "title": "FSMVÜ Hukuka Giriş 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "fatih-sultan__hukuka-giris-yillik",
+      "title": "FSMVÜ Hukuka Giriş Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "karadeniz-teknik__hukuka-giris-donem-1",
+      "title": "KTÜ Hukuka Giriş 1. Dönem (Güz) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "karadeniz-teknik__hukuka-giris-donem-2",
+      "title": "KTÜ Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "karadeniz-teknik__hukuka-giris-yillik",
+      "title": "KTÜ Hukuka Giriş Yıllık (Tam paket) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "ataturk__hukuka-giris-donem-1",
+      "title": "Atatürk Hukuka Giriş 1. Dönem (Güz) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "ataturk__hukuka-giris-donem-2",
+      "title": "Atatürk Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "ataturk__hukuka-giris-yillik",
+      "title": "Atatürk Hukuka Giriş Yıllık (Tam paket) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "inonu__hukuka-giris-donem-1",
+      "title": "İnönü Hukuka Giriş 1. Dönem (Güz) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "inonu__hukuka-giris-donem-2",
+      "title": "İnönü Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "inonu__hukuka-giris-yillik",
+      "title": "İnönü Hukuka Giriş Yıllık (Tam paket) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "dicle__hukuka-giris-donem-1",
+      "title": "Dicle Hukuka Giriş 1. Dönem (Güz) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "dicle__hukuka-giris-donem-2",
+      "title": "Dicle Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "dicle__hukuka-giris-yillik",
+      "title": "Dicle Hukuka Giriş Yıllık (Tam paket) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "firat__hukuka-giris-donem-1",
+      "title": "Fırat Hukuka Giriş 1. Dönem (Güz) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "firat__hukuka-giris-donem-2",
+      "title": "Fırat Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "firat__hukuka-giris-yillik",
+      "title": "Fırat Hukuka Giriş Yıllık (Tam paket) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "gaziantep__hukuka-giris-donem-1",
+      "title": "GAÜN Hukuka Giriş 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "gaziantep__hukuka-giris-donem-2",
+      "title": "GAÜN Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "gaziantep__hukuka-giris-yillik",
+      "title": "GAÜN Hukuka Giriş Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "suleyman-demirel__hukuka-giris-donem-1",
+      "title": "SDÜ Hukuka Giriş 1. Dönem (Güz) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "suleyman-demirel__hukuka-giris-donem-2",
+      "title": "SDÜ Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "suleyman-demirel__hukuka-giris-yillik",
+      "title": "SDÜ Hukuka Giriş Yıllık (Tam paket) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "pamukkale__hukuka-giris-donem-1",
+      "title": "PAÜ Hukuka Giriş 1. Dönem (Güz) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "pamukkale__hukuka-giris-donem-2",
+      "title": "PAÜ Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "pamukkale__hukuka-giris-yillik",
+      "title": "PAÜ Hukuka Giriş Yıllık (Tam paket) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "mugla__hukuka-giris-donem-1",
+      "title": "MSKU Hukuka Giriş 1. Dönem (Güz) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "mugla__hukuka-giris-donem-2",
+      "title": "MSKU Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "mugla__hukuka-giris-yillik",
+      "title": "MSKU Hukuka Giriş Yıllık (Tam paket) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "sakarya__hukuka-giris-donem-1",
+      "title": "SAÜ Hukuka Giriş 1. Dönem (Güz) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "sakarya__hukuka-giris-donem-2",
+      "title": "SAÜ Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "sakarya__hukuka-giris-yillik",
+      "title": "SAÜ Hukuka Giriş Yıllık (Tam paket) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "kocaeli__hukuka-giris-donem-1",
+      "title": "KOÜ Hukuka Giriş 1. Dönem (Güz) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "kocaeli__hukuka-giris-donem-2",
+      "title": "KOÜ Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "kocaeli__hukuka-giris-yillik",
+      "title": "KOÜ Hukuka Giriş Yıllık (Tam paket) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "trakya__hukuka-giris-donem-1",
+      "title": "Trakya Hukuka Giriş 1. Dönem (Güz) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "trakya__hukuka-giris-donem-2",
+      "title": "Trakya Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "trakya__hukuka-giris-yillik",
+      "title": "Trakya Hukuka Giriş Yıllık (Tam paket) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "canakkale__hukuka-giris-donem-1",
+      "title": "ÇOMÜ Hukuka Giriş 1. Dönem (Güz) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "canakkale__hukuka-giris-donem-2",
+      "title": "ÇOMÜ Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "canakkale__hukuka-giris-yillik",
+      "title": "ÇOMÜ Hukuka Giriş Yıllık (Tam paket) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "balikesir__hukuka-giris-donem-1",
+      "title": "BAÜN Hukuka Giriş 1. Dönem (Güz) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "balikesir__hukuka-giris-donem-2",
+      "title": "BAÜN Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "balikesir__hukuka-giris-yillik",
+      "title": "BAÜN Hukuka Giriş Yıllık (Tam paket) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "afyon__hukuka-giris-donem-1",
+      "title": "AKÜ Hukuka Giriş 1. Dönem (Güz) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "afyon__hukuka-giris-donem-2",
+      "title": "AKÜ Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "afyon__hukuka-giris-yillik",
+      "title": "AKÜ Hukuka Giriş Yıllık (Tam paket) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "dumlupinar__hukuka-giris-donem-1",
+      "title": "DPÜ Hukuka Giriş 1. Dönem (Güz) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "dumlupinar__hukuka-giris-donem-2",
+      "title": "DPÜ Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "dumlupinar__hukuka-giris-yillik",
+      "title": "DPÜ Hukuka Giriş Yıllık (Tam paket) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "eskisehir-osmangazi__hukuka-giris-donem-1",
+      "title": "ESOGÜ Hukuka Giriş 1. Dönem (Güz) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "eskisehir-osmangazi__hukuka-giris-donem-2",
+      "title": "ESOGÜ Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "eskisehir-osmangazi__hukuka-giris-yillik",
+      "title": "ESOGÜ Hukuka Giriş Yıllık (Tam paket) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "sivas-cumhuriyet__hukuka-giris-donem-1",
+      "title": "SCÜ Hukuka Giriş 1. Dönem (Güz) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "sivas-cumhuriyet__hukuka-giris-donem-2",
+      "title": "SCÜ Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "sivas-cumhuriyet__hukuka-giris-yillik",
+      "title": "SCÜ Hukuka Giriş Yıllık (Tam paket) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "tokat__hukuka-giris-donem-1",
+      "title": "TOGÜ Hukuka Giriş 1. Dönem (Güz) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "tokat__hukuka-giris-donem-2",
+      "title": "TOGÜ Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "tokat__hukuka-giris-yillik",
+      "title": "TOGÜ Hukuka Giriş Yıllık (Tam paket) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "yozgat__hukuka-giris-donem-1",
+      "title": "Bozok Hukuka Giriş 1. Dönem (Güz) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "yozgat__hukuka-giris-donem-2",
+      "title": "Bozok Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "yozgat__hukuka-giris-yillik",
+      "title": "Bozok Hukuka Giriş Yıllık (Tam paket) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "kirsehir__hukuka-giris-donem-1",
+      "title": "AHİEVRAN Hukuka Giriş 1. Dönem (Güz) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "kirsehir__hukuka-giris-donem-2",
+      "title": "AHİEVRAN Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "kirsehir__hukuka-giris-yillik",
+      "title": "AHİEVRAN Hukuka Giriş Yıllık (Tam paket) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "nevsehir__hukuka-giris-donem-1",
+      "title": "NEVÜ Hukuka Giriş 1. Dönem (Güz) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "nevsehir__hukuka-giris-donem-2",
+      "title": "NEVÜ Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "nevsehir__hukuka-giris-yillik",
+      "title": "NEVÜ Hukuka Giriş Yıllık (Tam paket) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "mersin__hukuka-giris-donem-1",
+      "title": "MEÜ Hukuka Giriş 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "mersin__hukuka-giris-donem-2",
+      "title": "MEÜ Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "mersin__hukuka-giris-yillik",
+      "title": "MEÜ Hukuka Giriş Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "hatay__hukuka-giris-donem-1",
+      "title": "MKÜ Hukuka Giriş 1. Dönem (Güz) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "hatay__hukuka-giris-donem-2",
+      "title": "MKÜ Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "hatay__hukuka-giris-yillik",
+      "title": "MKÜ Hukuka Giriş Yıllık (Tam paket) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "kahramanmaras__hukuka-giris-donem-1",
+      "title": "KSÜ Hukuka Giriş 1. Dönem (Güz) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "kahramanmaras__hukuka-giris-donem-2",
+      "title": "KSÜ Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "kahramanmaras__hukuka-giris-yillik",
+      "title": "KSÜ Hukuka Giriş Yıllık (Tam paket) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "osmaniye__hukuka-giris-donem-1",
+      "title": "OKÜ Hukuka Giriş 1. Dönem (Güz) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "osmaniye__hukuka-giris-donem-2",
+      "title": "OKÜ Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "osmaniye__hukuka-giris-yillik",
+      "title": "OKÜ Hukuka Giriş Yıllık (Tam paket) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "samsun__hukuka-giris-donem-1",
+      "title": "OMÜ Hukuka Giriş 1. Dönem (Güz) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "samsun__hukuka-giris-donem-2",
+      "title": "OMÜ Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "samsun__hukuka-giris-yillik",
+      "title": "OMÜ Hukuka Giriş Yıllık (Tam paket) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "ordu__hukuka-giris-donem-1",
+      "title": "ODÜ Hukuka Giriş 1. Dönem (Güz) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "ordu__hukuka-giris-donem-2",
+      "title": "ODÜ Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "ordu__hukuka-giris-yillik",
+      "title": "ODÜ Hukuka Giriş Yıllık (Tam paket) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "giresun__hukuka-giris-donem-1",
+      "title": "GÜ Hukuka Giriş 1. Dönem (Güz) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "giresun__hukuka-giris-donem-2",
+      "title": "GÜ Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "giresun__hukuka-giris-yillik",
+      "title": "GÜ Hukuka Giriş Yıllık (Tam paket) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "rize__hukuka-giris-donem-1",
+      "title": "RTEÜ Hukuka Giriş 1. Dönem (Güz) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "rize__hukuka-giris-donem-2",
+      "title": "RTEÜ Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "rize__hukuka-giris-yillik",
+      "title": "RTEÜ Hukuka Giriş Yıllık (Tam paket) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "artvin__hukuka-giris-donem-1",
+      "title": "AÇÜ Hukuka Giriş 1. Dönem (Güz) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "artvin__hukuka-giris-donem-2",
+      "title": "AÇÜ Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "artvin__hukuka-giris-yillik",
+      "title": "AÇÜ Hukuka Giriş Yıllık (Tam paket) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "van-yyu__hukuka-giris-donem-1",
+      "title": "YYÜ Hukuka Giriş 1. Dönem (Güz) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "van-yyu__hukuka-giris-donem-2",
+      "title": "YYÜ Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "van-yyu__hukuka-giris-yillik",
+      "title": "YYÜ Hukuka Giriş Yıllık (Tam paket) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "agri__hukuka-giris-donem-1",
+      "title": "AİÇÜ Hukuka Giriş 1. Dönem (Güz) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "agri__hukuka-giris-donem-2",
+      "title": "AİÇÜ Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "agri__hukuka-giris-yillik",
+      "title": "AİÇÜ Hukuka Giriş Yıllık (Tam paket) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "kars__hukuka-giris-donem-1",
+      "title": "Kafkas Hukuka Giriş 1. Dönem (Güz) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "kars__hukuka-giris-donem-2",
+      "title": "Kafkas Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "kars__hukuka-giris-yillik",
+      "title": "Kafkas Hukuka Giriş Yıllık (Tam paket) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "erzincan__hukuka-giris-donem-1",
+      "title": "EBYÜ Hukuka Giriş 1. Dönem (Güz) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "erzincan__hukuka-giris-donem-2",
+      "title": "EBYÜ Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "erzincan__hukuka-giris-yillik",
+      "title": "EBYÜ Hukuka Giriş Yıllık (Tam paket) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "bayburt__hukuka-giris-donem-1",
+      "title": "Bayburt Hukuka Giriş 1. Dönem (Güz) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "bayburt__hukuka-giris-donem-2",
+      "title": "Bayburt Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "bayburt__hukuka-giris-yillik",
+      "title": "Bayburt Hukuka Giriş Yıllık (Tam paket) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "gumushane__hukuka-giris-donem-1",
+      "title": "Gümüşhane Hukuka Giriş 1. Dönem (Güz) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "gumushane__hukuka-giris-donem-2",
+      "title": "Gümüşhane Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "gumushane__hukuka-giris-yillik",
+      "title": "Gümüşhane Hukuka Giriş Yıllık (Tam paket) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "bingol__hukuka-giris-donem-1",
+      "title": "Bingöl Hukuka Giriş 1. Dönem (Güz) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "bingol__hukuka-giris-donem-2",
+      "title": "Bingöl Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "bingol__hukuka-giris-yillik",
+      "title": "Bingöl Hukuka Giriş Yıllık (Tam paket) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "mus__hukuka-giris-donem-1",
+      "title": "Muş Hukuka Giriş 1. Dönem (Güz) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "mus__hukuka-giris-donem-2",
+      "title": "Muş Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "mus__hukuka-giris-yillik",
+      "title": "Muş Hukuka Giriş Yıllık (Tam paket) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "hakkari__hukuka-giris-donem-1",
+      "title": "Hakkâri Hukuka Giriş 1. Dönem (Güz) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "hakkari__hukuka-giris-donem-2",
+      "title": "Hakkâri Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "hakkari__hukuka-giris-yillik",
+      "title": "Hakkâri Hukuka Giriş Yıllık (Tam paket) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "sirnak__hukuka-giris-donem-1",
+      "title": "Şırnak Hukuka Giriş 1. Dönem (Güz) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "sirnak__hukuka-giris-donem-2",
+      "title": "Şırnak Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "sirnak__hukuka-giris-yillik",
+      "title": "Şırnak Hukuka Giriş Yıllık (Tam paket) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "mardin__hukuka-giris-donem-1",
+      "title": "Artuklu Hukuka Giriş 1. Dönem (Güz) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "mardin__hukuka-giris-donem-2",
+      "title": "Artuklu Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "mardin__hukuka-giris-yillik",
+      "title": "Artuklu Hukuka Giriş Yıllık (Tam paket) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "batman__hukuka-giris-donem-1",
+      "title": "Batman Hukuka Giriş 1. Dönem (Güz) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "batman__hukuka-giris-donem-2",
+      "title": "Batman Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "batman__hukuka-giris-yillik",
+      "title": "Batman Hukuka Giriş Yıllık (Tam paket) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "siirt__hukuka-giris-donem-1",
+      "title": "Siirt Hukuka Giriş 1. Dönem (Güz) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "siirt__hukuka-giris-donem-2",
+      "title": "Siirt Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "siirt__hukuka-giris-yillik",
+      "title": "Siirt Hukuka Giriş Yıllık (Tam paket) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "adiyaman__hukuka-giris-donem-1",
+      "title": "Adıyaman Hukuka Giriş 1. Dönem (Güz) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "adiyaman__hukuka-giris-donem-2",
+      "title": "Adıyaman Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "adiyaman__hukuka-giris-yillik",
+      "title": "Adıyaman Hukuka Giriş Yıllık (Tam paket) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "kilis__hukuka-giris-donem-1",
+      "title": "Kilis Hukuka Giriş 1. Dönem (Güz) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "kilis__hukuka-giris-donem-2",
+      "title": "Kilis Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "kilis__hukuka-giris-yillik",
+      "title": "Kilis Hukuka Giriş Yıllık (Tam paket) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "igdir__hukuka-giris-donem-1",
+      "title": "Iğdır Hukuka Giriş 1. Dönem (Güz) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "igdir__hukuka-giris-donem-2",
+      "title": "Iğdır Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "igdir__hukuka-giris-yillik",
+      "title": "Iğdır Hukuka Giriş Yıllık (Tam paket) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "ardahan__hukuka-giris-donem-1",
+      "title": "Ardahan Hukuka Giriş 1. Dönem (Güz) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "ardahan__hukuka-giris-donem-2",
+      "title": "Ardahan Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "ardahan__hukuka-giris-yillik",
+      "title": "Ardahan Hukuka Giriş Yıllık (Tam paket) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "bilecik__hukuka-giris-donem-1",
+      "title": "BŞEÜ Hukuka Giriş 1. Dönem (Güz) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "bilecik__hukuka-giris-donem-2",
+      "title": "BŞEÜ Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "bilecik__hukuka-giris-yillik",
+      "title": "BŞEÜ Hukuka Giriş Yıllık (Tam paket) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "bolu__hukuka-giris-donem-1",
+      "title": "BAİBÜ Hukuka Giriş 1. Dönem (Güz) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "bolu__hukuka-giris-donem-2",
+      "title": "BAİBÜ Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "bolu__hukuka-giris-yillik",
+      "title": "BAİBÜ Hukuka Giriş Yıllık (Tam paket) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "duzce__hukuka-giris-donem-1",
+      "title": "Düzce Hukuka Giriş 1. Dönem (Güz) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "duzce__hukuka-giris-donem-2",
+      "title": "Düzce Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "duzce__hukuka-giris-yillik",
+      "title": "Düzce Hukuka Giriş Yıllık (Tam paket) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "zonguldak__hukuka-giris-donem-1",
+      "title": "BEÜN Hukuka Giriş 1. Dönem (Güz) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "zonguldak__hukuka-giris-donem-2",
+      "title": "BEÜN Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "zonguldak__hukuka-giris-yillik",
+      "title": "BEÜN Hukuka Giriş Yıllık (Tam paket) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "karabuk__hukuka-giris-donem-1",
+      "title": "KBÜ Hukuka Giriş 1. Dönem (Güz) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "karabuk__hukuka-giris-donem-2",
+      "title": "KBÜ Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "karabuk__hukuka-giris-yillik",
+      "title": "KBÜ Hukuka Giriş Yıllık (Tam paket) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "kastamonu__hukuka-giris-donem-1",
+      "title": "KÜ Hukuka Giriş 1. Dönem (Güz) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "kastamonu__hukuka-giris-donem-2",
+      "title": "KÜ Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "kastamonu__hukuka-giris-yillik",
+      "title": "KÜ Hukuka Giriş Yıllık (Tam paket) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "sinop__hukuka-giris-donem-1",
+      "title": "Sinop Hukuka Giriş 1. Dönem (Güz) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "sinop__hukuka-giris-donem-2",
+      "title": "Sinop Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "sinop__hukuka-giris-yillik",
+      "title": "Sinop Hukuka Giriş Yıllık (Tam paket) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "corum__hukuka-giris-donem-1",
+      "title": "Hitit Hukuka Giriş 1. Dönem (Güz) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "corum__hukuka-giris-donem-2",
+      "title": "Hitit Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "corum__hukuka-giris-yillik",
+      "title": "Hitit Hukuka Giriş Yıllık (Tam paket) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "amasya__hukuka-giris-donem-1",
+      "title": "Amasya Hukuka Giriş 1. Dönem (Güz) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "amasya__hukuka-giris-donem-2",
+      "title": "Amasya Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "amasya__hukuka-giris-yillik",
+      "title": "Amasya Hukuka Giriş Yıllık (Tam paket) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "cankiri__hukuka-giris-donem-1",
+      "title": "Karatekin Hukuka Giriş 1. Dönem (Güz) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "cankiri__hukuka-giris-donem-2",
+      "title": "Karatekin Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "cankiri__hukuka-giris-yillik",
+      "title": "Karatekin Hukuka Giriş Yıllık (Tam paket) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "kirikkale__hukuka-giris-donem-1",
+      "title": "Kırıkkale Hukuka Giriş 1. Dönem (Güz) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "kirikkale__hukuka-giris-donem-2",
+      "title": "Kırıkkale Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "kirikkale__hukuka-giris-yillik",
+      "title": "Kırıkkale Hukuka Giriş Yıllık (Tam paket) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "aksaray__hukuka-giris-donem-1",
+      "title": "Aksaray Hukuka Giriş 1. Dönem (Güz) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "aksaray__hukuka-giris-donem-2",
+      "title": "Aksaray Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "aksaray__hukuka-giris-yillik",
+      "title": "Aksaray Hukuka Giriş Yıllık (Tam paket) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "nigde__hukuka-giris-donem-1",
+      "title": "ÖHÜ Hukuka Giriş 1. Dönem (Güz) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "nigde__hukuka-giris-donem-2",
+      "title": "ÖHÜ Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "nigde__hukuka-giris-yillik",
+      "title": "ÖHÜ Hukuka Giriş Yıllık (Tam paket) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "konya-teknik__hukuka-giris-donem-1",
+      "title": "NEÜ Hukuka Giriş 1. Dönem (Güz) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "konya-teknik__hukuka-giris-donem-2",
+      "title": "NEÜ Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "konya-teknik__hukuka-giris-yillik",
+      "title": "NEÜ Hukuka Giriş Yıllık (Tam paket) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "karaman__hukuka-giris-donem-1",
+      "title": "KMÜ Hukuka Giriş 1. Dönem (Güz) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "karaman__hukuka-giris-donem-2",
+      "title": "KMÜ Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "karaman__hukuka-giris-yillik",
+      "title": "KMÜ Hukuka Giriş Yıllık (Tam paket) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "usak__hukuka-giris-donem-1",
+      "title": "Uşak Hukuka Giriş 1. Dönem (Güz) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "usak__hukuka-giris-donem-2",
+      "title": "Uşak Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "usak__hukuka-giris-yillik",
+      "title": "Uşak Hukuka Giriş Yıllık (Tam paket) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "manisa__hukuka-giris-donem-1",
+      "title": "MCBÜ Hukuka Giriş 1. Dönem (Güz) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "manisa__hukuka-giris-donem-2",
+      "title": "MCBÜ Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "manisa__hukuka-giris-yillik",
+      "title": "MCBÜ Hukuka Giriş Yıllık (Tam paket) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "aydin-adu__hukuka-giris-donem-1",
+      "title": "ADÜ Hukuka Giriş 1. Dönem (Güz) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "aydin-adu__hukuka-giris-donem-2",
+      "title": "ADÜ Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "aydin-adu__hukuka-giris-yillik",
+      "title": "ADÜ Hukuka Giriş Yıllık (Tam paket) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "tekirdag__hukuka-giris-donem-1",
+      "title": "NKÜ Hukuka Giriş 1. Dönem (Güz) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "tekirdag__hukuka-giris-donem-2",
+      "title": "NKÜ Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "tekirdag__hukuka-giris-yillik",
+      "title": "NKÜ Hukuka Giriş Yıllık (Tam paket) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "kirklareli__hukuka-giris-donem-1",
+      "title": "Kırklareli Hukuka Giriş 1. Dönem (Güz) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "kirklareli__hukuka-giris-donem-2",
+      "title": "Kırklareli Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "kirklareli__hukuka-giris-yillik",
+      "title": "Kırklareli Hukuka Giriş Yıllık (Tam paket) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "atilim__hukuka-giris-donem-1",
+      "title": "Atılım Hukuka Giriş 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "atilim__hukuka-giris-donem-2",
+      "title": "Atılım Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "atilim__hukuka-giris-yillik",
+      "title": "Atılım Hukuka Giriş Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "cankaya__hukuka-giris-donem-1",
+      "title": "Çankaya Hukuka Giriş 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "cankaya__hukuka-giris-donem-2",
+      "title": "Çankaya Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "cankaya__hukuka-giris-yillik",
+      "title": "Çankaya Hukuka Giriş Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "ufuk__hukuka-giris-donem-1",
+      "title": "Ufuk Hukuka Giriş 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "ufuk__hukuka-giris-donem-2",
+      "title": "Ufuk Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "ufuk__hukuka-giris-yillik",
+      "title": "Ufuk Hukuka Giriş Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "yasar__hukuka-giris-donem-1",
+      "title": "Yaşar Hukuka Giriş 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "yasar__hukuka-giris-donem-2",
+      "title": "Yaşar Hukuka Giriş 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "yasar__hukuka-giris-yillik",
+      "title": "Yaşar Hukuka Giriş Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "izmir-ekonomi__hukuka-giris-donem-1",
+      "title": "İEÜ Hukuka Giriş 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "izmir-ekonomi__hukuka-giris-donem-2",
+      "title": "İEÜ Hukuka Giriş 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "izmir-ekonomi__hukuka-giris-yillik",
+      "title": "İEÜ Hukuka Giriş Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "tinaztepe__hukuka-giris-donem-1",
+      "title": "Tınaztepe Hukuka Giriş 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "tinaztepe__hukuka-giris-donem-2",
+      "title": "Tınaztepe Hukuka Giriş 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "tinaztepe__hukuka-giris-yillik",
+      "title": "Tınaztepe Hukuka Giriş Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "asbu-vakif__hukuka-giris-donem-1",
+      "title": "ABÜ Hukuka Giriş 1. Dönem (Güz) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "asbu-vakif__hukuka-giris-donem-2",
+      "title": "ABÜ Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "asbu-vakif__hukuka-giris-yillik",
+      "title": "ABÜ Hukuka Giriş Yıllık (Tam paket) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "hasan-kalyoncu__hukuka-giris-donem-1",
+      "title": "HKÜ Hukuka Giriş 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "hasan-kalyoncu__hukuka-giris-donem-2",
+      "title": "HKÜ Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "hasan-kalyoncu__hukuka-giris-yillik",
+      "title": "HKÜ Hukuka Giriş Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "sanko__hukuka-giris-donem-1",
+      "title": "Sanko Hukuka Giriş 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "sanko__hukuka-giris-donem-2",
+      "title": "Sanko Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "sanko__hukuka-giris-yillik",
+      "title": "Sanko Hukuka Giriş Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "toros__hukuka-giris-donem-1",
+      "title": "Toros Hukuka Giriş 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "toros__hukuka-giris-donem-2",
+      "title": "Toros Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "toros__hukuka-giris-yillik",
+      "title": "Toros Hukuka Giriş Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "hukuka-giris-donem-1",
+      "slug": "cag__hukuka-giris-donem-1",
+      "title": "Çağ Hukuka Giriş 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/hukuka-giris-donem-1",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "hukuka-giris-donem-2",
+      "slug": "cag__hukuka-giris-donem-2",
+      "title": "Çağ Hukuka Giriş 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/hukuka-giris-donem-2",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "hukuka-giris-yillik",
+      "slug": "cag__hukuka-giris-yillik",
+      "title": "Çağ Hukuka Giriş Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/hukuka-giris-yillik",
+      "variantOf": "hukuka-giris",
+      "variantLabel": "Yıllık (Tam paket)"
     }
   ],
   "borclarGenelTripleAt": "2026-07-29T20:05:58.703Z",
@@ -105392,5 +108632,6 @@
   "tuketiciHukukuTripleAt": "2026-07-29T21:17:38.037Z",
   "insaatHukukuTripleAt": "2026-07-29T21:20:33.364Z",
   "arabuluculukTripleAt": "2026-07-29T21:23:11.701Z",
-  "devletlerOzelTripleAt": "2026-07-29T21:26:09.690Z"
+  "devletlerOzelTripleAt": "2026-07-29T21:26:09.690Z",
+  "hukukaGirisTripleAt": "2026-07-29T21:28:58.325Z"
 }

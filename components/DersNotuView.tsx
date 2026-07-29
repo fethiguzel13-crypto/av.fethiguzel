@@ -735,6 +735,18 @@ export function DersNotuView({
               { code: 'devletler-ozel-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
             ],
           },
+          {
+            match:
+              note.variantOf === 'hukuka-giris' ||
+              note.courseCode === 'hukuka-giris' ||
+              note.courseCode.startsWith('hukuka-giris-'),
+            title: 'Hukuka Giriş · üç paket',
+            items: [
+              { code: 'hukuka-giris-donem-1', label: '1. Dönem (Güz)', desc: 'Kavram · kaynak · hak' },
+              { code: 'hukuka-giris-donem-2', label: '2. Dönem (Bahar)', desc: 'Yorum · yargı · yaptırım' },
+              { code: 'hukuka-giris-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
+            ],
+          },
         ];
         const activePacks = packs.filter((p) => p.match);
         if (!activePacks.length) return null;
@@ -1493,6 +1505,23 @@ export function UniHubView({ hub }: { hub: UniHubContent }) {
               { code: 'devletler-ozel-donem-1', title: '1. Dönem (Güz)' },
               { code: 'devletler-ozel-donem-2', title: '2. Dönem (Bahar)' },
               { code: 'devletler-ozel-yillik', title: 'Yıllık tam not' },
+            ],
+          },
+          {
+            show: hub.courses.some(
+              (c) =>
+                String(c.code).startsWith('hukuka-giris') ||
+                c.code === 'hukuka-giris'
+            ),
+            title: 'Hukuka Giriş — 1. dönem · 2. dönem · yıllık',
+            desc: 'Kavram–kaynak–yorum–yargı… üç premium not + PDF.',
+            border: 'border-primary/20 bg-primary/[0.04]',
+            itemBorder: 'border-primary/25',
+            accent: 'text-primary',
+            items: [
+              { code: 'hukuka-giris-donem-1', title: '1. Dönem (Güz)' },
+              { code: 'hukuka-giris-donem-2', title: '2. Dönem (Bahar)' },
+              { code: 'hukuka-giris-yillik', title: 'Yıllık tam not' },
             ],
           },
         ]
