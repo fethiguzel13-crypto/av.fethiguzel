@@ -768,6 +768,30 @@
         "href": "/ders-notlari/ankara-yildirim-beyazit/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -1559,6 +1583,30 @@
         "href": "/ders-notlari/ankara/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ankara/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ankara/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ankara/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -2351,6 +2399,30 @@
         "href": "/ders-notlari/istanbul/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/istanbul/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/istanbul/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/istanbul/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -3141,6 +3213,30 @@
         "href": "/ders-notlari/marmara/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/marmara/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/marmara/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/marmara/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -3933,6 +4029,30 @@
         "href": "/ders-notlari/galatasaray/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/galatasaray/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/galatasaray/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/galatasaray/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -4724,6 +4844,30 @@
         "href": "/ders-notlari/dokuz-eylul/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/dokuz-eylul/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/dokuz-eylul/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/dokuz-eylul/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -5514,6 +5658,30 @@
         "href": "/ders-notlari/hacettepe/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/hacettepe/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/hacettepe/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/hacettepe/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -6305,6 +6473,30 @@
         "href": "/ders-notlari/ankara-hacibayram/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ankara-hacibayram/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ankara-hacibayram/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ankara-hacibayram/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -7095,6 +7287,30 @@
         "href": "/ders-notlari/bilkent/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/bilkent/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/bilkent/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/bilkent/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -7886,6 +8102,30 @@
         "href": "/ders-notlari/koc/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/koc/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/koc/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/koc/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -8677,6 +8917,30 @@
         "href": "/ders-notlari/tobb-etu/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/tobb-etu/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/tobb-etu/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/tobb-etu/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -9467,6 +9731,30 @@
         "href": "/ders-notlari/bogazici/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/bogazici/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/bogazici/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/bogazici/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -10257,6 +10545,30 @@
         "href": "/ders-notlari/ege/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ege/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ege/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ege/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -11047,6 +11359,30 @@
         "href": "/ders-notlari/akdeniz/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/akdeniz/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/akdeniz/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/akdeniz/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -11837,6 +12173,30 @@
         "href": "/ders-notlari/selcuk/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/selcuk/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/selcuk/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/selcuk/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -12627,6 +12987,30 @@
         "href": "/ders-notlari/erciyes/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/erciyes/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/erciyes/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/erciyes/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -13418,6 +13802,30 @@
         "href": "/ders-notlari/uludag/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/uludag/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/uludag/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/uludag/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -14208,6 +14616,30 @@
         "href": "/ders-notlari/cukurova/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/cukurova/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/cukurova/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/cukurova/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -14998,6 +15430,30 @@
         "href": "/ders-notlari/anadolu/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/anadolu/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/anadolu/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/anadolu/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -15789,6 +16245,30 @@
         "href": "/ders-notlari/gazi-ankara/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/gazi-ankara/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/gazi-ankara/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/gazi-ankara/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -16580,6 +17060,30 @@
         "href": "/ders-notlari/yildiz-teknik/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/yildiz-teknik/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/yildiz-teknik/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/yildiz-teknik/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -17370,6 +17874,30 @@
         "href": "/ders-notlari/istanbul-medeniyet/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/istanbul-medeniyet/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/istanbul-medeniyet/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/istanbul-medeniyet/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -18161,6 +18689,30 @@
         "href": "/ders-notlari/bahcesehir/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/bahcesehir/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/bahcesehir/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/bahcesehir/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -18951,6 +19503,30 @@
         "href": "/ders-notlari/yeditepe/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/yeditepe/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/yeditepe/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/yeditepe/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -19741,6 +20317,30 @@
         "href": "/ders-notlari/ozyegin/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ozyegin/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ozyegin/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ozyegin/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -20531,6 +21131,30 @@
         "href": "/ders-notlari/kadir-has/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kadir-has/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kadir-has/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kadir-has/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -21321,6 +21945,30 @@
         "href": "/ders-notlari/istanbul-bilgi/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/istanbul-bilgi/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/istanbul-bilgi/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/istanbul-bilgi/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -22111,6 +22759,30 @@
         "href": "/ders-notlari/mehmet-akif/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/mehmet-akif/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/mehmet-akif/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/mehmet-akif/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -22901,6 +23573,30 @@
         "href": "/ders-notlari/altinbas/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/altinbas/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/altinbas/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/altinbas/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -23691,6 +24387,30 @@
         "href": "/ders-notlari/maltepe/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/maltepe/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/maltepe/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/maltepe/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -24481,6 +25201,30 @@
         "href": "/ders-notlari/dogus/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/dogus/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/dogus/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/dogus/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -25271,6 +26015,30 @@
         "href": "/ders-notlari/isik/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/isik/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/isik/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/isik/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -26061,6 +26829,30 @@
         "href": "/ders-notlari/okan/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/okan/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/okan/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/okan/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -26851,6 +27643,30 @@
         "href": "/ders-notlari/kultur/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kultur/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kultur/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kultur/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -27641,6 +28457,30 @@
         "href": "/ders-notlari/aydin/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/aydin/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/aydin/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/aydin/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -28431,6 +29271,30 @@
         "href": "/ders-notlari/gelisim/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/gelisim/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/gelisim/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/gelisim/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -29221,6 +30085,30 @@
         "href": "/ders-notlari/topkapi/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/topkapi/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/topkapi/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/topkapi/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -30011,6 +30899,30 @@
         "href": "/ders-notlari/nisantasi/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/nisantasi/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/nisantasi/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/nisantasi/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -30801,6 +31713,30 @@
         "href": "/ders-notlari/beykent/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/beykent/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/beykent/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/beykent/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -31591,6 +32527,30 @@
         "href": "/ders-notlari/halic/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/halic/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/halic/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/halic/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -32381,6 +33341,30 @@
         "href": "/ders-notlari/fatih-sultan/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/fatih-sultan/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/fatih-sultan/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/fatih-sultan/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -33172,6 +34156,30 @@
         "href": "/ders-notlari/karadeniz-teknik/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/karadeniz-teknik/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/karadeniz-teknik/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/karadeniz-teknik/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -33963,6 +34971,30 @@
         "href": "/ders-notlari/ataturk/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ataturk/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ataturk/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ataturk/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -34753,6 +35785,30 @@
         "href": "/ders-notlari/inonu/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/inonu/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/inonu/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/inonu/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -35543,6 +36599,30 @@
         "href": "/ders-notlari/dicle/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/dicle/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/dicle/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/dicle/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -36333,6 +37413,30 @@
         "href": "/ders-notlari/firat/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/firat/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/firat/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/firat/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -37123,6 +38227,30 @@
         "href": "/ders-notlari/gaziantep/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/gaziantep/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/gaziantep/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/gaziantep/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -37914,6 +39042,30 @@
         "href": "/ders-notlari/suleyman-demirel/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/suleyman-demirel/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/suleyman-demirel/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/suleyman-demirel/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -38704,6 +39856,30 @@
         "href": "/ders-notlari/pamukkale/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/pamukkale/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/pamukkale/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/pamukkale/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -39494,6 +40670,30 @@
         "href": "/ders-notlari/mugla/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/mugla/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/mugla/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/mugla/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -40284,6 +41484,30 @@
         "href": "/ders-notlari/sakarya/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/sakarya/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/sakarya/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/sakarya/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -41074,6 +42298,30 @@
         "href": "/ders-notlari/kocaeli/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kocaeli/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kocaeli/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kocaeli/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -41864,6 +43112,30 @@
         "href": "/ders-notlari/trakya/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/trakya/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/trakya/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/trakya/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -42654,6 +43926,30 @@
         "href": "/ders-notlari/canakkale/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/canakkale/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/canakkale/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/canakkale/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -43444,6 +44740,30 @@
         "href": "/ders-notlari/balikesir/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/balikesir/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/balikesir/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/balikesir/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -44235,6 +45555,30 @@
         "href": "/ders-notlari/afyon/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/afyon/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/afyon/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/afyon/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -45025,6 +46369,30 @@
         "href": "/ders-notlari/dumlupinar/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/dumlupinar/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/dumlupinar/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/dumlupinar/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -45815,6 +47183,30 @@
         "href": "/ders-notlari/eskisehir-osmangazi/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/eskisehir-osmangazi/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/eskisehir-osmangazi/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/eskisehir-osmangazi/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -46606,6 +47998,30 @@
         "href": "/ders-notlari/sivas-cumhuriyet/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/sivas-cumhuriyet/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/sivas-cumhuriyet/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/sivas-cumhuriyet/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -47396,6 +48812,30 @@
         "href": "/ders-notlari/tokat/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/tokat/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/tokat/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/tokat/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -48186,6 +49626,30 @@
         "href": "/ders-notlari/yozgat/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/yozgat/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/yozgat/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/yozgat/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -48976,6 +50440,30 @@
         "href": "/ders-notlari/kirsehir/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kirsehir/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kirsehir/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kirsehir/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -49766,6 +51254,30 @@
         "href": "/ders-notlari/nevsehir/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/nevsehir/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/nevsehir/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/nevsehir/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -50556,6 +52068,30 @@
         "href": "/ders-notlari/mersin/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/mersin/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/mersin/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/mersin/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -51347,6 +52883,30 @@
         "href": "/ders-notlari/hatay/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/hatay/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/hatay/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/hatay/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -52137,6 +53697,30 @@
         "href": "/ders-notlari/kahramanmaras/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kahramanmaras/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kahramanmaras/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kahramanmaras/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -52927,6 +54511,30 @@
         "href": "/ders-notlari/osmaniye/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/osmaniye/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/osmaniye/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/osmaniye/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -53718,6 +55326,30 @@
         "href": "/ders-notlari/samsun/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/samsun/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/samsun/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/samsun/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -54508,6 +56140,30 @@
         "href": "/ders-notlari/ordu/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ordu/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ordu/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ordu/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -55298,6 +56954,30 @@
         "href": "/ders-notlari/giresun/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/giresun/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/giresun/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/giresun/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -56089,6 +57769,30 @@
         "href": "/ders-notlari/rize/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/rize/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/rize/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/rize/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -56879,6 +58583,30 @@
         "href": "/ders-notlari/artvin/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/artvin/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/artvin/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/artvin/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -57671,6 +59399,30 @@
         "href": "/ders-notlari/van-yyu/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/van-yyu/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/van-yyu/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/van-yyu/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -58461,6 +60213,30 @@
         "href": "/ders-notlari/agri/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/agri/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/agri/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/agri/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -59251,6 +61027,30 @@
         "href": "/ders-notlari/kars/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kars/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kars/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kars/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -60041,6 +61841,30 @@
         "href": "/ders-notlari/erzincan/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/erzincan/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/erzincan/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/erzincan/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -60831,6 +62655,30 @@
         "href": "/ders-notlari/bayburt/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/bayburt/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/bayburt/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/bayburt/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -61621,6 +63469,30 @@
         "href": "/ders-notlari/gumushane/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/gumushane/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/gumushane/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/gumushane/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -62411,6 +64283,30 @@
         "href": "/ders-notlari/bingol/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/bingol/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/bingol/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/bingol/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -63201,6 +65097,30 @@
         "href": "/ders-notlari/mus/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/mus/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/mus/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/mus/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -63991,6 +65911,30 @@
         "href": "/ders-notlari/hakkari/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/hakkari/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/hakkari/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/hakkari/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -64781,6 +66725,30 @@
         "href": "/ders-notlari/sirnak/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/sirnak/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/sirnak/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/sirnak/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -65572,6 +67540,30 @@
         "href": "/ders-notlari/mardin/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/mardin/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/mardin/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/mardin/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -66362,6 +68354,30 @@
         "href": "/ders-notlari/batman/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/batman/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/batman/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/batman/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -67152,6 +69168,30 @@
         "href": "/ders-notlari/siirt/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/siirt/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/siirt/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/siirt/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -67942,6 +69982,30 @@
         "href": "/ders-notlari/adiyaman/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/adiyaman/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/adiyaman/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/adiyaman/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -68732,6 +70796,30 @@
         "href": "/ders-notlari/kilis/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kilis/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kilis/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kilis/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -69522,6 +71610,30 @@
         "href": "/ders-notlari/igdir/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/igdir/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/igdir/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/igdir/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -70312,6 +72424,30 @@
         "href": "/ders-notlari/ardahan/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ardahan/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ardahan/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ardahan/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -71102,6 +73238,30 @@
         "href": "/ders-notlari/bilecik/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/bilecik/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/bilecik/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/bilecik/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -71893,6 +74053,30 @@
         "href": "/ders-notlari/bolu/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/bolu/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/bolu/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/bolu/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -72683,6 +74867,30 @@
         "href": "/ders-notlari/duzce/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/duzce/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/duzce/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/duzce/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -73473,6 +75681,30 @@
         "href": "/ders-notlari/zonguldak/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/zonguldak/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/zonguldak/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/zonguldak/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -74263,6 +76495,30 @@
         "href": "/ders-notlari/karabuk/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/karabuk/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/karabuk/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/karabuk/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -75053,6 +77309,30 @@
         "href": "/ders-notlari/kastamonu/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kastamonu/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kastamonu/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kastamonu/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -75843,6 +78123,30 @@
         "href": "/ders-notlari/sinop/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/sinop/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/sinop/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/sinop/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -76634,6 +78938,30 @@
         "href": "/ders-notlari/corum/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/corum/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/corum/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/corum/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -77424,6 +79752,30 @@
         "href": "/ders-notlari/amasya/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/amasya/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/amasya/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/amasya/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -78214,6 +80566,30 @@
         "href": "/ders-notlari/cankiri/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/cankiri/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/cankiri/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/cankiri/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -79004,6 +81380,30 @@
         "href": "/ders-notlari/kirikkale/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kirikkale/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kirikkale/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kirikkale/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -79794,6 +82194,30 @@
         "href": "/ders-notlari/aksaray/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/aksaray/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/aksaray/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/aksaray/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -80584,6 +83008,30 @@
         "href": "/ders-notlari/nigde/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/nigde/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/nigde/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/nigde/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -81374,6 +83822,30 @@
         "href": "/ders-notlari/konya-teknik/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/konya-teknik/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/konya-teknik/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/konya-teknik/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -82164,6 +84636,30 @@
         "href": "/ders-notlari/karaman/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/karaman/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/karaman/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/karaman/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -82954,6 +85450,30 @@
         "href": "/ders-notlari/usak/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/usak/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/usak/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/usak/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -83745,6 +86265,30 @@
         "href": "/ders-notlari/manisa/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/manisa/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/manisa/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/manisa/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -84535,6 +87079,30 @@
         "href": "/ders-notlari/aydin-adu/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/aydin-adu/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/aydin-adu/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/aydin-adu/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -85325,6 +87893,30 @@
         "href": "/ders-notlari/tekirdag/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/tekirdag/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/tekirdag/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/tekirdag/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -86115,6 +88707,30 @@
         "href": "/ders-notlari/kirklareli/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kirklareli/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kirklareli/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kirklareli/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -86905,6 +89521,30 @@
         "href": "/ders-notlari/atilim/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/atilim/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/atilim/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/atilim/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -87695,6 +90335,30 @@
         "href": "/ders-notlari/cankaya/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/cankaya/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/cankaya/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/cankaya/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -88485,6 +91149,30 @@
         "href": "/ders-notlari/ufuk/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ufuk/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ufuk/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ufuk/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -89275,6 +91963,30 @@
         "href": "/ders-notlari/yasar/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/yasar/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/yasar/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/yasar/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -90065,6 +92777,30 @@
         "href": "/ders-notlari/izmir-ekonomi/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/izmir-ekonomi/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/izmir-ekonomi/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/izmir-ekonomi/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -90855,6 +93591,30 @@
         "href": "/ders-notlari/tinaztepe/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/tinaztepe/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/tinaztepe/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/tinaztepe/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -91645,6 +94405,30 @@
         "href": "/ders-notlari/asbu-vakif/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/asbu-vakif/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/asbu-vakif/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/asbu-vakif/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -92435,6 +95219,30 @@
         "href": "/ders-notlari/hasan-kalyoncu/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/hasan-kalyoncu/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/hasan-kalyoncu/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/hasan-kalyoncu/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -93225,6 +96033,30 @@
         "href": "/ders-notlari/sanko/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/sanko/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/sanko/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/sanko/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -94015,6 +96847,30 @@
         "href": "/ders-notlari/toros/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/toros/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/toros/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/toros/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [
@@ -94805,6 +97661,30 @@
         "href": "/ders-notlari/cag/insaat-hukuku-yillik",
         "ready": true,
         "variantOf": "insaat-hukuku"
+      },
+      {
+        "code": "arabuluculuk-donem-1",
+        "title": "Arabuluculuk — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/cag/arabuluculuk-donem-1",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-donem-2",
+        "title": "Arabuluculuk — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/cag/arabuluculuk-donem-2",
+        "ready": true,
+        "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "arabuluculuk-yillik",
+        "title": "Arabuluculuk — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/cag/arabuluculuk-yillik",
+        "ready": true,
+        "variantOf": "arabuluculuk"
       }
     ],
     "seoParagraphs": [

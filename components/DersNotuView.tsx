@@ -711,6 +711,18 @@ export function DersNotuView({
               { code: 'insaat-hukuku-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
             ],
           },
+          {
+            match:
+              note.variantOf === 'arabuluculuk' ||
+              note.courseCode === 'arabuluculuk' ||
+              note.courseCode.startsWith('arabuluculuk-'),
+            title: 'Arabuluculuk · üç paket',
+            items: [
+              { code: 'arabuluculuk-donem-1', label: '1. Dönem (Güz)', desc: 'İlke · süreç · dava şartı' },
+              { code: 'arabuluculuk-donem-2', label: '2. Dönem (Bahar)', desc: 'Anlaşma · icra · iş/ticari' },
+              { code: 'arabuluculuk-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
+            ],
+          },
         ];
         const activePacks = packs.filter((p) => p.match);
         if (!activePacks.length) return null;
@@ -1435,6 +1447,23 @@ export function UniHubView({ hub }: { hub: UniHubContent }) {
               { code: 'insaat-hukuku-donem-1', title: '1. Dönem (Güz)' },
               { code: 'insaat-hukuku-donem-2', title: '2. Dönem (Bahar)' },
               { code: 'insaat-hukuku-yillik', title: 'Yıllık tam not' },
+            ],
+          },
+          {
+            show: hub.courses.some(
+              (c) =>
+                String(c.code).startsWith('arabuluculuk') ||
+                c.code === 'arabuluculuk'
+            ),
+            title: 'Arabuluculuk — 1. dönem · 2. dönem · yıllık',
+            desc: 'İlkeler–süreç–dava şartı–anlaşma–icra… üç premium not + PDF.',
+            border: 'border-primary/20 bg-primary/[0.04]',
+            itemBorder: 'border-primary/25',
+            accent: 'text-primary',
+            items: [
+              { code: 'arabuluculuk-donem-1', title: '1. Dönem (Güz)' },
+              { code: 'arabuluculuk-donem-2', title: '2. Dönem (Bahar)' },
+              { code: 'arabuluculuk-yillik', title: 'Yıllık tam not' },
             ],
           },
         ]

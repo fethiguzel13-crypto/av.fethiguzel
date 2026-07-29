@@ -3,7 +3,7 @@
   "wave": "all",
   "universityCount": 120,
   "hubCount": 120,
-  "noteCount": 11640,
+  "noteCount": 12000,
   "universities": [
     {
       "slug": "ankara-yildirim-beyazit",
@@ -98886,6 +98886,3246 @@
       "href": "/ders-notlari/cag/insaat-hukuku-yillik",
       "variantOf": "insaat-hukuku",
       "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "ankara-yildirim-beyazit__arabuluculuk-donem-1",
+      "title": "AYBÜ Arabuluculuk 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "ankara-yildirim-beyazit__arabuluculuk-donem-2",
+      "title": "AYBÜ Arabuluculuk 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "ankara-yildirim-beyazit__arabuluculuk-yillik",
+      "title": "AYBÜ Arabuluculuk Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "ankara__arabuluculuk-donem-1",
+      "title": "AÜHF Arabuluculuk 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "ankara__arabuluculuk-donem-2",
+      "title": "AÜHF Arabuluculuk 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "ankara__arabuluculuk-yillik",
+      "title": "AÜHF Arabuluculuk Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "istanbul__arabuluculuk-donem-1",
+      "title": "İÜHF Arabuluculuk 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "istanbul__arabuluculuk-donem-2",
+      "title": "İÜHF Arabuluculuk 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "istanbul__arabuluculuk-yillik",
+      "title": "İÜHF Arabuluculuk Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "marmara__arabuluculuk-donem-1",
+      "title": "MÜHF Arabuluculuk 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "marmara__arabuluculuk-donem-2",
+      "title": "MÜHF Arabuluculuk 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "marmara__arabuluculuk-yillik",
+      "title": "MÜHF Arabuluculuk Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "galatasaray__arabuluculuk-donem-1",
+      "title": "GSÜ Arabuluculuk 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "galatasaray__arabuluculuk-donem-2",
+      "title": "GSÜ Arabuluculuk 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "galatasaray__arabuluculuk-yillik",
+      "title": "GSÜ Arabuluculuk Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "dokuz-eylul__arabuluculuk-donem-1",
+      "title": "DEÜ Arabuluculuk 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "dokuz-eylul__arabuluculuk-donem-2",
+      "title": "DEÜ Arabuluculuk 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "dokuz-eylul__arabuluculuk-yillik",
+      "title": "DEÜ Arabuluculuk Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "hacettepe__arabuluculuk-donem-1",
+      "title": "Hacettepe Arabuluculuk 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "hacettepe__arabuluculuk-donem-2",
+      "title": "Hacettepe Arabuluculuk 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "hacettepe__arabuluculuk-yillik",
+      "title": "Hacettepe Arabuluculuk Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "ankara-hacibayram__arabuluculuk-donem-1",
+      "title": "AHBV Arabuluculuk 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "ankara-hacibayram__arabuluculuk-donem-2",
+      "title": "AHBV Arabuluculuk 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "ankara-hacibayram__arabuluculuk-yillik",
+      "title": "AHBV Arabuluculuk Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "bilkent__arabuluculuk-donem-1",
+      "title": "Bilkent Arabuluculuk 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "bilkent__arabuluculuk-donem-2",
+      "title": "Bilkent Arabuluculuk 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "bilkent__arabuluculuk-yillik",
+      "title": "Bilkent Arabuluculuk Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "koc__arabuluculuk-donem-1",
+      "title": "Koç Arabuluculuk 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "koc__arabuluculuk-donem-2",
+      "title": "Koç Arabuluculuk 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "koc__arabuluculuk-yillik",
+      "title": "Koç Arabuluculuk Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "tobb-etu__arabuluculuk-donem-1",
+      "title": "TOBB ETÜ Arabuluculuk 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "tobb-etu__arabuluculuk-donem-2",
+      "title": "TOBB ETÜ Arabuluculuk 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "tobb-etu__arabuluculuk-yillik",
+      "title": "TOBB ETÜ Arabuluculuk Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "bogazici__arabuluculuk-donem-1",
+      "title": "BÜ Arabuluculuk 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "bogazici__arabuluculuk-donem-2",
+      "title": "BÜ Arabuluculuk 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "bogazici__arabuluculuk-yillik",
+      "title": "BÜ Arabuluculuk Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "ege__arabuluculuk-donem-1",
+      "title": "Ege Arabuluculuk 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "ege__arabuluculuk-donem-2",
+      "title": "Ege Arabuluculuk 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "ege__arabuluculuk-yillik",
+      "title": "Ege Arabuluculuk Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "akdeniz__arabuluculuk-donem-1",
+      "title": "Akdeniz Arabuluculuk 1. Dönem (Güz) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "akdeniz__arabuluculuk-donem-2",
+      "title": "Akdeniz Arabuluculuk 2. Dönem (Bahar) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "akdeniz__arabuluculuk-yillik",
+      "title": "Akdeniz Arabuluculuk Yıllık (Tam paket) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "selcuk__arabuluculuk-donem-1",
+      "title": "Selçuk Arabuluculuk 1. Dönem (Güz) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "selcuk__arabuluculuk-donem-2",
+      "title": "Selçuk Arabuluculuk 2. Dönem (Bahar) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "selcuk__arabuluculuk-yillik",
+      "title": "Selçuk Arabuluculuk Yıllık (Tam paket) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "erciyes__arabuluculuk-donem-1",
+      "title": "Erciyes Arabuluculuk 1. Dönem (Güz) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "erciyes__arabuluculuk-donem-2",
+      "title": "Erciyes Arabuluculuk 2. Dönem (Bahar) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "erciyes__arabuluculuk-yillik",
+      "title": "Erciyes Arabuluculuk Yıllık (Tam paket) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "uludag__arabuluculuk-donem-1",
+      "title": "Uludağ Arabuluculuk 1. Dönem (Güz) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "uludag__arabuluculuk-donem-2",
+      "title": "Uludağ Arabuluculuk 2. Dönem (Bahar) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "uludag__arabuluculuk-yillik",
+      "title": "Uludağ Arabuluculuk Yıllık (Tam paket) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "cukurova__arabuluculuk-donem-1",
+      "title": "Çukurova Arabuluculuk 1. Dönem (Güz) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "cukurova__arabuluculuk-donem-2",
+      "title": "Çukurova Arabuluculuk 2. Dönem (Bahar) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "cukurova__arabuluculuk-yillik",
+      "title": "Çukurova Arabuluculuk Yıllık (Tam paket) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "anadolu__arabuluculuk-donem-1",
+      "title": "Anadolu Arabuluculuk 1. Dönem (Güz) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "anadolu__arabuluculuk-donem-2",
+      "title": "Anadolu Arabuluculuk 2. Dönem (Bahar) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "anadolu__arabuluculuk-yillik",
+      "title": "Anadolu Arabuluculuk Yıllık (Tam paket) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "gazi-ankara__arabuluculuk-donem-1",
+      "title": "ASBÜ Arabuluculuk 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "gazi-ankara__arabuluculuk-donem-2",
+      "title": "ASBÜ Arabuluculuk 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "gazi-ankara__arabuluculuk-yillik",
+      "title": "ASBÜ Arabuluculuk Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "yildiz-teknik__arabuluculuk-donem-1",
+      "title": "YTÜ Arabuluculuk 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "yildiz-teknik__arabuluculuk-donem-2",
+      "title": "YTÜ Arabuluculuk 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "yildiz-teknik__arabuluculuk-yillik",
+      "title": "YTÜ Arabuluculuk Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "istanbul-medeniyet__arabuluculuk-donem-1",
+      "title": "Medeniyet Arabuluculuk 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "istanbul-medeniyet__arabuluculuk-donem-2",
+      "title": "Medeniyet Arabuluculuk 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "istanbul-medeniyet__arabuluculuk-yillik",
+      "title": "Medeniyet Arabuluculuk Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "bahcesehir__arabuluculuk-donem-1",
+      "title": "BAU Arabuluculuk 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "bahcesehir__arabuluculuk-donem-2",
+      "title": "BAU Arabuluculuk 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "bahcesehir__arabuluculuk-yillik",
+      "title": "BAU Arabuluculuk Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "yeditepe__arabuluculuk-donem-1",
+      "title": "Yeditepe Arabuluculuk 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "yeditepe__arabuluculuk-donem-2",
+      "title": "Yeditepe Arabuluculuk 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "yeditepe__arabuluculuk-yillik",
+      "title": "Yeditepe Arabuluculuk Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "ozyegin__arabuluculuk-donem-1",
+      "title": "Özyeğin Arabuluculuk 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "ozyegin__arabuluculuk-donem-2",
+      "title": "Özyeğin Arabuluculuk 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "ozyegin__arabuluculuk-yillik",
+      "title": "Özyeğin Arabuluculuk Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "kadir-has__arabuluculuk-donem-1",
+      "title": "KHAS Arabuluculuk 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "kadir-has__arabuluculuk-donem-2",
+      "title": "KHAS Arabuluculuk 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "kadir-has__arabuluculuk-yillik",
+      "title": "KHAS Arabuluculuk Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "istanbul-bilgi__arabuluculuk-donem-1",
+      "title": "Bilgi Arabuluculuk 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "istanbul-bilgi__arabuluculuk-donem-2",
+      "title": "Bilgi Arabuluculuk 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "istanbul-bilgi__arabuluculuk-yillik",
+      "title": "Bilgi Arabuluculuk Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "mehmet-akif__arabuluculuk-donem-1",
+      "title": "Medipol Arabuluculuk 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "mehmet-akif__arabuluculuk-donem-2",
+      "title": "Medipol Arabuluculuk 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "mehmet-akif__arabuluculuk-yillik",
+      "title": "Medipol Arabuluculuk Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "altinbas__arabuluculuk-donem-1",
+      "title": "Altınbaş Arabuluculuk 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "altinbas__arabuluculuk-donem-2",
+      "title": "Altınbaş Arabuluculuk 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "altinbas__arabuluculuk-yillik",
+      "title": "Altınbaş Arabuluculuk Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "maltepe__arabuluculuk-donem-1",
+      "title": "Maltepe Arabuluculuk 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "maltepe__arabuluculuk-donem-2",
+      "title": "Maltepe Arabuluculuk 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "maltepe__arabuluculuk-yillik",
+      "title": "Maltepe Arabuluculuk Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "dogus__arabuluculuk-donem-1",
+      "title": "Doğuş Arabuluculuk 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "dogus__arabuluculuk-donem-2",
+      "title": "Doğuş Arabuluculuk 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "dogus__arabuluculuk-yillik",
+      "title": "Doğuş Arabuluculuk Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "isik__arabuluculuk-donem-1",
+      "title": "Işık Arabuluculuk 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "isik__arabuluculuk-donem-2",
+      "title": "Işık Arabuluculuk 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "isik__arabuluculuk-yillik",
+      "title": "Işık Arabuluculuk Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "okan__arabuluculuk-donem-1",
+      "title": "Okan Arabuluculuk 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "okan__arabuluculuk-donem-2",
+      "title": "Okan Arabuluculuk 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "okan__arabuluculuk-yillik",
+      "title": "Okan Arabuluculuk Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "kultur__arabuluculuk-donem-1",
+      "title": "İKÜ Arabuluculuk 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "kultur__arabuluculuk-donem-2",
+      "title": "İKÜ Arabuluculuk 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "kultur__arabuluculuk-yillik",
+      "title": "İKÜ Arabuluculuk Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "aydin__arabuluculuk-donem-1",
+      "title": "İAÜ Arabuluculuk 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "aydin__arabuluculuk-donem-2",
+      "title": "İAÜ Arabuluculuk 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "aydin__arabuluculuk-yillik",
+      "title": "İAÜ Arabuluculuk Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "gelisim__arabuluculuk-donem-1",
+      "title": "Gelişim Arabuluculuk 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "gelisim__arabuluculuk-donem-2",
+      "title": "Gelişim Arabuluculuk 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "gelisim__arabuluculuk-yillik",
+      "title": "Gelişim Arabuluculuk Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "topkapi__arabuluculuk-donem-1",
+      "title": "Topkapı Arabuluculuk 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "topkapi__arabuluculuk-donem-2",
+      "title": "Topkapı Arabuluculuk 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "topkapi__arabuluculuk-yillik",
+      "title": "Topkapı Arabuluculuk Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "nisantasi__arabuluculuk-donem-1",
+      "title": "Nişantaşı Arabuluculuk 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "nisantasi__arabuluculuk-donem-2",
+      "title": "Nişantaşı Arabuluculuk 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "nisantasi__arabuluculuk-yillik",
+      "title": "Nişantaşı Arabuluculuk Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "beykent__arabuluculuk-donem-1",
+      "title": "Beykent Arabuluculuk 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "beykent__arabuluculuk-donem-2",
+      "title": "Beykent Arabuluculuk 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "beykent__arabuluculuk-yillik",
+      "title": "Beykent Arabuluculuk Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "halic__arabuluculuk-donem-1",
+      "title": "Haliç Arabuluculuk 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "halic__arabuluculuk-donem-2",
+      "title": "Haliç Arabuluculuk 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "halic__arabuluculuk-yillik",
+      "title": "Haliç Arabuluculuk Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "fatih-sultan__arabuluculuk-donem-1",
+      "title": "FSMVÜ Arabuluculuk 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "fatih-sultan__arabuluculuk-donem-2",
+      "title": "FSMVÜ Arabuluculuk 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "fatih-sultan__arabuluculuk-yillik",
+      "title": "FSMVÜ Arabuluculuk Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "karadeniz-teknik__arabuluculuk-donem-1",
+      "title": "KTÜ Arabuluculuk 1. Dönem (Güz) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "karadeniz-teknik__arabuluculuk-donem-2",
+      "title": "KTÜ Arabuluculuk 2. Dönem (Bahar) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "karadeniz-teknik__arabuluculuk-yillik",
+      "title": "KTÜ Arabuluculuk Yıllık (Tam paket) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "ataturk__arabuluculuk-donem-1",
+      "title": "Atatürk Arabuluculuk 1. Dönem (Güz) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "ataturk__arabuluculuk-donem-2",
+      "title": "Atatürk Arabuluculuk 2. Dönem (Bahar) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "ataturk__arabuluculuk-yillik",
+      "title": "Atatürk Arabuluculuk Yıllık (Tam paket) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "inonu__arabuluculuk-donem-1",
+      "title": "İnönü Arabuluculuk 1. Dönem (Güz) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "inonu__arabuluculuk-donem-2",
+      "title": "İnönü Arabuluculuk 2. Dönem (Bahar) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "inonu__arabuluculuk-yillik",
+      "title": "İnönü Arabuluculuk Yıllık (Tam paket) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "dicle__arabuluculuk-donem-1",
+      "title": "Dicle Arabuluculuk 1. Dönem (Güz) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "dicle__arabuluculuk-donem-2",
+      "title": "Dicle Arabuluculuk 2. Dönem (Bahar) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "dicle__arabuluculuk-yillik",
+      "title": "Dicle Arabuluculuk Yıllık (Tam paket) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "firat__arabuluculuk-donem-1",
+      "title": "Fırat Arabuluculuk 1. Dönem (Güz) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "firat__arabuluculuk-donem-2",
+      "title": "Fırat Arabuluculuk 2. Dönem (Bahar) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "firat__arabuluculuk-yillik",
+      "title": "Fırat Arabuluculuk Yıllık (Tam paket) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "gaziantep__arabuluculuk-donem-1",
+      "title": "GAÜN Arabuluculuk 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "gaziantep__arabuluculuk-donem-2",
+      "title": "GAÜN Arabuluculuk 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "gaziantep__arabuluculuk-yillik",
+      "title": "GAÜN Arabuluculuk Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "suleyman-demirel__arabuluculuk-donem-1",
+      "title": "SDÜ Arabuluculuk 1. Dönem (Güz) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "suleyman-demirel__arabuluculuk-donem-2",
+      "title": "SDÜ Arabuluculuk 2. Dönem (Bahar) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "suleyman-demirel__arabuluculuk-yillik",
+      "title": "SDÜ Arabuluculuk Yıllık (Tam paket) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "pamukkale__arabuluculuk-donem-1",
+      "title": "PAÜ Arabuluculuk 1. Dönem (Güz) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "pamukkale__arabuluculuk-donem-2",
+      "title": "PAÜ Arabuluculuk 2. Dönem (Bahar) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "pamukkale__arabuluculuk-yillik",
+      "title": "PAÜ Arabuluculuk Yıllık (Tam paket) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "mugla__arabuluculuk-donem-1",
+      "title": "MSKU Arabuluculuk 1. Dönem (Güz) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "mugla__arabuluculuk-donem-2",
+      "title": "MSKU Arabuluculuk 2. Dönem (Bahar) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "mugla__arabuluculuk-yillik",
+      "title": "MSKU Arabuluculuk Yıllık (Tam paket) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "sakarya__arabuluculuk-donem-1",
+      "title": "SAÜ Arabuluculuk 1. Dönem (Güz) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "sakarya__arabuluculuk-donem-2",
+      "title": "SAÜ Arabuluculuk 2. Dönem (Bahar) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "sakarya__arabuluculuk-yillik",
+      "title": "SAÜ Arabuluculuk Yıllık (Tam paket) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "kocaeli__arabuluculuk-donem-1",
+      "title": "KOÜ Arabuluculuk 1. Dönem (Güz) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "kocaeli__arabuluculuk-donem-2",
+      "title": "KOÜ Arabuluculuk 2. Dönem (Bahar) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "kocaeli__arabuluculuk-yillik",
+      "title": "KOÜ Arabuluculuk Yıllık (Tam paket) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "trakya__arabuluculuk-donem-1",
+      "title": "Trakya Arabuluculuk 1. Dönem (Güz) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "trakya__arabuluculuk-donem-2",
+      "title": "Trakya Arabuluculuk 2. Dönem (Bahar) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "trakya__arabuluculuk-yillik",
+      "title": "Trakya Arabuluculuk Yıllık (Tam paket) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "canakkale__arabuluculuk-donem-1",
+      "title": "ÇOMÜ Arabuluculuk 1. Dönem (Güz) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "canakkale__arabuluculuk-donem-2",
+      "title": "ÇOMÜ Arabuluculuk 2. Dönem (Bahar) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "canakkale__arabuluculuk-yillik",
+      "title": "ÇOMÜ Arabuluculuk Yıllık (Tam paket) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "balikesir__arabuluculuk-donem-1",
+      "title": "BAÜN Arabuluculuk 1. Dönem (Güz) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "balikesir__arabuluculuk-donem-2",
+      "title": "BAÜN Arabuluculuk 2. Dönem (Bahar) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "balikesir__arabuluculuk-yillik",
+      "title": "BAÜN Arabuluculuk Yıllık (Tam paket) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "afyon__arabuluculuk-donem-1",
+      "title": "AKÜ Arabuluculuk 1. Dönem (Güz) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "afyon__arabuluculuk-donem-2",
+      "title": "AKÜ Arabuluculuk 2. Dönem (Bahar) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "afyon__arabuluculuk-yillik",
+      "title": "AKÜ Arabuluculuk Yıllık (Tam paket) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "dumlupinar__arabuluculuk-donem-1",
+      "title": "DPÜ Arabuluculuk 1. Dönem (Güz) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "dumlupinar__arabuluculuk-donem-2",
+      "title": "DPÜ Arabuluculuk 2. Dönem (Bahar) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "dumlupinar__arabuluculuk-yillik",
+      "title": "DPÜ Arabuluculuk Yıllık (Tam paket) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "eskisehir-osmangazi__arabuluculuk-donem-1",
+      "title": "ESOGÜ Arabuluculuk 1. Dönem (Güz) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "eskisehir-osmangazi__arabuluculuk-donem-2",
+      "title": "ESOGÜ Arabuluculuk 2. Dönem (Bahar) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "eskisehir-osmangazi__arabuluculuk-yillik",
+      "title": "ESOGÜ Arabuluculuk Yıllık (Tam paket) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "sivas-cumhuriyet__arabuluculuk-donem-1",
+      "title": "SCÜ Arabuluculuk 1. Dönem (Güz) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "sivas-cumhuriyet__arabuluculuk-donem-2",
+      "title": "SCÜ Arabuluculuk 2. Dönem (Bahar) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "sivas-cumhuriyet__arabuluculuk-yillik",
+      "title": "SCÜ Arabuluculuk Yıllık (Tam paket) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "tokat__arabuluculuk-donem-1",
+      "title": "TOGÜ Arabuluculuk 1. Dönem (Güz) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "tokat__arabuluculuk-donem-2",
+      "title": "TOGÜ Arabuluculuk 2. Dönem (Bahar) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "tokat__arabuluculuk-yillik",
+      "title": "TOGÜ Arabuluculuk Yıllık (Tam paket) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "yozgat__arabuluculuk-donem-1",
+      "title": "Bozok Arabuluculuk 1. Dönem (Güz) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "yozgat__arabuluculuk-donem-2",
+      "title": "Bozok Arabuluculuk 2. Dönem (Bahar) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "yozgat__arabuluculuk-yillik",
+      "title": "Bozok Arabuluculuk Yıllık (Tam paket) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "kirsehir__arabuluculuk-donem-1",
+      "title": "AHİEVRAN Arabuluculuk 1. Dönem (Güz) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "kirsehir__arabuluculuk-donem-2",
+      "title": "AHİEVRAN Arabuluculuk 2. Dönem (Bahar) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "kirsehir__arabuluculuk-yillik",
+      "title": "AHİEVRAN Arabuluculuk Yıllık (Tam paket) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "nevsehir__arabuluculuk-donem-1",
+      "title": "NEVÜ Arabuluculuk 1. Dönem (Güz) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "nevsehir__arabuluculuk-donem-2",
+      "title": "NEVÜ Arabuluculuk 2. Dönem (Bahar) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "nevsehir__arabuluculuk-yillik",
+      "title": "NEVÜ Arabuluculuk Yıllık (Tam paket) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "mersin__arabuluculuk-donem-1",
+      "title": "MEÜ Arabuluculuk 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "mersin__arabuluculuk-donem-2",
+      "title": "MEÜ Arabuluculuk 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "mersin__arabuluculuk-yillik",
+      "title": "MEÜ Arabuluculuk Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "hatay__arabuluculuk-donem-1",
+      "title": "MKÜ Arabuluculuk 1. Dönem (Güz) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "hatay__arabuluculuk-donem-2",
+      "title": "MKÜ Arabuluculuk 2. Dönem (Bahar) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "hatay__arabuluculuk-yillik",
+      "title": "MKÜ Arabuluculuk Yıllık (Tam paket) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "kahramanmaras__arabuluculuk-donem-1",
+      "title": "KSÜ Arabuluculuk 1. Dönem (Güz) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "kahramanmaras__arabuluculuk-donem-2",
+      "title": "KSÜ Arabuluculuk 2. Dönem (Bahar) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "kahramanmaras__arabuluculuk-yillik",
+      "title": "KSÜ Arabuluculuk Yıllık (Tam paket) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "osmaniye__arabuluculuk-donem-1",
+      "title": "OKÜ Arabuluculuk 1. Dönem (Güz) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "osmaniye__arabuluculuk-donem-2",
+      "title": "OKÜ Arabuluculuk 2. Dönem (Bahar) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "osmaniye__arabuluculuk-yillik",
+      "title": "OKÜ Arabuluculuk Yıllık (Tam paket) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "samsun__arabuluculuk-donem-1",
+      "title": "OMÜ Arabuluculuk 1. Dönem (Güz) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "samsun__arabuluculuk-donem-2",
+      "title": "OMÜ Arabuluculuk 2. Dönem (Bahar) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "samsun__arabuluculuk-yillik",
+      "title": "OMÜ Arabuluculuk Yıllık (Tam paket) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "ordu__arabuluculuk-donem-1",
+      "title": "ODÜ Arabuluculuk 1. Dönem (Güz) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "ordu__arabuluculuk-donem-2",
+      "title": "ODÜ Arabuluculuk 2. Dönem (Bahar) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "ordu__arabuluculuk-yillik",
+      "title": "ODÜ Arabuluculuk Yıllık (Tam paket) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "giresun__arabuluculuk-donem-1",
+      "title": "GÜ Arabuluculuk 1. Dönem (Güz) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "giresun__arabuluculuk-donem-2",
+      "title": "GÜ Arabuluculuk 2. Dönem (Bahar) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "giresun__arabuluculuk-yillik",
+      "title": "GÜ Arabuluculuk Yıllık (Tam paket) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "rize__arabuluculuk-donem-1",
+      "title": "RTEÜ Arabuluculuk 1. Dönem (Güz) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "rize__arabuluculuk-donem-2",
+      "title": "RTEÜ Arabuluculuk 2. Dönem (Bahar) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "rize__arabuluculuk-yillik",
+      "title": "RTEÜ Arabuluculuk Yıllık (Tam paket) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "artvin__arabuluculuk-donem-1",
+      "title": "AÇÜ Arabuluculuk 1. Dönem (Güz) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "artvin__arabuluculuk-donem-2",
+      "title": "AÇÜ Arabuluculuk 2. Dönem (Bahar) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "artvin__arabuluculuk-yillik",
+      "title": "AÇÜ Arabuluculuk Yıllık (Tam paket) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "van-yyu__arabuluculuk-donem-1",
+      "title": "YYÜ Arabuluculuk 1. Dönem (Güz) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "van-yyu__arabuluculuk-donem-2",
+      "title": "YYÜ Arabuluculuk 2. Dönem (Bahar) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "van-yyu__arabuluculuk-yillik",
+      "title": "YYÜ Arabuluculuk Yıllık (Tam paket) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "agri__arabuluculuk-donem-1",
+      "title": "AİÇÜ Arabuluculuk 1. Dönem (Güz) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "agri__arabuluculuk-donem-2",
+      "title": "AİÇÜ Arabuluculuk 2. Dönem (Bahar) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "agri__arabuluculuk-yillik",
+      "title": "AİÇÜ Arabuluculuk Yıllık (Tam paket) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "kars__arabuluculuk-donem-1",
+      "title": "Kafkas Arabuluculuk 1. Dönem (Güz) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "kars__arabuluculuk-donem-2",
+      "title": "Kafkas Arabuluculuk 2. Dönem (Bahar) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "kars__arabuluculuk-yillik",
+      "title": "Kafkas Arabuluculuk Yıllık (Tam paket) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "erzincan__arabuluculuk-donem-1",
+      "title": "EBYÜ Arabuluculuk 1. Dönem (Güz) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "erzincan__arabuluculuk-donem-2",
+      "title": "EBYÜ Arabuluculuk 2. Dönem (Bahar) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "erzincan__arabuluculuk-yillik",
+      "title": "EBYÜ Arabuluculuk Yıllık (Tam paket) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "bayburt__arabuluculuk-donem-1",
+      "title": "Bayburt Arabuluculuk 1. Dönem (Güz) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "bayburt__arabuluculuk-donem-2",
+      "title": "Bayburt Arabuluculuk 2. Dönem (Bahar) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "bayburt__arabuluculuk-yillik",
+      "title": "Bayburt Arabuluculuk Yıllık (Tam paket) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "gumushane__arabuluculuk-donem-1",
+      "title": "Gümüşhane Arabuluculuk 1. Dönem (Güz) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "gumushane__arabuluculuk-donem-2",
+      "title": "Gümüşhane Arabuluculuk 2. Dönem (Bahar) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "gumushane__arabuluculuk-yillik",
+      "title": "Gümüşhane Arabuluculuk Yıllık (Tam paket) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "bingol__arabuluculuk-donem-1",
+      "title": "Bingöl Arabuluculuk 1. Dönem (Güz) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "bingol__arabuluculuk-donem-2",
+      "title": "Bingöl Arabuluculuk 2. Dönem (Bahar) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "bingol__arabuluculuk-yillik",
+      "title": "Bingöl Arabuluculuk Yıllık (Tam paket) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "mus__arabuluculuk-donem-1",
+      "title": "Muş Arabuluculuk 1. Dönem (Güz) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "mus__arabuluculuk-donem-2",
+      "title": "Muş Arabuluculuk 2. Dönem (Bahar) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "mus__arabuluculuk-yillik",
+      "title": "Muş Arabuluculuk Yıllık (Tam paket) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "hakkari__arabuluculuk-donem-1",
+      "title": "Hakkâri Arabuluculuk 1. Dönem (Güz) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "hakkari__arabuluculuk-donem-2",
+      "title": "Hakkâri Arabuluculuk 2. Dönem (Bahar) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "hakkari__arabuluculuk-yillik",
+      "title": "Hakkâri Arabuluculuk Yıllık (Tam paket) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "sirnak__arabuluculuk-donem-1",
+      "title": "Şırnak Arabuluculuk 1. Dönem (Güz) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "sirnak__arabuluculuk-donem-2",
+      "title": "Şırnak Arabuluculuk 2. Dönem (Bahar) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "sirnak__arabuluculuk-yillik",
+      "title": "Şırnak Arabuluculuk Yıllık (Tam paket) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "mardin__arabuluculuk-donem-1",
+      "title": "Artuklu Arabuluculuk 1. Dönem (Güz) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "mardin__arabuluculuk-donem-2",
+      "title": "Artuklu Arabuluculuk 2. Dönem (Bahar) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "mardin__arabuluculuk-yillik",
+      "title": "Artuklu Arabuluculuk Yıllık (Tam paket) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "batman__arabuluculuk-donem-1",
+      "title": "Batman Arabuluculuk 1. Dönem (Güz) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "batman__arabuluculuk-donem-2",
+      "title": "Batman Arabuluculuk 2. Dönem (Bahar) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "batman__arabuluculuk-yillik",
+      "title": "Batman Arabuluculuk Yıllık (Tam paket) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "siirt__arabuluculuk-donem-1",
+      "title": "Siirt Arabuluculuk 1. Dönem (Güz) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "siirt__arabuluculuk-donem-2",
+      "title": "Siirt Arabuluculuk 2. Dönem (Bahar) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "siirt__arabuluculuk-yillik",
+      "title": "Siirt Arabuluculuk Yıllık (Tam paket) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "adiyaman__arabuluculuk-donem-1",
+      "title": "Adıyaman Arabuluculuk 1. Dönem (Güz) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "adiyaman__arabuluculuk-donem-2",
+      "title": "Adıyaman Arabuluculuk 2. Dönem (Bahar) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "adiyaman__arabuluculuk-yillik",
+      "title": "Adıyaman Arabuluculuk Yıllık (Tam paket) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "kilis__arabuluculuk-donem-1",
+      "title": "Kilis Arabuluculuk 1. Dönem (Güz) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "kilis__arabuluculuk-donem-2",
+      "title": "Kilis Arabuluculuk 2. Dönem (Bahar) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "kilis__arabuluculuk-yillik",
+      "title": "Kilis Arabuluculuk Yıllık (Tam paket) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "igdir__arabuluculuk-donem-1",
+      "title": "Iğdır Arabuluculuk 1. Dönem (Güz) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "igdir__arabuluculuk-donem-2",
+      "title": "Iğdır Arabuluculuk 2. Dönem (Bahar) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "igdir__arabuluculuk-yillik",
+      "title": "Iğdır Arabuluculuk Yıllık (Tam paket) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "ardahan__arabuluculuk-donem-1",
+      "title": "Ardahan Arabuluculuk 1. Dönem (Güz) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "ardahan__arabuluculuk-donem-2",
+      "title": "Ardahan Arabuluculuk 2. Dönem (Bahar) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "ardahan__arabuluculuk-yillik",
+      "title": "Ardahan Arabuluculuk Yıllık (Tam paket) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "bilecik__arabuluculuk-donem-1",
+      "title": "BŞEÜ Arabuluculuk 1. Dönem (Güz) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "bilecik__arabuluculuk-donem-2",
+      "title": "BŞEÜ Arabuluculuk 2. Dönem (Bahar) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "bilecik__arabuluculuk-yillik",
+      "title": "BŞEÜ Arabuluculuk Yıllık (Tam paket) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "bolu__arabuluculuk-donem-1",
+      "title": "BAİBÜ Arabuluculuk 1. Dönem (Güz) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "bolu__arabuluculuk-donem-2",
+      "title": "BAİBÜ Arabuluculuk 2. Dönem (Bahar) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "bolu__arabuluculuk-yillik",
+      "title": "BAİBÜ Arabuluculuk Yıllık (Tam paket) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "duzce__arabuluculuk-donem-1",
+      "title": "Düzce Arabuluculuk 1. Dönem (Güz) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "duzce__arabuluculuk-donem-2",
+      "title": "Düzce Arabuluculuk 2. Dönem (Bahar) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "duzce__arabuluculuk-yillik",
+      "title": "Düzce Arabuluculuk Yıllık (Tam paket) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "zonguldak__arabuluculuk-donem-1",
+      "title": "BEÜN Arabuluculuk 1. Dönem (Güz) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "zonguldak__arabuluculuk-donem-2",
+      "title": "BEÜN Arabuluculuk 2. Dönem (Bahar) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "zonguldak__arabuluculuk-yillik",
+      "title": "BEÜN Arabuluculuk Yıllık (Tam paket) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "karabuk__arabuluculuk-donem-1",
+      "title": "KBÜ Arabuluculuk 1. Dönem (Güz) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "karabuk__arabuluculuk-donem-2",
+      "title": "KBÜ Arabuluculuk 2. Dönem (Bahar) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "karabuk__arabuluculuk-yillik",
+      "title": "KBÜ Arabuluculuk Yıllık (Tam paket) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "kastamonu__arabuluculuk-donem-1",
+      "title": "KÜ Arabuluculuk 1. Dönem (Güz) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "kastamonu__arabuluculuk-donem-2",
+      "title": "KÜ Arabuluculuk 2. Dönem (Bahar) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "kastamonu__arabuluculuk-yillik",
+      "title": "KÜ Arabuluculuk Yıllık (Tam paket) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "sinop__arabuluculuk-donem-1",
+      "title": "Sinop Arabuluculuk 1. Dönem (Güz) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "sinop__arabuluculuk-donem-2",
+      "title": "Sinop Arabuluculuk 2. Dönem (Bahar) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "sinop__arabuluculuk-yillik",
+      "title": "Sinop Arabuluculuk Yıllık (Tam paket) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "corum__arabuluculuk-donem-1",
+      "title": "Hitit Arabuluculuk 1. Dönem (Güz) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "corum__arabuluculuk-donem-2",
+      "title": "Hitit Arabuluculuk 2. Dönem (Bahar) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "corum__arabuluculuk-yillik",
+      "title": "Hitit Arabuluculuk Yıllık (Tam paket) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "amasya__arabuluculuk-donem-1",
+      "title": "Amasya Arabuluculuk 1. Dönem (Güz) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "amasya__arabuluculuk-donem-2",
+      "title": "Amasya Arabuluculuk 2. Dönem (Bahar) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "amasya__arabuluculuk-yillik",
+      "title": "Amasya Arabuluculuk Yıllık (Tam paket) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "cankiri__arabuluculuk-donem-1",
+      "title": "Karatekin Arabuluculuk 1. Dönem (Güz) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "cankiri__arabuluculuk-donem-2",
+      "title": "Karatekin Arabuluculuk 2. Dönem (Bahar) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "cankiri__arabuluculuk-yillik",
+      "title": "Karatekin Arabuluculuk Yıllık (Tam paket) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "kirikkale__arabuluculuk-donem-1",
+      "title": "Kırıkkale Arabuluculuk 1. Dönem (Güz) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "kirikkale__arabuluculuk-donem-2",
+      "title": "Kırıkkale Arabuluculuk 2. Dönem (Bahar) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "kirikkale__arabuluculuk-yillik",
+      "title": "Kırıkkale Arabuluculuk Yıllık (Tam paket) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "aksaray__arabuluculuk-donem-1",
+      "title": "Aksaray Arabuluculuk 1. Dönem (Güz) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "aksaray__arabuluculuk-donem-2",
+      "title": "Aksaray Arabuluculuk 2. Dönem (Bahar) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "aksaray__arabuluculuk-yillik",
+      "title": "Aksaray Arabuluculuk Yıllık (Tam paket) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "nigde__arabuluculuk-donem-1",
+      "title": "ÖHÜ Arabuluculuk 1. Dönem (Güz) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "nigde__arabuluculuk-donem-2",
+      "title": "ÖHÜ Arabuluculuk 2. Dönem (Bahar) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "nigde__arabuluculuk-yillik",
+      "title": "ÖHÜ Arabuluculuk Yıllık (Tam paket) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "konya-teknik__arabuluculuk-donem-1",
+      "title": "NEÜ Arabuluculuk 1. Dönem (Güz) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "konya-teknik__arabuluculuk-donem-2",
+      "title": "NEÜ Arabuluculuk 2. Dönem (Bahar) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "konya-teknik__arabuluculuk-yillik",
+      "title": "NEÜ Arabuluculuk Yıllık (Tam paket) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "karaman__arabuluculuk-donem-1",
+      "title": "KMÜ Arabuluculuk 1. Dönem (Güz) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "karaman__arabuluculuk-donem-2",
+      "title": "KMÜ Arabuluculuk 2. Dönem (Bahar) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "karaman__arabuluculuk-yillik",
+      "title": "KMÜ Arabuluculuk Yıllık (Tam paket) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "usak__arabuluculuk-donem-1",
+      "title": "Uşak Arabuluculuk 1. Dönem (Güz) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "usak__arabuluculuk-donem-2",
+      "title": "Uşak Arabuluculuk 2. Dönem (Bahar) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "usak__arabuluculuk-yillik",
+      "title": "Uşak Arabuluculuk Yıllık (Tam paket) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "manisa__arabuluculuk-donem-1",
+      "title": "MCBÜ Arabuluculuk 1. Dönem (Güz) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "manisa__arabuluculuk-donem-2",
+      "title": "MCBÜ Arabuluculuk 2. Dönem (Bahar) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "manisa__arabuluculuk-yillik",
+      "title": "MCBÜ Arabuluculuk Yıllık (Tam paket) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "aydin-adu__arabuluculuk-donem-1",
+      "title": "ADÜ Arabuluculuk 1. Dönem (Güz) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "aydin-adu__arabuluculuk-donem-2",
+      "title": "ADÜ Arabuluculuk 2. Dönem (Bahar) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "aydin-adu__arabuluculuk-yillik",
+      "title": "ADÜ Arabuluculuk Yıllık (Tam paket) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "tekirdag__arabuluculuk-donem-1",
+      "title": "NKÜ Arabuluculuk 1. Dönem (Güz) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "tekirdag__arabuluculuk-donem-2",
+      "title": "NKÜ Arabuluculuk 2. Dönem (Bahar) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "tekirdag__arabuluculuk-yillik",
+      "title": "NKÜ Arabuluculuk Yıllık (Tam paket) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "kirklareli__arabuluculuk-donem-1",
+      "title": "Kırklareli Arabuluculuk 1. Dönem (Güz) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "kirklareli__arabuluculuk-donem-2",
+      "title": "Kırklareli Arabuluculuk 2. Dönem (Bahar) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "kirklareli__arabuluculuk-yillik",
+      "title": "Kırklareli Arabuluculuk Yıllık (Tam paket) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "atilim__arabuluculuk-donem-1",
+      "title": "Atılım Arabuluculuk 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "atilim__arabuluculuk-donem-2",
+      "title": "Atılım Arabuluculuk 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "atilim__arabuluculuk-yillik",
+      "title": "Atılım Arabuluculuk Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "cankaya__arabuluculuk-donem-1",
+      "title": "Çankaya Arabuluculuk 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "cankaya__arabuluculuk-donem-2",
+      "title": "Çankaya Arabuluculuk 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "cankaya__arabuluculuk-yillik",
+      "title": "Çankaya Arabuluculuk Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "ufuk__arabuluculuk-donem-1",
+      "title": "Ufuk Arabuluculuk 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "ufuk__arabuluculuk-donem-2",
+      "title": "Ufuk Arabuluculuk 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "ufuk__arabuluculuk-yillik",
+      "title": "Ufuk Arabuluculuk Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "yasar__arabuluculuk-donem-1",
+      "title": "Yaşar Arabuluculuk 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "yasar__arabuluculuk-donem-2",
+      "title": "Yaşar Arabuluculuk 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "yasar__arabuluculuk-yillik",
+      "title": "Yaşar Arabuluculuk Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "izmir-ekonomi__arabuluculuk-donem-1",
+      "title": "İEÜ Arabuluculuk 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "izmir-ekonomi__arabuluculuk-donem-2",
+      "title": "İEÜ Arabuluculuk 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "izmir-ekonomi__arabuluculuk-yillik",
+      "title": "İEÜ Arabuluculuk Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "tinaztepe__arabuluculuk-donem-1",
+      "title": "Tınaztepe Arabuluculuk 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "tinaztepe__arabuluculuk-donem-2",
+      "title": "Tınaztepe Arabuluculuk 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "tinaztepe__arabuluculuk-yillik",
+      "title": "Tınaztepe Arabuluculuk Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "asbu-vakif__arabuluculuk-donem-1",
+      "title": "ABÜ Arabuluculuk 1. Dönem (Güz) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "asbu-vakif__arabuluculuk-donem-2",
+      "title": "ABÜ Arabuluculuk 2. Dönem (Bahar) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "asbu-vakif__arabuluculuk-yillik",
+      "title": "ABÜ Arabuluculuk Yıllık (Tam paket) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "hasan-kalyoncu__arabuluculuk-donem-1",
+      "title": "HKÜ Arabuluculuk 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "hasan-kalyoncu__arabuluculuk-donem-2",
+      "title": "HKÜ Arabuluculuk 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "hasan-kalyoncu__arabuluculuk-yillik",
+      "title": "HKÜ Arabuluculuk Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "sanko__arabuluculuk-donem-1",
+      "title": "Sanko Arabuluculuk 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "sanko__arabuluculuk-donem-2",
+      "title": "Sanko Arabuluculuk 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "sanko__arabuluculuk-yillik",
+      "title": "Sanko Arabuluculuk Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "toros__arabuluculuk-donem-1",
+      "title": "Toros Arabuluculuk 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "toros__arabuluculuk-donem-2",
+      "title": "Toros Arabuluculuk 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "toros__arabuluculuk-yillik",
+      "title": "Toros Arabuluculuk Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "arabuluculuk-donem-1",
+      "slug": "cag__arabuluculuk-donem-1",
+      "title": "Çağ Arabuluculuk 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/arabuluculuk-donem-1",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "arabuluculuk-donem-2",
+      "slug": "cag__arabuluculuk-donem-2",
+      "title": "Çağ Arabuluculuk 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/arabuluculuk-donem-2",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "arabuluculuk-yillik",
+      "slug": "cag__arabuluculuk-yillik",
+      "title": "Çağ Arabuluculuk Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/arabuluculuk-yillik",
+      "variantOf": "arabuluculuk",
+      "variantLabel": "Yıllık (Tam paket)"
     }
   ],
   "borclarGenelTripleAt": "2026-07-29T20:05:58.703Z",
@@ -98910,5 +102150,6 @@
   "hukukIngilizcesiTripleAt": "2026-07-29T21:12:01.835Z",
   "saglikHukukuTripleAt": "2026-07-29T21:14:42.533Z",
   "tuketiciHukukuTripleAt": "2026-07-29T21:17:38.037Z",
-  "insaatHukukuTripleAt": "2026-07-29T21:20:33.364Z"
+  "insaatHukukuTripleAt": "2026-07-29T21:20:33.364Z",
+  "arabuluculukTripleAt": "2026-07-29T21:23:11.701Z"
 }
