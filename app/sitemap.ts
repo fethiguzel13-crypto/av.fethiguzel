@@ -100,17 +100,12 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     'ankara-avukat',
     'avukat-fethi-guzel',
   ];
+  // Bölgesel bilgilendirme: index'e açık ama ana sayfa kadar öncelikli değil
   const ilceRoutes: MetadataRoute.Sitemap = ilceSlugs.map((slug) => ({
     url: `${baseUrl}/${slug}`,
     lastModified: new Date(),
-    changeFrequency: 'weekly' as const,
-    priority:
-      slug === 'avukat-fethi-guzel' ||
-      slug === 'ankara-avukat' ||
-      slug === 'van-avukat' ||
-      slug === 'ercis-avukat'
-        ? 0.95
-        : 0.9,
+    changeFrequency: 'monthly' as const,
+    priority: slug === 'avukat-fethi-guzel' ? 0.9 : 0.55,
   }));
 
   const categoryRoutes: MetadataRoute.Sitemap = lawCategories.map((cat) => ({

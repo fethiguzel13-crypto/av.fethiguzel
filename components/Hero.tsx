@@ -64,8 +64,8 @@ export default function Hero() {
 
           <p className="hero-fade text-cream/70 text-base sm:text-lg max-w-xl mb-8 sm:mb-10 font-sans leading-relaxed">
             Kanun maddesi arama · akademik şerh · e-duruşma monografisi.
-            45+ kanun, 7.800+ madde metni; günlük içtihat ve 30 hesaplama aracı.
-            Van · Erciş avukat ve arabulucu.
+            45+ kanun, 7.800+ madde metni; günlük içtihat, 30 hesaplama aracı ve
+            550+ vatandaş bilgilendirme rehberi.
           </p>
 
           <div className="hero-fade flex items-stretch gap-4 sm:gap-8 mb-9 sm:mb-12">
@@ -91,7 +91,7 @@ export default function Hero() {
             >
               <img
                 src="/images/av-fethi-guzel-square.jpg"
-                alt="Av. Fethi Güzel — Van Erciş avukat"
+                alt="Av. Fethi Güzel"
                 title="Avukat Fethi Güzel"
                 width={44}
                 height={44}
@@ -99,7 +99,7 @@ export default function Hero() {
               />
               <span className="text-left pr-1">
                 <span className="block text-cream text-sm font-bold leading-tight">Av. Fethi Güzel</span>
-                <span className="block text-cream/50 text-[10px] uppercase tracking-wider">Van · Erciş avukat</span>
+                <span className="block text-cream/50 text-[10px] uppercase tracking-wider">Avukat · arabulucu</span>
               </span>
             </Link>
             <Link

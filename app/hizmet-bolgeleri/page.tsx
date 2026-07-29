@@ -2,26 +2,34 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
-import { BOLGELER, SITE_URL, PROFILE } from '@/lib/profile';
-import { MapPin } from 'lucide-react';
+import { BOLGELER, SITE_URL } from '@/lib/profile';
+import { BookOpen, MapPin } from 'lucide-react';
 
 export const metadata: Metadata = {
-    title: 'Hizmet Bölgeleri | Van, Bitlis, Ağrı, Ankara Avukat',
+    title: 'Bölgesel Hukuki Bilgilendirme | Av. Fethi Güzel',
     description:
-        'Av. Fethi Güzel hizmet bölgeleri: Erciş, Van, Çaldıran, Özalp, Muradiye, Patnos, Ağrı, Tatvan, Bitlis, Adilcevaz, Ahlat ve Ankara (uzaktan). Yerel SEO bilgilendirme sayfaları.',
+        'Yerleşim bağlamlı genel hukuki bilgilendirme sayfaları: miras, taşınmaz, aile, icra ve idare. Reklam yasağına uygun; ana sayfada listelenmez.',
     alternates: { canonical: `${SITE_URL}/hizmet-bolgeleri` },
     openGraph: {
-        title: 'Hizmet Bölgeleri — Av. Fethi Güzel',
-        description: 'Doğu Anadolu ve uzaktan erişim bölgelerinde hukuki bilgilendirme sayfaları.',
+        title: 'Bölgesel hukuki bilgilendirme',
+        description: 'Genel bilgilendirme rehberleri — sonuç vaadi içermez.',
         url: `${SITE_URL}/hizmet-bolgeleri`,
+    },
+    robots: {
+        index: true,
+        follow: true,
     },
 };
 
+/**
+ * Eski “hizmet bölgeleri / X avukat” dizini.
+ * Artık bölgesel bilgilendirme indeksi; ana navigasyonda yok.
+ */
 export default function HizmetBolgeleriPage() {
     const itemList = {
         '@context': 'https://schema.org',
         '@type': 'ItemList',
-        name: 'Av. Fethi Güzel hizmet bölgeleri',
+        name: 'Bölgesel hukuki bilgilendirme',
         numberOfItems: BOLGELER.length,
         itemListElement: BOLGELER.map((b, i) => ({
             '@type': 'ListItem',
@@ -38,23 +46,22 @@ export default function HizmetBolgeleriPage() {
 
             <main id="main-content" className="pt-32 sm:pt-40 pb-20 px-5 sm:px-6 max-w-5xl mx-auto">
                 <p className="text-accent font-mono text-[10px] tracking-[0.22em] uppercase mb-3">
-                    Yerel erişim · Bilgilendirme
+                    Bilgilendirme dizini
                 </p>
                 <h1 className="text-3xl sm:text-4xl md:text-5xl font-heading font-bold text-charcoal mb-4">
-                    Hizmet bölgeleri
+                    Bölgesel hukuki bilgilendirme
                 </h1>
                 <p className="text-charcoal/60 text-base sm:text-lg max-w-2xl leading-relaxed mb-4">
-                    Merkez ofis <strong className="text-charcoal">{PROFILE.office.locality} / {PROFILE.office.region}</strong>.
-                    Aşağıdaki sayfalar aynı büroya aittir; her biri ilgili yerleşim araması için özelleştirilmiş
-                    bilgilendirme metni içerir. Reklam yasağına uygun, sonuç vaadi içermez.
+                    Aşağıdaki sayfalar yerleşim adıyla ilişkilendirilmiş <strong className="text-charcoal">genel hukuki rehberlerdir</strong>.
+                    “X avukat” reklamı veya sonuç vaadi içermez. Ana sayfada yer almaz; arama motorları ve site haritası üzerinden keşfedilir.
                 </p>
                 <p className="text-charcoal/50 text-sm mb-10">
-                    <Link href="/avukat-fethi-guzel" className="text-accent font-semibold hover:underline">
-                        Avukat profili
+                    <Link href="/bilgi" className="text-accent font-semibold hover:underline">
+                        Vatandaş bilgi rehberi
                     </Link>
                     {' · '}
-                    <Link href="/akademik-profil" className="text-accent font-semibold hover:underline">
-                        Akademik profil
+                    <Link href="/avukat-fethi-guzel" className="text-accent font-semibold hover:underline">
+                        Avukat profili
                     </Link>
                     {' · '}
                     <Link href="/site-haritasi" className="text-accent font-semibold hover:underline">
@@ -73,17 +80,31 @@ export default function HizmetBolgeleriPage() {
                                 <MapPin className="text-accent shrink-0 mt-0.5" size={18} />
                                 <div>
                                     <h2 className="font-heading font-bold text-charcoal group-hover:text-accent transition-colors">
-                                        {b.ad}
+                                        {b.ilce}
                                     </h2>
                                     <p className="text-xs text-charcoal/45 mt-1">
-                                        {b.ilce} · {b.il}
-                                        {b.merkezOfis ? ' · Merkez ofis' : ''}
-                                        {b.uzaktan ? ' · Uzaktan / seyahat' : ''}
+                                        {b.il}
+                                        {b.merkezOfis ? ' · Ofis' : ''}
+                                        {b.uzaktan ? ' · Uzaktan bağlam' : ''}
+                                    </p>
+                                    <p className="text-xs text-charcoal/55 mt-2 leading-relaxed">
+                                        {b.ad}
                                     </p>
                                 </div>
                             </div>
                         </Link>
                     ))}
+                </div>
+
+                <div className="mt-12 flex items-start gap-3 rounded-2xl border border-charcoal/8 bg-white p-5 text-sm text-charcoal/60">
+                    <BookOpen className="text-accent shrink-0 mt-0.5" size={18} />
+                    <p>
+                        Daha geniş konu seti için 550+ sayfalık{' '}
+                        <Link href="/bilgi" className="text-accent font-semibold hover:underline">
+                            vatandaş rehberi
+                        </Link>{' '}
+                        hub&apos;ını kullanın. Bu dizin yalnızca bölgesel bağlamlı bilgilendirme köprüleridir.
+                    </p>
                 </div>
             </main>
             <Footer />

@@ -144,7 +144,7 @@ export default function Navbar() {
     { name: 'Güncel', href: '/icthat' },
     { name: 'Hakkımda', href: '/avukat-fethi-guzel' },
     { name: 'Akademik', href: '/akademik-profil' },
-    { name: 'Bölgeler', href: '/hizmet-bolgeleri' },
+    { name: 'Ders notları', href: '/ders-notlari' },
   ];
 
   const linkCls = solid ? 'text-charcoal hover:text-accent' : 'text-cream/85 hover:text-accent';

@@ -182,15 +182,12 @@ export default function Footer() {
             </div>
           </div>
           <div>
-            <p className="text-cream/40 text-[10px] uppercase tracking-widest font-bold mb-3">Bölge</p>
+            <p className="text-cream/40 text-[10px] uppercase tracking-widest font-bold mb-3">Keşif</p>
             <div className="flex flex-col gap-2 text-sm text-cream/70">
-              <Link href="/hizmet-bolgeleri" className="hover:text-accent transition-colors">Tüm Bölgeler</Link>
+              <Link href="/bilgi" className="hover:text-accent transition-colors">Vatandaş Rehberi</Link>
               <Link href="/hizmetler" className="hover:text-accent transition-colors">Hizmet Alanları</Link>
-              <Link href="/van-avukat" className="hover:text-accent transition-colors">Van Avukat</Link>
-              <Link href="/ercis-avukat" className="hover:text-accent transition-colors">Erciş Avukat</Link>
-              <Link href="/ankara-avukat" className="hover:text-accent transition-colors">Ankara Avukat</Link>
-              <Link href="/bitlis-avukat" className="hover:text-accent transition-colors">Bitlis Avukat</Link>
-              <Link href="/tatvan-avukat" className="hover:text-accent transition-colors">Tatvan Avukat</Link>
+              <Link href="/ders-notlari" className="hover:text-accent transition-colors">Ders Notları</Link>
+              <Link href="/mevzuat" className="hover:text-accent transition-colors">Mevzuat</Link>
               <Link href="/avukat-fethi-guzel" className="hover:text-accent transition-colors">Av. Fethi Güzel</Link>
             </div>
           </div>
@@ -248,38 +245,10 @@ export default function Footer() {
           </div>
         </div>
 
-        {/* Hizmet bölgeleri — dahili bağlantı / yerel SEO */}
-        <div className="mt-12 flex flex-wrap justify-center gap-x-5 gap-y-2 text-[11px] font-bold uppercase tracking-widest">
-          {[
-            { ad: 'Van Avukat', href: '/van-avukat' },
-            { ad: 'Erciş Avukat', href: '/ercis-avukat' },
-            { ad: 'Çaldıran Avukat', href: '/caldiran-avukat' },
-            { ad: 'Özalp Avukat', href: '/ozalp-avukat' },
-            { ad: 'Muradiye Avukat', href: '/muradiye-avukat' },
-            { ad: 'Patnos Avukat', href: '/patnos-avukat' },
-            { ad: 'Ağrı Avukat', href: '/agri-avukat' },
-            { ad: 'Tatvan Avukat', href: '/tatvan-avukat' },
-            { ad: 'Bitlis Avukat', href: '/bitlis-avukat' },
-            { ad: 'Adilcevaz Avukat', href: '/adilcevaz-avukat' },
-            { ad: 'Ahlat Avukat', href: '/ahlat-avukat' },
-            { ad: 'Ankara Avukat', href: '/ankara-avukat' },
-            { ad: 'Av. Fethi Güzel', href: '/avukat-fethi-guzel' },
-          ].map(l => (
-            <Link key={l.href} href={l.href} className="text-cream/40 hover:text-accent transition-colors">
-              {l.ad}
-            </Link>
-          ))}
-        </div>
-
         <p className="mt-6 text-center text-cream/45 text-xs font-sans leading-relaxed max-w-3xl mx-auto">
           Av. Fethi Güzel — özel hukuk alanında doktora çalışmaları yürüten avukat ve arabulucu; e-duruşma monografisi yazarı; iyi düzeyde İngilizce.
-          <strong className="text-cream/60"> Van avukat</strong>, <strong className="text-cream/60">Erciş avukat</strong>,{' '}
-          <strong className="text-cream/60">Çaldıran</strong>, <strong className="text-cream/60">Özalp</strong>,{' '}
-          <strong className="text-cream/60">Muradiye</strong>, <strong className="text-cream/60">Patnos</strong>,{' '}
-          <strong className="text-cream/60">Ağrı</strong>, <strong className="text-cream/60">Tatvan</strong>,{' '}
-          <strong className="text-cream/60">Bitlis</strong>, <strong className="text-cream/60">Adilcevaz</strong>,{' '}
-          <strong className="text-cream/60">Ahlat</strong> ve uzaktan <strong className="text-cream/60">Ankara</strong> erişimi
-          için bilgilendirme sayfaları sunulmaktadır. Reklam yasağına uygundur; sonuç vaadi içermez.
+          Site; mevzuat, akademik şerh, vatandaş bilgilendirme rehberleri ve hesaplama araçları sunar.
+          Reklam yasağına uygundur; sonuç vaadi içermez.
         </p>
       </div>
     </footer>

@@ -30,9 +30,9 @@ export const lawCategories: LawCategory[] = [
     description: 'Türk Medeni Kanunu kapsamında kişiler, aile, miras ve eşya hukukuna ilişkin kanun maddeleri, Yargıtay kararları ve akademik analizler.',
     kanunAdi: 'Türk Medeni Kanunu (TMK)',
     seoKeywords: [
-      'medeni hukuk', 'türk medeni kanunu', 'TMK', 'boşanma avukatı',
-      'miras avukatı', 'velayet davası', 'vesayet', 'tapu iptal tescil',
-      'Van avukat', 'Erciş avukat', 'Fethi Güzel'
+      'medeni hukuk', 'türk medeni kanunu', 'TMK', 'boşanma',
+      'miras paylaşımı', 'velayet davası', 'vesayet', 'tapu iptal tescil',
+      'Fethi Güzel', 'vatandaş rehberi'
     ],
     subCategories: [
       {
@@ -60,7 +60,7 @@ export const lawCategories: LawCategory[] = [
         kanunId: 'tmk',
         startMadde: 118,
         endMadde: 494,
-        seoKeywords: ['boşanma', 'velayet', 'nafaka', 'mal rejimi', 'aile hukuku', 'boşanma avukatı Van']
+        seoKeywords: ['boşanma', 'velayet', 'nafaka', 'mal rejimi', 'aile hukuku', 'anlaşmalı boşanma']
       },
       {
         slug: 'miras-hukuku',
@@ -90,7 +90,7 @@ export const lawCategories: LawCategory[] = [
     seoKeywords: [
       'borçlar hukuku', 'türk borçlar kanunu', 'TBK', 'sözleşmeler hukuku',
       'tazminat davası', 'haksız fiil', 'kira davaları', 'malpraktis',
-      'Van avukat', 'Erciş avukat', 'Avukat Fethi Güzel'
+      'Avukat Fethi Güzel', 'TBK şerh'
     ],
     subCategories: [
       {
@@ -121,7 +121,7 @@ export const lawCategories: LawCategory[] = [
     seoKeywords: [
       'ticaret hukuku', 'türk ticaret kanunu', 'TTK', 'şirketler hukuku',
       'çek', 'bono', 'poliçe', 'kıymetli evrak', 'ticari dava',
-      'Van avukat', 'Erciş avukat', 'Fethi Güzel'
+      'Fethi Güzel', 'TTK şerh'
     ],
     subCategories: [
       {

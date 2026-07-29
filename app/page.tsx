@@ -9,7 +9,6 @@ import About from '@/components/About';
 import DailyNews from '@/components/DailyNews';
 import Articles from '@/components/Articles';
 import FaqSection from '@/components/FaqSection';
-import RegionsPreview from '@/components/RegionsPreview';
 import Footer from '@/components/Footer';
 import StickyMobileCta from '@/components/StickyMobileCta';
 
@@ -18,23 +17,22 @@ export const metadata: Metadata = {
     absolute: 'Av. Fethi Güzel | Kanun Maddesi Arama, Şerh, İçtihat & Hesaplama',
   },
   description:
-    'Kanun maddesi arama: TBK 13, 7.800+ madde + akademik şerh, günlük içtihat, 30 hesaplama aracı, 550+ vatandaş rehberi. Av. Fethi Güzel · Van · Erciş.',
+    'Kanun maddesi arama: TBK 13, 7.800+ madde + akademik şerh, günlük içtihat, 30 hesaplama aracı, 550+ vatandaş rehberi. Av. Fethi Güzel hukuk portalı.',
   keywords: [
     'kanun maddesi',
     'kanun maddesi arama',
     'TBK 13',
     'mevzuat arama',
     'Avukat Fethi Güzel',
-    'Van avukat',
-    'Erciş avukat',
     'akademik şerh',
     'vatandaş rehberi',
+    'hukuki hesaplama',
   ],
   alternates: { canonical: 'https://www.avfethiguzel.com' },
   openGraph: {
     title: 'Av. Fethi Güzel | Kanun Maddesi, Şerh & Hesaplama',
     description:
-      'Kanun maddesi arama, akademik şerh, günlük içtihat ve hukuki hesaplama. Açık erişim dijital hukuk arşivi · Van Erciş.',
+      'Kanun maddesi arama, akademik şerh, günlük içtihat ve hukuki hesaplama. Açık erişim dijital hukuk arşivi.',
     url: 'https://www.avfethiguzel.com',
   },
 };
@@ -85,7 +83,6 @@ export default function Home() {
       <LibraryStrip />
       <ToolsPreview />
       <About />
-      <RegionsPreview />
       <DailyNews />
       <Articles />
       <section className="py-12 sm:py-16 px-5 sm:px-6 border-t border-charcoal/5">

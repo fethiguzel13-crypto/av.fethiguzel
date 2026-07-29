@@ -11,22 +11,21 @@ const photoPath = PROFILE.photo
 const photoAbs = `${SITE_URL}${photoPath}`
 
 export const metadata: Metadata = {
-    title: 'Avukat Fethi Güzel | Özel Hukuk · e-Duruşma · Van Erciş',
+    title: 'Avukat Fethi Güzel | Özel Hukuk · e-Duruşma · Akademik Profil',
     description:
-        'Av. Fethi Güzel — Van/Erciş avukat ve arabulucu. Özel hukuk doktora çalışmaları, yayımlanmış e-duruşma kitabı, iyi düzeyde İngilizce. Mevzuat şerhi, dava vekilliği, arabuluculuk.',
+        'Av. Fethi Güzel — avukat ve arabulucu. Özel hukuk doktora çalışmaları, yayımlanmış e-duruşma kitabı, iyi düzeyde İngilizce. Mevzuat şerhi, dava vekilliği, arabuluculuk.',
     keywords: [
         'Fethi Güzel',
         'Avukat Fethi Güzel',
-        'Van avukat',
-        'Erciş avukat',
         'özel hukuk doktora',
         'e-duruşma kitabı',
         'İngilizce bilen avukat',
-        'arabulucu Erciş',
+        'arabulucu',
+        'hukuk portalı',
     ].join(', '),
     alternates: { canonical: `${SITE_URL}/avukat-fethi-guzel` },
     openGraph: {
-        title: 'Av. Fethi Güzel | Van · Erciş Avukat · Akademik Profil',
+        title: 'Av. Fethi Güzel | Akademik Profil · e-Duruşma',
         description:
             'Özel hukuk doktora çalışmaları · e-duruşma monografisi · İngilizce · dijital hukuk portalı.',
         url: `${SITE_URL}/avukat-fethi-guzel`,
@@ -37,7 +36,7 @@ export const metadata: Metadata = {
                 url: photoAbs,
                 width: 640,
                 height: 640,
-                alt: 'Av. Fethi Güzel — Van Erciş avukat portresi',
+                alt: 'Av. Fethi Güzel portresi',
             },
         ],
     },
@@ -99,9 +98,9 @@ export default function AvukatFethiGuzelPage() {
         '@type': 'ImageObject',
         contentUrl: photoAbs,
         url: photoAbs,
-        name: 'Av. Fethi Güzel — Van Erciş avukat portresi',
+        name: 'Av. Fethi Güzel portresi',
         description:
-            'Avukat Fethi Güzel portresi. Özel hukuk doktora çalışmaları, e-duruşma yazarı, Van Erciş avukat.',
+            'Avukat Fethi Güzel portresi. Özel hukuk doktora çalışmaları, e-duruşma yazarı.',
         creditText: PROFILE.name,
         creator: { '@type': 'Person', name: PROFILE.name },
     }
@@ -119,7 +118,7 @@ export default function AvukatFethiGuzelPage() {
                         <div className="relative aspect-square rounded-[2rem] overflow-hidden border border-charcoal/10 shadow-lift bg-charcoal/5">
                             <Image
                                 src={photoPath}
-                                alt="Av. Fethi Güzel — Van ve Erciş avukat, arabulucu, e-duruşma yazarı"
+                                alt="Av. Fethi Güzel — avukat, arabulucu, e-duruşma yazarı"
                                 title="Avukat Fethi Güzel | Özel hukuk · Van Erciş"
                                 width={640}
                                 height={640}
@@ -266,21 +265,34 @@ export default function AvukatFethiGuzelPage() {
                 </div>
 
                 <section className="mt-14 sm:mt-16">
-                    <h2 className="text-2xl font-heading font-bold text-charcoal mb-3">Hizmet bölgeleri</h2>
+                    <h2 className="text-2xl font-heading font-bold text-charcoal mb-3">
+                        Bölgesel hukuki bilgilendirme
+                    </h2>
                     <p className="text-charcoal/55 text-sm mb-6 max-w-2xl">
-                        Her sayfa ilgili yerleşim araması için özelleştirilmiştir; hepsi aynı büroya aittir.
+                        Yerleşim adıyla ilişkilendirilmiş genel hukuki rehberler — reklam veya
+                        &quot;X avukat&quot; metni değildir; ana sayfada listelenmez, arama ve sitemap
+                        üzerinden keşfedilir.
                     </p>
                     <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-3">
                         {BOLGELER.map((b) => (
                             <Link
                                 key={b.slug}
                                 href={`/${b.slug}`}
-                                className="bg-white border border-charcoal/8 rounded-xl px-4 py-4 text-sm font-bold text-charcoal hover:border-accent/40 hover:text-accent transition-colors"
+                                className="bg-white border border-charcoal/8 rounded-xl px-4 py-4 text-sm font-semibold text-charcoal hover:border-accent/40 hover:text-accent transition-colors"
                             >
-                                {b.ad}
+                                {b.ilce}
+                                <span className="block text-[11px] font-normal text-charcoal/45 mt-1">
+                                    bilgilendirme
+                                </span>
                             </Link>
                         ))}
                     </div>
+                    <p className="mt-4 text-xs text-charcoal/45">
+                        Tüm vatandaş rehberleri:{' '}
+                        <Link href="/bilgi" className="text-accent font-semibold hover:underline">
+                            /bilgi
+                        </Link>
+                    </p>
                 </section>
 
                 <section className="mt-14 max-w-3xl">

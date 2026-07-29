@@ -1,33 +1,34 @@
 import type { Metadata } from 'next';
-import IlceAvukatSayfasi, { type IlceVerisi } from '@/components/IlceAvukatSayfasi';
+import { notFound } from 'next/navigation';
+import BolgeBilgiSayfasi from '@/components/BolgeBilgiSayfasi';
+import { bolgeBilgiBySlug } from '@/lib/bolge-bilgi';
+import { SITE_URL } from '@/lib/profile';
 
-export const metadata: Metadata = {
-    title: 'Adilcevaz Avukat | Av. Fethi Güzel — Bitlis Adilcevaz',
-    description:
-        'Adilcevaz avukat: Av. Fethi Güzel — aile, miras, gayrimenkul, ceza ve iş hukuku. Erciş merkez ofisten Adilcevaz ve Bitlis çevresine hukuki destek.',
-    keywords: 'Adilcevaz avukat, Adilcevaz avukatı, Bitlis Adilcevaz, Fethi Güzel avukat',
-    alternates: { canonical: 'https://avfethiguzel.com/adilcevaz-avukat' },
-    openGraph: {
-        title: 'Adilcevaz Avukat | Av. Fethi Güzel',
-        description: 'Adilcevaz ilçesinde hukuki danışmanlık ve dava vekilliği bilgilendirmesi.',
-        url: 'https://avfethiguzel.com/adilcevaz-avukat',
-        images: [{ url: '/images/av-fethi-guzel-og.jpg', width: 1200, height: 630, alt: 'Adilcevaz avukat' }],
-    },
-};
+const SLUG = 'adilcevaz-avukat';
+const veri = bolgeBilgiBySlug(SLUG);
 
-const veri: IlceVerisi = {
-    ilce: 'Adilcevaz',
-    il: 'Bitlis',
-    slug: 'adilcevaz-avukat',
-    eyebrow: 'Adilcevaz · Bitlis — Hizmet bölgesi',
-    giris: [
-        'Adilcevaz’da ikamet eden veya Adilcevaz / Bitlis yargı çevresinde dosyası olan müvekkiller; Av. Fethi Güzel ile e-posta veya randevu yoluyla iletişime geçebilir. Ofis Erciş’tedir; bölge dosyaları planlı takip edilir.',
-        'Miras, aile, tarım ve gayrimenkul uyuşmazlıkları ile ceza ve icra işlerinde; akademik birikim (özel hukuk doktora çalışmaları, e-duruşma kitabı) ve saha tecrübesi birlikte sunulur.',
-    ],
-    neden:
-        'Adilcevaz ile Ahlat, Tatvan ve Bitlis merkez arasındaki mesafe gözetilerek; ilk görüşme dijital veya yüz yüze planlanabilir. Şeffaf bilgilendirme ve yazılı vekâlet süreçleri standarttır.',
-};
+export const metadata: Metadata = veri
+  ? {
+      title: { absolute: veri.title },
+      description: veri.description,
+      keywords: veri.keywords,
+      alternates: { canonical: `${SITE_URL}/${SLUG}` },
+      openGraph: {
+        title: veri.title,
+        description: veri.description,
+        url: `${SITE_URL}/${SLUG}`,
+        type: 'article',
+        locale: 'tr_TR',
+      },
+      robots: {
+        index: true,
+        follow: true,
+        googleBot: { index: true, follow: true, 'max-snippet': -1, 'max-image-preview': 'large' },
+      },
+    }
+  : { title: 'Sayfa bulunamadı' };
 
-export default function AdilcevazAvukatPage() {
-    return <IlceAvukatSayfasi veri={veri} />;
+export default function BolgePage() {
+  if (!veri) notFound();
+  return <BolgeBilgiSayfasi veri={veri} />;
 }

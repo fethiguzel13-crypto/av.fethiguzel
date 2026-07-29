@@ -7,8 +7,8 @@ export function GET() {
         {
             loc: `${base}/avukat-fethi-guzel`,
             image: `${base}/images/av-fethi-guzel-van-ercis-avukat.jpg`,
-            title: 'Av. Fethi Güzel — Van Erciş avukat portresi',
-            caption: 'Avukat Fethi Güzel, Van ve Erciş avukat ve arabulucu',
+            title: 'Av. Fethi Güzel portresi',
+            caption: 'Avukat Fethi Güzel — özel hukuk, e-duruşma yazarı',
         },
         {
             loc: `${base}/`,
@@ -17,16 +17,10 @@ export function GET() {
             caption: 'Av. Fethi Güzel — mevzuat ve akademik şerh',
         },
         {
-            loc: `${base}/van-avukat`,
+            loc: `${base}/akademik-profil`,
             image: `${base}/images/av-fethi-guzel-square.jpg`,
-            title: 'Van avukat Av. Fethi Güzel',
-            caption: 'Van avukat — Av. Fethi Güzel',
-        },
-        {
-            loc: `${base}/ercis-avukat`,
-            image: `${base}/images/av-fethi-guzel-van-ercis-avukat.jpg`,
-            title: 'Erciş avukat Av. Fethi Güzel',
-            caption: 'Erciş avukat — merkez ofis',
+            title: 'Av. Fethi Güzel akademik profil',
+            caption: 'Özel hukuk doktora çalışmaları ve yayınlar',
         },
     ]
 

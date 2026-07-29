@@ -85,7 +85,10 @@ export const PROFILE = {
     ],
 } as const;
 
-/** Hizmet / erişim bölgeleri — yerel SEO slug'ları */
+/**
+ * Bölgesel hukuki bilgilendirme dizinleri.
+ * Etiketlerde "X avukat" kalıbı yok (reklam yasağı). Ana sayfada listelenmez.
+ */
 export type Bolge = {
     ad: string;
     ilce: string;
@@ -93,23 +96,23 @@ export type Bolge = {
     slug: string;
     /** true = ofis bu yerleşimde */
     merkezOfis?: boolean;
-    /** Uzaktan / seyahat ile dosya takibi vurgusu */
+    /** Uzaktan / seyahat ile dosya takibi bağlamı */
     uzaktan?: boolean;
 };
 
 export const BOLGELER: Bolge[] = [
-    { ad: 'Erciş Avukat', ilce: 'Erciş', il: 'Van', slug: 'ercis-avukat', merkezOfis: true },
-    { ad: 'Van Avukat', ilce: 'Van', il: 'Van', slug: 'van-avukat' },
-    { ad: 'Çaldıran Avukat', ilce: 'Çaldıran', il: 'Van', slug: 'caldiran-avukat' },
-    { ad: 'Özalp Avukat', ilce: 'Özalp', il: 'Van', slug: 'ozalp-avukat' },
-    { ad: 'Muradiye Avukat', ilce: 'Muradiye', il: 'Van', slug: 'muradiye-avukat' },
-    { ad: 'Patnos Avukat', ilce: 'Patnos', il: 'Ağrı', slug: 'patnos-avukat' },
-    { ad: 'Ağrı Avukat', ilce: 'Ağrı', il: 'Ağrı', slug: 'agri-avukat' },
-    { ad: 'Tatvan Avukat', ilce: 'Tatvan', il: 'Bitlis', slug: 'tatvan-avukat' },
-    { ad: 'Bitlis Avukat', ilce: 'Bitlis', il: 'Bitlis', slug: 'bitlis-avukat' },
-    { ad: 'Adilcevaz Avukat', ilce: 'Adilcevaz', il: 'Bitlis', slug: 'adilcevaz-avukat' },
-    { ad: 'Ahlat Avukat', ilce: 'Ahlat', il: 'Bitlis', slug: 'ahlat-avukat' },
-    { ad: 'Ankara Avukat', ilce: 'Ankara', il: 'Ankara', slug: 'ankara-avukat', uzaktan: true },
+    { ad: 'Erciş hukuki bilgilendirme', ilce: 'Erciş', il: 'Van', slug: 'ercis-avukat', merkezOfis: true },
+    { ad: 'Van hukuki bilgilendirme', ilce: 'Van', il: 'Van', slug: 'van-avukat' },
+    { ad: 'Çaldıran hukuki bilgilendirme', ilce: 'Çaldıran', il: 'Van', slug: 'caldiran-avukat' },
+    { ad: 'Özalp hukuki bilgilendirme', ilce: 'Özalp', il: 'Van', slug: 'ozalp-avukat' },
+    { ad: 'Muradiye hukuki bilgilendirme', ilce: 'Muradiye', il: 'Van', slug: 'muradiye-avukat' },
+    { ad: 'Patnos hukuki bilgilendirme', ilce: 'Patnos', il: 'Ağrı', slug: 'patnos-avukat' },
+    { ad: 'Ağrı hukuki bilgilendirme', ilce: 'Ağrı', il: 'Ağrı', slug: 'agri-avukat' },
+    { ad: 'Tatvan hukuki bilgilendirme', ilce: 'Tatvan', il: 'Bitlis', slug: 'tatvan-avukat' },
+    { ad: 'Bitlis hukuki bilgilendirme', ilce: 'Bitlis', il: 'Bitlis', slug: 'bitlis-avukat' },
+    { ad: 'Adilcevaz hukuki bilgilendirme', ilce: 'Adilcevaz', il: 'Bitlis', slug: 'adilcevaz-avukat' },
+    { ad: 'Ahlat hukuki bilgilendirme', ilce: 'Ahlat', il: 'Bitlis', slug: 'ahlat-avukat' },
+    { ad: 'Ankara hukuki bilgilendirme', ilce: 'Ankara', il: 'Ankara', slug: 'ankara-avukat', uzaktan: true },
 ];
 
 export function bolgeBySlug(slug: string): Bolge | undefined {

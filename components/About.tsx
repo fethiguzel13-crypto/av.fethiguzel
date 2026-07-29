@@ -50,7 +50,7 @@ export default function About() {
             <img
               ref={imageRef}
               src="/images/av-fethi-guzel-van-ercis-avukat.jpg"
-              alt="Av. Fethi Güzel — Van ve Erciş avukat, arabulucu, hukuk portalı kurucusu"
+              alt="Av. Fethi Güzel — avukat, arabulucu, hukuk portalı kurucusu"
               width={800}
               height={1000}
               loading="lazy"

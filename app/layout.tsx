@@ -46,20 +46,13 @@ export const metadata: Metadata = {
     template: '%s | Av. Fethi Güzel',
   },
   description:
-    'Kanun maddesi arama: 7.800+ madde + akademik şerh, 500+ vatandaş rehberi, günlük içtihat, 30 hesaplama aracı. TBK, TMK, TTK, TCK, HMK, İİK. Ücretsiz hukuk kütüphanesi · Van · Erciş.',
+    'Kanun maddesi arama: 7.800+ madde + akademik şerh, 550+ vatandaş rehberi, günlük içtihat, 30 hesaplama aracı. TBK, TMK, TTK, TCK, HMK, İİK. Ücretsiz hukuk kütüphanesi.',
   keywords: [
     'Fethi Güzel',
     'Avukat Fethi Güzel',
     'kanun maddesi',
     'kanun maddesi arama',
     'mevzuat arama',
-    'Van avukat',
-    'Erciş avukat',
-    'Çaldıran avukat',
-    'Özalp avukat',
-    'Ağrı avukat',
-    'Patnos avukat',
-    'Muradiye avukat',
     'avukat Fethi Güzel',
     'akademik şerh',
     'mevzuat bankası',
@@ -75,8 +68,7 @@ export const metadata: Metadata = {
     'Yargıtay kararları',
     'günlük içtihat',
     'arabuluculuk',
-    'boşanma avukatı Van',
-    'miras avukatı',
+    'vatandaş rehberi',
     'ücretsiz mevzuat',
     'hukuk portalı',
   ],
@@ -98,13 +90,13 @@ export const metadata: Metadata = {
     siteName: 'Av. Fethi Güzel Hukuk Portalı',
     title: 'Av. Fethi Güzel | Mevzuat, Akademik Şerh & Hukuki Hesaplama',
     description:
-      '7.800+ madde şerhi, günlük içtihat ve hukuki hesaplama araçları. Açık erişimli dijital hukuk arşivi · Van · Erciş.',
+      '7.800+ madde şerhi, günlük içtihat ve hukuki hesaplama araçları. Açık erişimli dijital hukuk arşivi.',
     images: [
       {
         url: '/images/av-fethi-guzel-og.jpg',
         width: 1200,
         height: 630,
-        alt: 'Av. Fethi Güzel — Van Erciş avukat ve hukuk portalı',
+        alt: 'Av. Fethi Güzel hukuk portalı',
       },
       {
         url: '/images/av-fethi-guzel-van-ercis-avukat.jpg',
