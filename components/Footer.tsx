@@ -167,6 +167,7 @@ export default function Footer() {
               <Link href="/makaleler" className="hover:text-accent transition-colors">Makaleler</Link>
               <Link href="/rehber" className="hover:text-accent transition-colors">Rehberler</Link>
               <Link href="/bilgi" className="hover:text-accent transition-colors">Vatandaş Bilgi</Link>
+              <Link href="/ders-notlari" className="hover:text-accent transition-colors">Hukuk Ders Notları</Link>
               <Link href="/kavram" className="hover:text-accent transition-colors">Kavramlar</Link>
               <Link href="/eserlerim" className="hover:text-accent transition-colors">Kitap / Eserler</Link>
               <Link href="/e-durusma" className="hover:text-accent transition-colors">e-Duruşma</Link>

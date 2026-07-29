@@ -69,6 +69,7 @@ export default function robots(): MetadataRoute.Robots {
         sitemap: [
             `${base}/priority-sitemap.xml`,
             `${base}/bilgi-sitemap.xml`,
+            `${base}/ders-notlari-sitemap.xml`,
             `${base}/sitemap.xml`,
             `${base}/images-sitemap.xml`,
         ],

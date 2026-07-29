@@ -1,0 +1,4148 @@
+{
+  "generatedAt": "2026-07-29T13:33:18.428Z",
+  "wave": "1",
+  "universityCount": 120,
+  "hubCount": 120,
+  "noteCount": 471,
+  "universities": [
+    {
+      "slug": "ankara-yildirim-beyazit",
+      "name": "Ankara Yıldırım Beyazıt Üniversitesi Hukuk Fakültesi",
+      "shortName": "AYBÜ",
+      "city": "Ankara",
+      "priority": 1
+    },
+    {
+      "slug": "ankara",
+      "name": "Ankara Üniversitesi Hukuk Fakültesi",
+      "shortName": "AÜHF",
+      "city": "Ankara",
+      "priority": 1
+    },
+    {
+      "slug": "istanbul",
+      "name": "İstanbul Üniversitesi Hukuk Fakültesi",
+      "shortName": "İÜHF",
+      "city": "İstanbul",
+      "priority": 1
+    },
+    {
+      "slug": "marmara",
+      "name": "Marmara Üniversitesi Hukuk Fakültesi",
+      "shortName": "MÜHF",
+      "city": "İstanbul",
+      "priority": 1
+    },
+    {
+      "slug": "galatasaray",
+      "name": "Galatasaray Üniversitesi Hukuk Fakültesi",
+      "shortName": "GSÜ",
+      "city": "İstanbul",
+      "priority": 1
+    },
+    {
+      "slug": "dokuz-eylul",
+      "name": "Dokuz Eylül Üniversitesi Hukuk Fakültesi",
+      "shortName": "DEÜ",
+      "city": "İzmir",
+      "priority": 1
+    },
+    {
+      "slug": "hacettepe",
+      "name": "Hacettepe Üniversitesi Hukuk Fakültesi",
+      "shortName": "Hacettepe",
+      "city": "Ankara",
+      "priority": 1
+    },
+    {
+      "slug": "ankara-hacibayram",
+      "name": "Ankara Hacı Bayram Veli Üniversitesi Hukuk Fakültesi",
+      "shortName": "AHBV",
+      "city": "Ankara",
+      "priority": 1
+    },
+    {
+      "slug": "bilkent",
+      "name": "İhsan Doğramacı Bilkent Üniversitesi Hukuk Fakültesi",
+      "shortName": "Bilkent",
+      "city": "Ankara",
+      "priority": 1
+    },
+    {
+      "slug": "koc",
+      "name": "Koç Üniversitesi Hukuk Fakültesi",
+      "shortName": "Koç",
+      "city": "İstanbul",
+      "priority": 1
+    },
+    {
+      "slug": "tobb-etu",
+      "name": "TOBB Ekonomi ve Teknoloji Üniversitesi Hukuk Fakültesi",
+      "shortName": "TOBB ETÜ",
+      "city": "Ankara",
+      "priority": 1
+    },
+    {
+      "slug": "bogazici",
+      "name": "Boğaziçi Üniversitesi Hukuk Fakültesi",
+      "shortName": "BÜ",
+      "city": "İstanbul",
+      "priority": 1
+    },
+    {
+      "slug": "ege",
+      "name": "Ege Üniversitesi Hukuk Fakültesi",
+      "shortName": "Ege",
+      "city": "İzmir",
+      "priority": 2
+    },
+    {
+      "slug": "akdeniz",
+      "name": "Akdeniz Üniversitesi Hukuk Fakültesi",
+      "shortName": "Akdeniz",
+      "city": "Antalya",
+      "priority": 2
+    },
+    {
+      "slug": "selcuk",
+      "name": "Selçuk Üniversitesi Hukuk Fakültesi",
+      "shortName": "Selçuk",
+      "city": "Konya",
+      "priority": 2
+    },
+    {
+      "slug": "erciyes",
+      "name": "Erciyes Üniversitesi Hukuk Fakültesi",
+      "shortName": "Erciyes",
+      "city": "Kayseri",
+      "priority": 2
+    },
+    {
+      "slug": "uludag",
+      "name": "Bursa Uludağ Üniversitesi Hukuk Fakültesi",
+      "shortName": "Uludağ",
+      "city": "Bursa",
+      "priority": 2
+    },
+    {
+      "slug": "cukurova",
+      "name": "Çukurova Üniversitesi Hukuk Fakültesi",
+      "shortName": "Çukurova",
+      "city": "Adana",
+      "priority": 2
+    },
+    {
+      "slug": "anadolu",
+      "name": "Anadolu Üniversitesi Hukuk Fakültesi",
+      "shortName": "Anadolu",
+      "city": "Eskişehir",
+      "priority": 2
+    },
+    {
+      "slug": "gazi-ankara",
+      "name": "Ankara Sosyal Bilimler Üniversitesi Hukuk Fakültesi",
+      "shortName": "ASBÜ",
+      "city": "Ankara",
+      "priority": 2
+    },
+    {
+      "slug": "yildiz-teknik",
+      "name": "Yıldız Teknik Üniversitesi Hukuk Fakültesi",
+      "shortName": "YTÜ",
+      "city": "İstanbul",
+      "priority": 2
+    },
+    {
+      "slug": "istanbul-medeniyet",
+      "name": "İstanbul Medeniyet Üniversitesi Hukuk Fakültesi",
+      "shortName": "Medeniyet",
+      "city": "İstanbul",
+      "priority": 2
+    },
+    {
+      "slug": "bahcesehir",
+      "name": "Bahçeşehir Üniversitesi Hukuk Fakültesi",
+      "shortName": "BAU",
+      "city": "İstanbul",
+      "priority": 2
+    },
+    {
+      "slug": "yeditepe",
+      "name": "Yeditepe Üniversitesi Hukuk Fakültesi",
+      "shortName": "Yeditepe",
+      "city": "İstanbul",
+      "priority": 2
+    },
+    {
+      "slug": "ozyegin",
+      "name": "Özyeğin Üniversitesi Hukuk Fakültesi",
+      "shortName": "Özyeğin",
+      "city": "İstanbul",
+      "priority": 2
+    },
+    {
+      "slug": "kadir-has",
+      "name": "Kadir Has Üniversitesi Hukuk Fakültesi",
+      "shortName": "KHAS",
+      "city": "İstanbul",
+      "priority": 2
+    },
+    {
+      "slug": "istanbul-bilgi",
+      "name": "İstanbul Bilgi Üniversitesi Hukuk Fakültesi",
+      "shortName": "Bilgi",
+      "city": "İstanbul",
+      "priority": 2
+    },
+    {
+      "slug": "mehmet-akif",
+      "name": "İstanbul Medipol Üniversitesi Hukuk Fakültesi",
+      "shortName": "Medipol",
+      "city": "İstanbul",
+      "priority": 2
+    },
+    {
+      "slug": "altinbas",
+      "name": "Altınbaş Üniversitesi Hukuk Fakültesi",
+      "shortName": "Altınbaş",
+      "city": "İstanbul",
+      "priority": 2
+    },
+    {
+      "slug": "maltepe",
+      "name": "Maltepe Üniversitesi Hukuk Fakültesi",
+      "shortName": "Maltepe",
+      "city": "İstanbul",
+      "priority": 2
+    },
+    {
+      "slug": "dogus",
+      "name": "Doğuş Üniversitesi Hukuk Fakültesi",
+      "shortName": "Doğuş",
+      "city": "İstanbul",
+      "priority": 2
+    },
+    {
+      "slug": "isik",
+      "name": "Işık Üniversitesi Hukuk Fakültesi",
+      "shortName": "Işık",
+      "city": "İstanbul",
+      "priority": 3
+    },
+    {
+      "slug": "okan",
+      "name": "Okan Üniversitesi Hukuk Fakültesi",
+      "shortName": "Okan",
+      "city": "İstanbul",
+      "priority": 3
+    },
+    {
+      "slug": "kultur",
+      "name": "İstanbul Kültür Üniversitesi Hukuk Fakültesi",
+      "shortName": "İKÜ",
+      "city": "İstanbul",
+      "priority": 2
+    },
+    {
+      "slug": "aydin",
+      "name": "İstanbul Aydın Üniversitesi Hukuk Fakültesi",
+      "shortName": "İAÜ",
+      "city": "İstanbul",
+      "priority": 2
+    },
+    {
+      "slug": "gelisim",
+      "name": "İstanbul Gelişim Üniversitesi Hukuk Fakültesi",
+      "shortName": "Gelişim",
+      "city": "İstanbul",
+      "priority": 3
+    },
+    {
+      "slug": "topkapi",
+      "name": "İstanbul Topkapı Üniversitesi Hukuk Fakültesi",
+      "shortName": "Topkapı",
+      "city": "İstanbul",
+      "priority": 3
+    },
+    {
+      "slug": "nisantasi",
+      "name": "Nişantaşı Üniversitesi Hukuk Fakültesi",
+      "shortName": "Nişantaşı",
+      "city": "İstanbul",
+      "priority": 3
+    },
+    {
+      "slug": "beykent",
+      "name": "Beykent Üniversitesi Hukuk Fakültesi",
+      "shortName": "Beykent",
+      "city": "İstanbul",
+      "priority": 3
+    },
+    {
+      "slug": "halic",
+      "name": "Haliç Üniversitesi Hukuk Fakültesi",
+      "shortName": "Haliç",
+      "city": "İstanbul",
+      "priority": 3
+    },
+    {
+      "slug": "fatih-sultan",
+      "name": "Fatih Sultan Mehmet Vakıf Üniversitesi Hukuk Fakültesi",
+      "shortName": "FSMVÜ",
+      "city": "İstanbul",
+      "priority": 2
+    },
+    {
+      "slug": "karadeniz-teknik",
+      "name": "Karadeniz Teknik Üniversitesi Hukuk Fakültesi",
+      "shortName": "KTÜ",
+      "city": "Trabzon",
+      "priority": 2
+    },
+    {
+      "slug": "ataturk",
+      "name": "Atatürk Üniversitesi Hukuk Fakültesi",
+      "shortName": "Atatürk",
+      "city": "Erzurum",
+      "priority": 2
+    },
+    {
+      "slug": "inonu",
+      "name": "İnönü Üniversitesi Hukuk Fakültesi",
+      "shortName": "İnönü",
+      "city": "Malatya",
+      "priority": 2
+    },
+    {
+      "slug": "dicle",
+      "name": "Dicle Üniversitesi Hukuk Fakültesi",
+      "shortName": "Dicle",
+      "city": "Diyarbakır",
+      "priority": 2
+    },
+    {
+      "slug": "firat",
+      "name": "Fırat Üniversitesi Hukuk Fakültesi",
+      "shortName": "Fırat",
+      "city": "Elazığ",
+      "priority": 2
+    },
+    {
+      "slug": "gaziantep",
+      "name": "Gaziantep Üniversitesi Hukuk Fakültesi",
+      "shortName": "GAÜN",
+      "city": "Gaziantep",
+      "priority": 2
+    },
+    {
+      "slug": "suleyman-demirel",
+      "name": "Süleyman Demirel Üniversitesi Hukuk Fakültesi",
+      "shortName": "SDÜ",
+      "city": "Isparta",
+      "priority": 2
+    },
+    {
+      "slug": "pamukkale",
+      "name": "Pamukkale Üniversitesi Hukuk Fakültesi",
+      "shortName": "PAÜ",
+      "city": "Denizli",
+      "priority": 2
+    },
+    {
+      "slug": "mugla",
+      "name": "Muğla Sıtkı Koçman Üniversitesi Hukuk Fakültesi",
+      "shortName": "MSKU",
+      "city": "Muğla",
+      "priority": 2
+    },
+    {
+      "slug": "sakarya",
+      "name": "Sakarya Üniversitesi Hukuk Fakültesi",
+      "shortName": "SAÜ",
+      "city": "Sakarya",
+      "priority": 2
+    },
+    {
+      "slug": "kocaeli",
+      "name": "Kocaeli Üniversitesi Hukuk Fakültesi",
+      "shortName": "KOÜ",
+      "city": "Kocaeli",
+      "priority": 2
+    },
+    {
+      "slug": "trakya",
+      "name": "Trakya Üniversitesi Hukuk Fakültesi",
+      "shortName": "Trakya",
+      "city": "Edirne",
+      "priority": 2
+    },
+    {
+      "slug": "canakkale",
+      "name": "Çanakkale Onsekiz Mart Üniversitesi Hukuk Fakültesi",
+      "shortName": "ÇOMÜ",
+      "city": "Çanakkale",
+      "priority": 2
+    },
+    {
+      "slug": "balikesir",
+      "name": "Balıkesir Üniversitesi Hukuk Fakültesi",
+      "shortName": "BAÜN",
+      "city": "Balıkesir",
+      "priority": 3
+    },
+    {
+      "slug": "afyon",
+      "name": "Afyon Kocatepe Üniversitesi Hukuk Fakültesi",
+      "shortName": "AKÜ",
+      "city": "Afyonkarahisar",
+      "priority": 2
+    },
+    {
+      "slug": "dumlupinar",
+      "name": "Kütahya Dumlupınar Üniversitesi Hukuk Fakültesi",
+      "shortName": "DPÜ",
+      "city": "Kütahya",
+      "priority": 3
+    },
+    {
+      "slug": "eskisehir-osmangazi",
+      "name": "Eskişehir Osmangazi Üniversitesi Hukuk Fakültesi",
+      "shortName": "ESOGÜ",
+      "city": "Eskişehir",
+      "priority": 2
+    },
+    {
+      "slug": "sivas-cumhuriyet",
+      "name": "Sivas Cumhuriyet Üniversitesi Hukuk Fakültesi",
+      "shortName": "SCÜ",
+      "city": "Sivas",
+      "priority": 2
+    },
+    {
+      "slug": "tokat",
+      "name": "Tokat Gaziosmanpaşa Üniversitesi Hukuk Fakültesi",
+      "shortName": "TOGÜ",
+      "city": "Tokat",
+      "priority": 3
+    },
+    {
+      "slug": "yozgat",
+      "name": "Yozgat Bozok Üniversitesi Hukuk Fakültesi",
+      "shortName": "Bozok",
+      "city": "Yozgat",
+      "priority": 3
+    },
+    {
+      "slug": "kirsehir",
+      "name": "Kırşehir Ahi Evran Üniversitesi Hukuk Fakültesi",
+      "shortName": "AHİEVRAN",
+      "city": "Kırşehir",
+      "priority": 3
+    },
+    {
+      "slug": "nevsehir",
+      "name": "Nevşehir Hacı Bektaş Veli Üniversitesi Hukuk Fakültesi",
+      "shortName": "NEVÜ",
+      "city": "Nevşehir",
+      "priority": 3
+    },
+    {
+      "slug": "mersin",
+      "name": "Mersin Üniversitesi Hukuk Fakültesi",
+      "shortName": "MEÜ",
+      "city": "Mersin",
+      "priority": 2
+    },
+    {
+      "slug": "hatay",
+      "name": "Hatay Mustafa Kemal Üniversitesi Hukuk Fakültesi",
+      "shortName": "MKÜ",
+      "city": "Hatay",
+      "priority": 2
+    },
+    {
+      "slug": "kahramanmaras",
+      "name": "Kahramanmaraş Sütçü İmam Üniversitesi Hukuk Fakültesi",
+      "shortName": "KSÜ",
+      "city": "Kahramanmaraş",
+      "priority": 3
+    },
+    {
+      "slug": "osmaniye",
+      "name": "Osmaniye Korkut Ata Üniversitesi Hukuk Fakültesi",
+      "shortName": "OKÜ",
+      "city": "Osmaniye",
+      "priority": 3
+    },
+    {
+      "slug": "samsun",
+      "name": "Ondokuz Mayıs Üniversitesi Hukuk Fakültesi",
+      "shortName": "OMÜ",
+      "city": "Samsun",
+      "priority": 2
+    },
+    {
+      "slug": "ordu",
+      "name": "Ordu Üniversitesi Hukuk Fakültesi",
+      "shortName": "ODÜ",
+      "city": "Ordu",
+      "priority": 3
+    },
+    {
+      "slug": "giresun",
+      "name": "Giresun Üniversitesi Hukuk Fakültesi",
+      "shortName": "GÜ",
+      "city": "Giresun",
+      "priority": 3
+    },
+    {
+      "slug": "rize",
+      "name": "Recep Tayyip Erdoğan Üniversitesi Hukuk Fakültesi",
+      "shortName": "RTEÜ",
+      "city": "Rize",
+      "priority": 3
+    },
+    {
+      "slug": "artvin",
+      "name": "Artvin Çoruh Üniversitesi Hukuk Fakültesi",
+      "shortName": "AÇÜ",
+      "city": "Artvin",
+      "priority": 3
+    },
+    {
+      "slug": "van-yyu",
+      "name": "Van Yüzüncü Yıl Üniversitesi Hukuk Fakültesi",
+      "shortName": "YYÜ",
+      "city": "Van",
+      "priority": 1
+    },
+    {
+      "slug": "agri",
+      "name": "Ağrı İbrahim Çeçen Üniversitesi Hukuk Fakültesi",
+      "shortName": "AİÇÜ",
+      "city": "Ağrı",
+      "priority": 2
+    },
+    {
+      "slug": "kars",
+      "name": "Kafkas Üniversitesi Hukuk Fakültesi",
+      "shortName": "Kafkas",
+      "city": "Kars",
+      "priority": 3
+    },
+    {
+      "slug": "erzincan",
+      "name": "Erzincan Binali Yıldırım Üniversitesi Hukuk Fakültesi",
+      "shortName": "EBYÜ",
+      "city": "Erzincan",
+      "priority": 2
+    },
+    {
+      "slug": "bayburt",
+      "name": "Bayburt Üniversitesi Hukuk Fakültesi",
+      "shortName": "Bayburt",
+      "city": "Bayburt",
+      "priority": 3
+    },
+    {
+      "slug": "gumushane",
+      "name": "Gümüşhane Üniversitesi Hukuk Fakültesi",
+      "shortName": "Gümüşhane",
+      "city": "Gümüşhane",
+      "priority": 3
+    },
+    {
+      "slug": "bingol",
+      "name": "Bingöl Üniversitesi Hukuk Fakültesi",
+      "shortName": "Bingöl",
+      "city": "Bingöl",
+      "priority": 3
+    },
+    {
+      "slug": "mus",
+      "name": "Muş Alparslan Üniversitesi Hukuk Fakültesi",
+      "shortName": "Muş",
+      "city": "Muş",
+      "priority": 3
+    },
+    {
+      "slug": "hakkari",
+      "name": "Hakkâri Üniversitesi Hukuk Fakültesi",
+      "shortName": "Hakkâri",
+      "city": "Hakkâri",
+      "priority": 3
+    },
+    {
+      "slug": "sirnak",
+      "name": "Şırnak Üniversitesi Hukuk Fakültesi",
+      "shortName": "Şırnak",
+      "city": "Şırnak",
+      "priority": 3
+    },
+    {
+      "slug": "mardin",
+      "name": "Mardin Artuklu Üniversitesi Hukuk Fakültesi",
+      "shortName": "Artuklu",
+      "city": "Mardin",
+      "priority": 3
+    },
+    {
+      "slug": "batman",
+      "name": "Batman Üniversitesi Hukuk Fakültesi",
+      "shortName": "Batman",
+      "city": "Batman",
+      "priority": 3
+    },
+    {
+      "slug": "siirt",
+      "name": "Siirt Üniversitesi Hukuk Fakültesi",
+      "shortName": "Siirt",
+      "city": "Siirt",
+      "priority": 3
+    },
+    {
+      "slug": "adiyaman",
+      "name": "Adıyaman Üniversitesi Hukuk Fakültesi",
+      "shortName": "Adıyaman",
+      "city": "Adıyaman",
+      "priority": 3
+    },
+    {
+      "slug": "kilis",
+      "name": "Kilis 7 Aralık Üniversitesi Hukuk Fakültesi",
+      "shortName": "Kilis",
+      "city": "Kilis",
+      "priority": 3
+    },
+    {
+      "slug": "igdir",
+      "name": "Iğdır Üniversitesi Hukuk Fakültesi",
+      "shortName": "Iğdır",
+      "city": "Iğdır",
+      "priority": 3
+    },
+    {
+      "slug": "ardahan",
+      "name": "Ardahan Üniversitesi Hukuk Fakültesi",
+      "shortName": "Ardahan",
+      "city": "Ardahan",
+      "priority": 3
+    },
+    {
+      "slug": "bilecik",
+      "name": "Bilecik Şeyh Edebali Üniversitesi Hukuk Fakültesi",
+      "shortName": "BŞEÜ",
+      "city": "Bilecik",
+      "priority": 3
+    },
+    {
+      "slug": "bolu",
+      "name": "Bolu Abant İzzet Baysal Üniversitesi Hukuk Fakültesi",
+      "shortName": "BAİBÜ",
+      "city": "Bolu",
+      "priority": 3
+    },
+    {
+      "slug": "duzce",
+      "name": "Düzce Üniversitesi Hukuk Fakültesi",
+      "shortName": "Düzce",
+      "city": "Düzce",
+      "priority": 3
+    },
+    {
+      "slug": "zonguldak",
+      "name": "Zonguldak Bülent Ecevit Üniversitesi Hukuk Fakültesi",
+      "shortName": "BEÜN",
+      "city": "Zonguldak",
+      "priority": 3
+    },
+    {
+      "slug": "karabuk",
+      "name": "Karabük Üniversitesi Hukuk Fakültesi",
+      "shortName": "KBÜ",
+      "city": "Karabük",
+      "priority": 3
+    },
+    {
+      "slug": "kastamonu",
+      "name": "Kastamonu Üniversitesi Hukuk Fakültesi",
+      "shortName": "KÜ",
+      "city": "Kastamonu",
+      "priority": 3
+    },
+    {
+      "slug": "sinop",
+      "name": "Sinop Üniversitesi Hukuk Fakültesi",
+      "shortName": "Sinop",
+      "city": "Sinop",
+      "priority": 3
+    },
+    {
+      "slug": "corum",
+      "name": "Hitit Üniversitesi Hukuk Fakültesi",
+      "shortName": "Hitit",
+      "city": "Çorum",
+      "priority": 3
+    },
+    {
+      "slug": "amasya",
+      "name": "Amasya Üniversitesi Hukuk Fakültesi",
+      "shortName": "Amasya",
+      "city": "Amasya",
+      "priority": 3
+    },
+    {
+      "slug": "cankiri",
+      "name": "Çankırı Karatekin Üniversitesi Hukuk Fakültesi",
+      "shortName": "Karatekin",
+      "city": "Çankırı",
+      "priority": 3
+    },
+    {
+      "slug": "kirikkale",
+      "name": "Kırıkkale Üniversitesi Hukuk Fakültesi",
+      "shortName": "Kırıkkale",
+      "city": "Kırıkkale",
+      "priority": 2
+    },
+    {
+      "slug": "aksaray",
+      "name": "Aksaray Üniversitesi Hukuk Fakültesi",
+      "shortName": "Aksaray",
+      "city": "Aksaray",
+      "priority": 3
+    },
+    {
+      "slug": "nigde",
+      "name": "Niğde Ömer Halisdemir Üniversitesi Hukuk Fakültesi",
+      "shortName": "ÖHÜ",
+      "city": "Niğde",
+      "priority": 3
+    },
+    {
+      "slug": "konya-teknik",
+      "name": "Konya Necmettin Erbakan Üniversitesi Hukuk Fakültesi",
+      "shortName": "NEÜ",
+      "city": "Konya",
+      "priority": 2
+    },
+    {
+      "slug": "karaman",
+      "name": "Karamanoğlu Mehmetbey Üniversitesi Hukuk Fakültesi",
+      "shortName": "KMÜ",
+      "city": "Karaman",
+      "priority": 3
+    },
+    {
+      "slug": "usak",
+      "name": "Uşak Üniversitesi Hukuk Fakültesi",
+      "shortName": "Uşak",
+      "city": "Uşak",
+      "priority": 3
+    },
+    {
+      "slug": "manisa",
+      "name": "Manisa Celal Bayar Üniversitesi Hukuk Fakültesi",
+      "shortName": "MCBÜ",
+      "city": "Manisa",
+      "priority": 2
+    },
+    {
+      "slug": "aydin-adu",
+      "name": "Aydın Adnan Menderes Üniversitesi Hukuk Fakültesi",
+      "shortName": "ADÜ",
+      "city": "Aydın",
+      "priority": 2
+    },
+    {
+      "slug": "tekirdag",
+      "name": "Tekirdağ Namık Kemal Üniversitesi Hukuk Fakültesi",
+      "shortName": "NKÜ",
+      "city": "Tekirdağ",
+      "priority": 3
+    },
+    {
+      "slug": "kirklareli",
+      "name": "Kırklareli Üniversitesi Hukuk Fakültesi",
+      "shortName": "Kırklareli",
+      "city": "Kırklareli",
+      "priority": 3
+    },
+    {
+      "slug": "atilim",
+      "name": "Atılım Üniversitesi Hukuk Fakültesi",
+      "shortName": "Atılım",
+      "city": "Ankara",
+      "priority": 2
+    },
+    {
+      "slug": "cankaya",
+      "name": "Çankaya Üniversitesi Hukuk Fakültesi",
+      "shortName": "Çankaya",
+      "city": "Ankara",
+      "priority": 2
+    },
+    {
+      "slug": "ufuk",
+      "name": "Ufuk Üniversitesi Hukuk Fakültesi",
+      "shortName": "Ufuk",
+      "city": "Ankara",
+      "priority": 3
+    },
+    {
+      "slug": "yasar",
+      "name": "Yaşar Üniversitesi Hukuk Fakültesi",
+      "shortName": "Yaşar",
+      "city": "İzmir",
+      "priority": 2
+    },
+    {
+      "slug": "izmir-ekonomi",
+      "name": "İzmir Ekonomi Üniversitesi Hukuk Fakültesi",
+      "shortName": "İEÜ",
+      "city": "İzmir",
+      "priority": 2
+    },
+    {
+      "slug": "tinaztepe",
+      "name": "İzmir Tınaztepe Üniversitesi Hukuk Fakültesi",
+      "shortName": "Tınaztepe",
+      "city": "İzmir",
+      "priority": 3
+    },
+    {
+      "slug": "asbu-vakif",
+      "name": "Antalya Bilim Üniversitesi Hukuk Fakültesi",
+      "shortName": "ABÜ",
+      "city": "Antalya",
+      "priority": 2
+    },
+    {
+      "slug": "hasan-kalyoncu",
+      "name": "Hasan Kalyoncu Üniversitesi Hukuk Fakültesi",
+      "shortName": "HKÜ",
+      "city": "Gaziantep",
+      "priority": 2
+    },
+    {
+      "slug": "sanko",
+      "name": "Sanko Üniversitesi Hukuk Fakültesi",
+      "shortName": "Sanko",
+      "city": "Gaziantep",
+      "priority": 3
+    },
+    {
+      "slug": "toros",
+      "name": "Toros Üniversitesi Hukuk Fakültesi",
+      "shortName": "Toros",
+      "city": "Mersin",
+      "priority": 3
+    },
+    {
+      "slug": "cag",
+      "name": "Çağ Üniversitesi Hukuk Fakültesi",
+      "shortName": "Çağ",
+      "city": "Mersin",
+      "priority": 3
+    }
+  ],
+  "notes": [
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "hukuka-giris",
+      "slug": "ankara-yildirim-beyazit__hukuka-giris",
+      "title": "AYBÜ Hukuka Giriş / Hukukun Temel Kavramları Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/hukuka-giris"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "anayasa-1",
+      "slug": "ankara-yildirim-beyazit__anayasa-1",
+      "title": "AYBÜ Anayasa Hukuku I (Genel Esaslar) Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/anayasa-1"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "roma-hukuku",
+      "slug": "ankara-yildirim-beyazit__roma-hukuku",
+      "title": "AYBÜ Roma Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/roma-hukuku"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "medeni-baslangic",
+      "slug": "ankara-yildirim-beyazit__medeni-baslangic",
+      "title": "AYBÜ Medeni Hukuka Giriş ve Başlangıç Hükümleri Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/medeni-baslangic"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "anayasa-2",
+      "slug": "ankara-yildirim-beyazit__anayasa-2",
+      "title": "AYBÜ Anayasa Hukuku II (Türk Anayasa Düzeni) Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/anayasa-2"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "hukuk-felsefesi",
+      "slug": "ankara-yildirim-beyazit__hukuk-felsefesi",
+      "title": "AYBÜ Hukuk Felsefesi ve Sosyolojisi Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/hukuk-felsefesi"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "borclar-genel",
+      "slug": "ankara-yildirim-beyazit__borclar-genel",
+      "title": "AYBÜ Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/borclar-genel"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "aile-hukuku",
+      "slug": "ankara-yildirim-beyazit__aile-hukuku",
+      "title": "AYBÜ Aile Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/aile-hukuku"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "ceza-genel",
+      "slug": "ankara-yildirim-beyazit__ceza-genel",
+      "title": "AYBÜ Ceza Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/ceza-genel"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "idare-hukuku",
+      "slug": "ankara-yildirim-beyazit__idare-hukuku",
+      "title": "AYBÜ İdare Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/idare-hukuku"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "milletlerarasi-hukuk",
+      "slug": "ankara-yildirim-beyazit__milletlerarasi-hukuk",
+      "title": "AYBÜ Milletlerarası Hukuk Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/milletlerarasi-hukuk"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "ticari-isletme",
+      "slug": "ankara-yildirim-beyazit__ticari-isletme",
+      "title": "AYBÜ Ticari İşletme Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/ticari-isletme"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "borclar-ozel",
+      "slug": "ankara-yildirim-beyazit__borclar-ozel",
+      "title": "AYBÜ Borçlar Hukuku Özel Hükümler Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/borclar-ozel"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "esya-hukuku",
+      "slug": "ankara-yildirim-beyazit__esya-hukuku",
+      "title": "AYBÜ Eşya Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/esya-hukuku"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "ceza-ozel",
+      "slug": "ankara-yildirim-beyazit__ceza-ozel",
+      "title": "AYBÜ Ceza Hukuku Özel Hükümler Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/ceza-ozel"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "medeni-usul",
+      "slug": "ankara-yildirim-beyazit__medeni-usul",
+      "title": "AYBÜ Medeni Usul Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/medeni-usul"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "ceza-muhakemesi",
+      "slug": "ankara-yildirim-beyazit__ceza-muhakemesi",
+      "title": "AYBÜ Ceza Muhakemesi Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/ceza-muhakemesi"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "is-hukuku",
+      "slug": "ankara-yildirim-beyazit__is-hukuku",
+      "title": "AYBÜ İş ve Sosyal Güvenlik Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/is-hukuku"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "vergi-hukuku",
+      "slug": "ankara-yildirim-beyazit__vergi-hukuku",
+      "title": "AYBÜ Vergi Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/vergi-hukuku"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "idari-yargilama",
+      "slug": "ankara-yildirim-beyazit__idari-yargilama",
+      "title": "AYBÜ İdari Yargılama Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/idari-yargilama"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "miras-hukuku",
+      "slug": "ankara-yildirim-beyazit__miras-hukuku",
+      "title": "AYBÜ Miras Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/miras-hukuku"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "ticaret-sirketler",
+      "slug": "ankara-yildirim-beyazit__ticaret-sirketler",
+      "title": "AYBÜ Ticaret Şirketleri Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/ticaret-sirketler"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "kiymetli-evrak",
+      "slug": "ankara-yildirim-beyazit__kiymetli-evrak",
+      "title": "AYBÜ Kıymetli Evrak Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/kiymetli-evrak"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "icra-iflas",
+      "slug": "ankara-yildirim-beyazit__icra-iflas",
+      "title": "AYBÜ İcra ve İflas Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/icra-iflas"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "devletler-ozel",
+      "slug": "ankara-yildirim-beyazit__devletler-ozel",
+      "title": "AYBÜ Devletler Özel Hukuku / MÖHUK Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/devletler-ozel"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "insan-haklari",
+      "slug": "ankara-yildirim-beyazit__insan-haklari",
+      "title": "AYBÜ İnsan Hakları Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/insan-haklari"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "fikri-mulkiyet",
+      "slug": "ankara-yildirim-beyazit__fikri-mulkiyet",
+      "title": "AYBÜ Fikri Mülkiyet Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/fikri-mulkiyet"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "tuketici-hukuku",
+      "slug": "ankara-yildirim-beyazit__tuketici-hukuku",
+      "title": "AYBÜ Tüketici Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/tuketici-hukuku"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "hukuka-giris",
+      "slug": "ankara__hukuka-giris",
+      "title": "AÜHF Hukuka Giriş / Hukukun Temel Kavramları Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara/hukuka-giris"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "anayasa-1",
+      "slug": "ankara__anayasa-1",
+      "title": "AÜHF Anayasa Hukuku I (Genel Esaslar) Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara/anayasa-1"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "roma-hukuku",
+      "slug": "ankara__roma-hukuku",
+      "title": "AÜHF Roma Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara/roma-hukuku"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "medeni-baslangic",
+      "slug": "ankara__medeni-baslangic",
+      "title": "AÜHF Medeni Hukuka Giriş ve Başlangıç Hükümleri Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara/medeni-baslangic"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "anayasa-2",
+      "slug": "ankara__anayasa-2",
+      "title": "AÜHF Anayasa Hukuku II (Türk Anayasa Düzeni) Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara/anayasa-2"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "hukuk-felsefesi",
+      "slug": "ankara__hukuk-felsefesi",
+      "title": "AÜHF Hukuk Felsefesi ve Sosyolojisi Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara/hukuk-felsefesi"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "borclar-genel",
+      "slug": "ankara__borclar-genel",
+      "title": "AÜHF Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara/borclar-genel"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "aile-hukuku",
+      "slug": "ankara__aile-hukuku",
+      "title": "AÜHF Aile Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara/aile-hukuku"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "ceza-genel",
+      "slug": "ankara__ceza-genel",
+      "title": "AÜHF Ceza Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara/ceza-genel"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "idare-hukuku",
+      "slug": "ankara__idare-hukuku",
+      "title": "AÜHF İdare Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara/idare-hukuku"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "milletlerarasi-hukuk",
+      "slug": "ankara__milletlerarasi-hukuk",
+      "title": "AÜHF Milletlerarası Hukuk Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara/milletlerarasi-hukuk"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "ticari-isletme",
+      "slug": "ankara__ticari-isletme",
+      "title": "AÜHF Ticari İşletme Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara/ticari-isletme"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "borclar-ozel",
+      "slug": "ankara__borclar-ozel",
+      "title": "AÜHF Borçlar Hukuku Özel Hükümler Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara/borclar-ozel"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "esya-hukuku",
+      "slug": "ankara__esya-hukuku",
+      "title": "AÜHF Eşya Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara/esya-hukuku"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "ceza-ozel",
+      "slug": "ankara__ceza-ozel",
+      "title": "AÜHF Ceza Hukuku Özel Hükümler Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara/ceza-ozel"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "medeni-usul",
+      "slug": "ankara__medeni-usul",
+      "title": "AÜHF Medeni Usul Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara/medeni-usul"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "ceza-muhakemesi",
+      "slug": "ankara__ceza-muhakemesi",
+      "title": "AÜHF Ceza Muhakemesi Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara/ceza-muhakemesi"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "is-hukuku",
+      "slug": "ankara__is-hukuku",
+      "title": "AÜHF İş ve Sosyal Güvenlik Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara/is-hukuku"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "vergi-hukuku",
+      "slug": "ankara__vergi-hukuku",
+      "title": "AÜHF Vergi Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara/vergi-hukuku"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "idari-yargilama",
+      "slug": "ankara__idari-yargilama",
+      "title": "AÜHF İdari Yargılama Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara/idari-yargilama"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "miras-hukuku",
+      "slug": "ankara__miras-hukuku",
+      "title": "AÜHF Miras Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara/miras-hukuku"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "ticaret-sirketler",
+      "slug": "ankara__ticaret-sirketler",
+      "title": "AÜHF Ticaret Şirketleri Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara/ticaret-sirketler"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "kiymetli-evrak",
+      "slug": "ankara__kiymetli-evrak",
+      "title": "AÜHF Kıymetli Evrak Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara/kiymetli-evrak"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "icra-iflas",
+      "slug": "ankara__icra-iflas",
+      "title": "AÜHF İcra ve İflas Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara/icra-iflas"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "devletler-ozel",
+      "slug": "ankara__devletler-ozel",
+      "title": "AÜHF Devletler Özel Hukuku / MÖHUK Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara/devletler-ozel"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "insan-haklari",
+      "slug": "ankara__insan-haklari",
+      "title": "AÜHF İnsan Hakları Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara/insan-haklari"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "fikri-mulkiyet",
+      "slug": "ankara__fikri-mulkiyet",
+      "title": "AÜHF Fikri Mülkiyet Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara/fikri-mulkiyet"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "tuketici-hukuku",
+      "slug": "ankara__tuketici-hukuku",
+      "title": "AÜHF Tüketici Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara/tuketici-hukuku"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "hukuka-giris",
+      "slug": "istanbul__hukuka-giris",
+      "title": "İÜHF Hukuka Giriş / Hukukun Temel Kavramları Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/istanbul/hukuka-giris"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "anayasa-1",
+      "slug": "istanbul__anayasa-1",
+      "title": "İÜHF Anayasa Hukuku I (Genel Esaslar) Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/istanbul/anayasa-1"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "roma-hukuku",
+      "slug": "istanbul__roma-hukuku",
+      "title": "İÜHF Roma Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/istanbul/roma-hukuku"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "medeni-baslangic",
+      "slug": "istanbul__medeni-baslangic",
+      "title": "İÜHF Medeni Hukuka Giriş ve Başlangıç Hükümleri Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/istanbul/medeni-baslangic"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "anayasa-2",
+      "slug": "istanbul__anayasa-2",
+      "title": "İÜHF Anayasa Hukuku II (Türk Anayasa Düzeni) Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/istanbul/anayasa-2"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "hukuk-felsefesi",
+      "slug": "istanbul__hukuk-felsefesi",
+      "title": "İÜHF Hukuk Felsefesi ve Sosyolojisi Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/istanbul/hukuk-felsefesi"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "borclar-genel",
+      "slug": "istanbul__borclar-genel",
+      "title": "İÜHF Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/istanbul/borclar-genel"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "aile-hukuku",
+      "slug": "istanbul__aile-hukuku",
+      "title": "İÜHF Aile Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/istanbul/aile-hukuku"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "ceza-genel",
+      "slug": "istanbul__ceza-genel",
+      "title": "İÜHF Ceza Hukuku Genel Hükümler Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/istanbul/ceza-genel"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "idare-hukuku",
+      "slug": "istanbul__idare-hukuku",
+      "title": "İÜHF İdare Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/istanbul/idare-hukuku"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "milletlerarasi-hukuk",
+      "slug": "istanbul__milletlerarasi-hukuk",
+      "title": "İÜHF Milletlerarası Hukuk Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/istanbul/milletlerarasi-hukuk"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "ticari-isletme",
+      "slug": "istanbul__ticari-isletme",
+      "title": "İÜHF Ticari İşletme Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/istanbul/ticari-isletme"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "borclar-ozel",
+      "slug": "istanbul__borclar-ozel",
+      "title": "İÜHF Borçlar Hukuku Özel Hükümler Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/istanbul/borclar-ozel"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "esya-hukuku",
+      "slug": "istanbul__esya-hukuku",
+      "title": "İÜHF Eşya Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/istanbul/esya-hukuku"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "ceza-ozel",
+      "slug": "istanbul__ceza-ozel",
+      "title": "İÜHF Ceza Hukuku Özel Hükümler Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/istanbul/ceza-ozel"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "medeni-usul",
+      "slug": "istanbul__medeni-usul",
+      "title": "İÜHF Medeni Usul Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/istanbul/medeni-usul"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "ceza-muhakemesi",
+      "slug": "istanbul__ceza-muhakemesi",
+      "title": "İÜHF Ceza Muhakemesi Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/istanbul/ceza-muhakemesi"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "is-hukuku",
+      "slug": "istanbul__is-hukuku",
+      "title": "İÜHF İş ve Sosyal Güvenlik Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/istanbul/is-hukuku"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "vergi-hukuku",
+      "slug": "istanbul__vergi-hukuku",
+      "title": "İÜHF Vergi Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/istanbul/vergi-hukuku"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "idari-yargilama",
+      "slug": "istanbul__idari-yargilama",
+      "title": "İÜHF İdari Yargılama Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/istanbul/idari-yargilama"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "miras-hukuku",
+      "slug": "istanbul__miras-hukuku",
+      "title": "İÜHF Miras Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/istanbul/miras-hukuku"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "ticaret-sirketler",
+      "slug": "istanbul__ticaret-sirketler",
+      "title": "İÜHF Ticaret Şirketleri Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/istanbul/ticaret-sirketler"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "kiymetli-evrak",
+      "slug": "istanbul__kiymetli-evrak",
+      "title": "İÜHF Kıymetli Evrak Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/istanbul/kiymetli-evrak"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "icra-iflas",
+      "slug": "istanbul__icra-iflas",
+      "title": "İÜHF İcra ve İflas Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/istanbul/icra-iflas"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "devletler-ozel",
+      "slug": "istanbul__devletler-ozel",
+      "title": "İÜHF Devletler Özel Hukuku / MÖHUK Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/istanbul/devletler-ozel"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "insan-haklari",
+      "slug": "istanbul__insan-haklari",
+      "title": "İÜHF İnsan Hakları Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/istanbul/insan-haklari"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "fikri-mulkiyet",
+      "slug": "istanbul__fikri-mulkiyet",
+      "title": "İÜHF Fikri Mülkiyet Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/istanbul/fikri-mulkiyet"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "tuketici-hukuku",
+      "slug": "istanbul__tuketici-hukuku",
+      "title": "İÜHF Tüketici Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/istanbul/tuketici-hukuku"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "hukuka-giris",
+      "slug": "marmara__hukuka-giris",
+      "title": "MÜHF Hukuka Giriş / Hukukun Temel Kavramları Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/marmara/hukuka-giris"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "anayasa-1",
+      "slug": "marmara__anayasa-1",
+      "title": "MÜHF Anayasa Hukuku I (Genel Esaslar) Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/marmara/anayasa-1"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "roma-hukuku",
+      "slug": "marmara__roma-hukuku",
+      "title": "MÜHF Roma Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/marmara/roma-hukuku"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "medeni-baslangic",
+      "slug": "marmara__medeni-baslangic",
+      "title": "MÜHF Medeni Hukuka Giriş ve Başlangıç Hükümleri Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/marmara/medeni-baslangic"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "anayasa-2",
+      "slug": "marmara__anayasa-2",
+      "title": "MÜHF Anayasa Hukuku II (Türk Anayasa Düzeni) Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/marmara/anayasa-2"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "hukuk-felsefesi",
+      "slug": "marmara__hukuk-felsefesi",
+      "title": "MÜHF Hukuk Felsefesi ve Sosyolojisi Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/marmara/hukuk-felsefesi"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "borclar-genel",
+      "slug": "marmara__borclar-genel",
+      "title": "MÜHF Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/marmara/borclar-genel"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "aile-hukuku",
+      "slug": "marmara__aile-hukuku",
+      "title": "MÜHF Aile Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/marmara/aile-hukuku"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "ceza-genel",
+      "slug": "marmara__ceza-genel",
+      "title": "MÜHF Ceza Hukuku Genel Hükümler Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/marmara/ceza-genel"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "idare-hukuku",
+      "slug": "marmara__idare-hukuku",
+      "title": "MÜHF İdare Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/marmara/idare-hukuku"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "milletlerarasi-hukuk",
+      "slug": "marmara__milletlerarasi-hukuk",
+      "title": "MÜHF Milletlerarası Hukuk Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/marmara/milletlerarasi-hukuk"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "ticari-isletme",
+      "slug": "marmara__ticari-isletme",
+      "title": "MÜHF Ticari İşletme Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/marmara/ticari-isletme"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "borclar-ozel",
+      "slug": "marmara__borclar-ozel",
+      "title": "MÜHF Borçlar Hukuku Özel Hükümler Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/marmara/borclar-ozel"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "esya-hukuku",
+      "slug": "marmara__esya-hukuku",
+      "title": "MÜHF Eşya Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/marmara/esya-hukuku"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "ceza-ozel",
+      "slug": "marmara__ceza-ozel",
+      "title": "MÜHF Ceza Hukuku Özel Hükümler Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/marmara/ceza-ozel"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "medeni-usul",
+      "slug": "marmara__medeni-usul",
+      "title": "MÜHF Medeni Usul Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/marmara/medeni-usul"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "ceza-muhakemesi",
+      "slug": "marmara__ceza-muhakemesi",
+      "title": "MÜHF Ceza Muhakemesi Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/marmara/ceza-muhakemesi"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "is-hukuku",
+      "slug": "marmara__is-hukuku",
+      "title": "MÜHF İş ve Sosyal Güvenlik Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/marmara/is-hukuku"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "vergi-hukuku",
+      "slug": "marmara__vergi-hukuku",
+      "title": "MÜHF Vergi Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/marmara/vergi-hukuku"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "idari-yargilama",
+      "slug": "marmara__idari-yargilama",
+      "title": "MÜHF İdari Yargılama Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/marmara/idari-yargilama"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "miras-hukuku",
+      "slug": "marmara__miras-hukuku",
+      "title": "MÜHF Miras Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/marmara/miras-hukuku"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "ticaret-sirketler",
+      "slug": "marmara__ticaret-sirketler",
+      "title": "MÜHF Ticaret Şirketleri Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/marmara/ticaret-sirketler"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "kiymetli-evrak",
+      "slug": "marmara__kiymetli-evrak",
+      "title": "MÜHF Kıymetli Evrak Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/marmara/kiymetli-evrak"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "icra-iflas",
+      "slug": "marmara__icra-iflas",
+      "title": "MÜHF İcra ve İflas Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/marmara/icra-iflas"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "devletler-ozel",
+      "slug": "marmara__devletler-ozel",
+      "title": "MÜHF Devletler Özel Hukuku / MÖHUK Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/marmara/devletler-ozel"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "insan-haklari",
+      "slug": "marmara__insan-haklari",
+      "title": "MÜHF İnsan Hakları Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/marmara/insan-haklari"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "fikri-mulkiyet",
+      "slug": "marmara__fikri-mulkiyet",
+      "title": "MÜHF Fikri Mülkiyet Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/marmara/fikri-mulkiyet"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "tuketici-hukuku",
+      "slug": "marmara__tuketici-hukuku",
+      "title": "MÜHF Tüketici Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/marmara/tuketici-hukuku"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "hukuka-giris",
+      "slug": "galatasaray__hukuka-giris",
+      "title": "GSÜ Hukuka Giriş / Hukukun Temel Kavramları Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/galatasaray/hukuka-giris"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "anayasa-1",
+      "slug": "galatasaray__anayasa-1",
+      "title": "GSÜ Anayasa Hukuku I (Genel Esaslar) Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/galatasaray/anayasa-1"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "roma-hukuku",
+      "slug": "galatasaray__roma-hukuku",
+      "title": "GSÜ Roma Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/galatasaray/roma-hukuku"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "medeni-baslangic",
+      "slug": "galatasaray__medeni-baslangic",
+      "title": "GSÜ Medeni Hukuka Giriş ve Başlangıç Hükümleri Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/galatasaray/medeni-baslangic"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "anayasa-2",
+      "slug": "galatasaray__anayasa-2",
+      "title": "GSÜ Anayasa Hukuku II (Türk Anayasa Düzeni) Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/galatasaray/anayasa-2"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "hukuk-felsefesi",
+      "slug": "galatasaray__hukuk-felsefesi",
+      "title": "GSÜ Hukuk Felsefesi ve Sosyolojisi Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/galatasaray/hukuk-felsefesi"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "borclar-genel",
+      "slug": "galatasaray__borclar-genel",
+      "title": "GSÜ Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/galatasaray/borclar-genel"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "aile-hukuku",
+      "slug": "galatasaray__aile-hukuku",
+      "title": "GSÜ Aile Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/galatasaray/aile-hukuku"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "ceza-genel",
+      "slug": "galatasaray__ceza-genel",
+      "title": "GSÜ Ceza Hukuku Genel Hükümler Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/galatasaray/ceza-genel"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "idare-hukuku",
+      "slug": "galatasaray__idare-hukuku",
+      "title": "GSÜ İdare Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/galatasaray/idare-hukuku"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "milletlerarasi-hukuk",
+      "slug": "galatasaray__milletlerarasi-hukuk",
+      "title": "GSÜ Milletlerarası Hukuk Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/galatasaray/milletlerarasi-hukuk"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "ticari-isletme",
+      "slug": "galatasaray__ticari-isletme",
+      "title": "GSÜ Ticari İşletme Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/galatasaray/ticari-isletme"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "borclar-ozel",
+      "slug": "galatasaray__borclar-ozel",
+      "title": "GSÜ Borçlar Hukuku Özel Hükümler Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/galatasaray/borclar-ozel"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "esya-hukuku",
+      "slug": "galatasaray__esya-hukuku",
+      "title": "GSÜ Eşya Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/galatasaray/esya-hukuku"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "ceza-ozel",
+      "slug": "galatasaray__ceza-ozel",
+      "title": "GSÜ Ceza Hukuku Özel Hükümler Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/galatasaray/ceza-ozel"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "medeni-usul",
+      "slug": "galatasaray__medeni-usul",
+      "title": "GSÜ Medeni Usul Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/galatasaray/medeni-usul"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "ceza-muhakemesi",
+      "slug": "galatasaray__ceza-muhakemesi",
+      "title": "GSÜ Ceza Muhakemesi Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/galatasaray/ceza-muhakemesi"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "is-hukuku",
+      "slug": "galatasaray__is-hukuku",
+      "title": "GSÜ İş ve Sosyal Güvenlik Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/galatasaray/is-hukuku"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "vergi-hukuku",
+      "slug": "galatasaray__vergi-hukuku",
+      "title": "GSÜ Vergi Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/galatasaray/vergi-hukuku"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "idari-yargilama",
+      "slug": "galatasaray__idari-yargilama",
+      "title": "GSÜ İdari Yargılama Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/galatasaray/idari-yargilama"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "miras-hukuku",
+      "slug": "galatasaray__miras-hukuku",
+      "title": "GSÜ Miras Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/galatasaray/miras-hukuku"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "ticaret-sirketler",
+      "slug": "galatasaray__ticaret-sirketler",
+      "title": "GSÜ Ticaret Şirketleri Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/galatasaray/ticaret-sirketler"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "kiymetli-evrak",
+      "slug": "galatasaray__kiymetli-evrak",
+      "title": "GSÜ Kıymetli Evrak Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/galatasaray/kiymetli-evrak"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "icra-iflas",
+      "slug": "galatasaray__icra-iflas",
+      "title": "GSÜ İcra ve İflas Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/galatasaray/icra-iflas"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "devletler-ozel",
+      "slug": "galatasaray__devletler-ozel",
+      "title": "GSÜ Devletler Özel Hukuku / MÖHUK Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/galatasaray/devletler-ozel"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "insan-haklari",
+      "slug": "galatasaray__insan-haklari",
+      "title": "GSÜ İnsan Hakları Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/galatasaray/insan-haklari"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "fikri-mulkiyet",
+      "slug": "galatasaray__fikri-mulkiyet",
+      "title": "GSÜ Fikri Mülkiyet Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/galatasaray/fikri-mulkiyet"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "tuketici-hukuku",
+      "slug": "galatasaray__tuketici-hukuku",
+      "title": "GSÜ Tüketici Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/galatasaray/tuketici-hukuku"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "hukuka-giris",
+      "slug": "dokuz-eylul__hukuka-giris",
+      "title": "DEÜ Hukuka Giriş / Hukukun Temel Kavramları Ders Notları (Ücretsiz) | İzmir Hukuk",
+      "href": "/ders-notlari/dokuz-eylul/hukuka-giris"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "anayasa-1",
+      "slug": "dokuz-eylul__anayasa-1",
+      "title": "DEÜ Anayasa Hukuku I (Genel Esaslar) Ders Notları (Ücretsiz) | İzmir Hukuk",
+      "href": "/ders-notlari/dokuz-eylul/anayasa-1"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "roma-hukuku",
+      "slug": "dokuz-eylul__roma-hukuku",
+      "title": "DEÜ Roma Hukuku Ders Notları (Ücretsiz) | İzmir Hukuk",
+      "href": "/ders-notlari/dokuz-eylul/roma-hukuku"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "medeni-baslangic",
+      "slug": "dokuz-eylul__medeni-baslangic",
+      "title": "DEÜ Medeni Hukuka Giriş ve Başlangıç Hükümleri Ders Notları (Ücretsiz) | İzmir Hukuk",
+      "href": "/ders-notlari/dokuz-eylul/medeni-baslangic"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "anayasa-2",
+      "slug": "dokuz-eylul__anayasa-2",
+      "title": "DEÜ Anayasa Hukuku II (Türk Anayasa Düzeni) Ders Notları (Ücretsiz) | İzmir Hukuk",
+      "href": "/ders-notlari/dokuz-eylul/anayasa-2"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "hukuk-felsefesi",
+      "slug": "dokuz-eylul__hukuk-felsefesi",
+      "title": "DEÜ Hukuk Felsefesi ve Sosyolojisi Ders Notları (Ücretsiz) | İzmir Hukuk",
+      "href": "/ders-notlari/dokuz-eylul/hukuk-felsefesi"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "borclar-genel",
+      "slug": "dokuz-eylul__borclar-genel",
+      "title": "DEÜ Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | İzmir Hukuk",
+      "href": "/ders-notlari/dokuz-eylul/borclar-genel"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "aile-hukuku",
+      "slug": "dokuz-eylul__aile-hukuku",
+      "title": "DEÜ Aile Hukuku Ders Notları (Ücretsiz) | İzmir Hukuk",
+      "href": "/ders-notlari/dokuz-eylul/aile-hukuku"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "ceza-genel",
+      "slug": "dokuz-eylul__ceza-genel",
+      "title": "DEÜ Ceza Hukuku Genel Hükümler Ders Notları (Ücretsiz) | İzmir Hukuk",
+      "href": "/ders-notlari/dokuz-eylul/ceza-genel"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "idare-hukuku",
+      "slug": "dokuz-eylul__idare-hukuku",
+      "title": "DEÜ İdare Hukuku Ders Notları (Ücretsiz) | İzmir Hukuk",
+      "href": "/ders-notlari/dokuz-eylul/idare-hukuku"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "milletlerarasi-hukuk",
+      "slug": "dokuz-eylul__milletlerarasi-hukuk",
+      "title": "DEÜ Milletlerarası Hukuk Ders Notları (Ücretsiz) | İzmir Hukuk",
+      "href": "/ders-notlari/dokuz-eylul/milletlerarasi-hukuk"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "ticari-isletme",
+      "slug": "dokuz-eylul__ticari-isletme",
+      "title": "DEÜ Ticari İşletme Hukuku Ders Notları (Ücretsiz) | İzmir Hukuk",
+      "href": "/ders-notlari/dokuz-eylul/ticari-isletme"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "borclar-ozel",
+      "slug": "dokuz-eylul__borclar-ozel",
+      "title": "DEÜ Borçlar Hukuku Özel Hükümler Ders Notları (Ücretsiz) | İzmir Hukuk",
+      "href": "/ders-notlari/dokuz-eylul/borclar-ozel"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "esya-hukuku",
+      "slug": "dokuz-eylul__esya-hukuku",
+      "title": "DEÜ Eşya Hukuku Ders Notları (Ücretsiz) | İzmir Hukuk",
+      "href": "/ders-notlari/dokuz-eylul/esya-hukuku"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "ceza-ozel",
+      "slug": "dokuz-eylul__ceza-ozel",
+      "title": "DEÜ Ceza Hukuku Özel Hükümler Ders Notları (Ücretsiz) | İzmir Hukuk",
+      "href": "/ders-notlari/dokuz-eylul/ceza-ozel"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "medeni-usul",
+      "slug": "dokuz-eylul__medeni-usul",
+      "title": "DEÜ Medeni Usul Hukuku Ders Notları (Ücretsiz) | İzmir Hukuk",
+      "href": "/ders-notlari/dokuz-eylul/medeni-usul"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "ceza-muhakemesi",
+      "slug": "dokuz-eylul__ceza-muhakemesi",
+      "title": "DEÜ Ceza Muhakemesi Hukuku Ders Notları (Ücretsiz) | İzmir Hukuk",
+      "href": "/ders-notlari/dokuz-eylul/ceza-muhakemesi"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "is-hukuku",
+      "slug": "dokuz-eylul__is-hukuku",
+      "title": "DEÜ İş ve Sosyal Güvenlik Hukuku Ders Notları (Ücretsiz) | İzmir Hukuk",
+      "href": "/ders-notlari/dokuz-eylul/is-hukuku"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "vergi-hukuku",
+      "slug": "dokuz-eylul__vergi-hukuku",
+      "title": "DEÜ Vergi Hukuku Ders Notları (Ücretsiz) | İzmir Hukuk",
+      "href": "/ders-notlari/dokuz-eylul/vergi-hukuku"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "idari-yargilama",
+      "slug": "dokuz-eylul__idari-yargilama",
+      "title": "DEÜ İdari Yargılama Hukuku Ders Notları (Ücretsiz) | İzmir Hukuk",
+      "href": "/ders-notlari/dokuz-eylul/idari-yargilama"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "miras-hukuku",
+      "slug": "dokuz-eylul__miras-hukuku",
+      "title": "DEÜ Miras Hukuku Ders Notları (Ücretsiz) | İzmir Hukuk",
+      "href": "/ders-notlari/dokuz-eylul/miras-hukuku"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "ticaret-sirketler",
+      "slug": "dokuz-eylul__ticaret-sirketler",
+      "title": "DEÜ Ticaret Şirketleri Hukuku Ders Notları (Ücretsiz) | İzmir Hukuk",
+      "href": "/ders-notlari/dokuz-eylul/ticaret-sirketler"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "kiymetli-evrak",
+      "slug": "dokuz-eylul__kiymetli-evrak",
+      "title": "DEÜ Kıymetli Evrak Hukuku Ders Notları (Ücretsiz) | İzmir Hukuk",
+      "href": "/ders-notlari/dokuz-eylul/kiymetli-evrak"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "icra-iflas",
+      "slug": "dokuz-eylul__icra-iflas",
+      "title": "DEÜ İcra ve İflas Hukuku Ders Notları (Ücretsiz) | İzmir Hukuk",
+      "href": "/ders-notlari/dokuz-eylul/icra-iflas"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "devletler-ozel",
+      "slug": "dokuz-eylul__devletler-ozel",
+      "title": "DEÜ Devletler Özel Hukuku / MÖHUK Ders Notları (Ücretsiz) | İzmir Hukuk",
+      "href": "/ders-notlari/dokuz-eylul/devletler-ozel"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "insan-haklari",
+      "slug": "dokuz-eylul__insan-haklari",
+      "title": "DEÜ İnsan Hakları Hukuku Ders Notları (Ücretsiz) | İzmir Hukuk",
+      "href": "/ders-notlari/dokuz-eylul/insan-haklari"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "fikri-mulkiyet",
+      "slug": "dokuz-eylul__fikri-mulkiyet",
+      "title": "DEÜ Fikri Mülkiyet Hukuku Ders Notları (Ücretsiz) | İzmir Hukuk",
+      "href": "/ders-notlari/dokuz-eylul/fikri-mulkiyet"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "tuketici-hukuku",
+      "slug": "dokuz-eylul__tuketici-hukuku",
+      "title": "DEÜ Tüketici Hukuku Ders Notları (Ücretsiz) | İzmir Hukuk",
+      "href": "/ders-notlari/dokuz-eylul/tuketici-hukuku"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "hukuka-giris",
+      "slug": "hacettepe__hukuka-giris",
+      "title": "Hacettepe Hukuka Giriş / Hukukun Temel Kavramları Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/hacettepe/hukuka-giris"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "anayasa-1",
+      "slug": "hacettepe__anayasa-1",
+      "title": "Hacettepe Anayasa Hukuku I (Genel Esaslar) Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/hacettepe/anayasa-1"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "roma-hukuku",
+      "slug": "hacettepe__roma-hukuku",
+      "title": "Hacettepe Roma Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/hacettepe/roma-hukuku"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "medeni-baslangic",
+      "slug": "hacettepe__medeni-baslangic",
+      "title": "Hacettepe Medeni Hukuka Giriş ve Başlangıç Hükümleri Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/hacettepe/medeni-baslangic"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "anayasa-2",
+      "slug": "hacettepe__anayasa-2",
+      "title": "Hacettepe Anayasa Hukuku II (Türk Anayasa Düzeni) Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/hacettepe/anayasa-2"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "hukuk-felsefesi",
+      "slug": "hacettepe__hukuk-felsefesi",
+      "title": "Hacettepe Hukuk Felsefesi ve Sosyolojisi Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/hacettepe/hukuk-felsefesi"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "borclar-genel",
+      "slug": "hacettepe__borclar-genel",
+      "title": "Hacettepe Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/hacettepe/borclar-genel"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "aile-hukuku",
+      "slug": "hacettepe__aile-hukuku",
+      "title": "Hacettepe Aile Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/hacettepe/aile-hukuku"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "ceza-genel",
+      "slug": "hacettepe__ceza-genel",
+      "title": "Hacettepe Ceza Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/hacettepe/ceza-genel"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "idare-hukuku",
+      "slug": "hacettepe__idare-hukuku",
+      "title": "Hacettepe İdare Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/hacettepe/idare-hukuku"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "milletlerarasi-hukuk",
+      "slug": "hacettepe__milletlerarasi-hukuk",
+      "title": "Hacettepe Milletlerarası Hukuk Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/hacettepe/milletlerarasi-hukuk"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "ticari-isletme",
+      "slug": "hacettepe__ticari-isletme",
+      "title": "Hacettepe Ticari İşletme Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/hacettepe/ticari-isletme"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "borclar-ozel",
+      "slug": "hacettepe__borclar-ozel",
+      "title": "Hacettepe Borçlar Hukuku Özel Hükümler Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/hacettepe/borclar-ozel"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "esya-hukuku",
+      "slug": "hacettepe__esya-hukuku",
+      "title": "Hacettepe Eşya Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/hacettepe/esya-hukuku"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "ceza-ozel",
+      "slug": "hacettepe__ceza-ozel",
+      "title": "Hacettepe Ceza Hukuku Özel Hükümler Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/hacettepe/ceza-ozel"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "medeni-usul",
+      "slug": "hacettepe__medeni-usul",
+      "title": "Hacettepe Medeni Usul Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/hacettepe/medeni-usul"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "ceza-muhakemesi",
+      "slug": "hacettepe__ceza-muhakemesi",
+      "title": "Hacettepe Ceza Muhakemesi Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/hacettepe/ceza-muhakemesi"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "is-hukuku",
+      "slug": "hacettepe__is-hukuku",
+      "title": "Hacettepe İş ve Sosyal Güvenlik Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/hacettepe/is-hukuku"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "vergi-hukuku",
+      "slug": "hacettepe__vergi-hukuku",
+      "title": "Hacettepe Vergi Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/hacettepe/vergi-hukuku"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "idari-yargilama",
+      "slug": "hacettepe__idari-yargilama",
+      "title": "Hacettepe İdari Yargılama Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/hacettepe/idari-yargilama"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "miras-hukuku",
+      "slug": "hacettepe__miras-hukuku",
+      "title": "Hacettepe Miras Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/hacettepe/miras-hukuku"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "ticaret-sirketler",
+      "slug": "hacettepe__ticaret-sirketler",
+      "title": "Hacettepe Ticaret Şirketleri Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/hacettepe/ticaret-sirketler"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "kiymetli-evrak",
+      "slug": "hacettepe__kiymetli-evrak",
+      "title": "Hacettepe Kıymetli Evrak Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/hacettepe/kiymetli-evrak"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "icra-iflas",
+      "slug": "hacettepe__icra-iflas",
+      "title": "Hacettepe İcra ve İflas Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/hacettepe/icra-iflas"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "devletler-ozel",
+      "slug": "hacettepe__devletler-ozel",
+      "title": "Hacettepe Devletler Özel Hukuku / MÖHUK Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/hacettepe/devletler-ozel"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "insan-haklari",
+      "slug": "hacettepe__insan-haklari",
+      "title": "Hacettepe İnsan Hakları Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/hacettepe/insan-haklari"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "fikri-mulkiyet",
+      "slug": "hacettepe__fikri-mulkiyet",
+      "title": "Hacettepe Fikri Mülkiyet Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/hacettepe/fikri-mulkiyet"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "tuketici-hukuku",
+      "slug": "hacettepe__tuketici-hukuku",
+      "title": "Hacettepe Tüketici Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/hacettepe/tuketici-hukuku"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "hukuka-giris",
+      "slug": "ankara-hacibayram__hukuka-giris",
+      "title": "AHBV Hukuka Giriş / Hukukun Temel Kavramları Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara-hacibayram/hukuka-giris"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "anayasa-1",
+      "slug": "ankara-hacibayram__anayasa-1",
+      "title": "AHBV Anayasa Hukuku I (Genel Esaslar) Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara-hacibayram/anayasa-1"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "roma-hukuku",
+      "slug": "ankara-hacibayram__roma-hukuku",
+      "title": "AHBV Roma Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara-hacibayram/roma-hukuku"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "medeni-baslangic",
+      "slug": "ankara-hacibayram__medeni-baslangic",
+      "title": "AHBV Medeni Hukuka Giriş ve Başlangıç Hükümleri Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara-hacibayram/medeni-baslangic"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "anayasa-2",
+      "slug": "ankara-hacibayram__anayasa-2",
+      "title": "AHBV Anayasa Hukuku II (Türk Anayasa Düzeni) Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara-hacibayram/anayasa-2"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "hukuk-felsefesi",
+      "slug": "ankara-hacibayram__hukuk-felsefesi",
+      "title": "AHBV Hukuk Felsefesi ve Sosyolojisi Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara-hacibayram/hukuk-felsefesi"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "borclar-genel",
+      "slug": "ankara-hacibayram__borclar-genel",
+      "title": "AHBV Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara-hacibayram/borclar-genel"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "aile-hukuku",
+      "slug": "ankara-hacibayram__aile-hukuku",
+      "title": "AHBV Aile Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara-hacibayram/aile-hukuku"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "ceza-genel",
+      "slug": "ankara-hacibayram__ceza-genel",
+      "title": "AHBV Ceza Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara-hacibayram/ceza-genel"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "idare-hukuku",
+      "slug": "ankara-hacibayram__idare-hukuku",
+      "title": "AHBV İdare Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara-hacibayram/idare-hukuku"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "milletlerarasi-hukuk",
+      "slug": "ankara-hacibayram__milletlerarasi-hukuk",
+      "title": "AHBV Milletlerarası Hukuk Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara-hacibayram/milletlerarasi-hukuk"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "ticari-isletme",
+      "slug": "ankara-hacibayram__ticari-isletme",
+      "title": "AHBV Ticari İşletme Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara-hacibayram/ticari-isletme"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "borclar-ozel",
+      "slug": "ankara-hacibayram__borclar-ozel",
+      "title": "AHBV Borçlar Hukuku Özel Hükümler Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara-hacibayram/borclar-ozel"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "esya-hukuku",
+      "slug": "ankara-hacibayram__esya-hukuku",
+      "title": "AHBV Eşya Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara-hacibayram/esya-hukuku"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "ceza-ozel",
+      "slug": "ankara-hacibayram__ceza-ozel",
+      "title": "AHBV Ceza Hukuku Özel Hükümler Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara-hacibayram/ceza-ozel"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "medeni-usul",
+      "slug": "ankara-hacibayram__medeni-usul",
+      "title": "AHBV Medeni Usul Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara-hacibayram/medeni-usul"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "ceza-muhakemesi",
+      "slug": "ankara-hacibayram__ceza-muhakemesi",
+      "title": "AHBV Ceza Muhakemesi Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara-hacibayram/ceza-muhakemesi"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "is-hukuku",
+      "slug": "ankara-hacibayram__is-hukuku",
+      "title": "AHBV İş ve Sosyal Güvenlik Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara-hacibayram/is-hukuku"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "vergi-hukuku",
+      "slug": "ankara-hacibayram__vergi-hukuku",
+      "title": "AHBV Vergi Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara-hacibayram/vergi-hukuku"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "idari-yargilama",
+      "slug": "ankara-hacibayram__idari-yargilama",
+      "title": "AHBV İdari Yargılama Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara-hacibayram/idari-yargilama"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "miras-hukuku",
+      "slug": "ankara-hacibayram__miras-hukuku",
+      "title": "AHBV Miras Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara-hacibayram/miras-hukuku"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "ticaret-sirketler",
+      "slug": "ankara-hacibayram__ticaret-sirketler",
+      "title": "AHBV Ticaret Şirketleri Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara-hacibayram/ticaret-sirketler"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "kiymetli-evrak",
+      "slug": "ankara-hacibayram__kiymetli-evrak",
+      "title": "AHBV Kıymetli Evrak Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara-hacibayram/kiymetli-evrak"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "icra-iflas",
+      "slug": "ankara-hacibayram__icra-iflas",
+      "title": "AHBV İcra ve İflas Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara-hacibayram/icra-iflas"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "devletler-ozel",
+      "slug": "ankara-hacibayram__devletler-ozel",
+      "title": "AHBV Devletler Özel Hukuku / MÖHUK Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara-hacibayram/devletler-ozel"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "insan-haklari",
+      "slug": "ankara-hacibayram__insan-haklari",
+      "title": "AHBV İnsan Hakları Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara-hacibayram/insan-haklari"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "fikri-mulkiyet",
+      "slug": "ankara-hacibayram__fikri-mulkiyet",
+      "title": "AHBV Fikri Mülkiyet Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara-hacibayram/fikri-mulkiyet"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "tuketici-hukuku",
+      "slug": "ankara-hacibayram__tuketici-hukuku",
+      "title": "AHBV Tüketici Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ankara-hacibayram/tuketici-hukuku"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "hukuka-giris",
+      "slug": "bilkent__hukuka-giris",
+      "title": "Bilkent Hukuka Giriş / Hukukun Temel Kavramları Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/bilkent/hukuka-giris"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "anayasa-1",
+      "slug": "bilkent__anayasa-1",
+      "title": "Bilkent Anayasa Hukuku I (Genel Esaslar) Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/bilkent/anayasa-1"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "roma-hukuku",
+      "slug": "bilkent__roma-hukuku",
+      "title": "Bilkent Roma Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/bilkent/roma-hukuku"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "medeni-baslangic",
+      "slug": "bilkent__medeni-baslangic",
+      "title": "Bilkent Medeni Hukuka Giriş ve Başlangıç Hükümleri Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/bilkent/medeni-baslangic"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "anayasa-2",
+      "slug": "bilkent__anayasa-2",
+      "title": "Bilkent Anayasa Hukuku II (Türk Anayasa Düzeni) Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/bilkent/anayasa-2"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "hukuk-felsefesi",
+      "slug": "bilkent__hukuk-felsefesi",
+      "title": "Bilkent Hukuk Felsefesi ve Sosyolojisi Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/bilkent/hukuk-felsefesi"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "borclar-genel",
+      "slug": "bilkent__borclar-genel",
+      "title": "Bilkent Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/bilkent/borclar-genel"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "aile-hukuku",
+      "slug": "bilkent__aile-hukuku",
+      "title": "Bilkent Aile Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/bilkent/aile-hukuku"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "ceza-genel",
+      "slug": "bilkent__ceza-genel",
+      "title": "Bilkent Ceza Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/bilkent/ceza-genel"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "idare-hukuku",
+      "slug": "bilkent__idare-hukuku",
+      "title": "Bilkent İdare Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/bilkent/idare-hukuku"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "milletlerarasi-hukuk",
+      "slug": "bilkent__milletlerarasi-hukuk",
+      "title": "Bilkent Milletlerarası Hukuk Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/bilkent/milletlerarasi-hukuk"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "ticari-isletme",
+      "slug": "bilkent__ticari-isletme",
+      "title": "Bilkent Ticari İşletme Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/bilkent/ticari-isletme"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "borclar-ozel",
+      "slug": "bilkent__borclar-ozel",
+      "title": "Bilkent Borçlar Hukuku Özel Hükümler Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/bilkent/borclar-ozel"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "esya-hukuku",
+      "slug": "bilkent__esya-hukuku",
+      "title": "Bilkent Eşya Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/bilkent/esya-hukuku"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "ceza-ozel",
+      "slug": "bilkent__ceza-ozel",
+      "title": "Bilkent Ceza Hukuku Özel Hükümler Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/bilkent/ceza-ozel"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "medeni-usul",
+      "slug": "bilkent__medeni-usul",
+      "title": "Bilkent Medeni Usul Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/bilkent/medeni-usul"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "ceza-muhakemesi",
+      "slug": "bilkent__ceza-muhakemesi",
+      "title": "Bilkent Ceza Muhakemesi Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/bilkent/ceza-muhakemesi"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "is-hukuku",
+      "slug": "bilkent__is-hukuku",
+      "title": "Bilkent İş ve Sosyal Güvenlik Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/bilkent/is-hukuku"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "vergi-hukuku",
+      "slug": "bilkent__vergi-hukuku",
+      "title": "Bilkent Vergi Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/bilkent/vergi-hukuku"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "idari-yargilama",
+      "slug": "bilkent__idari-yargilama",
+      "title": "Bilkent İdari Yargılama Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/bilkent/idari-yargilama"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "miras-hukuku",
+      "slug": "bilkent__miras-hukuku",
+      "title": "Bilkent Miras Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/bilkent/miras-hukuku"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "ticaret-sirketler",
+      "slug": "bilkent__ticaret-sirketler",
+      "title": "Bilkent Ticaret Şirketleri Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/bilkent/ticaret-sirketler"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "kiymetli-evrak",
+      "slug": "bilkent__kiymetli-evrak",
+      "title": "Bilkent Kıymetli Evrak Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/bilkent/kiymetli-evrak"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "icra-iflas",
+      "slug": "bilkent__icra-iflas",
+      "title": "Bilkent İcra ve İflas Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/bilkent/icra-iflas"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "devletler-ozel",
+      "slug": "bilkent__devletler-ozel",
+      "title": "Bilkent Devletler Özel Hukuku / MÖHUK Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/bilkent/devletler-ozel"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "insan-haklari",
+      "slug": "bilkent__insan-haklari",
+      "title": "Bilkent İnsan Hakları Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/bilkent/insan-haklari"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "fikri-mulkiyet",
+      "slug": "bilkent__fikri-mulkiyet",
+      "title": "Bilkent Fikri Mülkiyet Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/bilkent/fikri-mulkiyet"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "tuketici-hukuku",
+      "slug": "bilkent__tuketici-hukuku",
+      "title": "Bilkent Tüketici Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/bilkent/tuketici-hukuku"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "hukuka-giris",
+      "slug": "koc__hukuka-giris",
+      "title": "Koç Hukuka Giriş / Hukukun Temel Kavramları Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/koc/hukuka-giris"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "anayasa-1",
+      "slug": "koc__anayasa-1",
+      "title": "Koç Anayasa Hukuku I (Genel Esaslar) Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/koc/anayasa-1"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "roma-hukuku",
+      "slug": "koc__roma-hukuku",
+      "title": "Koç Roma Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/koc/roma-hukuku"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "medeni-baslangic",
+      "slug": "koc__medeni-baslangic",
+      "title": "Koç Medeni Hukuka Giriş ve Başlangıç Hükümleri Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/koc/medeni-baslangic"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "anayasa-2",
+      "slug": "koc__anayasa-2",
+      "title": "Koç Anayasa Hukuku II (Türk Anayasa Düzeni) Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/koc/anayasa-2"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "hukuk-felsefesi",
+      "slug": "koc__hukuk-felsefesi",
+      "title": "Koç Hukuk Felsefesi ve Sosyolojisi Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/koc/hukuk-felsefesi"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "borclar-genel",
+      "slug": "koc__borclar-genel",
+      "title": "Koç Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/koc/borclar-genel"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "aile-hukuku",
+      "slug": "koc__aile-hukuku",
+      "title": "Koç Aile Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/koc/aile-hukuku"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "ceza-genel",
+      "slug": "koc__ceza-genel",
+      "title": "Koç Ceza Hukuku Genel Hükümler Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/koc/ceza-genel"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "idare-hukuku",
+      "slug": "koc__idare-hukuku",
+      "title": "Koç İdare Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/koc/idare-hukuku"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "milletlerarasi-hukuk",
+      "slug": "koc__milletlerarasi-hukuk",
+      "title": "Koç Milletlerarası Hukuk Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/koc/milletlerarasi-hukuk"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "ticari-isletme",
+      "slug": "koc__ticari-isletme",
+      "title": "Koç Ticari İşletme Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/koc/ticari-isletme"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "borclar-ozel",
+      "slug": "koc__borclar-ozel",
+      "title": "Koç Borçlar Hukuku Özel Hükümler Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/koc/borclar-ozel"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "esya-hukuku",
+      "slug": "koc__esya-hukuku",
+      "title": "Koç Eşya Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/koc/esya-hukuku"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "ceza-ozel",
+      "slug": "koc__ceza-ozel",
+      "title": "Koç Ceza Hukuku Özel Hükümler Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/koc/ceza-ozel"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "medeni-usul",
+      "slug": "koc__medeni-usul",
+      "title": "Koç Medeni Usul Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/koc/medeni-usul"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "ceza-muhakemesi",
+      "slug": "koc__ceza-muhakemesi",
+      "title": "Koç Ceza Muhakemesi Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/koc/ceza-muhakemesi"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "is-hukuku",
+      "slug": "koc__is-hukuku",
+      "title": "Koç İş ve Sosyal Güvenlik Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/koc/is-hukuku"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "vergi-hukuku",
+      "slug": "koc__vergi-hukuku",
+      "title": "Koç Vergi Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/koc/vergi-hukuku"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "idari-yargilama",
+      "slug": "koc__idari-yargilama",
+      "title": "Koç İdari Yargılama Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/koc/idari-yargilama"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "miras-hukuku",
+      "slug": "koc__miras-hukuku",
+      "title": "Koç Miras Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/koc/miras-hukuku"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "ticaret-sirketler",
+      "slug": "koc__ticaret-sirketler",
+      "title": "Koç Ticaret Şirketleri Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/koc/ticaret-sirketler"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "kiymetli-evrak",
+      "slug": "koc__kiymetli-evrak",
+      "title": "Koç Kıymetli Evrak Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/koc/kiymetli-evrak"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "icra-iflas",
+      "slug": "koc__icra-iflas",
+      "title": "Koç İcra ve İflas Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/koc/icra-iflas"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "devletler-ozel",
+      "slug": "koc__devletler-ozel",
+      "title": "Koç Devletler Özel Hukuku / MÖHUK Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/koc/devletler-ozel"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "insan-haklari",
+      "slug": "koc__insan-haklari",
+      "title": "Koç İnsan Hakları Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/koc/insan-haklari"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "fikri-mulkiyet",
+      "slug": "koc__fikri-mulkiyet",
+      "title": "Koç Fikri Mülkiyet Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/koc/fikri-mulkiyet"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "tuketici-hukuku",
+      "slug": "koc__tuketici-hukuku",
+      "title": "Koç Tüketici Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/koc/tuketici-hukuku"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "hukuka-giris",
+      "slug": "tobb-etu__hukuka-giris",
+      "title": "TOBB ETÜ Hukuka Giriş / Hukukun Temel Kavramları Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/tobb-etu/hukuka-giris"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "anayasa-1",
+      "slug": "tobb-etu__anayasa-1",
+      "title": "TOBB ETÜ Anayasa Hukuku I (Genel Esaslar) Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/tobb-etu/anayasa-1"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "roma-hukuku",
+      "slug": "tobb-etu__roma-hukuku",
+      "title": "TOBB ETÜ Roma Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/tobb-etu/roma-hukuku"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "medeni-baslangic",
+      "slug": "tobb-etu__medeni-baslangic",
+      "title": "TOBB ETÜ Medeni Hukuka Giriş ve Başlangıç Hükümleri Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/tobb-etu/medeni-baslangic"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "anayasa-2",
+      "slug": "tobb-etu__anayasa-2",
+      "title": "TOBB ETÜ Anayasa Hukuku II (Türk Anayasa Düzeni) Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/tobb-etu/anayasa-2"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "hukuk-felsefesi",
+      "slug": "tobb-etu__hukuk-felsefesi",
+      "title": "TOBB ETÜ Hukuk Felsefesi ve Sosyolojisi Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/tobb-etu/hukuk-felsefesi"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "borclar-genel",
+      "slug": "tobb-etu__borclar-genel",
+      "title": "TOBB ETÜ Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/tobb-etu/borclar-genel"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "aile-hukuku",
+      "slug": "tobb-etu__aile-hukuku",
+      "title": "TOBB ETÜ Aile Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/tobb-etu/aile-hukuku"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "ceza-genel",
+      "slug": "tobb-etu__ceza-genel",
+      "title": "TOBB ETÜ Ceza Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/tobb-etu/ceza-genel"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "idare-hukuku",
+      "slug": "tobb-etu__idare-hukuku",
+      "title": "TOBB ETÜ İdare Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/tobb-etu/idare-hukuku"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "milletlerarasi-hukuk",
+      "slug": "tobb-etu__milletlerarasi-hukuk",
+      "title": "TOBB ETÜ Milletlerarası Hukuk Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/tobb-etu/milletlerarasi-hukuk"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "ticari-isletme",
+      "slug": "tobb-etu__ticari-isletme",
+      "title": "TOBB ETÜ Ticari İşletme Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/tobb-etu/ticari-isletme"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "borclar-ozel",
+      "slug": "tobb-etu__borclar-ozel",
+      "title": "TOBB ETÜ Borçlar Hukuku Özel Hükümler Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/tobb-etu/borclar-ozel"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "esya-hukuku",
+      "slug": "tobb-etu__esya-hukuku",
+      "title": "TOBB ETÜ Eşya Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/tobb-etu/esya-hukuku"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "ceza-ozel",
+      "slug": "tobb-etu__ceza-ozel",
+      "title": "TOBB ETÜ Ceza Hukuku Özel Hükümler Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/tobb-etu/ceza-ozel"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "medeni-usul",
+      "slug": "tobb-etu__medeni-usul",
+      "title": "TOBB ETÜ Medeni Usul Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/tobb-etu/medeni-usul"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "ceza-muhakemesi",
+      "slug": "tobb-etu__ceza-muhakemesi",
+      "title": "TOBB ETÜ Ceza Muhakemesi Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/tobb-etu/ceza-muhakemesi"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "is-hukuku",
+      "slug": "tobb-etu__is-hukuku",
+      "title": "TOBB ETÜ İş ve Sosyal Güvenlik Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/tobb-etu/is-hukuku"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "vergi-hukuku",
+      "slug": "tobb-etu__vergi-hukuku",
+      "title": "TOBB ETÜ Vergi Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/tobb-etu/vergi-hukuku"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "idari-yargilama",
+      "slug": "tobb-etu__idari-yargilama",
+      "title": "TOBB ETÜ İdari Yargılama Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/tobb-etu/idari-yargilama"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "miras-hukuku",
+      "slug": "tobb-etu__miras-hukuku",
+      "title": "TOBB ETÜ Miras Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/tobb-etu/miras-hukuku"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "ticaret-sirketler",
+      "slug": "tobb-etu__ticaret-sirketler",
+      "title": "TOBB ETÜ Ticaret Şirketleri Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/tobb-etu/ticaret-sirketler"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "kiymetli-evrak",
+      "slug": "tobb-etu__kiymetli-evrak",
+      "title": "TOBB ETÜ Kıymetli Evrak Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/tobb-etu/kiymetli-evrak"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "icra-iflas",
+      "slug": "tobb-etu__icra-iflas",
+      "title": "TOBB ETÜ İcra ve İflas Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/tobb-etu/icra-iflas"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "devletler-ozel",
+      "slug": "tobb-etu__devletler-ozel",
+      "title": "TOBB ETÜ Devletler Özel Hukuku / MÖHUK Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/tobb-etu/devletler-ozel"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "insan-haklari",
+      "slug": "tobb-etu__insan-haklari",
+      "title": "TOBB ETÜ İnsan Hakları Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/tobb-etu/insan-haklari"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "fikri-mulkiyet",
+      "slug": "tobb-etu__fikri-mulkiyet",
+      "title": "TOBB ETÜ Fikri Mülkiyet Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/tobb-etu/fikri-mulkiyet"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "tuketici-hukuku",
+      "slug": "tobb-etu__tuketici-hukuku",
+      "title": "TOBB ETÜ Tüketici Hukuku Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/tobb-etu/tuketici-hukuku"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "hukuka-giris",
+      "slug": "bogazici__hukuka-giris",
+      "title": "BÜ Hukuka Giriş / Hukukun Temel Kavramları Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/bogazici/hukuka-giris"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "anayasa-1",
+      "slug": "bogazici__anayasa-1",
+      "title": "BÜ Anayasa Hukuku I (Genel Esaslar) Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/bogazici/anayasa-1"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "roma-hukuku",
+      "slug": "bogazici__roma-hukuku",
+      "title": "BÜ Roma Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/bogazici/roma-hukuku"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "medeni-baslangic",
+      "slug": "bogazici__medeni-baslangic",
+      "title": "BÜ Medeni Hukuka Giriş ve Başlangıç Hükümleri Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/bogazici/medeni-baslangic"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "anayasa-2",
+      "slug": "bogazici__anayasa-2",
+      "title": "BÜ Anayasa Hukuku II (Türk Anayasa Düzeni) Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/bogazici/anayasa-2"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "hukuk-felsefesi",
+      "slug": "bogazici__hukuk-felsefesi",
+      "title": "BÜ Hukuk Felsefesi ve Sosyolojisi Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/bogazici/hukuk-felsefesi"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "borclar-genel",
+      "slug": "bogazici__borclar-genel",
+      "title": "BÜ Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/bogazici/borclar-genel"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "aile-hukuku",
+      "slug": "bogazici__aile-hukuku",
+      "title": "BÜ Aile Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/bogazici/aile-hukuku"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "ceza-genel",
+      "slug": "bogazici__ceza-genel",
+      "title": "BÜ Ceza Hukuku Genel Hükümler Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/bogazici/ceza-genel"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "idare-hukuku",
+      "slug": "bogazici__idare-hukuku",
+      "title": "BÜ İdare Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/bogazici/idare-hukuku"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "milletlerarasi-hukuk",
+      "slug": "bogazici__milletlerarasi-hukuk",
+      "title": "BÜ Milletlerarası Hukuk Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/bogazici/milletlerarasi-hukuk"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "ticari-isletme",
+      "slug": "bogazici__ticari-isletme",
+      "title": "BÜ Ticari İşletme Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/bogazici/ticari-isletme"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "borclar-ozel",
+      "slug": "bogazici__borclar-ozel",
+      "title": "BÜ Borçlar Hukuku Özel Hükümler Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/bogazici/borclar-ozel"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "esya-hukuku",
+      "slug": "bogazici__esya-hukuku",
+      "title": "BÜ Eşya Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/bogazici/esya-hukuku"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "ceza-ozel",
+      "slug": "bogazici__ceza-ozel",
+      "title": "BÜ Ceza Hukuku Özel Hükümler Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/bogazici/ceza-ozel"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "medeni-usul",
+      "slug": "bogazici__medeni-usul",
+      "title": "BÜ Medeni Usul Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/bogazici/medeni-usul"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "ceza-muhakemesi",
+      "slug": "bogazici__ceza-muhakemesi",
+      "title": "BÜ Ceza Muhakemesi Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/bogazici/ceza-muhakemesi"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "is-hukuku",
+      "slug": "bogazici__is-hukuku",
+      "title": "BÜ İş ve Sosyal Güvenlik Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/bogazici/is-hukuku"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "vergi-hukuku",
+      "slug": "bogazici__vergi-hukuku",
+      "title": "BÜ Vergi Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/bogazici/vergi-hukuku"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "idari-yargilama",
+      "slug": "bogazici__idari-yargilama",
+      "title": "BÜ İdari Yargılama Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/bogazici/idari-yargilama"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "miras-hukuku",
+      "slug": "bogazici__miras-hukuku",
+      "title": "BÜ Miras Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/bogazici/miras-hukuku"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "ticaret-sirketler",
+      "slug": "bogazici__ticaret-sirketler",
+      "title": "BÜ Ticaret Şirketleri Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/bogazici/ticaret-sirketler"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "kiymetli-evrak",
+      "slug": "bogazici__kiymetli-evrak",
+      "title": "BÜ Kıymetli Evrak Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/bogazici/kiymetli-evrak"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "icra-iflas",
+      "slug": "bogazici__icra-iflas",
+      "title": "BÜ İcra ve İflas Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/bogazici/icra-iflas"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "devletler-ozel",
+      "slug": "bogazici__devletler-ozel",
+      "title": "BÜ Devletler Özel Hukuku / MÖHUK Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/bogazici/devletler-ozel"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "insan-haklari",
+      "slug": "bogazici__insan-haklari",
+      "title": "BÜ İnsan Hakları Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/bogazici/insan-haklari"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "fikri-mulkiyet",
+      "slug": "bogazici__fikri-mulkiyet",
+      "title": "BÜ Fikri Mülkiyet Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/bogazici/fikri-mulkiyet"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "tuketici-hukuku",
+      "slug": "bogazici__tuketici-hukuku",
+      "title": "BÜ Tüketici Hukuku Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/bogazici/tuketici-hukuku"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "hukuka-giris",
+      "slug": "van-yyu__hukuka-giris",
+      "title": "YYÜ Hukuka Giriş / Hukukun Temel Kavramları Ders Notları (Ücretsiz) | Van Hukuk",
+      "href": "/ders-notlari/van-yyu/hukuka-giris"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "anayasa-1",
+      "slug": "van-yyu__anayasa-1",
+      "title": "YYÜ Anayasa Hukuku I (Genel Esaslar) Ders Notları (Ücretsiz) | Van Hukuk",
+      "href": "/ders-notlari/van-yyu/anayasa-1"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "roma-hukuku",
+      "slug": "van-yyu__roma-hukuku",
+      "title": "YYÜ Roma Hukuku Ders Notları (Ücretsiz) | Van Hukuk",
+      "href": "/ders-notlari/van-yyu/roma-hukuku"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "medeni-baslangic",
+      "slug": "van-yyu__medeni-baslangic",
+      "title": "YYÜ Medeni Hukuka Giriş ve Başlangıç Hükümleri Ders Notları (Ücretsiz) | Van Hukuk",
+      "href": "/ders-notlari/van-yyu/medeni-baslangic"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "anayasa-2",
+      "slug": "van-yyu__anayasa-2",
+      "title": "YYÜ Anayasa Hukuku II (Türk Anayasa Düzeni) Ders Notları (Ücretsiz) | Van Hukuk",
+      "href": "/ders-notlari/van-yyu/anayasa-2"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "hukuk-felsefesi",
+      "slug": "van-yyu__hukuk-felsefesi",
+      "title": "YYÜ Hukuk Felsefesi ve Sosyolojisi Ders Notları (Ücretsiz) | Van Hukuk",
+      "href": "/ders-notlari/van-yyu/hukuk-felsefesi"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "borclar-genel",
+      "slug": "van-yyu__borclar-genel",
+      "title": "YYÜ Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Van Hukuk",
+      "href": "/ders-notlari/van-yyu/borclar-genel"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "aile-hukuku",
+      "slug": "van-yyu__aile-hukuku",
+      "title": "YYÜ Aile Hukuku Ders Notları (Ücretsiz) | Van Hukuk",
+      "href": "/ders-notlari/van-yyu/aile-hukuku"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "ceza-genel",
+      "slug": "van-yyu__ceza-genel",
+      "title": "YYÜ Ceza Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Van Hukuk",
+      "href": "/ders-notlari/van-yyu/ceza-genel"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "idare-hukuku",
+      "slug": "van-yyu__idare-hukuku",
+      "title": "YYÜ İdare Hukuku Ders Notları (Ücretsiz) | Van Hukuk",
+      "href": "/ders-notlari/van-yyu/idare-hukuku"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "milletlerarasi-hukuk",
+      "slug": "van-yyu__milletlerarasi-hukuk",
+      "title": "YYÜ Milletlerarası Hukuk Ders Notları (Ücretsiz) | Van Hukuk",
+      "href": "/ders-notlari/van-yyu/milletlerarasi-hukuk"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "ticari-isletme",
+      "slug": "van-yyu__ticari-isletme",
+      "title": "YYÜ Ticari İşletme Hukuku Ders Notları (Ücretsiz) | Van Hukuk",
+      "href": "/ders-notlari/van-yyu/ticari-isletme"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "borclar-ozel",
+      "slug": "van-yyu__borclar-ozel",
+      "title": "YYÜ Borçlar Hukuku Özel Hükümler Ders Notları (Ücretsiz) | Van Hukuk",
+      "href": "/ders-notlari/van-yyu/borclar-ozel"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "esya-hukuku",
+      "slug": "van-yyu__esya-hukuku",
+      "title": "YYÜ Eşya Hukuku Ders Notları (Ücretsiz) | Van Hukuk",
+      "href": "/ders-notlari/van-yyu/esya-hukuku"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "ceza-ozel",
+      "slug": "van-yyu__ceza-ozel",
+      "title": "YYÜ Ceza Hukuku Özel Hükümler Ders Notları (Ücretsiz) | Van Hukuk",
+      "href": "/ders-notlari/van-yyu/ceza-ozel"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "medeni-usul",
+      "slug": "van-yyu__medeni-usul",
+      "title": "YYÜ Medeni Usul Hukuku Ders Notları (Ücretsiz) | Van Hukuk",
+      "href": "/ders-notlari/van-yyu/medeni-usul"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "ceza-muhakemesi",
+      "slug": "van-yyu__ceza-muhakemesi",
+      "title": "YYÜ Ceza Muhakemesi Hukuku Ders Notları (Ücretsiz) | Van Hukuk",
+      "href": "/ders-notlari/van-yyu/ceza-muhakemesi"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "is-hukuku",
+      "slug": "van-yyu__is-hukuku",
+      "title": "YYÜ İş ve Sosyal Güvenlik Hukuku Ders Notları (Ücretsiz) | Van Hukuk",
+      "href": "/ders-notlari/van-yyu/is-hukuku"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "vergi-hukuku",
+      "slug": "van-yyu__vergi-hukuku",
+      "title": "YYÜ Vergi Hukuku Ders Notları (Ücretsiz) | Van Hukuk",
+      "href": "/ders-notlari/van-yyu/vergi-hukuku"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "idari-yargilama",
+      "slug": "van-yyu__idari-yargilama",
+      "title": "YYÜ İdari Yargılama Hukuku Ders Notları (Ücretsiz) | Van Hukuk",
+      "href": "/ders-notlari/van-yyu/idari-yargilama"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "miras-hukuku",
+      "slug": "van-yyu__miras-hukuku",
+      "title": "YYÜ Miras Hukuku Ders Notları (Ücretsiz) | Van Hukuk",
+      "href": "/ders-notlari/van-yyu/miras-hukuku"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "ticaret-sirketler",
+      "slug": "van-yyu__ticaret-sirketler",
+      "title": "YYÜ Ticaret Şirketleri Hukuku Ders Notları (Ücretsiz) | Van Hukuk",
+      "href": "/ders-notlari/van-yyu/ticaret-sirketler"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "kiymetli-evrak",
+      "slug": "van-yyu__kiymetli-evrak",
+      "title": "YYÜ Kıymetli Evrak Hukuku Ders Notları (Ücretsiz) | Van Hukuk",
+      "href": "/ders-notlari/van-yyu/kiymetli-evrak"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "icra-iflas",
+      "slug": "van-yyu__icra-iflas",
+      "title": "YYÜ İcra ve İflas Hukuku Ders Notları (Ücretsiz) | Van Hukuk",
+      "href": "/ders-notlari/van-yyu/icra-iflas"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "devletler-ozel",
+      "slug": "van-yyu__devletler-ozel",
+      "title": "YYÜ Devletler Özel Hukuku / MÖHUK Ders Notları (Ücretsiz) | Van Hukuk",
+      "href": "/ders-notlari/van-yyu/devletler-ozel"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "insan-haklari",
+      "slug": "van-yyu__insan-haklari",
+      "title": "YYÜ İnsan Hakları Hukuku Ders Notları (Ücretsiz) | Van Hukuk",
+      "href": "/ders-notlari/van-yyu/insan-haklari"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "fikri-mulkiyet",
+      "slug": "van-yyu__fikri-mulkiyet",
+      "title": "YYÜ Fikri Mülkiyet Hukuku Ders Notları (Ücretsiz) | Van Hukuk",
+      "href": "/ders-notlari/van-yyu/fikri-mulkiyet"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "tuketici-hukuku",
+      "slug": "van-yyu__tuketici-hukuku",
+      "title": "YYÜ Tüketici Hukuku Ders Notları (Ücretsiz) | Van Hukuk",
+      "href": "/ders-notlari/van-yyu/tuketici-hukuku"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "borclar-genel",
+      "slug": "ege__borclar-genel",
+      "title": "Ege Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | İzmir Hukuk",
+      "href": "/ders-notlari/ege/borclar-genel"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "borclar-genel",
+      "slug": "akdeniz__borclar-genel",
+      "title": "Akdeniz Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Antalya Hukuk",
+      "href": "/ders-notlari/akdeniz/borclar-genel"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "borclar-genel",
+      "slug": "selcuk__borclar-genel",
+      "title": "Selçuk Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Konya Hukuk",
+      "href": "/ders-notlari/selcuk/borclar-genel"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "borclar-genel",
+      "slug": "erciyes__borclar-genel",
+      "title": "Erciyes Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Kayseri Hukuk",
+      "href": "/ders-notlari/erciyes/borclar-genel"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "borclar-genel",
+      "slug": "uludag__borclar-genel",
+      "title": "Uludağ Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Bursa Hukuk",
+      "href": "/ders-notlari/uludag/borclar-genel"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "borclar-genel",
+      "slug": "cukurova__borclar-genel",
+      "title": "Çukurova Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Adana Hukuk",
+      "href": "/ders-notlari/cukurova/borclar-genel"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "borclar-genel",
+      "slug": "anadolu__borclar-genel",
+      "title": "Anadolu Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Eskişehir Hukuk",
+      "href": "/ders-notlari/anadolu/borclar-genel"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "borclar-genel",
+      "slug": "gazi-ankara__borclar-genel",
+      "title": "ASBÜ Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/gazi-ankara/borclar-genel"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "borclar-genel",
+      "slug": "yildiz-teknik__borclar-genel",
+      "title": "YTÜ Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/yildiz-teknik/borclar-genel"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "borclar-genel",
+      "slug": "istanbul-medeniyet__borclar-genel",
+      "title": "Medeniyet Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/istanbul-medeniyet/borclar-genel"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "borclar-genel",
+      "slug": "bahcesehir__borclar-genel",
+      "title": "BAU Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/bahcesehir/borclar-genel"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "borclar-genel",
+      "slug": "yeditepe__borclar-genel",
+      "title": "Yeditepe Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/yeditepe/borclar-genel"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "borclar-genel",
+      "slug": "ozyegin__borclar-genel",
+      "title": "Özyeğin Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/ozyegin/borclar-genel"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "borclar-genel",
+      "slug": "kadir-has__borclar-genel",
+      "title": "KHAS Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/kadir-has/borclar-genel"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "borclar-genel",
+      "slug": "istanbul-bilgi__borclar-genel",
+      "title": "Bilgi Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/istanbul-bilgi/borclar-genel"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "borclar-genel",
+      "slug": "mehmet-akif__borclar-genel",
+      "title": "Medipol Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/mehmet-akif/borclar-genel"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "borclar-genel",
+      "slug": "altinbas__borclar-genel",
+      "title": "Altınbaş Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/altinbas/borclar-genel"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "borclar-genel",
+      "slug": "maltepe__borclar-genel",
+      "title": "Maltepe Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/maltepe/borclar-genel"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "borclar-genel",
+      "slug": "dogus__borclar-genel",
+      "title": "Doğuş Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/dogus/borclar-genel"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "borclar-genel",
+      "slug": "isik__borclar-genel",
+      "title": "Işık Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/isik/borclar-genel"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "borclar-genel",
+      "slug": "okan__borclar-genel",
+      "title": "Okan Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/okan/borclar-genel"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "borclar-genel",
+      "slug": "kultur__borclar-genel",
+      "title": "İKÜ Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/kultur/borclar-genel"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "borclar-genel",
+      "slug": "aydin__borclar-genel",
+      "title": "İAÜ Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/aydin/borclar-genel"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "borclar-genel",
+      "slug": "gelisim__borclar-genel",
+      "title": "Gelişim Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/gelisim/borclar-genel"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "borclar-genel",
+      "slug": "topkapi__borclar-genel",
+      "title": "Topkapı Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/topkapi/borclar-genel"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "borclar-genel",
+      "slug": "nisantasi__borclar-genel",
+      "title": "Nişantaşı Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/nisantasi/borclar-genel"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "borclar-genel",
+      "slug": "beykent__borclar-genel",
+      "title": "Beykent Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/beykent/borclar-genel"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "borclar-genel",
+      "slug": "halic__borclar-genel",
+      "title": "Haliç Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/halic/borclar-genel"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "borclar-genel",
+      "slug": "fatih-sultan__borclar-genel",
+      "title": "FSMVÜ Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | İstanbul Hukuk",
+      "href": "/ders-notlari/fatih-sultan/borclar-genel"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "borclar-genel",
+      "slug": "karadeniz-teknik__borclar-genel",
+      "title": "KTÜ Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Trabzon Hukuk",
+      "href": "/ders-notlari/karadeniz-teknik/borclar-genel"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "borclar-genel",
+      "slug": "ataturk__borclar-genel",
+      "title": "Atatürk Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Erzurum Hukuk",
+      "href": "/ders-notlari/ataturk/borclar-genel"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "borclar-genel",
+      "slug": "inonu__borclar-genel",
+      "title": "İnönü Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Malatya Hukuk",
+      "href": "/ders-notlari/inonu/borclar-genel"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "borclar-genel",
+      "slug": "dicle__borclar-genel",
+      "title": "Dicle Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Diyarbakır Hukuk",
+      "href": "/ders-notlari/dicle/borclar-genel"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "borclar-genel",
+      "slug": "firat__borclar-genel",
+      "title": "Fırat Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Elazığ Hukuk",
+      "href": "/ders-notlari/firat/borclar-genel"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "borclar-genel",
+      "slug": "gaziantep__borclar-genel",
+      "title": "GAÜN Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Gaziantep Hukuk",
+      "href": "/ders-notlari/gaziantep/borclar-genel"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "borclar-genel",
+      "slug": "suleyman-demirel__borclar-genel",
+      "title": "SDÜ Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Isparta Hukuk",
+      "href": "/ders-notlari/suleyman-demirel/borclar-genel"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "borclar-genel",
+      "slug": "pamukkale__borclar-genel",
+      "title": "PAÜ Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Denizli Hukuk",
+      "href": "/ders-notlari/pamukkale/borclar-genel"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "borclar-genel",
+      "slug": "mugla__borclar-genel",
+      "title": "MSKU Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Muğla Hukuk",
+      "href": "/ders-notlari/mugla/borclar-genel"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "borclar-genel",
+      "slug": "sakarya__borclar-genel",
+      "title": "SAÜ Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Sakarya Hukuk",
+      "href": "/ders-notlari/sakarya/borclar-genel"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "borclar-genel",
+      "slug": "kocaeli__borclar-genel",
+      "title": "KOÜ Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Kocaeli Hukuk",
+      "href": "/ders-notlari/kocaeli/borclar-genel"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "borclar-genel",
+      "slug": "trakya__borclar-genel",
+      "title": "Trakya Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Edirne Hukuk",
+      "href": "/ders-notlari/trakya/borclar-genel"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "borclar-genel",
+      "slug": "canakkale__borclar-genel",
+      "title": "ÇOMÜ Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Çanakkale Hukuk",
+      "href": "/ders-notlari/canakkale/borclar-genel"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "borclar-genel",
+      "slug": "balikesir__borclar-genel",
+      "title": "BAÜN Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Balıkesir Hukuk",
+      "href": "/ders-notlari/balikesir/borclar-genel"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "borclar-genel",
+      "slug": "afyon__borclar-genel",
+      "title": "AKÜ Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Afyonkarahisar Hukuk",
+      "href": "/ders-notlari/afyon/borclar-genel"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "borclar-genel",
+      "slug": "dumlupinar__borclar-genel",
+      "title": "DPÜ Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Kütahya Hukuk",
+      "href": "/ders-notlari/dumlupinar/borclar-genel"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "borclar-genel",
+      "slug": "eskisehir-osmangazi__borclar-genel",
+      "title": "ESOGÜ Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Eskişehir Hukuk",
+      "href": "/ders-notlari/eskisehir-osmangazi/borclar-genel"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "borclar-genel",
+      "slug": "sivas-cumhuriyet__borclar-genel",
+      "title": "SCÜ Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Sivas Hukuk",
+      "href": "/ders-notlari/sivas-cumhuriyet/borclar-genel"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "borclar-genel",
+      "slug": "tokat__borclar-genel",
+      "title": "TOGÜ Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Tokat Hukuk",
+      "href": "/ders-notlari/tokat/borclar-genel"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "borclar-genel",
+      "slug": "yozgat__borclar-genel",
+      "title": "Bozok Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Yozgat Hukuk",
+      "href": "/ders-notlari/yozgat/borclar-genel"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "borclar-genel",
+      "slug": "kirsehir__borclar-genel",
+      "title": "AHİEVRAN Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Kırşehir Hukuk",
+      "href": "/ders-notlari/kirsehir/borclar-genel"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "borclar-genel",
+      "slug": "nevsehir__borclar-genel",
+      "title": "NEVÜ Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Nevşehir Hukuk",
+      "href": "/ders-notlari/nevsehir/borclar-genel"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "borclar-genel",
+      "slug": "mersin__borclar-genel",
+      "title": "MEÜ Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Mersin Hukuk",
+      "href": "/ders-notlari/mersin/borclar-genel"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "borclar-genel",
+      "slug": "hatay__borclar-genel",
+      "title": "MKÜ Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Hatay Hukuk",
+      "href": "/ders-notlari/hatay/borclar-genel"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "borclar-genel",
+      "slug": "kahramanmaras__borclar-genel",
+      "title": "KSÜ Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Kahramanmaraş Hukuk",
+      "href": "/ders-notlari/kahramanmaras/borclar-genel"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "borclar-genel",
+      "slug": "osmaniye__borclar-genel",
+      "title": "OKÜ Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Osmaniye Hukuk",
+      "href": "/ders-notlari/osmaniye/borclar-genel"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "borclar-genel",
+      "slug": "samsun__borclar-genel",
+      "title": "OMÜ Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Samsun Hukuk",
+      "href": "/ders-notlari/samsun/borclar-genel"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "borclar-genel",
+      "slug": "ordu__borclar-genel",
+      "title": "ODÜ Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Ordu Hukuk",
+      "href": "/ders-notlari/ordu/borclar-genel"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "borclar-genel",
+      "slug": "giresun__borclar-genel",
+      "title": "GÜ Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Giresun Hukuk",
+      "href": "/ders-notlari/giresun/borclar-genel"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "borclar-genel",
+      "slug": "rize__borclar-genel",
+      "title": "RTEÜ Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Rize Hukuk",
+      "href": "/ders-notlari/rize/borclar-genel"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "borclar-genel",
+      "slug": "artvin__borclar-genel",
+      "title": "AÇÜ Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Artvin Hukuk",
+      "href": "/ders-notlari/artvin/borclar-genel"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "borclar-genel",
+      "slug": "agri__borclar-genel",
+      "title": "AİÇÜ Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Ağrı Hukuk",
+      "href": "/ders-notlari/agri/borclar-genel"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "borclar-genel",
+      "slug": "kars__borclar-genel",
+      "title": "Kafkas Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Kars Hukuk",
+      "href": "/ders-notlari/kars/borclar-genel"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "borclar-genel",
+      "slug": "erzincan__borclar-genel",
+      "title": "EBYÜ Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Erzincan Hukuk",
+      "href": "/ders-notlari/erzincan/borclar-genel"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "borclar-genel",
+      "slug": "bayburt__borclar-genel",
+      "title": "Bayburt Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Bayburt Hukuk",
+      "href": "/ders-notlari/bayburt/borclar-genel"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "borclar-genel",
+      "slug": "gumushane__borclar-genel",
+      "title": "Gümüşhane Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Gümüşhane Hukuk",
+      "href": "/ders-notlari/gumushane/borclar-genel"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "borclar-genel",
+      "slug": "bingol__borclar-genel",
+      "title": "Bingöl Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Bingöl Hukuk",
+      "href": "/ders-notlari/bingol/borclar-genel"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "borclar-genel",
+      "slug": "mus__borclar-genel",
+      "title": "Muş Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Muş Hukuk",
+      "href": "/ders-notlari/mus/borclar-genel"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "borclar-genel",
+      "slug": "hakkari__borclar-genel",
+      "title": "Hakkâri Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Hakkâri Hukuk",
+      "href": "/ders-notlari/hakkari/borclar-genel"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "borclar-genel",
+      "slug": "sirnak__borclar-genel",
+      "title": "Şırnak Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Şırnak Hukuk",
+      "href": "/ders-notlari/sirnak/borclar-genel"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "borclar-genel",
+      "slug": "mardin__borclar-genel",
+      "title": "Artuklu Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Mardin Hukuk",
+      "href": "/ders-notlari/mardin/borclar-genel"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "borclar-genel",
+      "slug": "batman__borclar-genel",
+      "title": "Batman Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Batman Hukuk",
+      "href": "/ders-notlari/batman/borclar-genel"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "borclar-genel",
+      "slug": "siirt__borclar-genel",
+      "title": "Siirt Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Siirt Hukuk",
+      "href": "/ders-notlari/siirt/borclar-genel"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "borclar-genel",
+      "slug": "adiyaman__borclar-genel",
+      "title": "Adıyaman Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Adıyaman Hukuk",
+      "href": "/ders-notlari/adiyaman/borclar-genel"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "borclar-genel",
+      "slug": "kilis__borclar-genel",
+      "title": "Kilis Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Kilis Hukuk",
+      "href": "/ders-notlari/kilis/borclar-genel"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "borclar-genel",
+      "slug": "igdir__borclar-genel",
+      "title": "Iğdır Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Iğdır Hukuk",
+      "href": "/ders-notlari/igdir/borclar-genel"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "borclar-genel",
+      "slug": "ardahan__borclar-genel",
+      "title": "Ardahan Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Ardahan Hukuk",
+      "href": "/ders-notlari/ardahan/borclar-genel"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "borclar-genel",
+      "slug": "bilecik__borclar-genel",
+      "title": "BŞEÜ Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Bilecik Hukuk",
+      "href": "/ders-notlari/bilecik/borclar-genel"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "borclar-genel",
+      "slug": "bolu__borclar-genel",
+      "title": "BAİBÜ Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Bolu Hukuk",
+      "href": "/ders-notlari/bolu/borclar-genel"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "borclar-genel",
+      "slug": "duzce__borclar-genel",
+      "title": "Düzce Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Düzce Hukuk",
+      "href": "/ders-notlari/duzce/borclar-genel"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "borclar-genel",
+      "slug": "zonguldak__borclar-genel",
+      "title": "BEÜN Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Zonguldak Hukuk",
+      "href": "/ders-notlari/zonguldak/borclar-genel"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "borclar-genel",
+      "slug": "karabuk__borclar-genel",
+      "title": "KBÜ Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Karabük Hukuk",
+      "href": "/ders-notlari/karabuk/borclar-genel"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "borclar-genel",
+      "slug": "kastamonu__borclar-genel",
+      "title": "KÜ Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Kastamonu Hukuk",
+      "href": "/ders-notlari/kastamonu/borclar-genel"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "borclar-genel",
+      "slug": "sinop__borclar-genel",
+      "title": "Sinop Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Sinop Hukuk",
+      "href": "/ders-notlari/sinop/borclar-genel"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "borclar-genel",
+      "slug": "corum__borclar-genel",
+      "title": "Hitit Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Çorum Hukuk",
+      "href": "/ders-notlari/corum/borclar-genel"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "borclar-genel",
+      "slug": "amasya__borclar-genel",
+      "title": "Amasya Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Amasya Hukuk",
+      "href": "/ders-notlari/amasya/borclar-genel"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "borclar-genel",
+      "slug": "cankiri__borclar-genel",
+      "title": "Karatekin Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Çankırı Hukuk",
+      "href": "/ders-notlari/cankiri/borclar-genel"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "borclar-genel",
+      "slug": "kirikkale__borclar-genel",
+      "title": "Kırıkkale Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Kırıkkale Hukuk",
+      "href": "/ders-notlari/kirikkale/borclar-genel"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "borclar-genel",
+      "slug": "aksaray__borclar-genel",
+      "title": "Aksaray Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Aksaray Hukuk",
+      "href": "/ders-notlari/aksaray/borclar-genel"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "borclar-genel",
+      "slug": "nigde__borclar-genel",
+      "title": "ÖHÜ Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Niğde Hukuk",
+      "href": "/ders-notlari/nigde/borclar-genel"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "borclar-genel",
+      "slug": "konya-teknik__borclar-genel",
+      "title": "NEÜ Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Konya Hukuk",
+      "href": "/ders-notlari/konya-teknik/borclar-genel"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "borclar-genel",
+      "slug": "karaman__borclar-genel",
+      "title": "KMÜ Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Karaman Hukuk",
+      "href": "/ders-notlari/karaman/borclar-genel"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "borclar-genel",
+      "slug": "usak__borclar-genel",
+      "title": "Uşak Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Uşak Hukuk",
+      "href": "/ders-notlari/usak/borclar-genel"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "borclar-genel",
+      "slug": "manisa__borclar-genel",
+      "title": "MCBÜ Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Manisa Hukuk",
+      "href": "/ders-notlari/manisa/borclar-genel"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "borclar-genel",
+      "slug": "aydin-adu__borclar-genel",
+      "title": "ADÜ Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Aydın Hukuk",
+      "href": "/ders-notlari/aydin-adu/borclar-genel"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "borclar-genel",
+      "slug": "tekirdag__borclar-genel",
+      "title": "NKÜ Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Tekirdağ Hukuk",
+      "href": "/ders-notlari/tekirdag/borclar-genel"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "borclar-genel",
+      "slug": "kirklareli__borclar-genel",
+      "title": "Kırklareli Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Kırklareli Hukuk",
+      "href": "/ders-notlari/kirklareli/borclar-genel"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "borclar-genel",
+      "slug": "atilim__borclar-genel",
+      "title": "Atılım Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/atilim/borclar-genel"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "borclar-genel",
+      "slug": "cankaya__borclar-genel",
+      "title": "Çankaya Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/cankaya/borclar-genel"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "borclar-genel",
+      "slug": "ufuk__borclar-genel",
+      "title": "Ufuk Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Ankara Hukuk",
+      "href": "/ders-notlari/ufuk/borclar-genel"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "borclar-genel",
+      "slug": "yasar__borclar-genel",
+      "title": "Yaşar Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | İzmir Hukuk",
+      "href": "/ders-notlari/yasar/borclar-genel"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "borclar-genel",
+      "slug": "izmir-ekonomi__borclar-genel",
+      "title": "İEÜ Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | İzmir Hukuk",
+      "href": "/ders-notlari/izmir-ekonomi/borclar-genel"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "borclar-genel",
+      "slug": "tinaztepe__borclar-genel",
+      "title": "Tınaztepe Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | İzmir Hukuk",
+      "href": "/ders-notlari/tinaztepe/borclar-genel"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "borclar-genel",
+      "slug": "asbu-vakif__borclar-genel",
+      "title": "ABÜ Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Antalya Hukuk",
+      "href": "/ders-notlari/asbu-vakif/borclar-genel"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "borclar-genel",
+      "slug": "hasan-kalyoncu__borclar-genel",
+      "title": "HKÜ Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Gaziantep Hukuk",
+      "href": "/ders-notlari/hasan-kalyoncu/borclar-genel"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "borclar-genel",
+      "slug": "sanko__borclar-genel",
+      "title": "Sanko Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Gaziantep Hukuk",
+      "href": "/ders-notlari/sanko/borclar-genel"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "borclar-genel",
+      "slug": "toros__borclar-genel",
+      "title": "Toros Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Mersin Hukuk",
+      "href": "/ders-notlari/toros/borclar-genel"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "borclar-genel",
+      "slug": "cag__borclar-genel",
+      "title": "Çağ Borçlar Hukuku Genel Hükümler Ders Notları (Ücretsiz) | Mersin Hukuk",
+      "href": "/ders-notlari/cag/borclar-genel"
+    }
+  ]
+}

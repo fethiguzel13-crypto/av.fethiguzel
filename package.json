@@ -36,7 +36,9 @@
     "maintenance:weekly": "node scripts/weekly-icthat-digest.js",
     "maintenance:links": "node scripts/link-check.js",
     "maintenance:setup": "powershell -ExecutionPolicy Bypass -File scripts/setup-maintenance-scheduler.ps1",
-    "forum:draft": "node scripts/forum-draft.js"
+    "forum:draft": "node scripts/forum-draft.js",
+    "build:ders-notlari": "node scripts/generate-ders-notlari.mjs",
+    "ders-notlari:sitemap": "node scripts/build-ders-notlari-sitemap.mjs"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.32.0",
