@@ -6,7 +6,16 @@ import { CURRICULUM, getCoreCourses, getCourseByCode } from './mufredat';
 import hubsJson from './generated/hubs.json';
 import indexJson from './generated/index.json';
 
-export type { CourseNote, UniHubContent, LawUniversity, CurriculumCourse } from './types';
+export type {
+  CourseNote,
+  UniHubContent,
+  LawUniversity,
+  CurriculumCourse,
+  NoteDiagram,
+  NoteSection,
+  NoteExample,
+  NoteKart,
+} from './types';
 export { LAW_UNIVERSITIES, getActiveUniversities, getUniversityBySlug } from './universiteler';
 export { CURRICULUM, getCoreCourses, getCourseByCode } from './mufredat';
 

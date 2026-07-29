@@ -1,74 +1,239 @@
 import Link from 'next/link';
-import type { CourseNote, UniHubContent } from '@/lib/ders-notlari';
+import type { CourseNote, NoteDiagram, UniHubContent } from '@/lib/ders-notlari';
 
 const SITE = 'https://www.avfethiguzel.com';
 
-function Diagram({ d }: { d: CourseNote['diagrams'][0] }) {
-  if (d.kind === 'process') {
-    return (
-      <figure className="my-8 rounded-2xl border border-charcoal/10 bg-white p-5 shadow-sm">
-        <figcaption className="text-[11px] font-mono uppercase tracking-wider text-accent mb-4">
-          {d.title}
-        </figcaption>
-        <ol className="relative m-0 p-0 list-none">
-          <span className="absolute left-4 top-2 bottom-2 w-0.5 bg-accent/30" aria-hidden />
-          {d.steps.map((step, i) => (
-            <li key={step} className="relative flex gap-3 pb-4 last:pb-0">
-              <span className="relative z-[1] flex h-8 w-8 shrink-0 items-center justify-center rounded-full bg-accent text-white text-xs font-bold">
+/* ─── Diyagramlar ─────────────────────────────────────── */
+
+function ProcessDiagram({ title, steps }: { title: string; steps: string[] }) {
+  return (
+    <figure className="my-8 rounded-2xl border border-charcoal/10 bg-white p-5 sm:p-6 shadow-sm overflow-hidden">
+      <figcaption className="text-[11px] font-mono uppercase tracking-[0.14em] text-accent mb-5 font-bold">
+        Şekil · {title}
+      </figcaption>
+      <div className="flex flex-col gap-0">
+        {steps.map((step, i) => (
+          <div key={i} className="flex gap-3 sm:gap-4">
+            <div className="flex flex-col items-center w-10 shrink-0">
+              <span className="flex h-10 w-10 items-center justify-center rounded-full bg-accent text-white text-sm font-bold shadow-md ring-4 ring-cream">
                 {i + 1}
               </span>
-              <span className="text-sm text-charcoal/80 pt-1.5">{step}</span>
-            </li>
-          ))}
-        </ol>
-      </figure>
-    );
-  }
-  if (d.kind === 'compare') {
-    return (
-      <figure className="my-8 overflow-x-auto rounded-2xl border border-charcoal/10 bg-white shadow-sm">
-        <figcaption className="px-4 pt-4 text-[11px] font-mono uppercase tracking-wider text-accent">
-          {d.title}
-        </figcaption>
-        <table className="w-full text-sm mt-2">
-          <thead>
-            <tr className="bg-charcoal/[0.04]">
-              {d.headers.map((h) => (
-                <th key={h} className="text-left px-3 py-2 font-semibold text-charcoal">
-                  {h}
-                </th>
-              ))}
-            </tr>
-          </thead>
-          <tbody>
-            {d.rows.map((row, ri) => (
-              <tr key={ri} className="border-t border-charcoal/5">
-                {row.map((cell, ci) => (
-                  <td key={ci} className="px-3 py-2 text-charcoal/70">
-                    {cell}
-                  </td>
-                ))}
-              </tr>
-            ))}
-          </tbody>
-        </table>
-      </figure>
-    );
-  }
-  return (
-    <figure className="my-8 grid sm:grid-cols-2 gap-3">
-      <div className="rounded-xl border border-accent/25 bg-accent/5 p-4 text-sm text-charcoal/75">
-        <p className="text-[10px] font-mono uppercase text-accent mb-2">Sol dal</p>
-        {d.left}
+              {i < steps.length - 1 && <span className="w-0.5 flex-1 min-h-[1.25rem] bg-accent/30" />}
+            </div>
+            <div className="flex-1 pb-4">
+              <div className="rounded-xl border border-charcoal/8 bg-charcoal/[0.02] px-4 py-3 text-sm sm:text-[15px] text-charcoal/80 font-medium leading-snug">
+                {step}
+              </div>
+            </div>
+          </div>
+        ))}
       </div>
-      <div className="rounded-xl border border-primary/20 bg-primary/5 p-4 text-sm text-charcoal/75">
-        <p className="text-[10px] font-mono uppercase text-primary mb-2">Sağ dal</p>
-        {d.right}
-      </div>
-      <figcaption className="sm:col-span-2 text-[11px] text-charcoal/45">{d.title}</figcaption>
     </figure>
   );
 }
+
+function CompareDiagram({
+  title,
+  headers,
+  rows,
+}: {
+  title: string;
+  headers: string[];
+  rows: string[][];
+}) {
+  return (
+    <figure className="my-8 rounded-2xl border border-charcoal/10 bg-white shadow-sm overflow-x-auto">
+      <figcaption className="px-5 pt-5 text-[11px] font-mono uppercase tracking-[0.14em] text-accent font-bold">
+        Tablo · {title}
+      </figcaption>
+      <table className="w-full text-sm mt-3 min-w-[320px]">
+        <thead>
+          <tr className="bg-charcoal/[0.04] border-y border-charcoal/8">
+            {headers.map((h) => (
+              <th key={h} className="text-left px-4 py-2.5 font-bold text-charcoal text-xs uppercase tracking-wide">
+                {h}
+              </th>
+            ))}
+          </tr>
+        </thead>
+        <tbody>
+          {rows.map((row, ri) => (
+            <tr key={ri} className="border-b border-charcoal/5 hover:bg-accent/[0.03]">
+              {row.map((cell, ci) => (
+                <td
+                  key={ci}
+                  className={`px-4 py-3 text-charcoal/70 leading-snug ${ci === 0 ? 'font-semibold text-charcoal/85' : ''}`}
+                >
+                  {cell}
+                </td>
+              ))}
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </figure>
+  );
+}
+
+function ForkDiagram({
+  title,
+  left,
+  right,
+  leftTitle = 'Sol',
+  rightTitle = 'Sağ',
+}: {
+  title: string;
+  left: string;
+  right: string;
+  leftTitle?: string;
+  rightTitle?: string;
+}) {
+  return (
+    <figure className="my-8">
+      <p className="text-[11px] font-mono uppercase tracking-[0.14em] text-accent font-bold mb-3">
+        Ayrım · {title}
+      </p>
+      <div className="grid sm:grid-cols-2 gap-3">
+        <div className="rounded-2xl border-2 border-accent/30 bg-gradient-to-br from-accent/10 to-white p-5">
+          <p className="text-[10px] font-mono uppercase tracking-wider text-accent font-bold mb-2">{leftTitle}</p>
+          <p className="text-sm text-charcoal/80 leading-relaxed m-0">{left}</p>
+        </div>
+        <div className="rounded-2xl border-2 border-primary/25 bg-gradient-to-br from-primary/10 to-white p-5">
+          <p className="text-[10px] font-mono uppercase tracking-wider text-primary font-bold mb-2">{rightTitle}</p>
+          <p className="text-sm text-charcoal/80 leading-relaxed m-0">{right}</p>
+        </div>
+      </div>
+    </figure>
+  );
+}
+
+function MindmapDiagram({
+  title,
+  center,
+  branches,
+}: {
+  title: string;
+  center: string;
+  branches: { label: string; items: string[] }[];
+}) {
+  return (
+    <figure className="my-8 rounded-2xl border border-charcoal/10 bg-white p-5 sm:p-7 shadow-sm">
+      <figcaption className="text-[11px] font-mono uppercase tracking-[0.14em] text-accent font-bold mb-6">
+        Zihin haritası · {title}
+      </figcaption>
+      <div className="flex flex-col items-center gap-4">
+        <div className="rounded-2xl bg-accent text-white px-6 py-3 text-center font-heading font-bold text-base sm:text-lg shadow-lg shadow-accent/25 max-w-xs">
+          {center}
+        </div>
+        <div className="w-px h-4 bg-accent/40" aria-hidden />
+        <div className="grid grid-cols-2 lg:grid-cols-4 gap-3 w-full">
+          {branches.map((b) => (
+            <div
+              key={b.label}
+              className="rounded-xl border border-charcoal/10 bg-charcoal/[0.02] p-3 sm:p-4"
+            >
+              <p className="text-xs font-bold text-accent mb-2 border-b border-accent/20 pb-1.5">{b.label}</p>
+              <ul className="m-0 p-0 list-none space-y-1">
+                {b.items.map((it) => (
+                  <li key={it} className="text-[12px] sm:text-xs text-charcoal/70 flex gap-1.5">
+                    <span className="text-accent shrink-0">·</span>
+                    <span>{it}</span>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          ))}
+        </div>
+      </div>
+    </figure>
+  );
+}
+
+function CycleDiagram({ title, steps }: { title: string; steps: string[] }) {
+  return (
+    <figure className="my-8 rounded-2xl border border-charcoal/10 bg-white p-5 sm:p-6 shadow-sm">
+      <figcaption className="text-[11px] font-mono uppercase tracking-[0.14em] text-accent font-bold mb-5">
+        Döngü · {title}
+      </figcaption>
+      <div className="flex flex-wrap items-center justify-center gap-2">
+        {steps.map((s, i) => (
+          <div key={i} className="flex items-center gap-2">
+            <div className="rounded-full border-2 border-accent/40 bg-accent/5 px-4 py-2.5 text-xs sm:text-sm font-semibold text-charcoal text-center min-w-[4.5rem]">
+              <span className="block text-[10px] text-accent font-mono mb-0.5">{i + 1}</span>
+              {s}
+            </div>
+            {i < steps.length - 1 && (
+              <span className="text-accent/50 text-lg font-light hidden sm:inline" aria-hidden>
+                →
+              </span>
+            )}
+          </div>
+        ))}
+        <span className="text-accent/40 text-xs font-mono w-full text-center mt-2">↻ tekrarla</span>
+      </div>
+    </figure>
+  );
+}
+
+function LadderDiagram({ title, levels }: { title: string; levels: string[] }) {
+  return (
+    <figure className="my-8 rounded-2xl border border-charcoal/10 bg-white p-5 sm:p-6 shadow-sm">
+      <figcaption className="text-[11px] font-mono uppercase tracking-[0.14em] text-accent font-bold mb-5">
+        Merdiven · {title}
+      </figcaption>
+      <ol className="m-0 p-0 list-none space-y-2">
+        {levels.map((lv, i) => (
+          <li key={i} className="flex items-stretch gap-0">
+            <div
+              className="flex items-center justify-center text-white text-xs font-bold shrink-0 px-3 rounded-l-xl"
+              style={{
+                background: `hsl(${28 + i * 12} 70% ${42 + i * 4}%)`,
+                minWidth: `${4.5 + i * 0.6}rem`,
+              }}
+            >
+              {i + 1}
+            </div>
+            <div
+              className="flex-1 rounded-r-xl border border-l-0 border-charcoal/10 px-4 py-2.5 text-sm text-charcoal/80 font-medium"
+              style={{ marginLeft: `${i * 0.35}rem` }}
+            >
+              {lv}
+            </div>
+          </li>
+        ))}
+      </ol>
+    </figure>
+  );
+}
+
+function Diagram({ d }: { d: NoteDiagram }) {
+  switch (d.kind) {
+    case 'process':
+      return <ProcessDiagram title={d.title} steps={d.steps} />;
+    case 'compare':
+      return <CompareDiagram title={d.title} headers={d.headers} rows={d.rows} />;
+    case 'fork':
+      return (
+        <ForkDiagram
+          title={d.title}
+          left={d.left}
+          right={d.right}
+          leftTitle={d.leftTitle}
+          rightTitle={d.rightTitle}
+        />
+      );
+    case 'mindmap':
+      return <MindmapDiagram title={d.title} center={d.center} branches={d.branches} />;
+    case 'cycle':
+      return <CycleDiagram title={d.title} steps={d.steps} />;
+    case 'ladder':
+      return <LadderDiagram title={d.title} levels={d.levels} />;
+    default:
+      return null;
+  }
+}
+
+/* ─── Ana görünüm ─────────────────────────────────────── */
 
 export function DersNotuView({
   note,
@@ -79,6 +244,18 @@ export function DersNotuView({
 }) {
   const pageUrl = `${SITE}/ders-notlari/${note.uniSlug}/${note.courseCode}`;
   const pdfHref = `/ders-notlari/${note.uniSlug}/${note.courseCode}/pdf`;
+  const toc = note.sections.map((s) => s.heading);
+
+  // Diyagramları bölümlere serpiştir (0, 1, 3. bölüm sonrası)
+  const insertAfter = [0, 1, 3];
+  const graphicsAfter = new Map<number, NoteDiagram[]>();
+  note.diagrams.forEach((d, i) => {
+    const slot = insertAfter[i] ?? insertAfter[insertAfter.length - 1];
+    if (!graphicsAfter.has(slot)) graphicsAfter.set(slot, []);
+    // ilk 3 diyagramı serpiştir, kalan sonda
+    if (i < 3) graphicsAfter.get(slot)!.push(d);
+  });
+  const restDiagrams = note.diagrams.slice(3);
 
   const jsonLd = {
     '@context': 'https://schema.org',
@@ -97,6 +274,7 @@ export function DersNotuView({
   return (
     <>
       <script type="application/ld+json" dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }} />
+
       <nav className="text-[11px] text-charcoal/40 mb-5 flex flex-wrap gap-1.5 print:hidden">
         <Link href="/ders-notlari" className="hover:text-accent">
           Ders notları
@@ -109,150 +287,300 @@ export function DersNotuView({
         <span className="text-charcoal/60">{note.courseCode}</span>
       </nav>
 
-      <p className="text-accent font-mono text-[10px] tracking-widest uppercase mb-2">
-        Ücretsiz öğrenci notu · {hub.uni.city} · {hub.uni.type}
-      </p>
-      <h1 className="text-3xl sm:text-4xl font-heading font-bold text-charcoal mb-4 leading-tight">
-        {note.h1}
-      </h1>
-      <p className="text-charcoal/60 text-base leading-relaxed mb-6 max-w-3xl">{note.lead}</p>
-
-      <div className="flex flex-wrap gap-2 mb-8 print:hidden">
-        <Link
-          href={pdfHref}
-          className="inline-flex text-sm font-bold px-4 py-2 rounded-full bg-accent text-white hover:bg-accent/90"
-        >
-          PDF / Yazdır
-        </Link>
-        <Link
-          href={`/ders-notlari/${note.uniSlug}`}
-          className="inline-flex text-sm font-semibold px-4 py-2 rounded-full border border-charcoal/15 text-charcoal/70"
-        >
-          Tüm {hub.uni.shortName} notları
-        </Link>
-        <Link
-          href="/mevzuat"
-          className="inline-flex text-sm font-semibold px-4 py-2 rounded-full border border-charcoal/15 text-charcoal/70"
-        >
-          Mevzuat bankası
-        </Link>
+      {/* Hero band */}
+      <div className="mb-8 rounded-3xl border border-charcoal/10 overflow-hidden bg-white shadow-sm">
+        <div className="bg-gradient-to-br from-charcoal via-charcoal to-[#2a2520] px-5 sm:px-8 py-7 sm:py-9 text-cream">
+          <p className="text-accent font-mono text-[10px] tracking-[0.2em] uppercase mb-3">
+            Ücretsiz premium not · {hub.uni.city} · {hub.uni.shortName}
+          </p>
+          <h1 className="text-2xl sm:text-4xl font-heading font-bold leading-tight mb-3 text-cream">
+            {note.h1}
+          </h1>
+          {note.promise && (
+            <p className="text-accent/95 text-sm sm:text-base font-medium leading-relaxed max-w-2xl mb-3">
+              {note.promise}
+            </p>
+          )}
+          <p className="text-cream/65 text-sm sm:text-base leading-relaxed max-w-3xl">{note.lead}</p>
+          <div className="flex flex-wrap gap-2 mt-5 print:hidden">
+            <Link
+              href={pdfHref}
+              className="inline-flex text-sm font-bold px-4 py-2.5 rounded-full bg-accent text-white hover:bg-accent/90"
+            >
+              PDF / Yazdır
+            </Link>
+            <Link
+              href={`/ders-notlari/${note.uniSlug}`}
+              className="inline-flex text-sm font-semibold px-4 py-2.5 rounded-full border border-cream/20 text-cream/85 hover:bg-cream/10"
+            >
+              Tüm {hub.uni.shortName} notları
+            </Link>
+            <Link
+              href="/mevzuat"
+              className="inline-flex text-sm font-semibold px-4 py-2.5 rounded-full border border-cream/20 text-cream/85 hover:bg-cream/10"
+            >
+              Mevzuat
+            </Link>
+          </div>
+        </div>
       </div>
 
-      <aside className="mb-10 rounded-2xl border border-accent/20 bg-accent/[0.06] p-5">
-        <h2 className="text-sm font-heading font-bold text-charcoal mb-2">Sınav kutusu — {hub.uni.shortName}</h2>
-        <ul className="text-sm text-charcoal/70 space-y-1.5 m-0 p-0 list-none">
-          <li>
-            <strong>Takvim:</strong> {note.examBox.calendar}
-          </li>
-          <li>
-            <strong>Tipik ağırlık:</strong> {note.examBox.typicalWeights}
-          </li>
-          <li>
-            <strong>Format:</strong> {note.examBox.format}
-          </li>
-        </ul>
-        <p className="text-xs text-charcoal/50 mt-3 mb-0">
-          Kesin oran ve tarih için fakülte yönetmeliği / OBS duyurusu esastır.
-        </p>
-      </aside>
+      {/* 60 saniye */}
+      {note.sixtySecond && note.sixtySecond.length > 0 && (
+        <aside className="mb-8 rounded-2xl border-2 border-accent/25 bg-accent/[0.06] p-5 sm:p-6">
+          <h2 className="text-sm font-heading font-bold text-charcoal mb-3 flex items-center gap-2">
+            <span className="inline-flex h-7 w-7 items-center justify-center rounded-full bg-accent text-white text-xs font-bold">
+              60
+            </span>
+            Saniyede omurga
+          </h2>
+          <ol className="m-0 p-0 list-none space-y-2">
+            {note.sixtySecond.map((line, i) => (
+              <li key={i} className="flex gap-2.5 text-sm text-charcoal/75 leading-snug">
+                <span className="text-accent font-bold shrink-0">{i + 1}.</span>
+                <span>{line}</span>
+              </li>
+            ))}
+          </ol>
+        </aside>
+      )}
 
-      <section className="mb-10">
-        <h2 className="text-xl font-heading font-bold text-charcoal mb-3">Öğrenme çıktıları</h2>
-        <ul className="space-y-2">
-          {note.learningOutcomes.map((o) => (
-            <li key={o} className="flex gap-2 text-sm text-charcoal/75">
-              <span className="text-accent font-bold">✓</span> {o}
+      {/* Sınav kutusu + öğrenme çıktıları */}
+      <div className="grid sm:grid-cols-2 gap-4 mb-10">
+        <aside className="rounded-2xl border border-charcoal/10 bg-white p-5 shadow-sm">
+          <h2 className="text-sm font-heading font-bold text-charcoal mb-3">Sınav kutusu</h2>
+          <ul className="text-sm text-charcoal/70 space-y-2 m-0 p-0 list-none">
+            <li>
+              <span className="text-charcoal/45 text-xs uppercase tracking-wide">Takvim</span>
+              <br />
+              <strong className="text-charcoal">{note.examBox.calendar}</strong>
             </li>
-          ))}
-        </ul>
-      </section>
-
-      {note.diagrams.map((d) => (
-        <Diagram key={d.title} d={d} />
-      ))}
-
-      {note.sections.map((sec) => (
-        <section key={sec.heading} className="mb-10">
-          <h2 className="text-xl font-heading font-bold text-charcoal mb-4">{sec.heading}</h2>
-          {sec.paragraphs.map((p) => (
-            <p key={p.slice(0, 40)} className="text-charcoal/70 leading-[1.75] mb-3 text-[15px]">
-              {p}
-            </p>
-          ))}
-          {sec.bullets && (
-            <ul className="mt-3 space-y-2">
-              {sec.bullets.map((b) => (
-                <li
-                  key={b}
-                  className="rounded-xl border border-charcoal/8 bg-white px-3 py-2 text-sm text-charcoal/75"
-                >
-                  {b}
+            <li>
+              <span className="text-charcoal/45 text-xs uppercase tracking-wide">Ağırlık (tipik)</span>
+              <br />
+              {note.examBox.typicalWeights}
+            </li>
+            <li>
+              <span className="text-charcoal/45 text-xs uppercase tracking-wide">Format</span>
+              <br />
+              {note.examBox.format}
+            </li>
+          </ul>
+          {note.examBox.tips?.length > 0 && (
+            <ul className="mt-4 pt-3 border-t border-charcoal/8 space-y-1 m-0 p-0 list-none">
+              {note.examBox.tips.map((t) => (
+                <li key={t} className="text-xs text-charcoal/60 flex gap-1.5">
+                  <span className="text-accent">✓</span> {t}
                 </li>
               ))}
             </ul>
           )}
-        </section>
+        </aside>
+        <aside className="rounded-2xl border border-charcoal/10 bg-white p-5 shadow-sm">
+          <h2 className="text-sm font-heading font-bold text-charcoal mb-3">Bu notu bitirince</h2>
+          <ul className="space-y-2 m-0 p-0 list-none">
+            {note.learningOutcomes.map((o) => (
+              <li key={o} className="flex gap-2 text-sm text-charcoal/75">
+                <span className="text-accent font-bold shrink-0">→</span> {o}
+              </li>
+            ))}
+          </ul>
+        </aside>
+      </div>
+
+      {/* İçindekiler */}
+      <nav
+        aria-label="İçindekiler"
+        className="mb-10 rounded-2xl border border-charcoal/8 bg-charcoal/[0.02] p-5 print:hidden"
+      >
+        <p className="text-[11px] font-mono uppercase tracking-wider text-charcoal/45 mb-3 font-bold">
+          İçindekiler
+        </p>
+        <ol className="m-0 p-0 list-none columns-1 sm:columns-2 gap-x-8 space-y-1.5">
+          {toc.map((h, i) => (
+            <li key={h} className="text-sm text-charcoal/70 break-inside-avoid">
+              <span className="text-accent font-mono text-xs mr-1.5">{i + 1}.</span>
+              {h.replace(/^\d+\.\s*/, '')}
+            </li>
+          ))}
+        </ol>
+      </nav>
+
+      {/* Bölümler + grafikler */}
+      {note.sections.map((sec, si) => (
+        <div key={sec.heading}>
+          <section className="mb-10 scroll-mt-28">
+            <h2 className="text-xl sm:text-2xl font-heading font-bold text-charcoal mb-4 pb-2 border-b border-charcoal/10">
+              {sec.heading}
+            </h2>
+            {sec.paragraphs.map((p, pi) => (
+              <p key={pi} className="text-charcoal/75 leading-[1.8] mb-3.5 text-[15px] sm:text-base">
+                {p}
+              </p>
+            ))}
+            {sec.hapBilgi && (
+              <div className="my-4 rounded-xl border border-amber-400/40 bg-amber-50/80 px-4 py-3.5">
+                <p className="text-[10px] font-mono uppercase tracking-wider text-amber-800/80 font-bold mb-1">
+                  Hap bilgi
+                </p>
+                <p className="text-sm text-amber-950/80 leading-relaxed m-0">{sec.hapBilgi}</p>
+              </div>
+            )}
+            {sec.uyari && (
+              <div className="my-4 rounded-xl border border-red-300/50 bg-red-50/70 px-4 py-3.5">
+                <p className="text-[10px] font-mono uppercase tracking-wider text-red-800/80 font-bold mb-1">
+                  Sınav tuzağı
+                </p>
+                <p className="text-sm text-red-950/80 leading-relaxed m-0">{sec.uyari}</p>
+              </div>
+            )}
+            {sec.kartlar && sec.kartlar.length > 0 && (
+              <div className="my-5 grid sm:grid-cols-3 gap-3">
+                {sec.kartlar.map((k) => (
+                  <div
+                    key={k.baslik}
+                    className="rounded-2xl border border-charcoal/10 bg-white p-4 shadow-sm border-t-4 border-t-accent"
+                  >
+                    <p className="text-sm font-heading font-bold text-charcoal mb-2 m-0">{k.baslik}</p>
+                    <p className="text-xs sm:text-[13px] text-charcoal/65 leading-relaxed m-0">{k.govde}</p>
+                  </div>
+                ))}
+              </div>
+            )}
+            {sec.bullets && sec.bullets.length > 0 && (
+              <ul className="mt-4 space-y-2 m-0 p-0 list-none">
+                {sec.bullets.map((b) => (
+                  <li
+                    key={b}
+                    className="flex gap-2.5 rounded-xl border border-charcoal/8 bg-white px-3.5 py-2.5 text-sm text-charcoal/75"
+                  >
+                    <span className="text-accent font-bold shrink-0">•</span>
+                    <span className="leading-snug">{b}</span>
+                  </li>
+                ))}
+              </ul>
+            )}
+          </section>
+          {(graphicsAfter.get(si) || []).map((d) => (
+            <Diagram key={d.title} d={d} />
+          ))}
+        </div>
       ))}
 
+      {restDiagrams.map((d) => (
+        <Diagram key={d.title} d={d} />
+      ))}
+
+      {/* Örnekler */}
       <section className="mb-12">
-        <h2 className="text-xl font-heading font-bold text-charcoal mb-5">İşlenmiş örnek olaylar</h2>
-        <div className="flex flex-col gap-4">
-          {note.examples.map((ex) => (
+        <h2 className="text-xl sm:text-2xl font-heading font-bold text-charcoal mb-2">
+          İşlenmiş örnek olaylar
+        </h2>
+        <p className="text-sm text-charcoal/50 mb-5">
+          Her örnekte: olay → çözüm iskeleti → tek cümlelik çıkış. Kendi defterinizde yeniden yazın.
+        </p>
+        <div className="flex flex-col gap-5">
+          {note.examples.map((ex, i) => (
             <article
               key={ex.title}
               className="rounded-2xl border border-charcoal/10 bg-white overflow-hidden shadow-sm"
             >
-              <div className="border-l-4 border-accent px-4 py-4 sm:px-5">
-                <h3 className="font-heading font-bold text-charcoal text-base m-0 mb-2">{ex.title}</h3>
-                <p className="text-sm text-charcoal/55 m-0 mb-2">
-                  <strong>Olay:</strong> {ex.facts}
+              <div className="bg-charcoal text-cream px-4 sm:px-5 py-3 flex items-center gap-2">
+                <span className="flex h-7 w-7 items-center justify-center rounded-full bg-accent text-xs font-bold">
+                  {i + 1}
+                </span>
+                <h3 className="font-heading font-bold text-sm sm:text-base m-0 text-cream">{ex.title}</h3>
+              </div>
+              <div className="px-4 sm:px-5 py-4 space-y-3">
+                <div>
+                  <p className="text-[10px] font-mono uppercase tracking-wider text-charcoal/40 font-bold m-0 mb-1">
+                    Olay
+                  </p>
+                  <p className="text-sm text-charcoal/70 leading-relaxed m-0">{ex.facts}</p>
+                </div>
+                <div className="rounded-xl bg-charcoal/[0.03] border border-charcoal/8 px-3.5 py-3">
+                  <p className="text-[10px] font-mono uppercase tracking-wider text-accent font-bold m-0 mb-1">
+                    Çözüm iskeleti
+                  </p>
+                  <p className="text-sm text-charcoal/80 leading-relaxed m-0">{ex.analysis}</p>
+                </div>
+                <p className="text-sm font-semibold text-accent m-0 flex gap-2">
+                  <span aria-hidden>→</span>
+                  <span>{ex.takeaway}</span>
                 </p>
-                <p className="text-sm text-charcoal/75 m-0 mb-2">
-                  <strong>Çözüm iskeleti:</strong> {ex.analysis}
-                </p>
-                <p className="text-sm text-accent font-semibold m-0">→ {ex.takeaway}</p>
               </div>
             </article>
           ))}
         </div>
       </section>
 
+      {/* Checklist */}
       <section className="mb-10">
         <h2 className="text-xl font-heading font-bold text-charcoal mb-4">Kontrol listesi</h2>
-        <ul className="space-y-2">
+        <ul className="grid sm:grid-cols-2 gap-2 m-0 p-0 list-none">
           {note.checklist.map((c, i) => (
             <li
               key={c}
               className="flex gap-3 rounded-xl border border-charcoal/8 bg-white px-3 py-2.5 text-sm text-charcoal/75"
             >
-              <span className="text-accent font-bold">{i + 1}</span>
+              <span className="flex h-6 w-6 shrink-0 items-center justify-center rounded-md border border-charcoal/15 text-[11px] font-bold text-charcoal/40">
+                {i + 1}
+              </span>
               {c}
             </li>
           ))}
         </ul>
       </section>
 
+      {/* SSS */}
       <section className="mb-10">
-        <h2 className="text-xl font-heading font-bold text-charcoal mb-4">SSS</h2>
-        <div className="space-y-3">
+        <h2 className="text-xl font-heading font-bold text-charcoal mb-4">Sık sorulanlar</h2>
+        <div className="space-y-2">
           {note.faq.map((f) => (
             <details
               key={f.q}
-              className="rounded-2xl border border-charcoal/10 bg-white open:border-accent/25"
+              className="rounded-2xl border border-charcoal/10 bg-white open:border-accent/30 open:shadow-sm"
             >
               <summary className="cursor-pointer list-none p-4 font-semibold text-sm text-charcoal">
                 {f.q}
               </summary>
-              <p className="px-4 pb-4 text-sm text-charcoal/65 m-0">{f.a}</p>
+              <p className="px-4 pb-4 text-sm text-charcoal/65 leading-relaxed m-0">{f.a}</p>
             </details>
           ))}
         </div>
       </section>
 
-      <p className="text-xs text-charcoal/45 border-t border-charcoal/10 pt-6">
-        Av. Fethi Güzel Hukuk Portalı · ücretsiz öğrenci desteği · bilgilendirme / eğitim materyali ·
-        resmi müfredatın yerine geçmez · güncelleme: {note.updated}
-      </p>
+      {/* İlişkili dersler */}
+      {note.relatedCourses.length > 0 && (
+        <section className="mb-10">
+          <h2 className="text-sm font-bold text-charcoal/50 uppercase tracking-wider mb-3">
+            Aynı dönemden diğer notlar
+          </h2>
+          <div className="flex flex-wrap gap-2">
+            {note.relatedCourses.map((code) => (
+              <Link
+                key={code}
+                href={`/ders-notlari/${note.uniSlug}/${code}`}
+                className="text-xs font-semibold px-3 py-1.5 rounded-full bg-charcoal/5 text-charcoal/70 hover:bg-accent/10 hover:text-accent"
+              >
+                {code}
+              </Link>
+            ))}
+          </div>
+        </section>
+      )}
+
+      <footer className="text-xs text-charcoal/45 border-t border-charcoal/10 pt-6 leading-relaxed">
+        <p className="m-0 mb-1">
+          <strong className="text-charcoal/60">Av. Fethi Güzel Hukuk Portalı</strong> · ücretsiz öğrenci
+          desteği · bilgilendirme / eğitim materyali
+        </p>
+        <p className="m-0">
+          Resmi müfredatın ve sorumlu öğretim elemanının yerine geçmez · telifli slayt kopyalanmaz ·
+          güncelleme: {note.updated}
+          {note.qualityTier === 'premium' ? ' · premium şematik sürüm' : ''}
+        </p>
+      </footer>
     </>
   );
 }
@@ -283,17 +611,25 @@ export function UniHubView({ hub }: { hub: UniHubContent }) {
         <span>/</span>
         <span>{hub.uni.shortName}</span>
       </nav>
-      <p className="text-accent font-mono text-[10px] tracking-widest uppercase mb-2">
-        {hub.uni.city} · {hub.uni.type} · {hub.uni.calendar} · ücretsiz
-      </p>
-      <h1 className="text-3xl sm:text-4xl font-heading font-bold text-charcoal mb-4">{hub.h1}</h1>
-      <p className="text-charcoal/60 text-base leading-relaxed mb-6 max-w-3xl">{hub.lead}</p>
+
+      <div className="mb-8 rounded-3xl bg-gradient-to-br from-charcoal to-[#2a2520] px-6 sm:px-8 py-8 text-cream">
+        <p className="text-accent font-mono text-[10px] tracking-[0.2em] uppercase mb-2">
+          {hub.uni.city} · {hub.uni.type} · {hub.uni.calendar} · ücretsiz premium
+        </p>
+        <h1 className="text-3xl sm:text-4xl font-heading font-bold mb-3 text-cream">{hub.h1}</h1>
+        <p className="text-cream/70 text-base leading-relaxed max-w-3xl m-0">{hub.lead}</p>
+      </div>
 
       {hub.seoParagraphs.map((p) => (
         <p key={p.slice(0, 30)} className="text-sm text-charcoal/65 leading-relaxed mb-3">
           {p}
         </p>
       ))}
+
+      <div className="my-8 rounded-2xl border border-accent/20 bg-accent/[0.06] p-4 text-sm text-charcoal/70">
+        Her notta: <strong>zihin haritası</strong>, tanım kartları, sınav iskeleti, işlenmiş örnek olay ve
+        kontrol listesi. PDF yazdırılabilir.
+      </div>
 
       {byYear.map(
         (b) =>
@@ -302,20 +638,23 @@ export function UniHubView({ hub }: { hub: UniHubContent }) {
               <h2 className="text-lg font-heading font-bold text-charcoal mb-3">
                 {b.year}. sınıf ders notları
               </h2>
-              <ul className="grid sm:grid-cols-2 gap-2">
+              <ul className="grid sm:grid-cols-2 gap-2 m-0 p-0 list-none">
                 {b.items.map((c) => (
                   <li key={c.code}>
                     {'ready' in c && c.ready === false ? (
                       <span className="block rounded-xl border border-dashed border-charcoal/15 bg-charcoal/[0.02] px-3 py-2.5 text-sm text-charcoal/40">
                         {c.title}
-                        <span className="block text-[10px] mt-0.5">Dalga planında genişletilecek</span>
+                        <span className="block text-[10px] mt-0.5">Yakında</span>
                       </span>
                     ) : (
                       <Link
                         href={c.href}
-                        className="block rounded-xl border border-charcoal/10 bg-white hover:border-accent/40 px-3 py-2.5 text-sm font-semibold text-charcoal"
+                        className="block rounded-xl border border-charcoal/10 bg-white hover:border-accent/40 hover:shadow-sm px-3 py-3 text-sm font-semibold text-charcoal transition-all"
                       >
                         {c.title}
+                        <span className="block text-[10px] font-normal text-charcoal/40 mt-1">
+                          şematik · örnekli · premium
+                        </span>
                       </Link>
                     )}
                   </li>

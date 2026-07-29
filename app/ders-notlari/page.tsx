@@ -44,18 +44,22 @@ export default function DersNotlariHubPage() {
           Hukuk fakültesi ders notları (ücretsiz)
         </h1>
         <p className="text-charcoal/60 text-base leading-relaxed mb-4 max-w-2xl">
-          Türkiye’deki hukuk fakülteleri için üniversite bazlı, şematik ve örnekli ders notları.
-          Amaç: öğrenci kardeşlerimize ücretsiz akademik destek. Resmi müfredatın ve hocanın yerine
-          geçmez; telifli slayt yayınlanmaz.
+          Zihin haritalı, tanım kartlı, örnek olaylı ve sınav iskeletli hukuk ders notları.
+          Okunabilir tipografi · şekil/grafik · PDF. Resmi müfredatın yerine geçmez; telifli slayt
+          kopyalanmaz.
         </p>
         <p className="text-sm text-charcoal/50 mb-8">
-          {DERS_NOTLARI_INDEX.universityCount} fakülte hub · {DERS_NOTLARI_INDEX.noteCount} derin not
-          paketi (dalga {DERS_NOTLARI_INDEX.wave}) · PDF yazdırılabilir
+          {DERS_NOTLARI_INDEX.universityCount} fakülte hub · {DERS_NOTLARI_INDEX.noteCount} premium not
+          (dalga {DERS_NOTLARI_INDEX.wave}) · ücretsiz
         </p>
 
-        <aside className="mb-10 rounded-2xl border border-charcoal/10 bg-white p-5 text-sm text-charcoal/65">
-          <strong className="text-charcoal">Arama ipucu:</strong> Google’da «yıldırım beyazıt hukuk
-          ders notları», «marmara borçlar ders notu» gibi sorgular bu dizin sayfalarını hedefler.
+        <aside className="mb-10 rounded-2xl border border-accent/20 bg-accent/[0.06] p-5 text-sm text-charcoal/70">
+          <strong className="text-charcoal">Her notta:</strong> 60 sn omurga · zihin haritası · tanım
+          kartları · sınav tuzağı defteri · işlenmiş örnek olay · kontrol listesi · PDF.
+          <br />
+          <span className="text-charcoal/50 text-xs mt-2 block">
+            Arama: «yıldırım beyazıt hukuk ders notları», «marmara borçlar ders notu»…
+          </span>
         </aside>
 
         {[...byCity.entries()].map(([city, list]) => (
