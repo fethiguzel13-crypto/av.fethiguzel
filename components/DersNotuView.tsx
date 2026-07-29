@@ -774,6 +774,29 @@ export function DersNotuView({
               { code: 'roma-hukuku-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
             ],
           },
+          {
+            match:
+              note.variantOf === 'milletlerarasi-hukuk' ||
+              note.courseCode === 'milletlerarasi-hukuk' ||
+              note.courseCode.startsWith('milletlerarasi-hukuk-'),
+            title: 'Milletlerarası Hukuk · üç paket',
+            items: [
+              { code: 'milletlerarasi-hukuk-donem-1', label: '1. Dönem (Güz)', desc: 'Kaynak · antlaşma · özne' },
+              { code: 'milletlerarasi-hukuk-donem-2', label: '2. Dönem (Bahar)', desc: 'Sorumluluk · BM · UAD' },
+              { code: 'milletlerarasi-hukuk-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
+            ],
+            footer: (
+              <p className="text-[11px] text-charcoal/45 mt-3 m-0">
+                Yabancı unsurlu özel hukuk için:{' '}
+                <Link
+                  href={`/ders-notlari/${note.uniSlug}/devletler-ozel-yillik`}
+                  className="text-accent font-semibold hover:underline"
+                >
+                  MÖHUK yıllık
+                </Link>
+              </p>
+            ),
+          },
         ];
         const activePacks = packs.filter((p) => p.match);
         if (!activePacks.length) return null;
@@ -1584,6 +1607,23 @@ export function UniHubView({ hub }: { hub: UniHubContent }) {
               { code: 'roma-hukuku-donem-1', title: '1. Dönem (Güz)' },
               { code: 'roma-hukuku-donem-2', title: '2. Dönem (Bahar)' },
               { code: 'roma-hukuku-yillik', title: 'Yıllık tam not' },
+            ],
+          },
+          {
+            show: hub.courses.some(
+              (c) =>
+                String(c.code).startsWith('milletlerarasi-hukuk') ||
+                c.code === 'milletlerarasi-hukuk'
+            ),
+            title: 'Milletlerarası Hukuk — 1. dönem · 2. dönem · yıllık',
+            desc: 'Kaynak–antlaşma–sorumluluk–BM–UAD… üç premium not + PDF.',
+            border: 'border-accent/20 bg-accent/[0.04]',
+            itemBorder: 'border-accent/25',
+            accent: 'text-accent',
+            items: [
+              { code: 'milletlerarasi-hukuk-donem-1', title: '1. Dönem (Güz)' },
+              { code: 'milletlerarasi-hukuk-donem-2', title: '2. Dönem (Bahar)' },
+              { code: 'milletlerarasi-hukuk-yillik', title: 'Yıllık tam not' },
             ],
           },
         ]

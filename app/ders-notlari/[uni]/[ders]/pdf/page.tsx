@@ -150,6 +150,9 @@ export default async function DersNotuPdfPage({ params }: Props) {
               'roma-hukuku-donem-1',
               'roma-hukuku-donem-2',
               'roma-hukuku-yillik',
+              'milletlerarasi-hukuk-donem-1',
+              'milletlerarasi-hukuk-donem-2',
+              'milletlerarasi-hukuk-yillik',
             ].map((code) => (
               <a
                 key={code}

@@ -3,7 +3,7 @@
   "wave": "all",
   "universityCount": 120,
   "hubCount": 120,
-  "noteCount": 13440,
+  "noteCount": 13800,
   "universities": [
     {
       "slug": "ankara-yildirim-beyazit",
@@ -115086,6 +115086,3246 @@
       "href": "/ders-notlari/cag/roma-hukuku-yillik",
       "variantOf": "roma-hukuku",
       "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "ankara-yildirim-beyazit__milletlerarasi-hukuk-donem-1",
+      "title": "AYBÜ Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "ankara-yildirim-beyazit__milletlerarasi-hukuk-donem-2",
+      "title": "AYBÜ Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "ankara-yildirim-beyazit__milletlerarasi-hukuk-yillik",
+      "title": "AYBÜ Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "ankara__milletlerarasi-hukuk-donem-1",
+      "title": "AÜHF Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "ankara__milletlerarasi-hukuk-donem-2",
+      "title": "AÜHF Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "ankara__milletlerarasi-hukuk-yillik",
+      "title": "AÜHF Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "istanbul__milletlerarasi-hukuk-donem-1",
+      "title": "İÜHF Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "istanbul__milletlerarasi-hukuk-donem-2",
+      "title": "İÜHF Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "istanbul__milletlerarasi-hukuk-yillik",
+      "title": "İÜHF Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "marmara__milletlerarasi-hukuk-donem-1",
+      "title": "MÜHF Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "marmara__milletlerarasi-hukuk-donem-2",
+      "title": "MÜHF Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "marmara__milletlerarasi-hukuk-yillik",
+      "title": "MÜHF Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "galatasaray__milletlerarasi-hukuk-donem-1",
+      "title": "GSÜ Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "galatasaray__milletlerarasi-hukuk-donem-2",
+      "title": "GSÜ Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "galatasaray__milletlerarasi-hukuk-yillik",
+      "title": "GSÜ Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "dokuz-eylul__milletlerarasi-hukuk-donem-1",
+      "title": "DEÜ Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "dokuz-eylul__milletlerarasi-hukuk-donem-2",
+      "title": "DEÜ Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "dokuz-eylul__milletlerarasi-hukuk-yillik",
+      "title": "DEÜ Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "hacettepe__milletlerarasi-hukuk-donem-1",
+      "title": "Hacettepe Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "hacettepe__milletlerarasi-hukuk-donem-2",
+      "title": "Hacettepe Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "hacettepe__milletlerarasi-hukuk-yillik",
+      "title": "Hacettepe Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "ankara-hacibayram__milletlerarasi-hukuk-donem-1",
+      "title": "AHBV Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "ankara-hacibayram__milletlerarasi-hukuk-donem-2",
+      "title": "AHBV Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "ankara-hacibayram__milletlerarasi-hukuk-yillik",
+      "title": "AHBV Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "bilkent__milletlerarasi-hukuk-donem-1",
+      "title": "Bilkent Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "bilkent__milletlerarasi-hukuk-donem-2",
+      "title": "Bilkent Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "bilkent__milletlerarasi-hukuk-yillik",
+      "title": "Bilkent Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "koc__milletlerarasi-hukuk-donem-1",
+      "title": "Koç Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "koc__milletlerarasi-hukuk-donem-2",
+      "title": "Koç Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "koc__milletlerarasi-hukuk-yillik",
+      "title": "Koç Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "tobb-etu__milletlerarasi-hukuk-donem-1",
+      "title": "TOBB ETÜ Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "tobb-etu__milletlerarasi-hukuk-donem-2",
+      "title": "TOBB ETÜ Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "tobb-etu__milletlerarasi-hukuk-yillik",
+      "title": "TOBB ETÜ Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "bogazici__milletlerarasi-hukuk-donem-1",
+      "title": "BÜ Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "bogazici__milletlerarasi-hukuk-donem-2",
+      "title": "BÜ Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "bogazici__milletlerarasi-hukuk-yillik",
+      "title": "BÜ Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "ege__milletlerarasi-hukuk-donem-1",
+      "title": "Ege Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "ege__milletlerarasi-hukuk-donem-2",
+      "title": "Ege Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "ege__milletlerarasi-hukuk-yillik",
+      "title": "Ege Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "akdeniz__milletlerarasi-hukuk-donem-1",
+      "title": "Akdeniz Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "akdeniz__milletlerarasi-hukuk-donem-2",
+      "title": "Akdeniz Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "akdeniz__milletlerarasi-hukuk-yillik",
+      "title": "Akdeniz Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "selcuk__milletlerarasi-hukuk-donem-1",
+      "title": "Selçuk Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "selcuk__milletlerarasi-hukuk-donem-2",
+      "title": "Selçuk Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "selcuk__milletlerarasi-hukuk-yillik",
+      "title": "Selçuk Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "erciyes__milletlerarasi-hukuk-donem-1",
+      "title": "Erciyes Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "erciyes__milletlerarasi-hukuk-donem-2",
+      "title": "Erciyes Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "erciyes__milletlerarasi-hukuk-yillik",
+      "title": "Erciyes Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "uludag__milletlerarasi-hukuk-donem-1",
+      "title": "Uludağ Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "uludag__milletlerarasi-hukuk-donem-2",
+      "title": "Uludağ Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "uludag__milletlerarasi-hukuk-yillik",
+      "title": "Uludağ Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "cukurova__milletlerarasi-hukuk-donem-1",
+      "title": "Çukurova Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "cukurova__milletlerarasi-hukuk-donem-2",
+      "title": "Çukurova Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "cukurova__milletlerarasi-hukuk-yillik",
+      "title": "Çukurova Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "anadolu__milletlerarasi-hukuk-donem-1",
+      "title": "Anadolu Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "anadolu__milletlerarasi-hukuk-donem-2",
+      "title": "Anadolu Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "anadolu__milletlerarasi-hukuk-yillik",
+      "title": "Anadolu Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "gazi-ankara__milletlerarasi-hukuk-donem-1",
+      "title": "ASBÜ Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "gazi-ankara__milletlerarasi-hukuk-donem-2",
+      "title": "ASBÜ Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "gazi-ankara__milletlerarasi-hukuk-yillik",
+      "title": "ASBÜ Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "yildiz-teknik__milletlerarasi-hukuk-donem-1",
+      "title": "YTÜ Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "yildiz-teknik__milletlerarasi-hukuk-donem-2",
+      "title": "YTÜ Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "yildiz-teknik__milletlerarasi-hukuk-yillik",
+      "title": "YTÜ Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "istanbul-medeniyet__milletlerarasi-hukuk-donem-1",
+      "title": "Medeniyet Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "istanbul-medeniyet__milletlerarasi-hukuk-donem-2",
+      "title": "Medeniyet Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "istanbul-medeniyet__milletlerarasi-hukuk-yillik",
+      "title": "Medeniyet Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "bahcesehir__milletlerarasi-hukuk-donem-1",
+      "title": "BAU Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "bahcesehir__milletlerarasi-hukuk-donem-2",
+      "title": "BAU Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "bahcesehir__milletlerarasi-hukuk-yillik",
+      "title": "BAU Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "yeditepe__milletlerarasi-hukuk-donem-1",
+      "title": "Yeditepe Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "yeditepe__milletlerarasi-hukuk-donem-2",
+      "title": "Yeditepe Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "yeditepe__milletlerarasi-hukuk-yillik",
+      "title": "Yeditepe Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "ozyegin__milletlerarasi-hukuk-donem-1",
+      "title": "Özyeğin Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "ozyegin__milletlerarasi-hukuk-donem-2",
+      "title": "Özyeğin Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "ozyegin__milletlerarasi-hukuk-yillik",
+      "title": "Özyeğin Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "kadir-has__milletlerarasi-hukuk-donem-1",
+      "title": "KHAS Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "kadir-has__milletlerarasi-hukuk-donem-2",
+      "title": "KHAS Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "kadir-has__milletlerarasi-hukuk-yillik",
+      "title": "KHAS Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "istanbul-bilgi__milletlerarasi-hukuk-donem-1",
+      "title": "Bilgi Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "istanbul-bilgi__milletlerarasi-hukuk-donem-2",
+      "title": "Bilgi Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "istanbul-bilgi__milletlerarasi-hukuk-yillik",
+      "title": "Bilgi Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "mehmet-akif__milletlerarasi-hukuk-donem-1",
+      "title": "Medipol Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "mehmet-akif__milletlerarasi-hukuk-donem-2",
+      "title": "Medipol Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "mehmet-akif__milletlerarasi-hukuk-yillik",
+      "title": "Medipol Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "altinbas__milletlerarasi-hukuk-donem-1",
+      "title": "Altınbaş Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "altinbas__milletlerarasi-hukuk-donem-2",
+      "title": "Altınbaş Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "altinbas__milletlerarasi-hukuk-yillik",
+      "title": "Altınbaş Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "maltepe__milletlerarasi-hukuk-donem-1",
+      "title": "Maltepe Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "maltepe__milletlerarasi-hukuk-donem-2",
+      "title": "Maltepe Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "maltepe__milletlerarasi-hukuk-yillik",
+      "title": "Maltepe Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "dogus__milletlerarasi-hukuk-donem-1",
+      "title": "Doğuş Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "dogus__milletlerarasi-hukuk-donem-2",
+      "title": "Doğuş Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "dogus__milletlerarasi-hukuk-yillik",
+      "title": "Doğuş Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "isik__milletlerarasi-hukuk-donem-1",
+      "title": "Işık Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "isik__milletlerarasi-hukuk-donem-2",
+      "title": "Işık Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "isik__milletlerarasi-hukuk-yillik",
+      "title": "Işık Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "okan__milletlerarasi-hukuk-donem-1",
+      "title": "Okan Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "okan__milletlerarasi-hukuk-donem-2",
+      "title": "Okan Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "okan__milletlerarasi-hukuk-yillik",
+      "title": "Okan Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "kultur__milletlerarasi-hukuk-donem-1",
+      "title": "İKÜ Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "kultur__milletlerarasi-hukuk-donem-2",
+      "title": "İKÜ Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "kultur__milletlerarasi-hukuk-yillik",
+      "title": "İKÜ Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "aydin__milletlerarasi-hukuk-donem-1",
+      "title": "İAÜ Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "aydin__milletlerarasi-hukuk-donem-2",
+      "title": "İAÜ Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "aydin__milletlerarasi-hukuk-yillik",
+      "title": "İAÜ Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "gelisim__milletlerarasi-hukuk-donem-1",
+      "title": "Gelişim Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "gelisim__milletlerarasi-hukuk-donem-2",
+      "title": "Gelişim Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "gelisim__milletlerarasi-hukuk-yillik",
+      "title": "Gelişim Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "topkapi__milletlerarasi-hukuk-donem-1",
+      "title": "Topkapı Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "topkapi__milletlerarasi-hukuk-donem-2",
+      "title": "Topkapı Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "topkapi__milletlerarasi-hukuk-yillik",
+      "title": "Topkapı Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "nisantasi__milletlerarasi-hukuk-donem-1",
+      "title": "Nişantaşı Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "nisantasi__milletlerarasi-hukuk-donem-2",
+      "title": "Nişantaşı Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "nisantasi__milletlerarasi-hukuk-yillik",
+      "title": "Nişantaşı Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "beykent__milletlerarasi-hukuk-donem-1",
+      "title": "Beykent Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "beykent__milletlerarasi-hukuk-donem-2",
+      "title": "Beykent Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "beykent__milletlerarasi-hukuk-yillik",
+      "title": "Beykent Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "halic__milletlerarasi-hukuk-donem-1",
+      "title": "Haliç Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "halic__milletlerarasi-hukuk-donem-2",
+      "title": "Haliç Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "halic__milletlerarasi-hukuk-yillik",
+      "title": "Haliç Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "fatih-sultan__milletlerarasi-hukuk-donem-1",
+      "title": "FSMVÜ Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "fatih-sultan__milletlerarasi-hukuk-donem-2",
+      "title": "FSMVÜ Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "fatih-sultan__milletlerarasi-hukuk-yillik",
+      "title": "FSMVÜ Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "karadeniz-teknik__milletlerarasi-hukuk-donem-1",
+      "title": "KTÜ Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "karadeniz-teknik__milletlerarasi-hukuk-donem-2",
+      "title": "KTÜ Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "karadeniz-teknik__milletlerarasi-hukuk-yillik",
+      "title": "KTÜ Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "ataturk__milletlerarasi-hukuk-donem-1",
+      "title": "Atatürk Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "ataturk__milletlerarasi-hukuk-donem-2",
+      "title": "Atatürk Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "ataturk__milletlerarasi-hukuk-yillik",
+      "title": "Atatürk Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "inonu__milletlerarasi-hukuk-donem-1",
+      "title": "İnönü Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "inonu__milletlerarasi-hukuk-donem-2",
+      "title": "İnönü Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "inonu__milletlerarasi-hukuk-yillik",
+      "title": "İnönü Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "dicle__milletlerarasi-hukuk-donem-1",
+      "title": "Dicle Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "dicle__milletlerarasi-hukuk-donem-2",
+      "title": "Dicle Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "dicle__milletlerarasi-hukuk-yillik",
+      "title": "Dicle Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "firat__milletlerarasi-hukuk-donem-1",
+      "title": "Fırat Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "firat__milletlerarasi-hukuk-donem-2",
+      "title": "Fırat Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "firat__milletlerarasi-hukuk-yillik",
+      "title": "Fırat Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "gaziantep__milletlerarasi-hukuk-donem-1",
+      "title": "GAÜN Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "gaziantep__milletlerarasi-hukuk-donem-2",
+      "title": "GAÜN Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "gaziantep__milletlerarasi-hukuk-yillik",
+      "title": "GAÜN Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "suleyman-demirel__milletlerarasi-hukuk-donem-1",
+      "title": "SDÜ Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "suleyman-demirel__milletlerarasi-hukuk-donem-2",
+      "title": "SDÜ Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "suleyman-demirel__milletlerarasi-hukuk-yillik",
+      "title": "SDÜ Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "pamukkale__milletlerarasi-hukuk-donem-1",
+      "title": "PAÜ Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "pamukkale__milletlerarasi-hukuk-donem-2",
+      "title": "PAÜ Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "pamukkale__milletlerarasi-hukuk-yillik",
+      "title": "PAÜ Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "mugla__milletlerarasi-hukuk-donem-1",
+      "title": "MSKU Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "mugla__milletlerarasi-hukuk-donem-2",
+      "title": "MSKU Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "mugla__milletlerarasi-hukuk-yillik",
+      "title": "MSKU Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "sakarya__milletlerarasi-hukuk-donem-1",
+      "title": "SAÜ Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "sakarya__milletlerarasi-hukuk-donem-2",
+      "title": "SAÜ Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "sakarya__milletlerarasi-hukuk-yillik",
+      "title": "SAÜ Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "kocaeli__milletlerarasi-hukuk-donem-1",
+      "title": "KOÜ Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "kocaeli__milletlerarasi-hukuk-donem-2",
+      "title": "KOÜ Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "kocaeli__milletlerarasi-hukuk-yillik",
+      "title": "KOÜ Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "trakya__milletlerarasi-hukuk-donem-1",
+      "title": "Trakya Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "trakya__milletlerarasi-hukuk-donem-2",
+      "title": "Trakya Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "trakya__milletlerarasi-hukuk-yillik",
+      "title": "Trakya Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "canakkale__milletlerarasi-hukuk-donem-1",
+      "title": "ÇOMÜ Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "canakkale__milletlerarasi-hukuk-donem-2",
+      "title": "ÇOMÜ Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "canakkale__milletlerarasi-hukuk-yillik",
+      "title": "ÇOMÜ Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "balikesir__milletlerarasi-hukuk-donem-1",
+      "title": "BAÜN Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "balikesir__milletlerarasi-hukuk-donem-2",
+      "title": "BAÜN Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "balikesir__milletlerarasi-hukuk-yillik",
+      "title": "BAÜN Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "afyon__milletlerarasi-hukuk-donem-1",
+      "title": "AKÜ Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "afyon__milletlerarasi-hukuk-donem-2",
+      "title": "AKÜ Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "afyon__milletlerarasi-hukuk-yillik",
+      "title": "AKÜ Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "dumlupinar__milletlerarasi-hukuk-donem-1",
+      "title": "DPÜ Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "dumlupinar__milletlerarasi-hukuk-donem-2",
+      "title": "DPÜ Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "dumlupinar__milletlerarasi-hukuk-yillik",
+      "title": "DPÜ Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "eskisehir-osmangazi__milletlerarasi-hukuk-donem-1",
+      "title": "ESOGÜ Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "eskisehir-osmangazi__milletlerarasi-hukuk-donem-2",
+      "title": "ESOGÜ Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "eskisehir-osmangazi__milletlerarasi-hukuk-yillik",
+      "title": "ESOGÜ Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "sivas-cumhuriyet__milletlerarasi-hukuk-donem-1",
+      "title": "SCÜ Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "sivas-cumhuriyet__milletlerarasi-hukuk-donem-2",
+      "title": "SCÜ Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "sivas-cumhuriyet__milletlerarasi-hukuk-yillik",
+      "title": "SCÜ Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "tokat__milletlerarasi-hukuk-donem-1",
+      "title": "TOGÜ Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "tokat__milletlerarasi-hukuk-donem-2",
+      "title": "TOGÜ Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "tokat__milletlerarasi-hukuk-yillik",
+      "title": "TOGÜ Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "yozgat__milletlerarasi-hukuk-donem-1",
+      "title": "Bozok Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "yozgat__milletlerarasi-hukuk-donem-2",
+      "title": "Bozok Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "yozgat__milletlerarasi-hukuk-yillik",
+      "title": "Bozok Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "kirsehir__milletlerarasi-hukuk-donem-1",
+      "title": "AHİEVRAN Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "kirsehir__milletlerarasi-hukuk-donem-2",
+      "title": "AHİEVRAN Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "kirsehir__milletlerarasi-hukuk-yillik",
+      "title": "AHİEVRAN Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "nevsehir__milletlerarasi-hukuk-donem-1",
+      "title": "NEVÜ Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "nevsehir__milletlerarasi-hukuk-donem-2",
+      "title": "NEVÜ Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "nevsehir__milletlerarasi-hukuk-yillik",
+      "title": "NEVÜ Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "mersin__milletlerarasi-hukuk-donem-1",
+      "title": "MEÜ Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "mersin__milletlerarasi-hukuk-donem-2",
+      "title": "MEÜ Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "mersin__milletlerarasi-hukuk-yillik",
+      "title": "MEÜ Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "hatay__milletlerarasi-hukuk-donem-1",
+      "title": "MKÜ Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "hatay__milletlerarasi-hukuk-donem-2",
+      "title": "MKÜ Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "hatay__milletlerarasi-hukuk-yillik",
+      "title": "MKÜ Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "kahramanmaras__milletlerarasi-hukuk-donem-1",
+      "title": "KSÜ Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "kahramanmaras__milletlerarasi-hukuk-donem-2",
+      "title": "KSÜ Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "kahramanmaras__milletlerarasi-hukuk-yillik",
+      "title": "KSÜ Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "osmaniye__milletlerarasi-hukuk-donem-1",
+      "title": "OKÜ Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "osmaniye__milletlerarasi-hukuk-donem-2",
+      "title": "OKÜ Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "osmaniye__milletlerarasi-hukuk-yillik",
+      "title": "OKÜ Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "samsun__milletlerarasi-hukuk-donem-1",
+      "title": "OMÜ Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "samsun__milletlerarasi-hukuk-donem-2",
+      "title": "OMÜ Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "samsun__milletlerarasi-hukuk-yillik",
+      "title": "OMÜ Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "ordu__milletlerarasi-hukuk-donem-1",
+      "title": "ODÜ Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "ordu__milletlerarasi-hukuk-donem-2",
+      "title": "ODÜ Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "ordu__milletlerarasi-hukuk-yillik",
+      "title": "ODÜ Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "giresun__milletlerarasi-hukuk-donem-1",
+      "title": "GÜ Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "giresun__milletlerarasi-hukuk-donem-2",
+      "title": "GÜ Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "giresun__milletlerarasi-hukuk-yillik",
+      "title": "GÜ Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "rize__milletlerarasi-hukuk-donem-1",
+      "title": "RTEÜ Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "rize__milletlerarasi-hukuk-donem-2",
+      "title": "RTEÜ Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "rize__milletlerarasi-hukuk-yillik",
+      "title": "RTEÜ Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "artvin__milletlerarasi-hukuk-donem-1",
+      "title": "AÇÜ Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "artvin__milletlerarasi-hukuk-donem-2",
+      "title": "AÇÜ Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "artvin__milletlerarasi-hukuk-yillik",
+      "title": "AÇÜ Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "van-yyu__milletlerarasi-hukuk-donem-1",
+      "title": "YYÜ Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "van-yyu__milletlerarasi-hukuk-donem-2",
+      "title": "YYÜ Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "van-yyu__milletlerarasi-hukuk-yillik",
+      "title": "YYÜ Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "agri__milletlerarasi-hukuk-donem-1",
+      "title": "AİÇÜ Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "agri__milletlerarasi-hukuk-donem-2",
+      "title": "AİÇÜ Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "agri__milletlerarasi-hukuk-yillik",
+      "title": "AİÇÜ Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "kars__milletlerarasi-hukuk-donem-1",
+      "title": "Kafkas Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "kars__milletlerarasi-hukuk-donem-2",
+      "title": "Kafkas Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "kars__milletlerarasi-hukuk-yillik",
+      "title": "Kafkas Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "erzincan__milletlerarasi-hukuk-donem-1",
+      "title": "EBYÜ Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "erzincan__milletlerarasi-hukuk-donem-2",
+      "title": "EBYÜ Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "erzincan__milletlerarasi-hukuk-yillik",
+      "title": "EBYÜ Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "bayburt__milletlerarasi-hukuk-donem-1",
+      "title": "Bayburt Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "bayburt__milletlerarasi-hukuk-donem-2",
+      "title": "Bayburt Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "bayburt__milletlerarasi-hukuk-yillik",
+      "title": "Bayburt Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "gumushane__milletlerarasi-hukuk-donem-1",
+      "title": "Gümüşhane Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "gumushane__milletlerarasi-hukuk-donem-2",
+      "title": "Gümüşhane Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "gumushane__milletlerarasi-hukuk-yillik",
+      "title": "Gümüşhane Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "bingol__milletlerarasi-hukuk-donem-1",
+      "title": "Bingöl Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "bingol__milletlerarasi-hukuk-donem-2",
+      "title": "Bingöl Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "bingol__milletlerarasi-hukuk-yillik",
+      "title": "Bingöl Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "mus__milletlerarasi-hukuk-donem-1",
+      "title": "Muş Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "mus__milletlerarasi-hukuk-donem-2",
+      "title": "Muş Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "mus__milletlerarasi-hukuk-yillik",
+      "title": "Muş Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "hakkari__milletlerarasi-hukuk-donem-1",
+      "title": "Hakkâri Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "hakkari__milletlerarasi-hukuk-donem-2",
+      "title": "Hakkâri Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "hakkari__milletlerarasi-hukuk-yillik",
+      "title": "Hakkâri Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "sirnak__milletlerarasi-hukuk-donem-1",
+      "title": "Şırnak Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "sirnak__milletlerarasi-hukuk-donem-2",
+      "title": "Şırnak Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "sirnak__milletlerarasi-hukuk-yillik",
+      "title": "Şırnak Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "mardin__milletlerarasi-hukuk-donem-1",
+      "title": "Artuklu Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "mardin__milletlerarasi-hukuk-donem-2",
+      "title": "Artuklu Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "mardin__milletlerarasi-hukuk-yillik",
+      "title": "Artuklu Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "batman__milletlerarasi-hukuk-donem-1",
+      "title": "Batman Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "batman__milletlerarasi-hukuk-donem-2",
+      "title": "Batman Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "batman__milletlerarasi-hukuk-yillik",
+      "title": "Batman Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "siirt__milletlerarasi-hukuk-donem-1",
+      "title": "Siirt Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "siirt__milletlerarasi-hukuk-donem-2",
+      "title": "Siirt Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "siirt__milletlerarasi-hukuk-yillik",
+      "title": "Siirt Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "adiyaman__milletlerarasi-hukuk-donem-1",
+      "title": "Adıyaman Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "adiyaman__milletlerarasi-hukuk-donem-2",
+      "title": "Adıyaman Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "adiyaman__milletlerarasi-hukuk-yillik",
+      "title": "Adıyaman Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "kilis__milletlerarasi-hukuk-donem-1",
+      "title": "Kilis Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "kilis__milletlerarasi-hukuk-donem-2",
+      "title": "Kilis Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "kilis__milletlerarasi-hukuk-yillik",
+      "title": "Kilis Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "igdir__milletlerarasi-hukuk-donem-1",
+      "title": "Iğdır Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "igdir__milletlerarasi-hukuk-donem-2",
+      "title": "Iğdır Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "igdir__milletlerarasi-hukuk-yillik",
+      "title": "Iğdır Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "ardahan__milletlerarasi-hukuk-donem-1",
+      "title": "Ardahan Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "ardahan__milletlerarasi-hukuk-donem-2",
+      "title": "Ardahan Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "ardahan__milletlerarasi-hukuk-yillik",
+      "title": "Ardahan Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "bilecik__milletlerarasi-hukuk-donem-1",
+      "title": "BŞEÜ Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "bilecik__milletlerarasi-hukuk-donem-2",
+      "title": "BŞEÜ Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "bilecik__milletlerarasi-hukuk-yillik",
+      "title": "BŞEÜ Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "bolu__milletlerarasi-hukuk-donem-1",
+      "title": "BAİBÜ Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "bolu__milletlerarasi-hukuk-donem-2",
+      "title": "BAİBÜ Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "bolu__milletlerarasi-hukuk-yillik",
+      "title": "BAİBÜ Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "duzce__milletlerarasi-hukuk-donem-1",
+      "title": "Düzce Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "duzce__milletlerarasi-hukuk-donem-2",
+      "title": "Düzce Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "duzce__milletlerarasi-hukuk-yillik",
+      "title": "Düzce Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "zonguldak__milletlerarasi-hukuk-donem-1",
+      "title": "BEÜN Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "zonguldak__milletlerarasi-hukuk-donem-2",
+      "title": "BEÜN Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "zonguldak__milletlerarasi-hukuk-yillik",
+      "title": "BEÜN Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "karabuk__milletlerarasi-hukuk-donem-1",
+      "title": "KBÜ Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "karabuk__milletlerarasi-hukuk-donem-2",
+      "title": "KBÜ Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "karabuk__milletlerarasi-hukuk-yillik",
+      "title": "KBÜ Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "kastamonu__milletlerarasi-hukuk-donem-1",
+      "title": "KÜ Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "kastamonu__milletlerarasi-hukuk-donem-2",
+      "title": "KÜ Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "kastamonu__milletlerarasi-hukuk-yillik",
+      "title": "KÜ Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "sinop__milletlerarasi-hukuk-donem-1",
+      "title": "Sinop Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "sinop__milletlerarasi-hukuk-donem-2",
+      "title": "Sinop Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "sinop__milletlerarasi-hukuk-yillik",
+      "title": "Sinop Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "corum__milletlerarasi-hukuk-donem-1",
+      "title": "Hitit Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "corum__milletlerarasi-hukuk-donem-2",
+      "title": "Hitit Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "corum__milletlerarasi-hukuk-yillik",
+      "title": "Hitit Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "amasya__milletlerarasi-hukuk-donem-1",
+      "title": "Amasya Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "amasya__milletlerarasi-hukuk-donem-2",
+      "title": "Amasya Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "amasya__milletlerarasi-hukuk-yillik",
+      "title": "Amasya Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "cankiri__milletlerarasi-hukuk-donem-1",
+      "title": "Karatekin Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "cankiri__milletlerarasi-hukuk-donem-2",
+      "title": "Karatekin Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "cankiri__milletlerarasi-hukuk-yillik",
+      "title": "Karatekin Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "kirikkale__milletlerarasi-hukuk-donem-1",
+      "title": "Kırıkkale Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "kirikkale__milletlerarasi-hukuk-donem-2",
+      "title": "Kırıkkale Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "kirikkale__milletlerarasi-hukuk-yillik",
+      "title": "Kırıkkale Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "aksaray__milletlerarasi-hukuk-donem-1",
+      "title": "Aksaray Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "aksaray__milletlerarasi-hukuk-donem-2",
+      "title": "Aksaray Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "aksaray__milletlerarasi-hukuk-yillik",
+      "title": "Aksaray Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "nigde__milletlerarasi-hukuk-donem-1",
+      "title": "ÖHÜ Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "nigde__milletlerarasi-hukuk-donem-2",
+      "title": "ÖHÜ Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "nigde__milletlerarasi-hukuk-yillik",
+      "title": "ÖHÜ Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "konya-teknik__milletlerarasi-hukuk-donem-1",
+      "title": "NEÜ Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "konya-teknik__milletlerarasi-hukuk-donem-2",
+      "title": "NEÜ Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "konya-teknik__milletlerarasi-hukuk-yillik",
+      "title": "NEÜ Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "karaman__milletlerarasi-hukuk-donem-1",
+      "title": "KMÜ Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "karaman__milletlerarasi-hukuk-donem-2",
+      "title": "KMÜ Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "karaman__milletlerarasi-hukuk-yillik",
+      "title": "KMÜ Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "usak__milletlerarasi-hukuk-donem-1",
+      "title": "Uşak Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "usak__milletlerarasi-hukuk-donem-2",
+      "title": "Uşak Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "usak__milletlerarasi-hukuk-yillik",
+      "title": "Uşak Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "manisa__milletlerarasi-hukuk-donem-1",
+      "title": "MCBÜ Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "manisa__milletlerarasi-hukuk-donem-2",
+      "title": "MCBÜ Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "manisa__milletlerarasi-hukuk-yillik",
+      "title": "MCBÜ Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "aydin-adu__milletlerarasi-hukuk-donem-1",
+      "title": "ADÜ Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "aydin-adu__milletlerarasi-hukuk-donem-2",
+      "title": "ADÜ Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "aydin-adu__milletlerarasi-hukuk-yillik",
+      "title": "ADÜ Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "tekirdag__milletlerarasi-hukuk-donem-1",
+      "title": "NKÜ Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "tekirdag__milletlerarasi-hukuk-donem-2",
+      "title": "NKÜ Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "tekirdag__milletlerarasi-hukuk-yillik",
+      "title": "NKÜ Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "kirklareli__milletlerarasi-hukuk-donem-1",
+      "title": "Kırklareli Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "kirklareli__milletlerarasi-hukuk-donem-2",
+      "title": "Kırklareli Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "kirklareli__milletlerarasi-hukuk-yillik",
+      "title": "Kırklareli Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "atilim__milletlerarasi-hukuk-donem-1",
+      "title": "Atılım Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "atilim__milletlerarasi-hukuk-donem-2",
+      "title": "Atılım Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "atilim__milletlerarasi-hukuk-yillik",
+      "title": "Atılım Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "cankaya__milletlerarasi-hukuk-donem-1",
+      "title": "Çankaya Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "cankaya__milletlerarasi-hukuk-donem-2",
+      "title": "Çankaya Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "cankaya__milletlerarasi-hukuk-yillik",
+      "title": "Çankaya Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "ufuk__milletlerarasi-hukuk-donem-1",
+      "title": "Ufuk Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "ufuk__milletlerarasi-hukuk-donem-2",
+      "title": "Ufuk Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "ufuk__milletlerarasi-hukuk-yillik",
+      "title": "Ufuk Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "yasar__milletlerarasi-hukuk-donem-1",
+      "title": "Yaşar Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "yasar__milletlerarasi-hukuk-donem-2",
+      "title": "Yaşar Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "yasar__milletlerarasi-hukuk-yillik",
+      "title": "Yaşar Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "izmir-ekonomi__milletlerarasi-hukuk-donem-1",
+      "title": "İEÜ Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "izmir-ekonomi__milletlerarasi-hukuk-donem-2",
+      "title": "İEÜ Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "izmir-ekonomi__milletlerarasi-hukuk-yillik",
+      "title": "İEÜ Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "tinaztepe__milletlerarasi-hukuk-donem-1",
+      "title": "Tınaztepe Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "tinaztepe__milletlerarasi-hukuk-donem-2",
+      "title": "Tınaztepe Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "tinaztepe__milletlerarasi-hukuk-yillik",
+      "title": "Tınaztepe Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "asbu-vakif__milletlerarasi-hukuk-donem-1",
+      "title": "ABÜ Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "asbu-vakif__milletlerarasi-hukuk-donem-2",
+      "title": "ABÜ Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "asbu-vakif__milletlerarasi-hukuk-yillik",
+      "title": "ABÜ Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "hasan-kalyoncu__milletlerarasi-hukuk-donem-1",
+      "title": "HKÜ Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "hasan-kalyoncu__milletlerarasi-hukuk-donem-2",
+      "title": "HKÜ Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "hasan-kalyoncu__milletlerarasi-hukuk-yillik",
+      "title": "HKÜ Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "sanko__milletlerarasi-hukuk-donem-1",
+      "title": "Sanko Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "sanko__milletlerarasi-hukuk-donem-2",
+      "title": "Sanko Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "sanko__milletlerarasi-hukuk-yillik",
+      "title": "Sanko Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "toros__milletlerarasi-hukuk-donem-1",
+      "title": "Toros Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "toros__milletlerarasi-hukuk-donem-2",
+      "title": "Toros Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "toros__milletlerarasi-hukuk-yillik",
+      "title": "Toros Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "milletlerarasi-hukuk-donem-1",
+      "slug": "cag__milletlerarasi-hukuk-donem-1",
+      "title": "Çağ Milletlerarası Hukuk 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/milletlerarasi-hukuk-donem-1",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "milletlerarasi-hukuk-donem-2",
+      "slug": "cag__milletlerarasi-hukuk-donem-2",
+      "title": "Çağ Milletlerarası Hukuk 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/milletlerarasi-hukuk-donem-2",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "milletlerarasi-hukuk-yillik",
+      "slug": "cag__milletlerarasi-hukuk-yillik",
+      "title": "Çağ Milletlerarası Hukuk Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/milletlerarasi-hukuk-yillik",
+      "variantOf": "milletlerarasi-hukuk",
+      "variantLabel": "Yıllık (Tam paket)"
     }
   ],
   "borclarGenelTripleAt": "2026-07-29T20:05:58.703Z",
@@ -115115,5 +118355,6 @@
   "devletlerOzelTripleAt": "2026-07-29T21:26:09.690Z",
   "hukukaGirisTripleAt": "2026-07-29T21:28:58.325Z",
   "anayasaTripleAt": "2026-07-29T21:32:17.211Z",
-  "romaHukukuTripleAt": "2026-07-29T21:35:13.772Z"
+  "romaHukukuTripleAt": "2026-07-29T21:35:13.772Z",
+  "milletlerarasiHukukTripleAt": "2026-07-29T21:38:10.199Z"
 }
