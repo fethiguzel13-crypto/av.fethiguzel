@@ -3,7 +3,7 @@
   "wave": "all",
   "universityCount": 120,
   "hubCount": 120,
-  "noteCount": 7680,
+  "noteCount": 8040,
   "universities": [
     {
       "slug": "ankara-yildirim-beyazit",
@@ -63246,6 +63246,3246 @@
       "href": "/ders-notlari/cag/sigorta-hukuku-yillik",
       "variantOf": "sigorta-hukuku",
       "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "ankara-yildirim-beyazit__ticari-isletme-donem-1",
+      "title": "AYBÜ Ticari İşletme 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "ankara-yildirim-beyazit__ticari-isletme-donem-2",
+      "title": "AYBÜ Ticari İşletme 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "ankara-yildirim-beyazit__ticari-isletme-yillik",
+      "title": "AYBÜ Ticari İşletme Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "ankara__ticari-isletme-donem-1",
+      "title": "AÜHF Ticari İşletme 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "ankara__ticari-isletme-donem-2",
+      "title": "AÜHF Ticari İşletme 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "ankara__ticari-isletme-yillik",
+      "title": "AÜHF Ticari İşletme Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "istanbul__ticari-isletme-donem-1",
+      "title": "İÜHF Ticari İşletme 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "istanbul__ticari-isletme-donem-2",
+      "title": "İÜHF Ticari İşletme 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "istanbul__ticari-isletme-yillik",
+      "title": "İÜHF Ticari İşletme Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "marmara__ticari-isletme-donem-1",
+      "title": "MÜHF Ticari İşletme 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "marmara__ticari-isletme-donem-2",
+      "title": "MÜHF Ticari İşletme 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "marmara__ticari-isletme-yillik",
+      "title": "MÜHF Ticari İşletme Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "galatasaray__ticari-isletme-donem-1",
+      "title": "GSÜ Ticari İşletme 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "galatasaray__ticari-isletme-donem-2",
+      "title": "GSÜ Ticari İşletme 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "galatasaray__ticari-isletme-yillik",
+      "title": "GSÜ Ticari İşletme Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "dokuz-eylul__ticari-isletme-donem-1",
+      "title": "DEÜ Ticari İşletme 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "dokuz-eylul__ticari-isletme-donem-2",
+      "title": "DEÜ Ticari İşletme 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "dokuz-eylul__ticari-isletme-yillik",
+      "title": "DEÜ Ticari İşletme Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "hacettepe__ticari-isletme-donem-1",
+      "title": "Hacettepe Ticari İşletme 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "hacettepe__ticari-isletme-donem-2",
+      "title": "Hacettepe Ticari İşletme 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "hacettepe__ticari-isletme-yillik",
+      "title": "Hacettepe Ticari İşletme Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "ankara-hacibayram__ticari-isletme-donem-1",
+      "title": "AHBV Ticari İşletme 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "ankara-hacibayram__ticari-isletme-donem-2",
+      "title": "AHBV Ticari İşletme 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "ankara-hacibayram__ticari-isletme-yillik",
+      "title": "AHBV Ticari İşletme Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "bilkent__ticari-isletme-donem-1",
+      "title": "Bilkent Ticari İşletme 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "bilkent__ticari-isletme-donem-2",
+      "title": "Bilkent Ticari İşletme 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "bilkent__ticari-isletme-yillik",
+      "title": "Bilkent Ticari İşletme Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "koc__ticari-isletme-donem-1",
+      "title": "Koç Ticari İşletme 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "koc__ticari-isletme-donem-2",
+      "title": "Koç Ticari İşletme 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "koc__ticari-isletme-yillik",
+      "title": "Koç Ticari İşletme Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "tobb-etu__ticari-isletme-donem-1",
+      "title": "TOBB ETÜ Ticari İşletme 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "tobb-etu__ticari-isletme-donem-2",
+      "title": "TOBB ETÜ Ticari İşletme 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "tobb-etu__ticari-isletme-yillik",
+      "title": "TOBB ETÜ Ticari İşletme Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "bogazici__ticari-isletme-donem-1",
+      "title": "BÜ Ticari İşletme 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "bogazici__ticari-isletme-donem-2",
+      "title": "BÜ Ticari İşletme 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "bogazici__ticari-isletme-yillik",
+      "title": "BÜ Ticari İşletme Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "ege__ticari-isletme-donem-1",
+      "title": "Ege Ticari İşletme 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "ege__ticari-isletme-donem-2",
+      "title": "Ege Ticari İşletme 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "ege__ticari-isletme-yillik",
+      "title": "Ege Ticari İşletme Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "akdeniz__ticari-isletme-donem-1",
+      "title": "Akdeniz Ticari İşletme 1. Dönem (Güz) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "akdeniz__ticari-isletme-donem-2",
+      "title": "Akdeniz Ticari İşletme 2. Dönem (Bahar) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "akdeniz__ticari-isletme-yillik",
+      "title": "Akdeniz Ticari İşletme Yıllık (Tam paket) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "selcuk__ticari-isletme-donem-1",
+      "title": "Selçuk Ticari İşletme 1. Dönem (Güz) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "selcuk__ticari-isletme-donem-2",
+      "title": "Selçuk Ticari İşletme 2. Dönem (Bahar) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "selcuk__ticari-isletme-yillik",
+      "title": "Selçuk Ticari İşletme Yıllık (Tam paket) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "erciyes__ticari-isletme-donem-1",
+      "title": "Erciyes Ticari İşletme 1. Dönem (Güz) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "erciyes__ticari-isletme-donem-2",
+      "title": "Erciyes Ticari İşletme 2. Dönem (Bahar) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "erciyes__ticari-isletme-yillik",
+      "title": "Erciyes Ticari İşletme Yıllık (Tam paket) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "uludag__ticari-isletme-donem-1",
+      "title": "Uludağ Ticari İşletme 1. Dönem (Güz) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "uludag__ticari-isletme-donem-2",
+      "title": "Uludağ Ticari İşletme 2. Dönem (Bahar) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "uludag__ticari-isletme-yillik",
+      "title": "Uludağ Ticari İşletme Yıllık (Tam paket) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "cukurova__ticari-isletme-donem-1",
+      "title": "Çukurova Ticari İşletme 1. Dönem (Güz) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "cukurova__ticari-isletme-donem-2",
+      "title": "Çukurova Ticari İşletme 2. Dönem (Bahar) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "cukurova__ticari-isletme-yillik",
+      "title": "Çukurova Ticari İşletme Yıllık (Tam paket) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "anadolu__ticari-isletme-donem-1",
+      "title": "Anadolu Ticari İşletme 1. Dönem (Güz) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "anadolu__ticari-isletme-donem-2",
+      "title": "Anadolu Ticari İşletme 2. Dönem (Bahar) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "anadolu__ticari-isletme-yillik",
+      "title": "Anadolu Ticari İşletme Yıllık (Tam paket) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "gazi-ankara__ticari-isletme-donem-1",
+      "title": "ASBÜ Ticari İşletme 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "gazi-ankara__ticari-isletme-donem-2",
+      "title": "ASBÜ Ticari İşletme 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "gazi-ankara__ticari-isletme-yillik",
+      "title": "ASBÜ Ticari İşletme Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "yildiz-teknik__ticari-isletme-donem-1",
+      "title": "YTÜ Ticari İşletme 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "yildiz-teknik__ticari-isletme-donem-2",
+      "title": "YTÜ Ticari İşletme 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "yildiz-teknik__ticari-isletme-yillik",
+      "title": "YTÜ Ticari İşletme Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "istanbul-medeniyet__ticari-isletme-donem-1",
+      "title": "Medeniyet Ticari İşletme 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "istanbul-medeniyet__ticari-isletme-donem-2",
+      "title": "Medeniyet Ticari İşletme 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "istanbul-medeniyet__ticari-isletme-yillik",
+      "title": "Medeniyet Ticari İşletme Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "bahcesehir__ticari-isletme-donem-1",
+      "title": "BAU Ticari İşletme 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "bahcesehir__ticari-isletme-donem-2",
+      "title": "BAU Ticari İşletme 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "bahcesehir__ticari-isletme-yillik",
+      "title": "BAU Ticari İşletme Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "yeditepe__ticari-isletme-donem-1",
+      "title": "Yeditepe Ticari İşletme 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "yeditepe__ticari-isletme-donem-2",
+      "title": "Yeditepe Ticari İşletme 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "yeditepe__ticari-isletme-yillik",
+      "title": "Yeditepe Ticari İşletme Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "ozyegin__ticari-isletme-donem-1",
+      "title": "Özyeğin Ticari İşletme 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "ozyegin__ticari-isletme-donem-2",
+      "title": "Özyeğin Ticari İşletme 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "ozyegin__ticari-isletme-yillik",
+      "title": "Özyeğin Ticari İşletme Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "kadir-has__ticari-isletme-donem-1",
+      "title": "KHAS Ticari İşletme 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "kadir-has__ticari-isletme-donem-2",
+      "title": "KHAS Ticari İşletme 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "kadir-has__ticari-isletme-yillik",
+      "title": "KHAS Ticari İşletme Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "istanbul-bilgi__ticari-isletme-donem-1",
+      "title": "Bilgi Ticari İşletme 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "istanbul-bilgi__ticari-isletme-donem-2",
+      "title": "Bilgi Ticari İşletme 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "istanbul-bilgi__ticari-isletme-yillik",
+      "title": "Bilgi Ticari İşletme Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "mehmet-akif__ticari-isletme-donem-1",
+      "title": "Medipol Ticari İşletme 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "mehmet-akif__ticari-isletme-donem-2",
+      "title": "Medipol Ticari İşletme 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "mehmet-akif__ticari-isletme-yillik",
+      "title": "Medipol Ticari İşletme Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "altinbas__ticari-isletme-donem-1",
+      "title": "Altınbaş Ticari İşletme 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "altinbas__ticari-isletme-donem-2",
+      "title": "Altınbaş Ticari İşletme 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "altinbas__ticari-isletme-yillik",
+      "title": "Altınbaş Ticari İşletme Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "maltepe__ticari-isletme-donem-1",
+      "title": "Maltepe Ticari İşletme 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "maltepe__ticari-isletme-donem-2",
+      "title": "Maltepe Ticari İşletme 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "maltepe__ticari-isletme-yillik",
+      "title": "Maltepe Ticari İşletme Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "dogus__ticari-isletme-donem-1",
+      "title": "Doğuş Ticari İşletme 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "dogus__ticari-isletme-donem-2",
+      "title": "Doğuş Ticari İşletme 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "dogus__ticari-isletme-yillik",
+      "title": "Doğuş Ticari İşletme Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "isik__ticari-isletme-donem-1",
+      "title": "Işık Ticari İşletme 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "isik__ticari-isletme-donem-2",
+      "title": "Işık Ticari İşletme 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "isik__ticari-isletme-yillik",
+      "title": "Işık Ticari İşletme Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "okan__ticari-isletme-donem-1",
+      "title": "Okan Ticari İşletme 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "okan__ticari-isletme-donem-2",
+      "title": "Okan Ticari İşletme 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "okan__ticari-isletme-yillik",
+      "title": "Okan Ticari İşletme Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "kultur__ticari-isletme-donem-1",
+      "title": "İKÜ Ticari İşletme 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "kultur__ticari-isletme-donem-2",
+      "title": "İKÜ Ticari İşletme 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "kultur__ticari-isletme-yillik",
+      "title": "İKÜ Ticari İşletme Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "aydin__ticari-isletme-donem-1",
+      "title": "İAÜ Ticari İşletme 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "aydin__ticari-isletme-donem-2",
+      "title": "İAÜ Ticari İşletme 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "aydin__ticari-isletme-yillik",
+      "title": "İAÜ Ticari İşletme Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "gelisim__ticari-isletme-donem-1",
+      "title": "Gelişim Ticari İşletme 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "gelisim__ticari-isletme-donem-2",
+      "title": "Gelişim Ticari İşletme 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "gelisim__ticari-isletme-yillik",
+      "title": "Gelişim Ticari İşletme Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "topkapi__ticari-isletme-donem-1",
+      "title": "Topkapı Ticari İşletme 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "topkapi__ticari-isletme-donem-2",
+      "title": "Topkapı Ticari İşletme 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "topkapi__ticari-isletme-yillik",
+      "title": "Topkapı Ticari İşletme Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "nisantasi__ticari-isletme-donem-1",
+      "title": "Nişantaşı Ticari İşletme 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "nisantasi__ticari-isletme-donem-2",
+      "title": "Nişantaşı Ticari İşletme 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "nisantasi__ticari-isletme-yillik",
+      "title": "Nişantaşı Ticari İşletme Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "beykent__ticari-isletme-donem-1",
+      "title": "Beykent Ticari İşletme 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "beykent__ticari-isletme-donem-2",
+      "title": "Beykent Ticari İşletme 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "beykent__ticari-isletme-yillik",
+      "title": "Beykent Ticari İşletme Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "halic__ticari-isletme-donem-1",
+      "title": "Haliç Ticari İşletme 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "halic__ticari-isletme-donem-2",
+      "title": "Haliç Ticari İşletme 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "halic__ticari-isletme-yillik",
+      "title": "Haliç Ticari İşletme Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "fatih-sultan__ticari-isletme-donem-1",
+      "title": "FSMVÜ Ticari İşletme 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "fatih-sultan__ticari-isletme-donem-2",
+      "title": "FSMVÜ Ticari İşletme 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "fatih-sultan__ticari-isletme-yillik",
+      "title": "FSMVÜ Ticari İşletme Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "karadeniz-teknik__ticari-isletme-donem-1",
+      "title": "KTÜ Ticari İşletme 1. Dönem (Güz) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "karadeniz-teknik__ticari-isletme-donem-2",
+      "title": "KTÜ Ticari İşletme 2. Dönem (Bahar) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "karadeniz-teknik__ticari-isletme-yillik",
+      "title": "KTÜ Ticari İşletme Yıllık (Tam paket) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "ataturk__ticari-isletme-donem-1",
+      "title": "Atatürk Ticari İşletme 1. Dönem (Güz) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "ataturk__ticari-isletme-donem-2",
+      "title": "Atatürk Ticari İşletme 2. Dönem (Bahar) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "ataturk__ticari-isletme-yillik",
+      "title": "Atatürk Ticari İşletme Yıllık (Tam paket) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "inonu__ticari-isletme-donem-1",
+      "title": "İnönü Ticari İşletme 1. Dönem (Güz) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "inonu__ticari-isletme-donem-2",
+      "title": "İnönü Ticari İşletme 2. Dönem (Bahar) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "inonu__ticari-isletme-yillik",
+      "title": "İnönü Ticari İşletme Yıllık (Tam paket) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "dicle__ticari-isletme-donem-1",
+      "title": "Dicle Ticari İşletme 1. Dönem (Güz) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "dicle__ticari-isletme-donem-2",
+      "title": "Dicle Ticari İşletme 2. Dönem (Bahar) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "dicle__ticari-isletme-yillik",
+      "title": "Dicle Ticari İşletme Yıllık (Tam paket) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "firat__ticari-isletme-donem-1",
+      "title": "Fırat Ticari İşletme 1. Dönem (Güz) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "firat__ticari-isletme-donem-2",
+      "title": "Fırat Ticari İşletme 2. Dönem (Bahar) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "firat__ticari-isletme-yillik",
+      "title": "Fırat Ticari İşletme Yıllık (Tam paket) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "gaziantep__ticari-isletme-donem-1",
+      "title": "GAÜN Ticari İşletme 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "gaziantep__ticari-isletme-donem-2",
+      "title": "GAÜN Ticari İşletme 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "gaziantep__ticari-isletme-yillik",
+      "title": "GAÜN Ticari İşletme Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "suleyman-demirel__ticari-isletme-donem-1",
+      "title": "SDÜ Ticari İşletme 1. Dönem (Güz) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "suleyman-demirel__ticari-isletme-donem-2",
+      "title": "SDÜ Ticari İşletme 2. Dönem (Bahar) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "suleyman-demirel__ticari-isletme-yillik",
+      "title": "SDÜ Ticari İşletme Yıllık (Tam paket) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "pamukkale__ticari-isletme-donem-1",
+      "title": "PAÜ Ticari İşletme 1. Dönem (Güz) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "pamukkale__ticari-isletme-donem-2",
+      "title": "PAÜ Ticari İşletme 2. Dönem (Bahar) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "pamukkale__ticari-isletme-yillik",
+      "title": "PAÜ Ticari İşletme Yıllık (Tam paket) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "mugla__ticari-isletme-donem-1",
+      "title": "MSKU Ticari İşletme 1. Dönem (Güz) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "mugla__ticari-isletme-donem-2",
+      "title": "MSKU Ticari İşletme 2. Dönem (Bahar) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "mugla__ticari-isletme-yillik",
+      "title": "MSKU Ticari İşletme Yıllık (Tam paket) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "sakarya__ticari-isletme-donem-1",
+      "title": "SAÜ Ticari İşletme 1. Dönem (Güz) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "sakarya__ticari-isletme-donem-2",
+      "title": "SAÜ Ticari İşletme 2. Dönem (Bahar) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "sakarya__ticari-isletme-yillik",
+      "title": "SAÜ Ticari İşletme Yıllık (Tam paket) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "kocaeli__ticari-isletme-donem-1",
+      "title": "KOÜ Ticari İşletme 1. Dönem (Güz) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "kocaeli__ticari-isletme-donem-2",
+      "title": "KOÜ Ticari İşletme 2. Dönem (Bahar) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "kocaeli__ticari-isletme-yillik",
+      "title": "KOÜ Ticari İşletme Yıllık (Tam paket) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "trakya__ticari-isletme-donem-1",
+      "title": "Trakya Ticari İşletme 1. Dönem (Güz) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "trakya__ticari-isletme-donem-2",
+      "title": "Trakya Ticari İşletme 2. Dönem (Bahar) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "trakya__ticari-isletme-yillik",
+      "title": "Trakya Ticari İşletme Yıllık (Tam paket) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "canakkale__ticari-isletme-donem-1",
+      "title": "ÇOMÜ Ticari İşletme 1. Dönem (Güz) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "canakkale__ticari-isletme-donem-2",
+      "title": "ÇOMÜ Ticari İşletme 2. Dönem (Bahar) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "canakkale__ticari-isletme-yillik",
+      "title": "ÇOMÜ Ticari İşletme Yıllık (Tam paket) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "balikesir__ticari-isletme-donem-1",
+      "title": "BAÜN Ticari İşletme 1. Dönem (Güz) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "balikesir__ticari-isletme-donem-2",
+      "title": "BAÜN Ticari İşletme 2. Dönem (Bahar) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "balikesir__ticari-isletme-yillik",
+      "title": "BAÜN Ticari İşletme Yıllık (Tam paket) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "afyon__ticari-isletme-donem-1",
+      "title": "AKÜ Ticari İşletme 1. Dönem (Güz) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "afyon__ticari-isletme-donem-2",
+      "title": "AKÜ Ticari İşletme 2. Dönem (Bahar) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "afyon__ticari-isletme-yillik",
+      "title": "AKÜ Ticari İşletme Yıllık (Tam paket) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "dumlupinar__ticari-isletme-donem-1",
+      "title": "DPÜ Ticari İşletme 1. Dönem (Güz) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "dumlupinar__ticari-isletme-donem-2",
+      "title": "DPÜ Ticari İşletme 2. Dönem (Bahar) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "dumlupinar__ticari-isletme-yillik",
+      "title": "DPÜ Ticari İşletme Yıllık (Tam paket) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "eskisehir-osmangazi__ticari-isletme-donem-1",
+      "title": "ESOGÜ Ticari İşletme 1. Dönem (Güz) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "eskisehir-osmangazi__ticari-isletme-donem-2",
+      "title": "ESOGÜ Ticari İşletme 2. Dönem (Bahar) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "eskisehir-osmangazi__ticari-isletme-yillik",
+      "title": "ESOGÜ Ticari İşletme Yıllık (Tam paket) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "sivas-cumhuriyet__ticari-isletme-donem-1",
+      "title": "SCÜ Ticari İşletme 1. Dönem (Güz) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "sivas-cumhuriyet__ticari-isletme-donem-2",
+      "title": "SCÜ Ticari İşletme 2. Dönem (Bahar) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "sivas-cumhuriyet__ticari-isletme-yillik",
+      "title": "SCÜ Ticari İşletme Yıllık (Tam paket) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "tokat__ticari-isletme-donem-1",
+      "title": "TOGÜ Ticari İşletme 1. Dönem (Güz) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "tokat__ticari-isletme-donem-2",
+      "title": "TOGÜ Ticari İşletme 2. Dönem (Bahar) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "tokat__ticari-isletme-yillik",
+      "title": "TOGÜ Ticari İşletme Yıllık (Tam paket) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "yozgat__ticari-isletme-donem-1",
+      "title": "Bozok Ticari İşletme 1. Dönem (Güz) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "yozgat__ticari-isletme-donem-2",
+      "title": "Bozok Ticari İşletme 2. Dönem (Bahar) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "yozgat__ticari-isletme-yillik",
+      "title": "Bozok Ticari İşletme Yıllık (Tam paket) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "kirsehir__ticari-isletme-donem-1",
+      "title": "AHİEVRAN Ticari İşletme 1. Dönem (Güz) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "kirsehir__ticari-isletme-donem-2",
+      "title": "AHİEVRAN Ticari İşletme 2. Dönem (Bahar) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "kirsehir__ticari-isletme-yillik",
+      "title": "AHİEVRAN Ticari İşletme Yıllık (Tam paket) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "nevsehir__ticari-isletme-donem-1",
+      "title": "NEVÜ Ticari İşletme 1. Dönem (Güz) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "nevsehir__ticari-isletme-donem-2",
+      "title": "NEVÜ Ticari İşletme 2. Dönem (Bahar) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "nevsehir__ticari-isletme-yillik",
+      "title": "NEVÜ Ticari İşletme Yıllık (Tam paket) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "mersin__ticari-isletme-donem-1",
+      "title": "MEÜ Ticari İşletme 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "mersin__ticari-isletme-donem-2",
+      "title": "MEÜ Ticari İşletme 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "mersin__ticari-isletme-yillik",
+      "title": "MEÜ Ticari İşletme Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "hatay__ticari-isletme-donem-1",
+      "title": "MKÜ Ticari İşletme 1. Dönem (Güz) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "hatay__ticari-isletme-donem-2",
+      "title": "MKÜ Ticari İşletme 2. Dönem (Bahar) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "hatay__ticari-isletme-yillik",
+      "title": "MKÜ Ticari İşletme Yıllık (Tam paket) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "kahramanmaras__ticari-isletme-donem-1",
+      "title": "KSÜ Ticari İşletme 1. Dönem (Güz) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "kahramanmaras__ticari-isletme-donem-2",
+      "title": "KSÜ Ticari İşletme 2. Dönem (Bahar) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "kahramanmaras__ticari-isletme-yillik",
+      "title": "KSÜ Ticari İşletme Yıllık (Tam paket) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "osmaniye__ticari-isletme-donem-1",
+      "title": "OKÜ Ticari İşletme 1. Dönem (Güz) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "osmaniye__ticari-isletme-donem-2",
+      "title": "OKÜ Ticari İşletme 2. Dönem (Bahar) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "osmaniye__ticari-isletme-yillik",
+      "title": "OKÜ Ticari İşletme Yıllık (Tam paket) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "samsun__ticari-isletme-donem-1",
+      "title": "OMÜ Ticari İşletme 1. Dönem (Güz) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "samsun__ticari-isletme-donem-2",
+      "title": "OMÜ Ticari İşletme 2. Dönem (Bahar) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "samsun__ticari-isletme-yillik",
+      "title": "OMÜ Ticari İşletme Yıllık (Tam paket) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "ordu__ticari-isletme-donem-1",
+      "title": "ODÜ Ticari İşletme 1. Dönem (Güz) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "ordu__ticari-isletme-donem-2",
+      "title": "ODÜ Ticari İşletme 2. Dönem (Bahar) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "ordu__ticari-isletme-yillik",
+      "title": "ODÜ Ticari İşletme Yıllık (Tam paket) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "giresun__ticari-isletme-donem-1",
+      "title": "GÜ Ticari İşletme 1. Dönem (Güz) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "giresun__ticari-isletme-donem-2",
+      "title": "GÜ Ticari İşletme 2. Dönem (Bahar) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "giresun__ticari-isletme-yillik",
+      "title": "GÜ Ticari İşletme Yıllık (Tam paket) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "rize__ticari-isletme-donem-1",
+      "title": "RTEÜ Ticari İşletme 1. Dönem (Güz) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "rize__ticari-isletme-donem-2",
+      "title": "RTEÜ Ticari İşletme 2. Dönem (Bahar) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "rize__ticari-isletme-yillik",
+      "title": "RTEÜ Ticari İşletme Yıllık (Tam paket) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "artvin__ticari-isletme-donem-1",
+      "title": "AÇÜ Ticari İşletme 1. Dönem (Güz) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "artvin__ticari-isletme-donem-2",
+      "title": "AÇÜ Ticari İşletme 2. Dönem (Bahar) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "artvin__ticari-isletme-yillik",
+      "title": "AÇÜ Ticari İşletme Yıllık (Tam paket) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "van-yyu__ticari-isletme-donem-1",
+      "title": "YYÜ Ticari İşletme 1. Dönem (Güz) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "van-yyu__ticari-isletme-donem-2",
+      "title": "YYÜ Ticari İşletme 2. Dönem (Bahar) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "van-yyu__ticari-isletme-yillik",
+      "title": "YYÜ Ticari İşletme Yıllık (Tam paket) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "agri__ticari-isletme-donem-1",
+      "title": "AİÇÜ Ticari İşletme 1. Dönem (Güz) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "agri__ticari-isletme-donem-2",
+      "title": "AİÇÜ Ticari İşletme 2. Dönem (Bahar) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "agri__ticari-isletme-yillik",
+      "title": "AİÇÜ Ticari İşletme Yıllık (Tam paket) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "kars__ticari-isletme-donem-1",
+      "title": "Kafkas Ticari İşletme 1. Dönem (Güz) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "kars__ticari-isletme-donem-2",
+      "title": "Kafkas Ticari İşletme 2. Dönem (Bahar) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "kars__ticari-isletme-yillik",
+      "title": "Kafkas Ticari İşletme Yıllık (Tam paket) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "erzincan__ticari-isletme-donem-1",
+      "title": "EBYÜ Ticari İşletme 1. Dönem (Güz) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "erzincan__ticari-isletme-donem-2",
+      "title": "EBYÜ Ticari İşletme 2. Dönem (Bahar) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "erzincan__ticari-isletme-yillik",
+      "title": "EBYÜ Ticari İşletme Yıllık (Tam paket) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "bayburt__ticari-isletme-donem-1",
+      "title": "Bayburt Ticari İşletme 1. Dönem (Güz) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "bayburt__ticari-isletme-donem-2",
+      "title": "Bayburt Ticari İşletme 2. Dönem (Bahar) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "bayburt__ticari-isletme-yillik",
+      "title": "Bayburt Ticari İşletme Yıllık (Tam paket) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "gumushane__ticari-isletme-donem-1",
+      "title": "Gümüşhane Ticari İşletme 1. Dönem (Güz) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "gumushane__ticari-isletme-donem-2",
+      "title": "Gümüşhane Ticari İşletme 2. Dönem (Bahar) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "gumushane__ticari-isletme-yillik",
+      "title": "Gümüşhane Ticari İşletme Yıllık (Tam paket) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "bingol__ticari-isletme-donem-1",
+      "title": "Bingöl Ticari İşletme 1. Dönem (Güz) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "bingol__ticari-isletme-donem-2",
+      "title": "Bingöl Ticari İşletme 2. Dönem (Bahar) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "bingol__ticari-isletme-yillik",
+      "title": "Bingöl Ticari İşletme Yıllık (Tam paket) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "mus__ticari-isletme-donem-1",
+      "title": "Muş Ticari İşletme 1. Dönem (Güz) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "mus__ticari-isletme-donem-2",
+      "title": "Muş Ticari İşletme 2. Dönem (Bahar) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "mus__ticari-isletme-yillik",
+      "title": "Muş Ticari İşletme Yıllık (Tam paket) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "hakkari__ticari-isletme-donem-1",
+      "title": "Hakkâri Ticari İşletme 1. Dönem (Güz) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "hakkari__ticari-isletme-donem-2",
+      "title": "Hakkâri Ticari İşletme 2. Dönem (Bahar) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "hakkari__ticari-isletme-yillik",
+      "title": "Hakkâri Ticari İşletme Yıllık (Tam paket) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "sirnak__ticari-isletme-donem-1",
+      "title": "Şırnak Ticari İşletme 1. Dönem (Güz) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "sirnak__ticari-isletme-donem-2",
+      "title": "Şırnak Ticari İşletme 2. Dönem (Bahar) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "sirnak__ticari-isletme-yillik",
+      "title": "Şırnak Ticari İşletme Yıllık (Tam paket) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "mardin__ticari-isletme-donem-1",
+      "title": "Artuklu Ticari İşletme 1. Dönem (Güz) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "mardin__ticari-isletme-donem-2",
+      "title": "Artuklu Ticari İşletme 2. Dönem (Bahar) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "mardin__ticari-isletme-yillik",
+      "title": "Artuklu Ticari İşletme Yıllık (Tam paket) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "batman__ticari-isletme-donem-1",
+      "title": "Batman Ticari İşletme 1. Dönem (Güz) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "batman__ticari-isletme-donem-2",
+      "title": "Batman Ticari İşletme 2. Dönem (Bahar) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "batman__ticari-isletme-yillik",
+      "title": "Batman Ticari İşletme Yıllık (Tam paket) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "siirt__ticari-isletme-donem-1",
+      "title": "Siirt Ticari İşletme 1. Dönem (Güz) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "siirt__ticari-isletme-donem-2",
+      "title": "Siirt Ticari İşletme 2. Dönem (Bahar) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "siirt__ticari-isletme-yillik",
+      "title": "Siirt Ticari İşletme Yıllık (Tam paket) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "adiyaman__ticari-isletme-donem-1",
+      "title": "Adıyaman Ticari İşletme 1. Dönem (Güz) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "adiyaman__ticari-isletme-donem-2",
+      "title": "Adıyaman Ticari İşletme 2. Dönem (Bahar) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "adiyaman__ticari-isletme-yillik",
+      "title": "Adıyaman Ticari İşletme Yıllık (Tam paket) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "kilis__ticari-isletme-donem-1",
+      "title": "Kilis Ticari İşletme 1. Dönem (Güz) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "kilis__ticari-isletme-donem-2",
+      "title": "Kilis Ticari İşletme 2. Dönem (Bahar) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "kilis__ticari-isletme-yillik",
+      "title": "Kilis Ticari İşletme Yıllık (Tam paket) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "igdir__ticari-isletme-donem-1",
+      "title": "Iğdır Ticari İşletme 1. Dönem (Güz) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "igdir__ticari-isletme-donem-2",
+      "title": "Iğdır Ticari İşletme 2. Dönem (Bahar) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "igdir__ticari-isletme-yillik",
+      "title": "Iğdır Ticari İşletme Yıllık (Tam paket) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "ardahan__ticari-isletme-donem-1",
+      "title": "Ardahan Ticari İşletme 1. Dönem (Güz) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "ardahan__ticari-isletme-donem-2",
+      "title": "Ardahan Ticari İşletme 2. Dönem (Bahar) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "ardahan__ticari-isletme-yillik",
+      "title": "Ardahan Ticari İşletme Yıllık (Tam paket) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "bilecik__ticari-isletme-donem-1",
+      "title": "BŞEÜ Ticari İşletme 1. Dönem (Güz) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "bilecik__ticari-isletme-donem-2",
+      "title": "BŞEÜ Ticari İşletme 2. Dönem (Bahar) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "bilecik__ticari-isletme-yillik",
+      "title": "BŞEÜ Ticari İşletme Yıllık (Tam paket) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "bolu__ticari-isletme-donem-1",
+      "title": "BAİBÜ Ticari İşletme 1. Dönem (Güz) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "bolu__ticari-isletme-donem-2",
+      "title": "BAİBÜ Ticari İşletme 2. Dönem (Bahar) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "bolu__ticari-isletme-yillik",
+      "title": "BAİBÜ Ticari İşletme Yıllık (Tam paket) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "duzce__ticari-isletme-donem-1",
+      "title": "Düzce Ticari İşletme 1. Dönem (Güz) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "duzce__ticari-isletme-donem-2",
+      "title": "Düzce Ticari İşletme 2. Dönem (Bahar) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "duzce__ticari-isletme-yillik",
+      "title": "Düzce Ticari İşletme Yıllık (Tam paket) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "zonguldak__ticari-isletme-donem-1",
+      "title": "BEÜN Ticari İşletme 1. Dönem (Güz) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "zonguldak__ticari-isletme-donem-2",
+      "title": "BEÜN Ticari İşletme 2. Dönem (Bahar) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "zonguldak__ticari-isletme-yillik",
+      "title": "BEÜN Ticari İşletme Yıllık (Tam paket) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "karabuk__ticari-isletme-donem-1",
+      "title": "KBÜ Ticari İşletme 1. Dönem (Güz) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "karabuk__ticari-isletme-donem-2",
+      "title": "KBÜ Ticari İşletme 2. Dönem (Bahar) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "karabuk__ticari-isletme-yillik",
+      "title": "KBÜ Ticari İşletme Yıllık (Tam paket) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "kastamonu__ticari-isletme-donem-1",
+      "title": "KÜ Ticari İşletme 1. Dönem (Güz) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "kastamonu__ticari-isletme-donem-2",
+      "title": "KÜ Ticari İşletme 2. Dönem (Bahar) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "kastamonu__ticari-isletme-yillik",
+      "title": "KÜ Ticari İşletme Yıllık (Tam paket) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "sinop__ticari-isletme-donem-1",
+      "title": "Sinop Ticari İşletme 1. Dönem (Güz) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "sinop__ticari-isletme-donem-2",
+      "title": "Sinop Ticari İşletme 2. Dönem (Bahar) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "sinop__ticari-isletme-yillik",
+      "title": "Sinop Ticari İşletme Yıllık (Tam paket) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "corum__ticari-isletme-donem-1",
+      "title": "Hitit Ticari İşletme 1. Dönem (Güz) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "corum__ticari-isletme-donem-2",
+      "title": "Hitit Ticari İşletme 2. Dönem (Bahar) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "corum__ticari-isletme-yillik",
+      "title": "Hitit Ticari İşletme Yıllık (Tam paket) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "amasya__ticari-isletme-donem-1",
+      "title": "Amasya Ticari İşletme 1. Dönem (Güz) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "amasya__ticari-isletme-donem-2",
+      "title": "Amasya Ticari İşletme 2. Dönem (Bahar) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "amasya__ticari-isletme-yillik",
+      "title": "Amasya Ticari İşletme Yıllık (Tam paket) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "cankiri__ticari-isletme-donem-1",
+      "title": "Karatekin Ticari İşletme 1. Dönem (Güz) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "cankiri__ticari-isletme-donem-2",
+      "title": "Karatekin Ticari İşletme 2. Dönem (Bahar) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "cankiri__ticari-isletme-yillik",
+      "title": "Karatekin Ticari İşletme Yıllık (Tam paket) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "kirikkale__ticari-isletme-donem-1",
+      "title": "Kırıkkale Ticari İşletme 1. Dönem (Güz) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "kirikkale__ticari-isletme-donem-2",
+      "title": "Kırıkkale Ticari İşletme 2. Dönem (Bahar) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "kirikkale__ticari-isletme-yillik",
+      "title": "Kırıkkale Ticari İşletme Yıllık (Tam paket) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "aksaray__ticari-isletme-donem-1",
+      "title": "Aksaray Ticari İşletme 1. Dönem (Güz) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "aksaray__ticari-isletme-donem-2",
+      "title": "Aksaray Ticari İşletme 2. Dönem (Bahar) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "aksaray__ticari-isletme-yillik",
+      "title": "Aksaray Ticari İşletme Yıllık (Tam paket) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "nigde__ticari-isletme-donem-1",
+      "title": "ÖHÜ Ticari İşletme 1. Dönem (Güz) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "nigde__ticari-isletme-donem-2",
+      "title": "ÖHÜ Ticari İşletme 2. Dönem (Bahar) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "nigde__ticari-isletme-yillik",
+      "title": "ÖHÜ Ticari İşletme Yıllık (Tam paket) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "konya-teknik__ticari-isletme-donem-1",
+      "title": "NEÜ Ticari İşletme 1. Dönem (Güz) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "konya-teknik__ticari-isletme-donem-2",
+      "title": "NEÜ Ticari İşletme 2. Dönem (Bahar) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "konya-teknik__ticari-isletme-yillik",
+      "title": "NEÜ Ticari İşletme Yıllık (Tam paket) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "karaman__ticari-isletme-donem-1",
+      "title": "KMÜ Ticari İşletme 1. Dönem (Güz) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "karaman__ticari-isletme-donem-2",
+      "title": "KMÜ Ticari İşletme 2. Dönem (Bahar) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "karaman__ticari-isletme-yillik",
+      "title": "KMÜ Ticari İşletme Yıllık (Tam paket) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "usak__ticari-isletme-donem-1",
+      "title": "Uşak Ticari İşletme 1. Dönem (Güz) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "usak__ticari-isletme-donem-2",
+      "title": "Uşak Ticari İşletme 2. Dönem (Bahar) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "usak__ticari-isletme-yillik",
+      "title": "Uşak Ticari İşletme Yıllık (Tam paket) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "manisa__ticari-isletme-donem-1",
+      "title": "MCBÜ Ticari İşletme 1. Dönem (Güz) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "manisa__ticari-isletme-donem-2",
+      "title": "MCBÜ Ticari İşletme 2. Dönem (Bahar) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "manisa__ticari-isletme-yillik",
+      "title": "MCBÜ Ticari İşletme Yıllık (Tam paket) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "aydin-adu__ticari-isletme-donem-1",
+      "title": "ADÜ Ticari İşletme 1. Dönem (Güz) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "aydin-adu__ticari-isletme-donem-2",
+      "title": "ADÜ Ticari İşletme 2. Dönem (Bahar) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "aydin-adu__ticari-isletme-yillik",
+      "title": "ADÜ Ticari İşletme Yıllık (Tam paket) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "tekirdag__ticari-isletme-donem-1",
+      "title": "NKÜ Ticari İşletme 1. Dönem (Güz) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "tekirdag__ticari-isletme-donem-2",
+      "title": "NKÜ Ticari İşletme 2. Dönem (Bahar) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "tekirdag__ticari-isletme-yillik",
+      "title": "NKÜ Ticari İşletme Yıllık (Tam paket) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "kirklareli__ticari-isletme-donem-1",
+      "title": "Kırklareli Ticari İşletme 1. Dönem (Güz) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "kirklareli__ticari-isletme-donem-2",
+      "title": "Kırklareli Ticari İşletme 2. Dönem (Bahar) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "kirklareli__ticari-isletme-yillik",
+      "title": "Kırklareli Ticari İşletme Yıllık (Tam paket) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "atilim__ticari-isletme-donem-1",
+      "title": "Atılım Ticari İşletme 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "atilim__ticari-isletme-donem-2",
+      "title": "Atılım Ticari İşletme 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "atilim__ticari-isletme-yillik",
+      "title": "Atılım Ticari İşletme Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "cankaya__ticari-isletme-donem-1",
+      "title": "Çankaya Ticari İşletme 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "cankaya__ticari-isletme-donem-2",
+      "title": "Çankaya Ticari İşletme 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "cankaya__ticari-isletme-yillik",
+      "title": "Çankaya Ticari İşletme Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "ufuk__ticari-isletme-donem-1",
+      "title": "Ufuk Ticari İşletme 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "ufuk__ticari-isletme-donem-2",
+      "title": "Ufuk Ticari İşletme 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "ufuk__ticari-isletme-yillik",
+      "title": "Ufuk Ticari İşletme Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "yasar__ticari-isletme-donem-1",
+      "title": "Yaşar Ticari İşletme 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "yasar__ticari-isletme-donem-2",
+      "title": "Yaşar Ticari İşletme 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "yasar__ticari-isletme-yillik",
+      "title": "Yaşar Ticari İşletme Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "izmir-ekonomi__ticari-isletme-donem-1",
+      "title": "İEÜ Ticari İşletme 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "izmir-ekonomi__ticari-isletme-donem-2",
+      "title": "İEÜ Ticari İşletme 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "izmir-ekonomi__ticari-isletme-yillik",
+      "title": "İEÜ Ticari İşletme Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "tinaztepe__ticari-isletme-donem-1",
+      "title": "Tınaztepe Ticari İşletme 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "tinaztepe__ticari-isletme-donem-2",
+      "title": "Tınaztepe Ticari İşletme 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "tinaztepe__ticari-isletme-yillik",
+      "title": "Tınaztepe Ticari İşletme Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "asbu-vakif__ticari-isletme-donem-1",
+      "title": "ABÜ Ticari İşletme 1. Dönem (Güz) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "asbu-vakif__ticari-isletme-donem-2",
+      "title": "ABÜ Ticari İşletme 2. Dönem (Bahar) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "asbu-vakif__ticari-isletme-yillik",
+      "title": "ABÜ Ticari İşletme Yıllık (Tam paket) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "hasan-kalyoncu__ticari-isletme-donem-1",
+      "title": "HKÜ Ticari İşletme 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "hasan-kalyoncu__ticari-isletme-donem-2",
+      "title": "HKÜ Ticari İşletme 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "hasan-kalyoncu__ticari-isletme-yillik",
+      "title": "HKÜ Ticari İşletme Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "sanko__ticari-isletme-donem-1",
+      "title": "Sanko Ticari İşletme 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "sanko__ticari-isletme-donem-2",
+      "title": "Sanko Ticari İşletme 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "sanko__ticari-isletme-yillik",
+      "title": "Sanko Ticari İşletme Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "toros__ticari-isletme-donem-1",
+      "title": "Toros Ticari İşletme 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "toros__ticari-isletme-donem-2",
+      "title": "Toros Ticari İşletme 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "toros__ticari-isletme-yillik",
+      "title": "Toros Ticari İşletme Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "ticari-isletme-donem-1",
+      "slug": "cag__ticari-isletme-donem-1",
+      "title": "Çağ Ticari İşletme 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/ticari-isletme-donem-1",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "ticari-isletme-donem-2",
+      "slug": "cag__ticari-isletme-donem-2",
+      "title": "Çağ Ticari İşletme 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/ticari-isletme-donem-2",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "ticari-isletme-yillik",
+      "slug": "cag__ticari-isletme-yillik",
+      "title": "Çağ Ticari İşletme Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/ticari-isletme-yillik",
+      "variantOf": "ticari-isletme",
+      "variantLabel": "Yıllık (Tam paket)"
     }
   ],
   "borclarGenelTripleAt": "2026-07-29T20:05:58.703Z",
@@ -63259,5 +66499,6 @@
   "iflasTripleAt": "2026-07-29T20:37:26.513Z",
   "sirketlerTripleAt": "2026-07-29T20:40:50.060Z",
   "kiymetliEvrakTripleAt": "2026-07-29T20:43:38.050Z",
-  "sigortaHukukuTripleAt": "2026-07-29T20:46:50.872Z"
+  "sigortaHukukuTripleAt": "2026-07-29T20:46:50.872Z",
+  "ticariIsletmeTripleAt": "2026-07-29T20:50:03.289Z"
 }

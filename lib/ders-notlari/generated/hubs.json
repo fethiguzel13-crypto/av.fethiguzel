@@ -504,6 +504,30 @@
         "href": "/ders-notlari/ankara-yildirim-beyazit/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -1031,6 +1055,30 @@
         "href": "/ders-notlari/ankara/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/ankara/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/ankara/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/ankara/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -1559,6 +1607,30 @@
         "href": "/ders-notlari/istanbul/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/istanbul/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/istanbul/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/istanbul/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -2085,6 +2157,30 @@
         "href": "/ders-notlari/marmara/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/marmara/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/marmara/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/marmara/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -2613,6 +2709,30 @@
         "href": "/ders-notlari/galatasaray/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/galatasaray/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/galatasaray/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/galatasaray/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -3140,6 +3260,30 @@
         "href": "/ders-notlari/dokuz-eylul/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/dokuz-eylul/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/dokuz-eylul/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/dokuz-eylul/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -3666,6 +3810,30 @@
         "href": "/ders-notlari/hacettepe/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/hacettepe/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/hacettepe/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/hacettepe/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -4193,6 +4361,30 @@
         "href": "/ders-notlari/ankara-hacibayram/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/ankara-hacibayram/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/ankara-hacibayram/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/ankara-hacibayram/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -4719,6 +4911,30 @@
         "href": "/ders-notlari/bilkent/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/bilkent/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/bilkent/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/bilkent/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -5246,6 +5462,30 @@
         "href": "/ders-notlari/koc/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/koc/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/koc/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/koc/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -5773,6 +6013,30 @@
         "href": "/ders-notlari/tobb-etu/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/tobb-etu/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/tobb-etu/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/tobb-etu/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -6299,6 +6563,30 @@
         "href": "/ders-notlari/bogazici/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/bogazici/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/bogazici/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/bogazici/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -6825,6 +7113,30 @@
         "href": "/ders-notlari/ege/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/ege/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/ege/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/ege/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -7351,6 +7663,30 @@
         "href": "/ders-notlari/akdeniz/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/akdeniz/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/akdeniz/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/akdeniz/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -7877,6 +8213,30 @@
         "href": "/ders-notlari/selcuk/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/selcuk/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/selcuk/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/selcuk/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -8403,6 +8763,30 @@
         "href": "/ders-notlari/erciyes/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/erciyes/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/erciyes/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/erciyes/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -8930,6 +9314,30 @@
         "href": "/ders-notlari/uludag/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/uludag/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/uludag/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/uludag/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -9456,6 +9864,30 @@
         "href": "/ders-notlari/cukurova/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/cukurova/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/cukurova/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/cukurova/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -9982,6 +10414,30 @@
         "href": "/ders-notlari/anadolu/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/anadolu/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/anadolu/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/anadolu/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -10509,6 +10965,30 @@
         "href": "/ders-notlari/gazi-ankara/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/gazi-ankara/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/gazi-ankara/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/gazi-ankara/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -11036,6 +11516,30 @@
         "href": "/ders-notlari/yildiz-teknik/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/yildiz-teknik/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/yildiz-teknik/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/yildiz-teknik/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -11562,6 +12066,30 @@
         "href": "/ders-notlari/istanbul-medeniyet/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/istanbul-medeniyet/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/istanbul-medeniyet/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/istanbul-medeniyet/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -12089,6 +12617,30 @@
         "href": "/ders-notlari/bahcesehir/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/bahcesehir/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/bahcesehir/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/bahcesehir/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -12615,6 +13167,30 @@
         "href": "/ders-notlari/yeditepe/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/yeditepe/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/yeditepe/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/yeditepe/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -13141,6 +13717,30 @@
         "href": "/ders-notlari/ozyegin/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/ozyegin/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/ozyegin/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/ozyegin/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -13667,6 +14267,30 @@
         "href": "/ders-notlari/kadir-has/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/kadir-has/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/kadir-has/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/kadir-has/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -14193,6 +14817,30 @@
         "href": "/ders-notlari/istanbul-bilgi/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/istanbul-bilgi/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/istanbul-bilgi/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/istanbul-bilgi/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -14719,6 +15367,30 @@
         "href": "/ders-notlari/mehmet-akif/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/mehmet-akif/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/mehmet-akif/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/mehmet-akif/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -15245,6 +15917,30 @@
         "href": "/ders-notlari/altinbas/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/altinbas/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/altinbas/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/altinbas/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -15771,6 +16467,30 @@
         "href": "/ders-notlari/maltepe/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/maltepe/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/maltepe/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/maltepe/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -16297,6 +17017,30 @@
         "href": "/ders-notlari/dogus/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/dogus/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/dogus/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/dogus/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -16823,6 +17567,30 @@
         "href": "/ders-notlari/isik/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/isik/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/isik/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/isik/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -17349,6 +18117,30 @@
         "href": "/ders-notlari/okan/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/okan/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/okan/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/okan/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -17875,6 +18667,30 @@
         "href": "/ders-notlari/kultur/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/kultur/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/kultur/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/kultur/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -18401,6 +19217,30 @@
         "href": "/ders-notlari/aydin/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/aydin/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/aydin/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/aydin/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -18927,6 +19767,30 @@
         "href": "/ders-notlari/gelisim/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/gelisim/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/gelisim/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/gelisim/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -19453,6 +20317,30 @@
         "href": "/ders-notlari/topkapi/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/topkapi/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/topkapi/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/topkapi/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -19979,6 +20867,30 @@
         "href": "/ders-notlari/nisantasi/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/nisantasi/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/nisantasi/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/nisantasi/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -20505,6 +21417,30 @@
         "href": "/ders-notlari/beykent/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/beykent/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/beykent/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/beykent/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -21031,6 +21967,30 @@
         "href": "/ders-notlari/halic/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/halic/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/halic/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/halic/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -21557,6 +22517,30 @@
         "href": "/ders-notlari/fatih-sultan/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/fatih-sultan/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/fatih-sultan/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/fatih-sultan/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -22084,6 +23068,30 @@
         "href": "/ders-notlari/karadeniz-teknik/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/karadeniz-teknik/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/karadeniz-teknik/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/karadeniz-teknik/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -22611,6 +23619,30 @@
         "href": "/ders-notlari/ataturk/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/ataturk/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/ataturk/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/ataturk/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -23137,6 +24169,30 @@
         "href": "/ders-notlari/inonu/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/inonu/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/inonu/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/inonu/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -23663,6 +24719,30 @@
         "href": "/ders-notlari/dicle/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/dicle/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/dicle/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/dicle/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -24189,6 +25269,30 @@
         "href": "/ders-notlari/firat/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/firat/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/firat/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/firat/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -24715,6 +25819,30 @@
         "href": "/ders-notlari/gaziantep/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/gaziantep/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/gaziantep/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/gaziantep/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -25242,6 +26370,30 @@
         "href": "/ders-notlari/suleyman-demirel/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/suleyman-demirel/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/suleyman-demirel/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/suleyman-demirel/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -25768,6 +26920,30 @@
         "href": "/ders-notlari/pamukkale/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/pamukkale/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/pamukkale/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/pamukkale/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -26294,6 +27470,30 @@
         "href": "/ders-notlari/mugla/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/mugla/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/mugla/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/mugla/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -26820,6 +28020,30 @@
         "href": "/ders-notlari/sakarya/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/sakarya/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/sakarya/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/sakarya/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -27346,6 +28570,30 @@
         "href": "/ders-notlari/kocaeli/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/kocaeli/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/kocaeli/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/kocaeli/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -27872,6 +29120,30 @@
         "href": "/ders-notlari/trakya/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/trakya/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/trakya/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/trakya/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -28398,6 +29670,30 @@
         "href": "/ders-notlari/canakkale/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/canakkale/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/canakkale/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/canakkale/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -28924,6 +30220,30 @@
         "href": "/ders-notlari/balikesir/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/balikesir/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/balikesir/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/balikesir/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -29451,6 +30771,30 @@
         "href": "/ders-notlari/afyon/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/afyon/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/afyon/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/afyon/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -29977,6 +31321,30 @@
         "href": "/ders-notlari/dumlupinar/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/dumlupinar/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/dumlupinar/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/dumlupinar/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -30503,6 +31871,30 @@
         "href": "/ders-notlari/eskisehir-osmangazi/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/eskisehir-osmangazi/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/eskisehir-osmangazi/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/eskisehir-osmangazi/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -31030,6 +32422,30 @@
         "href": "/ders-notlari/sivas-cumhuriyet/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/sivas-cumhuriyet/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/sivas-cumhuriyet/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/sivas-cumhuriyet/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -31556,6 +32972,30 @@
         "href": "/ders-notlari/tokat/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/tokat/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/tokat/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/tokat/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -32082,6 +33522,30 @@
         "href": "/ders-notlari/yozgat/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/yozgat/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/yozgat/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/yozgat/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -32608,6 +34072,30 @@
         "href": "/ders-notlari/kirsehir/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/kirsehir/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/kirsehir/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/kirsehir/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -33134,6 +34622,30 @@
         "href": "/ders-notlari/nevsehir/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/nevsehir/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/nevsehir/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/nevsehir/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -33660,6 +35172,30 @@
         "href": "/ders-notlari/mersin/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/mersin/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/mersin/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/mersin/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -34187,6 +35723,30 @@
         "href": "/ders-notlari/hatay/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/hatay/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/hatay/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/hatay/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -34713,6 +36273,30 @@
         "href": "/ders-notlari/kahramanmaras/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/kahramanmaras/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/kahramanmaras/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/kahramanmaras/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -35239,6 +36823,30 @@
         "href": "/ders-notlari/osmaniye/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/osmaniye/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/osmaniye/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/osmaniye/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -35766,6 +37374,30 @@
         "href": "/ders-notlari/samsun/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/samsun/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/samsun/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/samsun/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -36292,6 +37924,30 @@
         "href": "/ders-notlari/ordu/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/ordu/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/ordu/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/ordu/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -36818,6 +38474,30 @@
         "href": "/ders-notlari/giresun/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/giresun/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/giresun/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/giresun/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -37345,6 +39025,30 @@
         "href": "/ders-notlari/rize/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/rize/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/rize/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/rize/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -37871,6 +39575,30 @@
         "href": "/ders-notlari/artvin/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/artvin/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/artvin/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/artvin/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -38399,6 +40127,30 @@
         "href": "/ders-notlari/van-yyu/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/van-yyu/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/van-yyu/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/van-yyu/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -38925,6 +40677,30 @@
         "href": "/ders-notlari/agri/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/agri/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/agri/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/agri/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -39451,6 +41227,30 @@
         "href": "/ders-notlari/kars/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/kars/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/kars/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/kars/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -39977,6 +41777,30 @@
         "href": "/ders-notlari/erzincan/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/erzincan/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/erzincan/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/erzincan/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -40503,6 +42327,30 @@
         "href": "/ders-notlari/bayburt/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/bayburt/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/bayburt/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/bayburt/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -41029,6 +42877,30 @@
         "href": "/ders-notlari/gumushane/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/gumushane/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/gumushane/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/gumushane/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -41555,6 +43427,30 @@
         "href": "/ders-notlari/bingol/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/bingol/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/bingol/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/bingol/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -42081,6 +43977,30 @@
         "href": "/ders-notlari/mus/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/mus/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/mus/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/mus/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -42607,6 +44527,30 @@
         "href": "/ders-notlari/hakkari/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/hakkari/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/hakkari/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/hakkari/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -43133,6 +45077,30 @@
         "href": "/ders-notlari/sirnak/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/sirnak/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/sirnak/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/sirnak/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -43660,6 +45628,30 @@
         "href": "/ders-notlari/mardin/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/mardin/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/mardin/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/mardin/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -44186,6 +46178,30 @@
         "href": "/ders-notlari/batman/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/batman/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/batman/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/batman/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -44712,6 +46728,30 @@
         "href": "/ders-notlari/siirt/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/siirt/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/siirt/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/siirt/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -45238,6 +47278,30 @@
         "href": "/ders-notlari/adiyaman/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/adiyaman/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/adiyaman/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/adiyaman/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -45764,6 +47828,30 @@
         "href": "/ders-notlari/kilis/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/kilis/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/kilis/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/kilis/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -46290,6 +48378,30 @@
         "href": "/ders-notlari/igdir/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/igdir/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/igdir/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/igdir/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -46816,6 +48928,30 @@
         "href": "/ders-notlari/ardahan/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/ardahan/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/ardahan/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/ardahan/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -47342,6 +49478,30 @@
         "href": "/ders-notlari/bilecik/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/bilecik/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/bilecik/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/bilecik/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -47869,6 +50029,30 @@
         "href": "/ders-notlari/bolu/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/bolu/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/bolu/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/bolu/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -48395,6 +50579,30 @@
         "href": "/ders-notlari/duzce/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/duzce/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/duzce/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/duzce/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -48921,6 +51129,30 @@
         "href": "/ders-notlari/zonguldak/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/zonguldak/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/zonguldak/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/zonguldak/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -49447,6 +51679,30 @@
         "href": "/ders-notlari/karabuk/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/karabuk/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/karabuk/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/karabuk/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -49973,6 +52229,30 @@
         "href": "/ders-notlari/kastamonu/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/kastamonu/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/kastamonu/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/kastamonu/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -50499,6 +52779,30 @@
         "href": "/ders-notlari/sinop/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/sinop/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/sinop/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/sinop/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -51026,6 +53330,30 @@
         "href": "/ders-notlari/corum/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/corum/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/corum/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/corum/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -51552,6 +53880,30 @@
         "href": "/ders-notlari/amasya/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/amasya/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/amasya/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/amasya/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -52078,6 +54430,30 @@
         "href": "/ders-notlari/cankiri/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/cankiri/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/cankiri/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/cankiri/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -52604,6 +54980,30 @@
         "href": "/ders-notlari/kirikkale/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/kirikkale/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/kirikkale/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/kirikkale/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -53130,6 +55530,30 @@
         "href": "/ders-notlari/aksaray/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/aksaray/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/aksaray/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/aksaray/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -53656,6 +56080,30 @@
         "href": "/ders-notlari/nigde/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/nigde/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/nigde/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/nigde/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -54182,6 +56630,30 @@
         "href": "/ders-notlari/konya-teknik/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/konya-teknik/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/konya-teknik/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/konya-teknik/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -54708,6 +57180,30 @@
         "href": "/ders-notlari/karaman/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/karaman/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/karaman/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/karaman/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -55234,6 +57730,30 @@
         "href": "/ders-notlari/usak/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/usak/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/usak/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/usak/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -55761,6 +58281,30 @@
         "href": "/ders-notlari/manisa/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/manisa/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/manisa/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/manisa/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -56287,6 +58831,30 @@
         "href": "/ders-notlari/aydin-adu/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/aydin-adu/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/aydin-adu/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/aydin-adu/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -56813,6 +59381,30 @@
         "href": "/ders-notlari/tekirdag/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/tekirdag/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/tekirdag/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/tekirdag/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -57339,6 +59931,30 @@
         "href": "/ders-notlari/kirklareli/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/kirklareli/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/kirklareli/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/kirklareli/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -57865,6 +60481,30 @@
         "href": "/ders-notlari/atilim/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/atilim/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/atilim/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/atilim/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -58391,6 +61031,30 @@
         "href": "/ders-notlari/cankaya/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/cankaya/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/cankaya/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/cankaya/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -58917,6 +61581,30 @@
         "href": "/ders-notlari/ufuk/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/ufuk/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/ufuk/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/ufuk/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -59443,6 +62131,30 @@
         "href": "/ders-notlari/yasar/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/yasar/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/yasar/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/yasar/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -59969,6 +62681,30 @@
         "href": "/ders-notlari/izmir-ekonomi/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/izmir-ekonomi/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/izmir-ekonomi/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/izmir-ekonomi/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -60495,6 +63231,30 @@
         "href": "/ders-notlari/tinaztepe/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/tinaztepe/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/tinaztepe/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/tinaztepe/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -61021,6 +63781,30 @@
         "href": "/ders-notlari/asbu-vakif/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/asbu-vakif/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/asbu-vakif/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/asbu-vakif/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -61547,6 +64331,30 @@
         "href": "/ders-notlari/hasan-kalyoncu/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/hasan-kalyoncu/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/hasan-kalyoncu/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/hasan-kalyoncu/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -62073,6 +64881,30 @@
         "href": "/ders-notlari/sanko/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/sanko/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/sanko/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/sanko/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -62599,6 +65431,30 @@
         "href": "/ders-notlari/toros/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/toros/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/toros/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/toros/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [
@@ -63125,6 +65981,30 @@
         "href": "/ders-notlari/cag/sigorta-hukuku-yillik",
         "ready": true,
         "variantOf": "sigorta-hukuku"
+      },
+      {
+        "code": "ticari-isletme-donem-1",
+        "title": "Ticari İşletme — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/cag/ticari-isletme-donem-1",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-donem-2",
+        "title": "Ticari İşletme — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/cag/ticari-isletme-donem-2",
+        "ready": true,
+        "variantOf": "ticari-isletme"
+      },
+      {
+        "code": "ticari-isletme-yillik",
+        "title": "Ticari İşletme — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/cag/ticari-isletme-yillik",
+        "ready": true,
+        "variantOf": "ticari-isletme"
       }
     ],
     "seoParagraphs": [

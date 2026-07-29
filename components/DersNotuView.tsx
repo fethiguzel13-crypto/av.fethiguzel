@@ -517,6 +517,18 @@ export function DersNotuView({
               { code: 'sigorta-hukuku-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
             ],
           },
+          {
+            match:
+              note.variantOf === 'ticari-isletme' ||
+              note.courseCode === 'ticari-isletme' ||
+              note.courseCode.startsWith('ticari-isletme-'),
+            title: 'Ticari İşletme · üç paket',
+            items: [
+              { code: 'ticari-isletme-donem-1', label: '1. Dönem (Güz)', desc: 'Tacir · unvan · sicil' },
+              { code: 'ticari-isletme-donem-2', label: '2. Dönem (Bahar)', desc: 'Acente · defter · devir' },
+              { code: 'ticari-isletme-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
+            ],
+          },
         ];
         const activePacks = packs.filter((p) => p.match);
         if (!activePacks.length) return null;
@@ -1053,6 +1065,23 @@ export function UniHubView({ hub }: { hub: UniHubContent }) {
               { code: 'sigorta-hukuku-donem-1', title: '1. Dönem (Güz)' },
               { code: 'sigorta-hukuku-donem-2', title: '2. Dönem (Bahar)' },
               { code: 'sigorta-hukuku-yillik', title: 'Yıllık tam not' },
+            ],
+          },
+          {
+            show: hub.courses.some(
+              (c) =>
+                String(c.code).startsWith('ticari-isletme') ||
+                c.code === 'ticari-isletme'
+            ),
+            title: 'Ticari İşletme — 1. dönem · 2. dönem · yıllık',
+            desc: 'Tacir–sicil–acente–devir… üç premium not + PDF.',
+            border: 'border-primary/20 bg-primary/[0.04]',
+            itemBorder: 'border-primary/25',
+            accent: 'text-primary',
+            items: [
+              { code: 'ticari-isletme-donem-1', title: '1. Dönem (Güz)' },
+              { code: 'ticari-isletme-donem-2', title: '2. Dönem (Bahar)' },
+              { code: 'ticari-isletme-yillik', title: 'Yıllık tam not' },
             ],
           },
         ]
