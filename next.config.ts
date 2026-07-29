@@ -56,6 +56,11 @@ const nextConfig: NextConfig = {
           source: "/mevzuat/:kanunId/:id",
           destination: "/seo-madde/:kanunId/:id.html",
         },
+        // Next generateSitemaps index at /sitemap.xml can 500; serve static index.
+        {
+          source: "/sitemap.xml",
+          destination: "/sitemap-index.xml",
+        },
       ],
     };
   },
