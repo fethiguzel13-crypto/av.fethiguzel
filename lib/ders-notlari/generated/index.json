@@ -3,7 +3,7 @@
   "wave": "all",
   "universityCount": 120,
   "hubCount": 120,
-  "noteCount": 9840,
+  "noteCount": 10200,
   "universities": [
     {
       "slug": "ankara-yildirim-beyazit",
@@ -82686,6 +82686,3246 @@
       "href": "/ders-notlari/cag/idari-yargilama-yillik",
       "variantOf": "idari-yargilama",
       "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "ankara-yildirim-beyazit__hukuk-felsefesi-donem-1",
+      "title": "AYBÜ Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "ankara-yildirim-beyazit__hukuk-felsefesi-donem-2",
+      "title": "AYBÜ Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "ankara-yildirim-beyazit__hukuk-felsefesi-yillik",
+      "title": "AYBÜ Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "ankara__hukuk-felsefesi-donem-1",
+      "title": "AÜHF Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "ankara__hukuk-felsefesi-donem-2",
+      "title": "AÜHF Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "ankara__hukuk-felsefesi-yillik",
+      "title": "AÜHF Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "istanbul__hukuk-felsefesi-donem-1",
+      "title": "İÜHF Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "istanbul__hukuk-felsefesi-donem-2",
+      "title": "İÜHF Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "istanbul__hukuk-felsefesi-yillik",
+      "title": "İÜHF Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "marmara__hukuk-felsefesi-donem-1",
+      "title": "MÜHF Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "marmara__hukuk-felsefesi-donem-2",
+      "title": "MÜHF Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "marmara__hukuk-felsefesi-yillik",
+      "title": "MÜHF Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "galatasaray__hukuk-felsefesi-donem-1",
+      "title": "GSÜ Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "galatasaray__hukuk-felsefesi-donem-2",
+      "title": "GSÜ Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "galatasaray__hukuk-felsefesi-yillik",
+      "title": "GSÜ Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "dokuz-eylul__hukuk-felsefesi-donem-1",
+      "title": "DEÜ Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "dokuz-eylul__hukuk-felsefesi-donem-2",
+      "title": "DEÜ Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "dokuz-eylul__hukuk-felsefesi-yillik",
+      "title": "DEÜ Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "hacettepe__hukuk-felsefesi-donem-1",
+      "title": "Hacettepe Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "hacettepe__hukuk-felsefesi-donem-2",
+      "title": "Hacettepe Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "hacettepe__hukuk-felsefesi-yillik",
+      "title": "Hacettepe Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "ankara-hacibayram__hukuk-felsefesi-donem-1",
+      "title": "AHBV Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "ankara-hacibayram__hukuk-felsefesi-donem-2",
+      "title": "AHBV Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "ankara-hacibayram__hukuk-felsefesi-yillik",
+      "title": "AHBV Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "bilkent__hukuk-felsefesi-donem-1",
+      "title": "Bilkent Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "bilkent__hukuk-felsefesi-donem-2",
+      "title": "Bilkent Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "bilkent__hukuk-felsefesi-yillik",
+      "title": "Bilkent Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "koc__hukuk-felsefesi-donem-1",
+      "title": "Koç Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "koc__hukuk-felsefesi-donem-2",
+      "title": "Koç Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "koc__hukuk-felsefesi-yillik",
+      "title": "Koç Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "tobb-etu__hukuk-felsefesi-donem-1",
+      "title": "TOBB ETÜ Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "tobb-etu__hukuk-felsefesi-donem-2",
+      "title": "TOBB ETÜ Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "tobb-etu__hukuk-felsefesi-yillik",
+      "title": "TOBB ETÜ Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "bogazici__hukuk-felsefesi-donem-1",
+      "title": "BÜ Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "bogazici__hukuk-felsefesi-donem-2",
+      "title": "BÜ Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "bogazici__hukuk-felsefesi-yillik",
+      "title": "BÜ Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "ege__hukuk-felsefesi-donem-1",
+      "title": "Ege Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "ege__hukuk-felsefesi-donem-2",
+      "title": "Ege Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "ege__hukuk-felsefesi-yillik",
+      "title": "Ege Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "akdeniz__hukuk-felsefesi-donem-1",
+      "title": "Akdeniz Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "akdeniz__hukuk-felsefesi-donem-2",
+      "title": "Akdeniz Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "akdeniz__hukuk-felsefesi-yillik",
+      "title": "Akdeniz Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "selcuk__hukuk-felsefesi-donem-1",
+      "title": "Selçuk Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "selcuk__hukuk-felsefesi-donem-2",
+      "title": "Selçuk Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "selcuk__hukuk-felsefesi-yillik",
+      "title": "Selçuk Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "erciyes__hukuk-felsefesi-donem-1",
+      "title": "Erciyes Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "erciyes__hukuk-felsefesi-donem-2",
+      "title": "Erciyes Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "erciyes__hukuk-felsefesi-yillik",
+      "title": "Erciyes Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "uludag__hukuk-felsefesi-donem-1",
+      "title": "Uludağ Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "uludag__hukuk-felsefesi-donem-2",
+      "title": "Uludağ Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "uludag__hukuk-felsefesi-yillik",
+      "title": "Uludağ Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "cukurova__hukuk-felsefesi-donem-1",
+      "title": "Çukurova Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "cukurova__hukuk-felsefesi-donem-2",
+      "title": "Çukurova Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "cukurova__hukuk-felsefesi-yillik",
+      "title": "Çukurova Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "anadolu__hukuk-felsefesi-donem-1",
+      "title": "Anadolu Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "anadolu__hukuk-felsefesi-donem-2",
+      "title": "Anadolu Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "anadolu__hukuk-felsefesi-yillik",
+      "title": "Anadolu Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "gazi-ankara__hukuk-felsefesi-donem-1",
+      "title": "ASBÜ Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "gazi-ankara__hukuk-felsefesi-donem-2",
+      "title": "ASBÜ Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "gazi-ankara__hukuk-felsefesi-yillik",
+      "title": "ASBÜ Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "yildiz-teknik__hukuk-felsefesi-donem-1",
+      "title": "YTÜ Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "yildiz-teknik__hukuk-felsefesi-donem-2",
+      "title": "YTÜ Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "yildiz-teknik__hukuk-felsefesi-yillik",
+      "title": "YTÜ Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "istanbul-medeniyet__hukuk-felsefesi-donem-1",
+      "title": "Medeniyet Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "istanbul-medeniyet__hukuk-felsefesi-donem-2",
+      "title": "Medeniyet Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "istanbul-medeniyet__hukuk-felsefesi-yillik",
+      "title": "Medeniyet Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "bahcesehir__hukuk-felsefesi-donem-1",
+      "title": "BAU Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "bahcesehir__hukuk-felsefesi-donem-2",
+      "title": "BAU Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "bahcesehir__hukuk-felsefesi-yillik",
+      "title": "BAU Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "yeditepe__hukuk-felsefesi-donem-1",
+      "title": "Yeditepe Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "yeditepe__hukuk-felsefesi-donem-2",
+      "title": "Yeditepe Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "yeditepe__hukuk-felsefesi-yillik",
+      "title": "Yeditepe Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "ozyegin__hukuk-felsefesi-donem-1",
+      "title": "Özyeğin Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "ozyegin__hukuk-felsefesi-donem-2",
+      "title": "Özyeğin Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "ozyegin__hukuk-felsefesi-yillik",
+      "title": "Özyeğin Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "kadir-has__hukuk-felsefesi-donem-1",
+      "title": "KHAS Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "kadir-has__hukuk-felsefesi-donem-2",
+      "title": "KHAS Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "kadir-has__hukuk-felsefesi-yillik",
+      "title": "KHAS Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "istanbul-bilgi__hukuk-felsefesi-donem-1",
+      "title": "Bilgi Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "istanbul-bilgi__hukuk-felsefesi-donem-2",
+      "title": "Bilgi Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "istanbul-bilgi__hukuk-felsefesi-yillik",
+      "title": "Bilgi Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "mehmet-akif__hukuk-felsefesi-donem-1",
+      "title": "Medipol Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "mehmet-akif__hukuk-felsefesi-donem-2",
+      "title": "Medipol Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "mehmet-akif__hukuk-felsefesi-yillik",
+      "title": "Medipol Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "altinbas__hukuk-felsefesi-donem-1",
+      "title": "Altınbaş Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "altinbas__hukuk-felsefesi-donem-2",
+      "title": "Altınbaş Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "altinbas__hukuk-felsefesi-yillik",
+      "title": "Altınbaş Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "maltepe__hukuk-felsefesi-donem-1",
+      "title": "Maltepe Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "maltepe__hukuk-felsefesi-donem-2",
+      "title": "Maltepe Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "maltepe__hukuk-felsefesi-yillik",
+      "title": "Maltepe Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "dogus__hukuk-felsefesi-donem-1",
+      "title": "Doğuş Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "dogus__hukuk-felsefesi-donem-2",
+      "title": "Doğuş Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "dogus__hukuk-felsefesi-yillik",
+      "title": "Doğuş Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "isik__hukuk-felsefesi-donem-1",
+      "title": "Işık Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "isik__hukuk-felsefesi-donem-2",
+      "title": "Işık Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "isik__hukuk-felsefesi-yillik",
+      "title": "Işık Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "okan__hukuk-felsefesi-donem-1",
+      "title": "Okan Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "okan__hukuk-felsefesi-donem-2",
+      "title": "Okan Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "okan__hukuk-felsefesi-yillik",
+      "title": "Okan Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "kultur__hukuk-felsefesi-donem-1",
+      "title": "İKÜ Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "kultur__hukuk-felsefesi-donem-2",
+      "title": "İKÜ Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "kultur__hukuk-felsefesi-yillik",
+      "title": "İKÜ Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "aydin__hukuk-felsefesi-donem-1",
+      "title": "İAÜ Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "aydin__hukuk-felsefesi-donem-2",
+      "title": "İAÜ Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "aydin__hukuk-felsefesi-yillik",
+      "title": "İAÜ Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "gelisim__hukuk-felsefesi-donem-1",
+      "title": "Gelişim Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "gelisim__hukuk-felsefesi-donem-2",
+      "title": "Gelişim Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "gelisim__hukuk-felsefesi-yillik",
+      "title": "Gelişim Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "topkapi__hukuk-felsefesi-donem-1",
+      "title": "Topkapı Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "topkapi__hukuk-felsefesi-donem-2",
+      "title": "Topkapı Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "topkapi__hukuk-felsefesi-yillik",
+      "title": "Topkapı Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "nisantasi__hukuk-felsefesi-donem-1",
+      "title": "Nişantaşı Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "nisantasi__hukuk-felsefesi-donem-2",
+      "title": "Nişantaşı Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "nisantasi__hukuk-felsefesi-yillik",
+      "title": "Nişantaşı Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "beykent__hukuk-felsefesi-donem-1",
+      "title": "Beykent Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "beykent__hukuk-felsefesi-donem-2",
+      "title": "Beykent Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "beykent__hukuk-felsefesi-yillik",
+      "title": "Beykent Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "halic__hukuk-felsefesi-donem-1",
+      "title": "Haliç Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "halic__hukuk-felsefesi-donem-2",
+      "title": "Haliç Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "halic__hukuk-felsefesi-yillik",
+      "title": "Haliç Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "fatih-sultan__hukuk-felsefesi-donem-1",
+      "title": "FSMVÜ Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "fatih-sultan__hukuk-felsefesi-donem-2",
+      "title": "FSMVÜ Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "fatih-sultan__hukuk-felsefesi-yillik",
+      "title": "FSMVÜ Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "karadeniz-teknik__hukuk-felsefesi-donem-1",
+      "title": "KTÜ Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "karadeniz-teknik__hukuk-felsefesi-donem-2",
+      "title": "KTÜ Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "karadeniz-teknik__hukuk-felsefesi-yillik",
+      "title": "KTÜ Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "ataturk__hukuk-felsefesi-donem-1",
+      "title": "Atatürk Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "ataturk__hukuk-felsefesi-donem-2",
+      "title": "Atatürk Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "ataturk__hukuk-felsefesi-yillik",
+      "title": "Atatürk Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "inonu__hukuk-felsefesi-donem-1",
+      "title": "İnönü Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "inonu__hukuk-felsefesi-donem-2",
+      "title": "İnönü Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "inonu__hukuk-felsefesi-yillik",
+      "title": "İnönü Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "dicle__hukuk-felsefesi-donem-1",
+      "title": "Dicle Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "dicle__hukuk-felsefesi-donem-2",
+      "title": "Dicle Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "dicle__hukuk-felsefesi-yillik",
+      "title": "Dicle Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "firat__hukuk-felsefesi-donem-1",
+      "title": "Fırat Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "firat__hukuk-felsefesi-donem-2",
+      "title": "Fırat Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "firat__hukuk-felsefesi-yillik",
+      "title": "Fırat Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "gaziantep__hukuk-felsefesi-donem-1",
+      "title": "GAÜN Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "gaziantep__hukuk-felsefesi-donem-2",
+      "title": "GAÜN Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "gaziantep__hukuk-felsefesi-yillik",
+      "title": "GAÜN Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "suleyman-demirel__hukuk-felsefesi-donem-1",
+      "title": "SDÜ Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "suleyman-demirel__hukuk-felsefesi-donem-2",
+      "title": "SDÜ Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "suleyman-demirel__hukuk-felsefesi-yillik",
+      "title": "SDÜ Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "pamukkale__hukuk-felsefesi-donem-1",
+      "title": "PAÜ Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "pamukkale__hukuk-felsefesi-donem-2",
+      "title": "PAÜ Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "pamukkale__hukuk-felsefesi-yillik",
+      "title": "PAÜ Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "mugla__hukuk-felsefesi-donem-1",
+      "title": "MSKU Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "mugla__hukuk-felsefesi-donem-2",
+      "title": "MSKU Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "mugla__hukuk-felsefesi-yillik",
+      "title": "MSKU Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "sakarya__hukuk-felsefesi-donem-1",
+      "title": "SAÜ Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "sakarya__hukuk-felsefesi-donem-2",
+      "title": "SAÜ Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "sakarya__hukuk-felsefesi-yillik",
+      "title": "SAÜ Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "kocaeli__hukuk-felsefesi-donem-1",
+      "title": "KOÜ Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "kocaeli__hukuk-felsefesi-donem-2",
+      "title": "KOÜ Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "kocaeli__hukuk-felsefesi-yillik",
+      "title": "KOÜ Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "trakya__hukuk-felsefesi-donem-1",
+      "title": "Trakya Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "trakya__hukuk-felsefesi-donem-2",
+      "title": "Trakya Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "trakya__hukuk-felsefesi-yillik",
+      "title": "Trakya Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "canakkale__hukuk-felsefesi-donem-1",
+      "title": "ÇOMÜ Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "canakkale__hukuk-felsefesi-donem-2",
+      "title": "ÇOMÜ Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "canakkale__hukuk-felsefesi-yillik",
+      "title": "ÇOMÜ Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "balikesir__hukuk-felsefesi-donem-1",
+      "title": "BAÜN Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "balikesir__hukuk-felsefesi-donem-2",
+      "title": "BAÜN Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "balikesir__hukuk-felsefesi-yillik",
+      "title": "BAÜN Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "afyon__hukuk-felsefesi-donem-1",
+      "title": "AKÜ Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "afyon__hukuk-felsefesi-donem-2",
+      "title": "AKÜ Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "afyon__hukuk-felsefesi-yillik",
+      "title": "AKÜ Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "dumlupinar__hukuk-felsefesi-donem-1",
+      "title": "DPÜ Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "dumlupinar__hukuk-felsefesi-donem-2",
+      "title": "DPÜ Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "dumlupinar__hukuk-felsefesi-yillik",
+      "title": "DPÜ Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "eskisehir-osmangazi__hukuk-felsefesi-donem-1",
+      "title": "ESOGÜ Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "eskisehir-osmangazi__hukuk-felsefesi-donem-2",
+      "title": "ESOGÜ Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "eskisehir-osmangazi__hukuk-felsefesi-yillik",
+      "title": "ESOGÜ Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "sivas-cumhuriyet__hukuk-felsefesi-donem-1",
+      "title": "SCÜ Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "sivas-cumhuriyet__hukuk-felsefesi-donem-2",
+      "title": "SCÜ Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "sivas-cumhuriyet__hukuk-felsefesi-yillik",
+      "title": "SCÜ Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "tokat__hukuk-felsefesi-donem-1",
+      "title": "TOGÜ Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "tokat__hukuk-felsefesi-donem-2",
+      "title": "TOGÜ Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "tokat__hukuk-felsefesi-yillik",
+      "title": "TOGÜ Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "yozgat__hukuk-felsefesi-donem-1",
+      "title": "Bozok Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "yozgat__hukuk-felsefesi-donem-2",
+      "title": "Bozok Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "yozgat__hukuk-felsefesi-yillik",
+      "title": "Bozok Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "kirsehir__hukuk-felsefesi-donem-1",
+      "title": "AHİEVRAN Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "kirsehir__hukuk-felsefesi-donem-2",
+      "title": "AHİEVRAN Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "kirsehir__hukuk-felsefesi-yillik",
+      "title": "AHİEVRAN Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "nevsehir__hukuk-felsefesi-donem-1",
+      "title": "NEVÜ Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "nevsehir__hukuk-felsefesi-donem-2",
+      "title": "NEVÜ Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "nevsehir__hukuk-felsefesi-yillik",
+      "title": "NEVÜ Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "mersin__hukuk-felsefesi-donem-1",
+      "title": "MEÜ Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "mersin__hukuk-felsefesi-donem-2",
+      "title": "MEÜ Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "mersin__hukuk-felsefesi-yillik",
+      "title": "MEÜ Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "hatay__hukuk-felsefesi-donem-1",
+      "title": "MKÜ Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "hatay__hukuk-felsefesi-donem-2",
+      "title": "MKÜ Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "hatay__hukuk-felsefesi-yillik",
+      "title": "MKÜ Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "kahramanmaras__hukuk-felsefesi-donem-1",
+      "title": "KSÜ Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "kahramanmaras__hukuk-felsefesi-donem-2",
+      "title": "KSÜ Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "kahramanmaras__hukuk-felsefesi-yillik",
+      "title": "KSÜ Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "osmaniye__hukuk-felsefesi-donem-1",
+      "title": "OKÜ Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "osmaniye__hukuk-felsefesi-donem-2",
+      "title": "OKÜ Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "osmaniye__hukuk-felsefesi-yillik",
+      "title": "OKÜ Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "samsun__hukuk-felsefesi-donem-1",
+      "title": "OMÜ Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "samsun__hukuk-felsefesi-donem-2",
+      "title": "OMÜ Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "samsun__hukuk-felsefesi-yillik",
+      "title": "OMÜ Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "ordu__hukuk-felsefesi-donem-1",
+      "title": "ODÜ Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "ordu__hukuk-felsefesi-donem-2",
+      "title": "ODÜ Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "ordu__hukuk-felsefesi-yillik",
+      "title": "ODÜ Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "giresun__hukuk-felsefesi-donem-1",
+      "title": "GÜ Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "giresun__hukuk-felsefesi-donem-2",
+      "title": "GÜ Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "giresun__hukuk-felsefesi-yillik",
+      "title": "GÜ Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "rize__hukuk-felsefesi-donem-1",
+      "title": "RTEÜ Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "rize__hukuk-felsefesi-donem-2",
+      "title": "RTEÜ Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "rize__hukuk-felsefesi-yillik",
+      "title": "RTEÜ Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "artvin__hukuk-felsefesi-donem-1",
+      "title": "AÇÜ Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "artvin__hukuk-felsefesi-donem-2",
+      "title": "AÇÜ Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "artvin__hukuk-felsefesi-yillik",
+      "title": "AÇÜ Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "van-yyu__hukuk-felsefesi-donem-1",
+      "title": "YYÜ Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "van-yyu__hukuk-felsefesi-donem-2",
+      "title": "YYÜ Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "van-yyu__hukuk-felsefesi-yillik",
+      "title": "YYÜ Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "agri__hukuk-felsefesi-donem-1",
+      "title": "AİÇÜ Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "agri__hukuk-felsefesi-donem-2",
+      "title": "AİÇÜ Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "agri__hukuk-felsefesi-yillik",
+      "title": "AİÇÜ Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "kars__hukuk-felsefesi-donem-1",
+      "title": "Kafkas Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "kars__hukuk-felsefesi-donem-2",
+      "title": "Kafkas Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "kars__hukuk-felsefesi-yillik",
+      "title": "Kafkas Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "erzincan__hukuk-felsefesi-donem-1",
+      "title": "EBYÜ Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "erzincan__hukuk-felsefesi-donem-2",
+      "title": "EBYÜ Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "erzincan__hukuk-felsefesi-yillik",
+      "title": "EBYÜ Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "bayburt__hukuk-felsefesi-donem-1",
+      "title": "Bayburt Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "bayburt__hukuk-felsefesi-donem-2",
+      "title": "Bayburt Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "bayburt__hukuk-felsefesi-yillik",
+      "title": "Bayburt Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "gumushane__hukuk-felsefesi-donem-1",
+      "title": "Gümüşhane Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "gumushane__hukuk-felsefesi-donem-2",
+      "title": "Gümüşhane Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "gumushane__hukuk-felsefesi-yillik",
+      "title": "Gümüşhane Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "bingol__hukuk-felsefesi-donem-1",
+      "title": "Bingöl Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "bingol__hukuk-felsefesi-donem-2",
+      "title": "Bingöl Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "bingol__hukuk-felsefesi-yillik",
+      "title": "Bingöl Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "mus__hukuk-felsefesi-donem-1",
+      "title": "Muş Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "mus__hukuk-felsefesi-donem-2",
+      "title": "Muş Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "mus__hukuk-felsefesi-yillik",
+      "title": "Muş Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "hakkari__hukuk-felsefesi-donem-1",
+      "title": "Hakkâri Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "hakkari__hukuk-felsefesi-donem-2",
+      "title": "Hakkâri Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "hakkari__hukuk-felsefesi-yillik",
+      "title": "Hakkâri Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "sirnak__hukuk-felsefesi-donem-1",
+      "title": "Şırnak Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "sirnak__hukuk-felsefesi-donem-2",
+      "title": "Şırnak Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "sirnak__hukuk-felsefesi-yillik",
+      "title": "Şırnak Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "mardin__hukuk-felsefesi-donem-1",
+      "title": "Artuklu Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "mardin__hukuk-felsefesi-donem-2",
+      "title": "Artuklu Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "mardin__hukuk-felsefesi-yillik",
+      "title": "Artuklu Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "batman__hukuk-felsefesi-donem-1",
+      "title": "Batman Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "batman__hukuk-felsefesi-donem-2",
+      "title": "Batman Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "batman__hukuk-felsefesi-yillik",
+      "title": "Batman Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "siirt__hukuk-felsefesi-donem-1",
+      "title": "Siirt Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "siirt__hukuk-felsefesi-donem-2",
+      "title": "Siirt Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "siirt__hukuk-felsefesi-yillik",
+      "title": "Siirt Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "adiyaman__hukuk-felsefesi-donem-1",
+      "title": "Adıyaman Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "adiyaman__hukuk-felsefesi-donem-2",
+      "title": "Adıyaman Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "adiyaman__hukuk-felsefesi-yillik",
+      "title": "Adıyaman Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "kilis__hukuk-felsefesi-donem-1",
+      "title": "Kilis Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "kilis__hukuk-felsefesi-donem-2",
+      "title": "Kilis Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "kilis__hukuk-felsefesi-yillik",
+      "title": "Kilis Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "igdir__hukuk-felsefesi-donem-1",
+      "title": "Iğdır Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "igdir__hukuk-felsefesi-donem-2",
+      "title": "Iğdır Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "igdir__hukuk-felsefesi-yillik",
+      "title": "Iğdır Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "ardahan__hukuk-felsefesi-donem-1",
+      "title": "Ardahan Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "ardahan__hukuk-felsefesi-donem-2",
+      "title": "Ardahan Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "ardahan__hukuk-felsefesi-yillik",
+      "title": "Ardahan Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "bilecik__hukuk-felsefesi-donem-1",
+      "title": "BŞEÜ Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "bilecik__hukuk-felsefesi-donem-2",
+      "title": "BŞEÜ Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "bilecik__hukuk-felsefesi-yillik",
+      "title": "BŞEÜ Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "bolu__hukuk-felsefesi-donem-1",
+      "title": "BAİBÜ Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "bolu__hukuk-felsefesi-donem-2",
+      "title": "BAİBÜ Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "bolu__hukuk-felsefesi-yillik",
+      "title": "BAİBÜ Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "duzce__hukuk-felsefesi-donem-1",
+      "title": "Düzce Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "duzce__hukuk-felsefesi-donem-2",
+      "title": "Düzce Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "duzce__hukuk-felsefesi-yillik",
+      "title": "Düzce Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "zonguldak__hukuk-felsefesi-donem-1",
+      "title": "BEÜN Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "zonguldak__hukuk-felsefesi-donem-2",
+      "title": "BEÜN Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "zonguldak__hukuk-felsefesi-yillik",
+      "title": "BEÜN Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "karabuk__hukuk-felsefesi-donem-1",
+      "title": "KBÜ Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "karabuk__hukuk-felsefesi-donem-2",
+      "title": "KBÜ Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "karabuk__hukuk-felsefesi-yillik",
+      "title": "KBÜ Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "kastamonu__hukuk-felsefesi-donem-1",
+      "title": "KÜ Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "kastamonu__hukuk-felsefesi-donem-2",
+      "title": "KÜ Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "kastamonu__hukuk-felsefesi-yillik",
+      "title": "KÜ Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "sinop__hukuk-felsefesi-donem-1",
+      "title": "Sinop Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "sinop__hukuk-felsefesi-donem-2",
+      "title": "Sinop Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "sinop__hukuk-felsefesi-yillik",
+      "title": "Sinop Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "corum__hukuk-felsefesi-donem-1",
+      "title": "Hitit Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "corum__hukuk-felsefesi-donem-2",
+      "title": "Hitit Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "corum__hukuk-felsefesi-yillik",
+      "title": "Hitit Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "amasya__hukuk-felsefesi-donem-1",
+      "title": "Amasya Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "amasya__hukuk-felsefesi-donem-2",
+      "title": "Amasya Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "amasya__hukuk-felsefesi-yillik",
+      "title": "Amasya Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "cankiri__hukuk-felsefesi-donem-1",
+      "title": "Karatekin Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "cankiri__hukuk-felsefesi-donem-2",
+      "title": "Karatekin Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "cankiri__hukuk-felsefesi-yillik",
+      "title": "Karatekin Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "kirikkale__hukuk-felsefesi-donem-1",
+      "title": "Kırıkkale Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "kirikkale__hukuk-felsefesi-donem-2",
+      "title": "Kırıkkale Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "kirikkale__hukuk-felsefesi-yillik",
+      "title": "Kırıkkale Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "aksaray__hukuk-felsefesi-donem-1",
+      "title": "Aksaray Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "aksaray__hukuk-felsefesi-donem-2",
+      "title": "Aksaray Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "aksaray__hukuk-felsefesi-yillik",
+      "title": "Aksaray Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "nigde__hukuk-felsefesi-donem-1",
+      "title": "ÖHÜ Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "nigde__hukuk-felsefesi-donem-2",
+      "title": "ÖHÜ Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "nigde__hukuk-felsefesi-yillik",
+      "title": "ÖHÜ Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "konya-teknik__hukuk-felsefesi-donem-1",
+      "title": "NEÜ Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "konya-teknik__hukuk-felsefesi-donem-2",
+      "title": "NEÜ Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "konya-teknik__hukuk-felsefesi-yillik",
+      "title": "NEÜ Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "karaman__hukuk-felsefesi-donem-1",
+      "title": "KMÜ Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "karaman__hukuk-felsefesi-donem-2",
+      "title": "KMÜ Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "karaman__hukuk-felsefesi-yillik",
+      "title": "KMÜ Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "usak__hukuk-felsefesi-donem-1",
+      "title": "Uşak Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "usak__hukuk-felsefesi-donem-2",
+      "title": "Uşak Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "usak__hukuk-felsefesi-yillik",
+      "title": "Uşak Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "manisa__hukuk-felsefesi-donem-1",
+      "title": "MCBÜ Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "manisa__hukuk-felsefesi-donem-2",
+      "title": "MCBÜ Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "manisa__hukuk-felsefesi-yillik",
+      "title": "MCBÜ Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "aydin-adu__hukuk-felsefesi-donem-1",
+      "title": "ADÜ Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "aydin-adu__hukuk-felsefesi-donem-2",
+      "title": "ADÜ Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "aydin-adu__hukuk-felsefesi-yillik",
+      "title": "ADÜ Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "tekirdag__hukuk-felsefesi-donem-1",
+      "title": "NKÜ Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "tekirdag__hukuk-felsefesi-donem-2",
+      "title": "NKÜ Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "tekirdag__hukuk-felsefesi-yillik",
+      "title": "NKÜ Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "kirklareli__hukuk-felsefesi-donem-1",
+      "title": "Kırklareli Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "kirklareli__hukuk-felsefesi-donem-2",
+      "title": "Kırklareli Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "kirklareli__hukuk-felsefesi-yillik",
+      "title": "Kırklareli Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "atilim__hukuk-felsefesi-donem-1",
+      "title": "Atılım Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "atilim__hukuk-felsefesi-donem-2",
+      "title": "Atılım Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "atilim__hukuk-felsefesi-yillik",
+      "title": "Atılım Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "cankaya__hukuk-felsefesi-donem-1",
+      "title": "Çankaya Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "cankaya__hukuk-felsefesi-donem-2",
+      "title": "Çankaya Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "cankaya__hukuk-felsefesi-yillik",
+      "title": "Çankaya Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "ufuk__hukuk-felsefesi-donem-1",
+      "title": "Ufuk Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "ufuk__hukuk-felsefesi-donem-2",
+      "title": "Ufuk Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "ufuk__hukuk-felsefesi-yillik",
+      "title": "Ufuk Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "yasar__hukuk-felsefesi-donem-1",
+      "title": "Yaşar Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "yasar__hukuk-felsefesi-donem-2",
+      "title": "Yaşar Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "yasar__hukuk-felsefesi-yillik",
+      "title": "Yaşar Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "izmir-ekonomi__hukuk-felsefesi-donem-1",
+      "title": "İEÜ Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "izmir-ekonomi__hukuk-felsefesi-donem-2",
+      "title": "İEÜ Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "izmir-ekonomi__hukuk-felsefesi-yillik",
+      "title": "İEÜ Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "tinaztepe__hukuk-felsefesi-donem-1",
+      "title": "Tınaztepe Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "tinaztepe__hukuk-felsefesi-donem-2",
+      "title": "Tınaztepe Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "tinaztepe__hukuk-felsefesi-yillik",
+      "title": "Tınaztepe Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "asbu-vakif__hukuk-felsefesi-donem-1",
+      "title": "ABÜ Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "asbu-vakif__hukuk-felsefesi-donem-2",
+      "title": "ABÜ Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "asbu-vakif__hukuk-felsefesi-yillik",
+      "title": "ABÜ Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "hasan-kalyoncu__hukuk-felsefesi-donem-1",
+      "title": "HKÜ Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "hasan-kalyoncu__hukuk-felsefesi-donem-2",
+      "title": "HKÜ Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "hasan-kalyoncu__hukuk-felsefesi-yillik",
+      "title": "HKÜ Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "sanko__hukuk-felsefesi-donem-1",
+      "title": "Sanko Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "sanko__hukuk-felsefesi-donem-2",
+      "title": "Sanko Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "sanko__hukuk-felsefesi-yillik",
+      "title": "Sanko Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "toros__hukuk-felsefesi-donem-1",
+      "title": "Toros Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "toros__hukuk-felsefesi-donem-2",
+      "title": "Toros Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "toros__hukuk-felsefesi-yillik",
+      "title": "Toros Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "hukuk-felsefesi-donem-1",
+      "slug": "cag__hukuk-felsefesi-donem-1",
+      "title": "Çağ Hukuk Felsefesi 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/hukuk-felsefesi-donem-1",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "hukuk-felsefesi-donem-2",
+      "slug": "cag__hukuk-felsefesi-donem-2",
+      "title": "Çağ Hukuk Felsefesi 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/hukuk-felsefesi-donem-2",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "hukuk-felsefesi-yillik",
+      "slug": "cag__hukuk-felsefesi-yillik",
+      "title": "Çağ Hukuk Felsefesi Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/hukuk-felsefesi-yillik",
+      "variantOf": "hukuk-felsefesi",
+      "variantLabel": "Yıllık (Tam paket)"
     }
   ],
   "borclarGenelTripleAt": "2026-07-29T20:05:58.703Z",
@@ -82705,5 +85945,6 @@
   "cezaOzelTripleAt": "2026-07-29T20:55:26.055Z",
   "cmkTripleAt": "2026-07-29T20:58:27.953Z",
   "idareHukukuTripleAt": "2026-07-29T21:01:24.134Z",
-  "idariYargilamaTripleAt": "2026-07-29T21:04:37.496Z"
+  "idariYargilamaTripleAt": "2026-07-29T21:04:37.496Z",
+  "hukukFelsefesiTripleAt": "2026-07-29T21:08:50.747Z"
 }

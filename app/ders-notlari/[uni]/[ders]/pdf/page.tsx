@@ -120,6 +120,9 @@ export default async function DersNotuPdfPage({ params }: Props) {
               'idari-yargilama-donem-1',
               'idari-yargilama-donem-2',
               'idari-yargilama-yillik',
+              'hukuk-felsefesi-donem-1',
+              'hukuk-felsefesi-donem-2',
+              'hukuk-felsefesi-yillik',
             ].map((code) => (
               <a
                 key={code}

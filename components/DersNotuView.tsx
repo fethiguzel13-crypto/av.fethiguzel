@@ -651,6 +651,18 @@ export function DersNotuView({
               </p>
             ),
           },
+          {
+            match:
+              note.variantOf === 'hukuk-felsefesi' ||
+              note.courseCode === 'hukuk-felsefesi' ||
+              note.courseCode.startsWith('hukuk-felsefesi-'),
+            title: 'Hukuk Felsefesi · üç paket',
+            items: [
+              { code: 'hukuk-felsefesi-donem-1', label: '1. Dönem (Güz)', desc: 'Akımlar · adalet · ahlak' },
+              { code: 'hukuk-felsefesi-donem-2', label: '2. Dönem (Bahar)', desc: 'Sosyoloji · yorum · hukuk devleti' },
+              { code: 'hukuk-felsefesi-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
+            ],
+          },
         ];
         const activePacks = packs.filter((p) => p.match);
         if (!activePacks.length) return null;
@@ -1290,6 +1302,23 @@ export function UniHubView({ hub }: { hub: UniHubContent }) {
               { code: 'idari-yargilama-donem-1', title: '1. Dönem (Güz)' },
               { code: 'idari-yargilama-donem-2', title: '2. Dönem (Bahar)' },
               { code: 'idari-yargilama-yillik', title: 'Yıllık tam not' },
+            ],
+          },
+          {
+            show: hub.courses.some(
+              (c) =>
+                String(c.code).startsWith('hukuk-felsefesi') ||
+                c.code === 'hukuk-felsefesi'
+            ),
+            title: 'Hukuk Felsefesi — 1. dönem · 2. dönem · yıllık',
+            desc: 'Akımlar–adalet–sosyoloji–hukuk devleti… üç premium not + PDF.',
+            border: 'border-accent/20 bg-accent/[0.04]',
+            itemBorder: 'border-accent/25',
+            accent: 'text-accent',
+            items: [
+              { code: 'hukuk-felsefesi-donem-1', title: '1. Dönem (Güz)' },
+              { code: 'hukuk-felsefesi-donem-2', title: '2. Dönem (Bahar)' },
+              { code: 'hukuk-felsefesi-yillik', title: 'Yıllık tam not' },
             ],
           },
         ]
