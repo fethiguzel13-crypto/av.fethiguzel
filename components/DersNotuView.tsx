@@ -662,6 +662,17 @@ export function DersNotuView({
               { code: 'hukuk-felsefesi-donem-2', label: '2. Dönem (Bahar)', desc: 'Sosyoloji · yorum · hukuk devleti' },
               { code: 'hukuk-felsefesi-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
             ],
+            footer: (
+              <p className="text-[11px] text-charcoal/45 mt-3 m-0">
+                Toplumda hukukun işleyişi için:{' '}
+                <Link
+                  href={`/ders-notlari/${note.uniSlug}/hukuk-sosyolojisi-yillik`}
+                  className="text-accent font-semibold hover:underline"
+                >
+                  Hukuk Sosyolojisi yıllık
+                </Link>
+              </p>
+            ),
           },
           {
             match:
@@ -793,6 +804,29 @@ export function DersNotuView({
                   className="text-accent font-semibold hover:underline"
                 >
                   MÖHUK yıllık
+                </Link>
+              </p>
+            ),
+          },
+          {
+            match:
+              note.variantOf === 'hukuk-sosyolojisi' ||
+              note.courseCode === 'hukuk-sosyolojisi' ||
+              note.courseCode.startsWith('hukuk-sosyolojisi-'),
+            title: 'Hukuk Sosyolojisi · üç paket',
+            items: [
+              { code: 'hukuk-sosyolojisi-donem-1', label: '1. Dönem (Güz)', desc: 'Metin–pratik · erişim' },
+              { code: 'hukuk-sosyolojisi-donem-2', label: '2. Dönem (Bahar)', desc: 'Uygulama · meşruiyet' },
+              { code: 'hukuk-sosyolojisi-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
+            ],
+            footer: (
+              <p className="text-[11px] text-charcoal/45 mt-3 m-0">
+                Ölçüt ve akımlar için:{' '}
+                <Link
+                  href={`/ders-notlari/${note.uniSlug}/hukuk-felsefesi-yillik`}
+                  className="text-accent font-semibold hover:underline"
+                >
+                  Hukuk Felsefesi yıllık
                 </Link>
               </p>
             ),
@@ -1624,6 +1658,23 @@ export function UniHubView({ hub }: { hub: UniHubContent }) {
               { code: 'milletlerarasi-hukuk-donem-1', title: '1. Dönem (Güz)' },
               { code: 'milletlerarasi-hukuk-donem-2', title: '2. Dönem (Bahar)' },
               { code: 'milletlerarasi-hukuk-yillik', title: 'Yıllık tam not' },
+            ],
+          },
+          {
+            show: hub.courses.some(
+              (c) =>
+                String(c.code).startsWith('hukuk-sosyolojisi') ||
+                c.code === 'hukuk-sosyolojisi'
+            ),
+            title: 'Hukuk Sosyolojisi — 1. dönem · 2. dönem · yıllık',
+            desc: 'Metin–pratik–erişim–meşruiyet–çoğulluk… üç premium not + PDF.',
+            border: 'border-primary/20 bg-primary/[0.04]',
+            itemBorder: 'border-primary/25',
+            accent: 'text-primary',
+            items: [
+              { code: 'hukuk-sosyolojisi-donem-1', title: '1. Dönem (Güz)' },
+              { code: 'hukuk-sosyolojisi-donem-2', title: '2. Dönem (Bahar)' },
+              { code: 'hukuk-sosyolojisi-yillik', title: 'Yıllık tam not' },
             ],
           },
         ]

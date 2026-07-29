@@ -3,7 +3,7 @@
   "wave": "all",
   "universityCount": 120,
   "hubCount": 120,
-  "noteCount": 13800,
+  "noteCount": 14160,
   "universities": [
     {
       "slug": "ankara-yildirim-beyazit",
@@ -118326,6 +118326,3246 @@
       "href": "/ders-notlari/cag/milletlerarasi-hukuk-yillik",
       "variantOf": "milletlerarasi-hukuk",
       "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "ankara-yildirim-beyazit__hukuk-sosyolojisi-donem-1",
+      "title": "AYBÜ Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "ankara-yildirim-beyazit__hukuk-sosyolojisi-donem-2",
+      "title": "AYBÜ Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "ankara-yildirim-beyazit__hukuk-sosyolojisi-yillik",
+      "title": "AYBÜ Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "ankara__hukuk-sosyolojisi-donem-1",
+      "title": "AÜHF Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "ankara__hukuk-sosyolojisi-donem-2",
+      "title": "AÜHF Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "ankara__hukuk-sosyolojisi-yillik",
+      "title": "AÜHF Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "istanbul__hukuk-sosyolojisi-donem-1",
+      "title": "İÜHF Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "istanbul__hukuk-sosyolojisi-donem-2",
+      "title": "İÜHF Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "istanbul__hukuk-sosyolojisi-yillik",
+      "title": "İÜHF Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "marmara__hukuk-sosyolojisi-donem-1",
+      "title": "MÜHF Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "marmara__hukuk-sosyolojisi-donem-2",
+      "title": "MÜHF Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "marmara__hukuk-sosyolojisi-yillik",
+      "title": "MÜHF Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "galatasaray__hukuk-sosyolojisi-donem-1",
+      "title": "GSÜ Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "galatasaray__hukuk-sosyolojisi-donem-2",
+      "title": "GSÜ Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "galatasaray__hukuk-sosyolojisi-yillik",
+      "title": "GSÜ Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "dokuz-eylul__hukuk-sosyolojisi-donem-1",
+      "title": "DEÜ Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "dokuz-eylul__hukuk-sosyolojisi-donem-2",
+      "title": "DEÜ Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "dokuz-eylul__hukuk-sosyolojisi-yillik",
+      "title": "DEÜ Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "hacettepe__hukuk-sosyolojisi-donem-1",
+      "title": "Hacettepe Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "hacettepe__hukuk-sosyolojisi-donem-2",
+      "title": "Hacettepe Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "hacettepe__hukuk-sosyolojisi-yillik",
+      "title": "Hacettepe Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "ankara-hacibayram__hukuk-sosyolojisi-donem-1",
+      "title": "AHBV Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "ankara-hacibayram__hukuk-sosyolojisi-donem-2",
+      "title": "AHBV Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "ankara-hacibayram__hukuk-sosyolojisi-yillik",
+      "title": "AHBV Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "bilkent__hukuk-sosyolojisi-donem-1",
+      "title": "Bilkent Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "bilkent__hukuk-sosyolojisi-donem-2",
+      "title": "Bilkent Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "bilkent__hukuk-sosyolojisi-yillik",
+      "title": "Bilkent Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "koc__hukuk-sosyolojisi-donem-1",
+      "title": "Koç Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "koc__hukuk-sosyolojisi-donem-2",
+      "title": "Koç Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "koc__hukuk-sosyolojisi-yillik",
+      "title": "Koç Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "tobb-etu__hukuk-sosyolojisi-donem-1",
+      "title": "TOBB ETÜ Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "tobb-etu__hukuk-sosyolojisi-donem-2",
+      "title": "TOBB ETÜ Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "tobb-etu__hukuk-sosyolojisi-yillik",
+      "title": "TOBB ETÜ Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "bogazici__hukuk-sosyolojisi-donem-1",
+      "title": "BÜ Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "bogazici__hukuk-sosyolojisi-donem-2",
+      "title": "BÜ Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "bogazici__hukuk-sosyolojisi-yillik",
+      "title": "BÜ Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "ege__hukuk-sosyolojisi-donem-1",
+      "title": "Ege Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "ege__hukuk-sosyolojisi-donem-2",
+      "title": "Ege Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "ege__hukuk-sosyolojisi-yillik",
+      "title": "Ege Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "akdeniz__hukuk-sosyolojisi-donem-1",
+      "title": "Akdeniz Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "akdeniz__hukuk-sosyolojisi-donem-2",
+      "title": "Akdeniz Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "akdeniz__hukuk-sosyolojisi-yillik",
+      "title": "Akdeniz Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "selcuk__hukuk-sosyolojisi-donem-1",
+      "title": "Selçuk Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "selcuk__hukuk-sosyolojisi-donem-2",
+      "title": "Selçuk Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "selcuk__hukuk-sosyolojisi-yillik",
+      "title": "Selçuk Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "erciyes__hukuk-sosyolojisi-donem-1",
+      "title": "Erciyes Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "erciyes__hukuk-sosyolojisi-donem-2",
+      "title": "Erciyes Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "erciyes__hukuk-sosyolojisi-yillik",
+      "title": "Erciyes Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "uludag__hukuk-sosyolojisi-donem-1",
+      "title": "Uludağ Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "uludag__hukuk-sosyolojisi-donem-2",
+      "title": "Uludağ Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "uludag__hukuk-sosyolojisi-yillik",
+      "title": "Uludağ Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "cukurova__hukuk-sosyolojisi-donem-1",
+      "title": "Çukurova Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "cukurova__hukuk-sosyolojisi-donem-2",
+      "title": "Çukurova Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "cukurova__hukuk-sosyolojisi-yillik",
+      "title": "Çukurova Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "anadolu__hukuk-sosyolojisi-donem-1",
+      "title": "Anadolu Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "anadolu__hukuk-sosyolojisi-donem-2",
+      "title": "Anadolu Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "anadolu__hukuk-sosyolojisi-yillik",
+      "title": "Anadolu Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "gazi-ankara__hukuk-sosyolojisi-donem-1",
+      "title": "ASBÜ Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "gazi-ankara__hukuk-sosyolojisi-donem-2",
+      "title": "ASBÜ Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "gazi-ankara__hukuk-sosyolojisi-yillik",
+      "title": "ASBÜ Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "yildiz-teknik__hukuk-sosyolojisi-donem-1",
+      "title": "YTÜ Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "yildiz-teknik__hukuk-sosyolojisi-donem-2",
+      "title": "YTÜ Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "yildiz-teknik__hukuk-sosyolojisi-yillik",
+      "title": "YTÜ Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "istanbul-medeniyet__hukuk-sosyolojisi-donem-1",
+      "title": "Medeniyet Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "istanbul-medeniyet__hukuk-sosyolojisi-donem-2",
+      "title": "Medeniyet Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "istanbul-medeniyet__hukuk-sosyolojisi-yillik",
+      "title": "Medeniyet Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "bahcesehir__hukuk-sosyolojisi-donem-1",
+      "title": "BAU Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "bahcesehir__hukuk-sosyolojisi-donem-2",
+      "title": "BAU Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "bahcesehir__hukuk-sosyolojisi-yillik",
+      "title": "BAU Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "yeditepe__hukuk-sosyolojisi-donem-1",
+      "title": "Yeditepe Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "yeditepe__hukuk-sosyolojisi-donem-2",
+      "title": "Yeditepe Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "yeditepe__hukuk-sosyolojisi-yillik",
+      "title": "Yeditepe Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "ozyegin__hukuk-sosyolojisi-donem-1",
+      "title": "Özyeğin Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "ozyegin__hukuk-sosyolojisi-donem-2",
+      "title": "Özyeğin Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "ozyegin__hukuk-sosyolojisi-yillik",
+      "title": "Özyeğin Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "kadir-has__hukuk-sosyolojisi-donem-1",
+      "title": "KHAS Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "kadir-has__hukuk-sosyolojisi-donem-2",
+      "title": "KHAS Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "kadir-has__hukuk-sosyolojisi-yillik",
+      "title": "KHAS Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "istanbul-bilgi__hukuk-sosyolojisi-donem-1",
+      "title": "Bilgi Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "istanbul-bilgi__hukuk-sosyolojisi-donem-2",
+      "title": "Bilgi Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "istanbul-bilgi__hukuk-sosyolojisi-yillik",
+      "title": "Bilgi Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "mehmet-akif__hukuk-sosyolojisi-donem-1",
+      "title": "Medipol Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "mehmet-akif__hukuk-sosyolojisi-donem-2",
+      "title": "Medipol Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "mehmet-akif__hukuk-sosyolojisi-yillik",
+      "title": "Medipol Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "altinbas__hukuk-sosyolojisi-donem-1",
+      "title": "Altınbaş Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "altinbas__hukuk-sosyolojisi-donem-2",
+      "title": "Altınbaş Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "altinbas__hukuk-sosyolojisi-yillik",
+      "title": "Altınbaş Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "maltepe__hukuk-sosyolojisi-donem-1",
+      "title": "Maltepe Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "maltepe__hukuk-sosyolojisi-donem-2",
+      "title": "Maltepe Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "maltepe__hukuk-sosyolojisi-yillik",
+      "title": "Maltepe Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "dogus__hukuk-sosyolojisi-donem-1",
+      "title": "Doğuş Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "dogus__hukuk-sosyolojisi-donem-2",
+      "title": "Doğuş Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "dogus__hukuk-sosyolojisi-yillik",
+      "title": "Doğuş Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "isik__hukuk-sosyolojisi-donem-1",
+      "title": "Işık Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "isik__hukuk-sosyolojisi-donem-2",
+      "title": "Işık Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "isik__hukuk-sosyolojisi-yillik",
+      "title": "Işık Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "okan__hukuk-sosyolojisi-donem-1",
+      "title": "Okan Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "okan__hukuk-sosyolojisi-donem-2",
+      "title": "Okan Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "okan__hukuk-sosyolojisi-yillik",
+      "title": "Okan Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "kultur__hukuk-sosyolojisi-donem-1",
+      "title": "İKÜ Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "kultur__hukuk-sosyolojisi-donem-2",
+      "title": "İKÜ Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "kultur__hukuk-sosyolojisi-yillik",
+      "title": "İKÜ Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "aydin__hukuk-sosyolojisi-donem-1",
+      "title": "İAÜ Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "aydin__hukuk-sosyolojisi-donem-2",
+      "title": "İAÜ Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "aydin__hukuk-sosyolojisi-yillik",
+      "title": "İAÜ Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "gelisim__hukuk-sosyolojisi-donem-1",
+      "title": "Gelişim Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "gelisim__hukuk-sosyolojisi-donem-2",
+      "title": "Gelişim Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "gelisim__hukuk-sosyolojisi-yillik",
+      "title": "Gelişim Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "topkapi__hukuk-sosyolojisi-donem-1",
+      "title": "Topkapı Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "topkapi__hukuk-sosyolojisi-donem-2",
+      "title": "Topkapı Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "topkapi__hukuk-sosyolojisi-yillik",
+      "title": "Topkapı Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "nisantasi__hukuk-sosyolojisi-donem-1",
+      "title": "Nişantaşı Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "nisantasi__hukuk-sosyolojisi-donem-2",
+      "title": "Nişantaşı Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "nisantasi__hukuk-sosyolojisi-yillik",
+      "title": "Nişantaşı Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "beykent__hukuk-sosyolojisi-donem-1",
+      "title": "Beykent Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "beykent__hukuk-sosyolojisi-donem-2",
+      "title": "Beykent Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "beykent__hukuk-sosyolojisi-yillik",
+      "title": "Beykent Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "halic__hukuk-sosyolojisi-donem-1",
+      "title": "Haliç Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "halic__hukuk-sosyolojisi-donem-2",
+      "title": "Haliç Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "halic__hukuk-sosyolojisi-yillik",
+      "title": "Haliç Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "fatih-sultan__hukuk-sosyolojisi-donem-1",
+      "title": "FSMVÜ Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "fatih-sultan__hukuk-sosyolojisi-donem-2",
+      "title": "FSMVÜ Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "fatih-sultan__hukuk-sosyolojisi-yillik",
+      "title": "FSMVÜ Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "karadeniz-teknik__hukuk-sosyolojisi-donem-1",
+      "title": "KTÜ Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "karadeniz-teknik__hukuk-sosyolojisi-donem-2",
+      "title": "KTÜ Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "karadeniz-teknik__hukuk-sosyolojisi-yillik",
+      "title": "KTÜ Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "ataturk__hukuk-sosyolojisi-donem-1",
+      "title": "Atatürk Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "ataturk__hukuk-sosyolojisi-donem-2",
+      "title": "Atatürk Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "ataturk__hukuk-sosyolojisi-yillik",
+      "title": "Atatürk Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "inonu__hukuk-sosyolojisi-donem-1",
+      "title": "İnönü Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "inonu__hukuk-sosyolojisi-donem-2",
+      "title": "İnönü Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "inonu__hukuk-sosyolojisi-yillik",
+      "title": "İnönü Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "dicle__hukuk-sosyolojisi-donem-1",
+      "title": "Dicle Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "dicle__hukuk-sosyolojisi-donem-2",
+      "title": "Dicle Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "dicle__hukuk-sosyolojisi-yillik",
+      "title": "Dicle Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "firat__hukuk-sosyolojisi-donem-1",
+      "title": "Fırat Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "firat__hukuk-sosyolojisi-donem-2",
+      "title": "Fırat Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "firat__hukuk-sosyolojisi-yillik",
+      "title": "Fırat Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "gaziantep__hukuk-sosyolojisi-donem-1",
+      "title": "GAÜN Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "gaziantep__hukuk-sosyolojisi-donem-2",
+      "title": "GAÜN Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "gaziantep__hukuk-sosyolojisi-yillik",
+      "title": "GAÜN Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "suleyman-demirel__hukuk-sosyolojisi-donem-1",
+      "title": "SDÜ Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "suleyman-demirel__hukuk-sosyolojisi-donem-2",
+      "title": "SDÜ Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "suleyman-demirel__hukuk-sosyolojisi-yillik",
+      "title": "SDÜ Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "pamukkale__hukuk-sosyolojisi-donem-1",
+      "title": "PAÜ Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "pamukkale__hukuk-sosyolojisi-donem-2",
+      "title": "PAÜ Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "pamukkale__hukuk-sosyolojisi-yillik",
+      "title": "PAÜ Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "mugla__hukuk-sosyolojisi-donem-1",
+      "title": "MSKU Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "mugla__hukuk-sosyolojisi-donem-2",
+      "title": "MSKU Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "mugla__hukuk-sosyolojisi-yillik",
+      "title": "MSKU Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "sakarya__hukuk-sosyolojisi-donem-1",
+      "title": "SAÜ Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "sakarya__hukuk-sosyolojisi-donem-2",
+      "title": "SAÜ Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "sakarya__hukuk-sosyolojisi-yillik",
+      "title": "SAÜ Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "kocaeli__hukuk-sosyolojisi-donem-1",
+      "title": "KOÜ Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "kocaeli__hukuk-sosyolojisi-donem-2",
+      "title": "KOÜ Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "kocaeli__hukuk-sosyolojisi-yillik",
+      "title": "KOÜ Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "trakya__hukuk-sosyolojisi-donem-1",
+      "title": "Trakya Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "trakya__hukuk-sosyolojisi-donem-2",
+      "title": "Trakya Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "trakya__hukuk-sosyolojisi-yillik",
+      "title": "Trakya Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "canakkale__hukuk-sosyolojisi-donem-1",
+      "title": "ÇOMÜ Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "canakkale__hukuk-sosyolojisi-donem-2",
+      "title": "ÇOMÜ Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "canakkale__hukuk-sosyolojisi-yillik",
+      "title": "ÇOMÜ Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "balikesir__hukuk-sosyolojisi-donem-1",
+      "title": "BAÜN Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "balikesir__hukuk-sosyolojisi-donem-2",
+      "title": "BAÜN Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "balikesir__hukuk-sosyolojisi-yillik",
+      "title": "BAÜN Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "afyon__hukuk-sosyolojisi-donem-1",
+      "title": "AKÜ Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "afyon__hukuk-sosyolojisi-donem-2",
+      "title": "AKÜ Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "afyon__hukuk-sosyolojisi-yillik",
+      "title": "AKÜ Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "dumlupinar__hukuk-sosyolojisi-donem-1",
+      "title": "DPÜ Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "dumlupinar__hukuk-sosyolojisi-donem-2",
+      "title": "DPÜ Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "dumlupinar__hukuk-sosyolojisi-yillik",
+      "title": "DPÜ Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "eskisehir-osmangazi__hukuk-sosyolojisi-donem-1",
+      "title": "ESOGÜ Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "eskisehir-osmangazi__hukuk-sosyolojisi-donem-2",
+      "title": "ESOGÜ Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "eskisehir-osmangazi__hukuk-sosyolojisi-yillik",
+      "title": "ESOGÜ Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "sivas-cumhuriyet__hukuk-sosyolojisi-donem-1",
+      "title": "SCÜ Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "sivas-cumhuriyet__hukuk-sosyolojisi-donem-2",
+      "title": "SCÜ Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "sivas-cumhuriyet__hukuk-sosyolojisi-yillik",
+      "title": "SCÜ Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "tokat__hukuk-sosyolojisi-donem-1",
+      "title": "TOGÜ Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "tokat__hukuk-sosyolojisi-donem-2",
+      "title": "TOGÜ Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "tokat__hukuk-sosyolojisi-yillik",
+      "title": "TOGÜ Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "yozgat__hukuk-sosyolojisi-donem-1",
+      "title": "Bozok Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "yozgat__hukuk-sosyolojisi-donem-2",
+      "title": "Bozok Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "yozgat__hukuk-sosyolojisi-yillik",
+      "title": "Bozok Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "kirsehir__hukuk-sosyolojisi-donem-1",
+      "title": "AHİEVRAN Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "kirsehir__hukuk-sosyolojisi-donem-2",
+      "title": "AHİEVRAN Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "kirsehir__hukuk-sosyolojisi-yillik",
+      "title": "AHİEVRAN Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "nevsehir__hukuk-sosyolojisi-donem-1",
+      "title": "NEVÜ Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "nevsehir__hukuk-sosyolojisi-donem-2",
+      "title": "NEVÜ Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "nevsehir__hukuk-sosyolojisi-yillik",
+      "title": "NEVÜ Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "mersin__hukuk-sosyolojisi-donem-1",
+      "title": "MEÜ Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "mersin__hukuk-sosyolojisi-donem-2",
+      "title": "MEÜ Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "mersin__hukuk-sosyolojisi-yillik",
+      "title": "MEÜ Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "hatay__hukuk-sosyolojisi-donem-1",
+      "title": "MKÜ Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "hatay__hukuk-sosyolojisi-donem-2",
+      "title": "MKÜ Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "hatay__hukuk-sosyolojisi-yillik",
+      "title": "MKÜ Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "kahramanmaras__hukuk-sosyolojisi-donem-1",
+      "title": "KSÜ Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "kahramanmaras__hukuk-sosyolojisi-donem-2",
+      "title": "KSÜ Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "kahramanmaras__hukuk-sosyolojisi-yillik",
+      "title": "KSÜ Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "osmaniye__hukuk-sosyolojisi-donem-1",
+      "title": "OKÜ Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "osmaniye__hukuk-sosyolojisi-donem-2",
+      "title": "OKÜ Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "osmaniye__hukuk-sosyolojisi-yillik",
+      "title": "OKÜ Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "samsun__hukuk-sosyolojisi-donem-1",
+      "title": "OMÜ Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "samsun__hukuk-sosyolojisi-donem-2",
+      "title": "OMÜ Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "samsun__hukuk-sosyolojisi-yillik",
+      "title": "OMÜ Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "ordu__hukuk-sosyolojisi-donem-1",
+      "title": "ODÜ Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "ordu__hukuk-sosyolojisi-donem-2",
+      "title": "ODÜ Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "ordu__hukuk-sosyolojisi-yillik",
+      "title": "ODÜ Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "giresun__hukuk-sosyolojisi-donem-1",
+      "title": "GÜ Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "giresun__hukuk-sosyolojisi-donem-2",
+      "title": "GÜ Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "giresun__hukuk-sosyolojisi-yillik",
+      "title": "GÜ Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "rize__hukuk-sosyolojisi-donem-1",
+      "title": "RTEÜ Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "rize__hukuk-sosyolojisi-donem-2",
+      "title": "RTEÜ Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "rize__hukuk-sosyolojisi-yillik",
+      "title": "RTEÜ Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "artvin__hukuk-sosyolojisi-donem-1",
+      "title": "AÇÜ Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "artvin__hukuk-sosyolojisi-donem-2",
+      "title": "AÇÜ Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "artvin__hukuk-sosyolojisi-yillik",
+      "title": "AÇÜ Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "van-yyu__hukuk-sosyolojisi-donem-1",
+      "title": "YYÜ Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "van-yyu__hukuk-sosyolojisi-donem-2",
+      "title": "YYÜ Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "van-yyu__hukuk-sosyolojisi-yillik",
+      "title": "YYÜ Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "agri__hukuk-sosyolojisi-donem-1",
+      "title": "AİÇÜ Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "agri__hukuk-sosyolojisi-donem-2",
+      "title": "AİÇÜ Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "agri__hukuk-sosyolojisi-yillik",
+      "title": "AİÇÜ Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "kars__hukuk-sosyolojisi-donem-1",
+      "title": "Kafkas Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "kars__hukuk-sosyolojisi-donem-2",
+      "title": "Kafkas Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "kars__hukuk-sosyolojisi-yillik",
+      "title": "Kafkas Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "erzincan__hukuk-sosyolojisi-donem-1",
+      "title": "EBYÜ Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "erzincan__hukuk-sosyolojisi-donem-2",
+      "title": "EBYÜ Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "erzincan__hukuk-sosyolojisi-yillik",
+      "title": "EBYÜ Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "bayburt__hukuk-sosyolojisi-donem-1",
+      "title": "Bayburt Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "bayburt__hukuk-sosyolojisi-donem-2",
+      "title": "Bayburt Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "bayburt__hukuk-sosyolojisi-yillik",
+      "title": "Bayburt Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "gumushane__hukuk-sosyolojisi-donem-1",
+      "title": "Gümüşhane Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "gumushane__hukuk-sosyolojisi-donem-2",
+      "title": "Gümüşhane Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "gumushane__hukuk-sosyolojisi-yillik",
+      "title": "Gümüşhane Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "bingol__hukuk-sosyolojisi-donem-1",
+      "title": "Bingöl Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "bingol__hukuk-sosyolojisi-donem-2",
+      "title": "Bingöl Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "bingol__hukuk-sosyolojisi-yillik",
+      "title": "Bingöl Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "mus__hukuk-sosyolojisi-donem-1",
+      "title": "Muş Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "mus__hukuk-sosyolojisi-donem-2",
+      "title": "Muş Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "mus__hukuk-sosyolojisi-yillik",
+      "title": "Muş Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "hakkari__hukuk-sosyolojisi-donem-1",
+      "title": "Hakkâri Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "hakkari__hukuk-sosyolojisi-donem-2",
+      "title": "Hakkâri Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "hakkari__hukuk-sosyolojisi-yillik",
+      "title": "Hakkâri Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "sirnak__hukuk-sosyolojisi-donem-1",
+      "title": "Şırnak Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "sirnak__hukuk-sosyolojisi-donem-2",
+      "title": "Şırnak Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "sirnak__hukuk-sosyolojisi-yillik",
+      "title": "Şırnak Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "mardin__hukuk-sosyolojisi-donem-1",
+      "title": "Artuklu Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "mardin__hukuk-sosyolojisi-donem-2",
+      "title": "Artuklu Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "mardin__hukuk-sosyolojisi-yillik",
+      "title": "Artuklu Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "batman__hukuk-sosyolojisi-donem-1",
+      "title": "Batman Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "batman__hukuk-sosyolojisi-donem-2",
+      "title": "Batman Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "batman__hukuk-sosyolojisi-yillik",
+      "title": "Batman Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "siirt__hukuk-sosyolojisi-donem-1",
+      "title": "Siirt Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "siirt__hukuk-sosyolojisi-donem-2",
+      "title": "Siirt Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "siirt__hukuk-sosyolojisi-yillik",
+      "title": "Siirt Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "adiyaman__hukuk-sosyolojisi-donem-1",
+      "title": "Adıyaman Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "adiyaman__hukuk-sosyolojisi-donem-2",
+      "title": "Adıyaman Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "adiyaman__hukuk-sosyolojisi-yillik",
+      "title": "Adıyaman Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "kilis__hukuk-sosyolojisi-donem-1",
+      "title": "Kilis Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "kilis__hukuk-sosyolojisi-donem-2",
+      "title": "Kilis Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "kilis__hukuk-sosyolojisi-yillik",
+      "title": "Kilis Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "igdir__hukuk-sosyolojisi-donem-1",
+      "title": "Iğdır Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "igdir__hukuk-sosyolojisi-donem-2",
+      "title": "Iğdır Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "igdir__hukuk-sosyolojisi-yillik",
+      "title": "Iğdır Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "ardahan__hukuk-sosyolojisi-donem-1",
+      "title": "Ardahan Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "ardahan__hukuk-sosyolojisi-donem-2",
+      "title": "Ardahan Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "ardahan__hukuk-sosyolojisi-yillik",
+      "title": "Ardahan Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "bilecik__hukuk-sosyolojisi-donem-1",
+      "title": "BŞEÜ Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "bilecik__hukuk-sosyolojisi-donem-2",
+      "title": "BŞEÜ Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "bilecik__hukuk-sosyolojisi-yillik",
+      "title": "BŞEÜ Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "bolu__hukuk-sosyolojisi-donem-1",
+      "title": "BAİBÜ Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "bolu__hukuk-sosyolojisi-donem-2",
+      "title": "BAİBÜ Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "bolu__hukuk-sosyolojisi-yillik",
+      "title": "BAİBÜ Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "duzce__hukuk-sosyolojisi-donem-1",
+      "title": "Düzce Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "duzce__hukuk-sosyolojisi-donem-2",
+      "title": "Düzce Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "duzce__hukuk-sosyolojisi-yillik",
+      "title": "Düzce Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "zonguldak__hukuk-sosyolojisi-donem-1",
+      "title": "BEÜN Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "zonguldak__hukuk-sosyolojisi-donem-2",
+      "title": "BEÜN Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "zonguldak__hukuk-sosyolojisi-yillik",
+      "title": "BEÜN Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "karabuk__hukuk-sosyolojisi-donem-1",
+      "title": "KBÜ Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "karabuk__hukuk-sosyolojisi-donem-2",
+      "title": "KBÜ Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "karabuk__hukuk-sosyolojisi-yillik",
+      "title": "KBÜ Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "kastamonu__hukuk-sosyolojisi-donem-1",
+      "title": "KÜ Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "kastamonu__hukuk-sosyolojisi-donem-2",
+      "title": "KÜ Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "kastamonu__hukuk-sosyolojisi-yillik",
+      "title": "KÜ Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "sinop__hukuk-sosyolojisi-donem-1",
+      "title": "Sinop Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "sinop__hukuk-sosyolojisi-donem-2",
+      "title": "Sinop Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "sinop__hukuk-sosyolojisi-yillik",
+      "title": "Sinop Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "corum__hukuk-sosyolojisi-donem-1",
+      "title": "Hitit Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "corum__hukuk-sosyolojisi-donem-2",
+      "title": "Hitit Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "corum__hukuk-sosyolojisi-yillik",
+      "title": "Hitit Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "amasya__hukuk-sosyolojisi-donem-1",
+      "title": "Amasya Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "amasya__hukuk-sosyolojisi-donem-2",
+      "title": "Amasya Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "amasya__hukuk-sosyolojisi-yillik",
+      "title": "Amasya Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "cankiri__hukuk-sosyolojisi-donem-1",
+      "title": "Karatekin Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "cankiri__hukuk-sosyolojisi-donem-2",
+      "title": "Karatekin Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "cankiri__hukuk-sosyolojisi-yillik",
+      "title": "Karatekin Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "kirikkale__hukuk-sosyolojisi-donem-1",
+      "title": "Kırıkkale Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "kirikkale__hukuk-sosyolojisi-donem-2",
+      "title": "Kırıkkale Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "kirikkale__hukuk-sosyolojisi-yillik",
+      "title": "Kırıkkale Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "aksaray__hukuk-sosyolojisi-donem-1",
+      "title": "Aksaray Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "aksaray__hukuk-sosyolojisi-donem-2",
+      "title": "Aksaray Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "aksaray__hukuk-sosyolojisi-yillik",
+      "title": "Aksaray Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "nigde__hukuk-sosyolojisi-donem-1",
+      "title": "ÖHÜ Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "nigde__hukuk-sosyolojisi-donem-2",
+      "title": "ÖHÜ Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "nigde__hukuk-sosyolojisi-yillik",
+      "title": "ÖHÜ Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "konya-teknik__hukuk-sosyolojisi-donem-1",
+      "title": "NEÜ Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "konya-teknik__hukuk-sosyolojisi-donem-2",
+      "title": "NEÜ Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "konya-teknik__hukuk-sosyolojisi-yillik",
+      "title": "NEÜ Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "karaman__hukuk-sosyolojisi-donem-1",
+      "title": "KMÜ Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "karaman__hukuk-sosyolojisi-donem-2",
+      "title": "KMÜ Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "karaman__hukuk-sosyolojisi-yillik",
+      "title": "KMÜ Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "usak__hukuk-sosyolojisi-donem-1",
+      "title": "Uşak Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "usak__hukuk-sosyolojisi-donem-2",
+      "title": "Uşak Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "usak__hukuk-sosyolojisi-yillik",
+      "title": "Uşak Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "manisa__hukuk-sosyolojisi-donem-1",
+      "title": "MCBÜ Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "manisa__hukuk-sosyolojisi-donem-2",
+      "title": "MCBÜ Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "manisa__hukuk-sosyolojisi-yillik",
+      "title": "MCBÜ Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "aydin-adu__hukuk-sosyolojisi-donem-1",
+      "title": "ADÜ Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "aydin-adu__hukuk-sosyolojisi-donem-2",
+      "title": "ADÜ Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "aydin-adu__hukuk-sosyolojisi-yillik",
+      "title": "ADÜ Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "tekirdag__hukuk-sosyolojisi-donem-1",
+      "title": "NKÜ Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "tekirdag__hukuk-sosyolojisi-donem-2",
+      "title": "NKÜ Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "tekirdag__hukuk-sosyolojisi-yillik",
+      "title": "NKÜ Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "kirklareli__hukuk-sosyolojisi-donem-1",
+      "title": "Kırklareli Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "kirklareli__hukuk-sosyolojisi-donem-2",
+      "title": "Kırklareli Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "kirklareli__hukuk-sosyolojisi-yillik",
+      "title": "Kırklareli Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "atilim__hukuk-sosyolojisi-donem-1",
+      "title": "Atılım Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "atilim__hukuk-sosyolojisi-donem-2",
+      "title": "Atılım Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "atilim__hukuk-sosyolojisi-yillik",
+      "title": "Atılım Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "cankaya__hukuk-sosyolojisi-donem-1",
+      "title": "Çankaya Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "cankaya__hukuk-sosyolojisi-donem-2",
+      "title": "Çankaya Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "cankaya__hukuk-sosyolojisi-yillik",
+      "title": "Çankaya Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "ufuk__hukuk-sosyolojisi-donem-1",
+      "title": "Ufuk Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "ufuk__hukuk-sosyolojisi-donem-2",
+      "title": "Ufuk Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "ufuk__hukuk-sosyolojisi-yillik",
+      "title": "Ufuk Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "yasar__hukuk-sosyolojisi-donem-1",
+      "title": "Yaşar Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "yasar__hukuk-sosyolojisi-donem-2",
+      "title": "Yaşar Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "yasar__hukuk-sosyolojisi-yillik",
+      "title": "Yaşar Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "izmir-ekonomi__hukuk-sosyolojisi-donem-1",
+      "title": "İEÜ Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "izmir-ekonomi__hukuk-sosyolojisi-donem-2",
+      "title": "İEÜ Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "izmir-ekonomi__hukuk-sosyolojisi-yillik",
+      "title": "İEÜ Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "tinaztepe__hukuk-sosyolojisi-donem-1",
+      "title": "Tınaztepe Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "tinaztepe__hukuk-sosyolojisi-donem-2",
+      "title": "Tınaztepe Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "tinaztepe__hukuk-sosyolojisi-yillik",
+      "title": "Tınaztepe Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "asbu-vakif__hukuk-sosyolojisi-donem-1",
+      "title": "ABÜ Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "asbu-vakif__hukuk-sosyolojisi-donem-2",
+      "title": "ABÜ Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "asbu-vakif__hukuk-sosyolojisi-yillik",
+      "title": "ABÜ Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "hasan-kalyoncu__hukuk-sosyolojisi-donem-1",
+      "title": "HKÜ Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "hasan-kalyoncu__hukuk-sosyolojisi-donem-2",
+      "title": "HKÜ Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "hasan-kalyoncu__hukuk-sosyolojisi-yillik",
+      "title": "HKÜ Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "sanko__hukuk-sosyolojisi-donem-1",
+      "title": "Sanko Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "sanko__hukuk-sosyolojisi-donem-2",
+      "title": "Sanko Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "sanko__hukuk-sosyolojisi-yillik",
+      "title": "Sanko Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "toros__hukuk-sosyolojisi-donem-1",
+      "title": "Toros Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "toros__hukuk-sosyolojisi-donem-2",
+      "title": "Toros Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "toros__hukuk-sosyolojisi-yillik",
+      "title": "Toros Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "hukuk-sosyolojisi-donem-1",
+      "slug": "cag__hukuk-sosyolojisi-donem-1",
+      "title": "Çağ Hukuk Sosyolojisi 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/hukuk-sosyolojisi-donem-1",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "hukuk-sosyolojisi-donem-2",
+      "slug": "cag__hukuk-sosyolojisi-donem-2",
+      "title": "Çağ Hukuk Sosyolojisi 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/hukuk-sosyolojisi-donem-2",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "hukuk-sosyolojisi-yillik",
+      "slug": "cag__hukuk-sosyolojisi-yillik",
+      "title": "Çağ Hukuk Sosyolojisi Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/hukuk-sosyolojisi-yillik",
+      "variantOf": "hukuk-sosyolojisi",
+      "variantLabel": "Yıllık (Tam paket)"
     }
   ],
   "borclarGenelTripleAt": "2026-07-29T20:05:58.703Z",
@@ -118356,5 +121596,6 @@
   "hukukaGirisTripleAt": "2026-07-29T21:28:58.325Z",
   "anayasaTripleAt": "2026-07-29T21:32:17.211Z",
   "romaHukukuTripleAt": "2026-07-29T21:35:13.772Z",
-  "milletlerarasiHukukTripleAt": "2026-07-29T21:38:10.199Z"
+  "milletlerarasiHukukTripleAt": "2026-07-29T21:38:10.199Z",
+  "hukukSosyolojisiTripleAt": "2026-07-29T21:41:19.291Z"
 }

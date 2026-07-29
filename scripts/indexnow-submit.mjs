@@ -211,6 +211,11 @@ const PRIORITY = [
   `https://${HOST}/ders-notlari/ankara-yildirim-beyazit/milletlerarasi-hukuk-yillik`,
   `https://${HOST}/ders-notlari/ankara-yildirim-beyazit/milletlerarasi-hukuk-donem-1/pdf`,
   `https://${HOST}/ders-notlari/marmara/milletlerarasi-hukuk-yillik`,
+  `https://${HOST}/ders-notlari/ankara-yildirim-beyazit/hukuk-sosyolojisi-donem-1`,
+  `https://${HOST}/ders-notlari/ankara-yildirim-beyazit/hukuk-sosyolojisi-donem-2`,
+  `https://${HOST}/ders-notlari/ankara-yildirim-beyazit/hukuk-sosyolojisi-yillik`,
+  `https://${HOST}/ders-notlari/ankara-yildirim-beyazit/hukuk-sosyolojisi-donem-1/pdf`,
+  `https://${HOST}/ders-notlari/marmara/hukuk-sosyolojisi-yillik`,
 ];
 
 // First 80 TBK maddeleri — crawl seed

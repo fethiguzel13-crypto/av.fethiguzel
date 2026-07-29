@@ -153,6 +153,9 @@ export default async function DersNotuPdfPage({ params }: Props) {
               'milletlerarasi-hukuk-donem-1',
               'milletlerarasi-hukuk-donem-2',
               'milletlerarasi-hukuk-yillik',
+              'hukuk-sosyolojisi-donem-1',
+              'hukuk-sosyolojisi-donem-2',
+              'hukuk-sosyolojisi-yillik',
             ].map((code) => (
               <a
                 key={code}
