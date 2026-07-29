@@ -687,6 +687,18 @@ export function DersNotuView({
               { code: 'saglik-hukuku-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
             ],
           },
+          {
+            match:
+              note.variantOf === 'tuketici-hukuku' ||
+              note.courseCode === 'tuketici-hukuku' ||
+              note.courseCode.startsWith('tuketici-hukuku-'),
+            title: 'Tüketici Hukuku · üç paket',
+            items: [
+              { code: 'tuketici-hukuku-donem-1', label: '1. Dönem (Güz)', desc: 'Ayıp · haksız şart' },
+              { code: 'tuketici-hukuku-donem-2', label: '2. Dönem (Bahar)', desc: 'Cayma · merciler' },
+              { code: 'tuketici-hukuku-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
+            ],
+          },
         ];
         const activePacks = packs.filter((p) => p.match);
         if (!activePacks.length) return null;
@@ -1377,6 +1389,23 @@ export function UniHubView({ hub }: { hub: UniHubContent }) {
               { code: 'saglik-hukuku-donem-1', title: '1. Dönem (Güz)' },
               { code: 'saglik-hukuku-donem-2', title: '2. Dönem (Bahar)' },
               { code: 'saglik-hukuku-yillik', title: 'Yıllık tam not' },
+            ],
+          },
+          {
+            show: hub.courses.some(
+              (c) =>
+                String(c.code).startsWith('tuketici-hukuku') ||
+                c.code === 'tuketici-hukuku'
+            ),
+            title: 'Tüketici Hukuku — 1. dönem · 2. dönem · yıllık',
+            desc: 'Ayıplı mal–haksız şart–cayma–hakem heyeti… üç premium not + PDF.',
+            border: 'border-primary/20 bg-primary/[0.04]',
+            itemBorder: 'border-primary/25',
+            accent: 'text-primary',
+            items: [
+              { code: 'tuketici-hukuku-donem-1', title: '1. Dönem (Güz)' },
+              { code: 'tuketici-hukuku-donem-2', title: '2. Dönem (Bahar)' },
+              { code: 'tuketici-hukuku-yillik', title: 'Yıllık tam not' },
             ],
           },
         ]

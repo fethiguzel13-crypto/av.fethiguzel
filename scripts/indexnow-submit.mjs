@@ -171,6 +171,11 @@ const PRIORITY = [
   `https://${HOST}/ders-notlari/ankara-yildirim-beyazit/saglik-hukuku-yillik`,
   `https://${HOST}/ders-notlari/ankara-yildirim-beyazit/saglik-hukuku-donem-1/pdf`,
   `https://${HOST}/ders-notlari/marmara/saglik-hukuku-yillik`,
+  `https://${HOST}/ders-notlari/ankara-yildirim-beyazit/tuketici-hukuku-donem-1`,
+  `https://${HOST}/ders-notlari/ankara-yildirim-beyazit/tuketici-hukuku-donem-2`,
+  `https://${HOST}/ders-notlari/ankara-yildirim-beyazit/tuketici-hukuku-yillik`,
+  `https://${HOST}/ders-notlari/ankara-yildirim-beyazit/tuketici-hukuku-donem-1/pdf`,
+  `https://${HOST}/ders-notlari/marmara/tuketici-hukuku-yillik`,
 ];
 
 // First 80 TBK maddeleri — crawl seed

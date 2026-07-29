@@ -3,7 +3,7 @@
   "wave": "all",
   "universityCount": 120,
   "hubCount": 120,
-  "noteCount": 10920,
+  "noteCount": 11280,
   "universities": [
     {
       "slug": "ankara-yildirim-beyazit",
@@ -92406,6 +92406,3246 @@
       "href": "/ders-notlari/cag/saglik-hukuku-yillik",
       "variantOf": "saglik-hukuku",
       "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "ankara-yildirim-beyazit__tuketici-hukuku-donem-1",
+      "title": "AYBÜ Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "ankara-yildirim-beyazit__tuketici-hukuku-donem-2",
+      "title": "AYBÜ Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "ankara-yildirim-beyazit__tuketici-hukuku-yillik",
+      "title": "AYBÜ Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "ankara__tuketici-hukuku-donem-1",
+      "title": "AÜHF Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "ankara__tuketici-hukuku-donem-2",
+      "title": "AÜHF Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "ankara__tuketici-hukuku-yillik",
+      "title": "AÜHF Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "istanbul__tuketici-hukuku-donem-1",
+      "title": "İÜHF Tüketici Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "istanbul__tuketici-hukuku-donem-2",
+      "title": "İÜHF Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "istanbul__tuketici-hukuku-yillik",
+      "title": "İÜHF Tüketici Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "marmara__tuketici-hukuku-donem-1",
+      "title": "MÜHF Tüketici Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "marmara__tuketici-hukuku-donem-2",
+      "title": "MÜHF Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "marmara__tuketici-hukuku-yillik",
+      "title": "MÜHF Tüketici Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "galatasaray__tuketici-hukuku-donem-1",
+      "title": "GSÜ Tüketici Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "galatasaray__tuketici-hukuku-donem-2",
+      "title": "GSÜ Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "galatasaray__tuketici-hukuku-yillik",
+      "title": "GSÜ Tüketici Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "dokuz-eylul__tuketici-hukuku-donem-1",
+      "title": "DEÜ Tüketici Hukuku 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "dokuz-eylul__tuketici-hukuku-donem-2",
+      "title": "DEÜ Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "dokuz-eylul__tuketici-hukuku-yillik",
+      "title": "DEÜ Tüketici Hukuku Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "hacettepe__tuketici-hukuku-donem-1",
+      "title": "Hacettepe Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "hacettepe__tuketici-hukuku-donem-2",
+      "title": "Hacettepe Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "hacettepe__tuketici-hukuku-yillik",
+      "title": "Hacettepe Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "ankara-hacibayram__tuketici-hukuku-donem-1",
+      "title": "AHBV Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "ankara-hacibayram__tuketici-hukuku-donem-2",
+      "title": "AHBV Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "ankara-hacibayram__tuketici-hukuku-yillik",
+      "title": "AHBV Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "bilkent__tuketici-hukuku-donem-1",
+      "title": "Bilkent Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "bilkent__tuketici-hukuku-donem-2",
+      "title": "Bilkent Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "bilkent__tuketici-hukuku-yillik",
+      "title": "Bilkent Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "koc__tuketici-hukuku-donem-1",
+      "title": "Koç Tüketici Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "koc__tuketici-hukuku-donem-2",
+      "title": "Koç Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "koc__tuketici-hukuku-yillik",
+      "title": "Koç Tüketici Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "tobb-etu__tuketici-hukuku-donem-1",
+      "title": "TOBB ETÜ Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "tobb-etu__tuketici-hukuku-donem-2",
+      "title": "TOBB ETÜ Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "tobb-etu__tuketici-hukuku-yillik",
+      "title": "TOBB ETÜ Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "bogazici__tuketici-hukuku-donem-1",
+      "title": "BÜ Tüketici Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "bogazici__tuketici-hukuku-donem-2",
+      "title": "BÜ Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "bogazici__tuketici-hukuku-yillik",
+      "title": "BÜ Tüketici Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "ege__tuketici-hukuku-donem-1",
+      "title": "Ege Tüketici Hukuku 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "ege__tuketici-hukuku-donem-2",
+      "title": "Ege Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "ege__tuketici-hukuku-yillik",
+      "title": "Ege Tüketici Hukuku Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "akdeniz__tuketici-hukuku-donem-1",
+      "title": "Akdeniz Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "akdeniz__tuketici-hukuku-donem-2",
+      "title": "Akdeniz Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "akdeniz__tuketici-hukuku-yillik",
+      "title": "Akdeniz Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "selcuk__tuketici-hukuku-donem-1",
+      "title": "Selçuk Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "selcuk__tuketici-hukuku-donem-2",
+      "title": "Selçuk Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "selcuk__tuketici-hukuku-yillik",
+      "title": "Selçuk Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "erciyes__tuketici-hukuku-donem-1",
+      "title": "Erciyes Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "erciyes__tuketici-hukuku-donem-2",
+      "title": "Erciyes Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "erciyes__tuketici-hukuku-yillik",
+      "title": "Erciyes Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "uludag__tuketici-hukuku-donem-1",
+      "title": "Uludağ Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "uludag__tuketici-hukuku-donem-2",
+      "title": "Uludağ Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "uludag__tuketici-hukuku-yillik",
+      "title": "Uludağ Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "cukurova__tuketici-hukuku-donem-1",
+      "title": "Çukurova Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "cukurova__tuketici-hukuku-donem-2",
+      "title": "Çukurova Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "cukurova__tuketici-hukuku-yillik",
+      "title": "Çukurova Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "anadolu__tuketici-hukuku-donem-1",
+      "title": "Anadolu Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "anadolu__tuketici-hukuku-donem-2",
+      "title": "Anadolu Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "anadolu__tuketici-hukuku-yillik",
+      "title": "Anadolu Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "gazi-ankara__tuketici-hukuku-donem-1",
+      "title": "ASBÜ Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "gazi-ankara__tuketici-hukuku-donem-2",
+      "title": "ASBÜ Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "gazi-ankara__tuketici-hukuku-yillik",
+      "title": "ASBÜ Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "yildiz-teknik__tuketici-hukuku-donem-1",
+      "title": "YTÜ Tüketici Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "yildiz-teknik__tuketici-hukuku-donem-2",
+      "title": "YTÜ Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "yildiz-teknik__tuketici-hukuku-yillik",
+      "title": "YTÜ Tüketici Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "istanbul-medeniyet__tuketici-hukuku-donem-1",
+      "title": "Medeniyet Tüketici Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "istanbul-medeniyet__tuketici-hukuku-donem-2",
+      "title": "Medeniyet Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "istanbul-medeniyet__tuketici-hukuku-yillik",
+      "title": "Medeniyet Tüketici Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "bahcesehir__tuketici-hukuku-donem-1",
+      "title": "BAU Tüketici Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "bahcesehir__tuketici-hukuku-donem-2",
+      "title": "BAU Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "bahcesehir__tuketici-hukuku-yillik",
+      "title": "BAU Tüketici Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "yeditepe__tuketici-hukuku-donem-1",
+      "title": "Yeditepe Tüketici Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "yeditepe__tuketici-hukuku-donem-2",
+      "title": "Yeditepe Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "yeditepe__tuketici-hukuku-yillik",
+      "title": "Yeditepe Tüketici Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "ozyegin__tuketici-hukuku-donem-1",
+      "title": "Özyeğin Tüketici Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "ozyegin__tuketici-hukuku-donem-2",
+      "title": "Özyeğin Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "ozyegin__tuketici-hukuku-yillik",
+      "title": "Özyeğin Tüketici Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "kadir-has__tuketici-hukuku-donem-1",
+      "title": "KHAS Tüketici Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "kadir-has__tuketici-hukuku-donem-2",
+      "title": "KHAS Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "kadir-has__tuketici-hukuku-yillik",
+      "title": "KHAS Tüketici Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "istanbul-bilgi__tuketici-hukuku-donem-1",
+      "title": "Bilgi Tüketici Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "istanbul-bilgi__tuketici-hukuku-donem-2",
+      "title": "Bilgi Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "istanbul-bilgi__tuketici-hukuku-yillik",
+      "title": "Bilgi Tüketici Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "mehmet-akif__tuketici-hukuku-donem-1",
+      "title": "Medipol Tüketici Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "mehmet-akif__tuketici-hukuku-donem-2",
+      "title": "Medipol Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "mehmet-akif__tuketici-hukuku-yillik",
+      "title": "Medipol Tüketici Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "altinbas__tuketici-hukuku-donem-1",
+      "title": "Altınbaş Tüketici Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "altinbas__tuketici-hukuku-donem-2",
+      "title": "Altınbaş Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "altinbas__tuketici-hukuku-yillik",
+      "title": "Altınbaş Tüketici Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "maltepe__tuketici-hukuku-donem-1",
+      "title": "Maltepe Tüketici Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "maltepe__tuketici-hukuku-donem-2",
+      "title": "Maltepe Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "maltepe__tuketici-hukuku-yillik",
+      "title": "Maltepe Tüketici Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "dogus__tuketici-hukuku-donem-1",
+      "title": "Doğuş Tüketici Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "dogus__tuketici-hukuku-donem-2",
+      "title": "Doğuş Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "dogus__tuketici-hukuku-yillik",
+      "title": "Doğuş Tüketici Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "isik__tuketici-hukuku-donem-1",
+      "title": "Işık Tüketici Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "isik__tuketici-hukuku-donem-2",
+      "title": "Işık Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "isik__tuketici-hukuku-yillik",
+      "title": "Işık Tüketici Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "okan__tuketici-hukuku-donem-1",
+      "title": "Okan Tüketici Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "okan__tuketici-hukuku-donem-2",
+      "title": "Okan Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "okan__tuketici-hukuku-yillik",
+      "title": "Okan Tüketici Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "kultur__tuketici-hukuku-donem-1",
+      "title": "İKÜ Tüketici Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "kultur__tuketici-hukuku-donem-2",
+      "title": "İKÜ Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "kultur__tuketici-hukuku-yillik",
+      "title": "İKÜ Tüketici Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "aydin__tuketici-hukuku-donem-1",
+      "title": "İAÜ Tüketici Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "aydin__tuketici-hukuku-donem-2",
+      "title": "İAÜ Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "aydin__tuketici-hukuku-yillik",
+      "title": "İAÜ Tüketici Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "gelisim__tuketici-hukuku-donem-1",
+      "title": "Gelişim Tüketici Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "gelisim__tuketici-hukuku-donem-2",
+      "title": "Gelişim Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "gelisim__tuketici-hukuku-yillik",
+      "title": "Gelişim Tüketici Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "topkapi__tuketici-hukuku-donem-1",
+      "title": "Topkapı Tüketici Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "topkapi__tuketici-hukuku-donem-2",
+      "title": "Topkapı Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "topkapi__tuketici-hukuku-yillik",
+      "title": "Topkapı Tüketici Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "nisantasi__tuketici-hukuku-donem-1",
+      "title": "Nişantaşı Tüketici Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "nisantasi__tuketici-hukuku-donem-2",
+      "title": "Nişantaşı Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "nisantasi__tuketici-hukuku-yillik",
+      "title": "Nişantaşı Tüketici Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "beykent__tuketici-hukuku-donem-1",
+      "title": "Beykent Tüketici Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "beykent__tuketici-hukuku-donem-2",
+      "title": "Beykent Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "beykent__tuketici-hukuku-yillik",
+      "title": "Beykent Tüketici Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "halic__tuketici-hukuku-donem-1",
+      "title": "Haliç Tüketici Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "halic__tuketici-hukuku-donem-2",
+      "title": "Haliç Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "halic__tuketici-hukuku-yillik",
+      "title": "Haliç Tüketici Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "fatih-sultan__tuketici-hukuku-donem-1",
+      "title": "FSMVÜ Tüketici Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "fatih-sultan__tuketici-hukuku-donem-2",
+      "title": "FSMVÜ Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "fatih-sultan__tuketici-hukuku-yillik",
+      "title": "FSMVÜ Tüketici Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "karadeniz-teknik__tuketici-hukuku-donem-1",
+      "title": "KTÜ Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "karadeniz-teknik__tuketici-hukuku-donem-2",
+      "title": "KTÜ Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "karadeniz-teknik__tuketici-hukuku-yillik",
+      "title": "KTÜ Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "ataturk__tuketici-hukuku-donem-1",
+      "title": "Atatürk Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "ataturk__tuketici-hukuku-donem-2",
+      "title": "Atatürk Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "ataturk__tuketici-hukuku-yillik",
+      "title": "Atatürk Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "inonu__tuketici-hukuku-donem-1",
+      "title": "İnönü Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "inonu__tuketici-hukuku-donem-2",
+      "title": "İnönü Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "inonu__tuketici-hukuku-yillik",
+      "title": "İnönü Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "dicle__tuketici-hukuku-donem-1",
+      "title": "Dicle Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "dicle__tuketici-hukuku-donem-2",
+      "title": "Dicle Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "dicle__tuketici-hukuku-yillik",
+      "title": "Dicle Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "firat__tuketici-hukuku-donem-1",
+      "title": "Fırat Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "firat__tuketici-hukuku-donem-2",
+      "title": "Fırat Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "firat__tuketici-hukuku-yillik",
+      "title": "Fırat Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "gaziantep__tuketici-hukuku-donem-1",
+      "title": "GAÜN Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "gaziantep__tuketici-hukuku-donem-2",
+      "title": "GAÜN Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "gaziantep__tuketici-hukuku-yillik",
+      "title": "GAÜN Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "suleyman-demirel__tuketici-hukuku-donem-1",
+      "title": "SDÜ Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "suleyman-demirel__tuketici-hukuku-donem-2",
+      "title": "SDÜ Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "suleyman-demirel__tuketici-hukuku-yillik",
+      "title": "SDÜ Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "pamukkale__tuketici-hukuku-donem-1",
+      "title": "PAÜ Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "pamukkale__tuketici-hukuku-donem-2",
+      "title": "PAÜ Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "pamukkale__tuketici-hukuku-yillik",
+      "title": "PAÜ Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "mugla__tuketici-hukuku-donem-1",
+      "title": "MSKU Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "mugla__tuketici-hukuku-donem-2",
+      "title": "MSKU Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "mugla__tuketici-hukuku-yillik",
+      "title": "MSKU Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "sakarya__tuketici-hukuku-donem-1",
+      "title": "SAÜ Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "sakarya__tuketici-hukuku-donem-2",
+      "title": "SAÜ Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "sakarya__tuketici-hukuku-yillik",
+      "title": "SAÜ Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "kocaeli__tuketici-hukuku-donem-1",
+      "title": "KOÜ Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "kocaeli__tuketici-hukuku-donem-2",
+      "title": "KOÜ Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "kocaeli__tuketici-hukuku-yillik",
+      "title": "KOÜ Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "trakya__tuketici-hukuku-donem-1",
+      "title": "Trakya Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "trakya__tuketici-hukuku-donem-2",
+      "title": "Trakya Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "trakya__tuketici-hukuku-yillik",
+      "title": "Trakya Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "canakkale__tuketici-hukuku-donem-1",
+      "title": "ÇOMÜ Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "canakkale__tuketici-hukuku-donem-2",
+      "title": "ÇOMÜ Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "canakkale__tuketici-hukuku-yillik",
+      "title": "ÇOMÜ Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "balikesir__tuketici-hukuku-donem-1",
+      "title": "BAÜN Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "balikesir__tuketici-hukuku-donem-2",
+      "title": "BAÜN Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "balikesir__tuketici-hukuku-yillik",
+      "title": "BAÜN Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "afyon__tuketici-hukuku-donem-1",
+      "title": "AKÜ Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "afyon__tuketici-hukuku-donem-2",
+      "title": "AKÜ Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "afyon__tuketici-hukuku-yillik",
+      "title": "AKÜ Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "dumlupinar__tuketici-hukuku-donem-1",
+      "title": "DPÜ Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "dumlupinar__tuketici-hukuku-donem-2",
+      "title": "DPÜ Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "dumlupinar__tuketici-hukuku-yillik",
+      "title": "DPÜ Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "eskisehir-osmangazi__tuketici-hukuku-donem-1",
+      "title": "ESOGÜ Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "eskisehir-osmangazi__tuketici-hukuku-donem-2",
+      "title": "ESOGÜ Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "eskisehir-osmangazi__tuketici-hukuku-yillik",
+      "title": "ESOGÜ Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "sivas-cumhuriyet__tuketici-hukuku-donem-1",
+      "title": "SCÜ Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "sivas-cumhuriyet__tuketici-hukuku-donem-2",
+      "title": "SCÜ Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "sivas-cumhuriyet__tuketici-hukuku-yillik",
+      "title": "SCÜ Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "tokat__tuketici-hukuku-donem-1",
+      "title": "TOGÜ Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "tokat__tuketici-hukuku-donem-2",
+      "title": "TOGÜ Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "tokat__tuketici-hukuku-yillik",
+      "title": "TOGÜ Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "yozgat__tuketici-hukuku-donem-1",
+      "title": "Bozok Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "yozgat__tuketici-hukuku-donem-2",
+      "title": "Bozok Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "yozgat__tuketici-hukuku-yillik",
+      "title": "Bozok Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "kirsehir__tuketici-hukuku-donem-1",
+      "title": "AHİEVRAN Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "kirsehir__tuketici-hukuku-donem-2",
+      "title": "AHİEVRAN Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "kirsehir__tuketici-hukuku-yillik",
+      "title": "AHİEVRAN Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "nevsehir__tuketici-hukuku-donem-1",
+      "title": "NEVÜ Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "nevsehir__tuketici-hukuku-donem-2",
+      "title": "NEVÜ Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "nevsehir__tuketici-hukuku-yillik",
+      "title": "NEVÜ Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "mersin__tuketici-hukuku-donem-1",
+      "title": "MEÜ Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "mersin__tuketici-hukuku-donem-2",
+      "title": "MEÜ Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "mersin__tuketici-hukuku-yillik",
+      "title": "MEÜ Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "hatay__tuketici-hukuku-donem-1",
+      "title": "MKÜ Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "hatay__tuketici-hukuku-donem-2",
+      "title": "MKÜ Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "hatay__tuketici-hukuku-yillik",
+      "title": "MKÜ Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "kahramanmaras__tuketici-hukuku-donem-1",
+      "title": "KSÜ Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "kahramanmaras__tuketici-hukuku-donem-2",
+      "title": "KSÜ Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "kahramanmaras__tuketici-hukuku-yillik",
+      "title": "KSÜ Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "osmaniye__tuketici-hukuku-donem-1",
+      "title": "OKÜ Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "osmaniye__tuketici-hukuku-donem-2",
+      "title": "OKÜ Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "osmaniye__tuketici-hukuku-yillik",
+      "title": "OKÜ Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "samsun__tuketici-hukuku-donem-1",
+      "title": "OMÜ Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "samsun__tuketici-hukuku-donem-2",
+      "title": "OMÜ Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "samsun__tuketici-hukuku-yillik",
+      "title": "OMÜ Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "ordu__tuketici-hukuku-donem-1",
+      "title": "ODÜ Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "ordu__tuketici-hukuku-donem-2",
+      "title": "ODÜ Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "ordu__tuketici-hukuku-yillik",
+      "title": "ODÜ Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "giresun__tuketici-hukuku-donem-1",
+      "title": "GÜ Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "giresun__tuketici-hukuku-donem-2",
+      "title": "GÜ Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "giresun__tuketici-hukuku-yillik",
+      "title": "GÜ Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "rize__tuketici-hukuku-donem-1",
+      "title": "RTEÜ Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "rize__tuketici-hukuku-donem-2",
+      "title": "RTEÜ Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "rize__tuketici-hukuku-yillik",
+      "title": "RTEÜ Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "artvin__tuketici-hukuku-donem-1",
+      "title": "AÇÜ Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "artvin__tuketici-hukuku-donem-2",
+      "title": "AÇÜ Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "artvin__tuketici-hukuku-yillik",
+      "title": "AÇÜ Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "van-yyu__tuketici-hukuku-donem-1",
+      "title": "YYÜ Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "van-yyu__tuketici-hukuku-donem-2",
+      "title": "YYÜ Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "van-yyu__tuketici-hukuku-yillik",
+      "title": "YYÜ Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "agri__tuketici-hukuku-donem-1",
+      "title": "AİÇÜ Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "agri__tuketici-hukuku-donem-2",
+      "title": "AİÇÜ Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "agri__tuketici-hukuku-yillik",
+      "title": "AİÇÜ Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "kars__tuketici-hukuku-donem-1",
+      "title": "Kafkas Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "kars__tuketici-hukuku-donem-2",
+      "title": "Kafkas Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "kars__tuketici-hukuku-yillik",
+      "title": "Kafkas Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "erzincan__tuketici-hukuku-donem-1",
+      "title": "EBYÜ Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "erzincan__tuketici-hukuku-donem-2",
+      "title": "EBYÜ Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "erzincan__tuketici-hukuku-yillik",
+      "title": "EBYÜ Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "bayburt__tuketici-hukuku-donem-1",
+      "title": "Bayburt Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "bayburt__tuketici-hukuku-donem-2",
+      "title": "Bayburt Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "bayburt__tuketici-hukuku-yillik",
+      "title": "Bayburt Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "gumushane__tuketici-hukuku-donem-1",
+      "title": "Gümüşhane Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "gumushane__tuketici-hukuku-donem-2",
+      "title": "Gümüşhane Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "gumushane__tuketici-hukuku-yillik",
+      "title": "Gümüşhane Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "bingol__tuketici-hukuku-donem-1",
+      "title": "Bingöl Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "bingol__tuketici-hukuku-donem-2",
+      "title": "Bingöl Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "bingol__tuketici-hukuku-yillik",
+      "title": "Bingöl Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "mus__tuketici-hukuku-donem-1",
+      "title": "Muş Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "mus__tuketici-hukuku-donem-2",
+      "title": "Muş Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "mus__tuketici-hukuku-yillik",
+      "title": "Muş Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "hakkari__tuketici-hukuku-donem-1",
+      "title": "Hakkâri Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "hakkari__tuketici-hukuku-donem-2",
+      "title": "Hakkâri Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "hakkari__tuketici-hukuku-yillik",
+      "title": "Hakkâri Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "sirnak__tuketici-hukuku-donem-1",
+      "title": "Şırnak Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "sirnak__tuketici-hukuku-donem-2",
+      "title": "Şırnak Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "sirnak__tuketici-hukuku-yillik",
+      "title": "Şırnak Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "mardin__tuketici-hukuku-donem-1",
+      "title": "Artuklu Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "mardin__tuketici-hukuku-donem-2",
+      "title": "Artuklu Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "mardin__tuketici-hukuku-yillik",
+      "title": "Artuklu Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "batman__tuketici-hukuku-donem-1",
+      "title": "Batman Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "batman__tuketici-hukuku-donem-2",
+      "title": "Batman Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "batman__tuketici-hukuku-yillik",
+      "title": "Batman Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "siirt__tuketici-hukuku-donem-1",
+      "title": "Siirt Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "siirt__tuketici-hukuku-donem-2",
+      "title": "Siirt Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "siirt__tuketici-hukuku-yillik",
+      "title": "Siirt Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "adiyaman__tuketici-hukuku-donem-1",
+      "title": "Adıyaman Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "adiyaman__tuketici-hukuku-donem-2",
+      "title": "Adıyaman Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "adiyaman__tuketici-hukuku-yillik",
+      "title": "Adıyaman Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "kilis__tuketici-hukuku-donem-1",
+      "title": "Kilis Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "kilis__tuketici-hukuku-donem-2",
+      "title": "Kilis Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "kilis__tuketici-hukuku-yillik",
+      "title": "Kilis Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "igdir__tuketici-hukuku-donem-1",
+      "title": "Iğdır Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "igdir__tuketici-hukuku-donem-2",
+      "title": "Iğdır Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "igdir__tuketici-hukuku-yillik",
+      "title": "Iğdır Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "ardahan__tuketici-hukuku-donem-1",
+      "title": "Ardahan Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "ardahan__tuketici-hukuku-donem-2",
+      "title": "Ardahan Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "ardahan__tuketici-hukuku-yillik",
+      "title": "Ardahan Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "bilecik__tuketici-hukuku-donem-1",
+      "title": "BŞEÜ Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "bilecik__tuketici-hukuku-donem-2",
+      "title": "BŞEÜ Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "bilecik__tuketici-hukuku-yillik",
+      "title": "BŞEÜ Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "bolu__tuketici-hukuku-donem-1",
+      "title": "BAİBÜ Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "bolu__tuketici-hukuku-donem-2",
+      "title": "BAİBÜ Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "bolu__tuketici-hukuku-yillik",
+      "title": "BAİBÜ Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "duzce__tuketici-hukuku-donem-1",
+      "title": "Düzce Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "duzce__tuketici-hukuku-donem-2",
+      "title": "Düzce Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "duzce__tuketici-hukuku-yillik",
+      "title": "Düzce Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "zonguldak__tuketici-hukuku-donem-1",
+      "title": "BEÜN Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "zonguldak__tuketici-hukuku-donem-2",
+      "title": "BEÜN Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "zonguldak__tuketici-hukuku-yillik",
+      "title": "BEÜN Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "karabuk__tuketici-hukuku-donem-1",
+      "title": "KBÜ Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "karabuk__tuketici-hukuku-donem-2",
+      "title": "KBÜ Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "karabuk__tuketici-hukuku-yillik",
+      "title": "KBÜ Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "kastamonu__tuketici-hukuku-donem-1",
+      "title": "KÜ Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "kastamonu__tuketici-hukuku-donem-2",
+      "title": "KÜ Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "kastamonu__tuketici-hukuku-yillik",
+      "title": "KÜ Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "sinop__tuketici-hukuku-donem-1",
+      "title": "Sinop Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "sinop__tuketici-hukuku-donem-2",
+      "title": "Sinop Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "sinop__tuketici-hukuku-yillik",
+      "title": "Sinop Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "corum__tuketici-hukuku-donem-1",
+      "title": "Hitit Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "corum__tuketici-hukuku-donem-2",
+      "title": "Hitit Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "corum__tuketici-hukuku-yillik",
+      "title": "Hitit Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "amasya__tuketici-hukuku-donem-1",
+      "title": "Amasya Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "amasya__tuketici-hukuku-donem-2",
+      "title": "Amasya Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "amasya__tuketici-hukuku-yillik",
+      "title": "Amasya Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "cankiri__tuketici-hukuku-donem-1",
+      "title": "Karatekin Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "cankiri__tuketici-hukuku-donem-2",
+      "title": "Karatekin Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "cankiri__tuketici-hukuku-yillik",
+      "title": "Karatekin Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "kirikkale__tuketici-hukuku-donem-1",
+      "title": "Kırıkkale Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "kirikkale__tuketici-hukuku-donem-2",
+      "title": "Kırıkkale Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "kirikkale__tuketici-hukuku-yillik",
+      "title": "Kırıkkale Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "aksaray__tuketici-hukuku-donem-1",
+      "title": "Aksaray Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "aksaray__tuketici-hukuku-donem-2",
+      "title": "Aksaray Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "aksaray__tuketici-hukuku-yillik",
+      "title": "Aksaray Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "nigde__tuketici-hukuku-donem-1",
+      "title": "ÖHÜ Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "nigde__tuketici-hukuku-donem-2",
+      "title": "ÖHÜ Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "nigde__tuketici-hukuku-yillik",
+      "title": "ÖHÜ Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "konya-teknik__tuketici-hukuku-donem-1",
+      "title": "NEÜ Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "konya-teknik__tuketici-hukuku-donem-2",
+      "title": "NEÜ Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "konya-teknik__tuketici-hukuku-yillik",
+      "title": "NEÜ Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "karaman__tuketici-hukuku-donem-1",
+      "title": "KMÜ Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "karaman__tuketici-hukuku-donem-2",
+      "title": "KMÜ Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "karaman__tuketici-hukuku-yillik",
+      "title": "KMÜ Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "usak__tuketici-hukuku-donem-1",
+      "title": "Uşak Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "usak__tuketici-hukuku-donem-2",
+      "title": "Uşak Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "usak__tuketici-hukuku-yillik",
+      "title": "Uşak Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "manisa__tuketici-hukuku-donem-1",
+      "title": "MCBÜ Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "manisa__tuketici-hukuku-donem-2",
+      "title": "MCBÜ Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "manisa__tuketici-hukuku-yillik",
+      "title": "MCBÜ Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "aydin-adu__tuketici-hukuku-donem-1",
+      "title": "ADÜ Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "aydin-adu__tuketici-hukuku-donem-2",
+      "title": "ADÜ Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "aydin-adu__tuketici-hukuku-yillik",
+      "title": "ADÜ Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "tekirdag__tuketici-hukuku-donem-1",
+      "title": "NKÜ Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "tekirdag__tuketici-hukuku-donem-2",
+      "title": "NKÜ Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "tekirdag__tuketici-hukuku-yillik",
+      "title": "NKÜ Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "kirklareli__tuketici-hukuku-donem-1",
+      "title": "Kırklareli Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "kirklareli__tuketici-hukuku-donem-2",
+      "title": "Kırklareli Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "kirklareli__tuketici-hukuku-yillik",
+      "title": "Kırklareli Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "atilim__tuketici-hukuku-donem-1",
+      "title": "Atılım Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "atilim__tuketici-hukuku-donem-2",
+      "title": "Atılım Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "atilim__tuketici-hukuku-yillik",
+      "title": "Atılım Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "cankaya__tuketici-hukuku-donem-1",
+      "title": "Çankaya Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "cankaya__tuketici-hukuku-donem-2",
+      "title": "Çankaya Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "cankaya__tuketici-hukuku-yillik",
+      "title": "Çankaya Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "ufuk__tuketici-hukuku-donem-1",
+      "title": "Ufuk Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "ufuk__tuketici-hukuku-donem-2",
+      "title": "Ufuk Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "ufuk__tuketici-hukuku-yillik",
+      "title": "Ufuk Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "yasar__tuketici-hukuku-donem-1",
+      "title": "Yaşar Tüketici Hukuku 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "yasar__tuketici-hukuku-donem-2",
+      "title": "Yaşar Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "yasar__tuketici-hukuku-yillik",
+      "title": "Yaşar Tüketici Hukuku Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "izmir-ekonomi__tuketici-hukuku-donem-1",
+      "title": "İEÜ Tüketici Hukuku 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "izmir-ekonomi__tuketici-hukuku-donem-2",
+      "title": "İEÜ Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "izmir-ekonomi__tuketici-hukuku-yillik",
+      "title": "İEÜ Tüketici Hukuku Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "tinaztepe__tuketici-hukuku-donem-1",
+      "title": "Tınaztepe Tüketici Hukuku 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "tinaztepe__tuketici-hukuku-donem-2",
+      "title": "Tınaztepe Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "tinaztepe__tuketici-hukuku-yillik",
+      "title": "Tınaztepe Tüketici Hukuku Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "asbu-vakif__tuketici-hukuku-donem-1",
+      "title": "ABÜ Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "asbu-vakif__tuketici-hukuku-donem-2",
+      "title": "ABÜ Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "asbu-vakif__tuketici-hukuku-yillik",
+      "title": "ABÜ Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "hasan-kalyoncu__tuketici-hukuku-donem-1",
+      "title": "HKÜ Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "hasan-kalyoncu__tuketici-hukuku-donem-2",
+      "title": "HKÜ Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "hasan-kalyoncu__tuketici-hukuku-yillik",
+      "title": "HKÜ Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "sanko__tuketici-hukuku-donem-1",
+      "title": "Sanko Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "sanko__tuketici-hukuku-donem-2",
+      "title": "Sanko Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "sanko__tuketici-hukuku-yillik",
+      "title": "Sanko Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "toros__tuketici-hukuku-donem-1",
+      "title": "Toros Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "toros__tuketici-hukuku-donem-2",
+      "title": "Toros Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "toros__tuketici-hukuku-yillik",
+      "title": "Toros Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "tuketici-hukuku-donem-1",
+      "slug": "cag__tuketici-hukuku-donem-1",
+      "title": "Çağ Tüketici Hukuku 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/tuketici-hukuku-donem-1",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "tuketici-hukuku-donem-2",
+      "slug": "cag__tuketici-hukuku-donem-2",
+      "title": "Çağ Tüketici Hukuku 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/tuketici-hukuku-donem-2",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "tuketici-hukuku-yillik",
+      "slug": "cag__tuketici-hukuku-yillik",
+      "title": "Çağ Tüketici Hukuku Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/tuketici-hukuku-yillik",
+      "variantOf": "tuketici-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
     }
   ],
   "borclarGenelTripleAt": "2026-07-29T20:05:58.703Z",
@@ -92428,5 +95668,6 @@
   "idariYargilamaTripleAt": "2026-07-29T21:04:37.496Z",
   "hukukFelsefesiTripleAt": "2026-07-29T21:08:50.747Z",
   "hukukIngilizcesiTripleAt": "2026-07-29T21:12:01.835Z",
-  "saglikHukukuTripleAt": "2026-07-29T21:14:42.533Z"
+  "saglikHukukuTripleAt": "2026-07-29T21:14:42.533Z",
+  "tuketiciHukukuTripleAt": "2026-07-29T21:17:38.037Z"
 }
