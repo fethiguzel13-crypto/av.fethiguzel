@@ -456,6 +456,30 @@
         "href": "/ders-notlari/ankara-yildirim-beyazit/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -935,6 +959,30 @@
         "href": "/ders-notlari/ankara/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ankara/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ankara/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ankara/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -1415,6 +1463,30 @@
         "href": "/ders-notlari/istanbul/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/istanbul/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/istanbul/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/istanbul/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -1893,6 +1965,30 @@
         "href": "/ders-notlari/marmara/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/marmara/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/marmara/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/marmara/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -2373,6 +2469,30 @@
         "href": "/ders-notlari/galatasaray/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/galatasaray/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/galatasaray/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/galatasaray/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -2852,6 +2972,30 @@
         "href": "/ders-notlari/dokuz-eylul/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/dokuz-eylul/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/dokuz-eylul/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/dokuz-eylul/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -3330,6 +3474,30 @@
         "href": "/ders-notlari/hacettepe/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/hacettepe/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/hacettepe/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/hacettepe/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -3809,6 +3977,30 @@
         "href": "/ders-notlari/ankara-hacibayram/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ankara-hacibayram/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ankara-hacibayram/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ankara-hacibayram/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -4287,6 +4479,30 @@
         "href": "/ders-notlari/bilkent/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/bilkent/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/bilkent/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/bilkent/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -4766,6 +4982,30 @@
         "href": "/ders-notlari/koc/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/koc/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/koc/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/koc/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -5245,6 +5485,30 @@
         "href": "/ders-notlari/tobb-etu/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/tobb-etu/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/tobb-etu/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/tobb-etu/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -5723,6 +5987,30 @@
         "href": "/ders-notlari/bogazici/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/bogazici/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/bogazici/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/bogazici/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -6201,6 +6489,30 @@
         "href": "/ders-notlari/ege/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ege/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ege/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ege/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -6679,6 +6991,30 @@
         "href": "/ders-notlari/akdeniz/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/akdeniz/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/akdeniz/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/akdeniz/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -7157,6 +7493,30 @@
         "href": "/ders-notlari/selcuk/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/selcuk/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/selcuk/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/selcuk/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -7635,6 +7995,30 @@
         "href": "/ders-notlari/erciyes/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/erciyes/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/erciyes/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/erciyes/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -8114,6 +8498,30 @@
         "href": "/ders-notlari/uludag/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/uludag/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/uludag/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/uludag/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -8592,6 +9000,30 @@
         "href": "/ders-notlari/cukurova/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/cukurova/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/cukurova/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/cukurova/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -9070,6 +9502,30 @@
         "href": "/ders-notlari/anadolu/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/anadolu/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/anadolu/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/anadolu/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -9549,6 +10005,30 @@
         "href": "/ders-notlari/gazi-ankara/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/gazi-ankara/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/gazi-ankara/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/gazi-ankara/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -10028,6 +10508,30 @@
         "href": "/ders-notlari/yildiz-teknik/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/yildiz-teknik/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/yildiz-teknik/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/yildiz-teknik/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -10506,6 +11010,30 @@
         "href": "/ders-notlari/istanbul-medeniyet/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/istanbul-medeniyet/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/istanbul-medeniyet/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/istanbul-medeniyet/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -10985,6 +11513,30 @@
         "href": "/ders-notlari/bahcesehir/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/bahcesehir/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/bahcesehir/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/bahcesehir/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -11463,6 +12015,30 @@
         "href": "/ders-notlari/yeditepe/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/yeditepe/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/yeditepe/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/yeditepe/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -11941,6 +12517,30 @@
         "href": "/ders-notlari/ozyegin/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ozyegin/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ozyegin/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ozyegin/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -12419,6 +13019,30 @@
         "href": "/ders-notlari/kadir-has/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kadir-has/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kadir-has/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kadir-has/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -12897,6 +13521,30 @@
         "href": "/ders-notlari/istanbul-bilgi/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/istanbul-bilgi/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/istanbul-bilgi/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/istanbul-bilgi/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -13375,6 +14023,30 @@
         "href": "/ders-notlari/mehmet-akif/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/mehmet-akif/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/mehmet-akif/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/mehmet-akif/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -13853,6 +14525,30 @@
         "href": "/ders-notlari/altinbas/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/altinbas/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/altinbas/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/altinbas/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -14331,6 +15027,30 @@
         "href": "/ders-notlari/maltepe/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/maltepe/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/maltepe/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/maltepe/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -14809,6 +15529,30 @@
         "href": "/ders-notlari/dogus/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/dogus/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/dogus/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/dogus/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -15287,6 +16031,30 @@
         "href": "/ders-notlari/isik/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/isik/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/isik/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/isik/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -15765,6 +16533,30 @@
         "href": "/ders-notlari/okan/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/okan/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/okan/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/okan/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -16243,6 +17035,30 @@
         "href": "/ders-notlari/kultur/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kultur/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kultur/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kultur/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -16721,6 +17537,30 @@
         "href": "/ders-notlari/aydin/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/aydin/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/aydin/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/aydin/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -17199,6 +18039,30 @@
         "href": "/ders-notlari/gelisim/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/gelisim/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/gelisim/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/gelisim/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -17677,6 +18541,30 @@
         "href": "/ders-notlari/topkapi/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/topkapi/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/topkapi/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/topkapi/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -18155,6 +19043,30 @@
         "href": "/ders-notlari/nisantasi/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/nisantasi/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/nisantasi/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/nisantasi/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -18633,6 +19545,30 @@
         "href": "/ders-notlari/beykent/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/beykent/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/beykent/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/beykent/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -19111,6 +20047,30 @@
         "href": "/ders-notlari/halic/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/halic/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/halic/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/halic/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -19589,6 +20549,30 @@
         "href": "/ders-notlari/fatih-sultan/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/fatih-sultan/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/fatih-sultan/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/fatih-sultan/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -20068,6 +21052,30 @@
         "href": "/ders-notlari/karadeniz-teknik/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/karadeniz-teknik/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/karadeniz-teknik/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/karadeniz-teknik/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -20547,6 +21555,30 @@
         "href": "/ders-notlari/ataturk/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ataturk/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ataturk/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ataturk/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -21025,6 +22057,30 @@
         "href": "/ders-notlari/inonu/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/inonu/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/inonu/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/inonu/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -21503,6 +22559,30 @@
         "href": "/ders-notlari/dicle/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/dicle/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/dicle/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/dicle/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -21981,6 +23061,30 @@
         "href": "/ders-notlari/firat/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/firat/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/firat/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/firat/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -22459,6 +23563,30 @@
         "href": "/ders-notlari/gaziantep/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/gaziantep/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/gaziantep/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/gaziantep/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -22938,6 +24066,30 @@
         "href": "/ders-notlari/suleyman-demirel/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/suleyman-demirel/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/suleyman-demirel/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/suleyman-demirel/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -23416,6 +24568,30 @@
         "href": "/ders-notlari/pamukkale/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/pamukkale/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/pamukkale/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/pamukkale/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -23894,6 +25070,30 @@
         "href": "/ders-notlari/mugla/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/mugla/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/mugla/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/mugla/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -24372,6 +25572,30 @@
         "href": "/ders-notlari/sakarya/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/sakarya/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/sakarya/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/sakarya/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -24850,6 +26074,30 @@
         "href": "/ders-notlari/kocaeli/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kocaeli/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kocaeli/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kocaeli/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -25328,6 +26576,30 @@
         "href": "/ders-notlari/trakya/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/trakya/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/trakya/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/trakya/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -25806,6 +27078,30 @@
         "href": "/ders-notlari/canakkale/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/canakkale/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/canakkale/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/canakkale/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -26284,6 +27580,30 @@
         "href": "/ders-notlari/balikesir/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/balikesir/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/balikesir/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/balikesir/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -26763,6 +28083,30 @@
         "href": "/ders-notlari/afyon/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/afyon/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/afyon/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/afyon/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -27241,6 +28585,30 @@
         "href": "/ders-notlari/dumlupinar/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/dumlupinar/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/dumlupinar/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/dumlupinar/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -27719,6 +29087,30 @@
         "href": "/ders-notlari/eskisehir-osmangazi/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/eskisehir-osmangazi/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/eskisehir-osmangazi/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/eskisehir-osmangazi/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -28198,6 +29590,30 @@
         "href": "/ders-notlari/sivas-cumhuriyet/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/sivas-cumhuriyet/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/sivas-cumhuriyet/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/sivas-cumhuriyet/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -28676,6 +30092,30 @@
         "href": "/ders-notlari/tokat/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/tokat/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/tokat/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/tokat/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -29154,6 +30594,30 @@
         "href": "/ders-notlari/yozgat/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/yozgat/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/yozgat/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/yozgat/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -29632,6 +31096,30 @@
         "href": "/ders-notlari/kirsehir/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kirsehir/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kirsehir/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kirsehir/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -30110,6 +31598,30 @@
         "href": "/ders-notlari/nevsehir/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/nevsehir/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/nevsehir/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/nevsehir/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -30588,6 +32100,30 @@
         "href": "/ders-notlari/mersin/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/mersin/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/mersin/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/mersin/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -31067,6 +32603,30 @@
         "href": "/ders-notlari/hatay/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/hatay/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/hatay/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/hatay/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -31545,6 +33105,30 @@
         "href": "/ders-notlari/kahramanmaras/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kahramanmaras/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kahramanmaras/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kahramanmaras/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -32023,6 +33607,30 @@
         "href": "/ders-notlari/osmaniye/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/osmaniye/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/osmaniye/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/osmaniye/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -32502,6 +34110,30 @@
         "href": "/ders-notlari/samsun/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/samsun/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/samsun/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/samsun/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -32980,6 +34612,30 @@
         "href": "/ders-notlari/ordu/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ordu/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ordu/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ordu/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -33458,6 +35114,30 @@
         "href": "/ders-notlari/giresun/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/giresun/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/giresun/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/giresun/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -33937,6 +35617,30 @@
         "href": "/ders-notlari/rize/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/rize/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/rize/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/rize/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -34415,6 +36119,30 @@
         "href": "/ders-notlari/artvin/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/artvin/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/artvin/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/artvin/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -34895,6 +36623,30 @@
         "href": "/ders-notlari/van-yyu/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/van-yyu/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/van-yyu/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/van-yyu/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -35373,6 +37125,30 @@
         "href": "/ders-notlari/agri/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/agri/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/agri/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/agri/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -35851,6 +37627,30 @@
         "href": "/ders-notlari/kars/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kars/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kars/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kars/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -36329,6 +38129,30 @@
         "href": "/ders-notlari/erzincan/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/erzincan/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/erzincan/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/erzincan/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -36807,6 +38631,30 @@
         "href": "/ders-notlari/bayburt/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/bayburt/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/bayburt/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/bayburt/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -37285,6 +39133,30 @@
         "href": "/ders-notlari/gumushane/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/gumushane/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/gumushane/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/gumushane/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -37763,6 +39635,30 @@
         "href": "/ders-notlari/bingol/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/bingol/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/bingol/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/bingol/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -38241,6 +40137,30 @@
         "href": "/ders-notlari/mus/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/mus/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/mus/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/mus/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -38719,6 +40639,30 @@
         "href": "/ders-notlari/hakkari/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/hakkari/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/hakkari/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/hakkari/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -39197,6 +41141,30 @@
         "href": "/ders-notlari/sirnak/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/sirnak/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/sirnak/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/sirnak/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -39676,6 +41644,30 @@
         "href": "/ders-notlari/mardin/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/mardin/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/mardin/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/mardin/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -40154,6 +42146,30 @@
         "href": "/ders-notlari/batman/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/batman/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/batman/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/batman/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -40632,6 +42648,30 @@
         "href": "/ders-notlari/siirt/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/siirt/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/siirt/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/siirt/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -41110,6 +43150,30 @@
         "href": "/ders-notlari/adiyaman/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/adiyaman/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/adiyaman/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/adiyaman/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -41588,6 +43652,30 @@
         "href": "/ders-notlari/kilis/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kilis/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kilis/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kilis/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -42066,6 +44154,30 @@
         "href": "/ders-notlari/igdir/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/igdir/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/igdir/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/igdir/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -42544,6 +44656,30 @@
         "href": "/ders-notlari/ardahan/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ardahan/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ardahan/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ardahan/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -43022,6 +45158,30 @@
         "href": "/ders-notlari/bilecik/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/bilecik/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/bilecik/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/bilecik/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -43501,6 +45661,30 @@
         "href": "/ders-notlari/bolu/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/bolu/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/bolu/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/bolu/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -43979,6 +46163,30 @@
         "href": "/ders-notlari/duzce/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/duzce/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/duzce/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/duzce/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -44457,6 +46665,30 @@
         "href": "/ders-notlari/zonguldak/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/zonguldak/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/zonguldak/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/zonguldak/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -44935,6 +47167,30 @@
         "href": "/ders-notlari/karabuk/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/karabuk/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/karabuk/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/karabuk/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -45413,6 +47669,30 @@
         "href": "/ders-notlari/kastamonu/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kastamonu/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kastamonu/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kastamonu/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -45891,6 +48171,30 @@
         "href": "/ders-notlari/sinop/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/sinop/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/sinop/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/sinop/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -46370,6 +48674,30 @@
         "href": "/ders-notlari/corum/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/corum/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/corum/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/corum/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -46848,6 +49176,30 @@
         "href": "/ders-notlari/amasya/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/amasya/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/amasya/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/amasya/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -47326,6 +49678,30 @@
         "href": "/ders-notlari/cankiri/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/cankiri/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/cankiri/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/cankiri/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -47804,6 +50180,30 @@
         "href": "/ders-notlari/kirikkale/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kirikkale/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kirikkale/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kirikkale/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -48282,6 +50682,30 @@
         "href": "/ders-notlari/aksaray/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/aksaray/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/aksaray/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/aksaray/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -48760,6 +51184,30 @@
         "href": "/ders-notlari/nigde/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/nigde/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/nigde/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/nigde/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -49238,6 +51686,30 @@
         "href": "/ders-notlari/konya-teknik/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/konya-teknik/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/konya-teknik/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/konya-teknik/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -49716,6 +52188,30 @@
         "href": "/ders-notlari/karaman/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/karaman/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/karaman/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/karaman/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -50194,6 +52690,30 @@
         "href": "/ders-notlari/usak/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/usak/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/usak/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/usak/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -50673,6 +53193,30 @@
         "href": "/ders-notlari/manisa/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/manisa/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/manisa/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/manisa/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -51151,6 +53695,30 @@
         "href": "/ders-notlari/aydin-adu/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/aydin-adu/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/aydin-adu/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/aydin-adu/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -51629,6 +54197,30 @@
         "href": "/ders-notlari/tekirdag/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/tekirdag/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/tekirdag/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/tekirdag/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -52107,6 +54699,30 @@
         "href": "/ders-notlari/kirklareli/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kirklareli/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kirklareli/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kirklareli/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -52585,6 +55201,30 @@
         "href": "/ders-notlari/atilim/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/atilim/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/atilim/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/atilim/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -53063,6 +55703,30 @@
         "href": "/ders-notlari/cankaya/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/cankaya/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/cankaya/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/cankaya/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -53541,6 +56205,30 @@
         "href": "/ders-notlari/ufuk/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ufuk/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ufuk/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ufuk/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -54019,6 +56707,30 @@
         "href": "/ders-notlari/yasar/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/yasar/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/yasar/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/yasar/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -54497,6 +57209,30 @@
         "href": "/ders-notlari/izmir-ekonomi/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/izmir-ekonomi/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/izmir-ekonomi/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/izmir-ekonomi/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -54975,6 +57711,30 @@
         "href": "/ders-notlari/tinaztepe/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/tinaztepe/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/tinaztepe/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/tinaztepe/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -55453,6 +58213,30 @@
         "href": "/ders-notlari/asbu-vakif/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/asbu-vakif/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/asbu-vakif/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/asbu-vakif/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -55931,6 +58715,30 @@
         "href": "/ders-notlari/hasan-kalyoncu/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/hasan-kalyoncu/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/hasan-kalyoncu/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/hasan-kalyoncu/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -56409,6 +59217,30 @@
         "href": "/ders-notlari/sanko/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/sanko/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/sanko/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/sanko/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -56887,6 +59719,30 @@
         "href": "/ders-notlari/toros/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/toros/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/toros/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/toros/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [
@@ -57365,6 +60221,30 @@
         "href": "/ders-notlari/cag/sirketler-yillik",
         "ready": true,
         "variantOf": "sirketler"
+      },
+      {
+        "code": "kiymetli-evrak-donem-1",
+        "title": "Kıymetli Evrak — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/cag/kiymetli-evrak-donem-1",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-donem-2",
+        "title": "Kıymetli Evrak — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/cag/kiymetli-evrak-donem-2",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
+      },
+      {
+        "code": "kiymetli-evrak-yillik",
+        "title": "Kıymetli Evrak — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/cag/kiymetli-evrak-yillik",
+        "ready": true,
+        "variantOf": "kiymetli-evrak"
       }
     ],
     "seoParagraphs": [

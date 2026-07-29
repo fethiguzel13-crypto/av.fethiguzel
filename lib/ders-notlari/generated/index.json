@@ -3,7 +3,7 @@
   "wave": "all",
   "universityCount": 120,
   "hubCount": 120,
-  "noteCount": 6960,
+  "noteCount": 7320,
   "universities": [
     {
       "slug": "ankara-yildirim-beyazit",
@@ -56766,6 +56766,3246 @@
       "href": "/ders-notlari/cag/sirketler-yillik",
       "variantOf": "sirketler",
       "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "ankara-yildirim-beyazit__kiymetli-evrak-donem-1",
+      "title": "AYBÜ Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "ankara-yildirim-beyazit__kiymetli-evrak-donem-2",
+      "title": "AYBÜ Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "ankara-yildirim-beyazit__kiymetli-evrak-yillik",
+      "title": "AYBÜ Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "ankara__kiymetli-evrak-donem-1",
+      "title": "AÜHF Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "ankara__kiymetli-evrak-donem-2",
+      "title": "AÜHF Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "ankara__kiymetli-evrak-yillik",
+      "title": "AÜHF Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "istanbul__kiymetli-evrak-donem-1",
+      "title": "İÜHF Kıymetli Evrak 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "istanbul__kiymetli-evrak-donem-2",
+      "title": "İÜHF Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "istanbul__kiymetli-evrak-yillik",
+      "title": "İÜHF Kıymetli Evrak Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "marmara__kiymetli-evrak-donem-1",
+      "title": "MÜHF Kıymetli Evrak 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "marmara__kiymetli-evrak-donem-2",
+      "title": "MÜHF Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "marmara__kiymetli-evrak-yillik",
+      "title": "MÜHF Kıymetli Evrak Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "galatasaray__kiymetli-evrak-donem-1",
+      "title": "GSÜ Kıymetli Evrak 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "galatasaray__kiymetli-evrak-donem-2",
+      "title": "GSÜ Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "galatasaray__kiymetli-evrak-yillik",
+      "title": "GSÜ Kıymetli Evrak Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "dokuz-eylul__kiymetli-evrak-donem-1",
+      "title": "DEÜ Kıymetli Evrak 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "dokuz-eylul__kiymetli-evrak-donem-2",
+      "title": "DEÜ Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "dokuz-eylul__kiymetli-evrak-yillik",
+      "title": "DEÜ Kıymetli Evrak Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "hacettepe__kiymetli-evrak-donem-1",
+      "title": "Hacettepe Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "hacettepe__kiymetli-evrak-donem-2",
+      "title": "Hacettepe Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "hacettepe__kiymetli-evrak-yillik",
+      "title": "Hacettepe Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "ankara-hacibayram__kiymetli-evrak-donem-1",
+      "title": "AHBV Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "ankara-hacibayram__kiymetli-evrak-donem-2",
+      "title": "AHBV Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "ankara-hacibayram__kiymetli-evrak-yillik",
+      "title": "AHBV Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "bilkent__kiymetli-evrak-donem-1",
+      "title": "Bilkent Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "bilkent__kiymetli-evrak-donem-2",
+      "title": "Bilkent Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "bilkent__kiymetli-evrak-yillik",
+      "title": "Bilkent Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "koc__kiymetli-evrak-donem-1",
+      "title": "Koç Kıymetli Evrak 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "koc__kiymetli-evrak-donem-2",
+      "title": "Koç Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "koc__kiymetli-evrak-yillik",
+      "title": "Koç Kıymetli Evrak Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "tobb-etu__kiymetli-evrak-donem-1",
+      "title": "TOBB ETÜ Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "tobb-etu__kiymetli-evrak-donem-2",
+      "title": "TOBB ETÜ Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "tobb-etu__kiymetli-evrak-yillik",
+      "title": "TOBB ETÜ Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "bogazici__kiymetli-evrak-donem-1",
+      "title": "BÜ Kıymetli Evrak 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "bogazici__kiymetli-evrak-donem-2",
+      "title": "BÜ Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "bogazici__kiymetli-evrak-yillik",
+      "title": "BÜ Kıymetli Evrak Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "ege__kiymetli-evrak-donem-1",
+      "title": "Ege Kıymetli Evrak 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "ege__kiymetli-evrak-donem-2",
+      "title": "Ege Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "ege__kiymetli-evrak-yillik",
+      "title": "Ege Kıymetli Evrak Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "akdeniz__kiymetli-evrak-donem-1",
+      "title": "Akdeniz Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "akdeniz__kiymetli-evrak-donem-2",
+      "title": "Akdeniz Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "akdeniz__kiymetli-evrak-yillik",
+      "title": "Akdeniz Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "selcuk__kiymetli-evrak-donem-1",
+      "title": "Selçuk Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "selcuk__kiymetli-evrak-donem-2",
+      "title": "Selçuk Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "selcuk__kiymetli-evrak-yillik",
+      "title": "Selçuk Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "erciyes__kiymetli-evrak-donem-1",
+      "title": "Erciyes Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "erciyes__kiymetli-evrak-donem-2",
+      "title": "Erciyes Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "erciyes__kiymetli-evrak-yillik",
+      "title": "Erciyes Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "uludag__kiymetli-evrak-donem-1",
+      "title": "Uludağ Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "uludag__kiymetli-evrak-donem-2",
+      "title": "Uludağ Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "uludag__kiymetli-evrak-yillik",
+      "title": "Uludağ Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "cukurova__kiymetli-evrak-donem-1",
+      "title": "Çukurova Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "cukurova__kiymetli-evrak-donem-2",
+      "title": "Çukurova Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "cukurova__kiymetli-evrak-yillik",
+      "title": "Çukurova Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "anadolu__kiymetli-evrak-donem-1",
+      "title": "Anadolu Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "anadolu__kiymetli-evrak-donem-2",
+      "title": "Anadolu Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "anadolu__kiymetli-evrak-yillik",
+      "title": "Anadolu Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "gazi-ankara__kiymetli-evrak-donem-1",
+      "title": "ASBÜ Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "gazi-ankara__kiymetli-evrak-donem-2",
+      "title": "ASBÜ Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "gazi-ankara__kiymetli-evrak-yillik",
+      "title": "ASBÜ Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "yildiz-teknik__kiymetli-evrak-donem-1",
+      "title": "YTÜ Kıymetli Evrak 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "yildiz-teknik__kiymetli-evrak-donem-2",
+      "title": "YTÜ Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "yildiz-teknik__kiymetli-evrak-yillik",
+      "title": "YTÜ Kıymetli Evrak Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "istanbul-medeniyet__kiymetli-evrak-donem-1",
+      "title": "Medeniyet Kıymetli Evrak 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "istanbul-medeniyet__kiymetli-evrak-donem-2",
+      "title": "Medeniyet Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "istanbul-medeniyet__kiymetli-evrak-yillik",
+      "title": "Medeniyet Kıymetli Evrak Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "bahcesehir__kiymetli-evrak-donem-1",
+      "title": "BAU Kıymetli Evrak 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "bahcesehir__kiymetli-evrak-donem-2",
+      "title": "BAU Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "bahcesehir__kiymetli-evrak-yillik",
+      "title": "BAU Kıymetli Evrak Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "yeditepe__kiymetli-evrak-donem-1",
+      "title": "Yeditepe Kıymetli Evrak 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "yeditepe__kiymetli-evrak-donem-2",
+      "title": "Yeditepe Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "yeditepe__kiymetli-evrak-yillik",
+      "title": "Yeditepe Kıymetli Evrak Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "ozyegin__kiymetli-evrak-donem-1",
+      "title": "Özyeğin Kıymetli Evrak 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "ozyegin__kiymetli-evrak-donem-2",
+      "title": "Özyeğin Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "ozyegin__kiymetli-evrak-yillik",
+      "title": "Özyeğin Kıymetli Evrak Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "kadir-has__kiymetli-evrak-donem-1",
+      "title": "KHAS Kıymetli Evrak 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "kadir-has__kiymetli-evrak-donem-2",
+      "title": "KHAS Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "kadir-has__kiymetli-evrak-yillik",
+      "title": "KHAS Kıymetli Evrak Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "istanbul-bilgi__kiymetli-evrak-donem-1",
+      "title": "Bilgi Kıymetli Evrak 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "istanbul-bilgi__kiymetli-evrak-donem-2",
+      "title": "Bilgi Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "istanbul-bilgi__kiymetli-evrak-yillik",
+      "title": "Bilgi Kıymetli Evrak Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "mehmet-akif__kiymetli-evrak-donem-1",
+      "title": "Medipol Kıymetli Evrak 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "mehmet-akif__kiymetli-evrak-donem-2",
+      "title": "Medipol Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "mehmet-akif__kiymetli-evrak-yillik",
+      "title": "Medipol Kıymetli Evrak Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "altinbas__kiymetli-evrak-donem-1",
+      "title": "Altınbaş Kıymetli Evrak 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "altinbas__kiymetli-evrak-donem-2",
+      "title": "Altınbaş Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "altinbas__kiymetli-evrak-yillik",
+      "title": "Altınbaş Kıymetli Evrak Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "maltepe__kiymetli-evrak-donem-1",
+      "title": "Maltepe Kıymetli Evrak 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "maltepe__kiymetli-evrak-donem-2",
+      "title": "Maltepe Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "maltepe__kiymetli-evrak-yillik",
+      "title": "Maltepe Kıymetli Evrak Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "dogus__kiymetli-evrak-donem-1",
+      "title": "Doğuş Kıymetli Evrak 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "dogus__kiymetli-evrak-donem-2",
+      "title": "Doğuş Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "dogus__kiymetli-evrak-yillik",
+      "title": "Doğuş Kıymetli Evrak Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "isik__kiymetli-evrak-donem-1",
+      "title": "Işık Kıymetli Evrak 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "isik__kiymetli-evrak-donem-2",
+      "title": "Işık Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "isik__kiymetli-evrak-yillik",
+      "title": "Işık Kıymetli Evrak Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "okan__kiymetli-evrak-donem-1",
+      "title": "Okan Kıymetli Evrak 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "okan__kiymetli-evrak-donem-2",
+      "title": "Okan Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "okan__kiymetli-evrak-yillik",
+      "title": "Okan Kıymetli Evrak Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "kultur__kiymetli-evrak-donem-1",
+      "title": "İKÜ Kıymetli Evrak 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "kultur__kiymetli-evrak-donem-2",
+      "title": "İKÜ Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "kultur__kiymetli-evrak-yillik",
+      "title": "İKÜ Kıymetli Evrak Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "aydin__kiymetli-evrak-donem-1",
+      "title": "İAÜ Kıymetli Evrak 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "aydin__kiymetli-evrak-donem-2",
+      "title": "İAÜ Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "aydin__kiymetli-evrak-yillik",
+      "title": "İAÜ Kıymetli Evrak Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "gelisim__kiymetli-evrak-donem-1",
+      "title": "Gelişim Kıymetli Evrak 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "gelisim__kiymetli-evrak-donem-2",
+      "title": "Gelişim Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "gelisim__kiymetli-evrak-yillik",
+      "title": "Gelişim Kıymetli Evrak Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "topkapi__kiymetli-evrak-donem-1",
+      "title": "Topkapı Kıymetli Evrak 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "topkapi__kiymetli-evrak-donem-2",
+      "title": "Topkapı Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "topkapi__kiymetli-evrak-yillik",
+      "title": "Topkapı Kıymetli Evrak Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "nisantasi__kiymetli-evrak-donem-1",
+      "title": "Nişantaşı Kıymetli Evrak 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "nisantasi__kiymetli-evrak-donem-2",
+      "title": "Nişantaşı Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "nisantasi__kiymetli-evrak-yillik",
+      "title": "Nişantaşı Kıymetli Evrak Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "beykent__kiymetli-evrak-donem-1",
+      "title": "Beykent Kıymetli Evrak 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "beykent__kiymetli-evrak-donem-2",
+      "title": "Beykent Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "beykent__kiymetli-evrak-yillik",
+      "title": "Beykent Kıymetli Evrak Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "halic__kiymetli-evrak-donem-1",
+      "title": "Haliç Kıymetli Evrak 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "halic__kiymetli-evrak-donem-2",
+      "title": "Haliç Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "halic__kiymetli-evrak-yillik",
+      "title": "Haliç Kıymetli Evrak Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "fatih-sultan__kiymetli-evrak-donem-1",
+      "title": "FSMVÜ Kıymetli Evrak 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "fatih-sultan__kiymetli-evrak-donem-2",
+      "title": "FSMVÜ Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "fatih-sultan__kiymetli-evrak-yillik",
+      "title": "FSMVÜ Kıymetli Evrak Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "karadeniz-teknik__kiymetli-evrak-donem-1",
+      "title": "KTÜ Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "karadeniz-teknik__kiymetli-evrak-donem-2",
+      "title": "KTÜ Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "karadeniz-teknik__kiymetli-evrak-yillik",
+      "title": "KTÜ Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "ataturk__kiymetli-evrak-donem-1",
+      "title": "Atatürk Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "ataturk__kiymetli-evrak-donem-2",
+      "title": "Atatürk Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "ataturk__kiymetli-evrak-yillik",
+      "title": "Atatürk Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "inonu__kiymetli-evrak-donem-1",
+      "title": "İnönü Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "inonu__kiymetli-evrak-donem-2",
+      "title": "İnönü Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "inonu__kiymetli-evrak-yillik",
+      "title": "İnönü Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "dicle__kiymetli-evrak-donem-1",
+      "title": "Dicle Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "dicle__kiymetli-evrak-donem-2",
+      "title": "Dicle Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "dicle__kiymetli-evrak-yillik",
+      "title": "Dicle Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "firat__kiymetli-evrak-donem-1",
+      "title": "Fırat Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "firat__kiymetli-evrak-donem-2",
+      "title": "Fırat Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "firat__kiymetli-evrak-yillik",
+      "title": "Fırat Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "gaziantep__kiymetli-evrak-donem-1",
+      "title": "GAÜN Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "gaziantep__kiymetli-evrak-donem-2",
+      "title": "GAÜN Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "gaziantep__kiymetli-evrak-yillik",
+      "title": "GAÜN Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "suleyman-demirel__kiymetli-evrak-donem-1",
+      "title": "SDÜ Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "suleyman-demirel__kiymetli-evrak-donem-2",
+      "title": "SDÜ Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "suleyman-demirel__kiymetli-evrak-yillik",
+      "title": "SDÜ Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "pamukkale__kiymetli-evrak-donem-1",
+      "title": "PAÜ Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "pamukkale__kiymetli-evrak-donem-2",
+      "title": "PAÜ Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "pamukkale__kiymetli-evrak-yillik",
+      "title": "PAÜ Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "mugla__kiymetli-evrak-donem-1",
+      "title": "MSKU Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "mugla__kiymetli-evrak-donem-2",
+      "title": "MSKU Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "mugla__kiymetli-evrak-yillik",
+      "title": "MSKU Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "sakarya__kiymetli-evrak-donem-1",
+      "title": "SAÜ Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "sakarya__kiymetli-evrak-donem-2",
+      "title": "SAÜ Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "sakarya__kiymetli-evrak-yillik",
+      "title": "SAÜ Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "kocaeli__kiymetli-evrak-donem-1",
+      "title": "KOÜ Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "kocaeli__kiymetli-evrak-donem-2",
+      "title": "KOÜ Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "kocaeli__kiymetli-evrak-yillik",
+      "title": "KOÜ Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "trakya__kiymetli-evrak-donem-1",
+      "title": "Trakya Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "trakya__kiymetli-evrak-donem-2",
+      "title": "Trakya Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "trakya__kiymetli-evrak-yillik",
+      "title": "Trakya Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "canakkale__kiymetli-evrak-donem-1",
+      "title": "ÇOMÜ Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "canakkale__kiymetli-evrak-donem-2",
+      "title": "ÇOMÜ Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "canakkale__kiymetli-evrak-yillik",
+      "title": "ÇOMÜ Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "balikesir__kiymetli-evrak-donem-1",
+      "title": "BAÜN Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "balikesir__kiymetli-evrak-donem-2",
+      "title": "BAÜN Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "balikesir__kiymetli-evrak-yillik",
+      "title": "BAÜN Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "afyon__kiymetli-evrak-donem-1",
+      "title": "AKÜ Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "afyon__kiymetli-evrak-donem-2",
+      "title": "AKÜ Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "afyon__kiymetli-evrak-yillik",
+      "title": "AKÜ Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "dumlupinar__kiymetli-evrak-donem-1",
+      "title": "DPÜ Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "dumlupinar__kiymetli-evrak-donem-2",
+      "title": "DPÜ Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "dumlupinar__kiymetli-evrak-yillik",
+      "title": "DPÜ Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "eskisehir-osmangazi__kiymetli-evrak-donem-1",
+      "title": "ESOGÜ Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "eskisehir-osmangazi__kiymetli-evrak-donem-2",
+      "title": "ESOGÜ Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "eskisehir-osmangazi__kiymetli-evrak-yillik",
+      "title": "ESOGÜ Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "sivas-cumhuriyet__kiymetli-evrak-donem-1",
+      "title": "SCÜ Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "sivas-cumhuriyet__kiymetli-evrak-donem-2",
+      "title": "SCÜ Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "sivas-cumhuriyet__kiymetli-evrak-yillik",
+      "title": "SCÜ Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "tokat__kiymetli-evrak-donem-1",
+      "title": "TOGÜ Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "tokat__kiymetli-evrak-donem-2",
+      "title": "TOGÜ Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "tokat__kiymetli-evrak-yillik",
+      "title": "TOGÜ Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "yozgat__kiymetli-evrak-donem-1",
+      "title": "Bozok Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "yozgat__kiymetli-evrak-donem-2",
+      "title": "Bozok Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "yozgat__kiymetli-evrak-yillik",
+      "title": "Bozok Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "kirsehir__kiymetli-evrak-donem-1",
+      "title": "AHİEVRAN Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "kirsehir__kiymetli-evrak-donem-2",
+      "title": "AHİEVRAN Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "kirsehir__kiymetli-evrak-yillik",
+      "title": "AHİEVRAN Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "nevsehir__kiymetli-evrak-donem-1",
+      "title": "NEVÜ Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "nevsehir__kiymetli-evrak-donem-2",
+      "title": "NEVÜ Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "nevsehir__kiymetli-evrak-yillik",
+      "title": "NEVÜ Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "mersin__kiymetli-evrak-donem-1",
+      "title": "MEÜ Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "mersin__kiymetli-evrak-donem-2",
+      "title": "MEÜ Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "mersin__kiymetli-evrak-yillik",
+      "title": "MEÜ Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "hatay__kiymetli-evrak-donem-1",
+      "title": "MKÜ Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "hatay__kiymetli-evrak-donem-2",
+      "title": "MKÜ Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "hatay__kiymetli-evrak-yillik",
+      "title": "MKÜ Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "kahramanmaras__kiymetli-evrak-donem-1",
+      "title": "KSÜ Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "kahramanmaras__kiymetli-evrak-donem-2",
+      "title": "KSÜ Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "kahramanmaras__kiymetli-evrak-yillik",
+      "title": "KSÜ Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "osmaniye__kiymetli-evrak-donem-1",
+      "title": "OKÜ Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "osmaniye__kiymetli-evrak-donem-2",
+      "title": "OKÜ Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "osmaniye__kiymetli-evrak-yillik",
+      "title": "OKÜ Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "samsun__kiymetli-evrak-donem-1",
+      "title": "OMÜ Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "samsun__kiymetli-evrak-donem-2",
+      "title": "OMÜ Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "samsun__kiymetli-evrak-yillik",
+      "title": "OMÜ Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "ordu__kiymetli-evrak-donem-1",
+      "title": "ODÜ Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "ordu__kiymetli-evrak-donem-2",
+      "title": "ODÜ Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "ordu__kiymetli-evrak-yillik",
+      "title": "ODÜ Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "giresun__kiymetli-evrak-donem-1",
+      "title": "GÜ Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "giresun__kiymetli-evrak-donem-2",
+      "title": "GÜ Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "giresun__kiymetli-evrak-yillik",
+      "title": "GÜ Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "rize__kiymetli-evrak-donem-1",
+      "title": "RTEÜ Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "rize__kiymetli-evrak-donem-2",
+      "title": "RTEÜ Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "rize__kiymetli-evrak-yillik",
+      "title": "RTEÜ Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "artvin__kiymetli-evrak-donem-1",
+      "title": "AÇÜ Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "artvin__kiymetli-evrak-donem-2",
+      "title": "AÇÜ Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "artvin__kiymetli-evrak-yillik",
+      "title": "AÇÜ Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "van-yyu__kiymetli-evrak-donem-1",
+      "title": "YYÜ Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "van-yyu__kiymetli-evrak-donem-2",
+      "title": "YYÜ Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "van-yyu__kiymetli-evrak-yillik",
+      "title": "YYÜ Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "agri__kiymetli-evrak-donem-1",
+      "title": "AİÇÜ Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "agri__kiymetli-evrak-donem-2",
+      "title": "AİÇÜ Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "agri__kiymetli-evrak-yillik",
+      "title": "AİÇÜ Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "kars__kiymetli-evrak-donem-1",
+      "title": "Kafkas Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "kars__kiymetli-evrak-donem-2",
+      "title": "Kafkas Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "kars__kiymetli-evrak-yillik",
+      "title": "Kafkas Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "erzincan__kiymetli-evrak-donem-1",
+      "title": "EBYÜ Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "erzincan__kiymetli-evrak-donem-2",
+      "title": "EBYÜ Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "erzincan__kiymetli-evrak-yillik",
+      "title": "EBYÜ Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "bayburt__kiymetli-evrak-donem-1",
+      "title": "Bayburt Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "bayburt__kiymetli-evrak-donem-2",
+      "title": "Bayburt Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "bayburt__kiymetli-evrak-yillik",
+      "title": "Bayburt Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "gumushane__kiymetli-evrak-donem-1",
+      "title": "Gümüşhane Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "gumushane__kiymetli-evrak-donem-2",
+      "title": "Gümüşhane Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "gumushane__kiymetli-evrak-yillik",
+      "title": "Gümüşhane Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "bingol__kiymetli-evrak-donem-1",
+      "title": "Bingöl Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "bingol__kiymetli-evrak-donem-2",
+      "title": "Bingöl Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "bingol__kiymetli-evrak-yillik",
+      "title": "Bingöl Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "mus__kiymetli-evrak-donem-1",
+      "title": "Muş Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "mus__kiymetli-evrak-donem-2",
+      "title": "Muş Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "mus__kiymetli-evrak-yillik",
+      "title": "Muş Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "hakkari__kiymetli-evrak-donem-1",
+      "title": "Hakkâri Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "hakkari__kiymetli-evrak-donem-2",
+      "title": "Hakkâri Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "hakkari__kiymetli-evrak-yillik",
+      "title": "Hakkâri Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "sirnak__kiymetli-evrak-donem-1",
+      "title": "Şırnak Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "sirnak__kiymetli-evrak-donem-2",
+      "title": "Şırnak Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "sirnak__kiymetli-evrak-yillik",
+      "title": "Şırnak Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "mardin__kiymetli-evrak-donem-1",
+      "title": "Artuklu Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "mardin__kiymetli-evrak-donem-2",
+      "title": "Artuklu Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "mardin__kiymetli-evrak-yillik",
+      "title": "Artuklu Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "batman__kiymetli-evrak-donem-1",
+      "title": "Batman Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "batman__kiymetli-evrak-donem-2",
+      "title": "Batman Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "batman__kiymetli-evrak-yillik",
+      "title": "Batman Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "siirt__kiymetli-evrak-donem-1",
+      "title": "Siirt Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "siirt__kiymetli-evrak-donem-2",
+      "title": "Siirt Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "siirt__kiymetli-evrak-yillik",
+      "title": "Siirt Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "adiyaman__kiymetli-evrak-donem-1",
+      "title": "Adıyaman Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "adiyaman__kiymetli-evrak-donem-2",
+      "title": "Adıyaman Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "adiyaman__kiymetli-evrak-yillik",
+      "title": "Adıyaman Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "kilis__kiymetli-evrak-donem-1",
+      "title": "Kilis Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "kilis__kiymetli-evrak-donem-2",
+      "title": "Kilis Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "kilis__kiymetli-evrak-yillik",
+      "title": "Kilis Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "igdir__kiymetli-evrak-donem-1",
+      "title": "Iğdır Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "igdir__kiymetli-evrak-donem-2",
+      "title": "Iğdır Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "igdir__kiymetli-evrak-yillik",
+      "title": "Iğdır Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "ardahan__kiymetli-evrak-donem-1",
+      "title": "Ardahan Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "ardahan__kiymetli-evrak-donem-2",
+      "title": "Ardahan Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "ardahan__kiymetli-evrak-yillik",
+      "title": "Ardahan Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "bilecik__kiymetli-evrak-donem-1",
+      "title": "BŞEÜ Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "bilecik__kiymetli-evrak-donem-2",
+      "title": "BŞEÜ Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "bilecik__kiymetli-evrak-yillik",
+      "title": "BŞEÜ Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "bolu__kiymetli-evrak-donem-1",
+      "title": "BAİBÜ Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "bolu__kiymetli-evrak-donem-2",
+      "title": "BAİBÜ Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "bolu__kiymetli-evrak-yillik",
+      "title": "BAİBÜ Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "duzce__kiymetli-evrak-donem-1",
+      "title": "Düzce Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "duzce__kiymetli-evrak-donem-2",
+      "title": "Düzce Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "duzce__kiymetli-evrak-yillik",
+      "title": "Düzce Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "zonguldak__kiymetli-evrak-donem-1",
+      "title": "BEÜN Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "zonguldak__kiymetli-evrak-donem-2",
+      "title": "BEÜN Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "zonguldak__kiymetli-evrak-yillik",
+      "title": "BEÜN Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "karabuk__kiymetli-evrak-donem-1",
+      "title": "KBÜ Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "karabuk__kiymetli-evrak-donem-2",
+      "title": "KBÜ Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "karabuk__kiymetli-evrak-yillik",
+      "title": "KBÜ Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "kastamonu__kiymetli-evrak-donem-1",
+      "title": "KÜ Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "kastamonu__kiymetli-evrak-donem-2",
+      "title": "KÜ Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "kastamonu__kiymetli-evrak-yillik",
+      "title": "KÜ Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "sinop__kiymetli-evrak-donem-1",
+      "title": "Sinop Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "sinop__kiymetli-evrak-donem-2",
+      "title": "Sinop Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "sinop__kiymetli-evrak-yillik",
+      "title": "Sinop Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "corum__kiymetli-evrak-donem-1",
+      "title": "Hitit Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "corum__kiymetli-evrak-donem-2",
+      "title": "Hitit Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "corum__kiymetli-evrak-yillik",
+      "title": "Hitit Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "amasya__kiymetli-evrak-donem-1",
+      "title": "Amasya Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "amasya__kiymetli-evrak-donem-2",
+      "title": "Amasya Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "amasya__kiymetli-evrak-yillik",
+      "title": "Amasya Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "cankiri__kiymetli-evrak-donem-1",
+      "title": "Karatekin Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "cankiri__kiymetli-evrak-donem-2",
+      "title": "Karatekin Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "cankiri__kiymetli-evrak-yillik",
+      "title": "Karatekin Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "kirikkale__kiymetli-evrak-donem-1",
+      "title": "Kırıkkale Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "kirikkale__kiymetli-evrak-donem-2",
+      "title": "Kırıkkale Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "kirikkale__kiymetli-evrak-yillik",
+      "title": "Kırıkkale Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "aksaray__kiymetli-evrak-donem-1",
+      "title": "Aksaray Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "aksaray__kiymetli-evrak-donem-2",
+      "title": "Aksaray Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "aksaray__kiymetli-evrak-yillik",
+      "title": "Aksaray Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "nigde__kiymetli-evrak-donem-1",
+      "title": "ÖHÜ Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "nigde__kiymetli-evrak-donem-2",
+      "title": "ÖHÜ Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "nigde__kiymetli-evrak-yillik",
+      "title": "ÖHÜ Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "konya-teknik__kiymetli-evrak-donem-1",
+      "title": "NEÜ Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "konya-teknik__kiymetli-evrak-donem-2",
+      "title": "NEÜ Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "konya-teknik__kiymetli-evrak-yillik",
+      "title": "NEÜ Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "karaman__kiymetli-evrak-donem-1",
+      "title": "KMÜ Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "karaman__kiymetli-evrak-donem-2",
+      "title": "KMÜ Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "karaman__kiymetli-evrak-yillik",
+      "title": "KMÜ Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "usak__kiymetli-evrak-donem-1",
+      "title": "Uşak Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "usak__kiymetli-evrak-donem-2",
+      "title": "Uşak Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "usak__kiymetli-evrak-yillik",
+      "title": "Uşak Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "manisa__kiymetli-evrak-donem-1",
+      "title": "MCBÜ Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "manisa__kiymetli-evrak-donem-2",
+      "title": "MCBÜ Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "manisa__kiymetli-evrak-yillik",
+      "title": "MCBÜ Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "aydin-adu__kiymetli-evrak-donem-1",
+      "title": "ADÜ Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "aydin-adu__kiymetli-evrak-donem-2",
+      "title": "ADÜ Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "aydin-adu__kiymetli-evrak-yillik",
+      "title": "ADÜ Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "tekirdag__kiymetli-evrak-donem-1",
+      "title": "NKÜ Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "tekirdag__kiymetli-evrak-donem-2",
+      "title": "NKÜ Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "tekirdag__kiymetli-evrak-yillik",
+      "title": "NKÜ Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "kirklareli__kiymetli-evrak-donem-1",
+      "title": "Kırklareli Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "kirklareli__kiymetli-evrak-donem-2",
+      "title": "Kırklareli Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "kirklareli__kiymetli-evrak-yillik",
+      "title": "Kırklareli Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "atilim__kiymetli-evrak-donem-1",
+      "title": "Atılım Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "atilim__kiymetli-evrak-donem-2",
+      "title": "Atılım Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "atilim__kiymetli-evrak-yillik",
+      "title": "Atılım Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "cankaya__kiymetli-evrak-donem-1",
+      "title": "Çankaya Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "cankaya__kiymetli-evrak-donem-2",
+      "title": "Çankaya Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "cankaya__kiymetli-evrak-yillik",
+      "title": "Çankaya Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "ufuk__kiymetli-evrak-donem-1",
+      "title": "Ufuk Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "ufuk__kiymetli-evrak-donem-2",
+      "title": "Ufuk Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "ufuk__kiymetli-evrak-yillik",
+      "title": "Ufuk Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "yasar__kiymetli-evrak-donem-1",
+      "title": "Yaşar Kıymetli Evrak 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "yasar__kiymetli-evrak-donem-2",
+      "title": "Yaşar Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "yasar__kiymetli-evrak-yillik",
+      "title": "Yaşar Kıymetli Evrak Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "izmir-ekonomi__kiymetli-evrak-donem-1",
+      "title": "İEÜ Kıymetli Evrak 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "izmir-ekonomi__kiymetli-evrak-donem-2",
+      "title": "İEÜ Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "izmir-ekonomi__kiymetli-evrak-yillik",
+      "title": "İEÜ Kıymetli Evrak Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "tinaztepe__kiymetli-evrak-donem-1",
+      "title": "Tınaztepe Kıymetli Evrak 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "tinaztepe__kiymetli-evrak-donem-2",
+      "title": "Tınaztepe Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "tinaztepe__kiymetli-evrak-yillik",
+      "title": "Tınaztepe Kıymetli Evrak Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "asbu-vakif__kiymetli-evrak-donem-1",
+      "title": "ABÜ Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "asbu-vakif__kiymetli-evrak-donem-2",
+      "title": "ABÜ Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "asbu-vakif__kiymetli-evrak-yillik",
+      "title": "ABÜ Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "hasan-kalyoncu__kiymetli-evrak-donem-1",
+      "title": "HKÜ Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "hasan-kalyoncu__kiymetli-evrak-donem-2",
+      "title": "HKÜ Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "hasan-kalyoncu__kiymetli-evrak-yillik",
+      "title": "HKÜ Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "sanko__kiymetli-evrak-donem-1",
+      "title": "Sanko Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "sanko__kiymetli-evrak-donem-2",
+      "title": "Sanko Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "sanko__kiymetli-evrak-yillik",
+      "title": "Sanko Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "toros__kiymetli-evrak-donem-1",
+      "title": "Toros Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "toros__kiymetli-evrak-donem-2",
+      "title": "Toros Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "toros__kiymetli-evrak-yillik",
+      "title": "Toros Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "kiymetli-evrak-donem-1",
+      "slug": "cag__kiymetli-evrak-donem-1",
+      "title": "Çağ Kıymetli Evrak 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/kiymetli-evrak-donem-1",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "kiymetli-evrak-donem-2",
+      "slug": "cag__kiymetli-evrak-donem-2",
+      "title": "Çağ Kıymetli Evrak 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/kiymetli-evrak-donem-2",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "kiymetli-evrak-yillik",
+      "slug": "cag__kiymetli-evrak-yillik",
+      "title": "Çağ Kıymetli Evrak Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/kiymetli-evrak-yillik",
+      "variantOf": "kiymetli-evrak",
+      "variantLabel": "Yıllık (Tam paket)"
     }
   ],
   "borclarGenelTripleAt": "2026-07-29T20:05:58.703Z",
@@ -56777,5 +60017,6 @@
   "hmkTripleAt": "2026-07-29T20:32:21.565Z",
   "icraTripleAt": "2026-07-29T20:37:25.898Z",
   "iflasTripleAt": "2026-07-29T20:37:26.513Z",
-  "sirketlerTripleAt": "2026-07-29T20:40:50.060Z"
+  "sirketlerTripleAt": "2026-07-29T20:40:50.060Z",
+  "kiymetliEvrakTripleAt": "2026-07-29T20:43:38.050Z"
 }

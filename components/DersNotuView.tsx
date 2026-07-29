@@ -493,6 +493,18 @@ export function DersNotuView({
               { code: 'sirketler-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
             ],
           },
+          {
+            match:
+              note.variantOf === 'kiymetli-evrak' ||
+              note.courseCode === 'kiymetli-evrak' ||
+              note.courseCode.startsWith('kiymetli-evrak-'),
+            title: 'Kıymetli Evrak · üç paket',
+            items: [
+              { code: 'kiymetli-evrak-donem-1', label: '1. Dönem (Güz)', desc: 'Poliçe · bono · ciro' },
+              { code: 'kiymetli-evrak-donem-2', label: '2. Dönem (Bahar)', desc: 'Çek · başvuru · def’i' },
+              { code: 'kiymetli-evrak-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
+            ],
+          },
         ];
         const activePacks = packs.filter((p) => p.match);
         if (!activePacks.length) return null;
@@ -995,6 +1007,23 @@ export function UniHubView({ hub }: { hub: UniHubContent }) {
               { code: 'sirketler-donem-1', title: '1. Dönem (Güz)' },
               { code: 'sirketler-donem-2', title: '2. Dönem (Bahar)' },
               { code: 'sirketler-yillik', title: 'Yıllık tam not' },
+            ],
+          },
+          {
+            show: hub.courses.some(
+              (c) =>
+                String(c.code).startsWith('kiymetli-evrak') ||
+                c.code === 'kiymetli-evrak'
+            ),
+            title: 'Kıymetli Evrak — 1. dönem · 2. dönem · yıllık',
+            desc: 'Poliçe–bono–çek–ciro–başvuru… üç premium not + PDF.',
+            border: 'border-primary/20 bg-primary/[0.04]',
+            itemBorder: 'border-primary/25',
+            accent: 'text-primary',
+            items: [
+              { code: 'kiymetli-evrak-donem-1', title: '1. Dönem (Güz)' },
+              { code: 'kiymetli-evrak-donem-2', title: '2. Dönem (Bahar)' },
+              { code: 'kiymetli-evrak-yillik', title: 'Yıllık tam not' },
             ],
           },
         ]
