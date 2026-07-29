@@ -3,7 +3,7 @@
   "wave": "all",
   "universityCount": 120,
   "hubCount": 120,
-  "noteCount": 14160,
+  "noteCount": 14520,
   "universities": [
     {
       "slug": "ankara-yildirim-beyazit",
@@ -121566,6 +121566,3246 @@
       "href": "/ders-notlari/cag/hukuk-sosyolojisi-yillik",
       "variantOf": "hukuk-sosyolojisi",
       "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "ankara-yildirim-beyazit__is-hukuku-donem-1",
+      "title": "AYBÜ İş Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "ankara-yildirim-beyazit__is-hukuku-donem-2",
+      "title": "AYBÜ İş Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "ankara-yildirim-beyazit__is-hukuku-yillik",
+      "title": "AYBÜ İş Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "ankara__is-hukuku-donem-1",
+      "title": "AÜHF İş Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "ankara__is-hukuku-donem-2",
+      "title": "AÜHF İş Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "ankara__is-hukuku-yillik",
+      "title": "AÜHF İş Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "istanbul__is-hukuku-donem-1",
+      "title": "İÜHF İş Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "istanbul__is-hukuku-donem-2",
+      "title": "İÜHF İş Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "istanbul__is-hukuku-yillik",
+      "title": "İÜHF İş Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "marmara__is-hukuku-donem-1",
+      "title": "MÜHF İş Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "marmara__is-hukuku-donem-2",
+      "title": "MÜHF İş Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "marmara__is-hukuku-yillik",
+      "title": "MÜHF İş Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "galatasaray__is-hukuku-donem-1",
+      "title": "GSÜ İş Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "galatasaray__is-hukuku-donem-2",
+      "title": "GSÜ İş Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "galatasaray__is-hukuku-yillik",
+      "title": "GSÜ İş Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "dokuz-eylul__is-hukuku-donem-1",
+      "title": "DEÜ İş Hukuku 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "dokuz-eylul__is-hukuku-donem-2",
+      "title": "DEÜ İş Hukuku 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "dokuz-eylul__is-hukuku-yillik",
+      "title": "DEÜ İş Hukuku Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "hacettepe__is-hukuku-donem-1",
+      "title": "Hacettepe İş Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "hacettepe__is-hukuku-donem-2",
+      "title": "Hacettepe İş Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "hacettepe__is-hukuku-yillik",
+      "title": "Hacettepe İş Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "ankara-hacibayram__is-hukuku-donem-1",
+      "title": "AHBV İş Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "ankara-hacibayram__is-hukuku-donem-2",
+      "title": "AHBV İş Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "ankara-hacibayram__is-hukuku-yillik",
+      "title": "AHBV İş Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "bilkent__is-hukuku-donem-1",
+      "title": "Bilkent İş Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "bilkent__is-hukuku-donem-2",
+      "title": "Bilkent İş Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "bilkent__is-hukuku-yillik",
+      "title": "Bilkent İş Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "koc__is-hukuku-donem-1",
+      "title": "Koç İş Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "koc__is-hukuku-donem-2",
+      "title": "Koç İş Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "koc__is-hukuku-yillik",
+      "title": "Koç İş Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "tobb-etu__is-hukuku-donem-1",
+      "title": "TOBB ETÜ İş Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "tobb-etu__is-hukuku-donem-2",
+      "title": "TOBB ETÜ İş Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "tobb-etu__is-hukuku-yillik",
+      "title": "TOBB ETÜ İş Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "bogazici__is-hukuku-donem-1",
+      "title": "BÜ İş Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "bogazici__is-hukuku-donem-2",
+      "title": "BÜ İş Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "bogazici__is-hukuku-yillik",
+      "title": "BÜ İş Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "ege__is-hukuku-donem-1",
+      "title": "Ege İş Hukuku 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "ege__is-hukuku-donem-2",
+      "title": "Ege İş Hukuku 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "ege__is-hukuku-yillik",
+      "title": "Ege İş Hukuku Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "akdeniz__is-hukuku-donem-1",
+      "title": "Akdeniz İş Hukuku 1. Dönem (Güz) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "akdeniz__is-hukuku-donem-2",
+      "title": "Akdeniz İş Hukuku 2. Dönem (Bahar) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "akdeniz__is-hukuku-yillik",
+      "title": "Akdeniz İş Hukuku Yıllık (Tam paket) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "selcuk__is-hukuku-donem-1",
+      "title": "Selçuk İş Hukuku 1. Dönem (Güz) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "selcuk__is-hukuku-donem-2",
+      "title": "Selçuk İş Hukuku 2. Dönem (Bahar) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "selcuk__is-hukuku-yillik",
+      "title": "Selçuk İş Hukuku Yıllık (Tam paket) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "erciyes__is-hukuku-donem-1",
+      "title": "Erciyes İş Hukuku 1. Dönem (Güz) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "erciyes__is-hukuku-donem-2",
+      "title": "Erciyes İş Hukuku 2. Dönem (Bahar) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "erciyes__is-hukuku-yillik",
+      "title": "Erciyes İş Hukuku Yıllık (Tam paket) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "uludag__is-hukuku-donem-1",
+      "title": "Uludağ İş Hukuku 1. Dönem (Güz) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "uludag__is-hukuku-donem-2",
+      "title": "Uludağ İş Hukuku 2. Dönem (Bahar) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "uludag__is-hukuku-yillik",
+      "title": "Uludağ İş Hukuku Yıllık (Tam paket) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "cukurova__is-hukuku-donem-1",
+      "title": "Çukurova İş Hukuku 1. Dönem (Güz) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "cukurova__is-hukuku-donem-2",
+      "title": "Çukurova İş Hukuku 2. Dönem (Bahar) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "cukurova__is-hukuku-yillik",
+      "title": "Çukurova İş Hukuku Yıllık (Tam paket) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "anadolu__is-hukuku-donem-1",
+      "title": "Anadolu İş Hukuku 1. Dönem (Güz) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "anadolu__is-hukuku-donem-2",
+      "title": "Anadolu İş Hukuku 2. Dönem (Bahar) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "anadolu__is-hukuku-yillik",
+      "title": "Anadolu İş Hukuku Yıllık (Tam paket) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "gazi-ankara__is-hukuku-donem-1",
+      "title": "ASBÜ İş Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "gazi-ankara__is-hukuku-donem-2",
+      "title": "ASBÜ İş Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "gazi-ankara__is-hukuku-yillik",
+      "title": "ASBÜ İş Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "yildiz-teknik__is-hukuku-donem-1",
+      "title": "YTÜ İş Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "yildiz-teknik__is-hukuku-donem-2",
+      "title": "YTÜ İş Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "yildiz-teknik__is-hukuku-yillik",
+      "title": "YTÜ İş Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "istanbul-medeniyet__is-hukuku-donem-1",
+      "title": "Medeniyet İş Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "istanbul-medeniyet__is-hukuku-donem-2",
+      "title": "Medeniyet İş Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "istanbul-medeniyet__is-hukuku-yillik",
+      "title": "Medeniyet İş Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "bahcesehir__is-hukuku-donem-1",
+      "title": "BAU İş Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "bahcesehir__is-hukuku-donem-2",
+      "title": "BAU İş Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "bahcesehir__is-hukuku-yillik",
+      "title": "BAU İş Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "yeditepe__is-hukuku-donem-1",
+      "title": "Yeditepe İş Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "yeditepe__is-hukuku-donem-2",
+      "title": "Yeditepe İş Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "yeditepe__is-hukuku-yillik",
+      "title": "Yeditepe İş Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "ozyegin__is-hukuku-donem-1",
+      "title": "Özyeğin İş Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "ozyegin__is-hukuku-donem-2",
+      "title": "Özyeğin İş Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "ozyegin__is-hukuku-yillik",
+      "title": "Özyeğin İş Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "kadir-has__is-hukuku-donem-1",
+      "title": "KHAS İş Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "kadir-has__is-hukuku-donem-2",
+      "title": "KHAS İş Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "kadir-has__is-hukuku-yillik",
+      "title": "KHAS İş Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "istanbul-bilgi__is-hukuku-donem-1",
+      "title": "Bilgi İş Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "istanbul-bilgi__is-hukuku-donem-2",
+      "title": "Bilgi İş Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "istanbul-bilgi__is-hukuku-yillik",
+      "title": "Bilgi İş Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "mehmet-akif__is-hukuku-donem-1",
+      "title": "Medipol İş Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "mehmet-akif__is-hukuku-donem-2",
+      "title": "Medipol İş Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "mehmet-akif__is-hukuku-yillik",
+      "title": "Medipol İş Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "altinbas__is-hukuku-donem-1",
+      "title": "Altınbaş İş Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "altinbas__is-hukuku-donem-2",
+      "title": "Altınbaş İş Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "altinbas__is-hukuku-yillik",
+      "title": "Altınbaş İş Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "maltepe__is-hukuku-donem-1",
+      "title": "Maltepe İş Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "maltepe__is-hukuku-donem-2",
+      "title": "Maltepe İş Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "maltepe__is-hukuku-yillik",
+      "title": "Maltepe İş Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "dogus__is-hukuku-donem-1",
+      "title": "Doğuş İş Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "dogus__is-hukuku-donem-2",
+      "title": "Doğuş İş Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "dogus__is-hukuku-yillik",
+      "title": "Doğuş İş Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "isik__is-hukuku-donem-1",
+      "title": "Işık İş Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "isik__is-hukuku-donem-2",
+      "title": "Işık İş Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "isik__is-hukuku-yillik",
+      "title": "Işık İş Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "okan__is-hukuku-donem-1",
+      "title": "Okan İş Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "okan__is-hukuku-donem-2",
+      "title": "Okan İş Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "okan__is-hukuku-yillik",
+      "title": "Okan İş Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "kultur__is-hukuku-donem-1",
+      "title": "İKÜ İş Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "kultur__is-hukuku-donem-2",
+      "title": "İKÜ İş Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "kultur__is-hukuku-yillik",
+      "title": "İKÜ İş Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "aydin__is-hukuku-donem-1",
+      "title": "İAÜ İş Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "aydin__is-hukuku-donem-2",
+      "title": "İAÜ İş Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "aydin__is-hukuku-yillik",
+      "title": "İAÜ İş Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "gelisim__is-hukuku-donem-1",
+      "title": "Gelişim İş Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "gelisim__is-hukuku-donem-2",
+      "title": "Gelişim İş Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "gelisim__is-hukuku-yillik",
+      "title": "Gelişim İş Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "topkapi__is-hukuku-donem-1",
+      "title": "Topkapı İş Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "topkapi__is-hukuku-donem-2",
+      "title": "Topkapı İş Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "topkapi__is-hukuku-yillik",
+      "title": "Topkapı İş Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "nisantasi__is-hukuku-donem-1",
+      "title": "Nişantaşı İş Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "nisantasi__is-hukuku-donem-2",
+      "title": "Nişantaşı İş Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "nisantasi__is-hukuku-yillik",
+      "title": "Nişantaşı İş Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "beykent__is-hukuku-donem-1",
+      "title": "Beykent İş Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "beykent__is-hukuku-donem-2",
+      "title": "Beykent İş Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "beykent__is-hukuku-yillik",
+      "title": "Beykent İş Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "halic__is-hukuku-donem-1",
+      "title": "Haliç İş Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "halic__is-hukuku-donem-2",
+      "title": "Haliç İş Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "halic__is-hukuku-yillik",
+      "title": "Haliç İş Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "fatih-sultan__is-hukuku-donem-1",
+      "title": "FSMVÜ İş Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "fatih-sultan__is-hukuku-donem-2",
+      "title": "FSMVÜ İş Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "fatih-sultan__is-hukuku-yillik",
+      "title": "FSMVÜ İş Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "karadeniz-teknik__is-hukuku-donem-1",
+      "title": "KTÜ İş Hukuku 1. Dönem (Güz) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "karadeniz-teknik__is-hukuku-donem-2",
+      "title": "KTÜ İş Hukuku 2. Dönem (Bahar) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "karadeniz-teknik__is-hukuku-yillik",
+      "title": "KTÜ İş Hukuku Yıllık (Tam paket) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "ataturk__is-hukuku-donem-1",
+      "title": "Atatürk İş Hukuku 1. Dönem (Güz) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "ataturk__is-hukuku-donem-2",
+      "title": "Atatürk İş Hukuku 2. Dönem (Bahar) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "ataturk__is-hukuku-yillik",
+      "title": "Atatürk İş Hukuku Yıllık (Tam paket) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "inonu__is-hukuku-donem-1",
+      "title": "İnönü İş Hukuku 1. Dönem (Güz) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "inonu__is-hukuku-donem-2",
+      "title": "İnönü İş Hukuku 2. Dönem (Bahar) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "inonu__is-hukuku-yillik",
+      "title": "İnönü İş Hukuku Yıllık (Tam paket) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "dicle__is-hukuku-donem-1",
+      "title": "Dicle İş Hukuku 1. Dönem (Güz) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "dicle__is-hukuku-donem-2",
+      "title": "Dicle İş Hukuku 2. Dönem (Bahar) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "dicle__is-hukuku-yillik",
+      "title": "Dicle İş Hukuku Yıllık (Tam paket) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "firat__is-hukuku-donem-1",
+      "title": "Fırat İş Hukuku 1. Dönem (Güz) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "firat__is-hukuku-donem-2",
+      "title": "Fırat İş Hukuku 2. Dönem (Bahar) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "firat__is-hukuku-yillik",
+      "title": "Fırat İş Hukuku Yıllık (Tam paket) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "gaziantep__is-hukuku-donem-1",
+      "title": "GAÜN İş Hukuku 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "gaziantep__is-hukuku-donem-2",
+      "title": "GAÜN İş Hukuku 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "gaziantep__is-hukuku-yillik",
+      "title": "GAÜN İş Hukuku Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "suleyman-demirel__is-hukuku-donem-1",
+      "title": "SDÜ İş Hukuku 1. Dönem (Güz) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "suleyman-demirel__is-hukuku-donem-2",
+      "title": "SDÜ İş Hukuku 2. Dönem (Bahar) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "suleyman-demirel__is-hukuku-yillik",
+      "title": "SDÜ İş Hukuku Yıllık (Tam paket) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "pamukkale__is-hukuku-donem-1",
+      "title": "PAÜ İş Hukuku 1. Dönem (Güz) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "pamukkale__is-hukuku-donem-2",
+      "title": "PAÜ İş Hukuku 2. Dönem (Bahar) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "pamukkale__is-hukuku-yillik",
+      "title": "PAÜ İş Hukuku Yıllık (Tam paket) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "mugla__is-hukuku-donem-1",
+      "title": "MSKU İş Hukuku 1. Dönem (Güz) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "mugla__is-hukuku-donem-2",
+      "title": "MSKU İş Hukuku 2. Dönem (Bahar) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "mugla__is-hukuku-yillik",
+      "title": "MSKU İş Hukuku Yıllık (Tam paket) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "sakarya__is-hukuku-donem-1",
+      "title": "SAÜ İş Hukuku 1. Dönem (Güz) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "sakarya__is-hukuku-donem-2",
+      "title": "SAÜ İş Hukuku 2. Dönem (Bahar) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "sakarya__is-hukuku-yillik",
+      "title": "SAÜ İş Hukuku Yıllık (Tam paket) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "kocaeli__is-hukuku-donem-1",
+      "title": "KOÜ İş Hukuku 1. Dönem (Güz) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "kocaeli__is-hukuku-donem-2",
+      "title": "KOÜ İş Hukuku 2. Dönem (Bahar) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "kocaeli__is-hukuku-yillik",
+      "title": "KOÜ İş Hukuku Yıllık (Tam paket) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "trakya__is-hukuku-donem-1",
+      "title": "Trakya İş Hukuku 1. Dönem (Güz) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "trakya__is-hukuku-donem-2",
+      "title": "Trakya İş Hukuku 2. Dönem (Bahar) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "trakya__is-hukuku-yillik",
+      "title": "Trakya İş Hukuku Yıllık (Tam paket) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "canakkale__is-hukuku-donem-1",
+      "title": "ÇOMÜ İş Hukuku 1. Dönem (Güz) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "canakkale__is-hukuku-donem-2",
+      "title": "ÇOMÜ İş Hukuku 2. Dönem (Bahar) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "canakkale__is-hukuku-yillik",
+      "title": "ÇOMÜ İş Hukuku Yıllık (Tam paket) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "balikesir__is-hukuku-donem-1",
+      "title": "BAÜN İş Hukuku 1. Dönem (Güz) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "balikesir__is-hukuku-donem-2",
+      "title": "BAÜN İş Hukuku 2. Dönem (Bahar) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "balikesir__is-hukuku-yillik",
+      "title": "BAÜN İş Hukuku Yıllık (Tam paket) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "afyon__is-hukuku-donem-1",
+      "title": "AKÜ İş Hukuku 1. Dönem (Güz) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "afyon__is-hukuku-donem-2",
+      "title": "AKÜ İş Hukuku 2. Dönem (Bahar) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "afyon__is-hukuku-yillik",
+      "title": "AKÜ İş Hukuku Yıllık (Tam paket) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "dumlupinar__is-hukuku-donem-1",
+      "title": "DPÜ İş Hukuku 1. Dönem (Güz) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "dumlupinar__is-hukuku-donem-2",
+      "title": "DPÜ İş Hukuku 2. Dönem (Bahar) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "dumlupinar__is-hukuku-yillik",
+      "title": "DPÜ İş Hukuku Yıllık (Tam paket) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "eskisehir-osmangazi__is-hukuku-donem-1",
+      "title": "ESOGÜ İş Hukuku 1. Dönem (Güz) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "eskisehir-osmangazi__is-hukuku-donem-2",
+      "title": "ESOGÜ İş Hukuku 2. Dönem (Bahar) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "eskisehir-osmangazi__is-hukuku-yillik",
+      "title": "ESOGÜ İş Hukuku Yıllık (Tam paket) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "sivas-cumhuriyet__is-hukuku-donem-1",
+      "title": "SCÜ İş Hukuku 1. Dönem (Güz) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "sivas-cumhuriyet__is-hukuku-donem-2",
+      "title": "SCÜ İş Hukuku 2. Dönem (Bahar) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "sivas-cumhuriyet__is-hukuku-yillik",
+      "title": "SCÜ İş Hukuku Yıllık (Tam paket) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "tokat__is-hukuku-donem-1",
+      "title": "TOGÜ İş Hukuku 1. Dönem (Güz) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "tokat__is-hukuku-donem-2",
+      "title": "TOGÜ İş Hukuku 2. Dönem (Bahar) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "tokat__is-hukuku-yillik",
+      "title": "TOGÜ İş Hukuku Yıllık (Tam paket) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "yozgat__is-hukuku-donem-1",
+      "title": "Bozok İş Hukuku 1. Dönem (Güz) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "yozgat__is-hukuku-donem-2",
+      "title": "Bozok İş Hukuku 2. Dönem (Bahar) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "yozgat__is-hukuku-yillik",
+      "title": "Bozok İş Hukuku Yıllık (Tam paket) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "kirsehir__is-hukuku-donem-1",
+      "title": "AHİEVRAN İş Hukuku 1. Dönem (Güz) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "kirsehir__is-hukuku-donem-2",
+      "title": "AHİEVRAN İş Hukuku 2. Dönem (Bahar) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "kirsehir__is-hukuku-yillik",
+      "title": "AHİEVRAN İş Hukuku Yıllık (Tam paket) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "nevsehir__is-hukuku-donem-1",
+      "title": "NEVÜ İş Hukuku 1. Dönem (Güz) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "nevsehir__is-hukuku-donem-2",
+      "title": "NEVÜ İş Hukuku 2. Dönem (Bahar) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "nevsehir__is-hukuku-yillik",
+      "title": "NEVÜ İş Hukuku Yıllık (Tam paket) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "mersin__is-hukuku-donem-1",
+      "title": "MEÜ İş Hukuku 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "mersin__is-hukuku-donem-2",
+      "title": "MEÜ İş Hukuku 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "mersin__is-hukuku-yillik",
+      "title": "MEÜ İş Hukuku Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "hatay__is-hukuku-donem-1",
+      "title": "MKÜ İş Hukuku 1. Dönem (Güz) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "hatay__is-hukuku-donem-2",
+      "title": "MKÜ İş Hukuku 2. Dönem (Bahar) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "hatay__is-hukuku-yillik",
+      "title": "MKÜ İş Hukuku Yıllık (Tam paket) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "kahramanmaras__is-hukuku-donem-1",
+      "title": "KSÜ İş Hukuku 1. Dönem (Güz) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "kahramanmaras__is-hukuku-donem-2",
+      "title": "KSÜ İş Hukuku 2. Dönem (Bahar) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "kahramanmaras__is-hukuku-yillik",
+      "title": "KSÜ İş Hukuku Yıllık (Tam paket) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "osmaniye__is-hukuku-donem-1",
+      "title": "OKÜ İş Hukuku 1. Dönem (Güz) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "osmaniye__is-hukuku-donem-2",
+      "title": "OKÜ İş Hukuku 2. Dönem (Bahar) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "osmaniye__is-hukuku-yillik",
+      "title": "OKÜ İş Hukuku Yıllık (Tam paket) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "samsun__is-hukuku-donem-1",
+      "title": "OMÜ İş Hukuku 1. Dönem (Güz) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "samsun__is-hukuku-donem-2",
+      "title": "OMÜ İş Hukuku 2. Dönem (Bahar) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "samsun__is-hukuku-yillik",
+      "title": "OMÜ İş Hukuku Yıllık (Tam paket) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "ordu__is-hukuku-donem-1",
+      "title": "ODÜ İş Hukuku 1. Dönem (Güz) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "ordu__is-hukuku-donem-2",
+      "title": "ODÜ İş Hukuku 2. Dönem (Bahar) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "ordu__is-hukuku-yillik",
+      "title": "ODÜ İş Hukuku Yıllık (Tam paket) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "giresun__is-hukuku-donem-1",
+      "title": "GÜ İş Hukuku 1. Dönem (Güz) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "giresun__is-hukuku-donem-2",
+      "title": "GÜ İş Hukuku 2. Dönem (Bahar) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "giresun__is-hukuku-yillik",
+      "title": "GÜ İş Hukuku Yıllık (Tam paket) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "rize__is-hukuku-donem-1",
+      "title": "RTEÜ İş Hukuku 1. Dönem (Güz) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "rize__is-hukuku-donem-2",
+      "title": "RTEÜ İş Hukuku 2. Dönem (Bahar) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "rize__is-hukuku-yillik",
+      "title": "RTEÜ İş Hukuku Yıllık (Tam paket) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "artvin__is-hukuku-donem-1",
+      "title": "AÇÜ İş Hukuku 1. Dönem (Güz) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "artvin__is-hukuku-donem-2",
+      "title": "AÇÜ İş Hukuku 2. Dönem (Bahar) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "artvin__is-hukuku-yillik",
+      "title": "AÇÜ İş Hukuku Yıllık (Tam paket) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "van-yyu__is-hukuku-donem-1",
+      "title": "YYÜ İş Hukuku 1. Dönem (Güz) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "van-yyu__is-hukuku-donem-2",
+      "title": "YYÜ İş Hukuku 2. Dönem (Bahar) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "van-yyu__is-hukuku-yillik",
+      "title": "YYÜ İş Hukuku Yıllık (Tam paket) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "agri__is-hukuku-donem-1",
+      "title": "AİÇÜ İş Hukuku 1. Dönem (Güz) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "agri__is-hukuku-donem-2",
+      "title": "AİÇÜ İş Hukuku 2. Dönem (Bahar) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "agri__is-hukuku-yillik",
+      "title": "AİÇÜ İş Hukuku Yıllık (Tam paket) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "kars__is-hukuku-donem-1",
+      "title": "Kafkas İş Hukuku 1. Dönem (Güz) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "kars__is-hukuku-donem-2",
+      "title": "Kafkas İş Hukuku 2. Dönem (Bahar) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "kars__is-hukuku-yillik",
+      "title": "Kafkas İş Hukuku Yıllık (Tam paket) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "erzincan__is-hukuku-donem-1",
+      "title": "EBYÜ İş Hukuku 1. Dönem (Güz) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "erzincan__is-hukuku-donem-2",
+      "title": "EBYÜ İş Hukuku 2. Dönem (Bahar) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "erzincan__is-hukuku-yillik",
+      "title": "EBYÜ İş Hukuku Yıllık (Tam paket) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "bayburt__is-hukuku-donem-1",
+      "title": "Bayburt İş Hukuku 1. Dönem (Güz) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "bayburt__is-hukuku-donem-2",
+      "title": "Bayburt İş Hukuku 2. Dönem (Bahar) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "bayburt__is-hukuku-yillik",
+      "title": "Bayburt İş Hukuku Yıllık (Tam paket) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "gumushane__is-hukuku-donem-1",
+      "title": "Gümüşhane İş Hukuku 1. Dönem (Güz) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "gumushane__is-hukuku-donem-2",
+      "title": "Gümüşhane İş Hukuku 2. Dönem (Bahar) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "gumushane__is-hukuku-yillik",
+      "title": "Gümüşhane İş Hukuku Yıllık (Tam paket) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "bingol__is-hukuku-donem-1",
+      "title": "Bingöl İş Hukuku 1. Dönem (Güz) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "bingol__is-hukuku-donem-2",
+      "title": "Bingöl İş Hukuku 2. Dönem (Bahar) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "bingol__is-hukuku-yillik",
+      "title": "Bingöl İş Hukuku Yıllık (Tam paket) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "mus__is-hukuku-donem-1",
+      "title": "Muş İş Hukuku 1. Dönem (Güz) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "mus__is-hukuku-donem-2",
+      "title": "Muş İş Hukuku 2. Dönem (Bahar) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "mus__is-hukuku-yillik",
+      "title": "Muş İş Hukuku Yıllık (Tam paket) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "hakkari__is-hukuku-donem-1",
+      "title": "Hakkâri İş Hukuku 1. Dönem (Güz) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "hakkari__is-hukuku-donem-2",
+      "title": "Hakkâri İş Hukuku 2. Dönem (Bahar) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "hakkari__is-hukuku-yillik",
+      "title": "Hakkâri İş Hukuku Yıllık (Tam paket) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "sirnak__is-hukuku-donem-1",
+      "title": "Şırnak İş Hukuku 1. Dönem (Güz) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "sirnak__is-hukuku-donem-2",
+      "title": "Şırnak İş Hukuku 2. Dönem (Bahar) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "sirnak__is-hukuku-yillik",
+      "title": "Şırnak İş Hukuku Yıllık (Tam paket) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "mardin__is-hukuku-donem-1",
+      "title": "Artuklu İş Hukuku 1. Dönem (Güz) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "mardin__is-hukuku-donem-2",
+      "title": "Artuklu İş Hukuku 2. Dönem (Bahar) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "mardin__is-hukuku-yillik",
+      "title": "Artuklu İş Hukuku Yıllık (Tam paket) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "batman__is-hukuku-donem-1",
+      "title": "Batman İş Hukuku 1. Dönem (Güz) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "batman__is-hukuku-donem-2",
+      "title": "Batman İş Hukuku 2. Dönem (Bahar) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "batman__is-hukuku-yillik",
+      "title": "Batman İş Hukuku Yıllık (Tam paket) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "siirt__is-hukuku-donem-1",
+      "title": "Siirt İş Hukuku 1. Dönem (Güz) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "siirt__is-hukuku-donem-2",
+      "title": "Siirt İş Hukuku 2. Dönem (Bahar) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "siirt__is-hukuku-yillik",
+      "title": "Siirt İş Hukuku Yıllık (Tam paket) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "adiyaman__is-hukuku-donem-1",
+      "title": "Adıyaman İş Hukuku 1. Dönem (Güz) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "adiyaman__is-hukuku-donem-2",
+      "title": "Adıyaman İş Hukuku 2. Dönem (Bahar) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "adiyaman__is-hukuku-yillik",
+      "title": "Adıyaman İş Hukuku Yıllık (Tam paket) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "kilis__is-hukuku-donem-1",
+      "title": "Kilis İş Hukuku 1. Dönem (Güz) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "kilis__is-hukuku-donem-2",
+      "title": "Kilis İş Hukuku 2. Dönem (Bahar) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "kilis__is-hukuku-yillik",
+      "title": "Kilis İş Hukuku Yıllık (Tam paket) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "igdir__is-hukuku-donem-1",
+      "title": "Iğdır İş Hukuku 1. Dönem (Güz) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "igdir__is-hukuku-donem-2",
+      "title": "Iğdır İş Hukuku 2. Dönem (Bahar) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "igdir__is-hukuku-yillik",
+      "title": "Iğdır İş Hukuku Yıllık (Tam paket) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "ardahan__is-hukuku-donem-1",
+      "title": "Ardahan İş Hukuku 1. Dönem (Güz) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "ardahan__is-hukuku-donem-2",
+      "title": "Ardahan İş Hukuku 2. Dönem (Bahar) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "ardahan__is-hukuku-yillik",
+      "title": "Ardahan İş Hukuku Yıllık (Tam paket) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "bilecik__is-hukuku-donem-1",
+      "title": "BŞEÜ İş Hukuku 1. Dönem (Güz) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "bilecik__is-hukuku-donem-2",
+      "title": "BŞEÜ İş Hukuku 2. Dönem (Bahar) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "bilecik__is-hukuku-yillik",
+      "title": "BŞEÜ İş Hukuku Yıllık (Tam paket) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "bolu__is-hukuku-donem-1",
+      "title": "BAİBÜ İş Hukuku 1. Dönem (Güz) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "bolu__is-hukuku-donem-2",
+      "title": "BAİBÜ İş Hukuku 2. Dönem (Bahar) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "bolu__is-hukuku-yillik",
+      "title": "BAİBÜ İş Hukuku Yıllık (Tam paket) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "duzce__is-hukuku-donem-1",
+      "title": "Düzce İş Hukuku 1. Dönem (Güz) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "duzce__is-hukuku-donem-2",
+      "title": "Düzce İş Hukuku 2. Dönem (Bahar) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "duzce__is-hukuku-yillik",
+      "title": "Düzce İş Hukuku Yıllık (Tam paket) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "zonguldak__is-hukuku-donem-1",
+      "title": "BEÜN İş Hukuku 1. Dönem (Güz) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "zonguldak__is-hukuku-donem-2",
+      "title": "BEÜN İş Hukuku 2. Dönem (Bahar) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "zonguldak__is-hukuku-yillik",
+      "title": "BEÜN İş Hukuku Yıllık (Tam paket) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "karabuk__is-hukuku-donem-1",
+      "title": "KBÜ İş Hukuku 1. Dönem (Güz) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "karabuk__is-hukuku-donem-2",
+      "title": "KBÜ İş Hukuku 2. Dönem (Bahar) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "karabuk__is-hukuku-yillik",
+      "title": "KBÜ İş Hukuku Yıllık (Tam paket) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "kastamonu__is-hukuku-donem-1",
+      "title": "KÜ İş Hukuku 1. Dönem (Güz) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "kastamonu__is-hukuku-donem-2",
+      "title": "KÜ İş Hukuku 2. Dönem (Bahar) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "kastamonu__is-hukuku-yillik",
+      "title": "KÜ İş Hukuku Yıllık (Tam paket) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "sinop__is-hukuku-donem-1",
+      "title": "Sinop İş Hukuku 1. Dönem (Güz) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "sinop__is-hukuku-donem-2",
+      "title": "Sinop İş Hukuku 2. Dönem (Bahar) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "sinop__is-hukuku-yillik",
+      "title": "Sinop İş Hukuku Yıllık (Tam paket) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "corum__is-hukuku-donem-1",
+      "title": "Hitit İş Hukuku 1. Dönem (Güz) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "corum__is-hukuku-donem-2",
+      "title": "Hitit İş Hukuku 2. Dönem (Bahar) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "corum__is-hukuku-yillik",
+      "title": "Hitit İş Hukuku Yıllık (Tam paket) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "amasya__is-hukuku-donem-1",
+      "title": "Amasya İş Hukuku 1. Dönem (Güz) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "amasya__is-hukuku-donem-2",
+      "title": "Amasya İş Hukuku 2. Dönem (Bahar) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "amasya__is-hukuku-yillik",
+      "title": "Amasya İş Hukuku Yıllık (Tam paket) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "cankiri__is-hukuku-donem-1",
+      "title": "Karatekin İş Hukuku 1. Dönem (Güz) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "cankiri__is-hukuku-donem-2",
+      "title": "Karatekin İş Hukuku 2. Dönem (Bahar) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "cankiri__is-hukuku-yillik",
+      "title": "Karatekin İş Hukuku Yıllık (Tam paket) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "kirikkale__is-hukuku-donem-1",
+      "title": "Kırıkkale İş Hukuku 1. Dönem (Güz) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "kirikkale__is-hukuku-donem-2",
+      "title": "Kırıkkale İş Hukuku 2. Dönem (Bahar) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "kirikkale__is-hukuku-yillik",
+      "title": "Kırıkkale İş Hukuku Yıllık (Tam paket) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "aksaray__is-hukuku-donem-1",
+      "title": "Aksaray İş Hukuku 1. Dönem (Güz) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "aksaray__is-hukuku-donem-2",
+      "title": "Aksaray İş Hukuku 2. Dönem (Bahar) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "aksaray__is-hukuku-yillik",
+      "title": "Aksaray İş Hukuku Yıllık (Tam paket) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "nigde__is-hukuku-donem-1",
+      "title": "ÖHÜ İş Hukuku 1. Dönem (Güz) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "nigde__is-hukuku-donem-2",
+      "title": "ÖHÜ İş Hukuku 2. Dönem (Bahar) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "nigde__is-hukuku-yillik",
+      "title": "ÖHÜ İş Hukuku Yıllık (Tam paket) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "konya-teknik__is-hukuku-donem-1",
+      "title": "NEÜ İş Hukuku 1. Dönem (Güz) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "konya-teknik__is-hukuku-donem-2",
+      "title": "NEÜ İş Hukuku 2. Dönem (Bahar) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "konya-teknik__is-hukuku-yillik",
+      "title": "NEÜ İş Hukuku Yıllık (Tam paket) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "karaman__is-hukuku-donem-1",
+      "title": "KMÜ İş Hukuku 1. Dönem (Güz) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "karaman__is-hukuku-donem-2",
+      "title": "KMÜ İş Hukuku 2. Dönem (Bahar) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "karaman__is-hukuku-yillik",
+      "title": "KMÜ İş Hukuku Yıllık (Tam paket) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "usak__is-hukuku-donem-1",
+      "title": "Uşak İş Hukuku 1. Dönem (Güz) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "usak__is-hukuku-donem-2",
+      "title": "Uşak İş Hukuku 2. Dönem (Bahar) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "usak__is-hukuku-yillik",
+      "title": "Uşak İş Hukuku Yıllık (Tam paket) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "manisa__is-hukuku-donem-1",
+      "title": "MCBÜ İş Hukuku 1. Dönem (Güz) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "manisa__is-hukuku-donem-2",
+      "title": "MCBÜ İş Hukuku 2. Dönem (Bahar) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "manisa__is-hukuku-yillik",
+      "title": "MCBÜ İş Hukuku Yıllık (Tam paket) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "aydin-adu__is-hukuku-donem-1",
+      "title": "ADÜ İş Hukuku 1. Dönem (Güz) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "aydin-adu__is-hukuku-donem-2",
+      "title": "ADÜ İş Hukuku 2. Dönem (Bahar) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "aydin-adu__is-hukuku-yillik",
+      "title": "ADÜ İş Hukuku Yıllık (Tam paket) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "tekirdag__is-hukuku-donem-1",
+      "title": "NKÜ İş Hukuku 1. Dönem (Güz) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "tekirdag__is-hukuku-donem-2",
+      "title": "NKÜ İş Hukuku 2. Dönem (Bahar) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "tekirdag__is-hukuku-yillik",
+      "title": "NKÜ İş Hukuku Yıllık (Tam paket) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "kirklareli__is-hukuku-donem-1",
+      "title": "Kırklareli İş Hukuku 1. Dönem (Güz) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "kirklareli__is-hukuku-donem-2",
+      "title": "Kırklareli İş Hukuku 2. Dönem (Bahar) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "kirklareli__is-hukuku-yillik",
+      "title": "Kırklareli İş Hukuku Yıllık (Tam paket) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "atilim__is-hukuku-donem-1",
+      "title": "Atılım İş Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "atilim__is-hukuku-donem-2",
+      "title": "Atılım İş Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "atilim__is-hukuku-yillik",
+      "title": "Atılım İş Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "cankaya__is-hukuku-donem-1",
+      "title": "Çankaya İş Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "cankaya__is-hukuku-donem-2",
+      "title": "Çankaya İş Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "cankaya__is-hukuku-yillik",
+      "title": "Çankaya İş Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "ufuk__is-hukuku-donem-1",
+      "title": "Ufuk İş Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "ufuk__is-hukuku-donem-2",
+      "title": "Ufuk İş Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "ufuk__is-hukuku-yillik",
+      "title": "Ufuk İş Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "yasar__is-hukuku-donem-1",
+      "title": "Yaşar İş Hukuku 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "yasar__is-hukuku-donem-2",
+      "title": "Yaşar İş Hukuku 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "yasar__is-hukuku-yillik",
+      "title": "Yaşar İş Hukuku Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "izmir-ekonomi__is-hukuku-donem-1",
+      "title": "İEÜ İş Hukuku 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "izmir-ekonomi__is-hukuku-donem-2",
+      "title": "İEÜ İş Hukuku 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "izmir-ekonomi__is-hukuku-yillik",
+      "title": "İEÜ İş Hukuku Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "tinaztepe__is-hukuku-donem-1",
+      "title": "Tınaztepe İş Hukuku 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "tinaztepe__is-hukuku-donem-2",
+      "title": "Tınaztepe İş Hukuku 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "tinaztepe__is-hukuku-yillik",
+      "title": "Tınaztepe İş Hukuku Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "asbu-vakif__is-hukuku-donem-1",
+      "title": "ABÜ İş Hukuku 1. Dönem (Güz) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "asbu-vakif__is-hukuku-donem-2",
+      "title": "ABÜ İş Hukuku 2. Dönem (Bahar) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "asbu-vakif__is-hukuku-yillik",
+      "title": "ABÜ İş Hukuku Yıllık (Tam paket) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "hasan-kalyoncu__is-hukuku-donem-1",
+      "title": "HKÜ İş Hukuku 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "hasan-kalyoncu__is-hukuku-donem-2",
+      "title": "HKÜ İş Hukuku 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "hasan-kalyoncu__is-hukuku-yillik",
+      "title": "HKÜ İş Hukuku Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "sanko__is-hukuku-donem-1",
+      "title": "Sanko İş Hukuku 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "sanko__is-hukuku-donem-2",
+      "title": "Sanko İş Hukuku 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "sanko__is-hukuku-yillik",
+      "title": "Sanko İş Hukuku Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "toros__is-hukuku-donem-1",
+      "title": "Toros İş Hukuku 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "toros__is-hukuku-donem-2",
+      "title": "Toros İş Hukuku 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "toros__is-hukuku-yillik",
+      "title": "Toros İş Hukuku Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "is-hukuku-donem-1",
+      "slug": "cag__is-hukuku-donem-1",
+      "title": "Çağ İş Hukuku 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/is-hukuku-donem-1",
+      "variantOf": "is-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "is-hukuku-donem-2",
+      "slug": "cag__is-hukuku-donem-2",
+      "title": "Çağ İş Hukuku 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/is-hukuku-donem-2",
+      "variantOf": "is-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "is-hukuku-yillik",
+      "slug": "cag__is-hukuku-yillik",
+      "title": "Çağ İş Hukuku Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/is-hukuku-yillik",
+      "variantOf": "is-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
     }
   ],
   "borclarGenelTripleAt": "2026-07-29T20:05:58.703Z",
@@ -121597,5 +124837,6 @@
   "anayasaTripleAt": "2026-07-29T21:32:17.211Z",
   "romaHukukuTripleAt": "2026-07-29T21:35:13.772Z",
   "milletlerarasiHukukTripleAt": "2026-07-29T21:38:10.199Z",
-  "hukukSosyolojisiTripleAt": "2026-07-29T21:41:19.291Z"
+  "hukukSosyolojisiTripleAt": "2026-07-29T21:41:19.291Z",
+  "isHukukuTripleAt": "2026-07-29T21:44:20.241Z"
 }

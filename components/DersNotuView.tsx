@@ -831,6 +831,29 @@ export function DersNotuView({
               </p>
             ),
           },
+          {
+            match:
+              note.variantOf === 'is-hukuku' ||
+              note.courseCode === 'is-hukuku' ||
+              note.courseCode.startsWith('is-hukuku-'),
+            title: 'İş Hukuku · üç paket',
+            items: [
+              { code: 'is-hukuku-donem-1', label: '1. Dönem (Güz)', desc: 'Sözleşme · ücret · süre' },
+              { code: 'is-hukuku-donem-2', label: '2. Dönem (Bahar)', desc: 'Fesih · kıdem · işe iade' },
+              { code: 'is-hukuku-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
+            ],
+            footer: (
+              <p className="text-[11px] text-charcoal/45 mt-3 m-0">
+                Dava şartı arabuluculuk için:{' '}
+                <Link
+                  href={`/ders-notlari/${note.uniSlug}/arabuluculuk-yillik`}
+                  className="text-accent font-semibold hover:underline"
+                >
+                  Arabuluculuk yıllık
+                </Link>
+              </p>
+            ),
+          },
         ];
         const activePacks = packs.filter((p) => p.match);
         if (!activePacks.length) return null;
@@ -1675,6 +1698,23 @@ export function UniHubView({ hub }: { hub: UniHubContent }) {
               { code: 'hukuk-sosyolojisi-donem-1', title: '1. Dönem (Güz)' },
               { code: 'hukuk-sosyolojisi-donem-2', title: '2. Dönem (Bahar)' },
               { code: 'hukuk-sosyolojisi-yillik', title: 'Yıllık tam not' },
+            ],
+          },
+          {
+            show: hub.courses.some(
+              (c) =>
+                String(c.code).startsWith('is-hukuku') ||
+                c.code === 'is-hukuku'
+            ),
+            title: 'İş Hukuku — 1. dönem · 2. dönem · yıllık',
+            desc: 'Sözleşme–ücret–fesih–kıdem–işe iade… üç premium not + PDF.',
+            border: 'border-accent/20 bg-accent/[0.04]',
+            itemBorder: 'border-accent/25',
+            accent: 'text-accent',
+            items: [
+              { code: 'is-hukuku-donem-1', title: '1. Dönem (Güz)' },
+              { code: 'is-hukuku-donem-2', title: '2. Dönem (Bahar)' },
+              { code: 'is-hukuku-yillik', title: 'Yıllık tam not' },
             ],
           },
         ]

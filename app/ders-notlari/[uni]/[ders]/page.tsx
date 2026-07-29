@@ -124,7 +124,10 @@ export function generateStaticParams() {
         p.ders === 'milletlerarasi-hukuk-yillik' ||
         p.ders === 'hukuk-sosyolojisi-donem-1' ||
         p.ders === 'hukuk-sosyolojisi-donem-2' ||
-        p.ders === 'hukuk-sosyolojisi-yillik')
+        p.ders === 'hukuk-sosyolojisi-yillik' ||
+        p.ders === 'is-hukuku-donem-1' ||
+        p.ders === 'is-hukuku-donem-2' ||
+        p.ders === 'is-hukuku-yillik')
   );
   const rest = all.filter((p) => !priority.has(p.uni)).slice(0, 200);
   const seen = new Set<string>();

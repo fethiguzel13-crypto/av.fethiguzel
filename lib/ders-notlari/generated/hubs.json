@@ -936,6 +936,30 @@
         "href": "/ders-notlari/ankara-yildirim-beyazit/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -1895,6 +1919,30 @@
         "href": "/ders-notlari/ankara/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/ankara/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/ankara/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/ankara/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -2855,6 +2903,30 @@
         "href": "/ders-notlari/istanbul/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/istanbul/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/istanbul/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/istanbul/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -3813,6 +3885,30 @@
         "href": "/ders-notlari/marmara/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/marmara/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/marmara/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/marmara/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -4773,6 +4869,30 @@
         "href": "/ders-notlari/galatasaray/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/galatasaray/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/galatasaray/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/galatasaray/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -5732,6 +5852,30 @@
         "href": "/ders-notlari/dokuz-eylul/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/dokuz-eylul/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/dokuz-eylul/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/dokuz-eylul/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -6690,6 +6834,30 @@
         "href": "/ders-notlari/hacettepe/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/hacettepe/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/hacettepe/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/hacettepe/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -7649,6 +7817,30 @@
         "href": "/ders-notlari/ankara-hacibayram/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/ankara-hacibayram/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/ankara-hacibayram/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/ankara-hacibayram/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -8607,6 +8799,30 @@
         "href": "/ders-notlari/bilkent/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/bilkent/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/bilkent/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/bilkent/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -9566,6 +9782,30 @@
         "href": "/ders-notlari/koc/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/koc/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/koc/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/koc/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -10525,6 +10765,30 @@
         "href": "/ders-notlari/tobb-etu/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/tobb-etu/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/tobb-etu/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/tobb-etu/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -11483,6 +11747,30 @@
         "href": "/ders-notlari/bogazici/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/bogazici/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/bogazici/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/bogazici/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -12441,6 +12729,30 @@
         "href": "/ders-notlari/ege/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/ege/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/ege/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/ege/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -13399,6 +13711,30 @@
         "href": "/ders-notlari/akdeniz/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/akdeniz/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/akdeniz/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/akdeniz/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -14357,6 +14693,30 @@
         "href": "/ders-notlari/selcuk/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/selcuk/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/selcuk/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/selcuk/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -15315,6 +15675,30 @@
         "href": "/ders-notlari/erciyes/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/erciyes/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/erciyes/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/erciyes/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -16274,6 +16658,30 @@
         "href": "/ders-notlari/uludag/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/uludag/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/uludag/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/uludag/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -17232,6 +17640,30 @@
         "href": "/ders-notlari/cukurova/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/cukurova/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/cukurova/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/cukurova/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -18190,6 +18622,30 @@
         "href": "/ders-notlari/anadolu/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/anadolu/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/anadolu/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/anadolu/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -19149,6 +19605,30 @@
         "href": "/ders-notlari/gazi-ankara/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/gazi-ankara/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/gazi-ankara/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/gazi-ankara/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -20108,6 +20588,30 @@
         "href": "/ders-notlari/yildiz-teknik/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/yildiz-teknik/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/yildiz-teknik/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/yildiz-teknik/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -21066,6 +21570,30 @@
         "href": "/ders-notlari/istanbul-medeniyet/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/istanbul-medeniyet/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/istanbul-medeniyet/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/istanbul-medeniyet/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -22025,6 +22553,30 @@
         "href": "/ders-notlari/bahcesehir/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/bahcesehir/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/bahcesehir/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/bahcesehir/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -22983,6 +23535,30 @@
         "href": "/ders-notlari/yeditepe/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/yeditepe/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/yeditepe/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/yeditepe/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -23941,6 +24517,30 @@
         "href": "/ders-notlari/ozyegin/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/ozyegin/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/ozyegin/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/ozyegin/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -24899,6 +25499,30 @@
         "href": "/ders-notlari/kadir-has/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kadir-has/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kadir-has/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kadir-has/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -25857,6 +26481,30 @@
         "href": "/ders-notlari/istanbul-bilgi/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/istanbul-bilgi/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/istanbul-bilgi/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/istanbul-bilgi/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -26815,6 +27463,30 @@
         "href": "/ders-notlari/mehmet-akif/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/mehmet-akif/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/mehmet-akif/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/mehmet-akif/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -27773,6 +28445,30 @@
         "href": "/ders-notlari/altinbas/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/altinbas/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/altinbas/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/altinbas/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -28731,6 +29427,30 @@
         "href": "/ders-notlari/maltepe/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/maltepe/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/maltepe/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/maltepe/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -29689,6 +30409,30 @@
         "href": "/ders-notlari/dogus/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/dogus/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/dogus/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/dogus/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -30647,6 +31391,30 @@
         "href": "/ders-notlari/isik/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/isik/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/isik/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/isik/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -31605,6 +32373,30 @@
         "href": "/ders-notlari/okan/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/okan/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/okan/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/okan/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -32563,6 +33355,30 @@
         "href": "/ders-notlari/kultur/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kultur/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kultur/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kultur/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -33521,6 +34337,30 @@
         "href": "/ders-notlari/aydin/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/aydin/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/aydin/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/aydin/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -34479,6 +35319,30 @@
         "href": "/ders-notlari/gelisim/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/gelisim/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/gelisim/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/gelisim/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -35437,6 +36301,30 @@
         "href": "/ders-notlari/topkapi/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/topkapi/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/topkapi/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/topkapi/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -36395,6 +37283,30 @@
         "href": "/ders-notlari/nisantasi/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/nisantasi/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/nisantasi/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/nisantasi/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -37353,6 +38265,30 @@
         "href": "/ders-notlari/beykent/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/beykent/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/beykent/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/beykent/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -38311,6 +39247,30 @@
         "href": "/ders-notlari/halic/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/halic/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/halic/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/halic/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -39269,6 +40229,30 @@
         "href": "/ders-notlari/fatih-sultan/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/fatih-sultan/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/fatih-sultan/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/fatih-sultan/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -40228,6 +41212,30 @@
         "href": "/ders-notlari/karadeniz-teknik/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/karadeniz-teknik/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/karadeniz-teknik/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/karadeniz-teknik/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -41187,6 +42195,30 @@
         "href": "/ders-notlari/ataturk/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/ataturk/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/ataturk/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/ataturk/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -42145,6 +43177,30 @@
         "href": "/ders-notlari/inonu/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/inonu/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/inonu/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/inonu/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -43103,6 +44159,30 @@
         "href": "/ders-notlari/dicle/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/dicle/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/dicle/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/dicle/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -44061,6 +45141,30 @@
         "href": "/ders-notlari/firat/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/firat/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/firat/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/firat/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -45019,6 +46123,30 @@
         "href": "/ders-notlari/gaziantep/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/gaziantep/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/gaziantep/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/gaziantep/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -45978,6 +47106,30 @@
         "href": "/ders-notlari/suleyman-demirel/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/suleyman-demirel/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/suleyman-demirel/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/suleyman-demirel/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -46936,6 +48088,30 @@
         "href": "/ders-notlari/pamukkale/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/pamukkale/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/pamukkale/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/pamukkale/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -47894,6 +49070,30 @@
         "href": "/ders-notlari/mugla/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/mugla/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/mugla/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/mugla/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -48852,6 +50052,30 @@
         "href": "/ders-notlari/sakarya/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/sakarya/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/sakarya/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/sakarya/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -49810,6 +51034,30 @@
         "href": "/ders-notlari/kocaeli/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kocaeli/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kocaeli/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kocaeli/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -50768,6 +52016,30 @@
         "href": "/ders-notlari/trakya/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/trakya/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/trakya/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/trakya/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -51726,6 +52998,30 @@
         "href": "/ders-notlari/canakkale/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/canakkale/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/canakkale/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/canakkale/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -52684,6 +53980,30 @@
         "href": "/ders-notlari/balikesir/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/balikesir/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/balikesir/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/balikesir/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -53643,6 +54963,30 @@
         "href": "/ders-notlari/afyon/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/afyon/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/afyon/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/afyon/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -54601,6 +55945,30 @@
         "href": "/ders-notlari/dumlupinar/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/dumlupinar/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/dumlupinar/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/dumlupinar/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -55559,6 +56927,30 @@
         "href": "/ders-notlari/eskisehir-osmangazi/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/eskisehir-osmangazi/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/eskisehir-osmangazi/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/eskisehir-osmangazi/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -56518,6 +57910,30 @@
         "href": "/ders-notlari/sivas-cumhuriyet/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/sivas-cumhuriyet/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/sivas-cumhuriyet/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/sivas-cumhuriyet/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -57476,6 +58892,30 @@
         "href": "/ders-notlari/tokat/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/tokat/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/tokat/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/tokat/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -58434,6 +59874,30 @@
         "href": "/ders-notlari/yozgat/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/yozgat/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/yozgat/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/yozgat/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -59392,6 +60856,30 @@
         "href": "/ders-notlari/kirsehir/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kirsehir/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kirsehir/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kirsehir/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -60350,6 +61838,30 @@
         "href": "/ders-notlari/nevsehir/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/nevsehir/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/nevsehir/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/nevsehir/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -61308,6 +62820,30 @@
         "href": "/ders-notlari/mersin/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/mersin/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/mersin/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/mersin/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -62267,6 +63803,30 @@
         "href": "/ders-notlari/hatay/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/hatay/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/hatay/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/hatay/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -63225,6 +64785,30 @@
         "href": "/ders-notlari/kahramanmaras/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kahramanmaras/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kahramanmaras/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kahramanmaras/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -64183,6 +65767,30 @@
         "href": "/ders-notlari/osmaniye/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/osmaniye/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/osmaniye/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/osmaniye/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -65142,6 +66750,30 @@
         "href": "/ders-notlari/samsun/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/samsun/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/samsun/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/samsun/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -66100,6 +67732,30 @@
         "href": "/ders-notlari/ordu/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/ordu/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/ordu/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/ordu/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -67058,6 +68714,30 @@
         "href": "/ders-notlari/giresun/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/giresun/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/giresun/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/giresun/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -68017,6 +69697,30 @@
         "href": "/ders-notlari/rize/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/rize/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/rize/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/rize/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -68975,6 +70679,30 @@
         "href": "/ders-notlari/artvin/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/artvin/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/artvin/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/artvin/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -69935,6 +71663,30 @@
         "href": "/ders-notlari/van-yyu/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/van-yyu/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/van-yyu/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/van-yyu/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -70893,6 +72645,30 @@
         "href": "/ders-notlari/agri/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/agri/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/agri/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/agri/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -71851,6 +73627,30 @@
         "href": "/ders-notlari/kars/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kars/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kars/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kars/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -72809,6 +74609,30 @@
         "href": "/ders-notlari/erzincan/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/erzincan/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/erzincan/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/erzincan/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -73767,6 +75591,30 @@
         "href": "/ders-notlari/bayburt/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/bayburt/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/bayburt/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/bayburt/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -74725,6 +76573,30 @@
         "href": "/ders-notlari/gumushane/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/gumushane/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/gumushane/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/gumushane/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -75683,6 +77555,30 @@
         "href": "/ders-notlari/bingol/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/bingol/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/bingol/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/bingol/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -76641,6 +78537,30 @@
         "href": "/ders-notlari/mus/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/mus/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/mus/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/mus/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -77599,6 +79519,30 @@
         "href": "/ders-notlari/hakkari/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/hakkari/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/hakkari/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/hakkari/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -78557,6 +80501,30 @@
         "href": "/ders-notlari/sirnak/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/sirnak/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/sirnak/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/sirnak/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -79516,6 +81484,30 @@
         "href": "/ders-notlari/mardin/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/mardin/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/mardin/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/mardin/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -80474,6 +82466,30 @@
         "href": "/ders-notlari/batman/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/batman/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/batman/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/batman/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -81432,6 +83448,30 @@
         "href": "/ders-notlari/siirt/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/siirt/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/siirt/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/siirt/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -82390,6 +84430,30 @@
         "href": "/ders-notlari/adiyaman/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/adiyaman/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/adiyaman/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/adiyaman/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -83348,6 +85412,30 @@
         "href": "/ders-notlari/kilis/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kilis/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kilis/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kilis/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -84306,6 +86394,30 @@
         "href": "/ders-notlari/igdir/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/igdir/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/igdir/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/igdir/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -85264,6 +87376,30 @@
         "href": "/ders-notlari/ardahan/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/ardahan/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/ardahan/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/ardahan/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -86222,6 +88358,30 @@
         "href": "/ders-notlari/bilecik/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/bilecik/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/bilecik/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/bilecik/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -87181,6 +89341,30 @@
         "href": "/ders-notlari/bolu/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/bolu/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/bolu/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/bolu/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -88139,6 +90323,30 @@
         "href": "/ders-notlari/duzce/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/duzce/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/duzce/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/duzce/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -89097,6 +91305,30 @@
         "href": "/ders-notlari/zonguldak/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/zonguldak/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/zonguldak/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/zonguldak/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -90055,6 +92287,30 @@
         "href": "/ders-notlari/karabuk/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/karabuk/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/karabuk/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/karabuk/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -91013,6 +93269,30 @@
         "href": "/ders-notlari/kastamonu/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kastamonu/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kastamonu/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kastamonu/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -91971,6 +94251,30 @@
         "href": "/ders-notlari/sinop/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/sinop/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/sinop/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/sinop/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -92930,6 +95234,30 @@
         "href": "/ders-notlari/corum/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/corum/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/corum/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/corum/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -93888,6 +96216,30 @@
         "href": "/ders-notlari/amasya/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/amasya/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/amasya/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/amasya/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -94846,6 +97198,30 @@
         "href": "/ders-notlari/cankiri/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/cankiri/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/cankiri/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/cankiri/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -95804,6 +98180,30 @@
         "href": "/ders-notlari/kirikkale/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kirikkale/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kirikkale/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kirikkale/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -96762,6 +99162,30 @@
         "href": "/ders-notlari/aksaray/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/aksaray/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/aksaray/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/aksaray/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -97720,6 +100144,30 @@
         "href": "/ders-notlari/nigde/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/nigde/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/nigde/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/nigde/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -98678,6 +101126,30 @@
         "href": "/ders-notlari/konya-teknik/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/konya-teknik/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/konya-teknik/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/konya-teknik/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -99636,6 +102108,30 @@
         "href": "/ders-notlari/karaman/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/karaman/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/karaman/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/karaman/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -100594,6 +103090,30 @@
         "href": "/ders-notlari/usak/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/usak/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/usak/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/usak/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -101553,6 +104073,30 @@
         "href": "/ders-notlari/manisa/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/manisa/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/manisa/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/manisa/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -102511,6 +105055,30 @@
         "href": "/ders-notlari/aydin-adu/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/aydin-adu/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/aydin-adu/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/aydin-adu/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -103469,6 +106037,30 @@
         "href": "/ders-notlari/tekirdag/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/tekirdag/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/tekirdag/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/tekirdag/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -104427,6 +107019,30 @@
         "href": "/ders-notlari/kirklareli/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kirklareli/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kirklareli/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kirklareli/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -105385,6 +108001,30 @@
         "href": "/ders-notlari/atilim/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/atilim/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/atilim/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/atilim/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -106343,6 +108983,30 @@
         "href": "/ders-notlari/cankaya/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/cankaya/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/cankaya/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/cankaya/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -107301,6 +109965,30 @@
         "href": "/ders-notlari/ufuk/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/ufuk/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/ufuk/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/ufuk/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -108259,6 +110947,30 @@
         "href": "/ders-notlari/yasar/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/yasar/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/yasar/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/yasar/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -109217,6 +111929,30 @@
         "href": "/ders-notlari/izmir-ekonomi/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/izmir-ekonomi/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/izmir-ekonomi/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/izmir-ekonomi/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -110175,6 +112911,30 @@
         "href": "/ders-notlari/tinaztepe/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/tinaztepe/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/tinaztepe/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/tinaztepe/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -111133,6 +113893,30 @@
         "href": "/ders-notlari/asbu-vakif/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/asbu-vakif/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/asbu-vakif/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/asbu-vakif/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -112091,6 +114875,30 @@
         "href": "/ders-notlari/hasan-kalyoncu/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/hasan-kalyoncu/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/hasan-kalyoncu/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/hasan-kalyoncu/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -113049,6 +115857,30 @@
         "href": "/ders-notlari/sanko/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/sanko/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/sanko/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/sanko/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -114007,6 +116839,30 @@
         "href": "/ders-notlari/toros/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/toros/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/toros/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/toros/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -114965,6 +117821,30 @@
         "href": "/ders-notlari/cag/hukuk-sosyolojisi-yillik",
         "ready": true,
         "variantOf": "hukuk-sosyolojisi"
+      },
+      {
+        "code": "is-hukuku-donem-1",
+        "title": "İş Hukuku — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/cag/is-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-donem-2",
+        "title": "İş Hukuku — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/cag/is-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "is-hukuku"
+      },
+      {
+        "code": "is-hukuku-yillik",
+        "title": "İş Hukuku — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/cag/is-hukuku-yillik",
+        "ready": true,
+        "variantOf": "is-hukuku"
       }
     ],
     "seoParagraphs": [

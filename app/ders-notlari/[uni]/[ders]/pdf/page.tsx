@@ -156,6 +156,9 @@ export default async function DersNotuPdfPage({ params }: Props) {
               'hukuk-sosyolojisi-donem-1',
               'hukuk-sosyolojisi-donem-2',
               'hukuk-sosyolojisi-yillik',
+              'is-hukuku-donem-1',
+              'is-hukuku-donem-2',
+              'is-hukuku-yillik',
             ].map((code) => (
               <a
                 key={code}
