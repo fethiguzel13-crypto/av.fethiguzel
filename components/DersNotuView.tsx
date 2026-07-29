@@ -762,6 +762,18 @@ export function DersNotuView({
               { code: 'anayasa-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
             ],
           },
+          {
+            match:
+              note.variantOf === 'roma-hukuku' ||
+              note.courseCode === 'roma-hukuku' ||
+              note.courseCode.startsWith('roma-hukuku-'),
+            title: 'Roma Hukuku · üç paket',
+            items: [
+              { code: 'roma-hukuku-donem-1', label: '1. Dönem (Güz)', desc: 'Kaynak · kişi · aile' },
+              { code: 'roma-hukuku-donem-2', label: '2. Dönem (Bahar)', desc: 'Res · borç · actio' },
+              { code: 'roma-hukuku-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
+            ],
+          },
         ];
         const activePacks = packs.filter((p) => p.match);
         if (!activePacks.length) return null;
@@ -1555,6 +1567,23 @@ export function UniHubView({ hub }: { hub: UniHubContent }) {
               { code: 'anayasa-donem-1', title: '1. Dönem (Genel Esaslar)' },
               { code: 'anayasa-donem-2', title: '2. Dönem (Türk Düzeni)' },
               { code: 'anayasa-yillik', title: 'Yıllık tam not' },
+            ],
+          },
+          {
+            show: hub.courses.some(
+              (c) =>
+                String(c.code).startsWith('roma-hukuku') ||
+                c.code === 'roma-hukuku'
+            ),
+            title: 'Roma Hukuku — 1. dönem · 2. dönem · yıllık',
+            desc: 'Kaynak–kişi–res–borç–actio… üç premium not + PDF.',
+            border: 'border-primary/20 bg-primary/[0.04]',
+            itemBorder: 'border-primary/25',
+            accent: 'text-primary',
+            items: [
+              { code: 'roma-hukuku-donem-1', title: '1. Dönem (Güz)' },
+              { code: 'roma-hukuku-donem-2', title: '2. Dönem (Bahar)' },
+              { code: 'roma-hukuku-yillik', title: 'Yıllık tam not' },
             ],
           },
         ]

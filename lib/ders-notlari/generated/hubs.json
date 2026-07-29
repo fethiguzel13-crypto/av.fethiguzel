@@ -864,6 +864,30 @@
         "href": "/ders-notlari/ankara-yildirim-beyazit/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -1751,6 +1775,30 @@
         "href": "/ders-notlari/ankara/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/ankara/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/ankara/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/ankara/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -2639,6 +2687,30 @@
         "href": "/ders-notlari/istanbul/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/istanbul/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/istanbul/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/istanbul/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -3525,6 +3597,30 @@
         "href": "/ders-notlari/marmara/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/marmara/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/marmara/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/marmara/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -4413,6 +4509,30 @@
         "href": "/ders-notlari/galatasaray/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/galatasaray/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/galatasaray/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/galatasaray/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -5300,6 +5420,30 @@
         "href": "/ders-notlari/dokuz-eylul/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/dokuz-eylul/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/dokuz-eylul/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/dokuz-eylul/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -6186,6 +6330,30 @@
         "href": "/ders-notlari/hacettepe/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/hacettepe/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/hacettepe/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/hacettepe/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -7073,6 +7241,30 @@
         "href": "/ders-notlari/ankara-hacibayram/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/ankara-hacibayram/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/ankara-hacibayram/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/ankara-hacibayram/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -7959,6 +8151,30 @@
         "href": "/ders-notlari/bilkent/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/bilkent/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/bilkent/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/bilkent/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -8846,6 +9062,30 @@
         "href": "/ders-notlari/koc/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/koc/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/koc/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/koc/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -9733,6 +9973,30 @@
         "href": "/ders-notlari/tobb-etu/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/tobb-etu/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/tobb-etu/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/tobb-etu/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -10619,6 +10883,30 @@
         "href": "/ders-notlari/bogazici/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/bogazici/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/bogazici/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/bogazici/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -11505,6 +11793,30 @@
         "href": "/ders-notlari/ege/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/ege/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/ege/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/ege/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -12391,6 +12703,30 @@
         "href": "/ders-notlari/akdeniz/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/akdeniz/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/akdeniz/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/akdeniz/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -13277,6 +13613,30 @@
         "href": "/ders-notlari/selcuk/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/selcuk/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/selcuk/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/selcuk/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -14163,6 +14523,30 @@
         "href": "/ders-notlari/erciyes/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/erciyes/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/erciyes/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/erciyes/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -15050,6 +15434,30 @@
         "href": "/ders-notlari/uludag/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/uludag/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/uludag/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/uludag/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -15936,6 +16344,30 @@
         "href": "/ders-notlari/cukurova/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/cukurova/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/cukurova/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/cukurova/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -16822,6 +17254,30 @@
         "href": "/ders-notlari/anadolu/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/anadolu/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/anadolu/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/anadolu/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -17709,6 +18165,30 @@
         "href": "/ders-notlari/gazi-ankara/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/gazi-ankara/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/gazi-ankara/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/gazi-ankara/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -18596,6 +19076,30 @@
         "href": "/ders-notlari/yildiz-teknik/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/yildiz-teknik/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/yildiz-teknik/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/yildiz-teknik/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -19482,6 +19986,30 @@
         "href": "/ders-notlari/istanbul-medeniyet/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/istanbul-medeniyet/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/istanbul-medeniyet/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/istanbul-medeniyet/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -20369,6 +20897,30 @@
         "href": "/ders-notlari/bahcesehir/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/bahcesehir/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/bahcesehir/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/bahcesehir/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -21255,6 +21807,30 @@
         "href": "/ders-notlari/yeditepe/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/yeditepe/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/yeditepe/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/yeditepe/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -22141,6 +22717,30 @@
         "href": "/ders-notlari/ozyegin/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/ozyegin/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/ozyegin/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/ozyegin/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -23027,6 +23627,30 @@
         "href": "/ders-notlari/kadir-has/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/kadir-has/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/kadir-has/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/kadir-has/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -23913,6 +24537,30 @@
         "href": "/ders-notlari/istanbul-bilgi/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/istanbul-bilgi/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/istanbul-bilgi/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/istanbul-bilgi/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -24799,6 +25447,30 @@
         "href": "/ders-notlari/mehmet-akif/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/mehmet-akif/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/mehmet-akif/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/mehmet-akif/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -25685,6 +26357,30 @@
         "href": "/ders-notlari/altinbas/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/altinbas/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/altinbas/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/altinbas/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -26571,6 +27267,30 @@
         "href": "/ders-notlari/maltepe/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/maltepe/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/maltepe/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/maltepe/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -27457,6 +28177,30 @@
         "href": "/ders-notlari/dogus/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/dogus/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/dogus/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/dogus/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -28343,6 +29087,30 @@
         "href": "/ders-notlari/isik/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/isik/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/isik/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/isik/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -29229,6 +29997,30 @@
         "href": "/ders-notlari/okan/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/okan/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/okan/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/okan/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -30115,6 +30907,30 @@
         "href": "/ders-notlari/kultur/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/kultur/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/kultur/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/kultur/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -31001,6 +31817,30 @@
         "href": "/ders-notlari/aydin/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/aydin/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/aydin/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/aydin/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -31887,6 +32727,30 @@
         "href": "/ders-notlari/gelisim/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/gelisim/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/gelisim/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/gelisim/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -32773,6 +33637,30 @@
         "href": "/ders-notlari/topkapi/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/topkapi/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/topkapi/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/topkapi/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -33659,6 +34547,30 @@
         "href": "/ders-notlari/nisantasi/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/nisantasi/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/nisantasi/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/nisantasi/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -34545,6 +35457,30 @@
         "href": "/ders-notlari/beykent/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/beykent/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/beykent/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/beykent/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -35431,6 +36367,30 @@
         "href": "/ders-notlari/halic/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/halic/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/halic/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/halic/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -36317,6 +37277,30 @@
         "href": "/ders-notlari/fatih-sultan/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/fatih-sultan/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/fatih-sultan/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/fatih-sultan/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -37204,6 +38188,30 @@
         "href": "/ders-notlari/karadeniz-teknik/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/karadeniz-teknik/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/karadeniz-teknik/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/karadeniz-teknik/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -38091,6 +39099,30 @@
         "href": "/ders-notlari/ataturk/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/ataturk/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/ataturk/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/ataturk/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -38977,6 +40009,30 @@
         "href": "/ders-notlari/inonu/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/inonu/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/inonu/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/inonu/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -39863,6 +40919,30 @@
         "href": "/ders-notlari/dicle/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/dicle/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/dicle/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/dicle/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -40749,6 +41829,30 @@
         "href": "/ders-notlari/firat/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/firat/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/firat/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/firat/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -41635,6 +42739,30 @@
         "href": "/ders-notlari/gaziantep/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/gaziantep/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/gaziantep/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/gaziantep/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -42522,6 +43650,30 @@
         "href": "/ders-notlari/suleyman-demirel/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/suleyman-demirel/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/suleyman-demirel/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/suleyman-demirel/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -43408,6 +44560,30 @@
         "href": "/ders-notlari/pamukkale/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/pamukkale/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/pamukkale/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/pamukkale/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -44294,6 +45470,30 @@
         "href": "/ders-notlari/mugla/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/mugla/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/mugla/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/mugla/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -45180,6 +46380,30 @@
         "href": "/ders-notlari/sakarya/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/sakarya/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/sakarya/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/sakarya/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -46066,6 +47290,30 @@
         "href": "/ders-notlari/kocaeli/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/kocaeli/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/kocaeli/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/kocaeli/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -46952,6 +48200,30 @@
         "href": "/ders-notlari/trakya/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/trakya/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/trakya/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/trakya/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -47838,6 +49110,30 @@
         "href": "/ders-notlari/canakkale/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/canakkale/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/canakkale/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/canakkale/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -48724,6 +50020,30 @@
         "href": "/ders-notlari/balikesir/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/balikesir/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/balikesir/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/balikesir/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -49611,6 +50931,30 @@
         "href": "/ders-notlari/afyon/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/afyon/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/afyon/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/afyon/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -50497,6 +51841,30 @@
         "href": "/ders-notlari/dumlupinar/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/dumlupinar/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/dumlupinar/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/dumlupinar/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -51383,6 +52751,30 @@
         "href": "/ders-notlari/eskisehir-osmangazi/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/eskisehir-osmangazi/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/eskisehir-osmangazi/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/eskisehir-osmangazi/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -52270,6 +53662,30 @@
         "href": "/ders-notlari/sivas-cumhuriyet/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/sivas-cumhuriyet/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/sivas-cumhuriyet/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/sivas-cumhuriyet/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -53156,6 +54572,30 @@
         "href": "/ders-notlari/tokat/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/tokat/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/tokat/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/tokat/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -54042,6 +55482,30 @@
         "href": "/ders-notlari/yozgat/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/yozgat/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/yozgat/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/yozgat/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -54928,6 +56392,30 @@
         "href": "/ders-notlari/kirsehir/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/kirsehir/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/kirsehir/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/kirsehir/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -55814,6 +57302,30 @@
         "href": "/ders-notlari/nevsehir/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/nevsehir/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/nevsehir/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/nevsehir/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -56700,6 +58212,30 @@
         "href": "/ders-notlari/mersin/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/mersin/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/mersin/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/mersin/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -57587,6 +59123,30 @@
         "href": "/ders-notlari/hatay/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/hatay/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/hatay/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/hatay/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -58473,6 +60033,30 @@
         "href": "/ders-notlari/kahramanmaras/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/kahramanmaras/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/kahramanmaras/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/kahramanmaras/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -59359,6 +60943,30 @@
         "href": "/ders-notlari/osmaniye/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/osmaniye/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/osmaniye/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/osmaniye/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -60246,6 +61854,30 @@
         "href": "/ders-notlari/samsun/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/samsun/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/samsun/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/samsun/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -61132,6 +62764,30 @@
         "href": "/ders-notlari/ordu/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/ordu/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/ordu/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/ordu/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -62018,6 +63674,30 @@
         "href": "/ders-notlari/giresun/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/giresun/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/giresun/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/giresun/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -62905,6 +64585,30 @@
         "href": "/ders-notlari/rize/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/rize/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/rize/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/rize/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -63791,6 +65495,30 @@
         "href": "/ders-notlari/artvin/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/artvin/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/artvin/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/artvin/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -64679,6 +66407,30 @@
         "href": "/ders-notlari/van-yyu/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/van-yyu/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/van-yyu/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/van-yyu/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -65565,6 +67317,30 @@
         "href": "/ders-notlari/agri/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/agri/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/agri/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/agri/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -66451,6 +68227,30 @@
         "href": "/ders-notlari/kars/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/kars/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/kars/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/kars/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -67337,6 +69137,30 @@
         "href": "/ders-notlari/erzincan/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/erzincan/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/erzincan/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/erzincan/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -68223,6 +70047,30 @@
         "href": "/ders-notlari/bayburt/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/bayburt/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/bayburt/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/bayburt/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -69109,6 +70957,30 @@
         "href": "/ders-notlari/gumushane/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/gumushane/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/gumushane/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/gumushane/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -69995,6 +71867,30 @@
         "href": "/ders-notlari/bingol/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/bingol/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/bingol/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/bingol/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -70881,6 +72777,30 @@
         "href": "/ders-notlari/mus/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/mus/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/mus/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/mus/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -71767,6 +73687,30 @@
         "href": "/ders-notlari/hakkari/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/hakkari/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/hakkari/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/hakkari/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -72653,6 +74597,30 @@
         "href": "/ders-notlari/sirnak/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/sirnak/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/sirnak/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/sirnak/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -73540,6 +75508,30 @@
         "href": "/ders-notlari/mardin/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/mardin/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/mardin/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/mardin/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -74426,6 +76418,30 @@
         "href": "/ders-notlari/batman/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/batman/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/batman/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/batman/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -75312,6 +77328,30 @@
         "href": "/ders-notlari/siirt/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/siirt/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/siirt/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/siirt/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -76198,6 +78238,30 @@
         "href": "/ders-notlari/adiyaman/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/adiyaman/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/adiyaman/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/adiyaman/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -77084,6 +79148,30 @@
         "href": "/ders-notlari/kilis/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/kilis/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/kilis/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/kilis/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -77970,6 +80058,30 @@
         "href": "/ders-notlari/igdir/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/igdir/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/igdir/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/igdir/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -78856,6 +80968,30 @@
         "href": "/ders-notlari/ardahan/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/ardahan/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/ardahan/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/ardahan/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -79742,6 +81878,30 @@
         "href": "/ders-notlari/bilecik/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/bilecik/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/bilecik/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/bilecik/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -80629,6 +82789,30 @@
         "href": "/ders-notlari/bolu/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/bolu/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/bolu/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/bolu/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -81515,6 +83699,30 @@
         "href": "/ders-notlari/duzce/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/duzce/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/duzce/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/duzce/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -82401,6 +84609,30 @@
         "href": "/ders-notlari/zonguldak/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/zonguldak/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/zonguldak/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/zonguldak/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -83287,6 +85519,30 @@
         "href": "/ders-notlari/karabuk/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/karabuk/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/karabuk/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/karabuk/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -84173,6 +86429,30 @@
         "href": "/ders-notlari/kastamonu/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/kastamonu/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/kastamonu/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/kastamonu/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -85059,6 +87339,30 @@
         "href": "/ders-notlari/sinop/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/sinop/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/sinop/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/sinop/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -85946,6 +88250,30 @@
         "href": "/ders-notlari/corum/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/corum/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/corum/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/corum/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -86832,6 +89160,30 @@
         "href": "/ders-notlari/amasya/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/amasya/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/amasya/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/amasya/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -87718,6 +90070,30 @@
         "href": "/ders-notlari/cankiri/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/cankiri/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/cankiri/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/cankiri/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -88604,6 +90980,30 @@
         "href": "/ders-notlari/kirikkale/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/kirikkale/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/kirikkale/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/kirikkale/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -89490,6 +91890,30 @@
         "href": "/ders-notlari/aksaray/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/aksaray/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/aksaray/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/aksaray/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -90376,6 +92800,30 @@
         "href": "/ders-notlari/nigde/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/nigde/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/nigde/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/nigde/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -91262,6 +93710,30 @@
         "href": "/ders-notlari/konya-teknik/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/konya-teknik/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/konya-teknik/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/konya-teknik/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -92148,6 +94620,30 @@
         "href": "/ders-notlari/karaman/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/karaman/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/karaman/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/karaman/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -93034,6 +95530,30 @@
         "href": "/ders-notlari/usak/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/usak/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/usak/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/usak/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -93921,6 +96441,30 @@
         "href": "/ders-notlari/manisa/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/manisa/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/manisa/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/manisa/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -94807,6 +97351,30 @@
         "href": "/ders-notlari/aydin-adu/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/aydin-adu/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/aydin-adu/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/aydin-adu/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -95693,6 +98261,30 @@
         "href": "/ders-notlari/tekirdag/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/tekirdag/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/tekirdag/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/tekirdag/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -96579,6 +99171,30 @@
         "href": "/ders-notlari/kirklareli/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/kirklareli/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/kirklareli/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/kirklareli/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -97465,6 +100081,30 @@
         "href": "/ders-notlari/atilim/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/atilim/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/atilim/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/atilim/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -98351,6 +100991,30 @@
         "href": "/ders-notlari/cankaya/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/cankaya/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/cankaya/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/cankaya/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -99237,6 +101901,30 @@
         "href": "/ders-notlari/ufuk/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/ufuk/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/ufuk/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/ufuk/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -100123,6 +102811,30 @@
         "href": "/ders-notlari/yasar/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/yasar/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/yasar/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/yasar/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -101009,6 +103721,30 @@
         "href": "/ders-notlari/izmir-ekonomi/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/izmir-ekonomi/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/izmir-ekonomi/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/izmir-ekonomi/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -101895,6 +104631,30 @@
         "href": "/ders-notlari/tinaztepe/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/tinaztepe/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/tinaztepe/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/tinaztepe/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -102781,6 +105541,30 @@
         "href": "/ders-notlari/asbu-vakif/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/asbu-vakif/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/asbu-vakif/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/asbu-vakif/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -103667,6 +106451,30 @@
         "href": "/ders-notlari/hasan-kalyoncu/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/hasan-kalyoncu/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/hasan-kalyoncu/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/hasan-kalyoncu/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -104553,6 +107361,30 @@
         "href": "/ders-notlari/sanko/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/sanko/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/sanko/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/sanko/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -105439,6 +108271,30 @@
         "href": "/ders-notlari/toros/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/toros/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/toros/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/toros/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -106325,6 +109181,30 @@
         "href": "/ders-notlari/cag/anayasa-yillik",
         "ready": true,
         "variantOf": "anayasa"
+      },
+      {
+        "code": "roma-hukuku-donem-1",
+        "title": "Roma Hukuku — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/cag/roma-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-donem-2",
+        "title": "Roma Hukuku — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/cag/roma-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "roma-hukuku"
+      },
+      {
+        "code": "roma-hukuku-yillik",
+        "title": "Roma Hukuku — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/cag/roma-hukuku-yillik",
+        "ready": true,
+        "variantOf": "roma-hukuku"
       }
     ],
     "seoParagraphs": [

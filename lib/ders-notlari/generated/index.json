@@ -3,7 +3,7 @@
   "wave": "all",
   "universityCount": 120,
   "hubCount": 120,
-  "noteCount": 13080,
+  "noteCount": 13440,
   "universities": [
     {
       "slug": "ankara-yildirim-beyazit",
@@ -111846,6 +111846,3246 @@
       "href": "/ders-notlari/cag/anayasa-yillik",
       "variantOf": "anayasa",
       "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "ankara-yildirim-beyazit__roma-hukuku-donem-1",
+      "title": "AYBÜ Roma Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "ankara-yildirim-beyazit__roma-hukuku-donem-2",
+      "title": "AYBÜ Roma Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "ankara-yildirim-beyazit__roma-hukuku-yillik",
+      "title": "AYBÜ Roma Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "ankara__roma-hukuku-donem-1",
+      "title": "AÜHF Roma Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "ankara__roma-hukuku-donem-2",
+      "title": "AÜHF Roma Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "ankara__roma-hukuku-yillik",
+      "title": "AÜHF Roma Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "istanbul__roma-hukuku-donem-1",
+      "title": "İÜHF Roma Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "istanbul__roma-hukuku-donem-2",
+      "title": "İÜHF Roma Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "istanbul__roma-hukuku-yillik",
+      "title": "İÜHF Roma Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "marmara__roma-hukuku-donem-1",
+      "title": "MÜHF Roma Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "marmara__roma-hukuku-donem-2",
+      "title": "MÜHF Roma Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "marmara__roma-hukuku-yillik",
+      "title": "MÜHF Roma Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "galatasaray__roma-hukuku-donem-1",
+      "title": "GSÜ Roma Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "galatasaray__roma-hukuku-donem-2",
+      "title": "GSÜ Roma Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "galatasaray__roma-hukuku-yillik",
+      "title": "GSÜ Roma Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "dokuz-eylul__roma-hukuku-donem-1",
+      "title": "DEÜ Roma Hukuku 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "dokuz-eylul__roma-hukuku-donem-2",
+      "title": "DEÜ Roma Hukuku 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "dokuz-eylul__roma-hukuku-yillik",
+      "title": "DEÜ Roma Hukuku Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "hacettepe__roma-hukuku-donem-1",
+      "title": "Hacettepe Roma Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "hacettepe__roma-hukuku-donem-2",
+      "title": "Hacettepe Roma Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "hacettepe__roma-hukuku-yillik",
+      "title": "Hacettepe Roma Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "ankara-hacibayram__roma-hukuku-donem-1",
+      "title": "AHBV Roma Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "ankara-hacibayram__roma-hukuku-donem-2",
+      "title": "AHBV Roma Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "ankara-hacibayram__roma-hukuku-yillik",
+      "title": "AHBV Roma Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "bilkent__roma-hukuku-donem-1",
+      "title": "Bilkent Roma Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "bilkent__roma-hukuku-donem-2",
+      "title": "Bilkent Roma Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "bilkent__roma-hukuku-yillik",
+      "title": "Bilkent Roma Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "koc__roma-hukuku-donem-1",
+      "title": "Koç Roma Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "koc__roma-hukuku-donem-2",
+      "title": "Koç Roma Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "koc__roma-hukuku-yillik",
+      "title": "Koç Roma Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "tobb-etu__roma-hukuku-donem-1",
+      "title": "TOBB ETÜ Roma Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "tobb-etu__roma-hukuku-donem-2",
+      "title": "TOBB ETÜ Roma Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "tobb-etu__roma-hukuku-yillik",
+      "title": "TOBB ETÜ Roma Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "bogazici__roma-hukuku-donem-1",
+      "title": "BÜ Roma Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "bogazici__roma-hukuku-donem-2",
+      "title": "BÜ Roma Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "bogazici__roma-hukuku-yillik",
+      "title": "BÜ Roma Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "ege__roma-hukuku-donem-1",
+      "title": "Ege Roma Hukuku 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "ege__roma-hukuku-donem-2",
+      "title": "Ege Roma Hukuku 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "ege__roma-hukuku-yillik",
+      "title": "Ege Roma Hukuku Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "akdeniz__roma-hukuku-donem-1",
+      "title": "Akdeniz Roma Hukuku 1. Dönem (Güz) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "akdeniz__roma-hukuku-donem-2",
+      "title": "Akdeniz Roma Hukuku 2. Dönem (Bahar) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "akdeniz__roma-hukuku-yillik",
+      "title": "Akdeniz Roma Hukuku Yıllık (Tam paket) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "selcuk__roma-hukuku-donem-1",
+      "title": "Selçuk Roma Hukuku 1. Dönem (Güz) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "selcuk__roma-hukuku-donem-2",
+      "title": "Selçuk Roma Hukuku 2. Dönem (Bahar) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "selcuk__roma-hukuku-yillik",
+      "title": "Selçuk Roma Hukuku Yıllık (Tam paket) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "erciyes__roma-hukuku-donem-1",
+      "title": "Erciyes Roma Hukuku 1. Dönem (Güz) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "erciyes__roma-hukuku-donem-2",
+      "title": "Erciyes Roma Hukuku 2. Dönem (Bahar) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "erciyes__roma-hukuku-yillik",
+      "title": "Erciyes Roma Hukuku Yıllık (Tam paket) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "uludag__roma-hukuku-donem-1",
+      "title": "Uludağ Roma Hukuku 1. Dönem (Güz) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "uludag__roma-hukuku-donem-2",
+      "title": "Uludağ Roma Hukuku 2. Dönem (Bahar) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "uludag__roma-hukuku-yillik",
+      "title": "Uludağ Roma Hukuku Yıllık (Tam paket) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "cukurova__roma-hukuku-donem-1",
+      "title": "Çukurova Roma Hukuku 1. Dönem (Güz) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "cukurova__roma-hukuku-donem-2",
+      "title": "Çukurova Roma Hukuku 2. Dönem (Bahar) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "cukurova__roma-hukuku-yillik",
+      "title": "Çukurova Roma Hukuku Yıllık (Tam paket) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "anadolu__roma-hukuku-donem-1",
+      "title": "Anadolu Roma Hukuku 1. Dönem (Güz) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "anadolu__roma-hukuku-donem-2",
+      "title": "Anadolu Roma Hukuku 2. Dönem (Bahar) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "anadolu__roma-hukuku-yillik",
+      "title": "Anadolu Roma Hukuku Yıllık (Tam paket) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "gazi-ankara__roma-hukuku-donem-1",
+      "title": "ASBÜ Roma Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "gazi-ankara__roma-hukuku-donem-2",
+      "title": "ASBÜ Roma Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "gazi-ankara__roma-hukuku-yillik",
+      "title": "ASBÜ Roma Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "yildiz-teknik__roma-hukuku-donem-1",
+      "title": "YTÜ Roma Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "yildiz-teknik__roma-hukuku-donem-2",
+      "title": "YTÜ Roma Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "yildiz-teknik__roma-hukuku-yillik",
+      "title": "YTÜ Roma Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "istanbul-medeniyet__roma-hukuku-donem-1",
+      "title": "Medeniyet Roma Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "istanbul-medeniyet__roma-hukuku-donem-2",
+      "title": "Medeniyet Roma Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "istanbul-medeniyet__roma-hukuku-yillik",
+      "title": "Medeniyet Roma Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "bahcesehir__roma-hukuku-donem-1",
+      "title": "BAU Roma Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "bahcesehir__roma-hukuku-donem-2",
+      "title": "BAU Roma Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "bahcesehir__roma-hukuku-yillik",
+      "title": "BAU Roma Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "yeditepe__roma-hukuku-donem-1",
+      "title": "Yeditepe Roma Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "yeditepe__roma-hukuku-donem-2",
+      "title": "Yeditepe Roma Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "yeditepe__roma-hukuku-yillik",
+      "title": "Yeditepe Roma Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "ozyegin__roma-hukuku-donem-1",
+      "title": "Özyeğin Roma Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "ozyegin__roma-hukuku-donem-2",
+      "title": "Özyeğin Roma Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "ozyegin__roma-hukuku-yillik",
+      "title": "Özyeğin Roma Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "kadir-has__roma-hukuku-donem-1",
+      "title": "KHAS Roma Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "kadir-has__roma-hukuku-donem-2",
+      "title": "KHAS Roma Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "kadir-has__roma-hukuku-yillik",
+      "title": "KHAS Roma Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "istanbul-bilgi__roma-hukuku-donem-1",
+      "title": "Bilgi Roma Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "istanbul-bilgi__roma-hukuku-donem-2",
+      "title": "Bilgi Roma Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "istanbul-bilgi__roma-hukuku-yillik",
+      "title": "Bilgi Roma Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "mehmet-akif__roma-hukuku-donem-1",
+      "title": "Medipol Roma Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "mehmet-akif__roma-hukuku-donem-2",
+      "title": "Medipol Roma Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "mehmet-akif__roma-hukuku-yillik",
+      "title": "Medipol Roma Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "altinbas__roma-hukuku-donem-1",
+      "title": "Altınbaş Roma Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "altinbas__roma-hukuku-donem-2",
+      "title": "Altınbaş Roma Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "altinbas__roma-hukuku-yillik",
+      "title": "Altınbaş Roma Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "maltepe__roma-hukuku-donem-1",
+      "title": "Maltepe Roma Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "maltepe__roma-hukuku-donem-2",
+      "title": "Maltepe Roma Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "maltepe__roma-hukuku-yillik",
+      "title": "Maltepe Roma Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "dogus__roma-hukuku-donem-1",
+      "title": "Doğuş Roma Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "dogus__roma-hukuku-donem-2",
+      "title": "Doğuş Roma Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "dogus__roma-hukuku-yillik",
+      "title": "Doğuş Roma Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "isik__roma-hukuku-donem-1",
+      "title": "Işık Roma Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "isik__roma-hukuku-donem-2",
+      "title": "Işık Roma Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "isik__roma-hukuku-yillik",
+      "title": "Işık Roma Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "okan__roma-hukuku-donem-1",
+      "title": "Okan Roma Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "okan__roma-hukuku-donem-2",
+      "title": "Okan Roma Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "okan__roma-hukuku-yillik",
+      "title": "Okan Roma Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "kultur__roma-hukuku-donem-1",
+      "title": "İKÜ Roma Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "kultur__roma-hukuku-donem-2",
+      "title": "İKÜ Roma Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "kultur__roma-hukuku-yillik",
+      "title": "İKÜ Roma Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "aydin__roma-hukuku-donem-1",
+      "title": "İAÜ Roma Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "aydin__roma-hukuku-donem-2",
+      "title": "İAÜ Roma Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "aydin__roma-hukuku-yillik",
+      "title": "İAÜ Roma Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "gelisim__roma-hukuku-donem-1",
+      "title": "Gelişim Roma Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "gelisim__roma-hukuku-donem-2",
+      "title": "Gelişim Roma Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "gelisim__roma-hukuku-yillik",
+      "title": "Gelişim Roma Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "topkapi__roma-hukuku-donem-1",
+      "title": "Topkapı Roma Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "topkapi__roma-hukuku-donem-2",
+      "title": "Topkapı Roma Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "topkapi__roma-hukuku-yillik",
+      "title": "Topkapı Roma Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "nisantasi__roma-hukuku-donem-1",
+      "title": "Nişantaşı Roma Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "nisantasi__roma-hukuku-donem-2",
+      "title": "Nişantaşı Roma Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "nisantasi__roma-hukuku-yillik",
+      "title": "Nişantaşı Roma Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "beykent__roma-hukuku-donem-1",
+      "title": "Beykent Roma Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "beykent__roma-hukuku-donem-2",
+      "title": "Beykent Roma Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "beykent__roma-hukuku-yillik",
+      "title": "Beykent Roma Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "halic__roma-hukuku-donem-1",
+      "title": "Haliç Roma Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "halic__roma-hukuku-donem-2",
+      "title": "Haliç Roma Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "halic__roma-hukuku-yillik",
+      "title": "Haliç Roma Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "fatih-sultan__roma-hukuku-donem-1",
+      "title": "FSMVÜ Roma Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "fatih-sultan__roma-hukuku-donem-2",
+      "title": "FSMVÜ Roma Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "fatih-sultan__roma-hukuku-yillik",
+      "title": "FSMVÜ Roma Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "karadeniz-teknik__roma-hukuku-donem-1",
+      "title": "KTÜ Roma Hukuku 1. Dönem (Güz) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "karadeniz-teknik__roma-hukuku-donem-2",
+      "title": "KTÜ Roma Hukuku 2. Dönem (Bahar) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "karadeniz-teknik__roma-hukuku-yillik",
+      "title": "KTÜ Roma Hukuku Yıllık (Tam paket) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "ataturk__roma-hukuku-donem-1",
+      "title": "Atatürk Roma Hukuku 1. Dönem (Güz) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "ataturk__roma-hukuku-donem-2",
+      "title": "Atatürk Roma Hukuku 2. Dönem (Bahar) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "ataturk__roma-hukuku-yillik",
+      "title": "Atatürk Roma Hukuku Yıllık (Tam paket) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "inonu__roma-hukuku-donem-1",
+      "title": "İnönü Roma Hukuku 1. Dönem (Güz) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "inonu__roma-hukuku-donem-2",
+      "title": "İnönü Roma Hukuku 2. Dönem (Bahar) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "inonu__roma-hukuku-yillik",
+      "title": "İnönü Roma Hukuku Yıllık (Tam paket) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "dicle__roma-hukuku-donem-1",
+      "title": "Dicle Roma Hukuku 1. Dönem (Güz) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "dicle__roma-hukuku-donem-2",
+      "title": "Dicle Roma Hukuku 2. Dönem (Bahar) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "dicle__roma-hukuku-yillik",
+      "title": "Dicle Roma Hukuku Yıllık (Tam paket) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "firat__roma-hukuku-donem-1",
+      "title": "Fırat Roma Hukuku 1. Dönem (Güz) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "firat__roma-hukuku-donem-2",
+      "title": "Fırat Roma Hukuku 2. Dönem (Bahar) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "firat__roma-hukuku-yillik",
+      "title": "Fırat Roma Hukuku Yıllık (Tam paket) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "gaziantep__roma-hukuku-donem-1",
+      "title": "GAÜN Roma Hukuku 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "gaziantep__roma-hukuku-donem-2",
+      "title": "GAÜN Roma Hukuku 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "gaziantep__roma-hukuku-yillik",
+      "title": "GAÜN Roma Hukuku Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "suleyman-demirel__roma-hukuku-donem-1",
+      "title": "SDÜ Roma Hukuku 1. Dönem (Güz) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "suleyman-demirel__roma-hukuku-donem-2",
+      "title": "SDÜ Roma Hukuku 2. Dönem (Bahar) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "suleyman-demirel__roma-hukuku-yillik",
+      "title": "SDÜ Roma Hukuku Yıllık (Tam paket) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "pamukkale__roma-hukuku-donem-1",
+      "title": "PAÜ Roma Hukuku 1. Dönem (Güz) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "pamukkale__roma-hukuku-donem-2",
+      "title": "PAÜ Roma Hukuku 2. Dönem (Bahar) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "pamukkale__roma-hukuku-yillik",
+      "title": "PAÜ Roma Hukuku Yıllık (Tam paket) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "mugla__roma-hukuku-donem-1",
+      "title": "MSKU Roma Hukuku 1. Dönem (Güz) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "mugla__roma-hukuku-donem-2",
+      "title": "MSKU Roma Hukuku 2. Dönem (Bahar) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "mugla__roma-hukuku-yillik",
+      "title": "MSKU Roma Hukuku Yıllık (Tam paket) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "sakarya__roma-hukuku-donem-1",
+      "title": "SAÜ Roma Hukuku 1. Dönem (Güz) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "sakarya__roma-hukuku-donem-2",
+      "title": "SAÜ Roma Hukuku 2. Dönem (Bahar) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "sakarya__roma-hukuku-yillik",
+      "title": "SAÜ Roma Hukuku Yıllık (Tam paket) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "kocaeli__roma-hukuku-donem-1",
+      "title": "KOÜ Roma Hukuku 1. Dönem (Güz) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "kocaeli__roma-hukuku-donem-2",
+      "title": "KOÜ Roma Hukuku 2. Dönem (Bahar) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "kocaeli__roma-hukuku-yillik",
+      "title": "KOÜ Roma Hukuku Yıllık (Tam paket) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "trakya__roma-hukuku-donem-1",
+      "title": "Trakya Roma Hukuku 1. Dönem (Güz) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "trakya__roma-hukuku-donem-2",
+      "title": "Trakya Roma Hukuku 2. Dönem (Bahar) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "trakya__roma-hukuku-yillik",
+      "title": "Trakya Roma Hukuku Yıllık (Tam paket) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "canakkale__roma-hukuku-donem-1",
+      "title": "ÇOMÜ Roma Hukuku 1. Dönem (Güz) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "canakkale__roma-hukuku-donem-2",
+      "title": "ÇOMÜ Roma Hukuku 2. Dönem (Bahar) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "canakkale__roma-hukuku-yillik",
+      "title": "ÇOMÜ Roma Hukuku Yıllık (Tam paket) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "balikesir__roma-hukuku-donem-1",
+      "title": "BAÜN Roma Hukuku 1. Dönem (Güz) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "balikesir__roma-hukuku-donem-2",
+      "title": "BAÜN Roma Hukuku 2. Dönem (Bahar) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "balikesir__roma-hukuku-yillik",
+      "title": "BAÜN Roma Hukuku Yıllık (Tam paket) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "afyon__roma-hukuku-donem-1",
+      "title": "AKÜ Roma Hukuku 1. Dönem (Güz) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "afyon__roma-hukuku-donem-2",
+      "title": "AKÜ Roma Hukuku 2. Dönem (Bahar) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "afyon__roma-hukuku-yillik",
+      "title": "AKÜ Roma Hukuku Yıllık (Tam paket) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "dumlupinar__roma-hukuku-donem-1",
+      "title": "DPÜ Roma Hukuku 1. Dönem (Güz) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "dumlupinar__roma-hukuku-donem-2",
+      "title": "DPÜ Roma Hukuku 2. Dönem (Bahar) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "dumlupinar__roma-hukuku-yillik",
+      "title": "DPÜ Roma Hukuku Yıllık (Tam paket) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "eskisehir-osmangazi__roma-hukuku-donem-1",
+      "title": "ESOGÜ Roma Hukuku 1. Dönem (Güz) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "eskisehir-osmangazi__roma-hukuku-donem-2",
+      "title": "ESOGÜ Roma Hukuku 2. Dönem (Bahar) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "eskisehir-osmangazi__roma-hukuku-yillik",
+      "title": "ESOGÜ Roma Hukuku Yıllık (Tam paket) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "sivas-cumhuriyet__roma-hukuku-donem-1",
+      "title": "SCÜ Roma Hukuku 1. Dönem (Güz) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "sivas-cumhuriyet__roma-hukuku-donem-2",
+      "title": "SCÜ Roma Hukuku 2. Dönem (Bahar) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "sivas-cumhuriyet__roma-hukuku-yillik",
+      "title": "SCÜ Roma Hukuku Yıllık (Tam paket) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "tokat__roma-hukuku-donem-1",
+      "title": "TOGÜ Roma Hukuku 1. Dönem (Güz) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "tokat__roma-hukuku-donem-2",
+      "title": "TOGÜ Roma Hukuku 2. Dönem (Bahar) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "tokat__roma-hukuku-yillik",
+      "title": "TOGÜ Roma Hukuku Yıllık (Tam paket) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "yozgat__roma-hukuku-donem-1",
+      "title": "Bozok Roma Hukuku 1. Dönem (Güz) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "yozgat__roma-hukuku-donem-2",
+      "title": "Bozok Roma Hukuku 2. Dönem (Bahar) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "yozgat__roma-hukuku-yillik",
+      "title": "Bozok Roma Hukuku Yıllık (Tam paket) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "kirsehir__roma-hukuku-donem-1",
+      "title": "AHİEVRAN Roma Hukuku 1. Dönem (Güz) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "kirsehir__roma-hukuku-donem-2",
+      "title": "AHİEVRAN Roma Hukuku 2. Dönem (Bahar) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "kirsehir__roma-hukuku-yillik",
+      "title": "AHİEVRAN Roma Hukuku Yıllık (Tam paket) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "nevsehir__roma-hukuku-donem-1",
+      "title": "NEVÜ Roma Hukuku 1. Dönem (Güz) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "nevsehir__roma-hukuku-donem-2",
+      "title": "NEVÜ Roma Hukuku 2. Dönem (Bahar) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "nevsehir__roma-hukuku-yillik",
+      "title": "NEVÜ Roma Hukuku Yıllık (Tam paket) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "mersin__roma-hukuku-donem-1",
+      "title": "MEÜ Roma Hukuku 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "mersin__roma-hukuku-donem-2",
+      "title": "MEÜ Roma Hukuku 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "mersin__roma-hukuku-yillik",
+      "title": "MEÜ Roma Hukuku Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "hatay__roma-hukuku-donem-1",
+      "title": "MKÜ Roma Hukuku 1. Dönem (Güz) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "hatay__roma-hukuku-donem-2",
+      "title": "MKÜ Roma Hukuku 2. Dönem (Bahar) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "hatay__roma-hukuku-yillik",
+      "title": "MKÜ Roma Hukuku Yıllık (Tam paket) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "kahramanmaras__roma-hukuku-donem-1",
+      "title": "KSÜ Roma Hukuku 1. Dönem (Güz) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "kahramanmaras__roma-hukuku-donem-2",
+      "title": "KSÜ Roma Hukuku 2. Dönem (Bahar) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "kahramanmaras__roma-hukuku-yillik",
+      "title": "KSÜ Roma Hukuku Yıllık (Tam paket) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "osmaniye__roma-hukuku-donem-1",
+      "title": "OKÜ Roma Hukuku 1. Dönem (Güz) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "osmaniye__roma-hukuku-donem-2",
+      "title": "OKÜ Roma Hukuku 2. Dönem (Bahar) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "osmaniye__roma-hukuku-yillik",
+      "title": "OKÜ Roma Hukuku Yıllık (Tam paket) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "samsun__roma-hukuku-donem-1",
+      "title": "OMÜ Roma Hukuku 1. Dönem (Güz) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "samsun__roma-hukuku-donem-2",
+      "title": "OMÜ Roma Hukuku 2. Dönem (Bahar) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "samsun__roma-hukuku-yillik",
+      "title": "OMÜ Roma Hukuku Yıllık (Tam paket) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "ordu__roma-hukuku-donem-1",
+      "title": "ODÜ Roma Hukuku 1. Dönem (Güz) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "ordu__roma-hukuku-donem-2",
+      "title": "ODÜ Roma Hukuku 2. Dönem (Bahar) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "ordu__roma-hukuku-yillik",
+      "title": "ODÜ Roma Hukuku Yıllık (Tam paket) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "giresun__roma-hukuku-donem-1",
+      "title": "GÜ Roma Hukuku 1. Dönem (Güz) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "giresun__roma-hukuku-donem-2",
+      "title": "GÜ Roma Hukuku 2. Dönem (Bahar) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "giresun__roma-hukuku-yillik",
+      "title": "GÜ Roma Hukuku Yıllık (Tam paket) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "rize__roma-hukuku-donem-1",
+      "title": "RTEÜ Roma Hukuku 1. Dönem (Güz) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "rize__roma-hukuku-donem-2",
+      "title": "RTEÜ Roma Hukuku 2. Dönem (Bahar) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "rize__roma-hukuku-yillik",
+      "title": "RTEÜ Roma Hukuku Yıllık (Tam paket) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "artvin__roma-hukuku-donem-1",
+      "title": "AÇÜ Roma Hukuku 1. Dönem (Güz) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "artvin__roma-hukuku-donem-2",
+      "title": "AÇÜ Roma Hukuku 2. Dönem (Bahar) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "artvin__roma-hukuku-yillik",
+      "title": "AÇÜ Roma Hukuku Yıllık (Tam paket) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "van-yyu__roma-hukuku-donem-1",
+      "title": "YYÜ Roma Hukuku 1. Dönem (Güz) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "van-yyu__roma-hukuku-donem-2",
+      "title": "YYÜ Roma Hukuku 2. Dönem (Bahar) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "van-yyu__roma-hukuku-yillik",
+      "title": "YYÜ Roma Hukuku Yıllık (Tam paket) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "agri__roma-hukuku-donem-1",
+      "title": "AİÇÜ Roma Hukuku 1. Dönem (Güz) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "agri__roma-hukuku-donem-2",
+      "title": "AİÇÜ Roma Hukuku 2. Dönem (Bahar) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "agri__roma-hukuku-yillik",
+      "title": "AİÇÜ Roma Hukuku Yıllık (Tam paket) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "kars__roma-hukuku-donem-1",
+      "title": "Kafkas Roma Hukuku 1. Dönem (Güz) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "kars__roma-hukuku-donem-2",
+      "title": "Kafkas Roma Hukuku 2. Dönem (Bahar) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "kars__roma-hukuku-yillik",
+      "title": "Kafkas Roma Hukuku Yıllık (Tam paket) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "erzincan__roma-hukuku-donem-1",
+      "title": "EBYÜ Roma Hukuku 1. Dönem (Güz) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "erzincan__roma-hukuku-donem-2",
+      "title": "EBYÜ Roma Hukuku 2. Dönem (Bahar) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "erzincan__roma-hukuku-yillik",
+      "title": "EBYÜ Roma Hukuku Yıllık (Tam paket) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "bayburt__roma-hukuku-donem-1",
+      "title": "Bayburt Roma Hukuku 1. Dönem (Güz) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "bayburt__roma-hukuku-donem-2",
+      "title": "Bayburt Roma Hukuku 2. Dönem (Bahar) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "bayburt__roma-hukuku-yillik",
+      "title": "Bayburt Roma Hukuku Yıllık (Tam paket) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "gumushane__roma-hukuku-donem-1",
+      "title": "Gümüşhane Roma Hukuku 1. Dönem (Güz) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "gumushane__roma-hukuku-donem-2",
+      "title": "Gümüşhane Roma Hukuku 2. Dönem (Bahar) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "gumushane__roma-hukuku-yillik",
+      "title": "Gümüşhane Roma Hukuku Yıllık (Tam paket) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "bingol__roma-hukuku-donem-1",
+      "title": "Bingöl Roma Hukuku 1. Dönem (Güz) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "bingol__roma-hukuku-donem-2",
+      "title": "Bingöl Roma Hukuku 2. Dönem (Bahar) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "bingol__roma-hukuku-yillik",
+      "title": "Bingöl Roma Hukuku Yıllık (Tam paket) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "mus__roma-hukuku-donem-1",
+      "title": "Muş Roma Hukuku 1. Dönem (Güz) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "mus__roma-hukuku-donem-2",
+      "title": "Muş Roma Hukuku 2. Dönem (Bahar) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "mus__roma-hukuku-yillik",
+      "title": "Muş Roma Hukuku Yıllık (Tam paket) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "hakkari__roma-hukuku-donem-1",
+      "title": "Hakkâri Roma Hukuku 1. Dönem (Güz) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "hakkari__roma-hukuku-donem-2",
+      "title": "Hakkâri Roma Hukuku 2. Dönem (Bahar) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "hakkari__roma-hukuku-yillik",
+      "title": "Hakkâri Roma Hukuku Yıllık (Tam paket) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "sirnak__roma-hukuku-donem-1",
+      "title": "Şırnak Roma Hukuku 1. Dönem (Güz) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "sirnak__roma-hukuku-donem-2",
+      "title": "Şırnak Roma Hukuku 2. Dönem (Bahar) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "sirnak__roma-hukuku-yillik",
+      "title": "Şırnak Roma Hukuku Yıllık (Tam paket) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "mardin__roma-hukuku-donem-1",
+      "title": "Artuklu Roma Hukuku 1. Dönem (Güz) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "mardin__roma-hukuku-donem-2",
+      "title": "Artuklu Roma Hukuku 2. Dönem (Bahar) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "mardin__roma-hukuku-yillik",
+      "title": "Artuklu Roma Hukuku Yıllık (Tam paket) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "batman__roma-hukuku-donem-1",
+      "title": "Batman Roma Hukuku 1. Dönem (Güz) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "batman__roma-hukuku-donem-2",
+      "title": "Batman Roma Hukuku 2. Dönem (Bahar) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "batman__roma-hukuku-yillik",
+      "title": "Batman Roma Hukuku Yıllık (Tam paket) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "siirt__roma-hukuku-donem-1",
+      "title": "Siirt Roma Hukuku 1. Dönem (Güz) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "siirt__roma-hukuku-donem-2",
+      "title": "Siirt Roma Hukuku 2. Dönem (Bahar) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "siirt__roma-hukuku-yillik",
+      "title": "Siirt Roma Hukuku Yıllık (Tam paket) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "adiyaman__roma-hukuku-donem-1",
+      "title": "Adıyaman Roma Hukuku 1. Dönem (Güz) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "adiyaman__roma-hukuku-donem-2",
+      "title": "Adıyaman Roma Hukuku 2. Dönem (Bahar) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "adiyaman__roma-hukuku-yillik",
+      "title": "Adıyaman Roma Hukuku Yıllık (Tam paket) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "kilis__roma-hukuku-donem-1",
+      "title": "Kilis Roma Hukuku 1. Dönem (Güz) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "kilis__roma-hukuku-donem-2",
+      "title": "Kilis Roma Hukuku 2. Dönem (Bahar) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "kilis__roma-hukuku-yillik",
+      "title": "Kilis Roma Hukuku Yıllık (Tam paket) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "igdir__roma-hukuku-donem-1",
+      "title": "Iğdır Roma Hukuku 1. Dönem (Güz) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "igdir__roma-hukuku-donem-2",
+      "title": "Iğdır Roma Hukuku 2. Dönem (Bahar) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "igdir__roma-hukuku-yillik",
+      "title": "Iğdır Roma Hukuku Yıllık (Tam paket) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "ardahan__roma-hukuku-donem-1",
+      "title": "Ardahan Roma Hukuku 1. Dönem (Güz) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "ardahan__roma-hukuku-donem-2",
+      "title": "Ardahan Roma Hukuku 2. Dönem (Bahar) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "ardahan__roma-hukuku-yillik",
+      "title": "Ardahan Roma Hukuku Yıllık (Tam paket) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "bilecik__roma-hukuku-donem-1",
+      "title": "BŞEÜ Roma Hukuku 1. Dönem (Güz) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "bilecik__roma-hukuku-donem-2",
+      "title": "BŞEÜ Roma Hukuku 2. Dönem (Bahar) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "bilecik__roma-hukuku-yillik",
+      "title": "BŞEÜ Roma Hukuku Yıllık (Tam paket) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "bolu__roma-hukuku-donem-1",
+      "title": "BAİBÜ Roma Hukuku 1. Dönem (Güz) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "bolu__roma-hukuku-donem-2",
+      "title": "BAİBÜ Roma Hukuku 2. Dönem (Bahar) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "bolu__roma-hukuku-yillik",
+      "title": "BAİBÜ Roma Hukuku Yıllık (Tam paket) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "duzce__roma-hukuku-donem-1",
+      "title": "Düzce Roma Hukuku 1. Dönem (Güz) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "duzce__roma-hukuku-donem-2",
+      "title": "Düzce Roma Hukuku 2. Dönem (Bahar) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "duzce__roma-hukuku-yillik",
+      "title": "Düzce Roma Hukuku Yıllık (Tam paket) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "zonguldak__roma-hukuku-donem-1",
+      "title": "BEÜN Roma Hukuku 1. Dönem (Güz) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "zonguldak__roma-hukuku-donem-2",
+      "title": "BEÜN Roma Hukuku 2. Dönem (Bahar) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "zonguldak__roma-hukuku-yillik",
+      "title": "BEÜN Roma Hukuku Yıllık (Tam paket) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "karabuk__roma-hukuku-donem-1",
+      "title": "KBÜ Roma Hukuku 1. Dönem (Güz) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "karabuk__roma-hukuku-donem-2",
+      "title": "KBÜ Roma Hukuku 2. Dönem (Bahar) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "karabuk__roma-hukuku-yillik",
+      "title": "KBÜ Roma Hukuku Yıllık (Tam paket) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "kastamonu__roma-hukuku-donem-1",
+      "title": "KÜ Roma Hukuku 1. Dönem (Güz) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "kastamonu__roma-hukuku-donem-2",
+      "title": "KÜ Roma Hukuku 2. Dönem (Bahar) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "kastamonu__roma-hukuku-yillik",
+      "title": "KÜ Roma Hukuku Yıllık (Tam paket) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "sinop__roma-hukuku-donem-1",
+      "title": "Sinop Roma Hukuku 1. Dönem (Güz) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "sinop__roma-hukuku-donem-2",
+      "title": "Sinop Roma Hukuku 2. Dönem (Bahar) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "sinop__roma-hukuku-yillik",
+      "title": "Sinop Roma Hukuku Yıllık (Tam paket) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "corum__roma-hukuku-donem-1",
+      "title": "Hitit Roma Hukuku 1. Dönem (Güz) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "corum__roma-hukuku-donem-2",
+      "title": "Hitit Roma Hukuku 2. Dönem (Bahar) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "corum__roma-hukuku-yillik",
+      "title": "Hitit Roma Hukuku Yıllık (Tam paket) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "amasya__roma-hukuku-donem-1",
+      "title": "Amasya Roma Hukuku 1. Dönem (Güz) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "amasya__roma-hukuku-donem-2",
+      "title": "Amasya Roma Hukuku 2. Dönem (Bahar) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "amasya__roma-hukuku-yillik",
+      "title": "Amasya Roma Hukuku Yıllık (Tam paket) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "cankiri__roma-hukuku-donem-1",
+      "title": "Karatekin Roma Hukuku 1. Dönem (Güz) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "cankiri__roma-hukuku-donem-2",
+      "title": "Karatekin Roma Hukuku 2. Dönem (Bahar) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "cankiri__roma-hukuku-yillik",
+      "title": "Karatekin Roma Hukuku Yıllık (Tam paket) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "kirikkale__roma-hukuku-donem-1",
+      "title": "Kırıkkale Roma Hukuku 1. Dönem (Güz) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "kirikkale__roma-hukuku-donem-2",
+      "title": "Kırıkkale Roma Hukuku 2. Dönem (Bahar) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "kirikkale__roma-hukuku-yillik",
+      "title": "Kırıkkale Roma Hukuku Yıllık (Tam paket) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "aksaray__roma-hukuku-donem-1",
+      "title": "Aksaray Roma Hukuku 1. Dönem (Güz) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "aksaray__roma-hukuku-donem-2",
+      "title": "Aksaray Roma Hukuku 2. Dönem (Bahar) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "aksaray__roma-hukuku-yillik",
+      "title": "Aksaray Roma Hukuku Yıllık (Tam paket) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "nigde__roma-hukuku-donem-1",
+      "title": "ÖHÜ Roma Hukuku 1. Dönem (Güz) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "nigde__roma-hukuku-donem-2",
+      "title": "ÖHÜ Roma Hukuku 2. Dönem (Bahar) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "nigde__roma-hukuku-yillik",
+      "title": "ÖHÜ Roma Hukuku Yıllık (Tam paket) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "konya-teknik__roma-hukuku-donem-1",
+      "title": "NEÜ Roma Hukuku 1. Dönem (Güz) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "konya-teknik__roma-hukuku-donem-2",
+      "title": "NEÜ Roma Hukuku 2. Dönem (Bahar) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "konya-teknik__roma-hukuku-yillik",
+      "title": "NEÜ Roma Hukuku Yıllık (Tam paket) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "karaman__roma-hukuku-donem-1",
+      "title": "KMÜ Roma Hukuku 1. Dönem (Güz) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "karaman__roma-hukuku-donem-2",
+      "title": "KMÜ Roma Hukuku 2. Dönem (Bahar) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "karaman__roma-hukuku-yillik",
+      "title": "KMÜ Roma Hukuku Yıllık (Tam paket) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "usak__roma-hukuku-donem-1",
+      "title": "Uşak Roma Hukuku 1. Dönem (Güz) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "usak__roma-hukuku-donem-2",
+      "title": "Uşak Roma Hukuku 2. Dönem (Bahar) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "usak__roma-hukuku-yillik",
+      "title": "Uşak Roma Hukuku Yıllık (Tam paket) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "manisa__roma-hukuku-donem-1",
+      "title": "MCBÜ Roma Hukuku 1. Dönem (Güz) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "manisa__roma-hukuku-donem-2",
+      "title": "MCBÜ Roma Hukuku 2. Dönem (Bahar) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "manisa__roma-hukuku-yillik",
+      "title": "MCBÜ Roma Hukuku Yıllık (Tam paket) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "aydin-adu__roma-hukuku-donem-1",
+      "title": "ADÜ Roma Hukuku 1. Dönem (Güz) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "aydin-adu__roma-hukuku-donem-2",
+      "title": "ADÜ Roma Hukuku 2. Dönem (Bahar) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "aydin-adu__roma-hukuku-yillik",
+      "title": "ADÜ Roma Hukuku Yıllık (Tam paket) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "tekirdag__roma-hukuku-donem-1",
+      "title": "NKÜ Roma Hukuku 1. Dönem (Güz) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "tekirdag__roma-hukuku-donem-2",
+      "title": "NKÜ Roma Hukuku 2. Dönem (Bahar) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "tekirdag__roma-hukuku-yillik",
+      "title": "NKÜ Roma Hukuku Yıllık (Tam paket) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "kirklareli__roma-hukuku-donem-1",
+      "title": "Kırklareli Roma Hukuku 1. Dönem (Güz) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "kirklareli__roma-hukuku-donem-2",
+      "title": "Kırklareli Roma Hukuku 2. Dönem (Bahar) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "kirklareli__roma-hukuku-yillik",
+      "title": "Kırklareli Roma Hukuku Yıllık (Tam paket) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "atilim__roma-hukuku-donem-1",
+      "title": "Atılım Roma Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "atilim__roma-hukuku-donem-2",
+      "title": "Atılım Roma Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "atilim__roma-hukuku-yillik",
+      "title": "Atılım Roma Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "cankaya__roma-hukuku-donem-1",
+      "title": "Çankaya Roma Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "cankaya__roma-hukuku-donem-2",
+      "title": "Çankaya Roma Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "cankaya__roma-hukuku-yillik",
+      "title": "Çankaya Roma Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "ufuk__roma-hukuku-donem-1",
+      "title": "Ufuk Roma Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "ufuk__roma-hukuku-donem-2",
+      "title": "Ufuk Roma Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "ufuk__roma-hukuku-yillik",
+      "title": "Ufuk Roma Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "yasar__roma-hukuku-donem-1",
+      "title": "Yaşar Roma Hukuku 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "yasar__roma-hukuku-donem-2",
+      "title": "Yaşar Roma Hukuku 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "yasar__roma-hukuku-yillik",
+      "title": "Yaşar Roma Hukuku Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "izmir-ekonomi__roma-hukuku-donem-1",
+      "title": "İEÜ Roma Hukuku 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "izmir-ekonomi__roma-hukuku-donem-2",
+      "title": "İEÜ Roma Hukuku 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "izmir-ekonomi__roma-hukuku-yillik",
+      "title": "İEÜ Roma Hukuku Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "tinaztepe__roma-hukuku-donem-1",
+      "title": "Tınaztepe Roma Hukuku 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "tinaztepe__roma-hukuku-donem-2",
+      "title": "Tınaztepe Roma Hukuku 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "tinaztepe__roma-hukuku-yillik",
+      "title": "Tınaztepe Roma Hukuku Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "asbu-vakif__roma-hukuku-donem-1",
+      "title": "ABÜ Roma Hukuku 1. Dönem (Güz) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "asbu-vakif__roma-hukuku-donem-2",
+      "title": "ABÜ Roma Hukuku 2. Dönem (Bahar) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "asbu-vakif__roma-hukuku-yillik",
+      "title": "ABÜ Roma Hukuku Yıllık (Tam paket) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "hasan-kalyoncu__roma-hukuku-donem-1",
+      "title": "HKÜ Roma Hukuku 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "hasan-kalyoncu__roma-hukuku-donem-2",
+      "title": "HKÜ Roma Hukuku 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "hasan-kalyoncu__roma-hukuku-yillik",
+      "title": "HKÜ Roma Hukuku Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "sanko__roma-hukuku-donem-1",
+      "title": "Sanko Roma Hukuku 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "sanko__roma-hukuku-donem-2",
+      "title": "Sanko Roma Hukuku 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "sanko__roma-hukuku-yillik",
+      "title": "Sanko Roma Hukuku Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "toros__roma-hukuku-donem-1",
+      "title": "Toros Roma Hukuku 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "toros__roma-hukuku-donem-2",
+      "title": "Toros Roma Hukuku 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "toros__roma-hukuku-yillik",
+      "title": "Toros Roma Hukuku Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "roma-hukuku-donem-1",
+      "slug": "cag__roma-hukuku-donem-1",
+      "title": "Çağ Roma Hukuku 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/roma-hukuku-donem-1",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "roma-hukuku-donem-2",
+      "slug": "cag__roma-hukuku-donem-2",
+      "title": "Çağ Roma Hukuku 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/roma-hukuku-donem-2",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "roma-hukuku-yillik",
+      "slug": "cag__roma-hukuku-yillik",
+      "title": "Çağ Roma Hukuku Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/roma-hukuku-yillik",
+      "variantOf": "roma-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
     }
   ],
   "borclarGenelTripleAt": "2026-07-29T20:05:58.703Z",
@@ -111874,5 +115114,6 @@
   "arabuluculukTripleAt": "2026-07-29T21:23:11.701Z",
   "devletlerOzelTripleAt": "2026-07-29T21:26:09.690Z",
   "hukukaGirisTripleAt": "2026-07-29T21:28:58.325Z",
-  "anayasaTripleAt": "2026-07-29T21:32:17.211Z"
+  "anayasaTripleAt": "2026-07-29T21:32:17.211Z",
+  "romaHukukuTripleAt": "2026-07-29T21:35:13.772Z"
 }

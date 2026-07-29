@@ -115,7 +115,10 @@ export function generateStaticParams() {
         p.ders === 'hukuka-giris-yillik' ||
         p.ders === 'anayasa-donem-1' ||
         p.ders === 'anayasa-donem-2' ||
-        p.ders === 'anayasa-yillik')
+        p.ders === 'anayasa-yillik' ||
+        p.ders === 'roma-hukuku-donem-1' ||
+        p.ders === 'roma-hukuku-donem-2' ||
+        p.ders === 'roma-hukuku-yillik')
   );
   const rest = all.filter((p) => !priority.has(p.uni)).slice(0, 200);
   const seen = new Set<string>();
