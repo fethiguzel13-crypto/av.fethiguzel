@@ -114,6 +114,9 @@ export default async function DersNotuPdfPage({ params }: Props) {
               'cmk-donem-1',
               'cmk-donem-2',
               'cmk-yillik',
+              'idare-hukuku-donem-1',
+              'idare-hukuku-donem-2',
+              'idare-hukuku-yillik',
             ].map((code) => (
               <a
                 key={code}

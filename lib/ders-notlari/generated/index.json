@@ -3,7 +3,7 @@
   "wave": "all",
   "universityCount": 120,
   "hubCount": 120,
-  "noteCount": 9120,
+  "noteCount": 9480,
   "universities": [
     {
       "slug": "ankara-yildirim-beyazit",
@@ -76206,6 +76206,3246 @@
       "href": "/ders-notlari/cag/cmk-yillik",
       "variantOf": "cmk",
       "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "ankara-yildirim-beyazit__idare-hukuku-donem-1",
+      "title": "AYBÜ İdare Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "ankara-yildirim-beyazit__idare-hukuku-donem-2",
+      "title": "AYBÜ İdare Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "ankara-yildirim-beyazit__idare-hukuku-yillik",
+      "title": "AYBÜ İdare Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "ankara__idare-hukuku-donem-1",
+      "title": "AÜHF İdare Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "ankara__idare-hukuku-donem-2",
+      "title": "AÜHF İdare Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "ankara__idare-hukuku-yillik",
+      "title": "AÜHF İdare Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "istanbul__idare-hukuku-donem-1",
+      "title": "İÜHF İdare Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "istanbul__idare-hukuku-donem-2",
+      "title": "İÜHF İdare Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "istanbul__idare-hukuku-yillik",
+      "title": "İÜHF İdare Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "marmara__idare-hukuku-donem-1",
+      "title": "MÜHF İdare Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "marmara__idare-hukuku-donem-2",
+      "title": "MÜHF İdare Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "marmara__idare-hukuku-yillik",
+      "title": "MÜHF İdare Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "galatasaray__idare-hukuku-donem-1",
+      "title": "GSÜ İdare Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "galatasaray__idare-hukuku-donem-2",
+      "title": "GSÜ İdare Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "galatasaray__idare-hukuku-yillik",
+      "title": "GSÜ İdare Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "dokuz-eylul__idare-hukuku-donem-1",
+      "title": "DEÜ İdare Hukuku 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "dokuz-eylul__idare-hukuku-donem-2",
+      "title": "DEÜ İdare Hukuku 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "dokuz-eylul__idare-hukuku-yillik",
+      "title": "DEÜ İdare Hukuku Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "hacettepe__idare-hukuku-donem-1",
+      "title": "Hacettepe İdare Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "hacettepe__idare-hukuku-donem-2",
+      "title": "Hacettepe İdare Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "hacettepe__idare-hukuku-yillik",
+      "title": "Hacettepe İdare Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "ankara-hacibayram__idare-hukuku-donem-1",
+      "title": "AHBV İdare Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "ankara-hacibayram__idare-hukuku-donem-2",
+      "title": "AHBV İdare Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "ankara-hacibayram__idare-hukuku-yillik",
+      "title": "AHBV İdare Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "bilkent__idare-hukuku-donem-1",
+      "title": "Bilkent İdare Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "bilkent__idare-hukuku-donem-2",
+      "title": "Bilkent İdare Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "bilkent__idare-hukuku-yillik",
+      "title": "Bilkent İdare Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "koc__idare-hukuku-donem-1",
+      "title": "Koç İdare Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "koc__idare-hukuku-donem-2",
+      "title": "Koç İdare Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "koc__idare-hukuku-yillik",
+      "title": "Koç İdare Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "tobb-etu__idare-hukuku-donem-1",
+      "title": "TOBB ETÜ İdare Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "tobb-etu__idare-hukuku-donem-2",
+      "title": "TOBB ETÜ İdare Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "tobb-etu__idare-hukuku-yillik",
+      "title": "TOBB ETÜ İdare Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "bogazici__idare-hukuku-donem-1",
+      "title": "BÜ İdare Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "bogazici__idare-hukuku-donem-2",
+      "title": "BÜ İdare Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "bogazici__idare-hukuku-yillik",
+      "title": "BÜ İdare Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "ege__idare-hukuku-donem-1",
+      "title": "Ege İdare Hukuku 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "ege__idare-hukuku-donem-2",
+      "title": "Ege İdare Hukuku 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "ege__idare-hukuku-yillik",
+      "title": "Ege İdare Hukuku Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "akdeniz__idare-hukuku-donem-1",
+      "title": "Akdeniz İdare Hukuku 1. Dönem (Güz) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "akdeniz__idare-hukuku-donem-2",
+      "title": "Akdeniz İdare Hukuku 2. Dönem (Bahar) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "akdeniz__idare-hukuku-yillik",
+      "title": "Akdeniz İdare Hukuku Yıllık (Tam paket) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "selcuk__idare-hukuku-donem-1",
+      "title": "Selçuk İdare Hukuku 1. Dönem (Güz) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "selcuk__idare-hukuku-donem-2",
+      "title": "Selçuk İdare Hukuku 2. Dönem (Bahar) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "selcuk__idare-hukuku-yillik",
+      "title": "Selçuk İdare Hukuku Yıllık (Tam paket) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "erciyes__idare-hukuku-donem-1",
+      "title": "Erciyes İdare Hukuku 1. Dönem (Güz) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "erciyes__idare-hukuku-donem-2",
+      "title": "Erciyes İdare Hukuku 2. Dönem (Bahar) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "erciyes__idare-hukuku-yillik",
+      "title": "Erciyes İdare Hukuku Yıllık (Tam paket) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "uludag__idare-hukuku-donem-1",
+      "title": "Uludağ İdare Hukuku 1. Dönem (Güz) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "uludag__idare-hukuku-donem-2",
+      "title": "Uludağ İdare Hukuku 2. Dönem (Bahar) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "uludag__idare-hukuku-yillik",
+      "title": "Uludağ İdare Hukuku Yıllık (Tam paket) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "cukurova__idare-hukuku-donem-1",
+      "title": "Çukurova İdare Hukuku 1. Dönem (Güz) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "cukurova__idare-hukuku-donem-2",
+      "title": "Çukurova İdare Hukuku 2. Dönem (Bahar) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "cukurova__idare-hukuku-yillik",
+      "title": "Çukurova İdare Hukuku Yıllık (Tam paket) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "anadolu__idare-hukuku-donem-1",
+      "title": "Anadolu İdare Hukuku 1. Dönem (Güz) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "anadolu__idare-hukuku-donem-2",
+      "title": "Anadolu İdare Hukuku 2. Dönem (Bahar) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "anadolu__idare-hukuku-yillik",
+      "title": "Anadolu İdare Hukuku Yıllık (Tam paket) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "gazi-ankara__idare-hukuku-donem-1",
+      "title": "ASBÜ İdare Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "gazi-ankara__idare-hukuku-donem-2",
+      "title": "ASBÜ İdare Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "gazi-ankara__idare-hukuku-yillik",
+      "title": "ASBÜ İdare Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "yildiz-teknik__idare-hukuku-donem-1",
+      "title": "YTÜ İdare Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "yildiz-teknik__idare-hukuku-donem-2",
+      "title": "YTÜ İdare Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "yildiz-teknik__idare-hukuku-yillik",
+      "title": "YTÜ İdare Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "istanbul-medeniyet__idare-hukuku-donem-1",
+      "title": "Medeniyet İdare Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "istanbul-medeniyet__idare-hukuku-donem-2",
+      "title": "Medeniyet İdare Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "istanbul-medeniyet__idare-hukuku-yillik",
+      "title": "Medeniyet İdare Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "bahcesehir__idare-hukuku-donem-1",
+      "title": "BAU İdare Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "bahcesehir__idare-hukuku-donem-2",
+      "title": "BAU İdare Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "bahcesehir__idare-hukuku-yillik",
+      "title": "BAU İdare Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "yeditepe__idare-hukuku-donem-1",
+      "title": "Yeditepe İdare Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "yeditepe__idare-hukuku-donem-2",
+      "title": "Yeditepe İdare Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "yeditepe__idare-hukuku-yillik",
+      "title": "Yeditepe İdare Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "ozyegin__idare-hukuku-donem-1",
+      "title": "Özyeğin İdare Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "ozyegin__idare-hukuku-donem-2",
+      "title": "Özyeğin İdare Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "ozyegin__idare-hukuku-yillik",
+      "title": "Özyeğin İdare Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "kadir-has__idare-hukuku-donem-1",
+      "title": "KHAS İdare Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "kadir-has__idare-hukuku-donem-2",
+      "title": "KHAS İdare Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "kadir-has__idare-hukuku-yillik",
+      "title": "KHAS İdare Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "istanbul-bilgi__idare-hukuku-donem-1",
+      "title": "Bilgi İdare Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "istanbul-bilgi__idare-hukuku-donem-2",
+      "title": "Bilgi İdare Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "istanbul-bilgi__idare-hukuku-yillik",
+      "title": "Bilgi İdare Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "mehmet-akif__idare-hukuku-donem-1",
+      "title": "Medipol İdare Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "mehmet-akif__idare-hukuku-donem-2",
+      "title": "Medipol İdare Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "mehmet-akif__idare-hukuku-yillik",
+      "title": "Medipol İdare Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "altinbas__idare-hukuku-donem-1",
+      "title": "Altınbaş İdare Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "altinbas__idare-hukuku-donem-2",
+      "title": "Altınbaş İdare Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "altinbas__idare-hukuku-yillik",
+      "title": "Altınbaş İdare Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "maltepe__idare-hukuku-donem-1",
+      "title": "Maltepe İdare Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "maltepe__idare-hukuku-donem-2",
+      "title": "Maltepe İdare Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "maltepe__idare-hukuku-yillik",
+      "title": "Maltepe İdare Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "dogus__idare-hukuku-donem-1",
+      "title": "Doğuş İdare Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "dogus__idare-hukuku-donem-2",
+      "title": "Doğuş İdare Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "dogus__idare-hukuku-yillik",
+      "title": "Doğuş İdare Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "isik__idare-hukuku-donem-1",
+      "title": "Işık İdare Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "isik__idare-hukuku-donem-2",
+      "title": "Işık İdare Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "isik__idare-hukuku-yillik",
+      "title": "Işık İdare Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "okan__idare-hukuku-donem-1",
+      "title": "Okan İdare Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "okan__idare-hukuku-donem-2",
+      "title": "Okan İdare Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "okan__idare-hukuku-yillik",
+      "title": "Okan İdare Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "kultur__idare-hukuku-donem-1",
+      "title": "İKÜ İdare Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "kultur__idare-hukuku-donem-2",
+      "title": "İKÜ İdare Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "kultur__idare-hukuku-yillik",
+      "title": "İKÜ İdare Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "aydin__idare-hukuku-donem-1",
+      "title": "İAÜ İdare Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "aydin__idare-hukuku-donem-2",
+      "title": "İAÜ İdare Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "aydin__idare-hukuku-yillik",
+      "title": "İAÜ İdare Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "gelisim__idare-hukuku-donem-1",
+      "title": "Gelişim İdare Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "gelisim__idare-hukuku-donem-2",
+      "title": "Gelişim İdare Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "gelisim__idare-hukuku-yillik",
+      "title": "Gelişim İdare Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "topkapi__idare-hukuku-donem-1",
+      "title": "Topkapı İdare Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "topkapi__idare-hukuku-donem-2",
+      "title": "Topkapı İdare Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "topkapi__idare-hukuku-yillik",
+      "title": "Topkapı İdare Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "nisantasi__idare-hukuku-donem-1",
+      "title": "Nişantaşı İdare Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "nisantasi__idare-hukuku-donem-2",
+      "title": "Nişantaşı İdare Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "nisantasi__idare-hukuku-yillik",
+      "title": "Nişantaşı İdare Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "beykent__idare-hukuku-donem-1",
+      "title": "Beykent İdare Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "beykent__idare-hukuku-donem-2",
+      "title": "Beykent İdare Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "beykent__idare-hukuku-yillik",
+      "title": "Beykent İdare Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "halic__idare-hukuku-donem-1",
+      "title": "Haliç İdare Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "halic__idare-hukuku-donem-2",
+      "title": "Haliç İdare Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "halic__idare-hukuku-yillik",
+      "title": "Haliç İdare Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "fatih-sultan__idare-hukuku-donem-1",
+      "title": "FSMVÜ İdare Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "fatih-sultan__idare-hukuku-donem-2",
+      "title": "FSMVÜ İdare Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "fatih-sultan__idare-hukuku-yillik",
+      "title": "FSMVÜ İdare Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "karadeniz-teknik__idare-hukuku-donem-1",
+      "title": "KTÜ İdare Hukuku 1. Dönem (Güz) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "karadeniz-teknik__idare-hukuku-donem-2",
+      "title": "KTÜ İdare Hukuku 2. Dönem (Bahar) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "karadeniz-teknik__idare-hukuku-yillik",
+      "title": "KTÜ İdare Hukuku Yıllık (Tam paket) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "ataturk__idare-hukuku-donem-1",
+      "title": "Atatürk İdare Hukuku 1. Dönem (Güz) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "ataturk__idare-hukuku-donem-2",
+      "title": "Atatürk İdare Hukuku 2. Dönem (Bahar) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "ataturk__idare-hukuku-yillik",
+      "title": "Atatürk İdare Hukuku Yıllık (Tam paket) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "inonu__idare-hukuku-donem-1",
+      "title": "İnönü İdare Hukuku 1. Dönem (Güz) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "inonu__idare-hukuku-donem-2",
+      "title": "İnönü İdare Hukuku 2. Dönem (Bahar) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "inonu__idare-hukuku-yillik",
+      "title": "İnönü İdare Hukuku Yıllık (Tam paket) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "dicle__idare-hukuku-donem-1",
+      "title": "Dicle İdare Hukuku 1. Dönem (Güz) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "dicle__idare-hukuku-donem-2",
+      "title": "Dicle İdare Hukuku 2. Dönem (Bahar) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "dicle__idare-hukuku-yillik",
+      "title": "Dicle İdare Hukuku Yıllık (Tam paket) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "firat__idare-hukuku-donem-1",
+      "title": "Fırat İdare Hukuku 1. Dönem (Güz) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "firat__idare-hukuku-donem-2",
+      "title": "Fırat İdare Hukuku 2. Dönem (Bahar) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "firat__idare-hukuku-yillik",
+      "title": "Fırat İdare Hukuku Yıllık (Tam paket) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "gaziantep__idare-hukuku-donem-1",
+      "title": "GAÜN İdare Hukuku 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "gaziantep__idare-hukuku-donem-2",
+      "title": "GAÜN İdare Hukuku 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "gaziantep__idare-hukuku-yillik",
+      "title": "GAÜN İdare Hukuku Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "suleyman-demirel__idare-hukuku-donem-1",
+      "title": "SDÜ İdare Hukuku 1. Dönem (Güz) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "suleyman-demirel__idare-hukuku-donem-2",
+      "title": "SDÜ İdare Hukuku 2. Dönem (Bahar) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "suleyman-demirel__idare-hukuku-yillik",
+      "title": "SDÜ İdare Hukuku Yıllık (Tam paket) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "pamukkale__idare-hukuku-donem-1",
+      "title": "PAÜ İdare Hukuku 1. Dönem (Güz) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "pamukkale__idare-hukuku-donem-2",
+      "title": "PAÜ İdare Hukuku 2. Dönem (Bahar) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "pamukkale__idare-hukuku-yillik",
+      "title": "PAÜ İdare Hukuku Yıllık (Tam paket) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "mugla__idare-hukuku-donem-1",
+      "title": "MSKU İdare Hukuku 1. Dönem (Güz) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "mugla__idare-hukuku-donem-2",
+      "title": "MSKU İdare Hukuku 2. Dönem (Bahar) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "mugla__idare-hukuku-yillik",
+      "title": "MSKU İdare Hukuku Yıllık (Tam paket) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "sakarya__idare-hukuku-donem-1",
+      "title": "SAÜ İdare Hukuku 1. Dönem (Güz) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "sakarya__idare-hukuku-donem-2",
+      "title": "SAÜ İdare Hukuku 2. Dönem (Bahar) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "sakarya__idare-hukuku-yillik",
+      "title": "SAÜ İdare Hukuku Yıllık (Tam paket) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "kocaeli__idare-hukuku-donem-1",
+      "title": "KOÜ İdare Hukuku 1. Dönem (Güz) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "kocaeli__idare-hukuku-donem-2",
+      "title": "KOÜ İdare Hukuku 2. Dönem (Bahar) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "kocaeli__idare-hukuku-yillik",
+      "title": "KOÜ İdare Hukuku Yıllık (Tam paket) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "trakya__idare-hukuku-donem-1",
+      "title": "Trakya İdare Hukuku 1. Dönem (Güz) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "trakya__idare-hukuku-donem-2",
+      "title": "Trakya İdare Hukuku 2. Dönem (Bahar) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "trakya__idare-hukuku-yillik",
+      "title": "Trakya İdare Hukuku Yıllık (Tam paket) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "canakkale__idare-hukuku-donem-1",
+      "title": "ÇOMÜ İdare Hukuku 1. Dönem (Güz) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "canakkale__idare-hukuku-donem-2",
+      "title": "ÇOMÜ İdare Hukuku 2. Dönem (Bahar) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "canakkale__idare-hukuku-yillik",
+      "title": "ÇOMÜ İdare Hukuku Yıllık (Tam paket) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "balikesir__idare-hukuku-donem-1",
+      "title": "BAÜN İdare Hukuku 1. Dönem (Güz) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "balikesir__idare-hukuku-donem-2",
+      "title": "BAÜN İdare Hukuku 2. Dönem (Bahar) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "balikesir__idare-hukuku-yillik",
+      "title": "BAÜN İdare Hukuku Yıllık (Tam paket) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "afyon__idare-hukuku-donem-1",
+      "title": "AKÜ İdare Hukuku 1. Dönem (Güz) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "afyon__idare-hukuku-donem-2",
+      "title": "AKÜ İdare Hukuku 2. Dönem (Bahar) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "afyon__idare-hukuku-yillik",
+      "title": "AKÜ İdare Hukuku Yıllık (Tam paket) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "dumlupinar__idare-hukuku-donem-1",
+      "title": "DPÜ İdare Hukuku 1. Dönem (Güz) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "dumlupinar__idare-hukuku-donem-2",
+      "title": "DPÜ İdare Hukuku 2. Dönem (Bahar) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "dumlupinar__idare-hukuku-yillik",
+      "title": "DPÜ İdare Hukuku Yıllık (Tam paket) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "eskisehir-osmangazi__idare-hukuku-donem-1",
+      "title": "ESOGÜ İdare Hukuku 1. Dönem (Güz) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "eskisehir-osmangazi__idare-hukuku-donem-2",
+      "title": "ESOGÜ İdare Hukuku 2. Dönem (Bahar) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "eskisehir-osmangazi__idare-hukuku-yillik",
+      "title": "ESOGÜ İdare Hukuku Yıllık (Tam paket) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "sivas-cumhuriyet__idare-hukuku-donem-1",
+      "title": "SCÜ İdare Hukuku 1. Dönem (Güz) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "sivas-cumhuriyet__idare-hukuku-donem-2",
+      "title": "SCÜ İdare Hukuku 2. Dönem (Bahar) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "sivas-cumhuriyet__idare-hukuku-yillik",
+      "title": "SCÜ İdare Hukuku Yıllık (Tam paket) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "tokat__idare-hukuku-donem-1",
+      "title": "TOGÜ İdare Hukuku 1. Dönem (Güz) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "tokat__idare-hukuku-donem-2",
+      "title": "TOGÜ İdare Hukuku 2. Dönem (Bahar) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "tokat__idare-hukuku-yillik",
+      "title": "TOGÜ İdare Hukuku Yıllık (Tam paket) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "yozgat__idare-hukuku-donem-1",
+      "title": "Bozok İdare Hukuku 1. Dönem (Güz) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "yozgat__idare-hukuku-donem-2",
+      "title": "Bozok İdare Hukuku 2. Dönem (Bahar) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "yozgat__idare-hukuku-yillik",
+      "title": "Bozok İdare Hukuku Yıllık (Tam paket) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "kirsehir__idare-hukuku-donem-1",
+      "title": "AHİEVRAN İdare Hukuku 1. Dönem (Güz) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "kirsehir__idare-hukuku-donem-2",
+      "title": "AHİEVRAN İdare Hukuku 2. Dönem (Bahar) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "kirsehir__idare-hukuku-yillik",
+      "title": "AHİEVRAN İdare Hukuku Yıllık (Tam paket) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "nevsehir__idare-hukuku-donem-1",
+      "title": "NEVÜ İdare Hukuku 1. Dönem (Güz) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "nevsehir__idare-hukuku-donem-2",
+      "title": "NEVÜ İdare Hukuku 2. Dönem (Bahar) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "nevsehir__idare-hukuku-yillik",
+      "title": "NEVÜ İdare Hukuku Yıllık (Tam paket) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "mersin__idare-hukuku-donem-1",
+      "title": "MEÜ İdare Hukuku 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "mersin__idare-hukuku-donem-2",
+      "title": "MEÜ İdare Hukuku 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "mersin__idare-hukuku-yillik",
+      "title": "MEÜ İdare Hukuku Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "hatay__idare-hukuku-donem-1",
+      "title": "MKÜ İdare Hukuku 1. Dönem (Güz) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "hatay__idare-hukuku-donem-2",
+      "title": "MKÜ İdare Hukuku 2. Dönem (Bahar) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "hatay__idare-hukuku-yillik",
+      "title": "MKÜ İdare Hukuku Yıllık (Tam paket) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "kahramanmaras__idare-hukuku-donem-1",
+      "title": "KSÜ İdare Hukuku 1. Dönem (Güz) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "kahramanmaras__idare-hukuku-donem-2",
+      "title": "KSÜ İdare Hukuku 2. Dönem (Bahar) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "kahramanmaras__idare-hukuku-yillik",
+      "title": "KSÜ İdare Hukuku Yıllık (Tam paket) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "osmaniye__idare-hukuku-donem-1",
+      "title": "OKÜ İdare Hukuku 1. Dönem (Güz) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "osmaniye__idare-hukuku-donem-2",
+      "title": "OKÜ İdare Hukuku 2. Dönem (Bahar) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "osmaniye__idare-hukuku-yillik",
+      "title": "OKÜ İdare Hukuku Yıllık (Tam paket) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "samsun__idare-hukuku-donem-1",
+      "title": "OMÜ İdare Hukuku 1. Dönem (Güz) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "samsun__idare-hukuku-donem-2",
+      "title": "OMÜ İdare Hukuku 2. Dönem (Bahar) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "samsun__idare-hukuku-yillik",
+      "title": "OMÜ İdare Hukuku Yıllık (Tam paket) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "ordu__idare-hukuku-donem-1",
+      "title": "ODÜ İdare Hukuku 1. Dönem (Güz) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "ordu__idare-hukuku-donem-2",
+      "title": "ODÜ İdare Hukuku 2. Dönem (Bahar) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "ordu__idare-hukuku-yillik",
+      "title": "ODÜ İdare Hukuku Yıllık (Tam paket) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "giresun__idare-hukuku-donem-1",
+      "title": "GÜ İdare Hukuku 1. Dönem (Güz) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "giresun__idare-hukuku-donem-2",
+      "title": "GÜ İdare Hukuku 2. Dönem (Bahar) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "giresun__idare-hukuku-yillik",
+      "title": "GÜ İdare Hukuku Yıllık (Tam paket) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "rize__idare-hukuku-donem-1",
+      "title": "RTEÜ İdare Hukuku 1. Dönem (Güz) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "rize__idare-hukuku-donem-2",
+      "title": "RTEÜ İdare Hukuku 2. Dönem (Bahar) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "rize__idare-hukuku-yillik",
+      "title": "RTEÜ İdare Hukuku Yıllık (Tam paket) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "artvin__idare-hukuku-donem-1",
+      "title": "AÇÜ İdare Hukuku 1. Dönem (Güz) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "artvin__idare-hukuku-donem-2",
+      "title": "AÇÜ İdare Hukuku 2. Dönem (Bahar) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "artvin__idare-hukuku-yillik",
+      "title": "AÇÜ İdare Hukuku Yıllık (Tam paket) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "van-yyu__idare-hukuku-donem-1",
+      "title": "YYÜ İdare Hukuku 1. Dönem (Güz) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "van-yyu__idare-hukuku-donem-2",
+      "title": "YYÜ İdare Hukuku 2. Dönem (Bahar) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "van-yyu__idare-hukuku-yillik",
+      "title": "YYÜ İdare Hukuku Yıllık (Tam paket) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "agri__idare-hukuku-donem-1",
+      "title": "AİÇÜ İdare Hukuku 1. Dönem (Güz) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "agri__idare-hukuku-donem-2",
+      "title": "AİÇÜ İdare Hukuku 2. Dönem (Bahar) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "agri__idare-hukuku-yillik",
+      "title": "AİÇÜ İdare Hukuku Yıllık (Tam paket) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "kars__idare-hukuku-donem-1",
+      "title": "Kafkas İdare Hukuku 1. Dönem (Güz) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "kars__idare-hukuku-donem-2",
+      "title": "Kafkas İdare Hukuku 2. Dönem (Bahar) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "kars__idare-hukuku-yillik",
+      "title": "Kafkas İdare Hukuku Yıllık (Tam paket) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "erzincan__idare-hukuku-donem-1",
+      "title": "EBYÜ İdare Hukuku 1. Dönem (Güz) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "erzincan__idare-hukuku-donem-2",
+      "title": "EBYÜ İdare Hukuku 2. Dönem (Bahar) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "erzincan__idare-hukuku-yillik",
+      "title": "EBYÜ İdare Hukuku Yıllık (Tam paket) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "bayburt__idare-hukuku-donem-1",
+      "title": "Bayburt İdare Hukuku 1. Dönem (Güz) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "bayburt__idare-hukuku-donem-2",
+      "title": "Bayburt İdare Hukuku 2. Dönem (Bahar) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "bayburt__idare-hukuku-yillik",
+      "title": "Bayburt İdare Hukuku Yıllık (Tam paket) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "gumushane__idare-hukuku-donem-1",
+      "title": "Gümüşhane İdare Hukuku 1. Dönem (Güz) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "gumushane__idare-hukuku-donem-2",
+      "title": "Gümüşhane İdare Hukuku 2. Dönem (Bahar) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "gumushane__idare-hukuku-yillik",
+      "title": "Gümüşhane İdare Hukuku Yıllık (Tam paket) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "bingol__idare-hukuku-donem-1",
+      "title": "Bingöl İdare Hukuku 1. Dönem (Güz) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "bingol__idare-hukuku-donem-2",
+      "title": "Bingöl İdare Hukuku 2. Dönem (Bahar) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "bingol__idare-hukuku-yillik",
+      "title": "Bingöl İdare Hukuku Yıllık (Tam paket) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "mus__idare-hukuku-donem-1",
+      "title": "Muş İdare Hukuku 1. Dönem (Güz) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "mus__idare-hukuku-donem-2",
+      "title": "Muş İdare Hukuku 2. Dönem (Bahar) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "mus__idare-hukuku-yillik",
+      "title": "Muş İdare Hukuku Yıllık (Tam paket) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "hakkari__idare-hukuku-donem-1",
+      "title": "Hakkâri İdare Hukuku 1. Dönem (Güz) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "hakkari__idare-hukuku-donem-2",
+      "title": "Hakkâri İdare Hukuku 2. Dönem (Bahar) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "hakkari__idare-hukuku-yillik",
+      "title": "Hakkâri İdare Hukuku Yıllık (Tam paket) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "sirnak__idare-hukuku-donem-1",
+      "title": "Şırnak İdare Hukuku 1. Dönem (Güz) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "sirnak__idare-hukuku-donem-2",
+      "title": "Şırnak İdare Hukuku 2. Dönem (Bahar) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "sirnak__idare-hukuku-yillik",
+      "title": "Şırnak İdare Hukuku Yıllık (Tam paket) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "mardin__idare-hukuku-donem-1",
+      "title": "Artuklu İdare Hukuku 1. Dönem (Güz) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "mardin__idare-hukuku-donem-2",
+      "title": "Artuklu İdare Hukuku 2. Dönem (Bahar) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "mardin__idare-hukuku-yillik",
+      "title": "Artuklu İdare Hukuku Yıllık (Tam paket) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "batman__idare-hukuku-donem-1",
+      "title": "Batman İdare Hukuku 1. Dönem (Güz) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "batman__idare-hukuku-donem-2",
+      "title": "Batman İdare Hukuku 2. Dönem (Bahar) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "batman__idare-hukuku-yillik",
+      "title": "Batman İdare Hukuku Yıllık (Tam paket) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "siirt__idare-hukuku-donem-1",
+      "title": "Siirt İdare Hukuku 1. Dönem (Güz) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "siirt__idare-hukuku-donem-2",
+      "title": "Siirt İdare Hukuku 2. Dönem (Bahar) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "siirt__idare-hukuku-yillik",
+      "title": "Siirt İdare Hukuku Yıllık (Tam paket) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "adiyaman__idare-hukuku-donem-1",
+      "title": "Adıyaman İdare Hukuku 1. Dönem (Güz) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "adiyaman__idare-hukuku-donem-2",
+      "title": "Adıyaman İdare Hukuku 2. Dönem (Bahar) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "adiyaman__idare-hukuku-yillik",
+      "title": "Adıyaman İdare Hukuku Yıllık (Tam paket) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "kilis__idare-hukuku-donem-1",
+      "title": "Kilis İdare Hukuku 1. Dönem (Güz) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "kilis__idare-hukuku-donem-2",
+      "title": "Kilis İdare Hukuku 2. Dönem (Bahar) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "kilis__idare-hukuku-yillik",
+      "title": "Kilis İdare Hukuku Yıllık (Tam paket) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "igdir__idare-hukuku-donem-1",
+      "title": "Iğdır İdare Hukuku 1. Dönem (Güz) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "igdir__idare-hukuku-donem-2",
+      "title": "Iğdır İdare Hukuku 2. Dönem (Bahar) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "igdir__idare-hukuku-yillik",
+      "title": "Iğdır İdare Hukuku Yıllık (Tam paket) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "ardahan__idare-hukuku-donem-1",
+      "title": "Ardahan İdare Hukuku 1. Dönem (Güz) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "ardahan__idare-hukuku-donem-2",
+      "title": "Ardahan İdare Hukuku 2. Dönem (Bahar) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "ardahan__idare-hukuku-yillik",
+      "title": "Ardahan İdare Hukuku Yıllık (Tam paket) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "bilecik__idare-hukuku-donem-1",
+      "title": "BŞEÜ İdare Hukuku 1. Dönem (Güz) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "bilecik__idare-hukuku-donem-2",
+      "title": "BŞEÜ İdare Hukuku 2. Dönem (Bahar) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "bilecik__idare-hukuku-yillik",
+      "title": "BŞEÜ İdare Hukuku Yıllık (Tam paket) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "bolu__idare-hukuku-donem-1",
+      "title": "BAİBÜ İdare Hukuku 1. Dönem (Güz) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "bolu__idare-hukuku-donem-2",
+      "title": "BAİBÜ İdare Hukuku 2. Dönem (Bahar) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "bolu__idare-hukuku-yillik",
+      "title": "BAİBÜ İdare Hukuku Yıllık (Tam paket) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "duzce__idare-hukuku-donem-1",
+      "title": "Düzce İdare Hukuku 1. Dönem (Güz) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "duzce__idare-hukuku-donem-2",
+      "title": "Düzce İdare Hukuku 2. Dönem (Bahar) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "duzce__idare-hukuku-yillik",
+      "title": "Düzce İdare Hukuku Yıllık (Tam paket) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "zonguldak__idare-hukuku-donem-1",
+      "title": "BEÜN İdare Hukuku 1. Dönem (Güz) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "zonguldak__idare-hukuku-donem-2",
+      "title": "BEÜN İdare Hukuku 2. Dönem (Bahar) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "zonguldak__idare-hukuku-yillik",
+      "title": "BEÜN İdare Hukuku Yıllık (Tam paket) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "karabuk__idare-hukuku-donem-1",
+      "title": "KBÜ İdare Hukuku 1. Dönem (Güz) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "karabuk__idare-hukuku-donem-2",
+      "title": "KBÜ İdare Hukuku 2. Dönem (Bahar) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "karabuk__idare-hukuku-yillik",
+      "title": "KBÜ İdare Hukuku Yıllık (Tam paket) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "kastamonu__idare-hukuku-donem-1",
+      "title": "KÜ İdare Hukuku 1. Dönem (Güz) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "kastamonu__idare-hukuku-donem-2",
+      "title": "KÜ İdare Hukuku 2. Dönem (Bahar) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "kastamonu__idare-hukuku-yillik",
+      "title": "KÜ İdare Hukuku Yıllık (Tam paket) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "sinop__idare-hukuku-donem-1",
+      "title": "Sinop İdare Hukuku 1. Dönem (Güz) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "sinop__idare-hukuku-donem-2",
+      "title": "Sinop İdare Hukuku 2. Dönem (Bahar) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "sinop__idare-hukuku-yillik",
+      "title": "Sinop İdare Hukuku Yıllık (Tam paket) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "corum__idare-hukuku-donem-1",
+      "title": "Hitit İdare Hukuku 1. Dönem (Güz) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "corum__idare-hukuku-donem-2",
+      "title": "Hitit İdare Hukuku 2. Dönem (Bahar) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "corum__idare-hukuku-yillik",
+      "title": "Hitit İdare Hukuku Yıllık (Tam paket) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "amasya__idare-hukuku-donem-1",
+      "title": "Amasya İdare Hukuku 1. Dönem (Güz) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "amasya__idare-hukuku-donem-2",
+      "title": "Amasya İdare Hukuku 2. Dönem (Bahar) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "amasya__idare-hukuku-yillik",
+      "title": "Amasya İdare Hukuku Yıllık (Tam paket) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "cankiri__idare-hukuku-donem-1",
+      "title": "Karatekin İdare Hukuku 1. Dönem (Güz) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "cankiri__idare-hukuku-donem-2",
+      "title": "Karatekin İdare Hukuku 2. Dönem (Bahar) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "cankiri__idare-hukuku-yillik",
+      "title": "Karatekin İdare Hukuku Yıllık (Tam paket) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "kirikkale__idare-hukuku-donem-1",
+      "title": "Kırıkkale İdare Hukuku 1. Dönem (Güz) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "kirikkale__idare-hukuku-donem-2",
+      "title": "Kırıkkale İdare Hukuku 2. Dönem (Bahar) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "kirikkale__idare-hukuku-yillik",
+      "title": "Kırıkkale İdare Hukuku Yıllık (Tam paket) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "aksaray__idare-hukuku-donem-1",
+      "title": "Aksaray İdare Hukuku 1. Dönem (Güz) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "aksaray__idare-hukuku-donem-2",
+      "title": "Aksaray İdare Hukuku 2. Dönem (Bahar) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "aksaray__idare-hukuku-yillik",
+      "title": "Aksaray İdare Hukuku Yıllık (Tam paket) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "nigde__idare-hukuku-donem-1",
+      "title": "ÖHÜ İdare Hukuku 1. Dönem (Güz) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "nigde__idare-hukuku-donem-2",
+      "title": "ÖHÜ İdare Hukuku 2. Dönem (Bahar) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "nigde__idare-hukuku-yillik",
+      "title": "ÖHÜ İdare Hukuku Yıllık (Tam paket) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "konya-teknik__idare-hukuku-donem-1",
+      "title": "NEÜ İdare Hukuku 1. Dönem (Güz) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "konya-teknik__idare-hukuku-donem-2",
+      "title": "NEÜ İdare Hukuku 2. Dönem (Bahar) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "konya-teknik__idare-hukuku-yillik",
+      "title": "NEÜ İdare Hukuku Yıllık (Tam paket) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "karaman__idare-hukuku-donem-1",
+      "title": "KMÜ İdare Hukuku 1. Dönem (Güz) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "karaman__idare-hukuku-donem-2",
+      "title": "KMÜ İdare Hukuku 2. Dönem (Bahar) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "karaman__idare-hukuku-yillik",
+      "title": "KMÜ İdare Hukuku Yıllık (Tam paket) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "usak__idare-hukuku-donem-1",
+      "title": "Uşak İdare Hukuku 1. Dönem (Güz) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "usak__idare-hukuku-donem-2",
+      "title": "Uşak İdare Hukuku 2. Dönem (Bahar) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "usak__idare-hukuku-yillik",
+      "title": "Uşak İdare Hukuku Yıllık (Tam paket) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "manisa__idare-hukuku-donem-1",
+      "title": "MCBÜ İdare Hukuku 1. Dönem (Güz) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "manisa__idare-hukuku-donem-2",
+      "title": "MCBÜ İdare Hukuku 2. Dönem (Bahar) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "manisa__idare-hukuku-yillik",
+      "title": "MCBÜ İdare Hukuku Yıllık (Tam paket) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "aydin-adu__idare-hukuku-donem-1",
+      "title": "ADÜ İdare Hukuku 1. Dönem (Güz) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "aydin-adu__idare-hukuku-donem-2",
+      "title": "ADÜ İdare Hukuku 2. Dönem (Bahar) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "aydin-adu__idare-hukuku-yillik",
+      "title": "ADÜ İdare Hukuku Yıllık (Tam paket) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "tekirdag__idare-hukuku-donem-1",
+      "title": "NKÜ İdare Hukuku 1. Dönem (Güz) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "tekirdag__idare-hukuku-donem-2",
+      "title": "NKÜ İdare Hukuku 2. Dönem (Bahar) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "tekirdag__idare-hukuku-yillik",
+      "title": "NKÜ İdare Hukuku Yıllık (Tam paket) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "kirklareli__idare-hukuku-donem-1",
+      "title": "Kırklareli İdare Hukuku 1. Dönem (Güz) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "kirklareli__idare-hukuku-donem-2",
+      "title": "Kırklareli İdare Hukuku 2. Dönem (Bahar) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "kirklareli__idare-hukuku-yillik",
+      "title": "Kırklareli İdare Hukuku Yıllık (Tam paket) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "atilim__idare-hukuku-donem-1",
+      "title": "Atılım İdare Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "atilim__idare-hukuku-donem-2",
+      "title": "Atılım İdare Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "atilim__idare-hukuku-yillik",
+      "title": "Atılım İdare Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "cankaya__idare-hukuku-donem-1",
+      "title": "Çankaya İdare Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "cankaya__idare-hukuku-donem-2",
+      "title": "Çankaya İdare Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "cankaya__idare-hukuku-yillik",
+      "title": "Çankaya İdare Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "ufuk__idare-hukuku-donem-1",
+      "title": "Ufuk İdare Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "ufuk__idare-hukuku-donem-2",
+      "title": "Ufuk İdare Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "ufuk__idare-hukuku-yillik",
+      "title": "Ufuk İdare Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "yasar__idare-hukuku-donem-1",
+      "title": "Yaşar İdare Hukuku 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "yasar__idare-hukuku-donem-2",
+      "title": "Yaşar İdare Hukuku 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "yasar__idare-hukuku-yillik",
+      "title": "Yaşar İdare Hukuku Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "izmir-ekonomi__idare-hukuku-donem-1",
+      "title": "İEÜ İdare Hukuku 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "izmir-ekonomi__idare-hukuku-donem-2",
+      "title": "İEÜ İdare Hukuku 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "izmir-ekonomi__idare-hukuku-yillik",
+      "title": "İEÜ İdare Hukuku Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "tinaztepe__idare-hukuku-donem-1",
+      "title": "Tınaztepe İdare Hukuku 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "tinaztepe__idare-hukuku-donem-2",
+      "title": "Tınaztepe İdare Hukuku 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "tinaztepe__idare-hukuku-yillik",
+      "title": "Tınaztepe İdare Hukuku Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "asbu-vakif__idare-hukuku-donem-1",
+      "title": "ABÜ İdare Hukuku 1. Dönem (Güz) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "asbu-vakif__idare-hukuku-donem-2",
+      "title": "ABÜ İdare Hukuku 2. Dönem (Bahar) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "asbu-vakif__idare-hukuku-yillik",
+      "title": "ABÜ İdare Hukuku Yıllık (Tam paket) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "hasan-kalyoncu__idare-hukuku-donem-1",
+      "title": "HKÜ İdare Hukuku 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "hasan-kalyoncu__idare-hukuku-donem-2",
+      "title": "HKÜ İdare Hukuku 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "hasan-kalyoncu__idare-hukuku-yillik",
+      "title": "HKÜ İdare Hukuku Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "sanko__idare-hukuku-donem-1",
+      "title": "Sanko İdare Hukuku 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "sanko__idare-hukuku-donem-2",
+      "title": "Sanko İdare Hukuku 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "sanko__idare-hukuku-yillik",
+      "title": "Sanko İdare Hukuku Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "toros__idare-hukuku-donem-1",
+      "title": "Toros İdare Hukuku 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "toros__idare-hukuku-donem-2",
+      "title": "Toros İdare Hukuku 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "toros__idare-hukuku-yillik",
+      "title": "Toros İdare Hukuku Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "idare-hukuku-donem-1",
+      "slug": "cag__idare-hukuku-donem-1",
+      "title": "Çağ İdare Hukuku 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/idare-hukuku-donem-1",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "idare-hukuku-donem-2",
+      "slug": "cag__idare-hukuku-donem-2",
+      "title": "Çağ İdare Hukuku 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/idare-hukuku-donem-2",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "idare-hukuku-yillik",
+      "slug": "cag__idare-hukuku-yillik",
+      "title": "Çağ İdare Hukuku Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/idare-hukuku-yillik",
+      "variantOf": "idare-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
     }
   ],
   "borclarGenelTripleAt": "2026-07-29T20:05:58.703Z",
@@ -76223,5 +79463,6 @@
   "ticariIsletmeTripleAt": "2026-07-29T20:50:03.289Z",
   "cezaGenelTripleAt": "2026-07-29T20:55:24.643Z",
   "cezaOzelTripleAt": "2026-07-29T20:55:26.055Z",
-  "cmkTripleAt": "2026-07-29T20:58:27.953Z"
+  "cmkTripleAt": "2026-07-29T20:58:27.953Z",
+  "idareHukukuTripleAt": "2026-07-29T21:01:24.134Z"
 }

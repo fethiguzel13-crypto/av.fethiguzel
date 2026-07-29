@@ -605,6 +605,29 @@ export function DersNotuView({
               </p>
             ),
           },
+          {
+            match:
+              note.variantOf === 'idare-hukuku' ||
+              note.courseCode === 'idare-hukuku' ||
+              note.courseCode.startsWith('idare-hukuku-'),
+            title: 'İdare Hukuku · üç paket',
+            items: [
+              { code: 'idare-hukuku-donem-1', label: '1. Dönem (Güz)', desc: 'Teşkilat · işlem · unsur' },
+              { code: 'idare-hukuku-donem-2', label: '2. Dönem (Bahar)', desc: 'Kolluk · sorumluluk · hizmet' },
+              { code: 'idare-hukuku-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
+            ],
+            footer: (
+              <p className="text-[11px] text-charcoal/45 mt-3 m-0">
+                İptal / tam yargı usulü için:{' '}
+                <Link
+                  href={`/ders-notlari/${note.uniSlug}/idari-yargilama`}
+                  className="text-accent font-semibold hover:underline"
+                >
+                  İdari Yargılama
+                </Link>
+              </p>
+            ),
+          },
         ];
         const activePacks = packs.filter((p) => p.match);
         if (!activePacks.length) return null;
@@ -1210,6 +1233,23 @@ export function UniHubView({ hub }: { hub: UniHubContent }) {
               { code: 'cmk-donem-1', title: '1. Dönem (Güz)' },
               { code: 'cmk-donem-2', title: '2. Dönem (Bahar)' },
               { code: 'cmk-yillik', title: 'Yıllık tam not' },
+            ],
+          },
+          {
+            show: hub.courses.some(
+              (c) =>
+                String(c.code).startsWith('idare-hukuku') ||
+                c.code === 'idare-hukuku'
+            ),
+            title: 'İdare Hukuku — 1. dönem · 2. dönem · yıllık',
+            desc: 'İşlem–kolluk–sorumluluk–kamu hizmeti… üç premium not + PDF.',
+            border: 'border-accent/20 bg-accent/[0.04]',
+            itemBorder: 'border-accent/25',
+            accent: 'text-accent',
+            items: [
+              { code: 'idare-hukuku-donem-1', title: '1. Dönem (Güz)' },
+              { code: 'idare-hukuku-donem-2', title: '2. Dönem (Bahar)' },
+              { code: 'idare-hukuku-yillik', title: 'Yıllık tam not' },
             ],
           },
         ]

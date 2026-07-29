@@ -600,6 +600,30 @@
         "href": "/ders-notlari/ankara-yildirim-beyazit/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -1223,6 +1247,30 @@
         "href": "/ders-notlari/ankara/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/ankara/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/ankara/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/ankara/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -1847,6 +1895,30 @@
         "href": "/ders-notlari/istanbul/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/istanbul/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/istanbul/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/istanbul/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -2469,6 +2541,30 @@
         "href": "/ders-notlari/marmara/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/marmara/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/marmara/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/marmara/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -3093,6 +3189,30 @@
         "href": "/ders-notlari/galatasaray/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/galatasaray/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/galatasaray/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/galatasaray/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -3716,6 +3836,30 @@
         "href": "/ders-notlari/dokuz-eylul/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/dokuz-eylul/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/dokuz-eylul/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/dokuz-eylul/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -4338,6 +4482,30 @@
         "href": "/ders-notlari/hacettepe/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/hacettepe/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/hacettepe/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/hacettepe/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -4961,6 +5129,30 @@
         "href": "/ders-notlari/ankara-hacibayram/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/ankara-hacibayram/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/ankara-hacibayram/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/ankara-hacibayram/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -5583,6 +5775,30 @@
         "href": "/ders-notlari/bilkent/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/bilkent/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/bilkent/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/bilkent/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -6206,6 +6422,30 @@
         "href": "/ders-notlari/koc/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/koc/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/koc/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/koc/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -6829,6 +7069,30 @@
         "href": "/ders-notlari/tobb-etu/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/tobb-etu/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/tobb-etu/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/tobb-etu/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -7451,6 +7715,30 @@
         "href": "/ders-notlari/bogazici/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/bogazici/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/bogazici/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/bogazici/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -8073,6 +8361,30 @@
         "href": "/ders-notlari/ege/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/ege/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/ege/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/ege/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -8695,6 +9007,30 @@
         "href": "/ders-notlari/akdeniz/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/akdeniz/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/akdeniz/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/akdeniz/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -9317,6 +9653,30 @@
         "href": "/ders-notlari/selcuk/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/selcuk/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/selcuk/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/selcuk/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -9939,6 +10299,30 @@
         "href": "/ders-notlari/erciyes/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/erciyes/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/erciyes/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/erciyes/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -10562,6 +10946,30 @@
         "href": "/ders-notlari/uludag/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/uludag/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/uludag/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/uludag/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -11184,6 +11592,30 @@
         "href": "/ders-notlari/cukurova/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/cukurova/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/cukurova/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/cukurova/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -11806,6 +12238,30 @@
         "href": "/ders-notlari/anadolu/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/anadolu/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/anadolu/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/anadolu/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -12429,6 +12885,30 @@
         "href": "/ders-notlari/gazi-ankara/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/gazi-ankara/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/gazi-ankara/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/gazi-ankara/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -13052,6 +13532,30 @@
         "href": "/ders-notlari/yildiz-teknik/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/yildiz-teknik/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/yildiz-teknik/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/yildiz-teknik/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -13674,6 +14178,30 @@
         "href": "/ders-notlari/istanbul-medeniyet/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/istanbul-medeniyet/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/istanbul-medeniyet/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/istanbul-medeniyet/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -14297,6 +14825,30 @@
         "href": "/ders-notlari/bahcesehir/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/bahcesehir/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/bahcesehir/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/bahcesehir/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -14919,6 +15471,30 @@
         "href": "/ders-notlari/yeditepe/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/yeditepe/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/yeditepe/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/yeditepe/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -15541,6 +16117,30 @@
         "href": "/ders-notlari/ozyegin/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/ozyegin/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/ozyegin/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/ozyegin/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -16163,6 +16763,30 @@
         "href": "/ders-notlari/kadir-has/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/kadir-has/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/kadir-has/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/kadir-has/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -16785,6 +17409,30 @@
         "href": "/ders-notlari/istanbul-bilgi/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/istanbul-bilgi/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/istanbul-bilgi/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/istanbul-bilgi/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -17407,6 +18055,30 @@
         "href": "/ders-notlari/mehmet-akif/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/mehmet-akif/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/mehmet-akif/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/mehmet-akif/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -18029,6 +18701,30 @@
         "href": "/ders-notlari/altinbas/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/altinbas/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/altinbas/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/altinbas/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -18651,6 +19347,30 @@
         "href": "/ders-notlari/maltepe/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/maltepe/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/maltepe/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/maltepe/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -19273,6 +19993,30 @@
         "href": "/ders-notlari/dogus/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/dogus/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/dogus/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/dogus/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -19895,6 +20639,30 @@
         "href": "/ders-notlari/isik/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/isik/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/isik/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/isik/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -20517,6 +21285,30 @@
         "href": "/ders-notlari/okan/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/okan/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/okan/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/okan/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -21139,6 +21931,30 @@
         "href": "/ders-notlari/kultur/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/kultur/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/kultur/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/kultur/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -21761,6 +22577,30 @@
         "href": "/ders-notlari/aydin/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/aydin/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/aydin/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/aydin/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -22383,6 +23223,30 @@
         "href": "/ders-notlari/gelisim/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/gelisim/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/gelisim/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/gelisim/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -23005,6 +23869,30 @@
         "href": "/ders-notlari/topkapi/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/topkapi/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/topkapi/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/topkapi/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -23627,6 +24515,30 @@
         "href": "/ders-notlari/nisantasi/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/nisantasi/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/nisantasi/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/nisantasi/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -24249,6 +25161,30 @@
         "href": "/ders-notlari/beykent/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/beykent/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/beykent/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/beykent/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -24871,6 +25807,30 @@
         "href": "/ders-notlari/halic/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/halic/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/halic/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/halic/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -25493,6 +26453,30 @@
         "href": "/ders-notlari/fatih-sultan/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/fatih-sultan/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/fatih-sultan/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/fatih-sultan/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -26116,6 +27100,30 @@
         "href": "/ders-notlari/karadeniz-teknik/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/karadeniz-teknik/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/karadeniz-teknik/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/karadeniz-teknik/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -26739,6 +27747,30 @@
         "href": "/ders-notlari/ataturk/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/ataturk/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/ataturk/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/ataturk/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -27361,6 +28393,30 @@
         "href": "/ders-notlari/inonu/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/inonu/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/inonu/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/inonu/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -27983,6 +29039,30 @@
         "href": "/ders-notlari/dicle/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/dicle/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/dicle/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/dicle/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -28605,6 +29685,30 @@
         "href": "/ders-notlari/firat/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/firat/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/firat/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/firat/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -29227,6 +30331,30 @@
         "href": "/ders-notlari/gaziantep/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/gaziantep/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/gaziantep/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/gaziantep/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -29850,6 +30978,30 @@
         "href": "/ders-notlari/suleyman-demirel/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/suleyman-demirel/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/suleyman-demirel/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/suleyman-demirel/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -30472,6 +31624,30 @@
         "href": "/ders-notlari/pamukkale/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/pamukkale/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/pamukkale/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/pamukkale/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -31094,6 +32270,30 @@
         "href": "/ders-notlari/mugla/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/mugla/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/mugla/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/mugla/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -31716,6 +32916,30 @@
         "href": "/ders-notlari/sakarya/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/sakarya/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/sakarya/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/sakarya/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -32338,6 +33562,30 @@
         "href": "/ders-notlari/kocaeli/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/kocaeli/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/kocaeli/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/kocaeli/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -32960,6 +34208,30 @@
         "href": "/ders-notlari/trakya/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/trakya/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/trakya/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/trakya/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -33582,6 +34854,30 @@
         "href": "/ders-notlari/canakkale/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/canakkale/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/canakkale/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/canakkale/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -34204,6 +35500,30 @@
         "href": "/ders-notlari/balikesir/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/balikesir/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/balikesir/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/balikesir/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -34827,6 +36147,30 @@
         "href": "/ders-notlari/afyon/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/afyon/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/afyon/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/afyon/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -35449,6 +36793,30 @@
         "href": "/ders-notlari/dumlupinar/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/dumlupinar/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/dumlupinar/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/dumlupinar/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -36071,6 +37439,30 @@
         "href": "/ders-notlari/eskisehir-osmangazi/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/eskisehir-osmangazi/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/eskisehir-osmangazi/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/eskisehir-osmangazi/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -36694,6 +38086,30 @@
         "href": "/ders-notlari/sivas-cumhuriyet/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/sivas-cumhuriyet/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/sivas-cumhuriyet/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/sivas-cumhuriyet/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -37316,6 +38732,30 @@
         "href": "/ders-notlari/tokat/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/tokat/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/tokat/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/tokat/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -37938,6 +39378,30 @@
         "href": "/ders-notlari/yozgat/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/yozgat/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/yozgat/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/yozgat/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -38560,6 +40024,30 @@
         "href": "/ders-notlari/kirsehir/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/kirsehir/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/kirsehir/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/kirsehir/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -39182,6 +40670,30 @@
         "href": "/ders-notlari/nevsehir/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/nevsehir/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/nevsehir/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/nevsehir/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -39804,6 +41316,30 @@
         "href": "/ders-notlari/mersin/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/mersin/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/mersin/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/mersin/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -40427,6 +41963,30 @@
         "href": "/ders-notlari/hatay/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/hatay/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/hatay/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/hatay/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -41049,6 +42609,30 @@
         "href": "/ders-notlari/kahramanmaras/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/kahramanmaras/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/kahramanmaras/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/kahramanmaras/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -41671,6 +43255,30 @@
         "href": "/ders-notlari/osmaniye/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/osmaniye/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/osmaniye/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/osmaniye/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -42294,6 +43902,30 @@
         "href": "/ders-notlari/samsun/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/samsun/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/samsun/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/samsun/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -42916,6 +44548,30 @@
         "href": "/ders-notlari/ordu/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/ordu/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/ordu/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/ordu/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -43538,6 +45194,30 @@
         "href": "/ders-notlari/giresun/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/giresun/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/giresun/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/giresun/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -44161,6 +45841,30 @@
         "href": "/ders-notlari/rize/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/rize/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/rize/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/rize/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -44783,6 +46487,30 @@
         "href": "/ders-notlari/artvin/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/artvin/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/artvin/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/artvin/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -45407,6 +47135,30 @@
         "href": "/ders-notlari/van-yyu/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/van-yyu/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/van-yyu/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/van-yyu/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -46029,6 +47781,30 @@
         "href": "/ders-notlari/agri/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/agri/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/agri/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/agri/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -46651,6 +48427,30 @@
         "href": "/ders-notlari/kars/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/kars/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/kars/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/kars/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -47273,6 +49073,30 @@
         "href": "/ders-notlari/erzincan/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/erzincan/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/erzincan/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/erzincan/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -47895,6 +49719,30 @@
         "href": "/ders-notlari/bayburt/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/bayburt/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/bayburt/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/bayburt/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -48517,6 +50365,30 @@
         "href": "/ders-notlari/gumushane/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/gumushane/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/gumushane/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/gumushane/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -49139,6 +51011,30 @@
         "href": "/ders-notlari/bingol/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/bingol/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/bingol/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/bingol/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -49761,6 +51657,30 @@
         "href": "/ders-notlari/mus/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/mus/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/mus/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/mus/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -50383,6 +52303,30 @@
         "href": "/ders-notlari/hakkari/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/hakkari/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/hakkari/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/hakkari/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -51005,6 +52949,30 @@
         "href": "/ders-notlari/sirnak/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/sirnak/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/sirnak/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/sirnak/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -51628,6 +53596,30 @@
         "href": "/ders-notlari/mardin/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/mardin/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/mardin/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/mardin/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -52250,6 +54242,30 @@
         "href": "/ders-notlari/batman/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/batman/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/batman/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/batman/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -52872,6 +54888,30 @@
         "href": "/ders-notlari/siirt/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/siirt/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/siirt/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/siirt/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -53494,6 +55534,30 @@
         "href": "/ders-notlari/adiyaman/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/adiyaman/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/adiyaman/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/adiyaman/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -54116,6 +56180,30 @@
         "href": "/ders-notlari/kilis/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/kilis/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/kilis/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/kilis/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -54738,6 +56826,30 @@
         "href": "/ders-notlari/igdir/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/igdir/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/igdir/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/igdir/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -55360,6 +57472,30 @@
         "href": "/ders-notlari/ardahan/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/ardahan/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/ardahan/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/ardahan/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -55982,6 +58118,30 @@
         "href": "/ders-notlari/bilecik/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/bilecik/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/bilecik/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/bilecik/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -56605,6 +58765,30 @@
         "href": "/ders-notlari/bolu/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/bolu/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/bolu/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/bolu/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -57227,6 +59411,30 @@
         "href": "/ders-notlari/duzce/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/duzce/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/duzce/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/duzce/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -57849,6 +60057,30 @@
         "href": "/ders-notlari/zonguldak/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/zonguldak/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/zonguldak/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/zonguldak/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -58471,6 +60703,30 @@
         "href": "/ders-notlari/karabuk/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/karabuk/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/karabuk/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/karabuk/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -59093,6 +61349,30 @@
         "href": "/ders-notlari/kastamonu/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/kastamonu/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/kastamonu/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/kastamonu/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -59715,6 +61995,30 @@
         "href": "/ders-notlari/sinop/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/sinop/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/sinop/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/sinop/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -60338,6 +62642,30 @@
         "href": "/ders-notlari/corum/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/corum/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/corum/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/corum/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -60960,6 +63288,30 @@
         "href": "/ders-notlari/amasya/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/amasya/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/amasya/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/amasya/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -61582,6 +63934,30 @@
         "href": "/ders-notlari/cankiri/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/cankiri/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/cankiri/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/cankiri/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -62204,6 +64580,30 @@
         "href": "/ders-notlari/kirikkale/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/kirikkale/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/kirikkale/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/kirikkale/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -62826,6 +65226,30 @@
         "href": "/ders-notlari/aksaray/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/aksaray/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/aksaray/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/aksaray/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -63448,6 +65872,30 @@
         "href": "/ders-notlari/nigde/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/nigde/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/nigde/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/nigde/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -64070,6 +66518,30 @@
         "href": "/ders-notlari/konya-teknik/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/konya-teknik/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/konya-teknik/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/konya-teknik/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -64692,6 +67164,30 @@
         "href": "/ders-notlari/karaman/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/karaman/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/karaman/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/karaman/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -65314,6 +67810,30 @@
         "href": "/ders-notlari/usak/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/usak/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/usak/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/usak/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -65937,6 +68457,30 @@
         "href": "/ders-notlari/manisa/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/manisa/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/manisa/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/manisa/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -66559,6 +69103,30 @@
         "href": "/ders-notlari/aydin-adu/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/aydin-adu/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/aydin-adu/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/aydin-adu/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -67181,6 +69749,30 @@
         "href": "/ders-notlari/tekirdag/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/tekirdag/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/tekirdag/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/tekirdag/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -67803,6 +70395,30 @@
         "href": "/ders-notlari/kirklareli/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/kirklareli/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/kirklareli/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/kirklareli/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -68425,6 +71041,30 @@
         "href": "/ders-notlari/atilim/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/atilim/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/atilim/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/atilim/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -69047,6 +71687,30 @@
         "href": "/ders-notlari/cankaya/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/cankaya/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/cankaya/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/cankaya/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -69669,6 +72333,30 @@
         "href": "/ders-notlari/ufuk/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/ufuk/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/ufuk/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/ufuk/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -70291,6 +72979,30 @@
         "href": "/ders-notlari/yasar/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/yasar/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/yasar/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/yasar/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -70913,6 +73625,30 @@
         "href": "/ders-notlari/izmir-ekonomi/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/izmir-ekonomi/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/izmir-ekonomi/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/izmir-ekonomi/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -71535,6 +74271,30 @@
         "href": "/ders-notlari/tinaztepe/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/tinaztepe/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/tinaztepe/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/tinaztepe/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -72157,6 +74917,30 @@
         "href": "/ders-notlari/asbu-vakif/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/asbu-vakif/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/asbu-vakif/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/asbu-vakif/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -72779,6 +75563,30 @@
         "href": "/ders-notlari/hasan-kalyoncu/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/hasan-kalyoncu/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/hasan-kalyoncu/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/hasan-kalyoncu/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -73401,6 +76209,30 @@
         "href": "/ders-notlari/sanko/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/sanko/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/sanko/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/sanko/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -74023,6 +76855,30 @@
         "href": "/ders-notlari/toros/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/toros/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/toros/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/toros/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
@@ -74645,6 +77501,30 @@
         "href": "/ders-notlari/cag/cmk-yillik",
         "ready": true,
         "variantOf": "cmk"
+      },
+      {
+        "code": "idare-hukuku-donem-1",
+        "title": "İdare Hukuku — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/cag/idare-hukuku-donem-1",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-donem-2",
+        "title": "İdare Hukuku — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/cag/idare-hukuku-donem-2",
+        "ready": true,
+        "variantOf": "idare-hukuku"
+      },
+      {
+        "code": "idare-hukuku-yillik",
+        "title": "İdare Hukuku — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/cag/idare-hukuku-yillik",
+        "ready": true,
+        "variantOf": "idare-hukuku"
       }
     ],
     "seoParagraphs": [
