@@ -32,12 +32,15 @@ function getAllFiles(dirPath: string, arrayOfFiles: string[] = []) {
 
 const CORE_KANUN = new Set(['tbk', 'tmk', 'tck', 'hmk', 'iik', 'cmk', 'ttk', 'is-kanunu']);
 
-export default async function sitemap({
-  id,
-}: {
-  id: number | string;
+export default async function sitemap(props: {
+  id: Promise<string> | string | number;
 }): Promise<MetadataRoute.Sitemap> {
-  const sid = typeof id === 'string' ? parseInt(id, 10) : id;
+  // Next 16: generateSitemaps id is Promise<string>
+  const rawId = await Promise.resolve(props.id);
+  const sid = parseInt(String(rawId), 10);
+  if (!Number.isFinite(sid)) {
+    throw new Error(`[sitemap] invalid id: ${String(rawId)}`);
+  }
 
   // —— 0: Core site + vatandaş rehberi (arama görünürlüğü önceliği) ——
   if (sid === 0) {
