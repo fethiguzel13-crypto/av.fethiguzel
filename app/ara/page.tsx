@@ -1,11 +1,10 @@
 import type { Metadata } from 'next';
 import { Suspense } from 'react';
-import { redirect } from 'next/navigation';
 import Link from 'next/link';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import MevzuatSearch from '@/components/MevzuatSearch';
-import { parseMaddeQuery } from '@/lib/parse-madde-query';
+import AraExactRedirect from '@/components/AraExactRedirect';
 
 export const metadata: Metadata = {
   title: {
@@ -33,20 +32,12 @@ export const metadata: Metadata = {
   robots: { index: true, follow: true },
 };
 
-type Props = { searchParams: Promise<{ q?: string }> };
-
 /**
- * «TBK 13» gibi tam madde sorgularında Googlebot ve kullanıcıyı
- * doğrudan kanonik madde sayfasına alır (SSR, JS gerekmez).
+ * Arama sayfası — statik kabuk + istemci arama.
+ * «TBK 13» tam eşleşmesi: AraExactRedirect istemcide madde sayfasına gider.
+ * Googlebot için taranabilir hızlı linkler (SSR HTML).
  */
-export default async function AraPage({ searchParams }: Props) {
-  const sp = await searchParams;
-  const q = sp?.q?.trim() || '';
-  const exact = parseMaddeQuery(q);
-  if (exact) {
-    redirect(exact.href);
-  }
-
+export default function AraPage() {
   return (
     <div className="bg-cream min-h-screen font-sans">
       <Navbar />
@@ -75,7 +66,6 @@ export default async function AraPage({ searchParams }: Props) {
             <strong className="text-charcoal/70 font-semibold">kıdem</strong> —
             ilgili madde metinleri, şerhler ve hesaplama araçları listelenir.
           </p>
-          {/* Googlebot için taranabilir hızlı linkler (JS aramasından bağımsız) */}
           <nav
             className="mt-6 flex flex-wrap justify-center gap-2"
             aria-label="Sık aranan maddeler"
@@ -102,7 +92,8 @@ export default async function AraPage({ searchParams }: Props) {
           </nav>
         </header>
         <Suspense fallback={<div className="h-40 animate-pulse rounded-2xl bg-charcoal/5" />}>
-          <MevzuatSearch autoFocus initialQuery={q} />
+          <AraExactRedirect />
+          <MevzuatSearch autoFocus />
         </Suspense>
       </main>
       <Footer />
