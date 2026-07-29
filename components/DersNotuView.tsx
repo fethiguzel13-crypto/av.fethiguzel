@@ -529,6 +529,52 @@ export function DersNotuView({
               { code: 'ticari-isletme-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
             ],
           },
+          {
+            match:
+              note.variantOf === 'ceza-genel' ||
+              note.courseCode === 'ceza-genel' ||
+              note.courseCode.startsWith('ceza-genel-'),
+            title: 'Ceza Genel · üç paket',
+            items: [
+              { code: 'ceza-genel-donem-1', label: '1. Dönem (Güz)', desc: 'Tipiklik · kast · meşru savunma' },
+              { code: 'ceza-genel-donem-2', label: '2. Dönem (Bahar)', desc: 'Teşebbüs · iştirak · yaptırım' },
+              { code: 'ceza-genel-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
+            ],
+            footer: (
+              <p className="text-[11px] text-charcoal/45 mt-3 m-0">
+                Somut suç tipleri için:{' '}
+                <Link
+                  href={`/ders-notlari/${note.uniSlug}/ceza-ozel-yillik`}
+                  className="text-accent font-semibold hover:underline"
+                >
+                  Ceza Özel yıllık
+                </Link>
+              </p>
+            ),
+          },
+          {
+            match:
+              note.variantOf === 'ceza-ozel' ||
+              note.courseCode === 'ceza-ozel' ||
+              note.courseCode.startsWith('ceza-ozel-'),
+            title: 'Ceza Özel · üç paket',
+            items: [
+              { code: 'ceza-ozel-donem-1', label: '1. Dönem (Güz)', desc: 'Öldürme · yaralama · hürriyet' },
+              { code: 'ceza-ozel-donem-2', label: '2. Dönem (Bahar)', desc: 'Hırsızlık · dolandırıcılık · kamu' },
+              { code: 'ceza-ozel-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
+            ],
+            footer: (
+              <p className="text-[11px] text-charcoal/45 mt-3 m-0">
+                Suç teorisi için:{' '}
+                <Link
+                  href={`/ders-notlari/${note.uniSlug}/ceza-genel-yillik`}
+                  className="text-accent font-semibold hover:underline"
+                >
+                  Ceza Genel yıllık
+                </Link>
+              </p>
+            ),
+          },
         ];
         const activePacks = packs.filter((p) => p.match);
         if (!activePacks.length) return null;
@@ -1082,6 +1128,40 @@ export function UniHubView({ hub }: { hub: UniHubContent }) {
               { code: 'ticari-isletme-donem-1', title: '1. Dönem (Güz)' },
               { code: 'ticari-isletme-donem-2', title: '2. Dönem (Bahar)' },
               { code: 'ticari-isletme-yillik', title: 'Yıllık tam not' },
+            ],
+          },
+          {
+            show: hub.courses.some(
+              (c) =>
+                String(c.code).startsWith('ceza-genel') ||
+                c.code === 'ceza-genel'
+            ),
+            title: 'Ceza Genel — 1. dönem · 2. dönem · yıllık',
+            desc: 'Tipiklik–kast–teşebbüs–iştirak–yaptırım… üç premium not + PDF.',
+            border: 'border-charcoal/15 bg-charcoal/[0.03]',
+            itemBorder: 'border-charcoal/15',
+            accent: 'text-accent',
+            items: [
+              { code: 'ceza-genel-donem-1', title: '1. Dönem (Güz)' },
+              { code: 'ceza-genel-donem-2', title: '2. Dönem (Bahar)' },
+              { code: 'ceza-genel-yillik', title: 'Yıllık tam not' },
+            ],
+          },
+          {
+            show: hub.courses.some(
+              (c) =>
+                String(c.code).startsWith('ceza-ozel') ||
+                c.code === 'ceza-ozel'
+            ),
+            title: 'Ceza Özel — 1. dönem · 2. dönem · yıllık',
+            desc: 'Öldürme–hırsızlık–dolandırıcılık–kamu… üç premium not + PDF.',
+            border: 'border-accent/20 bg-accent/[0.04]',
+            itemBorder: 'border-accent/25',
+            accent: 'text-accent',
+            items: [
+              { code: 'ceza-ozel-donem-1', title: '1. Dönem (Güz)' },
+              { code: 'ceza-ozel-donem-2', title: '2. Dönem (Bahar)' },
+              { code: 'ceza-ozel-yillik', title: 'Yıllık tam not' },
             ],
           },
         ]

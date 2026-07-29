@@ -105,6 +105,12 @@ export default async function DersNotuPdfPage({ params }: Props) {
               'ticari-isletme-donem-1',
               'ticari-isletme-donem-2',
               'ticari-isletme-yillik',
+              'ceza-genel-donem-1',
+              'ceza-genel-donem-2',
+              'ceza-genel-yillik',
+              'ceza-ozel-donem-1',
+              'ceza-ozel-donem-2',
+              'ceza-ozel-yillik',
             ].map((code) => (
               <a
                 key={code}
