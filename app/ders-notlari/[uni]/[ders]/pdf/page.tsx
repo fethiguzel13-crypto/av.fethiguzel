@@ -41,16 +41,50 @@ export default async function DersNotuPdfPage({ params }: Props) {
   if (!note || !hub) notFound();
 
   return (
-    <div className="bg-white min-h-screen text-black">
-      <div className="max-w-3xl mx-auto px-6 py-10 print:py-4">
-        <p className="text-xs mb-4 print:hidden">
-          <strong>PDF için:</strong> Ctrl+P (Cmd+P) → “PDF olarak kaydet”.
-        </p>
+    <div className="bg-white min-h-screen text-black print:bg-white">
+      <style
+        dangerouslySetInnerHTML={{
+          __html: `
+            @media print {
+              .print\\:hidden, nav, footer, a[href].print-hide { display: none !important; }
+              body { background: white !important; }
+              a { color: black !important; text-decoration: none !important; }
+            }
+          `,
+        }}
+      />
+      <div className="max-w-3xl mx-auto px-6 py-10 print:py-4 print:px-0">
+        <div className="mb-6 rounded-xl border border-charcoal/15 bg-charcoal/[0.03] p-4 print:hidden">
+          <p className="text-sm font-bold text-charcoal m-0 mb-1">PDF indir</p>
+          <p className="text-xs text-charcoal/65 m-0 mb-3">
+            <strong>Windows:</strong> Ctrl+P → Hedef: “PDF olarak kaydet” → Kaydet.
+            <br />
+            <strong>Mac:</strong> Cmd+P → PDF → “PDF olarak kaydet”.
+          </p>
+          <p className="text-xs text-charcoal/50 m-0">
+            Dosya: <code className="text-accent">{note.slug}.pdf</code> · kişisel arşiv · ticari satış yok
+          </p>
+          <div className="flex flex-wrap gap-2 mt-3">
+            {[
+              'borclar-genel-donem-1',
+              'borclar-genel-donem-2',
+              'borclar-genel-yillik',
+            ].map((code) => (
+              <a
+                key={code}
+                href={`/ders-notlari/${uni}/${code}/pdf`}
+                className="text-[11px] font-semibold px-2.5 py-1 rounded-full border border-charcoal/15 hover:border-accent text-charcoal/70"
+              >
+                {code.replace('borclar-genel-', '')} PDF
+              </a>
+            ))}
+          </div>
+        </div>
         <DersNotuView note={note} hub={hub} />
       </div>
       <script
         dangerouslySetInnerHTML={{
-          __html: `if (typeof window !== 'undefined' && /pdf|print/i.test(location.search)) setTimeout(()=>window.print(), 400);`,
+          __html: `if (typeof window !== 'undefined' && /(?:[?&]print=|/pdf)/i.test(location.href)) setTimeout(function(){window.print()}, 500);`,
         }}
       />
     </div>

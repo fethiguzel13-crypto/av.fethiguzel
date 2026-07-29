@@ -65,6 +65,12 @@ const PRIORITY = [
   `https://${HOST}/bolge-yazi/muradiye-aile-miras-ve-nufus-olaylari`,
   `https://${HOST}/bolge-yazi/ercis-nufus-veraset-tapu-intikali`,
   `https://${HOST}/bolge-yazi/dogu-anadolu-el-birligi-mulkiyet-ve-miras-pratikleri`,
+  `https://${HOST}/ders-notlari/ankara-yildirim-beyazit/borclar-genel-donem-1`,
+  `https://${HOST}/ders-notlari/ankara-yildirim-beyazit/borclar-genel-donem-2`,
+  `https://${HOST}/ders-notlari/ankara-yildirim-beyazit/borclar-genel-yillik`,
+  `https://${HOST}/ders-notlari/ankara-yildirim-beyazit/borclar-genel-donem-1/pdf`,
+  `https://${HOST}/ders-notlari/marmara/borclar-genel-yillik`,
+  `https://${HOST}/ders-notlari/van-yyu/borclar-genel-donem-1`,
 ];
 
 // First 80 TBK maddeleri — crawl seed

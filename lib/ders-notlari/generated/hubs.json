@@ -216,6 +216,30 @@
         "year": 4,
         "href": "/ders-notlari/ankara-yildirim-beyazit/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -455,6 +479,30 @@
         "year": 4,
         "href": "/ders-notlari/ankara/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/ankara/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/ankara/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/ankara/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -695,6 +743,30 @@
         "year": 4,
         "href": "/ders-notlari/istanbul/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/istanbul/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/istanbul/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/istanbul/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -933,6 +1005,30 @@
         "year": 4,
         "href": "/ders-notlari/marmara/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/marmara/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/marmara/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/marmara/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -1173,6 +1269,30 @@
         "year": 4,
         "href": "/ders-notlari/galatasaray/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/galatasaray/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/galatasaray/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/galatasaray/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -1412,6 +1532,30 @@
         "year": 4,
         "href": "/ders-notlari/dokuz-eylul/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/dokuz-eylul/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/dokuz-eylul/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/dokuz-eylul/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -1650,6 +1794,30 @@
         "year": 4,
         "href": "/ders-notlari/hacettepe/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/hacettepe/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/hacettepe/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/hacettepe/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -1889,6 +2057,30 @@
         "year": 4,
         "href": "/ders-notlari/ankara-hacibayram/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/ankara-hacibayram/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/ankara-hacibayram/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/ankara-hacibayram/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -2127,6 +2319,30 @@
         "year": 4,
         "href": "/ders-notlari/bilkent/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/bilkent/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/bilkent/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/bilkent/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -2366,6 +2582,30 @@
         "year": 4,
         "href": "/ders-notlari/koc/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/koc/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/koc/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/koc/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -2605,6 +2845,30 @@
         "year": 4,
         "href": "/ders-notlari/tobb-etu/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/tobb-etu/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/tobb-etu/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/tobb-etu/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -2843,6 +3107,30 @@
         "year": 4,
         "href": "/ders-notlari/bogazici/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/bogazici/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/bogazici/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/bogazici/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -3081,6 +3369,30 @@
         "year": 4,
         "href": "/ders-notlari/ege/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/ege/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/ege/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/ege/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -3319,6 +3631,30 @@
         "year": 4,
         "href": "/ders-notlari/akdeniz/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/akdeniz/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/akdeniz/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/akdeniz/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -3557,6 +3893,30 @@
         "year": 4,
         "href": "/ders-notlari/selcuk/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/selcuk/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/selcuk/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/selcuk/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -3795,6 +4155,30 @@
         "year": 4,
         "href": "/ders-notlari/erciyes/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/erciyes/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/erciyes/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/erciyes/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -4034,6 +4418,30 @@
         "year": 4,
         "href": "/ders-notlari/uludag/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/uludag/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/uludag/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/uludag/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -4272,6 +4680,30 @@
         "year": 4,
         "href": "/ders-notlari/cukurova/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/cukurova/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/cukurova/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/cukurova/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -4510,6 +4942,30 @@
         "year": 4,
         "href": "/ders-notlari/anadolu/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/anadolu/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/anadolu/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/anadolu/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -4749,6 +5205,30 @@
         "year": 4,
         "href": "/ders-notlari/gazi-ankara/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/gazi-ankara/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/gazi-ankara/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/gazi-ankara/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -4988,6 +5468,30 @@
         "year": 4,
         "href": "/ders-notlari/yildiz-teknik/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/yildiz-teknik/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/yildiz-teknik/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/yildiz-teknik/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -5226,6 +5730,30 @@
         "year": 4,
         "href": "/ders-notlari/istanbul-medeniyet/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/istanbul-medeniyet/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/istanbul-medeniyet/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/istanbul-medeniyet/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -5465,6 +5993,30 @@
         "year": 4,
         "href": "/ders-notlari/bahcesehir/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/bahcesehir/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/bahcesehir/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/bahcesehir/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -5703,6 +6255,30 @@
         "year": 4,
         "href": "/ders-notlari/yeditepe/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/yeditepe/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/yeditepe/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/yeditepe/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -5941,6 +6517,30 @@
         "year": 4,
         "href": "/ders-notlari/ozyegin/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/ozyegin/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/ozyegin/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/ozyegin/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -6179,6 +6779,30 @@
         "year": 4,
         "href": "/ders-notlari/kadir-has/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/kadir-has/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/kadir-has/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/kadir-has/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -6417,6 +7041,30 @@
         "year": 4,
         "href": "/ders-notlari/istanbul-bilgi/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/istanbul-bilgi/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/istanbul-bilgi/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/istanbul-bilgi/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -6655,6 +7303,30 @@
         "year": 4,
         "href": "/ders-notlari/mehmet-akif/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/mehmet-akif/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/mehmet-akif/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/mehmet-akif/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -6893,6 +7565,30 @@
         "year": 4,
         "href": "/ders-notlari/altinbas/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/altinbas/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/altinbas/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/altinbas/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -7131,6 +7827,30 @@
         "year": 4,
         "href": "/ders-notlari/maltepe/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/maltepe/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/maltepe/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/maltepe/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -7369,6 +8089,30 @@
         "year": 4,
         "href": "/ders-notlari/dogus/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/dogus/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/dogus/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/dogus/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -7607,6 +8351,30 @@
         "year": 4,
         "href": "/ders-notlari/isik/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/isik/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/isik/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/isik/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -7845,6 +8613,30 @@
         "year": 4,
         "href": "/ders-notlari/okan/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/okan/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/okan/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/okan/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -8083,6 +8875,30 @@
         "year": 4,
         "href": "/ders-notlari/kultur/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/kultur/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/kultur/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/kultur/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -8321,6 +9137,30 @@
         "year": 4,
         "href": "/ders-notlari/aydin/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/aydin/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/aydin/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/aydin/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -8559,6 +9399,30 @@
         "year": 4,
         "href": "/ders-notlari/gelisim/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/gelisim/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/gelisim/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/gelisim/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -8797,6 +9661,30 @@
         "year": 4,
         "href": "/ders-notlari/topkapi/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/topkapi/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/topkapi/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/topkapi/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -9035,6 +9923,30 @@
         "year": 4,
         "href": "/ders-notlari/nisantasi/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/nisantasi/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/nisantasi/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/nisantasi/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -9273,6 +10185,30 @@
         "year": 4,
         "href": "/ders-notlari/beykent/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/beykent/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/beykent/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/beykent/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -9511,6 +10447,30 @@
         "year": 4,
         "href": "/ders-notlari/halic/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/halic/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/halic/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/halic/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -9749,6 +10709,30 @@
         "year": 4,
         "href": "/ders-notlari/fatih-sultan/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/fatih-sultan/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/fatih-sultan/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/fatih-sultan/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -9988,6 +10972,30 @@
         "year": 4,
         "href": "/ders-notlari/karadeniz-teknik/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/karadeniz-teknik/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/karadeniz-teknik/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/karadeniz-teknik/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -10227,6 +11235,30 @@
         "year": 4,
         "href": "/ders-notlari/ataturk/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/ataturk/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/ataturk/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/ataturk/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -10465,6 +11497,30 @@
         "year": 4,
         "href": "/ders-notlari/inonu/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/inonu/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/inonu/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/inonu/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -10703,6 +11759,30 @@
         "year": 4,
         "href": "/ders-notlari/dicle/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/dicle/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/dicle/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/dicle/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -10941,6 +12021,30 @@
         "year": 4,
         "href": "/ders-notlari/firat/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/firat/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/firat/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/firat/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -11179,6 +12283,30 @@
         "year": 4,
         "href": "/ders-notlari/gaziantep/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/gaziantep/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/gaziantep/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/gaziantep/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -11418,6 +12546,30 @@
         "year": 4,
         "href": "/ders-notlari/suleyman-demirel/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/suleyman-demirel/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/suleyman-demirel/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/suleyman-demirel/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -11656,6 +12808,30 @@
         "year": 4,
         "href": "/ders-notlari/pamukkale/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/pamukkale/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/pamukkale/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/pamukkale/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -11894,6 +13070,30 @@
         "year": 4,
         "href": "/ders-notlari/mugla/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/mugla/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/mugla/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/mugla/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -12132,6 +13332,30 @@
         "year": 4,
         "href": "/ders-notlari/sakarya/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/sakarya/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/sakarya/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/sakarya/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -12370,6 +13594,30 @@
         "year": 4,
         "href": "/ders-notlari/kocaeli/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/kocaeli/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/kocaeli/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/kocaeli/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -12608,6 +13856,30 @@
         "year": 4,
         "href": "/ders-notlari/trakya/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/trakya/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/trakya/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/trakya/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -12846,6 +14118,30 @@
         "year": 4,
         "href": "/ders-notlari/canakkale/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/canakkale/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/canakkale/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/canakkale/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -13084,6 +14380,30 @@
         "year": 4,
         "href": "/ders-notlari/balikesir/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/balikesir/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/balikesir/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/balikesir/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -13323,6 +14643,30 @@
         "year": 4,
         "href": "/ders-notlari/afyon/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/afyon/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/afyon/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/afyon/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -13561,6 +14905,30 @@
         "year": 4,
         "href": "/ders-notlari/dumlupinar/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/dumlupinar/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/dumlupinar/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/dumlupinar/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -13799,6 +15167,30 @@
         "year": 4,
         "href": "/ders-notlari/eskisehir-osmangazi/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/eskisehir-osmangazi/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/eskisehir-osmangazi/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/eskisehir-osmangazi/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -14038,6 +15430,30 @@
         "year": 4,
         "href": "/ders-notlari/sivas-cumhuriyet/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/sivas-cumhuriyet/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/sivas-cumhuriyet/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/sivas-cumhuriyet/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -14276,6 +15692,30 @@
         "year": 4,
         "href": "/ders-notlari/tokat/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/tokat/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/tokat/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/tokat/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -14514,6 +15954,30 @@
         "year": 4,
         "href": "/ders-notlari/yozgat/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/yozgat/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/yozgat/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/yozgat/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -14752,6 +16216,30 @@
         "year": 4,
         "href": "/ders-notlari/kirsehir/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/kirsehir/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/kirsehir/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/kirsehir/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -14990,6 +16478,30 @@
         "year": 4,
         "href": "/ders-notlari/nevsehir/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/nevsehir/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/nevsehir/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/nevsehir/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -15228,6 +16740,30 @@
         "year": 4,
         "href": "/ders-notlari/mersin/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/mersin/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/mersin/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/mersin/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -15467,6 +17003,30 @@
         "year": 4,
         "href": "/ders-notlari/hatay/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/hatay/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/hatay/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/hatay/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -15705,6 +17265,30 @@
         "year": 4,
         "href": "/ders-notlari/kahramanmaras/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/kahramanmaras/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/kahramanmaras/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/kahramanmaras/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -15943,6 +17527,30 @@
         "year": 4,
         "href": "/ders-notlari/osmaniye/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/osmaniye/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/osmaniye/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/osmaniye/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -16182,6 +17790,30 @@
         "year": 4,
         "href": "/ders-notlari/samsun/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/samsun/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/samsun/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/samsun/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -16420,6 +18052,30 @@
         "year": 4,
         "href": "/ders-notlari/ordu/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/ordu/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/ordu/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/ordu/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -16658,6 +18314,30 @@
         "year": 4,
         "href": "/ders-notlari/giresun/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/giresun/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/giresun/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/giresun/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -16897,6 +18577,30 @@
         "year": 4,
         "href": "/ders-notlari/rize/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/rize/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/rize/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/rize/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -17135,6 +18839,30 @@
         "year": 4,
         "href": "/ders-notlari/artvin/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/artvin/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/artvin/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/artvin/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -17375,6 +19103,30 @@
         "year": 4,
         "href": "/ders-notlari/van-yyu/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/van-yyu/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/van-yyu/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/van-yyu/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -17613,6 +19365,30 @@
         "year": 4,
         "href": "/ders-notlari/agri/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/agri/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/agri/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/agri/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -17851,6 +19627,30 @@
         "year": 4,
         "href": "/ders-notlari/kars/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/kars/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/kars/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/kars/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -18089,6 +19889,30 @@
         "year": 4,
         "href": "/ders-notlari/erzincan/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/erzincan/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/erzincan/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/erzincan/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -18327,6 +20151,30 @@
         "year": 4,
         "href": "/ders-notlari/bayburt/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/bayburt/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/bayburt/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/bayburt/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -18565,6 +20413,30 @@
         "year": 4,
         "href": "/ders-notlari/gumushane/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/gumushane/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/gumushane/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/gumushane/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -18803,6 +20675,30 @@
         "year": 4,
         "href": "/ders-notlari/bingol/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/bingol/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/bingol/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/bingol/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -19041,6 +20937,30 @@
         "year": 4,
         "href": "/ders-notlari/mus/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/mus/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/mus/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/mus/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -19279,6 +21199,30 @@
         "year": 4,
         "href": "/ders-notlari/hakkari/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/hakkari/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/hakkari/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/hakkari/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -19517,6 +21461,30 @@
         "year": 4,
         "href": "/ders-notlari/sirnak/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/sirnak/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/sirnak/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/sirnak/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -19756,6 +21724,30 @@
         "year": 4,
         "href": "/ders-notlari/mardin/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/mardin/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/mardin/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/mardin/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -19994,6 +21986,30 @@
         "year": 4,
         "href": "/ders-notlari/batman/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/batman/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/batman/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/batman/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -20232,6 +22248,30 @@
         "year": 4,
         "href": "/ders-notlari/siirt/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/siirt/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/siirt/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/siirt/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -20470,6 +22510,30 @@
         "year": 4,
         "href": "/ders-notlari/adiyaman/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/adiyaman/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/adiyaman/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/adiyaman/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -20708,6 +22772,30 @@
         "year": 4,
         "href": "/ders-notlari/kilis/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/kilis/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/kilis/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/kilis/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -20946,6 +23034,30 @@
         "year": 4,
         "href": "/ders-notlari/igdir/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/igdir/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/igdir/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/igdir/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -21184,6 +23296,30 @@
         "year": 4,
         "href": "/ders-notlari/ardahan/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/ardahan/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/ardahan/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/ardahan/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -21422,6 +23558,30 @@
         "year": 4,
         "href": "/ders-notlari/bilecik/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/bilecik/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/bilecik/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/bilecik/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -21661,6 +23821,30 @@
         "year": 4,
         "href": "/ders-notlari/bolu/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/bolu/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/bolu/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/bolu/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -21899,6 +24083,30 @@
         "year": 4,
         "href": "/ders-notlari/duzce/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/duzce/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/duzce/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/duzce/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -22137,6 +24345,30 @@
         "year": 4,
         "href": "/ders-notlari/zonguldak/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/zonguldak/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/zonguldak/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/zonguldak/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -22375,6 +24607,30 @@
         "year": 4,
         "href": "/ders-notlari/karabuk/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/karabuk/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/karabuk/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/karabuk/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -22613,6 +24869,30 @@
         "year": 4,
         "href": "/ders-notlari/kastamonu/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/kastamonu/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/kastamonu/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/kastamonu/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -22851,6 +25131,30 @@
         "year": 4,
         "href": "/ders-notlari/sinop/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/sinop/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/sinop/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/sinop/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -23090,6 +25394,30 @@
         "year": 4,
         "href": "/ders-notlari/corum/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/corum/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/corum/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/corum/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -23328,6 +25656,30 @@
         "year": 4,
         "href": "/ders-notlari/amasya/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/amasya/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/amasya/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/amasya/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -23566,6 +25918,30 @@
         "year": 4,
         "href": "/ders-notlari/cankiri/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/cankiri/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/cankiri/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/cankiri/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -23804,6 +26180,30 @@
         "year": 4,
         "href": "/ders-notlari/kirikkale/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/kirikkale/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/kirikkale/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/kirikkale/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -24042,6 +26442,30 @@
         "year": 4,
         "href": "/ders-notlari/aksaray/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/aksaray/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/aksaray/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/aksaray/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -24280,6 +26704,30 @@
         "year": 4,
         "href": "/ders-notlari/nigde/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/nigde/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/nigde/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/nigde/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -24518,6 +26966,30 @@
         "year": 4,
         "href": "/ders-notlari/konya-teknik/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/konya-teknik/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/konya-teknik/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/konya-teknik/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -24756,6 +27228,30 @@
         "year": 4,
         "href": "/ders-notlari/karaman/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/karaman/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/karaman/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/karaman/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -24994,6 +27490,30 @@
         "year": 4,
         "href": "/ders-notlari/usak/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/usak/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/usak/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/usak/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -25233,6 +27753,30 @@
         "year": 4,
         "href": "/ders-notlari/manisa/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/manisa/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/manisa/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/manisa/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -25471,6 +28015,30 @@
         "year": 4,
         "href": "/ders-notlari/aydin-adu/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/aydin-adu/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/aydin-adu/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/aydin-adu/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -25709,6 +28277,30 @@
         "year": 4,
         "href": "/ders-notlari/tekirdag/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/tekirdag/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/tekirdag/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/tekirdag/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -25947,6 +28539,30 @@
         "year": 4,
         "href": "/ders-notlari/kirklareli/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/kirklareli/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/kirklareli/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/kirklareli/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -26185,6 +28801,30 @@
         "year": 4,
         "href": "/ders-notlari/atilim/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/atilim/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/atilim/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/atilim/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -26423,6 +29063,30 @@
         "year": 4,
         "href": "/ders-notlari/cankaya/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/cankaya/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/cankaya/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/cankaya/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -26661,6 +29325,30 @@
         "year": 4,
         "href": "/ders-notlari/ufuk/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/ufuk/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/ufuk/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/ufuk/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -26899,6 +29587,30 @@
         "year": 4,
         "href": "/ders-notlari/yasar/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/yasar/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/yasar/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/yasar/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -27137,6 +29849,30 @@
         "year": 4,
         "href": "/ders-notlari/izmir-ekonomi/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/izmir-ekonomi/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/izmir-ekonomi/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/izmir-ekonomi/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -27375,6 +30111,30 @@
         "year": 4,
         "href": "/ders-notlari/tinaztepe/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/tinaztepe/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/tinaztepe/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/tinaztepe/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -27613,6 +30373,30 @@
         "year": 4,
         "href": "/ders-notlari/asbu-vakif/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/asbu-vakif/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/asbu-vakif/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/asbu-vakif/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -27851,6 +30635,30 @@
         "year": 4,
         "href": "/ders-notlari/hasan-kalyoncu/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/hasan-kalyoncu/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/hasan-kalyoncu/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/hasan-kalyoncu/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -28089,6 +30897,30 @@
         "year": 4,
         "href": "/ders-notlari/sanko/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/sanko/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/sanko/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/sanko/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -28327,6 +31159,30 @@
         "year": 4,
         "href": "/ders-notlari/toros/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/toros/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/toros/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/toros/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [
@@ -28565,6 +31421,30 @@
         "year": 4,
         "href": "/ders-notlari/cag/tuketici-hukuku",
         "ready": true
+      },
+      {
+        "code": "borclar-genel-donem-1",
+        "title": "Borçlar Genel — 1. Dönem (Güz)",
+        "year": 2,
+        "href": "/ders-notlari/cag/borclar-genel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-donem-2",
+        "title": "Borçlar Genel — 2. Dönem (Bahar)",
+        "year": 2,
+        "href": "/ders-notlari/cag/borclar-genel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-genel-yillik",
+        "title": "Borçlar Genel — Yıllık Tam Not",
+        "year": 2,
+        "href": "/ders-notlari/cag/borclar-genel-yillik",
+        "ready": true,
+        "variantOf": "borclar-genel"
       }
     ],
     "seoParagraphs": [

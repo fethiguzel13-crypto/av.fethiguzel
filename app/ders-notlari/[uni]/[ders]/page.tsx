@@ -31,8 +31,24 @@ export function generateStaticParams() {
     'bogazici',
   ]);
   const first = all.filter((p) => priority.has(p.uni));
+  // Borçlar Genel üçlü paket — öncelikli fakültelerde mutlaka SSG
+  const borclarTriple = all.filter(
+    (p) =>
+      priority.has(p.uni) &&
+      (p.ders === 'borclar-genel-donem-1' ||
+        p.ders === 'borclar-genel-donem-2' ||
+        p.ders === 'borclar-genel-yillik')
+  );
   const rest = all.filter((p) => !priority.has(p.uni)).slice(0, 200);
-  return [...first, ...rest];
+  const seen = new Set<string>();
+  const out: { uni: string; ders: string }[] = [];
+  for (const p of [...borclarTriple, ...first, ...rest]) {
+    const k = `${p.uni}/${p.ders}`;
+    if (seen.has(k)) continue;
+    seen.add(k);
+    out.push(p);
+  }
+  return out;
 }
 
 export const dynamicParams = true;

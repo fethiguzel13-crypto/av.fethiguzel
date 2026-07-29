@@ -107,6 +107,10 @@ export type CourseNote = {
   updated: string;
   wordTarget: number;
   qualityTier?: 'premium';
+  /** Örn. borclar-genel */
+  variantOf?: string;
+  /** Örn. 1. Dönem (Güz) */
+  variantLabel?: string;
 };
 
 export type UniHubContent = {

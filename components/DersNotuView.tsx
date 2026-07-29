@@ -304,10 +304,16 @@ export function DersNotuView({
           <p className="text-cream/65 text-sm sm:text-base leading-relaxed max-w-3xl">{note.lead}</p>
           <div className="flex flex-wrap gap-2 mt-5 print:hidden">
             <Link
-              href={pdfHref}
+              href={`${pdfHref}?print=1`}
               className="inline-flex text-sm font-bold px-4 py-2.5 rounded-full bg-accent text-white hover:bg-accent/90"
             >
-              PDF / Yazdır
+              PDF indir / Yazdır
+            </Link>
+            <Link
+              href={pdfHref}
+              className="inline-flex text-sm font-semibold px-4 py-2.5 rounded-full border border-cream/20 text-cream/85 hover:bg-cream/10"
+            >
+              PDF sayfası
             </Link>
             <Link
               href={`/ders-notlari/${note.uniSlug}`}
@@ -316,14 +322,69 @@ export function DersNotuView({
               Tüm {hub.uni.shortName} notları
             </Link>
             <Link
-              href="/mevzuat"
+              href="/mevzuat/tbk"
               className="inline-flex text-sm font-semibold px-4 py-2.5 rounded-full border border-cream/20 text-cream/85 hover:bg-cream/10"
             >
-              Mevzuat
+              TBK mevzuat
             </Link>
           </div>
         </div>
       </div>
+
+      {/* Borçlar Genel üçlü geçiş */}
+      {(note.variantOf === 'borclar-genel' ||
+        note.courseCode === 'borclar-genel' ||
+        note.courseCode.startsWith('borclar-genel-')) && (
+        <nav
+          aria-label="Borçlar Genel paketleri"
+          className="mb-8 rounded-2xl border-2 border-accent/25 bg-white p-4 sm:p-5 shadow-sm print:hidden"
+        >
+          <p className="text-[11px] font-mono uppercase tracking-wider text-accent font-bold mb-3">
+            Borçlar Genel · üç paket
+          </p>
+          <div className="grid sm:grid-cols-3 gap-2">
+            {[
+              {
+                code: 'borclar-genel-donem-1',
+                label: '1. Dönem (Güz)',
+                desc: 'Kaynak · kuruluş · irade · temsil',
+              },
+              {
+                code: 'borclar-genel-donem-2',
+                label: '2. Dönem (Bahar)',
+                desc: 'Temerrüt · haksız fiil · zamanaşımı',
+              },
+              {
+                code: 'borclar-genel-yillik',
+                label: 'Yıllık tam not',
+                desc: '1. + 2. dönem birleşik paket',
+              },
+            ].map((v) => {
+              const active = note.courseCode === v.code;
+              return (
+                <Link
+                  key={v.code}
+                  href={`/ders-notlari/${note.uniSlug}/${v.code}`}
+                  className={`rounded-xl border px-3 py-3 text-sm transition-colors ${
+                    active
+                      ? 'border-accent bg-accent/10 font-bold text-charcoal'
+                      : 'border-charcoal/10 hover:border-accent/40 text-charcoal/80'
+                  }`}
+                >
+                  <span className="block font-semibold">{v.label}</span>
+                  <span className="block text-[11px] font-normal text-charcoal/50 mt-0.5">{v.desc}</span>
+                  <span className="block text-[10px] text-accent mt-1.5 font-semibold">
+                    PDF → /{v.code}/pdf
+                  </span>
+                </Link>
+              );
+            })}
+          </div>
+          <p className="text-[11px] text-charcoal/45 mt-3 m-0">
+            Klasik <Link href={`/ders-notlari/${note.uniSlug}/borclar-genel`} className="text-accent font-semibold hover:underline">borclar-genel</Link> özeti de durur; derin çalışma için yukarıdaki üç paketi kullanın.
+          </p>
+        </nav>
+      )}
 
       {/* 60 saniye */}
       {note.sixtySecond && note.sixtySecond.length > 0 && (
@@ -631,6 +692,37 @@ export function UniHubView({ hub }: { hub: UniHubContent }) {
         kontrol listesi. PDF yazdırılabilir.
       </div>
 
+      {/* Borçlar Genel öne çıkan paket */}
+      {hub.courses.some((c) => String(c.code).startsWith('borclar-genel')) && (
+        <section className="mt-10 rounded-2xl border-2 border-accent/20 bg-accent/[0.05] p-5">
+          <h2 className="text-lg font-heading font-bold text-charcoal mb-2">
+            Borçlar Genel — 1. dönem · 2. dönem · yıllık
+          </h2>
+          <p className="text-sm text-charcoal/60 mb-4">
+            Dönemlik ve yıllık programlara uygun üç premium not + PDF.
+          </p>
+          <ul className="grid sm:grid-cols-3 gap-2 m-0 p-0 list-none">
+            {[
+              { code: 'borclar-genel-donem-1', title: '1. Dönem (Güz)' },
+              { code: 'borclar-genel-donem-2', title: '2. Dönem (Bahar)' },
+              { code: 'borclar-genel-yillik', title: 'Yıllık tam not' },
+            ].map((v) => (
+              <li key={v.code}>
+                <Link
+                  href={`/ders-notlari/${hub.uni.slug}/${v.code}`}
+                  className="block rounded-xl border border-accent/25 bg-white hover:border-accent px-3 py-3 text-sm font-semibold text-charcoal"
+                >
+                  {v.title}
+                  <span className="block text-[10px] font-normal text-accent mt-1">
+                    Not + PDF indir
+                  </span>
+                </Link>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )}
+
       {byYear.map(
         (b) =>
           b.items.length > 0 && (
@@ -639,7 +731,9 @@ export function UniHubView({ hub }: { hub: UniHubContent }) {
                 {b.year}. sınıf ders notları
               </h2>
               <ul className="grid sm:grid-cols-2 gap-2 m-0 p-0 list-none">
-                {b.items.map((c) => (
+                {b.items
+                  .filter((c) => !String(c.code).match(/^borclar-genel-(donem|yillik)/))
+                  .map((c) => (
                   <li key={c.code}>
                     {'ready' in c && c.ready === false ? (
                       <span className="block rounded-xl border border-dashed border-charcoal/15 bg-charcoal/[0.02] px-3 py-2.5 text-sm text-charcoal/40">

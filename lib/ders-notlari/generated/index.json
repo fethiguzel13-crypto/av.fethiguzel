@@ -3,7 +3,7 @@
   "wave": "all",
   "universityCount": 120,
   "hubCount": 120,
-  "noteCount": 3360,
+  "noteCount": 3720,
   "universities": [
     {
       "slug": "ankara-yildirim-beyazit",
@@ -24366,6 +24366,3247 @@
       "slug": "cag__tuketici-hukuku",
       "title": "Çağ Tüketici Hukuku Ders Notları — Şematik & Örnekli | Mersin",
       "href": "/ders-notlari/cag/tuketici-hukuku"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "ankara-yildirim-beyazit__borclar-genel-donem-1",
+      "title": "AYBÜ Borçlar Genel 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "ankara-yildirim-beyazit__borclar-genel-donem-2",
+      "title": "AYBÜ Borçlar Genel 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "ankara-yildirim-beyazit__borclar-genel-yillik",
+      "title": "AYBÜ Borçlar Genel Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "ankara__borclar-genel-donem-1",
+      "title": "AÜHF Borçlar Genel 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "ankara__borclar-genel-donem-2",
+      "title": "AÜHF Borçlar Genel 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "ankara__borclar-genel-yillik",
+      "title": "AÜHF Borçlar Genel Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "istanbul__borclar-genel-donem-1",
+      "title": "İÜHF Borçlar Genel 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "istanbul__borclar-genel-donem-2",
+      "title": "İÜHF Borçlar Genel 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "istanbul__borclar-genel-yillik",
+      "title": "İÜHF Borçlar Genel Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "marmara__borclar-genel-donem-1",
+      "title": "MÜHF Borçlar Genel 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "marmara__borclar-genel-donem-2",
+      "title": "MÜHF Borçlar Genel 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "marmara__borclar-genel-yillik",
+      "title": "MÜHF Borçlar Genel Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "galatasaray__borclar-genel-donem-1",
+      "title": "GSÜ Borçlar Genel 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "galatasaray__borclar-genel-donem-2",
+      "title": "GSÜ Borçlar Genel 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "galatasaray__borclar-genel-yillik",
+      "title": "GSÜ Borçlar Genel Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "dokuz-eylul__borclar-genel-donem-1",
+      "title": "DEÜ Borçlar Genel 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "dokuz-eylul__borclar-genel-donem-2",
+      "title": "DEÜ Borçlar Genel 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "dokuz-eylul__borclar-genel-yillik",
+      "title": "DEÜ Borçlar Genel Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "hacettepe__borclar-genel-donem-1",
+      "title": "Hacettepe Borçlar Genel 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "hacettepe__borclar-genel-donem-2",
+      "title": "Hacettepe Borçlar Genel 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "hacettepe__borclar-genel-yillik",
+      "title": "Hacettepe Borçlar Genel Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "ankara-hacibayram__borclar-genel-donem-1",
+      "title": "AHBV Borçlar Genel 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "ankara-hacibayram__borclar-genel-donem-2",
+      "title": "AHBV Borçlar Genel 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "ankara-hacibayram__borclar-genel-yillik",
+      "title": "AHBV Borçlar Genel Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "bilkent__borclar-genel-donem-1",
+      "title": "Bilkent Borçlar Genel 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "bilkent__borclar-genel-donem-2",
+      "title": "Bilkent Borçlar Genel 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "bilkent__borclar-genel-yillik",
+      "title": "Bilkent Borçlar Genel Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "koc__borclar-genel-donem-1",
+      "title": "Koç Borçlar Genel 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "koc__borclar-genel-donem-2",
+      "title": "Koç Borçlar Genel 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "koc__borclar-genel-yillik",
+      "title": "Koç Borçlar Genel Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "tobb-etu__borclar-genel-donem-1",
+      "title": "TOBB ETÜ Borçlar Genel 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "tobb-etu__borclar-genel-donem-2",
+      "title": "TOBB ETÜ Borçlar Genel 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "tobb-etu__borclar-genel-yillik",
+      "title": "TOBB ETÜ Borçlar Genel Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "bogazici__borclar-genel-donem-1",
+      "title": "BÜ Borçlar Genel 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "bogazici__borclar-genel-donem-2",
+      "title": "BÜ Borçlar Genel 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "bogazici__borclar-genel-yillik",
+      "title": "BÜ Borçlar Genel Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "ege__borclar-genel-donem-1",
+      "title": "Ege Borçlar Genel 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "ege__borclar-genel-donem-2",
+      "title": "Ege Borçlar Genel 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "ege__borclar-genel-yillik",
+      "title": "Ege Borçlar Genel Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "akdeniz__borclar-genel-donem-1",
+      "title": "Akdeniz Borçlar Genel 1. Dönem (Güz) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "akdeniz__borclar-genel-donem-2",
+      "title": "Akdeniz Borçlar Genel 2. Dönem (Bahar) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "akdeniz__borclar-genel-yillik",
+      "title": "Akdeniz Borçlar Genel Yıllık (Tam paket) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "selcuk__borclar-genel-donem-1",
+      "title": "Selçuk Borçlar Genel 1. Dönem (Güz) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "selcuk__borclar-genel-donem-2",
+      "title": "Selçuk Borçlar Genel 2. Dönem (Bahar) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "selcuk__borclar-genel-yillik",
+      "title": "Selçuk Borçlar Genel Yıllık (Tam paket) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "erciyes__borclar-genel-donem-1",
+      "title": "Erciyes Borçlar Genel 1. Dönem (Güz) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "erciyes__borclar-genel-donem-2",
+      "title": "Erciyes Borçlar Genel 2. Dönem (Bahar) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "erciyes__borclar-genel-yillik",
+      "title": "Erciyes Borçlar Genel Yıllık (Tam paket) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "uludag__borclar-genel-donem-1",
+      "title": "Uludağ Borçlar Genel 1. Dönem (Güz) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "uludag__borclar-genel-donem-2",
+      "title": "Uludağ Borçlar Genel 2. Dönem (Bahar) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "uludag__borclar-genel-yillik",
+      "title": "Uludağ Borçlar Genel Yıllık (Tam paket) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "cukurova__borclar-genel-donem-1",
+      "title": "Çukurova Borçlar Genel 1. Dönem (Güz) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "cukurova__borclar-genel-donem-2",
+      "title": "Çukurova Borçlar Genel 2. Dönem (Bahar) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "cukurova__borclar-genel-yillik",
+      "title": "Çukurova Borçlar Genel Yıllık (Tam paket) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "anadolu__borclar-genel-donem-1",
+      "title": "Anadolu Borçlar Genel 1. Dönem (Güz) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "anadolu__borclar-genel-donem-2",
+      "title": "Anadolu Borçlar Genel 2. Dönem (Bahar) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "anadolu__borclar-genel-yillik",
+      "title": "Anadolu Borçlar Genel Yıllık (Tam paket) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "gazi-ankara__borclar-genel-donem-1",
+      "title": "ASBÜ Borçlar Genel 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "gazi-ankara__borclar-genel-donem-2",
+      "title": "ASBÜ Borçlar Genel 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "gazi-ankara__borclar-genel-yillik",
+      "title": "ASBÜ Borçlar Genel Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "yildiz-teknik__borclar-genel-donem-1",
+      "title": "YTÜ Borçlar Genel 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "yildiz-teknik__borclar-genel-donem-2",
+      "title": "YTÜ Borçlar Genel 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "yildiz-teknik__borclar-genel-yillik",
+      "title": "YTÜ Borçlar Genel Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "istanbul-medeniyet__borclar-genel-donem-1",
+      "title": "Medeniyet Borçlar Genel 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "istanbul-medeniyet__borclar-genel-donem-2",
+      "title": "Medeniyet Borçlar Genel 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "istanbul-medeniyet__borclar-genel-yillik",
+      "title": "Medeniyet Borçlar Genel Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "bahcesehir__borclar-genel-donem-1",
+      "title": "BAU Borçlar Genel 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "bahcesehir__borclar-genel-donem-2",
+      "title": "BAU Borçlar Genel 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "bahcesehir__borclar-genel-yillik",
+      "title": "BAU Borçlar Genel Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "yeditepe__borclar-genel-donem-1",
+      "title": "Yeditepe Borçlar Genel 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "yeditepe__borclar-genel-donem-2",
+      "title": "Yeditepe Borçlar Genel 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "yeditepe__borclar-genel-yillik",
+      "title": "Yeditepe Borçlar Genel Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "ozyegin__borclar-genel-donem-1",
+      "title": "Özyeğin Borçlar Genel 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "ozyegin__borclar-genel-donem-2",
+      "title": "Özyeğin Borçlar Genel 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "ozyegin__borclar-genel-yillik",
+      "title": "Özyeğin Borçlar Genel Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "kadir-has__borclar-genel-donem-1",
+      "title": "KHAS Borçlar Genel 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "kadir-has__borclar-genel-donem-2",
+      "title": "KHAS Borçlar Genel 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "kadir-has__borclar-genel-yillik",
+      "title": "KHAS Borçlar Genel Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "istanbul-bilgi__borclar-genel-donem-1",
+      "title": "Bilgi Borçlar Genel 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "istanbul-bilgi__borclar-genel-donem-2",
+      "title": "Bilgi Borçlar Genel 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "istanbul-bilgi__borclar-genel-yillik",
+      "title": "Bilgi Borçlar Genel Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "mehmet-akif__borclar-genel-donem-1",
+      "title": "Medipol Borçlar Genel 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "mehmet-akif__borclar-genel-donem-2",
+      "title": "Medipol Borçlar Genel 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "mehmet-akif__borclar-genel-yillik",
+      "title": "Medipol Borçlar Genel Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "altinbas__borclar-genel-donem-1",
+      "title": "Altınbaş Borçlar Genel 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "altinbas__borclar-genel-donem-2",
+      "title": "Altınbaş Borçlar Genel 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "altinbas__borclar-genel-yillik",
+      "title": "Altınbaş Borçlar Genel Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "maltepe__borclar-genel-donem-1",
+      "title": "Maltepe Borçlar Genel 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "maltepe__borclar-genel-donem-2",
+      "title": "Maltepe Borçlar Genel 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "maltepe__borclar-genel-yillik",
+      "title": "Maltepe Borçlar Genel Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "dogus__borclar-genel-donem-1",
+      "title": "Doğuş Borçlar Genel 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "dogus__borclar-genel-donem-2",
+      "title": "Doğuş Borçlar Genel 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "dogus__borclar-genel-yillik",
+      "title": "Doğuş Borçlar Genel Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "isik__borclar-genel-donem-1",
+      "title": "Işık Borçlar Genel 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "isik__borclar-genel-donem-2",
+      "title": "Işık Borçlar Genel 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "isik__borclar-genel-yillik",
+      "title": "Işık Borçlar Genel Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "okan__borclar-genel-donem-1",
+      "title": "Okan Borçlar Genel 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "okan__borclar-genel-donem-2",
+      "title": "Okan Borçlar Genel 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "okan__borclar-genel-yillik",
+      "title": "Okan Borçlar Genel Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "kultur__borclar-genel-donem-1",
+      "title": "İKÜ Borçlar Genel 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "kultur__borclar-genel-donem-2",
+      "title": "İKÜ Borçlar Genel 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "kultur__borclar-genel-yillik",
+      "title": "İKÜ Borçlar Genel Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "aydin__borclar-genel-donem-1",
+      "title": "İAÜ Borçlar Genel 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "aydin__borclar-genel-donem-2",
+      "title": "İAÜ Borçlar Genel 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "aydin__borclar-genel-yillik",
+      "title": "İAÜ Borçlar Genel Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "gelisim__borclar-genel-donem-1",
+      "title": "Gelişim Borçlar Genel 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "gelisim__borclar-genel-donem-2",
+      "title": "Gelişim Borçlar Genel 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "gelisim__borclar-genel-yillik",
+      "title": "Gelişim Borçlar Genel Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "topkapi__borclar-genel-donem-1",
+      "title": "Topkapı Borçlar Genel 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "topkapi__borclar-genel-donem-2",
+      "title": "Topkapı Borçlar Genel 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "topkapi__borclar-genel-yillik",
+      "title": "Topkapı Borçlar Genel Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "nisantasi__borclar-genel-donem-1",
+      "title": "Nişantaşı Borçlar Genel 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "nisantasi__borclar-genel-donem-2",
+      "title": "Nişantaşı Borçlar Genel 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "nisantasi__borclar-genel-yillik",
+      "title": "Nişantaşı Borçlar Genel Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "beykent__borclar-genel-donem-1",
+      "title": "Beykent Borçlar Genel 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "beykent__borclar-genel-donem-2",
+      "title": "Beykent Borçlar Genel 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "beykent__borclar-genel-yillik",
+      "title": "Beykent Borçlar Genel Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "halic__borclar-genel-donem-1",
+      "title": "Haliç Borçlar Genel 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "halic__borclar-genel-donem-2",
+      "title": "Haliç Borçlar Genel 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "halic__borclar-genel-yillik",
+      "title": "Haliç Borçlar Genel Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "fatih-sultan__borclar-genel-donem-1",
+      "title": "FSMVÜ Borçlar Genel 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "fatih-sultan__borclar-genel-donem-2",
+      "title": "FSMVÜ Borçlar Genel 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "fatih-sultan__borclar-genel-yillik",
+      "title": "FSMVÜ Borçlar Genel Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "karadeniz-teknik__borclar-genel-donem-1",
+      "title": "KTÜ Borçlar Genel 1. Dönem (Güz) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "karadeniz-teknik__borclar-genel-donem-2",
+      "title": "KTÜ Borçlar Genel 2. Dönem (Bahar) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "karadeniz-teknik__borclar-genel-yillik",
+      "title": "KTÜ Borçlar Genel Yıllık (Tam paket) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "ataturk__borclar-genel-donem-1",
+      "title": "Atatürk Borçlar Genel 1. Dönem (Güz) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "ataturk__borclar-genel-donem-2",
+      "title": "Atatürk Borçlar Genel 2. Dönem (Bahar) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "ataturk__borclar-genel-yillik",
+      "title": "Atatürk Borçlar Genel Yıllık (Tam paket) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "inonu__borclar-genel-donem-1",
+      "title": "İnönü Borçlar Genel 1. Dönem (Güz) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "inonu__borclar-genel-donem-2",
+      "title": "İnönü Borçlar Genel 2. Dönem (Bahar) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "inonu__borclar-genel-yillik",
+      "title": "İnönü Borçlar Genel Yıllık (Tam paket) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "dicle__borclar-genel-donem-1",
+      "title": "Dicle Borçlar Genel 1. Dönem (Güz) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "dicle__borclar-genel-donem-2",
+      "title": "Dicle Borçlar Genel 2. Dönem (Bahar) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "dicle__borclar-genel-yillik",
+      "title": "Dicle Borçlar Genel Yıllık (Tam paket) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "firat__borclar-genel-donem-1",
+      "title": "Fırat Borçlar Genel 1. Dönem (Güz) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "firat__borclar-genel-donem-2",
+      "title": "Fırat Borçlar Genel 2. Dönem (Bahar) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "firat__borclar-genel-yillik",
+      "title": "Fırat Borçlar Genel Yıllık (Tam paket) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "gaziantep__borclar-genel-donem-1",
+      "title": "GAÜN Borçlar Genel 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "gaziantep__borclar-genel-donem-2",
+      "title": "GAÜN Borçlar Genel 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "gaziantep__borclar-genel-yillik",
+      "title": "GAÜN Borçlar Genel Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "suleyman-demirel__borclar-genel-donem-1",
+      "title": "SDÜ Borçlar Genel 1. Dönem (Güz) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "suleyman-demirel__borclar-genel-donem-2",
+      "title": "SDÜ Borçlar Genel 2. Dönem (Bahar) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "suleyman-demirel__borclar-genel-yillik",
+      "title": "SDÜ Borçlar Genel Yıllık (Tam paket) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "pamukkale__borclar-genel-donem-1",
+      "title": "PAÜ Borçlar Genel 1. Dönem (Güz) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "pamukkale__borclar-genel-donem-2",
+      "title": "PAÜ Borçlar Genel 2. Dönem (Bahar) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "pamukkale__borclar-genel-yillik",
+      "title": "PAÜ Borçlar Genel Yıllık (Tam paket) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "mugla__borclar-genel-donem-1",
+      "title": "MSKU Borçlar Genel 1. Dönem (Güz) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "mugla__borclar-genel-donem-2",
+      "title": "MSKU Borçlar Genel 2. Dönem (Bahar) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "mugla__borclar-genel-yillik",
+      "title": "MSKU Borçlar Genel Yıllık (Tam paket) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "sakarya__borclar-genel-donem-1",
+      "title": "SAÜ Borçlar Genel 1. Dönem (Güz) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "sakarya__borclar-genel-donem-2",
+      "title": "SAÜ Borçlar Genel 2. Dönem (Bahar) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "sakarya__borclar-genel-yillik",
+      "title": "SAÜ Borçlar Genel Yıllık (Tam paket) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "kocaeli__borclar-genel-donem-1",
+      "title": "KOÜ Borçlar Genel 1. Dönem (Güz) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "kocaeli__borclar-genel-donem-2",
+      "title": "KOÜ Borçlar Genel 2. Dönem (Bahar) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "kocaeli__borclar-genel-yillik",
+      "title": "KOÜ Borçlar Genel Yıllık (Tam paket) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "trakya__borclar-genel-donem-1",
+      "title": "Trakya Borçlar Genel 1. Dönem (Güz) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "trakya__borclar-genel-donem-2",
+      "title": "Trakya Borçlar Genel 2. Dönem (Bahar) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "trakya__borclar-genel-yillik",
+      "title": "Trakya Borçlar Genel Yıllık (Tam paket) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "canakkale__borclar-genel-donem-1",
+      "title": "ÇOMÜ Borçlar Genel 1. Dönem (Güz) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "canakkale__borclar-genel-donem-2",
+      "title": "ÇOMÜ Borçlar Genel 2. Dönem (Bahar) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "canakkale__borclar-genel-yillik",
+      "title": "ÇOMÜ Borçlar Genel Yıllık (Tam paket) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "balikesir__borclar-genel-donem-1",
+      "title": "BAÜN Borçlar Genel 1. Dönem (Güz) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "balikesir__borclar-genel-donem-2",
+      "title": "BAÜN Borçlar Genel 2. Dönem (Bahar) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "balikesir__borclar-genel-yillik",
+      "title": "BAÜN Borçlar Genel Yıllık (Tam paket) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "afyon__borclar-genel-donem-1",
+      "title": "AKÜ Borçlar Genel 1. Dönem (Güz) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "afyon__borclar-genel-donem-2",
+      "title": "AKÜ Borçlar Genel 2. Dönem (Bahar) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "afyon__borclar-genel-yillik",
+      "title": "AKÜ Borçlar Genel Yıllık (Tam paket) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "dumlupinar__borclar-genel-donem-1",
+      "title": "DPÜ Borçlar Genel 1. Dönem (Güz) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "dumlupinar__borclar-genel-donem-2",
+      "title": "DPÜ Borçlar Genel 2. Dönem (Bahar) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "dumlupinar__borclar-genel-yillik",
+      "title": "DPÜ Borçlar Genel Yıllık (Tam paket) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "eskisehir-osmangazi__borclar-genel-donem-1",
+      "title": "ESOGÜ Borçlar Genel 1. Dönem (Güz) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "eskisehir-osmangazi__borclar-genel-donem-2",
+      "title": "ESOGÜ Borçlar Genel 2. Dönem (Bahar) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "eskisehir-osmangazi__borclar-genel-yillik",
+      "title": "ESOGÜ Borçlar Genel Yıllık (Tam paket) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "sivas-cumhuriyet__borclar-genel-donem-1",
+      "title": "SCÜ Borçlar Genel 1. Dönem (Güz) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "sivas-cumhuriyet__borclar-genel-donem-2",
+      "title": "SCÜ Borçlar Genel 2. Dönem (Bahar) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "sivas-cumhuriyet__borclar-genel-yillik",
+      "title": "SCÜ Borçlar Genel Yıllık (Tam paket) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "tokat__borclar-genel-donem-1",
+      "title": "TOGÜ Borçlar Genel 1. Dönem (Güz) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "tokat__borclar-genel-donem-2",
+      "title": "TOGÜ Borçlar Genel 2. Dönem (Bahar) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "tokat__borclar-genel-yillik",
+      "title": "TOGÜ Borçlar Genel Yıllık (Tam paket) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "yozgat__borclar-genel-donem-1",
+      "title": "Bozok Borçlar Genel 1. Dönem (Güz) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "yozgat__borclar-genel-donem-2",
+      "title": "Bozok Borçlar Genel 2. Dönem (Bahar) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "yozgat__borclar-genel-yillik",
+      "title": "Bozok Borçlar Genel Yıllık (Tam paket) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "kirsehir__borclar-genel-donem-1",
+      "title": "AHİEVRAN Borçlar Genel 1. Dönem (Güz) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "kirsehir__borclar-genel-donem-2",
+      "title": "AHİEVRAN Borçlar Genel 2. Dönem (Bahar) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "kirsehir__borclar-genel-yillik",
+      "title": "AHİEVRAN Borçlar Genel Yıllık (Tam paket) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "nevsehir__borclar-genel-donem-1",
+      "title": "NEVÜ Borçlar Genel 1. Dönem (Güz) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "nevsehir__borclar-genel-donem-2",
+      "title": "NEVÜ Borçlar Genel 2. Dönem (Bahar) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "nevsehir__borclar-genel-yillik",
+      "title": "NEVÜ Borçlar Genel Yıllık (Tam paket) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "mersin__borclar-genel-donem-1",
+      "title": "MEÜ Borçlar Genel 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "mersin__borclar-genel-donem-2",
+      "title": "MEÜ Borçlar Genel 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "mersin__borclar-genel-yillik",
+      "title": "MEÜ Borçlar Genel Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "hatay__borclar-genel-donem-1",
+      "title": "MKÜ Borçlar Genel 1. Dönem (Güz) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "hatay__borclar-genel-donem-2",
+      "title": "MKÜ Borçlar Genel 2. Dönem (Bahar) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "hatay__borclar-genel-yillik",
+      "title": "MKÜ Borçlar Genel Yıllık (Tam paket) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "kahramanmaras__borclar-genel-donem-1",
+      "title": "KSÜ Borçlar Genel 1. Dönem (Güz) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "kahramanmaras__borclar-genel-donem-2",
+      "title": "KSÜ Borçlar Genel 2. Dönem (Bahar) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "kahramanmaras__borclar-genel-yillik",
+      "title": "KSÜ Borçlar Genel Yıllık (Tam paket) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "osmaniye__borclar-genel-donem-1",
+      "title": "OKÜ Borçlar Genel 1. Dönem (Güz) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "osmaniye__borclar-genel-donem-2",
+      "title": "OKÜ Borçlar Genel 2. Dönem (Bahar) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "osmaniye__borclar-genel-yillik",
+      "title": "OKÜ Borçlar Genel Yıllık (Tam paket) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "samsun__borclar-genel-donem-1",
+      "title": "OMÜ Borçlar Genel 1. Dönem (Güz) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "samsun__borclar-genel-donem-2",
+      "title": "OMÜ Borçlar Genel 2. Dönem (Bahar) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "samsun__borclar-genel-yillik",
+      "title": "OMÜ Borçlar Genel Yıllık (Tam paket) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "ordu__borclar-genel-donem-1",
+      "title": "ODÜ Borçlar Genel 1. Dönem (Güz) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "ordu__borclar-genel-donem-2",
+      "title": "ODÜ Borçlar Genel 2. Dönem (Bahar) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "ordu__borclar-genel-yillik",
+      "title": "ODÜ Borçlar Genel Yıllık (Tam paket) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "giresun__borclar-genel-donem-1",
+      "title": "GÜ Borçlar Genel 1. Dönem (Güz) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "giresun__borclar-genel-donem-2",
+      "title": "GÜ Borçlar Genel 2. Dönem (Bahar) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "giresun__borclar-genel-yillik",
+      "title": "GÜ Borçlar Genel Yıllık (Tam paket) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "rize__borclar-genel-donem-1",
+      "title": "RTEÜ Borçlar Genel 1. Dönem (Güz) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "rize__borclar-genel-donem-2",
+      "title": "RTEÜ Borçlar Genel 2. Dönem (Bahar) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "rize__borclar-genel-yillik",
+      "title": "RTEÜ Borçlar Genel Yıllık (Tam paket) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "artvin__borclar-genel-donem-1",
+      "title": "AÇÜ Borçlar Genel 1. Dönem (Güz) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "artvin__borclar-genel-donem-2",
+      "title": "AÇÜ Borçlar Genel 2. Dönem (Bahar) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "artvin__borclar-genel-yillik",
+      "title": "AÇÜ Borçlar Genel Yıllık (Tam paket) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "van-yyu__borclar-genel-donem-1",
+      "title": "YYÜ Borçlar Genel 1. Dönem (Güz) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "van-yyu__borclar-genel-donem-2",
+      "title": "YYÜ Borçlar Genel 2. Dönem (Bahar) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "van-yyu__borclar-genel-yillik",
+      "title": "YYÜ Borçlar Genel Yıllık (Tam paket) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "agri__borclar-genel-donem-1",
+      "title": "AİÇÜ Borçlar Genel 1. Dönem (Güz) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "agri__borclar-genel-donem-2",
+      "title": "AİÇÜ Borçlar Genel 2. Dönem (Bahar) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "agri__borclar-genel-yillik",
+      "title": "AİÇÜ Borçlar Genel Yıllık (Tam paket) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "kars__borclar-genel-donem-1",
+      "title": "Kafkas Borçlar Genel 1. Dönem (Güz) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "kars__borclar-genel-donem-2",
+      "title": "Kafkas Borçlar Genel 2. Dönem (Bahar) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "kars__borclar-genel-yillik",
+      "title": "Kafkas Borçlar Genel Yıllık (Tam paket) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "erzincan__borclar-genel-donem-1",
+      "title": "EBYÜ Borçlar Genel 1. Dönem (Güz) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "erzincan__borclar-genel-donem-2",
+      "title": "EBYÜ Borçlar Genel 2. Dönem (Bahar) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "erzincan__borclar-genel-yillik",
+      "title": "EBYÜ Borçlar Genel Yıllık (Tam paket) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "bayburt__borclar-genel-donem-1",
+      "title": "Bayburt Borçlar Genel 1. Dönem (Güz) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "bayburt__borclar-genel-donem-2",
+      "title": "Bayburt Borçlar Genel 2. Dönem (Bahar) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "bayburt__borclar-genel-yillik",
+      "title": "Bayburt Borçlar Genel Yıllık (Tam paket) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "gumushane__borclar-genel-donem-1",
+      "title": "Gümüşhane Borçlar Genel 1. Dönem (Güz) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "gumushane__borclar-genel-donem-2",
+      "title": "Gümüşhane Borçlar Genel 2. Dönem (Bahar) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "gumushane__borclar-genel-yillik",
+      "title": "Gümüşhane Borçlar Genel Yıllık (Tam paket) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "bingol__borclar-genel-donem-1",
+      "title": "Bingöl Borçlar Genel 1. Dönem (Güz) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "bingol__borclar-genel-donem-2",
+      "title": "Bingöl Borçlar Genel 2. Dönem (Bahar) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "bingol__borclar-genel-yillik",
+      "title": "Bingöl Borçlar Genel Yıllık (Tam paket) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "mus__borclar-genel-donem-1",
+      "title": "Muş Borçlar Genel 1. Dönem (Güz) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "mus__borclar-genel-donem-2",
+      "title": "Muş Borçlar Genel 2. Dönem (Bahar) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "mus__borclar-genel-yillik",
+      "title": "Muş Borçlar Genel Yıllık (Tam paket) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "hakkari__borclar-genel-donem-1",
+      "title": "Hakkâri Borçlar Genel 1. Dönem (Güz) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "hakkari__borclar-genel-donem-2",
+      "title": "Hakkâri Borçlar Genel 2. Dönem (Bahar) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "hakkari__borclar-genel-yillik",
+      "title": "Hakkâri Borçlar Genel Yıllık (Tam paket) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "sirnak__borclar-genel-donem-1",
+      "title": "Şırnak Borçlar Genel 1. Dönem (Güz) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "sirnak__borclar-genel-donem-2",
+      "title": "Şırnak Borçlar Genel 2. Dönem (Bahar) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "sirnak__borclar-genel-yillik",
+      "title": "Şırnak Borçlar Genel Yıllık (Tam paket) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "mardin__borclar-genel-donem-1",
+      "title": "Artuklu Borçlar Genel 1. Dönem (Güz) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "mardin__borclar-genel-donem-2",
+      "title": "Artuklu Borçlar Genel 2. Dönem (Bahar) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "mardin__borclar-genel-yillik",
+      "title": "Artuklu Borçlar Genel Yıllık (Tam paket) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "batman__borclar-genel-donem-1",
+      "title": "Batman Borçlar Genel 1. Dönem (Güz) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "batman__borclar-genel-donem-2",
+      "title": "Batman Borçlar Genel 2. Dönem (Bahar) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "batman__borclar-genel-yillik",
+      "title": "Batman Borçlar Genel Yıllık (Tam paket) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "siirt__borclar-genel-donem-1",
+      "title": "Siirt Borçlar Genel 1. Dönem (Güz) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "siirt__borclar-genel-donem-2",
+      "title": "Siirt Borçlar Genel 2. Dönem (Bahar) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "siirt__borclar-genel-yillik",
+      "title": "Siirt Borçlar Genel Yıllık (Tam paket) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "adiyaman__borclar-genel-donem-1",
+      "title": "Adıyaman Borçlar Genel 1. Dönem (Güz) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "adiyaman__borclar-genel-donem-2",
+      "title": "Adıyaman Borçlar Genel 2. Dönem (Bahar) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "adiyaman__borclar-genel-yillik",
+      "title": "Adıyaman Borçlar Genel Yıllık (Tam paket) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "kilis__borclar-genel-donem-1",
+      "title": "Kilis Borçlar Genel 1. Dönem (Güz) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "kilis__borclar-genel-donem-2",
+      "title": "Kilis Borçlar Genel 2. Dönem (Bahar) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "kilis__borclar-genel-yillik",
+      "title": "Kilis Borçlar Genel Yıllık (Tam paket) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "igdir__borclar-genel-donem-1",
+      "title": "Iğdır Borçlar Genel 1. Dönem (Güz) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "igdir__borclar-genel-donem-2",
+      "title": "Iğdır Borçlar Genel 2. Dönem (Bahar) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "igdir__borclar-genel-yillik",
+      "title": "Iğdır Borçlar Genel Yıllık (Tam paket) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "ardahan__borclar-genel-donem-1",
+      "title": "Ardahan Borçlar Genel 1. Dönem (Güz) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "ardahan__borclar-genel-donem-2",
+      "title": "Ardahan Borçlar Genel 2. Dönem (Bahar) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "ardahan__borclar-genel-yillik",
+      "title": "Ardahan Borçlar Genel Yıllık (Tam paket) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "bilecik__borclar-genel-donem-1",
+      "title": "BŞEÜ Borçlar Genel 1. Dönem (Güz) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "bilecik__borclar-genel-donem-2",
+      "title": "BŞEÜ Borçlar Genel 2. Dönem (Bahar) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "bilecik__borclar-genel-yillik",
+      "title": "BŞEÜ Borçlar Genel Yıllık (Tam paket) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "bolu__borclar-genel-donem-1",
+      "title": "BAİBÜ Borçlar Genel 1. Dönem (Güz) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "bolu__borclar-genel-donem-2",
+      "title": "BAİBÜ Borçlar Genel 2. Dönem (Bahar) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "bolu__borclar-genel-yillik",
+      "title": "BAİBÜ Borçlar Genel Yıllık (Tam paket) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "duzce__borclar-genel-donem-1",
+      "title": "Düzce Borçlar Genel 1. Dönem (Güz) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "duzce__borclar-genel-donem-2",
+      "title": "Düzce Borçlar Genel 2. Dönem (Bahar) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "duzce__borclar-genel-yillik",
+      "title": "Düzce Borçlar Genel Yıllık (Tam paket) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "zonguldak__borclar-genel-donem-1",
+      "title": "BEÜN Borçlar Genel 1. Dönem (Güz) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "zonguldak__borclar-genel-donem-2",
+      "title": "BEÜN Borçlar Genel 2. Dönem (Bahar) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "zonguldak__borclar-genel-yillik",
+      "title": "BEÜN Borçlar Genel Yıllık (Tam paket) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "karabuk__borclar-genel-donem-1",
+      "title": "KBÜ Borçlar Genel 1. Dönem (Güz) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "karabuk__borclar-genel-donem-2",
+      "title": "KBÜ Borçlar Genel 2. Dönem (Bahar) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "karabuk__borclar-genel-yillik",
+      "title": "KBÜ Borçlar Genel Yıllık (Tam paket) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "kastamonu__borclar-genel-donem-1",
+      "title": "KÜ Borçlar Genel 1. Dönem (Güz) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "kastamonu__borclar-genel-donem-2",
+      "title": "KÜ Borçlar Genel 2. Dönem (Bahar) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "kastamonu__borclar-genel-yillik",
+      "title": "KÜ Borçlar Genel Yıllık (Tam paket) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "sinop__borclar-genel-donem-1",
+      "title": "Sinop Borçlar Genel 1. Dönem (Güz) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "sinop__borclar-genel-donem-2",
+      "title": "Sinop Borçlar Genel 2. Dönem (Bahar) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "sinop__borclar-genel-yillik",
+      "title": "Sinop Borçlar Genel Yıllık (Tam paket) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "corum__borclar-genel-donem-1",
+      "title": "Hitit Borçlar Genel 1. Dönem (Güz) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "corum__borclar-genel-donem-2",
+      "title": "Hitit Borçlar Genel 2. Dönem (Bahar) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "corum__borclar-genel-yillik",
+      "title": "Hitit Borçlar Genel Yıllık (Tam paket) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "amasya__borclar-genel-donem-1",
+      "title": "Amasya Borçlar Genel 1. Dönem (Güz) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "amasya__borclar-genel-donem-2",
+      "title": "Amasya Borçlar Genel 2. Dönem (Bahar) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "amasya__borclar-genel-yillik",
+      "title": "Amasya Borçlar Genel Yıllık (Tam paket) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "cankiri__borclar-genel-donem-1",
+      "title": "Karatekin Borçlar Genel 1. Dönem (Güz) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "cankiri__borclar-genel-donem-2",
+      "title": "Karatekin Borçlar Genel 2. Dönem (Bahar) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "cankiri__borclar-genel-yillik",
+      "title": "Karatekin Borçlar Genel Yıllık (Tam paket) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "kirikkale__borclar-genel-donem-1",
+      "title": "Kırıkkale Borçlar Genel 1. Dönem (Güz) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "kirikkale__borclar-genel-donem-2",
+      "title": "Kırıkkale Borçlar Genel 2. Dönem (Bahar) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "kirikkale__borclar-genel-yillik",
+      "title": "Kırıkkale Borçlar Genel Yıllık (Tam paket) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "aksaray__borclar-genel-donem-1",
+      "title": "Aksaray Borçlar Genel 1. Dönem (Güz) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "aksaray__borclar-genel-donem-2",
+      "title": "Aksaray Borçlar Genel 2. Dönem (Bahar) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "aksaray__borclar-genel-yillik",
+      "title": "Aksaray Borçlar Genel Yıllık (Tam paket) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "nigde__borclar-genel-donem-1",
+      "title": "ÖHÜ Borçlar Genel 1. Dönem (Güz) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "nigde__borclar-genel-donem-2",
+      "title": "ÖHÜ Borçlar Genel 2. Dönem (Bahar) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "nigde__borclar-genel-yillik",
+      "title": "ÖHÜ Borçlar Genel Yıllık (Tam paket) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "konya-teknik__borclar-genel-donem-1",
+      "title": "NEÜ Borçlar Genel 1. Dönem (Güz) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "konya-teknik__borclar-genel-donem-2",
+      "title": "NEÜ Borçlar Genel 2. Dönem (Bahar) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "konya-teknik__borclar-genel-yillik",
+      "title": "NEÜ Borçlar Genel Yıllık (Tam paket) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "karaman__borclar-genel-donem-1",
+      "title": "KMÜ Borçlar Genel 1. Dönem (Güz) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "karaman__borclar-genel-donem-2",
+      "title": "KMÜ Borçlar Genel 2. Dönem (Bahar) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "karaman__borclar-genel-yillik",
+      "title": "KMÜ Borçlar Genel Yıllık (Tam paket) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "usak__borclar-genel-donem-1",
+      "title": "Uşak Borçlar Genel 1. Dönem (Güz) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "usak__borclar-genel-donem-2",
+      "title": "Uşak Borçlar Genel 2. Dönem (Bahar) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "usak__borclar-genel-yillik",
+      "title": "Uşak Borçlar Genel Yıllık (Tam paket) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "manisa__borclar-genel-donem-1",
+      "title": "MCBÜ Borçlar Genel 1. Dönem (Güz) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "manisa__borclar-genel-donem-2",
+      "title": "MCBÜ Borçlar Genel 2. Dönem (Bahar) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "manisa__borclar-genel-yillik",
+      "title": "MCBÜ Borçlar Genel Yıllık (Tam paket) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "aydin-adu__borclar-genel-donem-1",
+      "title": "ADÜ Borçlar Genel 1. Dönem (Güz) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "aydin-adu__borclar-genel-donem-2",
+      "title": "ADÜ Borçlar Genel 2. Dönem (Bahar) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "aydin-adu__borclar-genel-yillik",
+      "title": "ADÜ Borçlar Genel Yıllık (Tam paket) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "tekirdag__borclar-genel-donem-1",
+      "title": "NKÜ Borçlar Genel 1. Dönem (Güz) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "tekirdag__borclar-genel-donem-2",
+      "title": "NKÜ Borçlar Genel 2. Dönem (Bahar) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "tekirdag__borclar-genel-yillik",
+      "title": "NKÜ Borçlar Genel Yıllık (Tam paket) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "kirklareli__borclar-genel-donem-1",
+      "title": "Kırklareli Borçlar Genel 1. Dönem (Güz) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "kirklareli__borclar-genel-donem-2",
+      "title": "Kırklareli Borçlar Genel 2. Dönem (Bahar) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "kirklareli__borclar-genel-yillik",
+      "title": "Kırklareli Borçlar Genel Yıllık (Tam paket) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "atilim__borclar-genel-donem-1",
+      "title": "Atılım Borçlar Genel 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "atilim__borclar-genel-donem-2",
+      "title": "Atılım Borçlar Genel 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "atilim__borclar-genel-yillik",
+      "title": "Atılım Borçlar Genel Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "cankaya__borclar-genel-donem-1",
+      "title": "Çankaya Borçlar Genel 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "cankaya__borclar-genel-donem-2",
+      "title": "Çankaya Borçlar Genel 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "cankaya__borclar-genel-yillik",
+      "title": "Çankaya Borçlar Genel Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "ufuk__borclar-genel-donem-1",
+      "title": "Ufuk Borçlar Genel 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "ufuk__borclar-genel-donem-2",
+      "title": "Ufuk Borçlar Genel 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "ufuk__borclar-genel-yillik",
+      "title": "Ufuk Borçlar Genel Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "yasar__borclar-genel-donem-1",
+      "title": "Yaşar Borçlar Genel 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "yasar__borclar-genel-donem-2",
+      "title": "Yaşar Borçlar Genel 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "yasar__borclar-genel-yillik",
+      "title": "Yaşar Borçlar Genel Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "izmir-ekonomi__borclar-genel-donem-1",
+      "title": "İEÜ Borçlar Genel 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "izmir-ekonomi__borclar-genel-donem-2",
+      "title": "İEÜ Borçlar Genel 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "izmir-ekonomi__borclar-genel-yillik",
+      "title": "İEÜ Borçlar Genel Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "tinaztepe__borclar-genel-donem-1",
+      "title": "Tınaztepe Borçlar Genel 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "tinaztepe__borclar-genel-donem-2",
+      "title": "Tınaztepe Borçlar Genel 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "tinaztepe__borclar-genel-yillik",
+      "title": "Tınaztepe Borçlar Genel Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "asbu-vakif__borclar-genel-donem-1",
+      "title": "ABÜ Borçlar Genel 1. Dönem (Güz) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "asbu-vakif__borclar-genel-donem-2",
+      "title": "ABÜ Borçlar Genel 2. Dönem (Bahar) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "asbu-vakif__borclar-genel-yillik",
+      "title": "ABÜ Borçlar Genel Yıllık (Tam paket) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "hasan-kalyoncu__borclar-genel-donem-1",
+      "title": "HKÜ Borçlar Genel 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "hasan-kalyoncu__borclar-genel-donem-2",
+      "title": "HKÜ Borçlar Genel 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "hasan-kalyoncu__borclar-genel-yillik",
+      "title": "HKÜ Borçlar Genel Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "sanko__borclar-genel-donem-1",
+      "title": "Sanko Borçlar Genel 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "sanko__borclar-genel-donem-2",
+      "title": "Sanko Borçlar Genel 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "sanko__borclar-genel-yillik",
+      "title": "Sanko Borçlar Genel Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "toros__borclar-genel-donem-1",
+      "title": "Toros Borçlar Genel 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "toros__borclar-genel-donem-2",
+      "title": "Toros Borçlar Genel 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "toros__borclar-genel-yillik",
+      "title": "Toros Borçlar Genel Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "borclar-genel-donem-1",
+      "slug": "cag__borclar-genel-donem-1",
+      "title": "Çağ Borçlar Genel 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/borclar-genel-donem-1",
+      "variantOf": "borclar-genel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "borclar-genel-donem-2",
+      "slug": "cag__borclar-genel-donem-2",
+      "title": "Çağ Borçlar Genel 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/borclar-genel-donem-2",
+      "variantOf": "borclar-genel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "borclar-genel-yillik",
+      "slug": "cag__borclar-genel-yillik",
+      "title": "Çağ Borçlar Genel Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/borclar-genel-yillik",
+      "variantOf": "borclar-genel",
+      "variantLabel": "Yıllık (Tam paket)"
     }
-  ]
+  ],
+  "borclarGenelTripleAt": "2026-07-29T20:05:58.703Z"
 }
