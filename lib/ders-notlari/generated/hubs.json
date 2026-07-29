@@ -792,6 +792,30 @@
         "href": "/ders-notlari/ankara-yildirim-beyazit/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -1607,6 +1631,30 @@
         "href": "/ders-notlari/ankara/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ankara/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ankara/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ankara/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -2423,6 +2471,30 @@
         "href": "/ders-notlari/istanbul/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/istanbul/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/istanbul/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/istanbul/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -3237,6 +3309,30 @@
         "href": "/ders-notlari/marmara/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/marmara/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/marmara/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/marmara/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -4053,6 +4149,30 @@
         "href": "/ders-notlari/galatasaray/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/galatasaray/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/galatasaray/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/galatasaray/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -4868,6 +4988,30 @@
         "href": "/ders-notlari/dokuz-eylul/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/dokuz-eylul/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/dokuz-eylul/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/dokuz-eylul/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -5682,6 +5826,30 @@
         "href": "/ders-notlari/hacettepe/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/hacettepe/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/hacettepe/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/hacettepe/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -6497,6 +6665,30 @@
         "href": "/ders-notlari/ankara-hacibayram/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ankara-hacibayram/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ankara-hacibayram/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ankara-hacibayram/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -7311,6 +7503,30 @@
         "href": "/ders-notlari/bilkent/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/bilkent/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/bilkent/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/bilkent/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -8126,6 +8342,30 @@
         "href": "/ders-notlari/koc/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/koc/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/koc/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/koc/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -8941,6 +9181,30 @@
         "href": "/ders-notlari/tobb-etu/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/tobb-etu/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/tobb-etu/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/tobb-etu/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -9755,6 +10019,30 @@
         "href": "/ders-notlari/bogazici/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/bogazici/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/bogazici/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/bogazici/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -10569,6 +10857,30 @@
         "href": "/ders-notlari/ege/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ege/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ege/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ege/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -11383,6 +11695,30 @@
         "href": "/ders-notlari/akdeniz/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/akdeniz/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/akdeniz/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/akdeniz/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -12197,6 +12533,30 @@
         "href": "/ders-notlari/selcuk/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/selcuk/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/selcuk/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/selcuk/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -13011,6 +13371,30 @@
         "href": "/ders-notlari/erciyes/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/erciyes/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/erciyes/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/erciyes/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -13826,6 +14210,30 @@
         "href": "/ders-notlari/uludag/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/uludag/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/uludag/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/uludag/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -14640,6 +15048,30 @@
         "href": "/ders-notlari/cukurova/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/cukurova/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/cukurova/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/cukurova/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -15454,6 +15886,30 @@
         "href": "/ders-notlari/anadolu/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/anadolu/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/anadolu/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/anadolu/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -16269,6 +16725,30 @@
         "href": "/ders-notlari/gazi-ankara/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/gazi-ankara/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/gazi-ankara/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/gazi-ankara/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -17084,6 +17564,30 @@
         "href": "/ders-notlari/yildiz-teknik/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/yildiz-teknik/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/yildiz-teknik/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/yildiz-teknik/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -17898,6 +18402,30 @@
         "href": "/ders-notlari/istanbul-medeniyet/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/istanbul-medeniyet/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/istanbul-medeniyet/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/istanbul-medeniyet/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -18713,6 +19241,30 @@
         "href": "/ders-notlari/bahcesehir/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/bahcesehir/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/bahcesehir/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/bahcesehir/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -19527,6 +20079,30 @@
         "href": "/ders-notlari/yeditepe/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/yeditepe/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/yeditepe/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/yeditepe/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -20341,6 +20917,30 @@
         "href": "/ders-notlari/ozyegin/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ozyegin/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ozyegin/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ozyegin/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -21155,6 +21755,30 @@
         "href": "/ders-notlari/kadir-has/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kadir-has/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kadir-has/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kadir-has/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -21969,6 +22593,30 @@
         "href": "/ders-notlari/istanbul-bilgi/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/istanbul-bilgi/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/istanbul-bilgi/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/istanbul-bilgi/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -22783,6 +23431,30 @@
         "href": "/ders-notlari/mehmet-akif/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/mehmet-akif/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/mehmet-akif/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/mehmet-akif/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -23597,6 +24269,30 @@
         "href": "/ders-notlari/altinbas/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/altinbas/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/altinbas/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/altinbas/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -24411,6 +25107,30 @@
         "href": "/ders-notlari/maltepe/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/maltepe/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/maltepe/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/maltepe/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -25225,6 +25945,30 @@
         "href": "/ders-notlari/dogus/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/dogus/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/dogus/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/dogus/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -26039,6 +26783,30 @@
         "href": "/ders-notlari/isik/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/isik/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/isik/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/isik/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -26853,6 +27621,30 @@
         "href": "/ders-notlari/okan/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/okan/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/okan/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/okan/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -27667,6 +28459,30 @@
         "href": "/ders-notlari/kultur/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kultur/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kultur/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kultur/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -28481,6 +29297,30 @@
         "href": "/ders-notlari/aydin/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/aydin/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/aydin/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/aydin/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -29295,6 +30135,30 @@
         "href": "/ders-notlari/gelisim/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/gelisim/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/gelisim/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/gelisim/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -30109,6 +30973,30 @@
         "href": "/ders-notlari/topkapi/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/topkapi/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/topkapi/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/topkapi/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -30923,6 +31811,30 @@
         "href": "/ders-notlari/nisantasi/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/nisantasi/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/nisantasi/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/nisantasi/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -31737,6 +32649,30 @@
         "href": "/ders-notlari/beykent/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/beykent/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/beykent/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/beykent/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -32551,6 +33487,30 @@
         "href": "/ders-notlari/halic/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/halic/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/halic/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/halic/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -33365,6 +34325,30 @@
         "href": "/ders-notlari/fatih-sultan/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/fatih-sultan/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/fatih-sultan/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/fatih-sultan/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -34180,6 +35164,30 @@
         "href": "/ders-notlari/karadeniz-teknik/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/karadeniz-teknik/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/karadeniz-teknik/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/karadeniz-teknik/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -34995,6 +36003,30 @@
         "href": "/ders-notlari/ataturk/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ataturk/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ataturk/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ataturk/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -35809,6 +36841,30 @@
         "href": "/ders-notlari/inonu/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/inonu/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/inonu/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/inonu/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -36623,6 +37679,30 @@
         "href": "/ders-notlari/dicle/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/dicle/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/dicle/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/dicle/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -37437,6 +38517,30 @@
         "href": "/ders-notlari/firat/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/firat/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/firat/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/firat/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -38251,6 +39355,30 @@
         "href": "/ders-notlari/gaziantep/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/gaziantep/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/gaziantep/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/gaziantep/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -39066,6 +40194,30 @@
         "href": "/ders-notlari/suleyman-demirel/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/suleyman-demirel/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/suleyman-demirel/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/suleyman-demirel/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -39880,6 +41032,30 @@
         "href": "/ders-notlari/pamukkale/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/pamukkale/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/pamukkale/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/pamukkale/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -40694,6 +41870,30 @@
         "href": "/ders-notlari/mugla/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/mugla/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/mugla/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/mugla/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -41508,6 +42708,30 @@
         "href": "/ders-notlari/sakarya/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/sakarya/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/sakarya/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/sakarya/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -42322,6 +43546,30 @@
         "href": "/ders-notlari/kocaeli/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kocaeli/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kocaeli/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kocaeli/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -43136,6 +44384,30 @@
         "href": "/ders-notlari/trakya/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/trakya/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/trakya/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/trakya/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -43950,6 +45222,30 @@
         "href": "/ders-notlari/canakkale/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/canakkale/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/canakkale/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/canakkale/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -44764,6 +46060,30 @@
         "href": "/ders-notlari/balikesir/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/balikesir/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/balikesir/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/balikesir/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -45579,6 +46899,30 @@
         "href": "/ders-notlari/afyon/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/afyon/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/afyon/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/afyon/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -46393,6 +47737,30 @@
         "href": "/ders-notlari/dumlupinar/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/dumlupinar/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/dumlupinar/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/dumlupinar/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -47207,6 +48575,30 @@
         "href": "/ders-notlari/eskisehir-osmangazi/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/eskisehir-osmangazi/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/eskisehir-osmangazi/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/eskisehir-osmangazi/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -48022,6 +49414,30 @@
         "href": "/ders-notlari/sivas-cumhuriyet/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/sivas-cumhuriyet/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/sivas-cumhuriyet/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/sivas-cumhuriyet/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -48836,6 +50252,30 @@
         "href": "/ders-notlari/tokat/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/tokat/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/tokat/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/tokat/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -49650,6 +51090,30 @@
         "href": "/ders-notlari/yozgat/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/yozgat/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/yozgat/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/yozgat/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -50464,6 +51928,30 @@
         "href": "/ders-notlari/kirsehir/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kirsehir/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kirsehir/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kirsehir/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -51278,6 +52766,30 @@
         "href": "/ders-notlari/nevsehir/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/nevsehir/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/nevsehir/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/nevsehir/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -52092,6 +53604,30 @@
         "href": "/ders-notlari/mersin/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/mersin/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/mersin/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/mersin/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -52907,6 +54443,30 @@
         "href": "/ders-notlari/hatay/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/hatay/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/hatay/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/hatay/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -53721,6 +55281,30 @@
         "href": "/ders-notlari/kahramanmaras/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kahramanmaras/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kahramanmaras/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kahramanmaras/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -54535,6 +56119,30 @@
         "href": "/ders-notlari/osmaniye/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/osmaniye/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/osmaniye/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/osmaniye/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -55350,6 +56958,30 @@
         "href": "/ders-notlari/samsun/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/samsun/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/samsun/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/samsun/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -56164,6 +57796,30 @@
         "href": "/ders-notlari/ordu/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ordu/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ordu/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ordu/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -56978,6 +58634,30 @@
         "href": "/ders-notlari/giresun/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/giresun/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/giresun/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/giresun/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -57793,6 +59473,30 @@
         "href": "/ders-notlari/rize/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/rize/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/rize/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/rize/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -58607,6 +60311,30 @@
         "href": "/ders-notlari/artvin/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/artvin/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/artvin/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/artvin/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -59423,6 +61151,30 @@
         "href": "/ders-notlari/van-yyu/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/van-yyu/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/van-yyu/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/van-yyu/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -60237,6 +61989,30 @@
         "href": "/ders-notlari/agri/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/agri/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/agri/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/agri/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -61051,6 +62827,30 @@
         "href": "/ders-notlari/kars/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kars/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kars/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kars/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -61865,6 +63665,30 @@
         "href": "/ders-notlari/erzincan/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/erzincan/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/erzincan/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/erzincan/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -62679,6 +64503,30 @@
         "href": "/ders-notlari/bayburt/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/bayburt/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/bayburt/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/bayburt/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -63493,6 +65341,30 @@
         "href": "/ders-notlari/gumushane/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/gumushane/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/gumushane/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/gumushane/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -64307,6 +66179,30 @@
         "href": "/ders-notlari/bingol/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/bingol/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/bingol/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/bingol/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -65121,6 +67017,30 @@
         "href": "/ders-notlari/mus/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/mus/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/mus/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/mus/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -65935,6 +67855,30 @@
         "href": "/ders-notlari/hakkari/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/hakkari/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/hakkari/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/hakkari/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -66749,6 +68693,30 @@
         "href": "/ders-notlari/sirnak/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/sirnak/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/sirnak/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/sirnak/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -67564,6 +69532,30 @@
         "href": "/ders-notlari/mardin/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/mardin/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/mardin/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/mardin/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -68378,6 +70370,30 @@
         "href": "/ders-notlari/batman/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/batman/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/batman/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/batman/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -69192,6 +71208,30 @@
         "href": "/ders-notlari/siirt/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/siirt/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/siirt/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/siirt/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -70006,6 +72046,30 @@
         "href": "/ders-notlari/adiyaman/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/adiyaman/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/adiyaman/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/adiyaman/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -70820,6 +72884,30 @@
         "href": "/ders-notlari/kilis/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kilis/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kilis/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kilis/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -71634,6 +73722,30 @@
         "href": "/ders-notlari/igdir/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/igdir/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/igdir/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/igdir/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -72448,6 +74560,30 @@
         "href": "/ders-notlari/ardahan/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ardahan/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ardahan/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ardahan/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -73262,6 +75398,30 @@
         "href": "/ders-notlari/bilecik/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/bilecik/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/bilecik/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/bilecik/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -74077,6 +76237,30 @@
         "href": "/ders-notlari/bolu/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/bolu/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/bolu/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/bolu/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -74891,6 +77075,30 @@
         "href": "/ders-notlari/duzce/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/duzce/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/duzce/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/duzce/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -75705,6 +77913,30 @@
         "href": "/ders-notlari/zonguldak/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/zonguldak/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/zonguldak/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/zonguldak/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -76519,6 +78751,30 @@
         "href": "/ders-notlari/karabuk/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/karabuk/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/karabuk/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/karabuk/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -77333,6 +79589,30 @@
         "href": "/ders-notlari/kastamonu/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kastamonu/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kastamonu/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kastamonu/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -78147,6 +80427,30 @@
         "href": "/ders-notlari/sinop/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/sinop/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/sinop/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/sinop/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -78962,6 +81266,30 @@
         "href": "/ders-notlari/corum/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/corum/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/corum/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/corum/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -79776,6 +82104,30 @@
         "href": "/ders-notlari/amasya/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/amasya/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/amasya/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/amasya/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -80590,6 +82942,30 @@
         "href": "/ders-notlari/cankiri/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/cankiri/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/cankiri/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/cankiri/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -81404,6 +83780,30 @@
         "href": "/ders-notlari/kirikkale/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kirikkale/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kirikkale/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kirikkale/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -82218,6 +84618,30 @@
         "href": "/ders-notlari/aksaray/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/aksaray/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/aksaray/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/aksaray/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -83032,6 +85456,30 @@
         "href": "/ders-notlari/nigde/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/nigde/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/nigde/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/nigde/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -83846,6 +86294,30 @@
         "href": "/ders-notlari/konya-teknik/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/konya-teknik/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/konya-teknik/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/konya-teknik/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -84660,6 +87132,30 @@
         "href": "/ders-notlari/karaman/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/karaman/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/karaman/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/karaman/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -85474,6 +87970,30 @@
         "href": "/ders-notlari/usak/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/usak/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/usak/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/usak/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -86289,6 +88809,30 @@
         "href": "/ders-notlari/manisa/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/manisa/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/manisa/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/manisa/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -87103,6 +89647,30 @@
         "href": "/ders-notlari/aydin-adu/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/aydin-adu/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/aydin-adu/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/aydin-adu/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -87917,6 +90485,30 @@
         "href": "/ders-notlari/tekirdag/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/tekirdag/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/tekirdag/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/tekirdag/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -88731,6 +91323,30 @@
         "href": "/ders-notlari/kirklareli/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/kirklareli/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/kirklareli/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/kirklareli/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -89545,6 +92161,30 @@
         "href": "/ders-notlari/atilim/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/atilim/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/atilim/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/atilim/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -90359,6 +92999,30 @@
         "href": "/ders-notlari/cankaya/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/cankaya/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/cankaya/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/cankaya/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -91173,6 +93837,30 @@
         "href": "/ders-notlari/ufuk/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/ufuk/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/ufuk/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/ufuk/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -91987,6 +94675,30 @@
         "href": "/ders-notlari/yasar/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/yasar/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/yasar/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/yasar/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -92801,6 +95513,30 @@
         "href": "/ders-notlari/izmir-ekonomi/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/izmir-ekonomi/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/izmir-ekonomi/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/izmir-ekonomi/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -93615,6 +96351,30 @@
         "href": "/ders-notlari/tinaztepe/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/tinaztepe/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/tinaztepe/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/tinaztepe/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -94429,6 +97189,30 @@
         "href": "/ders-notlari/asbu-vakif/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/asbu-vakif/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/asbu-vakif/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/asbu-vakif/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -95243,6 +98027,30 @@
         "href": "/ders-notlari/hasan-kalyoncu/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/hasan-kalyoncu/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/hasan-kalyoncu/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/hasan-kalyoncu/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -96057,6 +98865,30 @@
         "href": "/ders-notlari/sanko/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/sanko/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/sanko/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/sanko/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -96871,6 +99703,30 @@
         "href": "/ders-notlari/toros/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/toros/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/toros/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/toros/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [
@@ -97685,6 +100541,30 @@
         "href": "/ders-notlari/cag/arabuluculuk-yillik",
         "ready": true,
         "variantOf": "arabuluculuk"
+      },
+      {
+        "code": "devletler-ozel-donem-1",
+        "title": "MÖHUK — 1. Dönem (Güz)",
+        "year": 4,
+        "href": "/ders-notlari/cag/devletler-ozel-donem-1",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-donem-2",
+        "title": "MÖHUK — 2. Dönem (Bahar)",
+        "year": 4,
+        "href": "/ders-notlari/cag/devletler-ozel-donem-2",
+        "ready": true,
+        "variantOf": "devletler-ozel"
+      },
+      {
+        "code": "devletler-ozel-yillik",
+        "title": "MÖHUK — Yıllık Tam Not",
+        "year": 4,
+        "href": "/ders-notlari/cag/devletler-ozel-yillik",
+        "ready": true,
+        "variantOf": "devletler-ozel"
       }
     ],
     "seoParagraphs": [

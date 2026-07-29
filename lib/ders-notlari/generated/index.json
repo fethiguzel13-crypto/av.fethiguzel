@@ -3,7 +3,7 @@
   "wave": "all",
   "universityCount": 120,
   "hubCount": 120,
-  "noteCount": 12000,
+  "noteCount": 12360,
   "universities": [
     {
       "slug": "ankara-yildirim-beyazit",
@@ -102126,6 +102126,3246 @@
       "href": "/ders-notlari/cag/arabuluculuk-yillik",
       "variantOf": "arabuluculuk",
       "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "ankara-yildirim-beyazit__devletler-ozel-donem-1",
+      "title": "AYBÜ MÖHUK 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "ankara-yildirim-beyazit__devletler-ozel-donem-2",
+      "title": "AYBÜ MÖHUK 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "ankara-yildirim-beyazit__devletler-ozel-yillik",
+      "title": "AYBÜ MÖHUK Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "ankara__devletler-ozel-donem-1",
+      "title": "AÜHF MÖHUK 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "ankara__devletler-ozel-donem-2",
+      "title": "AÜHF MÖHUK 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "ankara__devletler-ozel-yillik",
+      "title": "AÜHF MÖHUK Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "istanbul__devletler-ozel-donem-1",
+      "title": "İÜHF MÖHUK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "istanbul__devletler-ozel-donem-2",
+      "title": "İÜHF MÖHUK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "istanbul__devletler-ozel-yillik",
+      "title": "İÜHF MÖHUK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "marmara__devletler-ozel-donem-1",
+      "title": "MÜHF MÖHUK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "marmara__devletler-ozel-donem-2",
+      "title": "MÜHF MÖHUK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "marmara__devletler-ozel-yillik",
+      "title": "MÜHF MÖHUK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "galatasaray__devletler-ozel-donem-1",
+      "title": "GSÜ MÖHUK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "galatasaray__devletler-ozel-donem-2",
+      "title": "GSÜ MÖHUK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "galatasaray__devletler-ozel-yillik",
+      "title": "GSÜ MÖHUK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "dokuz-eylul__devletler-ozel-donem-1",
+      "title": "DEÜ MÖHUK 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "dokuz-eylul__devletler-ozel-donem-2",
+      "title": "DEÜ MÖHUK 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "dokuz-eylul__devletler-ozel-yillik",
+      "title": "DEÜ MÖHUK Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "hacettepe__devletler-ozel-donem-1",
+      "title": "Hacettepe MÖHUK 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "hacettepe__devletler-ozel-donem-2",
+      "title": "Hacettepe MÖHUK 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "hacettepe__devletler-ozel-yillik",
+      "title": "Hacettepe MÖHUK Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "ankara-hacibayram__devletler-ozel-donem-1",
+      "title": "AHBV MÖHUK 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "ankara-hacibayram__devletler-ozel-donem-2",
+      "title": "AHBV MÖHUK 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "ankara-hacibayram__devletler-ozel-yillik",
+      "title": "AHBV MÖHUK Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "bilkent__devletler-ozel-donem-1",
+      "title": "Bilkent MÖHUK 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "bilkent__devletler-ozel-donem-2",
+      "title": "Bilkent MÖHUK 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "bilkent__devletler-ozel-yillik",
+      "title": "Bilkent MÖHUK Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "koc__devletler-ozel-donem-1",
+      "title": "Koç MÖHUK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "koc__devletler-ozel-donem-2",
+      "title": "Koç MÖHUK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "koc__devletler-ozel-yillik",
+      "title": "Koç MÖHUK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "tobb-etu__devletler-ozel-donem-1",
+      "title": "TOBB ETÜ MÖHUK 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "tobb-etu__devletler-ozel-donem-2",
+      "title": "TOBB ETÜ MÖHUK 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "tobb-etu__devletler-ozel-yillik",
+      "title": "TOBB ETÜ MÖHUK Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "bogazici__devletler-ozel-donem-1",
+      "title": "BÜ MÖHUK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "bogazici__devletler-ozel-donem-2",
+      "title": "BÜ MÖHUK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "bogazici__devletler-ozel-yillik",
+      "title": "BÜ MÖHUK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "ege__devletler-ozel-donem-1",
+      "title": "Ege MÖHUK 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "ege__devletler-ozel-donem-2",
+      "title": "Ege MÖHUK 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "ege__devletler-ozel-yillik",
+      "title": "Ege MÖHUK Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "akdeniz__devletler-ozel-donem-1",
+      "title": "Akdeniz MÖHUK 1. Dönem (Güz) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "akdeniz__devletler-ozel-donem-2",
+      "title": "Akdeniz MÖHUK 2. Dönem (Bahar) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "akdeniz__devletler-ozel-yillik",
+      "title": "Akdeniz MÖHUK Yıllık (Tam paket) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "selcuk__devletler-ozel-donem-1",
+      "title": "Selçuk MÖHUK 1. Dönem (Güz) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "selcuk__devletler-ozel-donem-2",
+      "title": "Selçuk MÖHUK 2. Dönem (Bahar) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "selcuk__devletler-ozel-yillik",
+      "title": "Selçuk MÖHUK Yıllık (Tam paket) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "erciyes__devletler-ozel-donem-1",
+      "title": "Erciyes MÖHUK 1. Dönem (Güz) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "erciyes__devletler-ozel-donem-2",
+      "title": "Erciyes MÖHUK 2. Dönem (Bahar) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "erciyes__devletler-ozel-yillik",
+      "title": "Erciyes MÖHUK Yıllık (Tam paket) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "uludag__devletler-ozel-donem-1",
+      "title": "Uludağ MÖHUK 1. Dönem (Güz) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "uludag__devletler-ozel-donem-2",
+      "title": "Uludağ MÖHUK 2. Dönem (Bahar) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "uludag__devletler-ozel-yillik",
+      "title": "Uludağ MÖHUK Yıllık (Tam paket) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "cukurova__devletler-ozel-donem-1",
+      "title": "Çukurova MÖHUK 1. Dönem (Güz) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "cukurova__devletler-ozel-donem-2",
+      "title": "Çukurova MÖHUK 2. Dönem (Bahar) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "cukurova__devletler-ozel-yillik",
+      "title": "Çukurova MÖHUK Yıllık (Tam paket) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "anadolu__devletler-ozel-donem-1",
+      "title": "Anadolu MÖHUK 1. Dönem (Güz) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "anadolu__devletler-ozel-donem-2",
+      "title": "Anadolu MÖHUK 2. Dönem (Bahar) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "anadolu__devletler-ozel-yillik",
+      "title": "Anadolu MÖHUK Yıllık (Tam paket) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "gazi-ankara__devletler-ozel-donem-1",
+      "title": "ASBÜ MÖHUK 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "gazi-ankara__devletler-ozel-donem-2",
+      "title": "ASBÜ MÖHUK 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "gazi-ankara__devletler-ozel-yillik",
+      "title": "ASBÜ MÖHUK Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "yildiz-teknik__devletler-ozel-donem-1",
+      "title": "YTÜ MÖHUK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "yildiz-teknik__devletler-ozel-donem-2",
+      "title": "YTÜ MÖHUK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "yildiz-teknik__devletler-ozel-yillik",
+      "title": "YTÜ MÖHUK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "istanbul-medeniyet__devletler-ozel-donem-1",
+      "title": "Medeniyet MÖHUK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "istanbul-medeniyet__devletler-ozel-donem-2",
+      "title": "Medeniyet MÖHUK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "istanbul-medeniyet__devletler-ozel-yillik",
+      "title": "Medeniyet MÖHUK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "bahcesehir__devletler-ozel-donem-1",
+      "title": "BAU MÖHUK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "bahcesehir__devletler-ozel-donem-2",
+      "title": "BAU MÖHUK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "bahcesehir__devletler-ozel-yillik",
+      "title": "BAU MÖHUK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "yeditepe__devletler-ozel-donem-1",
+      "title": "Yeditepe MÖHUK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "yeditepe__devletler-ozel-donem-2",
+      "title": "Yeditepe MÖHUK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "yeditepe__devletler-ozel-yillik",
+      "title": "Yeditepe MÖHUK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "ozyegin__devletler-ozel-donem-1",
+      "title": "Özyeğin MÖHUK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "ozyegin__devletler-ozel-donem-2",
+      "title": "Özyeğin MÖHUK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "ozyegin__devletler-ozel-yillik",
+      "title": "Özyeğin MÖHUK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "kadir-has__devletler-ozel-donem-1",
+      "title": "KHAS MÖHUK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "kadir-has__devletler-ozel-donem-2",
+      "title": "KHAS MÖHUK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "kadir-has__devletler-ozel-yillik",
+      "title": "KHAS MÖHUK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "istanbul-bilgi__devletler-ozel-donem-1",
+      "title": "Bilgi MÖHUK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "istanbul-bilgi__devletler-ozel-donem-2",
+      "title": "Bilgi MÖHUK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "istanbul-bilgi__devletler-ozel-yillik",
+      "title": "Bilgi MÖHUK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "mehmet-akif__devletler-ozel-donem-1",
+      "title": "Medipol MÖHUK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "mehmet-akif__devletler-ozel-donem-2",
+      "title": "Medipol MÖHUK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "mehmet-akif__devletler-ozel-yillik",
+      "title": "Medipol MÖHUK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "altinbas__devletler-ozel-donem-1",
+      "title": "Altınbaş MÖHUK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "altinbas__devletler-ozel-donem-2",
+      "title": "Altınbaş MÖHUK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "altinbas__devletler-ozel-yillik",
+      "title": "Altınbaş MÖHUK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "maltepe__devletler-ozel-donem-1",
+      "title": "Maltepe MÖHUK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "maltepe__devletler-ozel-donem-2",
+      "title": "Maltepe MÖHUK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "maltepe__devletler-ozel-yillik",
+      "title": "Maltepe MÖHUK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "dogus__devletler-ozel-donem-1",
+      "title": "Doğuş MÖHUK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "dogus__devletler-ozel-donem-2",
+      "title": "Doğuş MÖHUK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "dogus__devletler-ozel-yillik",
+      "title": "Doğuş MÖHUK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "isik__devletler-ozel-donem-1",
+      "title": "Işık MÖHUK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "isik__devletler-ozel-donem-2",
+      "title": "Işık MÖHUK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "isik__devletler-ozel-yillik",
+      "title": "Işık MÖHUK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "okan__devletler-ozel-donem-1",
+      "title": "Okan MÖHUK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "okan__devletler-ozel-donem-2",
+      "title": "Okan MÖHUK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "okan__devletler-ozel-yillik",
+      "title": "Okan MÖHUK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "kultur__devletler-ozel-donem-1",
+      "title": "İKÜ MÖHUK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "kultur__devletler-ozel-donem-2",
+      "title": "İKÜ MÖHUK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "kultur__devletler-ozel-yillik",
+      "title": "İKÜ MÖHUK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "aydin__devletler-ozel-donem-1",
+      "title": "İAÜ MÖHUK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "aydin__devletler-ozel-donem-2",
+      "title": "İAÜ MÖHUK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "aydin__devletler-ozel-yillik",
+      "title": "İAÜ MÖHUK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "gelisim__devletler-ozel-donem-1",
+      "title": "Gelişim MÖHUK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "gelisim__devletler-ozel-donem-2",
+      "title": "Gelişim MÖHUK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "gelisim__devletler-ozel-yillik",
+      "title": "Gelişim MÖHUK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "topkapi__devletler-ozel-donem-1",
+      "title": "Topkapı MÖHUK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "topkapi__devletler-ozel-donem-2",
+      "title": "Topkapı MÖHUK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "topkapi__devletler-ozel-yillik",
+      "title": "Topkapı MÖHUK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "nisantasi__devletler-ozel-donem-1",
+      "title": "Nişantaşı MÖHUK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "nisantasi__devletler-ozel-donem-2",
+      "title": "Nişantaşı MÖHUK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "nisantasi__devletler-ozel-yillik",
+      "title": "Nişantaşı MÖHUK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "beykent__devletler-ozel-donem-1",
+      "title": "Beykent MÖHUK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "beykent__devletler-ozel-donem-2",
+      "title": "Beykent MÖHUK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "beykent__devletler-ozel-yillik",
+      "title": "Beykent MÖHUK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "halic__devletler-ozel-donem-1",
+      "title": "Haliç MÖHUK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "halic__devletler-ozel-donem-2",
+      "title": "Haliç MÖHUK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "halic__devletler-ozel-yillik",
+      "title": "Haliç MÖHUK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "fatih-sultan__devletler-ozel-donem-1",
+      "title": "FSMVÜ MÖHUK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "fatih-sultan__devletler-ozel-donem-2",
+      "title": "FSMVÜ MÖHUK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "fatih-sultan__devletler-ozel-yillik",
+      "title": "FSMVÜ MÖHUK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "karadeniz-teknik__devletler-ozel-donem-1",
+      "title": "KTÜ MÖHUK 1. Dönem (Güz) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "karadeniz-teknik__devletler-ozel-donem-2",
+      "title": "KTÜ MÖHUK 2. Dönem (Bahar) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "karadeniz-teknik__devletler-ozel-yillik",
+      "title": "KTÜ MÖHUK Yıllık (Tam paket) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "ataturk__devletler-ozel-donem-1",
+      "title": "Atatürk MÖHUK 1. Dönem (Güz) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "ataturk__devletler-ozel-donem-2",
+      "title": "Atatürk MÖHUK 2. Dönem (Bahar) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "ataturk__devletler-ozel-yillik",
+      "title": "Atatürk MÖHUK Yıllık (Tam paket) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "inonu__devletler-ozel-donem-1",
+      "title": "İnönü MÖHUK 1. Dönem (Güz) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "inonu__devletler-ozel-donem-2",
+      "title": "İnönü MÖHUK 2. Dönem (Bahar) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "inonu__devletler-ozel-yillik",
+      "title": "İnönü MÖHUK Yıllık (Tam paket) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "dicle__devletler-ozel-donem-1",
+      "title": "Dicle MÖHUK 1. Dönem (Güz) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "dicle__devletler-ozel-donem-2",
+      "title": "Dicle MÖHUK 2. Dönem (Bahar) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "dicle__devletler-ozel-yillik",
+      "title": "Dicle MÖHUK Yıllık (Tam paket) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "firat__devletler-ozel-donem-1",
+      "title": "Fırat MÖHUK 1. Dönem (Güz) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "firat__devletler-ozel-donem-2",
+      "title": "Fırat MÖHUK 2. Dönem (Bahar) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "firat__devletler-ozel-yillik",
+      "title": "Fırat MÖHUK Yıllık (Tam paket) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "gaziantep__devletler-ozel-donem-1",
+      "title": "GAÜN MÖHUK 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "gaziantep__devletler-ozel-donem-2",
+      "title": "GAÜN MÖHUK 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "gaziantep__devletler-ozel-yillik",
+      "title": "GAÜN MÖHUK Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "suleyman-demirel__devletler-ozel-donem-1",
+      "title": "SDÜ MÖHUK 1. Dönem (Güz) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "suleyman-demirel__devletler-ozel-donem-2",
+      "title": "SDÜ MÖHUK 2. Dönem (Bahar) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "suleyman-demirel__devletler-ozel-yillik",
+      "title": "SDÜ MÖHUK Yıllık (Tam paket) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "pamukkale__devletler-ozel-donem-1",
+      "title": "PAÜ MÖHUK 1. Dönem (Güz) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "pamukkale__devletler-ozel-donem-2",
+      "title": "PAÜ MÖHUK 2. Dönem (Bahar) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "pamukkale__devletler-ozel-yillik",
+      "title": "PAÜ MÖHUK Yıllık (Tam paket) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "mugla__devletler-ozel-donem-1",
+      "title": "MSKU MÖHUK 1. Dönem (Güz) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "mugla__devletler-ozel-donem-2",
+      "title": "MSKU MÖHUK 2. Dönem (Bahar) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "mugla__devletler-ozel-yillik",
+      "title": "MSKU MÖHUK Yıllık (Tam paket) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "sakarya__devletler-ozel-donem-1",
+      "title": "SAÜ MÖHUK 1. Dönem (Güz) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "sakarya__devletler-ozel-donem-2",
+      "title": "SAÜ MÖHUK 2. Dönem (Bahar) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "sakarya__devletler-ozel-yillik",
+      "title": "SAÜ MÖHUK Yıllık (Tam paket) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "kocaeli__devletler-ozel-donem-1",
+      "title": "KOÜ MÖHUK 1. Dönem (Güz) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "kocaeli__devletler-ozel-donem-2",
+      "title": "KOÜ MÖHUK 2. Dönem (Bahar) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "kocaeli__devletler-ozel-yillik",
+      "title": "KOÜ MÖHUK Yıllık (Tam paket) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "trakya__devletler-ozel-donem-1",
+      "title": "Trakya MÖHUK 1. Dönem (Güz) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "trakya__devletler-ozel-donem-2",
+      "title": "Trakya MÖHUK 2. Dönem (Bahar) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "trakya__devletler-ozel-yillik",
+      "title": "Trakya MÖHUK Yıllık (Tam paket) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "canakkale__devletler-ozel-donem-1",
+      "title": "ÇOMÜ MÖHUK 1. Dönem (Güz) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "canakkale__devletler-ozel-donem-2",
+      "title": "ÇOMÜ MÖHUK 2. Dönem (Bahar) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "canakkale__devletler-ozel-yillik",
+      "title": "ÇOMÜ MÖHUK Yıllık (Tam paket) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "balikesir__devletler-ozel-donem-1",
+      "title": "BAÜN MÖHUK 1. Dönem (Güz) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "balikesir__devletler-ozel-donem-2",
+      "title": "BAÜN MÖHUK 2. Dönem (Bahar) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "balikesir__devletler-ozel-yillik",
+      "title": "BAÜN MÖHUK Yıllık (Tam paket) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "afyon__devletler-ozel-donem-1",
+      "title": "AKÜ MÖHUK 1. Dönem (Güz) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "afyon__devletler-ozel-donem-2",
+      "title": "AKÜ MÖHUK 2. Dönem (Bahar) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "afyon__devletler-ozel-yillik",
+      "title": "AKÜ MÖHUK Yıllık (Tam paket) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "dumlupinar__devletler-ozel-donem-1",
+      "title": "DPÜ MÖHUK 1. Dönem (Güz) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "dumlupinar__devletler-ozel-donem-2",
+      "title": "DPÜ MÖHUK 2. Dönem (Bahar) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "dumlupinar__devletler-ozel-yillik",
+      "title": "DPÜ MÖHUK Yıllık (Tam paket) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "eskisehir-osmangazi__devletler-ozel-donem-1",
+      "title": "ESOGÜ MÖHUK 1. Dönem (Güz) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "eskisehir-osmangazi__devletler-ozel-donem-2",
+      "title": "ESOGÜ MÖHUK 2. Dönem (Bahar) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "eskisehir-osmangazi__devletler-ozel-yillik",
+      "title": "ESOGÜ MÖHUK Yıllık (Tam paket) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "sivas-cumhuriyet__devletler-ozel-donem-1",
+      "title": "SCÜ MÖHUK 1. Dönem (Güz) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "sivas-cumhuriyet__devletler-ozel-donem-2",
+      "title": "SCÜ MÖHUK 2. Dönem (Bahar) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "sivas-cumhuriyet__devletler-ozel-yillik",
+      "title": "SCÜ MÖHUK Yıllık (Tam paket) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "tokat__devletler-ozel-donem-1",
+      "title": "TOGÜ MÖHUK 1. Dönem (Güz) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "tokat__devletler-ozel-donem-2",
+      "title": "TOGÜ MÖHUK 2. Dönem (Bahar) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "tokat__devletler-ozel-yillik",
+      "title": "TOGÜ MÖHUK Yıllık (Tam paket) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "yozgat__devletler-ozel-donem-1",
+      "title": "Bozok MÖHUK 1. Dönem (Güz) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "yozgat__devletler-ozel-donem-2",
+      "title": "Bozok MÖHUK 2. Dönem (Bahar) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "yozgat__devletler-ozel-yillik",
+      "title": "Bozok MÖHUK Yıllık (Tam paket) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "kirsehir__devletler-ozel-donem-1",
+      "title": "AHİEVRAN MÖHUK 1. Dönem (Güz) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "kirsehir__devletler-ozel-donem-2",
+      "title": "AHİEVRAN MÖHUK 2. Dönem (Bahar) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "kirsehir__devletler-ozel-yillik",
+      "title": "AHİEVRAN MÖHUK Yıllık (Tam paket) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "nevsehir__devletler-ozel-donem-1",
+      "title": "NEVÜ MÖHUK 1. Dönem (Güz) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "nevsehir__devletler-ozel-donem-2",
+      "title": "NEVÜ MÖHUK 2. Dönem (Bahar) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "nevsehir__devletler-ozel-yillik",
+      "title": "NEVÜ MÖHUK Yıllık (Tam paket) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "mersin__devletler-ozel-donem-1",
+      "title": "MEÜ MÖHUK 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "mersin__devletler-ozel-donem-2",
+      "title": "MEÜ MÖHUK 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "mersin__devletler-ozel-yillik",
+      "title": "MEÜ MÖHUK Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "hatay__devletler-ozel-donem-1",
+      "title": "MKÜ MÖHUK 1. Dönem (Güz) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "hatay__devletler-ozel-donem-2",
+      "title": "MKÜ MÖHUK 2. Dönem (Bahar) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "hatay__devletler-ozel-yillik",
+      "title": "MKÜ MÖHUK Yıllık (Tam paket) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "kahramanmaras__devletler-ozel-donem-1",
+      "title": "KSÜ MÖHUK 1. Dönem (Güz) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "kahramanmaras__devletler-ozel-donem-2",
+      "title": "KSÜ MÖHUK 2. Dönem (Bahar) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "kahramanmaras__devletler-ozel-yillik",
+      "title": "KSÜ MÖHUK Yıllık (Tam paket) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "osmaniye__devletler-ozel-donem-1",
+      "title": "OKÜ MÖHUK 1. Dönem (Güz) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "osmaniye__devletler-ozel-donem-2",
+      "title": "OKÜ MÖHUK 2. Dönem (Bahar) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "osmaniye__devletler-ozel-yillik",
+      "title": "OKÜ MÖHUK Yıllık (Tam paket) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "samsun__devletler-ozel-donem-1",
+      "title": "OMÜ MÖHUK 1. Dönem (Güz) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "samsun__devletler-ozel-donem-2",
+      "title": "OMÜ MÖHUK 2. Dönem (Bahar) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "samsun__devletler-ozel-yillik",
+      "title": "OMÜ MÖHUK Yıllık (Tam paket) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "ordu__devletler-ozel-donem-1",
+      "title": "ODÜ MÖHUK 1. Dönem (Güz) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "ordu__devletler-ozel-donem-2",
+      "title": "ODÜ MÖHUK 2. Dönem (Bahar) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "ordu__devletler-ozel-yillik",
+      "title": "ODÜ MÖHUK Yıllık (Tam paket) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "giresun__devletler-ozel-donem-1",
+      "title": "GÜ MÖHUK 1. Dönem (Güz) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "giresun__devletler-ozel-donem-2",
+      "title": "GÜ MÖHUK 2. Dönem (Bahar) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "giresun__devletler-ozel-yillik",
+      "title": "GÜ MÖHUK Yıllık (Tam paket) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "rize__devletler-ozel-donem-1",
+      "title": "RTEÜ MÖHUK 1. Dönem (Güz) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "rize__devletler-ozel-donem-2",
+      "title": "RTEÜ MÖHUK 2. Dönem (Bahar) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "rize__devletler-ozel-yillik",
+      "title": "RTEÜ MÖHUK Yıllık (Tam paket) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "artvin__devletler-ozel-donem-1",
+      "title": "AÇÜ MÖHUK 1. Dönem (Güz) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "artvin__devletler-ozel-donem-2",
+      "title": "AÇÜ MÖHUK 2. Dönem (Bahar) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "artvin__devletler-ozel-yillik",
+      "title": "AÇÜ MÖHUK Yıllık (Tam paket) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "van-yyu__devletler-ozel-donem-1",
+      "title": "YYÜ MÖHUK 1. Dönem (Güz) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "van-yyu__devletler-ozel-donem-2",
+      "title": "YYÜ MÖHUK 2. Dönem (Bahar) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "van-yyu__devletler-ozel-yillik",
+      "title": "YYÜ MÖHUK Yıllık (Tam paket) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "agri__devletler-ozel-donem-1",
+      "title": "AİÇÜ MÖHUK 1. Dönem (Güz) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "agri__devletler-ozel-donem-2",
+      "title": "AİÇÜ MÖHUK 2. Dönem (Bahar) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "agri__devletler-ozel-yillik",
+      "title": "AİÇÜ MÖHUK Yıllık (Tam paket) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "kars__devletler-ozel-donem-1",
+      "title": "Kafkas MÖHUK 1. Dönem (Güz) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "kars__devletler-ozel-donem-2",
+      "title": "Kafkas MÖHUK 2. Dönem (Bahar) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "kars__devletler-ozel-yillik",
+      "title": "Kafkas MÖHUK Yıllık (Tam paket) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "erzincan__devletler-ozel-donem-1",
+      "title": "EBYÜ MÖHUK 1. Dönem (Güz) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "erzincan__devletler-ozel-donem-2",
+      "title": "EBYÜ MÖHUK 2. Dönem (Bahar) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "erzincan__devletler-ozel-yillik",
+      "title": "EBYÜ MÖHUK Yıllık (Tam paket) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "bayburt__devletler-ozel-donem-1",
+      "title": "Bayburt MÖHUK 1. Dönem (Güz) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "bayburt__devletler-ozel-donem-2",
+      "title": "Bayburt MÖHUK 2. Dönem (Bahar) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "bayburt__devletler-ozel-yillik",
+      "title": "Bayburt MÖHUK Yıllık (Tam paket) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "gumushane__devletler-ozel-donem-1",
+      "title": "Gümüşhane MÖHUK 1. Dönem (Güz) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "gumushane__devletler-ozel-donem-2",
+      "title": "Gümüşhane MÖHUK 2. Dönem (Bahar) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "gumushane__devletler-ozel-yillik",
+      "title": "Gümüşhane MÖHUK Yıllık (Tam paket) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "bingol__devletler-ozel-donem-1",
+      "title": "Bingöl MÖHUK 1. Dönem (Güz) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "bingol__devletler-ozel-donem-2",
+      "title": "Bingöl MÖHUK 2. Dönem (Bahar) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "bingol__devletler-ozel-yillik",
+      "title": "Bingöl MÖHUK Yıllık (Tam paket) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "mus__devletler-ozel-donem-1",
+      "title": "Muş MÖHUK 1. Dönem (Güz) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "mus__devletler-ozel-donem-2",
+      "title": "Muş MÖHUK 2. Dönem (Bahar) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "mus__devletler-ozel-yillik",
+      "title": "Muş MÖHUK Yıllık (Tam paket) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "hakkari__devletler-ozel-donem-1",
+      "title": "Hakkâri MÖHUK 1. Dönem (Güz) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "hakkari__devletler-ozel-donem-2",
+      "title": "Hakkâri MÖHUK 2. Dönem (Bahar) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "hakkari__devletler-ozel-yillik",
+      "title": "Hakkâri MÖHUK Yıllık (Tam paket) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "sirnak__devletler-ozel-donem-1",
+      "title": "Şırnak MÖHUK 1. Dönem (Güz) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "sirnak__devletler-ozel-donem-2",
+      "title": "Şırnak MÖHUK 2. Dönem (Bahar) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "sirnak__devletler-ozel-yillik",
+      "title": "Şırnak MÖHUK Yıllık (Tam paket) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "mardin__devletler-ozel-donem-1",
+      "title": "Artuklu MÖHUK 1. Dönem (Güz) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "mardin__devletler-ozel-donem-2",
+      "title": "Artuklu MÖHUK 2. Dönem (Bahar) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "mardin__devletler-ozel-yillik",
+      "title": "Artuklu MÖHUK Yıllık (Tam paket) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "batman__devletler-ozel-donem-1",
+      "title": "Batman MÖHUK 1. Dönem (Güz) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "batman__devletler-ozel-donem-2",
+      "title": "Batman MÖHUK 2. Dönem (Bahar) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "batman__devletler-ozel-yillik",
+      "title": "Batman MÖHUK Yıllık (Tam paket) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "siirt__devletler-ozel-donem-1",
+      "title": "Siirt MÖHUK 1. Dönem (Güz) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "siirt__devletler-ozel-donem-2",
+      "title": "Siirt MÖHUK 2. Dönem (Bahar) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "siirt__devletler-ozel-yillik",
+      "title": "Siirt MÖHUK Yıllık (Tam paket) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "adiyaman__devletler-ozel-donem-1",
+      "title": "Adıyaman MÖHUK 1. Dönem (Güz) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "adiyaman__devletler-ozel-donem-2",
+      "title": "Adıyaman MÖHUK 2. Dönem (Bahar) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "adiyaman__devletler-ozel-yillik",
+      "title": "Adıyaman MÖHUK Yıllık (Tam paket) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "kilis__devletler-ozel-donem-1",
+      "title": "Kilis MÖHUK 1. Dönem (Güz) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "kilis__devletler-ozel-donem-2",
+      "title": "Kilis MÖHUK 2. Dönem (Bahar) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "kilis__devletler-ozel-yillik",
+      "title": "Kilis MÖHUK Yıllık (Tam paket) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "igdir__devletler-ozel-donem-1",
+      "title": "Iğdır MÖHUK 1. Dönem (Güz) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "igdir__devletler-ozel-donem-2",
+      "title": "Iğdır MÖHUK 2. Dönem (Bahar) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "igdir__devletler-ozel-yillik",
+      "title": "Iğdır MÖHUK Yıllık (Tam paket) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "ardahan__devletler-ozel-donem-1",
+      "title": "Ardahan MÖHUK 1. Dönem (Güz) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "ardahan__devletler-ozel-donem-2",
+      "title": "Ardahan MÖHUK 2. Dönem (Bahar) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "ardahan__devletler-ozel-yillik",
+      "title": "Ardahan MÖHUK Yıllık (Tam paket) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "bilecik__devletler-ozel-donem-1",
+      "title": "BŞEÜ MÖHUK 1. Dönem (Güz) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "bilecik__devletler-ozel-donem-2",
+      "title": "BŞEÜ MÖHUK 2. Dönem (Bahar) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "bilecik__devletler-ozel-yillik",
+      "title": "BŞEÜ MÖHUK Yıllık (Tam paket) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "bolu__devletler-ozel-donem-1",
+      "title": "BAİBÜ MÖHUK 1. Dönem (Güz) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "bolu__devletler-ozel-donem-2",
+      "title": "BAİBÜ MÖHUK 2. Dönem (Bahar) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "bolu__devletler-ozel-yillik",
+      "title": "BAİBÜ MÖHUK Yıllık (Tam paket) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "duzce__devletler-ozel-donem-1",
+      "title": "Düzce MÖHUK 1. Dönem (Güz) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "duzce__devletler-ozel-donem-2",
+      "title": "Düzce MÖHUK 2. Dönem (Bahar) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "duzce__devletler-ozel-yillik",
+      "title": "Düzce MÖHUK Yıllık (Tam paket) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "zonguldak__devletler-ozel-donem-1",
+      "title": "BEÜN MÖHUK 1. Dönem (Güz) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "zonguldak__devletler-ozel-donem-2",
+      "title": "BEÜN MÖHUK 2. Dönem (Bahar) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "zonguldak__devletler-ozel-yillik",
+      "title": "BEÜN MÖHUK Yıllık (Tam paket) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "karabuk__devletler-ozel-donem-1",
+      "title": "KBÜ MÖHUK 1. Dönem (Güz) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "karabuk__devletler-ozel-donem-2",
+      "title": "KBÜ MÖHUK 2. Dönem (Bahar) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "karabuk__devletler-ozel-yillik",
+      "title": "KBÜ MÖHUK Yıllık (Tam paket) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "kastamonu__devletler-ozel-donem-1",
+      "title": "KÜ MÖHUK 1. Dönem (Güz) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "kastamonu__devletler-ozel-donem-2",
+      "title": "KÜ MÖHUK 2. Dönem (Bahar) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "kastamonu__devletler-ozel-yillik",
+      "title": "KÜ MÖHUK Yıllık (Tam paket) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "sinop__devletler-ozel-donem-1",
+      "title": "Sinop MÖHUK 1. Dönem (Güz) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "sinop__devletler-ozel-donem-2",
+      "title": "Sinop MÖHUK 2. Dönem (Bahar) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "sinop__devletler-ozel-yillik",
+      "title": "Sinop MÖHUK Yıllık (Tam paket) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "corum__devletler-ozel-donem-1",
+      "title": "Hitit MÖHUK 1. Dönem (Güz) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "corum__devletler-ozel-donem-2",
+      "title": "Hitit MÖHUK 2. Dönem (Bahar) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "corum__devletler-ozel-yillik",
+      "title": "Hitit MÖHUK Yıllık (Tam paket) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "amasya__devletler-ozel-donem-1",
+      "title": "Amasya MÖHUK 1. Dönem (Güz) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "amasya__devletler-ozel-donem-2",
+      "title": "Amasya MÖHUK 2. Dönem (Bahar) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "amasya__devletler-ozel-yillik",
+      "title": "Amasya MÖHUK Yıllık (Tam paket) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "cankiri__devletler-ozel-donem-1",
+      "title": "Karatekin MÖHUK 1. Dönem (Güz) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "cankiri__devletler-ozel-donem-2",
+      "title": "Karatekin MÖHUK 2. Dönem (Bahar) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "cankiri__devletler-ozel-yillik",
+      "title": "Karatekin MÖHUK Yıllık (Tam paket) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "kirikkale__devletler-ozel-donem-1",
+      "title": "Kırıkkale MÖHUK 1. Dönem (Güz) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "kirikkale__devletler-ozel-donem-2",
+      "title": "Kırıkkale MÖHUK 2. Dönem (Bahar) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "kirikkale__devletler-ozel-yillik",
+      "title": "Kırıkkale MÖHUK Yıllık (Tam paket) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "aksaray__devletler-ozel-donem-1",
+      "title": "Aksaray MÖHUK 1. Dönem (Güz) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "aksaray__devletler-ozel-donem-2",
+      "title": "Aksaray MÖHUK 2. Dönem (Bahar) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "aksaray__devletler-ozel-yillik",
+      "title": "Aksaray MÖHUK Yıllık (Tam paket) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "nigde__devletler-ozel-donem-1",
+      "title": "ÖHÜ MÖHUK 1. Dönem (Güz) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "nigde__devletler-ozel-donem-2",
+      "title": "ÖHÜ MÖHUK 2. Dönem (Bahar) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "nigde__devletler-ozel-yillik",
+      "title": "ÖHÜ MÖHUK Yıllık (Tam paket) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "konya-teknik__devletler-ozel-donem-1",
+      "title": "NEÜ MÖHUK 1. Dönem (Güz) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "konya-teknik__devletler-ozel-donem-2",
+      "title": "NEÜ MÖHUK 2. Dönem (Bahar) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "konya-teknik__devletler-ozel-yillik",
+      "title": "NEÜ MÖHUK Yıllık (Tam paket) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "karaman__devletler-ozel-donem-1",
+      "title": "KMÜ MÖHUK 1. Dönem (Güz) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "karaman__devletler-ozel-donem-2",
+      "title": "KMÜ MÖHUK 2. Dönem (Bahar) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "karaman__devletler-ozel-yillik",
+      "title": "KMÜ MÖHUK Yıllık (Tam paket) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "usak__devletler-ozel-donem-1",
+      "title": "Uşak MÖHUK 1. Dönem (Güz) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "usak__devletler-ozel-donem-2",
+      "title": "Uşak MÖHUK 2. Dönem (Bahar) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "usak__devletler-ozel-yillik",
+      "title": "Uşak MÖHUK Yıllık (Tam paket) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "manisa__devletler-ozel-donem-1",
+      "title": "MCBÜ MÖHUK 1. Dönem (Güz) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "manisa__devletler-ozel-donem-2",
+      "title": "MCBÜ MÖHUK 2. Dönem (Bahar) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "manisa__devletler-ozel-yillik",
+      "title": "MCBÜ MÖHUK Yıllık (Tam paket) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "aydin-adu__devletler-ozel-donem-1",
+      "title": "ADÜ MÖHUK 1. Dönem (Güz) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "aydin-adu__devletler-ozel-donem-2",
+      "title": "ADÜ MÖHUK 2. Dönem (Bahar) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "aydin-adu__devletler-ozel-yillik",
+      "title": "ADÜ MÖHUK Yıllık (Tam paket) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "tekirdag__devletler-ozel-donem-1",
+      "title": "NKÜ MÖHUK 1. Dönem (Güz) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "tekirdag__devletler-ozel-donem-2",
+      "title": "NKÜ MÖHUK 2. Dönem (Bahar) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "tekirdag__devletler-ozel-yillik",
+      "title": "NKÜ MÖHUK Yıllık (Tam paket) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "kirklareli__devletler-ozel-donem-1",
+      "title": "Kırklareli MÖHUK 1. Dönem (Güz) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "kirklareli__devletler-ozel-donem-2",
+      "title": "Kırklareli MÖHUK 2. Dönem (Bahar) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "kirklareli__devletler-ozel-yillik",
+      "title": "Kırklareli MÖHUK Yıllık (Tam paket) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "atilim__devletler-ozel-donem-1",
+      "title": "Atılım MÖHUK 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "atilim__devletler-ozel-donem-2",
+      "title": "Atılım MÖHUK 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "atilim__devletler-ozel-yillik",
+      "title": "Atılım MÖHUK Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "cankaya__devletler-ozel-donem-1",
+      "title": "Çankaya MÖHUK 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "cankaya__devletler-ozel-donem-2",
+      "title": "Çankaya MÖHUK 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "cankaya__devletler-ozel-yillik",
+      "title": "Çankaya MÖHUK Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "ufuk__devletler-ozel-donem-1",
+      "title": "Ufuk MÖHUK 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "ufuk__devletler-ozel-donem-2",
+      "title": "Ufuk MÖHUK 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "ufuk__devletler-ozel-yillik",
+      "title": "Ufuk MÖHUK Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "yasar__devletler-ozel-donem-1",
+      "title": "Yaşar MÖHUK 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "yasar__devletler-ozel-donem-2",
+      "title": "Yaşar MÖHUK 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "yasar__devletler-ozel-yillik",
+      "title": "Yaşar MÖHUK Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "izmir-ekonomi__devletler-ozel-donem-1",
+      "title": "İEÜ MÖHUK 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "izmir-ekonomi__devletler-ozel-donem-2",
+      "title": "İEÜ MÖHUK 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "izmir-ekonomi__devletler-ozel-yillik",
+      "title": "İEÜ MÖHUK Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "tinaztepe__devletler-ozel-donem-1",
+      "title": "Tınaztepe MÖHUK 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "tinaztepe__devletler-ozel-donem-2",
+      "title": "Tınaztepe MÖHUK 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "tinaztepe__devletler-ozel-yillik",
+      "title": "Tınaztepe MÖHUK Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "asbu-vakif__devletler-ozel-donem-1",
+      "title": "ABÜ MÖHUK 1. Dönem (Güz) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "asbu-vakif__devletler-ozel-donem-2",
+      "title": "ABÜ MÖHUK 2. Dönem (Bahar) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "asbu-vakif__devletler-ozel-yillik",
+      "title": "ABÜ MÖHUK Yıllık (Tam paket) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "hasan-kalyoncu__devletler-ozel-donem-1",
+      "title": "HKÜ MÖHUK 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "hasan-kalyoncu__devletler-ozel-donem-2",
+      "title": "HKÜ MÖHUK 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "hasan-kalyoncu__devletler-ozel-yillik",
+      "title": "HKÜ MÖHUK Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "sanko__devletler-ozel-donem-1",
+      "title": "Sanko MÖHUK 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "sanko__devletler-ozel-donem-2",
+      "title": "Sanko MÖHUK 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "sanko__devletler-ozel-yillik",
+      "title": "Sanko MÖHUK Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "toros__devletler-ozel-donem-1",
+      "title": "Toros MÖHUK 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "toros__devletler-ozel-donem-2",
+      "title": "Toros MÖHUK 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "toros__devletler-ozel-yillik",
+      "title": "Toros MÖHUK Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "devletler-ozel-donem-1",
+      "slug": "cag__devletler-ozel-donem-1",
+      "title": "Çağ MÖHUK 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/devletler-ozel-donem-1",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "devletler-ozel-donem-2",
+      "slug": "cag__devletler-ozel-donem-2",
+      "title": "Çağ MÖHUK 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/devletler-ozel-donem-2",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "devletler-ozel-yillik",
+      "slug": "cag__devletler-ozel-yillik",
+      "title": "Çağ MÖHUK Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/devletler-ozel-yillik",
+      "variantOf": "devletler-ozel",
+      "variantLabel": "Yıllık (Tam paket)"
     }
   ],
   "borclarGenelTripleAt": "2026-07-29T20:05:58.703Z",
@@ -102151,5 +105391,6 @@
   "saglikHukukuTripleAt": "2026-07-29T21:14:42.533Z",
   "tuketiciHukukuTripleAt": "2026-07-29T21:17:38.037Z",
   "insaatHukukuTripleAt": "2026-07-29T21:20:33.364Z",
-  "arabuluculukTripleAt": "2026-07-29T21:23:11.701Z"
+  "arabuluculukTripleAt": "2026-07-29T21:23:11.701Z",
+  "devletlerOzelTripleAt": "2026-07-29T21:26:09.690Z"
 }

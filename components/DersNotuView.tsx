@@ -723,6 +723,18 @@ export function DersNotuView({
               { code: 'arabuluculuk-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
             ],
           },
+          {
+            match:
+              note.variantOf === 'devletler-ozel' ||
+              note.courseCode === 'devletler-ozel' ||
+              note.courseCode.startsWith('devletler-ozel-'),
+            title: 'MÖHUK · üç paket',
+            items: [
+              { code: 'devletler-ozel-donem-1', label: '1. Dönem (Güz)', desc: 'Bağlama · kişi–aile' },
+              { code: 'devletler-ozel-donem-2', label: '2. Dönem (Bahar)', desc: 'Yetki · tanıma–tenfiz' },
+              { code: 'devletler-ozel-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
+            ],
+          },
         ];
         const activePacks = packs.filter((p) => p.match);
         if (!activePacks.length) return null;
@@ -1464,6 +1476,23 @@ export function UniHubView({ hub }: { hub: UniHubContent }) {
               { code: 'arabuluculuk-donem-1', title: '1. Dönem (Güz)' },
               { code: 'arabuluculuk-donem-2', title: '2. Dönem (Bahar)' },
               { code: 'arabuluculuk-yillik', title: 'Yıllık tam not' },
+            ],
+          },
+          {
+            show: hub.courses.some(
+              (c) =>
+                String(c.code).startsWith('devletler-ozel') ||
+                c.code === 'devletler-ozel'
+            ),
+            title: 'MÖHUK — 1. dönem · 2. dönem · yıllık',
+            desc: 'Bağlama–yetki–tanıma–tenfiz… üç premium not + PDF.',
+            border: 'border-accent/20 bg-accent/[0.04]',
+            itemBorder: 'border-accent/25',
+            accent: 'text-accent',
+            items: [
+              { code: 'devletler-ozel-donem-1', title: '1. Dönem (Güz)' },
+              { code: 'devletler-ozel-donem-2', title: '2. Dönem (Bahar)' },
+              { code: 'devletler-ozel-yillik', title: 'Yıllık tam not' },
             ],
           },
         ]
