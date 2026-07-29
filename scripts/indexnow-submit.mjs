@@ -71,6 +71,11 @@ const PRIORITY = [
   `https://${HOST}/ders-notlari/ankara-yildirim-beyazit/borclar-genel-donem-1/pdf`,
   `https://${HOST}/ders-notlari/marmara/borclar-genel-yillik`,
   `https://${HOST}/ders-notlari/van-yyu/borclar-genel-donem-1`,
+  `https://${HOST}/ders-notlari/ankara-yildirim-beyazit/borclar-ozel-donem-1`,
+  `https://${HOST}/ders-notlari/ankara-yildirim-beyazit/borclar-ozel-donem-2`,
+  `https://${HOST}/ders-notlari/ankara-yildirim-beyazit/borclar-ozel-yillik`,
+  `https://${HOST}/ders-notlari/ankara-yildirim-beyazit/borclar-ozel-donem-1/pdf`,
+  `https://${HOST}/ders-notlari/marmara/borclar-ozel-yillik`,
 ];
 
 // First 80 TBK maddeleri — crawl seed

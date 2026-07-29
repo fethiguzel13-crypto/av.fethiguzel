@@ -37,7 +37,10 @@ export function generateStaticParams() {
       priority.has(p.uni) &&
       (p.ders === 'borclar-genel-donem-1' ||
         p.ders === 'borclar-genel-donem-2' ||
-        p.ders === 'borclar-genel-yillik')
+        p.ders === 'borclar-genel-yillik' ||
+        p.ders === 'borclar-ozel-donem-1' ||
+        p.ders === 'borclar-ozel-donem-2' ||
+        p.ders === 'borclar-ozel-yillik')
   );
   const rest = all.filter((p) => !priority.has(p.uni)).slice(0, 200);
   const seen = new Set<string>();

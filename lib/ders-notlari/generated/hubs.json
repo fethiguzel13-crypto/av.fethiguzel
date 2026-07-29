@@ -240,6 +240,30 @@
         "href": "/ders-notlari/ankara-yildirim-beyazit/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -503,6 +527,30 @@
         "href": "/ders-notlari/ankara/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/ankara/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/ankara/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/ankara/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -767,6 +815,30 @@
         "href": "/ders-notlari/istanbul/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/istanbul/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/istanbul/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/istanbul/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -1029,6 +1101,30 @@
         "href": "/ders-notlari/marmara/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/marmara/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/marmara/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/marmara/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -1293,6 +1389,30 @@
         "href": "/ders-notlari/galatasaray/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/galatasaray/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/galatasaray/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/galatasaray/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -1556,6 +1676,30 @@
         "href": "/ders-notlari/dokuz-eylul/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/dokuz-eylul/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/dokuz-eylul/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/dokuz-eylul/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -1818,6 +1962,30 @@
         "href": "/ders-notlari/hacettepe/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/hacettepe/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/hacettepe/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/hacettepe/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -2081,6 +2249,30 @@
         "href": "/ders-notlari/ankara-hacibayram/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/ankara-hacibayram/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/ankara-hacibayram/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/ankara-hacibayram/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -2343,6 +2535,30 @@
         "href": "/ders-notlari/bilkent/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/bilkent/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/bilkent/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/bilkent/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -2606,6 +2822,30 @@
         "href": "/ders-notlari/koc/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/koc/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/koc/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/koc/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -2869,6 +3109,30 @@
         "href": "/ders-notlari/tobb-etu/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/tobb-etu/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/tobb-etu/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/tobb-etu/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -3131,6 +3395,30 @@
         "href": "/ders-notlari/bogazici/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/bogazici/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/bogazici/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/bogazici/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -3393,6 +3681,30 @@
         "href": "/ders-notlari/ege/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/ege/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/ege/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/ege/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -3655,6 +3967,30 @@
         "href": "/ders-notlari/akdeniz/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/akdeniz/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/akdeniz/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/akdeniz/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -3917,6 +4253,30 @@
         "href": "/ders-notlari/selcuk/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/selcuk/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/selcuk/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/selcuk/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -4179,6 +4539,30 @@
         "href": "/ders-notlari/erciyes/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/erciyes/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/erciyes/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/erciyes/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -4442,6 +4826,30 @@
         "href": "/ders-notlari/uludag/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/uludag/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/uludag/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/uludag/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -4704,6 +5112,30 @@
         "href": "/ders-notlari/cukurova/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/cukurova/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/cukurova/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/cukurova/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -4966,6 +5398,30 @@
         "href": "/ders-notlari/anadolu/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/anadolu/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/anadolu/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/anadolu/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -5229,6 +5685,30 @@
         "href": "/ders-notlari/gazi-ankara/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/gazi-ankara/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/gazi-ankara/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/gazi-ankara/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -5492,6 +5972,30 @@
         "href": "/ders-notlari/yildiz-teknik/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/yildiz-teknik/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/yildiz-teknik/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/yildiz-teknik/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -5754,6 +6258,30 @@
         "href": "/ders-notlari/istanbul-medeniyet/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/istanbul-medeniyet/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/istanbul-medeniyet/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/istanbul-medeniyet/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -6017,6 +6545,30 @@
         "href": "/ders-notlari/bahcesehir/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/bahcesehir/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/bahcesehir/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/bahcesehir/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -6279,6 +6831,30 @@
         "href": "/ders-notlari/yeditepe/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/yeditepe/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/yeditepe/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/yeditepe/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -6541,6 +7117,30 @@
         "href": "/ders-notlari/ozyegin/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/ozyegin/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/ozyegin/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/ozyegin/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -6803,6 +7403,30 @@
         "href": "/ders-notlari/kadir-has/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kadir-has/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kadir-has/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kadir-has/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -7065,6 +7689,30 @@
         "href": "/ders-notlari/istanbul-bilgi/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/istanbul-bilgi/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/istanbul-bilgi/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/istanbul-bilgi/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -7327,6 +7975,30 @@
         "href": "/ders-notlari/mehmet-akif/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/mehmet-akif/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/mehmet-akif/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/mehmet-akif/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -7589,6 +8261,30 @@
         "href": "/ders-notlari/altinbas/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/altinbas/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/altinbas/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/altinbas/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -7851,6 +8547,30 @@
         "href": "/ders-notlari/maltepe/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/maltepe/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/maltepe/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/maltepe/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -8113,6 +8833,30 @@
         "href": "/ders-notlari/dogus/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/dogus/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/dogus/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/dogus/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -8375,6 +9119,30 @@
         "href": "/ders-notlari/isik/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/isik/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/isik/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/isik/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -8637,6 +9405,30 @@
         "href": "/ders-notlari/okan/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/okan/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/okan/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/okan/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -8899,6 +9691,30 @@
         "href": "/ders-notlari/kultur/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kultur/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kultur/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kultur/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -9161,6 +9977,30 @@
         "href": "/ders-notlari/aydin/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/aydin/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/aydin/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/aydin/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -9423,6 +10263,30 @@
         "href": "/ders-notlari/gelisim/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/gelisim/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/gelisim/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/gelisim/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -9685,6 +10549,30 @@
         "href": "/ders-notlari/topkapi/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/topkapi/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/topkapi/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/topkapi/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -9947,6 +10835,30 @@
         "href": "/ders-notlari/nisantasi/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/nisantasi/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/nisantasi/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/nisantasi/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -10209,6 +11121,30 @@
         "href": "/ders-notlari/beykent/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/beykent/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/beykent/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/beykent/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -10471,6 +11407,30 @@
         "href": "/ders-notlari/halic/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/halic/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/halic/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/halic/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -10733,6 +11693,30 @@
         "href": "/ders-notlari/fatih-sultan/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/fatih-sultan/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/fatih-sultan/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/fatih-sultan/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -10996,6 +11980,30 @@
         "href": "/ders-notlari/karadeniz-teknik/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/karadeniz-teknik/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/karadeniz-teknik/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/karadeniz-teknik/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -11259,6 +12267,30 @@
         "href": "/ders-notlari/ataturk/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/ataturk/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/ataturk/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/ataturk/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -11521,6 +12553,30 @@
         "href": "/ders-notlari/inonu/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/inonu/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/inonu/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/inonu/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -11783,6 +12839,30 @@
         "href": "/ders-notlari/dicle/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/dicle/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/dicle/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/dicle/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -12045,6 +13125,30 @@
         "href": "/ders-notlari/firat/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/firat/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/firat/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/firat/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -12307,6 +13411,30 @@
         "href": "/ders-notlari/gaziantep/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/gaziantep/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/gaziantep/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/gaziantep/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -12570,6 +13698,30 @@
         "href": "/ders-notlari/suleyman-demirel/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/suleyman-demirel/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/suleyman-demirel/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/suleyman-demirel/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -12832,6 +13984,30 @@
         "href": "/ders-notlari/pamukkale/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/pamukkale/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/pamukkale/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/pamukkale/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -13094,6 +14270,30 @@
         "href": "/ders-notlari/mugla/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/mugla/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/mugla/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/mugla/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -13356,6 +14556,30 @@
         "href": "/ders-notlari/sakarya/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/sakarya/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/sakarya/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/sakarya/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -13618,6 +14842,30 @@
         "href": "/ders-notlari/kocaeli/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kocaeli/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kocaeli/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kocaeli/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -13880,6 +15128,30 @@
         "href": "/ders-notlari/trakya/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/trakya/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/trakya/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/trakya/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -14142,6 +15414,30 @@
         "href": "/ders-notlari/canakkale/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/canakkale/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/canakkale/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/canakkale/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -14404,6 +15700,30 @@
         "href": "/ders-notlari/balikesir/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/balikesir/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/balikesir/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/balikesir/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -14667,6 +15987,30 @@
         "href": "/ders-notlari/afyon/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/afyon/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/afyon/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/afyon/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -14929,6 +16273,30 @@
         "href": "/ders-notlari/dumlupinar/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/dumlupinar/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/dumlupinar/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/dumlupinar/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -15191,6 +16559,30 @@
         "href": "/ders-notlari/eskisehir-osmangazi/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/eskisehir-osmangazi/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/eskisehir-osmangazi/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/eskisehir-osmangazi/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -15454,6 +16846,30 @@
         "href": "/ders-notlari/sivas-cumhuriyet/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/sivas-cumhuriyet/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/sivas-cumhuriyet/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/sivas-cumhuriyet/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -15716,6 +17132,30 @@
         "href": "/ders-notlari/tokat/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/tokat/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/tokat/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/tokat/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -15978,6 +17418,30 @@
         "href": "/ders-notlari/yozgat/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/yozgat/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/yozgat/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/yozgat/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -16240,6 +17704,30 @@
         "href": "/ders-notlari/kirsehir/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kirsehir/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kirsehir/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kirsehir/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -16502,6 +17990,30 @@
         "href": "/ders-notlari/nevsehir/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/nevsehir/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/nevsehir/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/nevsehir/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -16764,6 +18276,30 @@
         "href": "/ders-notlari/mersin/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/mersin/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/mersin/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/mersin/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -17027,6 +18563,30 @@
         "href": "/ders-notlari/hatay/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/hatay/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/hatay/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/hatay/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -17289,6 +18849,30 @@
         "href": "/ders-notlari/kahramanmaras/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kahramanmaras/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kahramanmaras/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kahramanmaras/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -17551,6 +19135,30 @@
         "href": "/ders-notlari/osmaniye/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/osmaniye/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/osmaniye/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/osmaniye/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -17814,6 +19422,30 @@
         "href": "/ders-notlari/samsun/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/samsun/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/samsun/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/samsun/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -18076,6 +19708,30 @@
         "href": "/ders-notlari/ordu/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/ordu/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/ordu/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/ordu/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -18338,6 +19994,30 @@
         "href": "/ders-notlari/giresun/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/giresun/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/giresun/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/giresun/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -18601,6 +20281,30 @@
         "href": "/ders-notlari/rize/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/rize/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/rize/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/rize/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -18863,6 +20567,30 @@
         "href": "/ders-notlari/artvin/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/artvin/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/artvin/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/artvin/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -19127,6 +20855,30 @@
         "href": "/ders-notlari/van-yyu/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/van-yyu/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/van-yyu/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/van-yyu/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -19389,6 +21141,30 @@
         "href": "/ders-notlari/agri/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/agri/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/agri/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/agri/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -19651,6 +21427,30 @@
         "href": "/ders-notlari/kars/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kars/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kars/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kars/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -19913,6 +21713,30 @@
         "href": "/ders-notlari/erzincan/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/erzincan/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/erzincan/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/erzincan/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -20175,6 +21999,30 @@
         "href": "/ders-notlari/bayburt/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/bayburt/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/bayburt/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/bayburt/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -20437,6 +22285,30 @@
         "href": "/ders-notlari/gumushane/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/gumushane/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/gumushane/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/gumushane/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -20699,6 +22571,30 @@
         "href": "/ders-notlari/bingol/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/bingol/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/bingol/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/bingol/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -20961,6 +22857,30 @@
         "href": "/ders-notlari/mus/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/mus/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/mus/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/mus/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -21223,6 +23143,30 @@
         "href": "/ders-notlari/hakkari/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/hakkari/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/hakkari/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/hakkari/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -21485,6 +23429,30 @@
         "href": "/ders-notlari/sirnak/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/sirnak/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/sirnak/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/sirnak/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -21748,6 +23716,30 @@
         "href": "/ders-notlari/mardin/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/mardin/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/mardin/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/mardin/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -22010,6 +24002,30 @@
         "href": "/ders-notlari/batman/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/batman/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/batman/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/batman/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -22272,6 +24288,30 @@
         "href": "/ders-notlari/siirt/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/siirt/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/siirt/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/siirt/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -22534,6 +24574,30 @@
         "href": "/ders-notlari/adiyaman/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/adiyaman/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/adiyaman/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/adiyaman/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -22796,6 +24860,30 @@
         "href": "/ders-notlari/kilis/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kilis/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kilis/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kilis/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -23058,6 +25146,30 @@
         "href": "/ders-notlari/igdir/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/igdir/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/igdir/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/igdir/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -23320,6 +25432,30 @@
         "href": "/ders-notlari/ardahan/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/ardahan/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/ardahan/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/ardahan/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -23582,6 +25718,30 @@
         "href": "/ders-notlari/bilecik/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/bilecik/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/bilecik/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/bilecik/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -23845,6 +26005,30 @@
         "href": "/ders-notlari/bolu/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/bolu/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/bolu/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/bolu/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -24107,6 +26291,30 @@
         "href": "/ders-notlari/duzce/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/duzce/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/duzce/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/duzce/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -24369,6 +26577,30 @@
         "href": "/ders-notlari/zonguldak/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/zonguldak/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/zonguldak/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/zonguldak/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -24631,6 +26863,30 @@
         "href": "/ders-notlari/karabuk/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/karabuk/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/karabuk/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/karabuk/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -24893,6 +27149,30 @@
         "href": "/ders-notlari/kastamonu/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kastamonu/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kastamonu/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kastamonu/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -25155,6 +27435,30 @@
         "href": "/ders-notlari/sinop/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/sinop/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/sinop/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/sinop/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -25418,6 +27722,30 @@
         "href": "/ders-notlari/corum/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/corum/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/corum/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/corum/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -25680,6 +28008,30 @@
         "href": "/ders-notlari/amasya/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/amasya/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/amasya/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/amasya/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -25942,6 +28294,30 @@
         "href": "/ders-notlari/cankiri/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/cankiri/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/cankiri/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/cankiri/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -26204,6 +28580,30 @@
         "href": "/ders-notlari/kirikkale/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kirikkale/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kirikkale/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kirikkale/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -26466,6 +28866,30 @@
         "href": "/ders-notlari/aksaray/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/aksaray/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/aksaray/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/aksaray/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -26728,6 +29152,30 @@
         "href": "/ders-notlari/nigde/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/nigde/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/nigde/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/nigde/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -26990,6 +29438,30 @@
         "href": "/ders-notlari/konya-teknik/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/konya-teknik/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/konya-teknik/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/konya-teknik/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -27252,6 +29724,30 @@
         "href": "/ders-notlari/karaman/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/karaman/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/karaman/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/karaman/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -27514,6 +30010,30 @@
         "href": "/ders-notlari/usak/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/usak/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/usak/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/usak/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -27777,6 +30297,30 @@
         "href": "/ders-notlari/manisa/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/manisa/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/manisa/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/manisa/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -28039,6 +30583,30 @@
         "href": "/ders-notlari/aydin-adu/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/aydin-adu/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/aydin-adu/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/aydin-adu/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -28301,6 +30869,30 @@
         "href": "/ders-notlari/tekirdag/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/tekirdag/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/tekirdag/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/tekirdag/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -28563,6 +31155,30 @@
         "href": "/ders-notlari/kirklareli/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kirklareli/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kirklareli/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kirklareli/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -28825,6 +31441,30 @@
         "href": "/ders-notlari/atilim/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/atilim/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/atilim/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/atilim/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -29087,6 +31727,30 @@
         "href": "/ders-notlari/cankaya/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/cankaya/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/cankaya/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/cankaya/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -29349,6 +32013,30 @@
         "href": "/ders-notlari/ufuk/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/ufuk/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/ufuk/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/ufuk/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -29611,6 +32299,30 @@
         "href": "/ders-notlari/yasar/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/yasar/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/yasar/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/yasar/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -29873,6 +32585,30 @@
         "href": "/ders-notlari/izmir-ekonomi/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/izmir-ekonomi/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/izmir-ekonomi/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/izmir-ekonomi/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -30135,6 +32871,30 @@
         "href": "/ders-notlari/tinaztepe/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/tinaztepe/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/tinaztepe/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/tinaztepe/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -30397,6 +33157,30 @@
         "href": "/ders-notlari/asbu-vakif/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/asbu-vakif/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/asbu-vakif/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/asbu-vakif/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -30659,6 +33443,30 @@
         "href": "/ders-notlari/hasan-kalyoncu/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/hasan-kalyoncu/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/hasan-kalyoncu/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/hasan-kalyoncu/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -30921,6 +33729,30 @@
         "href": "/ders-notlari/sanko/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/sanko/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/sanko/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/sanko/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -31183,6 +34015,30 @@
         "href": "/ders-notlari/toros/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/toros/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/toros/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/toros/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [
@@ -31445,6 +34301,30 @@
         "href": "/ders-notlari/cag/borclar-genel-yillik",
         "ready": true,
         "variantOf": "borclar-genel"
+      },
+      {
+        "code": "borclar-ozel-donem-1",
+        "title": "Borçlar Özel — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/cag/borclar-ozel-donem-1",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-donem-2",
+        "title": "Borçlar Özel — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/cag/borclar-ozel-donem-2",
+        "ready": true,
+        "variantOf": "borclar-ozel"
+      },
+      {
+        "code": "borclar-ozel-yillik",
+        "title": "Borçlar Özel — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/cag/borclar-ozel-yillik",
+        "ready": true,
+        "variantOf": "borclar-ozel"
       }
     ],
     "seoParagraphs": [

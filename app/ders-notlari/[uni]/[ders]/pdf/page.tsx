@@ -69,13 +69,16 @@ export default async function DersNotuPdfPage({ params }: Props) {
               'borclar-genel-donem-1',
               'borclar-genel-donem-2',
               'borclar-genel-yillik',
+              'borclar-ozel-donem-1',
+              'borclar-ozel-donem-2',
+              'borclar-ozel-yillik',
             ].map((code) => (
               <a
                 key={code}
                 href={`/ders-notlari/${uni}/${code}/pdf`}
                 className="text-[11px] font-semibold px-2.5 py-1 rounded-full border border-charcoal/15 hover:border-accent text-charcoal/70"
               >
-                {code.replace('borclar-genel-', '')} PDF
+                {code.replace('borclar-', '')} PDF
               </a>
             ))}
           </div>
