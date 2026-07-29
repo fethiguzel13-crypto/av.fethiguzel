@@ -387,6 +387,18 @@ export function DersNotuView({
               { code: 'esya-hukuku-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
             ],
           },
+          {
+            match:
+              note.variantOf === 'miras-hukuku' ||
+              note.courseCode === 'miras-hukuku' ||
+              note.courseCode.startsWith('miras-hukuku-'),
+            title: 'Miras Hukuku · üç paket',
+            items: [
+              { code: 'miras-hukuku-donem-1', label: '1. Dönem (Güz)', desc: 'Zümre · eş · saklı pay · ret' },
+              { code: 'miras-hukuku-donem-2', label: '2. Dönem (Bahar)', desc: 'Vasiyet · tenkis · paylaşma' },
+              { code: 'miras-hukuku-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
+            ],
+          },
         ];
         const activePacks = packs.filter((p) => p.match);
         if (!activePacks.length) return null;
@@ -777,6 +789,19 @@ export function UniHubView({ hub }: { hub: UniHubContent }) {
               { code: 'esya-hukuku-donem-1', title: '1. Dönem (Güz)' },
               { code: 'esya-hukuku-donem-2', title: '2. Dönem (Bahar)' },
               { code: 'esya-hukuku-yillik', title: 'Yıllık tam not' },
+            ],
+          },
+          {
+            show: hub.courses.some((c) => String(c.code).startsWith('miras-hukuku')),
+            title: 'Miras Hukuku — 1. dönem · 2. dönem · yıllık',
+            desc: 'Zümre–saklı pay–vasiyet–tenkis–paylaşma… üç premium not + PDF.',
+            border: 'border-primary/15 bg-primary/[0.03]',
+            itemBorder: 'border-primary/20',
+            accent: 'text-primary',
+            items: [
+              { code: 'miras-hukuku-donem-1', title: '1. Dönem (Güz)' },
+              { code: 'miras-hukuku-donem-2', title: '2. Dönem (Bahar)' },
+              { code: 'miras-hukuku-yillik', title: 'Yıllık tam not' },
             ],
           },
         ]

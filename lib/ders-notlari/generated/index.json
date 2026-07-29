@@ -3,7 +3,7 @@
   "wave": "all",
   "universityCount": 120,
   "hubCount": 120,
-  "noteCount": 4440,
+  "noteCount": 4800,
   "universities": [
     {
       "slug": "ankara-yildirim-beyazit",
@@ -34086,9 +34086,3250 @@
       "href": "/ders-notlari/cag/esya-hukuku-yillik",
       "variantOf": "esya-hukuku",
       "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "ankara-yildirim-beyazit__miras-hukuku-donem-1",
+      "title": "AYBÜ Miras Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "ankara-yildirim-beyazit__miras-hukuku-donem-2",
+      "title": "AYBÜ Miras Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "ankara-yildirim-beyazit__miras-hukuku-yillik",
+      "title": "AYBÜ Miras Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "ankara__miras-hukuku-donem-1",
+      "title": "AÜHF Miras Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "ankara__miras-hukuku-donem-2",
+      "title": "AÜHF Miras Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "ankara__miras-hukuku-yillik",
+      "title": "AÜHF Miras Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "istanbul__miras-hukuku-donem-1",
+      "title": "İÜHF Miras Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "istanbul__miras-hukuku-donem-2",
+      "title": "İÜHF Miras Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "istanbul__miras-hukuku-yillik",
+      "title": "İÜHF Miras Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "marmara__miras-hukuku-donem-1",
+      "title": "MÜHF Miras Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "marmara__miras-hukuku-donem-2",
+      "title": "MÜHF Miras Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "marmara__miras-hukuku-yillik",
+      "title": "MÜHF Miras Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "galatasaray__miras-hukuku-donem-1",
+      "title": "GSÜ Miras Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "galatasaray__miras-hukuku-donem-2",
+      "title": "GSÜ Miras Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "galatasaray__miras-hukuku-yillik",
+      "title": "GSÜ Miras Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "dokuz-eylul__miras-hukuku-donem-1",
+      "title": "DEÜ Miras Hukuku 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "dokuz-eylul__miras-hukuku-donem-2",
+      "title": "DEÜ Miras Hukuku 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "dokuz-eylul__miras-hukuku-yillik",
+      "title": "DEÜ Miras Hukuku Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "hacettepe__miras-hukuku-donem-1",
+      "title": "Hacettepe Miras Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "hacettepe__miras-hukuku-donem-2",
+      "title": "Hacettepe Miras Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "hacettepe__miras-hukuku-yillik",
+      "title": "Hacettepe Miras Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "ankara-hacibayram__miras-hukuku-donem-1",
+      "title": "AHBV Miras Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "ankara-hacibayram__miras-hukuku-donem-2",
+      "title": "AHBV Miras Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "ankara-hacibayram__miras-hukuku-yillik",
+      "title": "AHBV Miras Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "bilkent__miras-hukuku-donem-1",
+      "title": "Bilkent Miras Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "bilkent__miras-hukuku-donem-2",
+      "title": "Bilkent Miras Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "bilkent__miras-hukuku-yillik",
+      "title": "Bilkent Miras Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "koc__miras-hukuku-donem-1",
+      "title": "Koç Miras Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "koc__miras-hukuku-donem-2",
+      "title": "Koç Miras Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "koc__miras-hukuku-yillik",
+      "title": "Koç Miras Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "tobb-etu__miras-hukuku-donem-1",
+      "title": "TOBB ETÜ Miras Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "tobb-etu__miras-hukuku-donem-2",
+      "title": "TOBB ETÜ Miras Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "tobb-etu__miras-hukuku-yillik",
+      "title": "TOBB ETÜ Miras Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "bogazici__miras-hukuku-donem-1",
+      "title": "BÜ Miras Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "bogazici__miras-hukuku-donem-2",
+      "title": "BÜ Miras Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "bogazici__miras-hukuku-yillik",
+      "title": "BÜ Miras Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "ege__miras-hukuku-donem-1",
+      "title": "Ege Miras Hukuku 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "ege__miras-hukuku-donem-2",
+      "title": "Ege Miras Hukuku 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "ege__miras-hukuku-yillik",
+      "title": "Ege Miras Hukuku Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "akdeniz__miras-hukuku-donem-1",
+      "title": "Akdeniz Miras Hukuku 1. Dönem (Güz) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "akdeniz__miras-hukuku-donem-2",
+      "title": "Akdeniz Miras Hukuku 2. Dönem (Bahar) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "akdeniz__miras-hukuku-yillik",
+      "title": "Akdeniz Miras Hukuku Yıllık (Tam paket) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "selcuk__miras-hukuku-donem-1",
+      "title": "Selçuk Miras Hukuku 1. Dönem (Güz) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "selcuk__miras-hukuku-donem-2",
+      "title": "Selçuk Miras Hukuku 2. Dönem (Bahar) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "selcuk__miras-hukuku-yillik",
+      "title": "Selçuk Miras Hukuku Yıllık (Tam paket) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "erciyes__miras-hukuku-donem-1",
+      "title": "Erciyes Miras Hukuku 1. Dönem (Güz) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "erciyes__miras-hukuku-donem-2",
+      "title": "Erciyes Miras Hukuku 2. Dönem (Bahar) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "erciyes__miras-hukuku-yillik",
+      "title": "Erciyes Miras Hukuku Yıllık (Tam paket) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "uludag__miras-hukuku-donem-1",
+      "title": "Uludağ Miras Hukuku 1. Dönem (Güz) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "uludag__miras-hukuku-donem-2",
+      "title": "Uludağ Miras Hukuku 2. Dönem (Bahar) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "uludag__miras-hukuku-yillik",
+      "title": "Uludağ Miras Hukuku Yıllık (Tam paket) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "cukurova__miras-hukuku-donem-1",
+      "title": "Çukurova Miras Hukuku 1. Dönem (Güz) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "cukurova__miras-hukuku-donem-2",
+      "title": "Çukurova Miras Hukuku 2. Dönem (Bahar) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "cukurova__miras-hukuku-yillik",
+      "title": "Çukurova Miras Hukuku Yıllık (Tam paket) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "anadolu__miras-hukuku-donem-1",
+      "title": "Anadolu Miras Hukuku 1. Dönem (Güz) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "anadolu__miras-hukuku-donem-2",
+      "title": "Anadolu Miras Hukuku 2. Dönem (Bahar) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "anadolu__miras-hukuku-yillik",
+      "title": "Anadolu Miras Hukuku Yıllık (Tam paket) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "gazi-ankara__miras-hukuku-donem-1",
+      "title": "ASBÜ Miras Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "gazi-ankara__miras-hukuku-donem-2",
+      "title": "ASBÜ Miras Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "gazi-ankara__miras-hukuku-yillik",
+      "title": "ASBÜ Miras Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "yildiz-teknik__miras-hukuku-donem-1",
+      "title": "YTÜ Miras Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "yildiz-teknik__miras-hukuku-donem-2",
+      "title": "YTÜ Miras Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "yildiz-teknik__miras-hukuku-yillik",
+      "title": "YTÜ Miras Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "istanbul-medeniyet__miras-hukuku-donem-1",
+      "title": "Medeniyet Miras Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "istanbul-medeniyet__miras-hukuku-donem-2",
+      "title": "Medeniyet Miras Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "istanbul-medeniyet__miras-hukuku-yillik",
+      "title": "Medeniyet Miras Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "bahcesehir__miras-hukuku-donem-1",
+      "title": "BAU Miras Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "bahcesehir__miras-hukuku-donem-2",
+      "title": "BAU Miras Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "bahcesehir__miras-hukuku-yillik",
+      "title": "BAU Miras Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "yeditepe__miras-hukuku-donem-1",
+      "title": "Yeditepe Miras Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "yeditepe__miras-hukuku-donem-2",
+      "title": "Yeditepe Miras Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "yeditepe__miras-hukuku-yillik",
+      "title": "Yeditepe Miras Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "ozyegin__miras-hukuku-donem-1",
+      "title": "Özyeğin Miras Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "ozyegin__miras-hukuku-donem-2",
+      "title": "Özyeğin Miras Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "ozyegin__miras-hukuku-yillik",
+      "title": "Özyeğin Miras Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "kadir-has__miras-hukuku-donem-1",
+      "title": "KHAS Miras Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "kadir-has__miras-hukuku-donem-2",
+      "title": "KHAS Miras Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "kadir-has__miras-hukuku-yillik",
+      "title": "KHAS Miras Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "istanbul-bilgi__miras-hukuku-donem-1",
+      "title": "Bilgi Miras Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "istanbul-bilgi__miras-hukuku-donem-2",
+      "title": "Bilgi Miras Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "istanbul-bilgi__miras-hukuku-yillik",
+      "title": "Bilgi Miras Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "mehmet-akif__miras-hukuku-donem-1",
+      "title": "Medipol Miras Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "mehmet-akif__miras-hukuku-donem-2",
+      "title": "Medipol Miras Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "mehmet-akif__miras-hukuku-yillik",
+      "title": "Medipol Miras Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "altinbas__miras-hukuku-donem-1",
+      "title": "Altınbaş Miras Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "altinbas__miras-hukuku-donem-2",
+      "title": "Altınbaş Miras Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "altinbas__miras-hukuku-yillik",
+      "title": "Altınbaş Miras Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "maltepe__miras-hukuku-donem-1",
+      "title": "Maltepe Miras Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "maltepe__miras-hukuku-donem-2",
+      "title": "Maltepe Miras Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "maltepe__miras-hukuku-yillik",
+      "title": "Maltepe Miras Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "dogus__miras-hukuku-donem-1",
+      "title": "Doğuş Miras Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "dogus__miras-hukuku-donem-2",
+      "title": "Doğuş Miras Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "dogus__miras-hukuku-yillik",
+      "title": "Doğuş Miras Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "isik__miras-hukuku-donem-1",
+      "title": "Işık Miras Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "isik__miras-hukuku-donem-2",
+      "title": "Işık Miras Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "isik__miras-hukuku-yillik",
+      "title": "Işık Miras Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "okan__miras-hukuku-donem-1",
+      "title": "Okan Miras Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "okan__miras-hukuku-donem-2",
+      "title": "Okan Miras Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "okan__miras-hukuku-yillik",
+      "title": "Okan Miras Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "kultur__miras-hukuku-donem-1",
+      "title": "İKÜ Miras Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "kultur__miras-hukuku-donem-2",
+      "title": "İKÜ Miras Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "kultur__miras-hukuku-yillik",
+      "title": "İKÜ Miras Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "aydin__miras-hukuku-donem-1",
+      "title": "İAÜ Miras Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "aydin__miras-hukuku-donem-2",
+      "title": "İAÜ Miras Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "aydin__miras-hukuku-yillik",
+      "title": "İAÜ Miras Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "gelisim__miras-hukuku-donem-1",
+      "title": "Gelişim Miras Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "gelisim__miras-hukuku-donem-2",
+      "title": "Gelişim Miras Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "gelisim__miras-hukuku-yillik",
+      "title": "Gelişim Miras Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "topkapi__miras-hukuku-donem-1",
+      "title": "Topkapı Miras Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "topkapi__miras-hukuku-donem-2",
+      "title": "Topkapı Miras Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "topkapi__miras-hukuku-yillik",
+      "title": "Topkapı Miras Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "nisantasi__miras-hukuku-donem-1",
+      "title": "Nişantaşı Miras Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "nisantasi__miras-hukuku-donem-2",
+      "title": "Nişantaşı Miras Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "nisantasi__miras-hukuku-yillik",
+      "title": "Nişantaşı Miras Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "beykent__miras-hukuku-donem-1",
+      "title": "Beykent Miras Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "beykent__miras-hukuku-donem-2",
+      "title": "Beykent Miras Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "beykent__miras-hukuku-yillik",
+      "title": "Beykent Miras Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "halic__miras-hukuku-donem-1",
+      "title": "Haliç Miras Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "halic__miras-hukuku-donem-2",
+      "title": "Haliç Miras Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "halic__miras-hukuku-yillik",
+      "title": "Haliç Miras Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "fatih-sultan__miras-hukuku-donem-1",
+      "title": "FSMVÜ Miras Hukuku 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "fatih-sultan__miras-hukuku-donem-2",
+      "title": "FSMVÜ Miras Hukuku 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "fatih-sultan__miras-hukuku-yillik",
+      "title": "FSMVÜ Miras Hukuku Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "karadeniz-teknik__miras-hukuku-donem-1",
+      "title": "KTÜ Miras Hukuku 1. Dönem (Güz) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "karadeniz-teknik__miras-hukuku-donem-2",
+      "title": "KTÜ Miras Hukuku 2. Dönem (Bahar) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "karadeniz-teknik__miras-hukuku-yillik",
+      "title": "KTÜ Miras Hukuku Yıllık (Tam paket) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "ataturk__miras-hukuku-donem-1",
+      "title": "Atatürk Miras Hukuku 1. Dönem (Güz) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "ataturk__miras-hukuku-donem-2",
+      "title": "Atatürk Miras Hukuku 2. Dönem (Bahar) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "ataturk__miras-hukuku-yillik",
+      "title": "Atatürk Miras Hukuku Yıllık (Tam paket) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "inonu__miras-hukuku-donem-1",
+      "title": "İnönü Miras Hukuku 1. Dönem (Güz) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "inonu__miras-hukuku-donem-2",
+      "title": "İnönü Miras Hukuku 2. Dönem (Bahar) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "inonu__miras-hukuku-yillik",
+      "title": "İnönü Miras Hukuku Yıllık (Tam paket) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "dicle__miras-hukuku-donem-1",
+      "title": "Dicle Miras Hukuku 1. Dönem (Güz) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "dicle__miras-hukuku-donem-2",
+      "title": "Dicle Miras Hukuku 2. Dönem (Bahar) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "dicle__miras-hukuku-yillik",
+      "title": "Dicle Miras Hukuku Yıllık (Tam paket) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "firat__miras-hukuku-donem-1",
+      "title": "Fırat Miras Hukuku 1. Dönem (Güz) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "firat__miras-hukuku-donem-2",
+      "title": "Fırat Miras Hukuku 2. Dönem (Bahar) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "firat__miras-hukuku-yillik",
+      "title": "Fırat Miras Hukuku Yıllık (Tam paket) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "gaziantep__miras-hukuku-donem-1",
+      "title": "GAÜN Miras Hukuku 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "gaziantep__miras-hukuku-donem-2",
+      "title": "GAÜN Miras Hukuku 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "gaziantep__miras-hukuku-yillik",
+      "title": "GAÜN Miras Hukuku Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "suleyman-demirel__miras-hukuku-donem-1",
+      "title": "SDÜ Miras Hukuku 1. Dönem (Güz) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "suleyman-demirel__miras-hukuku-donem-2",
+      "title": "SDÜ Miras Hukuku 2. Dönem (Bahar) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "suleyman-demirel__miras-hukuku-yillik",
+      "title": "SDÜ Miras Hukuku Yıllık (Tam paket) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "pamukkale__miras-hukuku-donem-1",
+      "title": "PAÜ Miras Hukuku 1. Dönem (Güz) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "pamukkale__miras-hukuku-donem-2",
+      "title": "PAÜ Miras Hukuku 2. Dönem (Bahar) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "pamukkale__miras-hukuku-yillik",
+      "title": "PAÜ Miras Hukuku Yıllık (Tam paket) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "mugla__miras-hukuku-donem-1",
+      "title": "MSKU Miras Hukuku 1. Dönem (Güz) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "mugla__miras-hukuku-donem-2",
+      "title": "MSKU Miras Hukuku 2. Dönem (Bahar) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "mugla__miras-hukuku-yillik",
+      "title": "MSKU Miras Hukuku Yıllık (Tam paket) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "sakarya__miras-hukuku-donem-1",
+      "title": "SAÜ Miras Hukuku 1. Dönem (Güz) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "sakarya__miras-hukuku-donem-2",
+      "title": "SAÜ Miras Hukuku 2. Dönem (Bahar) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "sakarya__miras-hukuku-yillik",
+      "title": "SAÜ Miras Hukuku Yıllık (Tam paket) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "kocaeli__miras-hukuku-donem-1",
+      "title": "KOÜ Miras Hukuku 1. Dönem (Güz) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "kocaeli__miras-hukuku-donem-2",
+      "title": "KOÜ Miras Hukuku 2. Dönem (Bahar) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "kocaeli__miras-hukuku-yillik",
+      "title": "KOÜ Miras Hukuku Yıllık (Tam paket) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "trakya__miras-hukuku-donem-1",
+      "title": "Trakya Miras Hukuku 1. Dönem (Güz) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "trakya__miras-hukuku-donem-2",
+      "title": "Trakya Miras Hukuku 2. Dönem (Bahar) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "trakya__miras-hukuku-yillik",
+      "title": "Trakya Miras Hukuku Yıllık (Tam paket) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "canakkale__miras-hukuku-donem-1",
+      "title": "ÇOMÜ Miras Hukuku 1. Dönem (Güz) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "canakkale__miras-hukuku-donem-2",
+      "title": "ÇOMÜ Miras Hukuku 2. Dönem (Bahar) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "canakkale__miras-hukuku-yillik",
+      "title": "ÇOMÜ Miras Hukuku Yıllık (Tam paket) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "balikesir__miras-hukuku-donem-1",
+      "title": "BAÜN Miras Hukuku 1. Dönem (Güz) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "balikesir__miras-hukuku-donem-2",
+      "title": "BAÜN Miras Hukuku 2. Dönem (Bahar) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "balikesir__miras-hukuku-yillik",
+      "title": "BAÜN Miras Hukuku Yıllık (Tam paket) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "afyon__miras-hukuku-donem-1",
+      "title": "AKÜ Miras Hukuku 1. Dönem (Güz) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "afyon__miras-hukuku-donem-2",
+      "title": "AKÜ Miras Hukuku 2. Dönem (Bahar) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "afyon__miras-hukuku-yillik",
+      "title": "AKÜ Miras Hukuku Yıllık (Tam paket) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "dumlupinar__miras-hukuku-donem-1",
+      "title": "DPÜ Miras Hukuku 1. Dönem (Güz) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "dumlupinar__miras-hukuku-donem-2",
+      "title": "DPÜ Miras Hukuku 2. Dönem (Bahar) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "dumlupinar__miras-hukuku-yillik",
+      "title": "DPÜ Miras Hukuku Yıllık (Tam paket) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "eskisehir-osmangazi__miras-hukuku-donem-1",
+      "title": "ESOGÜ Miras Hukuku 1. Dönem (Güz) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "eskisehir-osmangazi__miras-hukuku-donem-2",
+      "title": "ESOGÜ Miras Hukuku 2. Dönem (Bahar) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "eskisehir-osmangazi__miras-hukuku-yillik",
+      "title": "ESOGÜ Miras Hukuku Yıllık (Tam paket) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "sivas-cumhuriyet__miras-hukuku-donem-1",
+      "title": "SCÜ Miras Hukuku 1. Dönem (Güz) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "sivas-cumhuriyet__miras-hukuku-donem-2",
+      "title": "SCÜ Miras Hukuku 2. Dönem (Bahar) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "sivas-cumhuriyet__miras-hukuku-yillik",
+      "title": "SCÜ Miras Hukuku Yıllık (Tam paket) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "tokat__miras-hukuku-donem-1",
+      "title": "TOGÜ Miras Hukuku 1. Dönem (Güz) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "tokat__miras-hukuku-donem-2",
+      "title": "TOGÜ Miras Hukuku 2. Dönem (Bahar) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "tokat__miras-hukuku-yillik",
+      "title": "TOGÜ Miras Hukuku Yıllık (Tam paket) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "yozgat__miras-hukuku-donem-1",
+      "title": "Bozok Miras Hukuku 1. Dönem (Güz) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "yozgat__miras-hukuku-donem-2",
+      "title": "Bozok Miras Hukuku 2. Dönem (Bahar) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "yozgat__miras-hukuku-yillik",
+      "title": "Bozok Miras Hukuku Yıllık (Tam paket) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "kirsehir__miras-hukuku-donem-1",
+      "title": "AHİEVRAN Miras Hukuku 1. Dönem (Güz) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "kirsehir__miras-hukuku-donem-2",
+      "title": "AHİEVRAN Miras Hukuku 2. Dönem (Bahar) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "kirsehir__miras-hukuku-yillik",
+      "title": "AHİEVRAN Miras Hukuku Yıllık (Tam paket) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "nevsehir__miras-hukuku-donem-1",
+      "title": "NEVÜ Miras Hukuku 1. Dönem (Güz) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "nevsehir__miras-hukuku-donem-2",
+      "title": "NEVÜ Miras Hukuku 2. Dönem (Bahar) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "nevsehir__miras-hukuku-yillik",
+      "title": "NEVÜ Miras Hukuku Yıllık (Tam paket) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "mersin__miras-hukuku-donem-1",
+      "title": "MEÜ Miras Hukuku 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "mersin__miras-hukuku-donem-2",
+      "title": "MEÜ Miras Hukuku 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "mersin__miras-hukuku-yillik",
+      "title": "MEÜ Miras Hukuku Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "hatay__miras-hukuku-donem-1",
+      "title": "MKÜ Miras Hukuku 1. Dönem (Güz) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "hatay__miras-hukuku-donem-2",
+      "title": "MKÜ Miras Hukuku 2. Dönem (Bahar) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "hatay__miras-hukuku-yillik",
+      "title": "MKÜ Miras Hukuku Yıllık (Tam paket) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "kahramanmaras__miras-hukuku-donem-1",
+      "title": "KSÜ Miras Hukuku 1. Dönem (Güz) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "kahramanmaras__miras-hukuku-donem-2",
+      "title": "KSÜ Miras Hukuku 2. Dönem (Bahar) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "kahramanmaras__miras-hukuku-yillik",
+      "title": "KSÜ Miras Hukuku Yıllık (Tam paket) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "osmaniye__miras-hukuku-donem-1",
+      "title": "OKÜ Miras Hukuku 1. Dönem (Güz) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "osmaniye__miras-hukuku-donem-2",
+      "title": "OKÜ Miras Hukuku 2. Dönem (Bahar) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "osmaniye__miras-hukuku-yillik",
+      "title": "OKÜ Miras Hukuku Yıllık (Tam paket) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "samsun__miras-hukuku-donem-1",
+      "title": "OMÜ Miras Hukuku 1. Dönem (Güz) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "samsun__miras-hukuku-donem-2",
+      "title": "OMÜ Miras Hukuku 2. Dönem (Bahar) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "samsun__miras-hukuku-yillik",
+      "title": "OMÜ Miras Hukuku Yıllık (Tam paket) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "ordu__miras-hukuku-donem-1",
+      "title": "ODÜ Miras Hukuku 1. Dönem (Güz) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "ordu__miras-hukuku-donem-2",
+      "title": "ODÜ Miras Hukuku 2. Dönem (Bahar) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "ordu__miras-hukuku-yillik",
+      "title": "ODÜ Miras Hukuku Yıllık (Tam paket) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "giresun__miras-hukuku-donem-1",
+      "title": "GÜ Miras Hukuku 1. Dönem (Güz) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "giresun__miras-hukuku-donem-2",
+      "title": "GÜ Miras Hukuku 2. Dönem (Bahar) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "giresun__miras-hukuku-yillik",
+      "title": "GÜ Miras Hukuku Yıllık (Tam paket) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "rize__miras-hukuku-donem-1",
+      "title": "RTEÜ Miras Hukuku 1. Dönem (Güz) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "rize__miras-hukuku-donem-2",
+      "title": "RTEÜ Miras Hukuku 2. Dönem (Bahar) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "rize__miras-hukuku-yillik",
+      "title": "RTEÜ Miras Hukuku Yıllık (Tam paket) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "artvin__miras-hukuku-donem-1",
+      "title": "AÇÜ Miras Hukuku 1. Dönem (Güz) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "artvin__miras-hukuku-donem-2",
+      "title": "AÇÜ Miras Hukuku 2. Dönem (Bahar) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "artvin__miras-hukuku-yillik",
+      "title": "AÇÜ Miras Hukuku Yıllık (Tam paket) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "van-yyu__miras-hukuku-donem-1",
+      "title": "YYÜ Miras Hukuku 1. Dönem (Güz) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "van-yyu__miras-hukuku-donem-2",
+      "title": "YYÜ Miras Hukuku 2. Dönem (Bahar) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "van-yyu__miras-hukuku-yillik",
+      "title": "YYÜ Miras Hukuku Yıllık (Tam paket) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "agri__miras-hukuku-donem-1",
+      "title": "AİÇÜ Miras Hukuku 1. Dönem (Güz) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "agri__miras-hukuku-donem-2",
+      "title": "AİÇÜ Miras Hukuku 2. Dönem (Bahar) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "agri__miras-hukuku-yillik",
+      "title": "AİÇÜ Miras Hukuku Yıllık (Tam paket) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "kars__miras-hukuku-donem-1",
+      "title": "Kafkas Miras Hukuku 1. Dönem (Güz) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "kars__miras-hukuku-donem-2",
+      "title": "Kafkas Miras Hukuku 2. Dönem (Bahar) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "kars__miras-hukuku-yillik",
+      "title": "Kafkas Miras Hukuku Yıllık (Tam paket) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "erzincan__miras-hukuku-donem-1",
+      "title": "EBYÜ Miras Hukuku 1. Dönem (Güz) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "erzincan__miras-hukuku-donem-2",
+      "title": "EBYÜ Miras Hukuku 2. Dönem (Bahar) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "erzincan__miras-hukuku-yillik",
+      "title": "EBYÜ Miras Hukuku Yıllık (Tam paket) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "bayburt__miras-hukuku-donem-1",
+      "title": "Bayburt Miras Hukuku 1. Dönem (Güz) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "bayburt__miras-hukuku-donem-2",
+      "title": "Bayburt Miras Hukuku 2. Dönem (Bahar) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "bayburt__miras-hukuku-yillik",
+      "title": "Bayburt Miras Hukuku Yıllık (Tam paket) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "gumushane__miras-hukuku-donem-1",
+      "title": "Gümüşhane Miras Hukuku 1. Dönem (Güz) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "gumushane__miras-hukuku-donem-2",
+      "title": "Gümüşhane Miras Hukuku 2. Dönem (Bahar) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "gumushane__miras-hukuku-yillik",
+      "title": "Gümüşhane Miras Hukuku Yıllık (Tam paket) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "bingol__miras-hukuku-donem-1",
+      "title": "Bingöl Miras Hukuku 1. Dönem (Güz) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "bingol__miras-hukuku-donem-2",
+      "title": "Bingöl Miras Hukuku 2. Dönem (Bahar) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "bingol__miras-hukuku-yillik",
+      "title": "Bingöl Miras Hukuku Yıllık (Tam paket) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "mus__miras-hukuku-donem-1",
+      "title": "Muş Miras Hukuku 1. Dönem (Güz) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "mus__miras-hukuku-donem-2",
+      "title": "Muş Miras Hukuku 2. Dönem (Bahar) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "mus__miras-hukuku-yillik",
+      "title": "Muş Miras Hukuku Yıllık (Tam paket) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "hakkari__miras-hukuku-donem-1",
+      "title": "Hakkâri Miras Hukuku 1. Dönem (Güz) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "hakkari__miras-hukuku-donem-2",
+      "title": "Hakkâri Miras Hukuku 2. Dönem (Bahar) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "hakkari__miras-hukuku-yillik",
+      "title": "Hakkâri Miras Hukuku Yıllık (Tam paket) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "sirnak__miras-hukuku-donem-1",
+      "title": "Şırnak Miras Hukuku 1. Dönem (Güz) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "sirnak__miras-hukuku-donem-2",
+      "title": "Şırnak Miras Hukuku 2. Dönem (Bahar) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "sirnak__miras-hukuku-yillik",
+      "title": "Şırnak Miras Hukuku Yıllık (Tam paket) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "mardin__miras-hukuku-donem-1",
+      "title": "Artuklu Miras Hukuku 1. Dönem (Güz) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "mardin__miras-hukuku-donem-2",
+      "title": "Artuklu Miras Hukuku 2. Dönem (Bahar) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "mardin__miras-hukuku-yillik",
+      "title": "Artuklu Miras Hukuku Yıllık (Tam paket) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "batman__miras-hukuku-donem-1",
+      "title": "Batman Miras Hukuku 1. Dönem (Güz) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "batman__miras-hukuku-donem-2",
+      "title": "Batman Miras Hukuku 2. Dönem (Bahar) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "batman__miras-hukuku-yillik",
+      "title": "Batman Miras Hukuku Yıllık (Tam paket) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "siirt__miras-hukuku-donem-1",
+      "title": "Siirt Miras Hukuku 1. Dönem (Güz) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "siirt__miras-hukuku-donem-2",
+      "title": "Siirt Miras Hukuku 2. Dönem (Bahar) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "siirt__miras-hukuku-yillik",
+      "title": "Siirt Miras Hukuku Yıllık (Tam paket) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "adiyaman__miras-hukuku-donem-1",
+      "title": "Adıyaman Miras Hukuku 1. Dönem (Güz) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "adiyaman__miras-hukuku-donem-2",
+      "title": "Adıyaman Miras Hukuku 2. Dönem (Bahar) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "adiyaman__miras-hukuku-yillik",
+      "title": "Adıyaman Miras Hukuku Yıllık (Tam paket) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "kilis__miras-hukuku-donem-1",
+      "title": "Kilis Miras Hukuku 1. Dönem (Güz) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "kilis__miras-hukuku-donem-2",
+      "title": "Kilis Miras Hukuku 2. Dönem (Bahar) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "kilis__miras-hukuku-yillik",
+      "title": "Kilis Miras Hukuku Yıllık (Tam paket) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "igdir__miras-hukuku-donem-1",
+      "title": "Iğdır Miras Hukuku 1. Dönem (Güz) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "igdir__miras-hukuku-donem-2",
+      "title": "Iğdır Miras Hukuku 2. Dönem (Bahar) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "igdir__miras-hukuku-yillik",
+      "title": "Iğdır Miras Hukuku Yıllık (Tam paket) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "ardahan__miras-hukuku-donem-1",
+      "title": "Ardahan Miras Hukuku 1. Dönem (Güz) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "ardahan__miras-hukuku-donem-2",
+      "title": "Ardahan Miras Hukuku 2. Dönem (Bahar) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "ardahan__miras-hukuku-yillik",
+      "title": "Ardahan Miras Hukuku Yıllık (Tam paket) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "bilecik__miras-hukuku-donem-1",
+      "title": "BŞEÜ Miras Hukuku 1. Dönem (Güz) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "bilecik__miras-hukuku-donem-2",
+      "title": "BŞEÜ Miras Hukuku 2. Dönem (Bahar) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "bilecik__miras-hukuku-yillik",
+      "title": "BŞEÜ Miras Hukuku Yıllık (Tam paket) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "bolu__miras-hukuku-donem-1",
+      "title": "BAİBÜ Miras Hukuku 1. Dönem (Güz) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "bolu__miras-hukuku-donem-2",
+      "title": "BAİBÜ Miras Hukuku 2. Dönem (Bahar) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "bolu__miras-hukuku-yillik",
+      "title": "BAİBÜ Miras Hukuku Yıllık (Tam paket) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "duzce__miras-hukuku-donem-1",
+      "title": "Düzce Miras Hukuku 1. Dönem (Güz) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "duzce__miras-hukuku-donem-2",
+      "title": "Düzce Miras Hukuku 2. Dönem (Bahar) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "duzce__miras-hukuku-yillik",
+      "title": "Düzce Miras Hukuku Yıllık (Tam paket) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "zonguldak__miras-hukuku-donem-1",
+      "title": "BEÜN Miras Hukuku 1. Dönem (Güz) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "zonguldak__miras-hukuku-donem-2",
+      "title": "BEÜN Miras Hukuku 2. Dönem (Bahar) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "zonguldak__miras-hukuku-yillik",
+      "title": "BEÜN Miras Hukuku Yıllık (Tam paket) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "karabuk__miras-hukuku-donem-1",
+      "title": "KBÜ Miras Hukuku 1. Dönem (Güz) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "karabuk__miras-hukuku-donem-2",
+      "title": "KBÜ Miras Hukuku 2. Dönem (Bahar) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "karabuk__miras-hukuku-yillik",
+      "title": "KBÜ Miras Hukuku Yıllık (Tam paket) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "kastamonu__miras-hukuku-donem-1",
+      "title": "KÜ Miras Hukuku 1. Dönem (Güz) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "kastamonu__miras-hukuku-donem-2",
+      "title": "KÜ Miras Hukuku 2. Dönem (Bahar) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "kastamonu__miras-hukuku-yillik",
+      "title": "KÜ Miras Hukuku Yıllık (Tam paket) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "sinop__miras-hukuku-donem-1",
+      "title": "Sinop Miras Hukuku 1. Dönem (Güz) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "sinop__miras-hukuku-donem-2",
+      "title": "Sinop Miras Hukuku 2. Dönem (Bahar) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "sinop__miras-hukuku-yillik",
+      "title": "Sinop Miras Hukuku Yıllık (Tam paket) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "corum__miras-hukuku-donem-1",
+      "title": "Hitit Miras Hukuku 1. Dönem (Güz) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "corum__miras-hukuku-donem-2",
+      "title": "Hitit Miras Hukuku 2. Dönem (Bahar) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "corum__miras-hukuku-yillik",
+      "title": "Hitit Miras Hukuku Yıllık (Tam paket) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "amasya__miras-hukuku-donem-1",
+      "title": "Amasya Miras Hukuku 1. Dönem (Güz) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "amasya__miras-hukuku-donem-2",
+      "title": "Amasya Miras Hukuku 2. Dönem (Bahar) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "amasya__miras-hukuku-yillik",
+      "title": "Amasya Miras Hukuku Yıllık (Tam paket) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "cankiri__miras-hukuku-donem-1",
+      "title": "Karatekin Miras Hukuku 1. Dönem (Güz) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "cankiri__miras-hukuku-donem-2",
+      "title": "Karatekin Miras Hukuku 2. Dönem (Bahar) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "cankiri__miras-hukuku-yillik",
+      "title": "Karatekin Miras Hukuku Yıllık (Tam paket) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "kirikkale__miras-hukuku-donem-1",
+      "title": "Kırıkkale Miras Hukuku 1. Dönem (Güz) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "kirikkale__miras-hukuku-donem-2",
+      "title": "Kırıkkale Miras Hukuku 2. Dönem (Bahar) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "kirikkale__miras-hukuku-yillik",
+      "title": "Kırıkkale Miras Hukuku Yıllık (Tam paket) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "aksaray__miras-hukuku-donem-1",
+      "title": "Aksaray Miras Hukuku 1. Dönem (Güz) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "aksaray__miras-hukuku-donem-2",
+      "title": "Aksaray Miras Hukuku 2. Dönem (Bahar) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "aksaray__miras-hukuku-yillik",
+      "title": "Aksaray Miras Hukuku Yıllık (Tam paket) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "nigde__miras-hukuku-donem-1",
+      "title": "ÖHÜ Miras Hukuku 1. Dönem (Güz) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "nigde__miras-hukuku-donem-2",
+      "title": "ÖHÜ Miras Hukuku 2. Dönem (Bahar) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "nigde__miras-hukuku-yillik",
+      "title": "ÖHÜ Miras Hukuku Yıllık (Tam paket) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "konya-teknik__miras-hukuku-donem-1",
+      "title": "NEÜ Miras Hukuku 1. Dönem (Güz) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "konya-teknik__miras-hukuku-donem-2",
+      "title": "NEÜ Miras Hukuku 2. Dönem (Bahar) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "konya-teknik__miras-hukuku-yillik",
+      "title": "NEÜ Miras Hukuku Yıllık (Tam paket) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "karaman__miras-hukuku-donem-1",
+      "title": "KMÜ Miras Hukuku 1. Dönem (Güz) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "karaman__miras-hukuku-donem-2",
+      "title": "KMÜ Miras Hukuku 2. Dönem (Bahar) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "karaman__miras-hukuku-yillik",
+      "title": "KMÜ Miras Hukuku Yıllık (Tam paket) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "usak__miras-hukuku-donem-1",
+      "title": "Uşak Miras Hukuku 1. Dönem (Güz) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "usak__miras-hukuku-donem-2",
+      "title": "Uşak Miras Hukuku 2. Dönem (Bahar) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "usak__miras-hukuku-yillik",
+      "title": "Uşak Miras Hukuku Yıllık (Tam paket) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "manisa__miras-hukuku-donem-1",
+      "title": "MCBÜ Miras Hukuku 1. Dönem (Güz) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "manisa__miras-hukuku-donem-2",
+      "title": "MCBÜ Miras Hukuku 2. Dönem (Bahar) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "manisa__miras-hukuku-yillik",
+      "title": "MCBÜ Miras Hukuku Yıllık (Tam paket) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "aydin-adu__miras-hukuku-donem-1",
+      "title": "ADÜ Miras Hukuku 1. Dönem (Güz) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "aydin-adu__miras-hukuku-donem-2",
+      "title": "ADÜ Miras Hukuku 2. Dönem (Bahar) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "aydin-adu__miras-hukuku-yillik",
+      "title": "ADÜ Miras Hukuku Yıllık (Tam paket) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "tekirdag__miras-hukuku-donem-1",
+      "title": "NKÜ Miras Hukuku 1. Dönem (Güz) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "tekirdag__miras-hukuku-donem-2",
+      "title": "NKÜ Miras Hukuku 2. Dönem (Bahar) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "tekirdag__miras-hukuku-yillik",
+      "title": "NKÜ Miras Hukuku Yıllık (Tam paket) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "kirklareli__miras-hukuku-donem-1",
+      "title": "Kırklareli Miras Hukuku 1. Dönem (Güz) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "kirklareli__miras-hukuku-donem-2",
+      "title": "Kırklareli Miras Hukuku 2. Dönem (Bahar) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "kirklareli__miras-hukuku-yillik",
+      "title": "Kırklareli Miras Hukuku Yıllık (Tam paket) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "atilim__miras-hukuku-donem-1",
+      "title": "Atılım Miras Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "atilim__miras-hukuku-donem-2",
+      "title": "Atılım Miras Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "atilim__miras-hukuku-yillik",
+      "title": "Atılım Miras Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "cankaya__miras-hukuku-donem-1",
+      "title": "Çankaya Miras Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "cankaya__miras-hukuku-donem-2",
+      "title": "Çankaya Miras Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "cankaya__miras-hukuku-yillik",
+      "title": "Çankaya Miras Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "ufuk__miras-hukuku-donem-1",
+      "title": "Ufuk Miras Hukuku 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "ufuk__miras-hukuku-donem-2",
+      "title": "Ufuk Miras Hukuku 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "ufuk__miras-hukuku-yillik",
+      "title": "Ufuk Miras Hukuku Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "yasar__miras-hukuku-donem-1",
+      "title": "Yaşar Miras Hukuku 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "yasar__miras-hukuku-donem-2",
+      "title": "Yaşar Miras Hukuku 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "yasar__miras-hukuku-yillik",
+      "title": "Yaşar Miras Hukuku Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "izmir-ekonomi__miras-hukuku-donem-1",
+      "title": "İEÜ Miras Hukuku 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "izmir-ekonomi__miras-hukuku-donem-2",
+      "title": "İEÜ Miras Hukuku 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "izmir-ekonomi__miras-hukuku-yillik",
+      "title": "İEÜ Miras Hukuku Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "tinaztepe__miras-hukuku-donem-1",
+      "title": "Tınaztepe Miras Hukuku 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "tinaztepe__miras-hukuku-donem-2",
+      "title": "Tınaztepe Miras Hukuku 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "tinaztepe__miras-hukuku-yillik",
+      "title": "Tınaztepe Miras Hukuku Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "asbu-vakif__miras-hukuku-donem-1",
+      "title": "ABÜ Miras Hukuku 1. Dönem (Güz) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "asbu-vakif__miras-hukuku-donem-2",
+      "title": "ABÜ Miras Hukuku 2. Dönem (Bahar) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "asbu-vakif__miras-hukuku-yillik",
+      "title": "ABÜ Miras Hukuku Yıllık (Tam paket) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "hasan-kalyoncu__miras-hukuku-donem-1",
+      "title": "HKÜ Miras Hukuku 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "hasan-kalyoncu__miras-hukuku-donem-2",
+      "title": "HKÜ Miras Hukuku 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "hasan-kalyoncu__miras-hukuku-yillik",
+      "title": "HKÜ Miras Hukuku Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "sanko__miras-hukuku-donem-1",
+      "title": "Sanko Miras Hukuku 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "sanko__miras-hukuku-donem-2",
+      "title": "Sanko Miras Hukuku 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "sanko__miras-hukuku-yillik",
+      "title": "Sanko Miras Hukuku Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "toros__miras-hukuku-donem-1",
+      "title": "Toros Miras Hukuku 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "toros__miras-hukuku-donem-2",
+      "title": "Toros Miras Hukuku 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "toros__miras-hukuku-yillik",
+      "title": "Toros Miras Hukuku Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "miras-hukuku-donem-1",
+      "slug": "cag__miras-hukuku-donem-1",
+      "title": "Çağ Miras Hukuku 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/miras-hukuku-donem-1",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "miras-hukuku-donem-2",
+      "slug": "cag__miras-hukuku-donem-2",
+      "title": "Çağ Miras Hukuku 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/miras-hukuku-donem-2",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "miras-hukuku-yillik",
+      "slug": "cag__miras-hukuku-yillik",
+      "title": "Çağ Miras Hukuku Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/miras-hukuku-yillik",
+      "variantOf": "miras-hukuku",
+      "variantLabel": "Yıllık (Tam paket)"
     }
   ],
   "borclarGenelTripleAt": "2026-07-29T20:05:58.703Z",
   "borclarOzelTripleAt": "2026-07-29T20:11:32.028Z",
-  "esyaHukukuTripleAt": "2026-07-29T20:18:08.725Z"
+  "esyaHukukuTripleAt": "2026-07-29T20:18:08.725Z",
+  "mirasHukukuTripleAt": "2026-07-29T20:22:35.692Z"
 }

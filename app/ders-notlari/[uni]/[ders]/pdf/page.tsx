@@ -75,6 +75,9 @@ export default async function DersNotuPdfPage({ params }: Props) {
               'esya-hukuku-donem-1',
               'esya-hukuku-donem-2',
               'esya-hukuku-yillik',
+              'miras-hukuku-donem-1',
+              'miras-hukuku-donem-2',
+              'miras-hukuku-yillik',
             ].map((code) => (
               <a
                 key={code}
