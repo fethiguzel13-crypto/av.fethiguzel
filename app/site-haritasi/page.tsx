@@ -27,6 +27,7 @@ const CORE = [
     { href: '/on-form', ad: 'Ön değerlendirme formu' },
     { href: '/kavram', ad: 'Hukuki kavramlar' },
     { href: '/bilgi', ad: 'Vatandaş bilgi rehberi' },
+    { href: '/ders-notlari', ad: 'Hukuk fakültesi ders notları' },
     { href: '/makaleler', ad: 'Makaleler' },
     { href: '/eserlerim', ad: 'Eserler / kitap' },
     { href: '/e-durusma', ad: 'e-Duruşma hub' },
@@ -35,7 +36,7 @@ const CORE = [
     { href: '/akademik-profil', ad: 'Akademik profil' },
     { href: '/english-speaking-lawyer', ad: 'English-speaking lawyer' },
     { href: '/ar', ad: 'Arabic landing' },
-    { href: '/hizmet-bolgeleri', ad: 'Hizmet bölgeleri' },
+    { href: '/hizmet-bolgeleri', ad: 'Bölgesel hukuki bilgilendirme' },
     { href: '/hizmetler', ad: 'Hizmet alanları' },
     { href: '/gizlilik', ad: 'Gizlilik / KVKK' },
     { href: '/yasal-uyari', ad: 'Yasal uyarı' },
@@ -116,15 +117,51 @@ export default function SiteHaritasiPage() {
                 </section>
 
                 <section className="mb-12">
-                    <h2 className="text-lg font-heading font-bold text-charcoal mb-4">Hizmet bölgeleri (yerel SEO)</h2>
+                    <h2 className="text-lg font-heading font-bold text-charcoal mb-4">
+                        Bölgesel hukuki bilgilendirme
+                    </h2>
+                    <p className="text-xs text-charcoal/45 mb-3">
+                        Reklam niteliğinde değildir; ana sayfada listelenmez.
+                    </p>
                     <ul className="grid grid-cols-2 sm:grid-cols-3 gap-2">
                         {BOLGELER.map((b) => (
                             <li key={b.slug}>
                                 <Link href={`/${b.slug}`} className="text-sm text-charcoal/70 hover:text-accent">
-                                    {b.ad}
+                                    {b.ilce} — bilgilendirme
                                 </Link>
                             </li>
                         ))}
+                    </ul>
+                </section>
+
+                <section className="mb-12">
+                    <h2 className="text-lg font-heading font-bold text-charcoal mb-4">
+                        Ders notları hub
+                    </h2>
+                    <ul className="grid grid-cols-1 sm:grid-cols-2 gap-2">
+                        <li>
+                            <Link href="/ders-notlari" className="text-sm text-charcoal/70 hover:text-accent">
+                                Tüm hukuk fakülteleri
+                            </Link>
+                        </li>
+                        <li>
+                            <Link
+                                href="/ders-notlari/ankara-yildirim-beyazit"
+                                className="text-sm text-charcoal/70 hover:text-accent"
+                            >
+                                AYBÜ örnek hub
+                            </Link>
+                        </li>
+                        <li>
+                            <Link href="/ders-notlari/van-yyu" className="text-sm text-charcoal/70 hover:text-accent">
+                                Van YYÜ örnek hub
+                            </Link>
+                        </li>
+                        <li>
+                            <Link href="/ders-notlari/marmara" className="text-sm text-charcoal/70 hover:text-accent">
+                                Marmara örnek hub
+                            </Link>
+                        </li>
                     </ul>
                 </section>
 

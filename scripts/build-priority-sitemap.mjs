@@ -25,6 +25,7 @@ function add(path, prio = '0.9', freq = 'weekly') {
   '/hesaplama',
   '/icthat',
   '/avukat-fethi-guzel',
+  '/ders-notlari',
   '/mevzuat/tbk',
   '/mevzuat/tmk',
   '/mevzuat/tck',
@@ -32,6 +33,9 @@ function add(path, prio = '0.9', freq = 'weekly') {
   '/mevzuat/iik',
   '/mevzuat/ttk',
   '/mevzuat/is-kanunu',
+  '/ders-notlari/ankara-yildirim-beyazit',
+  '/ders-notlari/marmara',
+  '/ders-notlari/van-yyu',
 ].forEach((p) => add(p, p === '/' ? '1.0' : '0.95'));
 
 // TBK 1–50 (Google «TBK 13» niyeti)

@@ -415,8 +415,15 @@ function MevzuatSearchInner({
 
     const onSubmit = (e: React.FormEvent) => {
         e.preventDefault();
-        if (compact && q.trim()) {
-            router.push(`/ara?q=${encodeURIComponent(q.trim())}`);
+        const trimmed = q.trim();
+        if (!trimmed) return;
+        // «TBK 13» → doğrudan madde sayfası
+        if (exactMaddeHint) {
+            router.push(`/mevzuat/${exactMaddeHint.kanunId}/madde-${exactMaddeHint.n}`);
+            return;
+        }
+        if (compact) {
+            router.push(`/ara?q=${encodeURIComponent(trimmed)}`);
         }
     };
 
@@ -465,14 +472,12 @@ function MevzuatSearchInner({
                             ))}
                         </select>
                     )}
-                    {compact && (
-                        <button
-                            type="submit"
-                            className="sm:w-auto px-6 py-3.5 rounded-2xl bg-accent text-white font-bold text-sm hover:bg-accent/90"
-                        >
-                            Ara
-                        </button>
-                    )}
+                    <button
+                        type="submit"
+                        className="sm:w-auto px-6 py-3.5 rounded-2xl bg-accent text-white font-bold text-sm hover:bg-accent/90"
+                    >
+                        Ara
+                    </button>
                 </div>
 
                 {loading && (
@@ -492,6 +497,28 @@ function MevzuatSearchInner({
                     </p>
                 )}
             </form>
+
+            {q.trim() && !loading && exactMaddeHint && (
+                <div className="mt-6">
+                    <Link
+                        href={`/mevzuat/${exactMaddeHint.kanunId}/madde-${exactMaddeHint.n}`}
+                        className="flex items-center justify-between gap-3 p-4 sm:p-5 rounded-2xl bg-accent/10 border border-accent/30 hover:bg-accent/15 transition-colors"
+                    >
+                        <div className="flex items-center gap-3 min-w-0">
+                            <BookOpen className="text-accent shrink-0" size={20} />
+                            <div>
+                                <p className="text-[10px] font-mono uppercase tracking-widest text-accent font-bold">
+                                    Tam madde eşleşmesi
+                                </p>
+                                <p className="text-sm sm:text-base font-heading font-bold text-charcoal">
+                                    {exactMaddeHint.kanunId.toUpperCase()} madde {exactMaddeHint.n}
+                                </p>
+                            </div>
+                        </div>
+                        <span className="text-xs font-bold text-accent shrink-0">Aç →</span>
+                    </Link>
+                </div>
+            )}
 
             {q.trim() && !loading && (
                 <div className="mt-6 space-y-8">

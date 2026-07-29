@@ -19,6 +19,8 @@
     "vatandas:depth": "node scripts/vatandas-depth-gate.mjs",
     "vatandas:analyze": "node scripts/analyze-seo-content.mjs",
     "vatandas:sitemaps": "node scripts/build-bilgi-sitemap.mjs && node scripts/build-priority-sitemap.mjs",
+    "build:ders-notlari": "node scripts/generate-ders-notlari.mjs",
+    "ders-notlari:sitemap": "node scripts/build-ders-notlari-sitemap.mjs",
     "seo:verify-live": "node scripts/verify-live-seo.mjs",
     "seo:indexnow": "node scripts/indexnow-submit.mjs",
     "seo:madde-html": "node scripts/build-seo-madde-html.mjs",
@@ -36,9 +38,7 @@
     "maintenance:weekly": "node scripts/weekly-icthat-digest.js",
     "maintenance:links": "node scripts/link-check.js",
     "maintenance:setup": "powershell -ExecutionPolicy Bypass -File scripts/setup-maintenance-scheduler.ps1",
-    "forum:draft": "node scripts/forum-draft.js",
-    "build:ders-notlari": "node scripts/generate-ders-notlari.mjs",
-    "ders-notlari:sitemap": "node scripts/build-ders-notlari-sitemap.mjs"
+    "forum:draft": "node scripts/forum-draft.js"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.32.0",

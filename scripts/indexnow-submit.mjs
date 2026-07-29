@@ -40,6 +40,18 @@ const PRIORITY = [
   `https://${HOST}/bilgi/hukuk-davasi-nasil-acilir`,
   `https://${HOST}/hesaplama/kidem`,
   `https://${HOST}/avukat-fethi-guzel`,
+  `https://${HOST}/ders-notlari`,
+  `https://${HOST}/ders-notlari/ankara-yildirim-beyazit`,
+  `https://${HOST}/ders-notlari/ankara-yildirim-beyazit/borclar-genel`,
+  `https://${HOST}/ders-notlari/marmara`,
+  `https://${HOST}/ders-notlari/van-yyu`,
+  `https://${HOST}/van-avukat`,
+  `https://${HOST}/ercis-avukat`,
+  `https://${HOST}/ankara-avukat`,
+  `https://${HOST}/bitlis-avukat`,
+  `https://${HOST}/hizmet-bolgeleri`,
+  `https://${HOST}/site-haritasi`,
+  `https://${HOST}/ders-notlari-sitemap.xml`,
 ];
 
 // First 80 TBK maddeleri — crawl seed

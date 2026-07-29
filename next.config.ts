@@ -68,6 +68,9 @@ const nextConfig: NextConfig = {
       "./node_modules/next/dist/server/dev/browser-logs/**/*",
       "./node_modules/next/dist/server/node-environment-extensions/**/*",
     ],
+    // Ders notları — SSG dışında runtime fallback için dosya erişimi
+    "/ders-notlari/[uni]/[ders]": ["./lib/ders-notlari/generated/notes/**/*"],
+    "/ders-notlari/[uni]": ["./lib/ders-notlari/generated/**/*"],
   },
   async headers() {
     return [

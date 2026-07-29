@@ -3,7 +3,8 @@
  * Used across SEO pages, schema, About, Footer. Advertising-ban safe: factual only.
  */
 
-export const SITE_URL = 'https://avfethiguzel.com';
+/** Production canonical host (bare domain redirects → www) */
+export const SITE_URL = 'https://www.avfethiguzel.com';
 
 export const PROFILE = {
     name: 'Av. Fethi Güzel',

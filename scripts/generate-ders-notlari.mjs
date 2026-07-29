@@ -509,9 +509,9 @@ const index = {
 
 writeFileSync(join(OUT_DIR, 'index.json'), JSON.stringify(index, null, 2), 'utf8');
 writeFileSync(join(OUT_DIR, 'hubs.json'), JSON.stringify(hubs, null, 2), 'utf8');
-writeFileSync(join(OUT_DIR, 'notes.json'), JSON.stringify(notes, null, 2), 'utf8');
+// Monolit notes.json yazılmaz (20MB+ bundle riski). Her not ayrı dosyada.
 
-// Per-note files for future lazy loading
+// Per-note files — runtime fs ile okunur
 const notesDir = join(OUT_DIR, 'notes');
 mkdirSync(notesDir, { recursive: true });
 for (const n of notes) {

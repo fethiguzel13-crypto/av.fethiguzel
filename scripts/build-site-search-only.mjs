@@ -1,13 +1,7 @@
 /**
- * Sadece site-search-index.json üretir (mevzuat full rebuild olmadan).
+ * site-search-index.json üretir (mevzuat full rebuild olmadan).
  * Usage: node scripts/build-site-search-only.mjs
  */
-import { spawnSync } from 'node:child_process';
-import { join, dirname } from 'node:path';
-import { fileURLToPath } from 'node:url';
-
-// Reuse build-mevzuat-index's site index by importing logic — simplest: run partial
-// by reading the site builder from a duplicated minimal path.
 import {
     readdirSync,
     readFileSync,
@@ -15,14 +9,16 @@ import {
     existsSync,
     mkdirSync,
 } from 'node:fs';
+import { join, dirname } from 'node:path';
+import { fileURLToPath } from 'node:url';
 
 const root = join(dirname(fileURLToPath(import.meta.url)), '..');
 const outDir = join(root, 'public', 'data');
 const siteOutFile = join(outDir, 'site-search-index.json');
 
 const pages = [
-    { type: 'sayfa', title: 'Ana sayfa', href: '/', keywords: 'avukat fethi güzel van erciş hukuk portalı' },
-    { type: 'sayfa', title: 'Mevzuat ara', href: '/ara', keywords: 'arama kanun madde şerh' },
+    { type: 'sayfa', title: 'Ana sayfa', href: '/', keywords: 'avukat fethi güzel hukuk portalı kanun maddesi arama' },
+    { type: 'sayfa', title: 'Mevzuat ara', href: '/ara', keywords: 'arama kanun madde şerh tbk 13' },
     { type: 'sayfa', title: 'Mevzuat arşivi', href: '/mevzuat', keywords: 'kanun listesi mevzuat bankası' },
     { type: 'sayfa', title: 'Günlük içtihat', href: '/icthat', keywords: 'yargıtay aym içtihat karar' },
     { type: 'sayfa', title: 'Haftalık içtihat özeti', href: '/icthat/haftalik', keywords: 'haftalık karar özet' },
@@ -32,9 +28,9 @@ const pages = [
     { type: 'sayfa', title: 'e-Duruşma', href: '/e-durusma', keywords: 'e duruşma ses görüntü usul monografi' },
     { type: 'sayfa', title: 'Eserlerim', href: '/eserlerim', keywords: 'kitap seckin e-duruşma' },
     { type: 'sayfa', title: 'Akademik profil', href: '/akademik-profil', keywords: 'doktora özel hukuk' },
-    { type: 'sayfa', title: 'Avukat Fethi Güzel', href: '/avukat-fethi-guzel', keywords: 'avukat profili erciş van' },
+    { type: 'sayfa', title: 'Avukat Fethi Güzel', href: '/avukat-fethi-guzel', keywords: 'avukat profili arabulucu' },
     { type: 'sayfa', title: 'English-speaking lawyer', href: '/english-speaking-lawyer', keywords: 'english lawyer turkey' },
-    { type: 'sayfa', title: 'Hizmet bölgeleri', href: '/hizmet-bolgeleri', keywords: 'van erciş bitlis ağrı ankara' },
+    { type: 'sayfa', title: 'Bölgesel hukuki bilgilendirme', href: '/hizmet-bolgeleri', keywords: 'miras tapu aile icra bilgilendirme' },
     { type: 'sayfa', title: 'Hizmet alanları', href: '/hizmetler', keywords: 'ceza aile miras iş icra' },
     { type: 'sayfa', title: 'Rehberler', href: '/rehber', keywords: 'miras kıdem arabuluculuk rehber' },
     { type: 'sayfa', title: 'Hukuki kavramlar', href: '/kavram', keywords: 'satım kıdem nafaka faiz miras kavram sözlük' },
@@ -46,7 +42,29 @@ const pages = [
     { type: 'sayfa', title: 'Gizlilik / KVKK', href: '/gizlilik', keywords: 'kvkk gizlilik' },
     { type: 'sayfa', title: 'Yasal uyarı', href: '/yasal-uyari', keywords: 'yasal uyarı bilgilendirme' },
     { type: 'sayfa', title: 'Mevzuat yer imi aracı', href: '/bookmarklet', keywords: 'bookmarklet arama eklenti' },
+    { type: 'sayfa', title: 'Vatandaş bilgi rehberi', href: '/bilgi', keywords: 'vatandaş rehber emlak kıdem icra boşanma' },
+    { type: 'sayfa', title: 'Hukuk fakültesi ders notları', href: '/ders-notlari', keywords: 'hukuk ders notu ücretsiz pdf fakülte' },
 ];
+
+// Bölgesel bilgilendirme
+try {
+  const bolgeSrc = readFileSync(join(root, 'lib/bolge-bilgi.ts'), 'utf8');
+  const blocks = bolgeSrc.split(/slug:\s*'/).slice(1);
+  for (const b of blocks) {
+    const slug = b.match(/^([^']+)'/)?.[1];
+    const h1 = b.match(/h1:\s*'((?:\\'|[^'])*)'/)?.[1]?.replace(/\\'/g, "'");
+    const yer = b.match(/yerlesim:\s*'((?:\\'|[^'])*)'/)?.[1];
+    if (!slug || !h1) continue;
+    pages.push({
+      type: 'bolge',
+      title: h1,
+      href: `/${slug}`,
+      keywords: `${yer || ''} hukuki bilgilendirme miras tapu aile icra`,
+    });
+  }
+} catch {
+  /* optional */
+}
 
 function parseBlocks(path, splitRe, mapFn) {
     if (!existsSync(path)) return;
@@ -81,6 +99,51 @@ parseBlocks(join(root, 'lib/kavramlar.ts'), /slug:\s*'/, (b) => {
         keywords: `${ozet || ''} kavram bilgilendirme forum`,
     });
 });
+
+// Vatandaş rehberi (data.ts JSON)
+try {
+  const dataPath = join(root, 'lib/vatandas-rehberi/data.ts');
+  const src = readFileSync(dataPath, 'utf8');
+  const slugRe = /"slug":\s*"([^"]+)"/g;
+  const h1Re = /"h1":\s*"([^"]+)"/g;
+  const slugs = [...src.matchAll(slugRe)].map((m) => m[1]);
+  const h1s = [...src.matchAll(h1Re)].map((m) => m[1]);
+  const n = Math.min(slugs.length, h1s.length);
+  for (let i = 0; i < n; i++) {
+    pages.push({
+      type: 'bilgi',
+      title: h1s[i],
+      href: `/bilgi/${slugs[i]}`,
+      keywords: `${slugs[i].replace(/-/g, ' ')} vatandaş rehber`,
+    });
+  }
+} catch (e) {
+  console.warn('vatandas index skip', e.message);
+}
+
+// Ders notları — index.json hafif
+try {
+  const idx = JSON.parse(readFileSync(join(root, 'lib/ders-notlari/generated/index.json'), 'utf8'));
+  for (const u of idx.universities || []) {
+    pages.push({
+      type: 'ders-hub',
+      title: `${u.shortName} hukuk ders notları`,
+      href: `/ders-notlari/${u.slug}`,
+      keywords: `${u.name} ${u.city} hukuk fakültesi ders notu ücretsiz`,
+    });
+  }
+  // Öncelikli not örnekleri (tüm 3360'ı arama indexine basma)
+  for (const n of (idx.notes || []).slice(0, 400)) {
+    pages.push({
+      type: 'ders-not',
+      title: n.title,
+      href: n.href,
+      keywords: `${n.uniSlug} ${n.courseCode} hukuk ders notu`,
+    });
+  }
+} catch (e) {
+  console.warn('ders-notlari index skip', e.message);
+}
 
 mkdirSync(outDir, { recursive: true });
 writeFileSync(

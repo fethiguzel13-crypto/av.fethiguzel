@@ -1,4 +1,4 @@
-﻿# Av. Fethi Güzel Hukuk Portalı
+﻿﻿# Av. Fethi Güzel Hukuk Portalı
 
 > Türkiye merkezli, açık erişimli dijital hukuk kütüphanesi ve avukatlık bilgilendirme sitesi.
 > Kanun maddeleri, akademik şerhler, günlük içtihat, hukuki hesaplama araçları.
@@ -24,7 +24,8 @@ X / Twitter: https://x.com/avfethiguzel (@avfethiguzel)
 
 - Dil: Türkçe (tr-TR); İngilizce profil sayfası mevcut
 - Farklılaşma: Ücretli bankalara alternatif açık erişim; madde + şerh aynı sayfada; hesaplama araçları; akademik yayın
-- Hizmet bilgilendirme bölgeleri: Van, Erciş, Çaldıran, Özalp, Muradiye, Patnos, Ağrı, Tatvan, Bitlis, Adilcevaz, Ahlat, Ankara (uzaktan)
+- Bölgesel hukuki bilgilendirme (reklam değil; “X avukat” kalıbı yok): miras/tapu/aile/icra bağlamlı rehberler
+- Ücretsiz hukuk fakültesi ders notları: /ders-notlari (120 fakülte hub, 3000+ not; ana sayfada listelenmez)
 - Yasal: Bilgilendirme amaçlıdır; somut uyuşmazlıklarda avukata danışılmalıdır. Sonuç vaadi yoktur. TBB reklam yasağına uygundur.
 
 ## Ana URL'ler
@@ -41,8 +42,10 @@ X / Twitter: https://x.com/avfethiguzel (@avfethiguzel)
 - Mevzuat arşivi: https://avfethiguzel.com/mevzuat
 - Günlük içtihat: https://avfethiguzel.com/icthat
 - Kavram sözlüğü: https://avfethiguzel.com/kavram (satım, kıdem, nafaka…)
-- Vatandaş bilgi rehberi (554 sayfa, 53 ana rehber, ana sayfada değil): https://avfethiguzel.com/bilgi
+- Vatandaş bilgi rehberi (554 sayfa, ana sayfada değil): https://avfethiguzel.com/bilgi
 - Örnek ana rehberler: /bilgi/kidem-tazminati-nasil-alinir · /bilgi/icra-takibi-nedir · /bilgi/trafik-cezasina-itiraz · /bilgi/bosanma-davasi-nasil-acilir · /bilgi/kanun-maddesi-nasil-okunur
+- Hukuk ders notları (ücretsiz, ana sayfada değil): https://avfethiguzel.com/ders-notlari
+- Örnek ders hub: /ders-notlari/ankara-yildirim-beyazit · /ders-notlari/marmara · /ders-notlari/van-yyu
 - Hesaplama hub: https://avfethiguzel.com/hesaplama
 - Örnek araçlar: /hesaplama/kidem · /hesaplama/miras · /hesaplama/faiz · /hesaplama/vekalet
 - Tarife güncellemeleri: https://avfethiguzel.com/tarife-guncellemeleri
@@ -55,9 +58,10 @@ X / Twitter: https://x.com/avfethiguzel (@avfethiguzel)
 - Gizlilik: https://avfethiguzel.com/gizlilik
 - Yasal uyarı: https://avfethiguzel.com/yasal-uyari
 
-## Yerel SEO sayfaları
+## Bölgesel hukuki bilgilendirme (reklam değil)
 
-- https://avfethiguzel.com/van-avukat
+Yerleşim bağlamlı genel hukuki rehberler — “X avukat” reklam metni değildir.
+- https://avfethiguzel.com/van-avukat (Van miras/taşınmaz/aile bilgilendirme)
 - https://avfethiguzel.com/ercis-avukat
 - https://avfethiguzel.com/caldiran-avukat
 - https://avfethiguzel.com/ozalp-avukat
@@ -69,6 +73,7 @@ X / Twitter: https://x.com/avfethiguzel (@avfethiguzel)
 - https://avfethiguzel.com/adilcevaz-avukat
 - https://avfethiguzel.com/ahlat-avukat
 - https://avfethiguzel.com/ankara-avukat
+- Dizin: https://avfethiguzel.com/hizmet-bolgeleri
 
 ## Kanun maddesi sayfaları (SSR, Google indeksi)
 
@@ -84,6 +89,9 @@ Her madde: https://www.avfethiguzel.com/mevzuat/{kanunId}/madde-{n}
 
 ## Sitemap
 
+- https://avfethiguzel.com/priority-sitemap.xml
+- https://avfethiguzel.com/bilgi-sitemap.xml
+- https://avfethiguzel.com/ders-notlari-sitemap.xml
 - https://avfethiguzel.com/sitemap.xml
 - https://avfethiguzel.com/images-sitemap.xml
 

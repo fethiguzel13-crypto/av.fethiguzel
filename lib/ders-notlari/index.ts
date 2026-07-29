@@ -1,8 +1,9 @@
+import fs from 'node:fs';
+import path from 'node:path';
 import type { CourseNote, UniHubContent, LawUniversity } from './types';
 import { LAW_UNIVERSITIES, getActiveUniversities, getUniversityBySlug } from './universiteler';
 import { CURRICULUM, getCoreCourses, getCourseByCode } from './mufredat';
 import hubsJson from './generated/hubs.json';
-import notesJson from './generated/notes.json';
 import indexJson from './generated/index.json';
 
 export type { CourseNote, UniHubContent, LawUniversity, CurriculumCourse } from './types';
@@ -20,14 +21,22 @@ export const DERS_NOTLARI_INDEX = indexJson as {
 };
 
 export const DERS_NOTLARI_HUBS = hubsJson as UniHubContent[];
-export const DERS_NOTLARI_NOTES = notesJson as CourseNote[];
+
+/** Monolit notes.json (20MB+) import edilmez — build/runtime şişmesini önler */
+const NOTES_DIR = path.join(process.cwd(), 'lib', 'ders-notlari', 'generated', 'notes');
 
 export function getHub(uniSlug: string): UniHubContent | undefined {
   return DERS_NOTLARI_HUBS.find((h) => h.uni.slug === uniSlug);
 }
 
 export function getNote(uniSlug: string, courseCode: string): CourseNote | undefined {
-  return DERS_NOTLARI_NOTES.find((n) => n.uniSlug === uniSlug && n.courseCode === courseCode);
+  const file = path.join(NOTES_DIR, `${uniSlug}__${courseCode}.json`);
+  if (!fs.existsSync(file)) return undefined;
+  try {
+    return JSON.parse(fs.readFileSync(file, 'utf8')) as CourseNote;
+  } catch {
+    return undefined;
+  }
 }
 
 export function getAllUniSlugs(): string[] {
@@ -35,9 +44,12 @@ export function getAllUniSlugs(): string[] {
 }
 
 export function getNotesForUni(uniSlug: string): CourseNote[] {
-  return DERS_NOTLARI_NOTES.filter((n) => n.uniSlug === uniSlug);
+  return DERS_NOTLARI_INDEX.notes
+    .filter((n) => n.uniSlug === uniSlug)
+    .map((n) => getNote(n.uniSlug, n.courseCode))
+    .filter((n): n is CourseNote => Boolean(n));
 }
 
 export function getAllNoteParams(): { uni: string; ders: string }[] {
-  return DERS_NOTLARI_NOTES.map((n) => ({ uni: n.uniSlug, ders: n.courseCode }));
+  return DERS_NOTLARI_INDEX.notes.map((n) => ({ uni: n.uniSlug, ders: n.courseCode }));
 }
