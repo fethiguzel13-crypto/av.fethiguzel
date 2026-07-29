@@ -423,6 +423,18 @@ export function DersNotuView({
               { code: 'tmk-2-kitap-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
             ],
           },
+          {
+            match:
+              note.variantOf === 'hmk' ||
+              note.courseCode === 'medeni-usul' ||
+              note.courseCode.startsWith('hmk-'),
+            title: 'HMK · üç paket',
+            items: [
+              { code: 'hmk-donem-1', label: '1. Dönem (Güz)', desc: 'Görev · yetki · dava şartı' },
+              { code: 'hmk-donem-2', label: '2. Dönem (Bahar)', desc: 'İspat · hüküm · istinaf' },
+              { code: 'hmk-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
+            ],
+          },
         ];
         const activePacks = packs.filter((p) => p.match);
         if (!activePacks.length) return null;
@@ -860,6 +872,24 @@ export function UniHubView({ hub }: { hub: UniHubContent }) {
               { code: 'tmk-2-kitap-donem-1', title: '1. Dönem (Güz)' },
               { code: 'tmk-2-kitap-donem-2', title: '2. Dönem (Bahar)' },
               { code: 'tmk-2-kitap-yillik', title: 'Yıllık tam not' },
+            ],
+          },
+          {
+            show: hub.courses.some(
+              (c) =>
+                String(c.code).startsWith('hmk-') ||
+                c.code === 'medeni-usul' ||
+                c.code === 'hmk'
+            ),
+            title: 'HMK — 1. dönem · 2. dönem · yıllık',
+            desc: 'Görev–yetki–ispat–hüküm–istinaf–tedbir… üç premium not + PDF.',
+            border: 'border-charcoal/15 bg-charcoal/[0.03]',
+            itemBorder: 'border-charcoal/15',
+            accent: 'text-accent',
+            items: [
+              { code: 'hmk-donem-1', title: '1. Dönem (Güz)' },
+              { code: 'hmk-donem-2', title: '2. Dönem (Bahar)' },
+              { code: 'hmk-yillik', title: 'Yıllık tam not' },
             ],
           },
         ]

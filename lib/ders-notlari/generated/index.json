@@ -3,7 +3,7 @@
   "wave": "all",
   "universityCount": 120,
   "hubCount": 120,
-  "noteCount": 5520,
+  "noteCount": 5880,
   "universities": [
     {
       "slug": "ankara-yildirim-beyazit",
@@ -43806,6 +43806,3246 @@
       "href": "/ders-notlari/cag/tmk-2-kitap-yillik",
       "variantOf": "tmk-2-kitap",
       "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "hmk-donem-1",
+      "slug": "ankara-yildirim-beyazit__hmk-donem-1",
+      "title": "AYBÜ HMK 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "hmk-donem-2",
+      "slug": "ankara-yildirim-beyazit__hmk-donem-2",
+      "title": "AYBÜ HMK 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "hmk-yillik",
+      "slug": "ankara-yildirim-beyazit__hmk-yillik",
+      "title": "AYBÜ HMK Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "hmk-donem-1",
+      "slug": "ankara__hmk-donem-1",
+      "title": "AÜHF HMK 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "hmk-donem-2",
+      "slug": "ankara__hmk-donem-2",
+      "title": "AÜHF HMK 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "hmk-yillik",
+      "slug": "ankara__hmk-yillik",
+      "title": "AÜHF HMK Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "hmk-donem-1",
+      "slug": "istanbul__hmk-donem-1",
+      "title": "İÜHF HMK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "hmk-donem-2",
+      "slug": "istanbul__hmk-donem-2",
+      "title": "İÜHF HMK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "hmk-yillik",
+      "slug": "istanbul__hmk-yillik",
+      "title": "İÜHF HMK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "hmk-donem-1",
+      "slug": "marmara__hmk-donem-1",
+      "title": "MÜHF HMK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "hmk-donem-2",
+      "slug": "marmara__hmk-donem-2",
+      "title": "MÜHF HMK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "hmk-yillik",
+      "slug": "marmara__hmk-yillik",
+      "title": "MÜHF HMK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "hmk-donem-1",
+      "slug": "galatasaray__hmk-donem-1",
+      "title": "GSÜ HMK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "hmk-donem-2",
+      "slug": "galatasaray__hmk-donem-2",
+      "title": "GSÜ HMK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "hmk-yillik",
+      "slug": "galatasaray__hmk-yillik",
+      "title": "GSÜ HMK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "hmk-donem-1",
+      "slug": "dokuz-eylul__hmk-donem-1",
+      "title": "DEÜ HMK 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "hmk-donem-2",
+      "slug": "dokuz-eylul__hmk-donem-2",
+      "title": "DEÜ HMK 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "hmk-yillik",
+      "slug": "dokuz-eylul__hmk-yillik",
+      "title": "DEÜ HMK Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "hmk-donem-1",
+      "slug": "hacettepe__hmk-donem-1",
+      "title": "Hacettepe HMK 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "hmk-donem-2",
+      "slug": "hacettepe__hmk-donem-2",
+      "title": "Hacettepe HMK 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "hmk-yillik",
+      "slug": "hacettepe__hmk-yillik",
+      "title": "Hacettepe HMK Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "hmk-donem-1",
+      "slug": "ankara-hacibayram__hmk-donem-1",
+      "title": "AHBV HMK 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "hmk-donem-2",
+      "slug": "ankara-hacibayram__hmk-donem-2",
+      "title": "AHBV HMK 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "hmk-yillik",
+      "slug": "ankara-hacibayram__hmk-yillik",
+      "title": "AHBV HMK Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "hmk-donem-1",
+      "slug": "bilkent__hmk-donem-1",
+      "title": "Bilkent HMK 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "hmk-donem-2",
+      "slug": "bilkent__hmk-donem-2",
+      "title": "Bilkent HMK 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "hmk-yillik",
+      "slug": "bilkent__hmk-yillik",
+      "title": "Bilkent HMK Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "hmk-donem-1",
+      "slug": "koc__hmk-donem-1",
+      "title": "Koç HMK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "hmk-donem-2",
+      "slug": "koc__hmk-donem-2",
+      "title": "Koç HMK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "hmk-yillik",
+      "slug": "koc__hmk-yillik",
+      "title": "Koç HMK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "hmk-donem-1",
+      "slug": "tobb-etu__hmk-donem-1",
+      "title": "TOBB ETÜ HMK 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "hmk-donem-2",
+      "slug": "tobb-etu__hmk-donem-2",
+      "title": "TOBB ETÜ HMK 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "hmk-yillik",
+      "slug": "tobb-etu__hmk-yillik",
+      "title": "TOBB ETÜ HMK Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "hmk-donem-1",
+      "slug": "bogazici__hmk-donem-1",
+      "title": "BÜ HMK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "hmk-donem-2",
+      "slug": "bogazici__hmk-donem-2",
+      "title": "BÜ HMK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "hmk-yillik",
+      "slug": "bogazici__hmk-yillik",
+      "title": "BÜ HMK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "hmk-donem-1",
+      "slug": "ege__hmk-donem-1",
+      "title": "Ege HMK 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "hmk-donem-2",
+      "slug": "ege__hmk-donem-2",
+      "title": "Ege HMK 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "hmk-yillik",
+      "slug": "ege__hmk-yillik",
+      "title": "Ege HMK Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "hmk-donem-1",
+      "slug": "akdeniz__hmk-donem-1",
+      "title": "Akdeniz HMK 1. Dönem (Güz) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "hmk-donem-2",
+      "slug": "akdeniz__hmk-donem-2",
+      "title": "Akdeniz HMK 2. Dönem (Bahar) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "hmk-yillik",
+      "slug": "akdeniz__hmk-yillik",
+      "title": "Akdeniz HMK Yıllık (Tam paket) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "hmk-donem-1",
+      "slug": "selcuk__hmk-donem-1",
+      "title": "Selçuk HMK 1. Dönem (Güz) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "hmk-donem-2",
+      "slug": "selcuk__hmk-donem-2",
+      "title": "Selçuk HMK 2. Dönem (Bahar) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "hmk-yillik",
+      "slug": "selcuk__hmk-yillik",
+      "title": "Selçuk HMK Yıllık (Tam paket) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "hmk-donem-1",
+      "slug": "erciyes__hmk-donem-1",
+      "title": "Erciyes HMK 1. Dönem (Güz) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "hmk-donem-2",
+      "slug": "erciyes__hmk-donem-2",
+      "title": "Erciyes HMK 2. Dönem (Bahar) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "hmk-yillik",
+      "slug": "erciyes__hmk-yillik",
+      "title": "Erciyes HMK Yıllık (Tam paket) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "hmk-donem-1",
+      "slug": "uludag__hmk-donem-1",
+      "title": "Uludağ HMK 1. Dönem (Güz) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "hmk-donem-2",
+      "slug": "uludag__hmk-donem-2",
+      "title": "Uludağ HMK 2. Dönem (Bahar) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "hmk-yillik",
+      "slug": "uludag__hmk-yillik",
+      "title": "Uludağ HMK Yıllık (Tam paket) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "hmk-donem-1",
+      "slug": "cukurova__hmk-donem-1",
+      "title": "Çukurova HMK 1. Dönem (Güz) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "hmk-donem-2",
+      "slug": "cukurova__hmk-donem-2",
+      "title": "Çukurova HMK 2. Dönem (Bahar) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "hmk-yillik",
+      "slug": "cukurova__hmk-yillik",
+      "title": "Çukurova HMK Yıllık (Tam paket) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "hmk-donem-1",
+      "slug": "anadolu__hmk-donem-1",
+      "title": "Anadolu HMK 1. Dönem (Güz) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "hmk-donem-2",
+      "slug": "anadolu__hmk-donem-2",
+      "title": "Anadolu HMK 2. Dönem (Bahar) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "hmk-yillik",
+      "slug": "anadolu__hmk-yillik",
+      "title": "Anadolu HMK Yıllık (Tam paket) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "hmk-donem-1",
+      "slug": "gazi-ankara__hmk-donem-1",
+      "title": "ASBÜ HMK 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "hmk-donem-2",
+      "slug": "gazi-ankara__hmk-donem-2",
+      "title": "ASBÜ HMK 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "hmk-yillik",
+      "slug": "gazi-ankara__hmk-yillik",
+      "title": "ASBÜ HMK Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "hmk-donem-1",
+      "slug": "yildiz-teknik__hmk-donem-1",
+      "title": "YTÜ HMK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "hmk-donem-2",
+      "slug": "yildiz-teknik__hmk-donem-2",
+      "title": "YTÜ HMK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "hmk-yillik",
+      "slug": "yildiz-teknik__hmk-yillik",
+      "title": "YTÜ HMK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "hmk-donem-1",
+      "slug": "istanbul-medeniyet__hmk-donem-1",
+      "title": "Medeniyet HMK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "hmk-donem-2",
+      "slug": "istanbul-medeniyet__hmk-donem-2",
+      "title": "Medeniyet HMK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "hmk-yillik",
+      "slug": "istanbul-medeniyet__hmk-yillik",
+      "title": "Medeniyet HMK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "hmk-donem-1",
+      "slug": "bahcesehir__hmk-donem-1",
+      "title": "BAU HMK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "hmk-donem-2",
+      "slug": "bahcesehir__hmk-donem-2",
+      "title": "BAU HMK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "hmk-yillik",
+      "slug": "bahcesehir__hmk-yillik",
+      "title": "BAU HMK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "hmk-donem-1",
+      "slug": "yeditepe__hmk-donem-1",
+      "title": "Yeditepe HMK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "hmk-donem-2",
+      "slug": "yeditepe__hmk-donem-2",
+      "title": "Yeditepe HMK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "hmk-yillik",
+      "slug": "yeditepe__hmk-yillik",
+      "title": "Yeditepe HMK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "hmk-donem-1",
+      "slug": "ozyegin__hmk-donem-1",
+      "title": "Özyeğin HMK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "hmk-donem-2",
+      "slug": "ozyegin__hmk-donem-2",
+      "title": "Özyeğin HMK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "hmk-yillik",
+      "slug": "ozyegin__hmk-yillik",
+      "title": "Özyeğin HMK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "hmk-donem-1",
+      "slug": "kadir-has__hmk-donem-1",
+      "title": "KHAS HMK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "hmk-donem-2",
+      "slug": "kadir-has__hmk-donem-2",
+      "title": "KHAS HMK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "hmk-yillik",
+      "slug": "kadir-has__hmk-yillik",
+      "title": "KHAS HMK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "hmk-donem-1",
+      "slug": "istanbul-bilgi__hmk-donem-1",
+      "title": "Bilgi HMK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "hmk-donem-2",
+      "slug": "istanbul-bilgi__hmk-donem-2",
+      "title": "Bilgi HMK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "hmk-yillik",
+      "slug": "istanbul-bilgi__hmk-yillik",
+      "title": "Bilgi HMK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "hmk-donem-1",
+      "slug": "mehmet-akif__hmk-donem-1",
+      "title": "Medipol HMK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "hmk-donem-2",
+      "slug": "mehmet-akif__hmk-donem-2",
+      "title": "Medipol HMK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "hmk-yillik",
+      "slug": "mehmet-akif__hmk-yillik",
+      "title": "Medipol HMK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "hmk-donem-1",
+      "slug": "altinbas__hmk-donem-1",
+      "title": "Altınbaş HMK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "hmk-donem-2",
+      "slug": "altinbas__hmk-donem-2",
+      "title": "Altınbaş HMK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "hmk-yillik",
+      "slug": "altinbas__hmk-yillik",
+      "title": "Altınbaş HMK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "hmk-donem-1",
+      "slug": "maltepe__hmk-donem-1",
+      "title": "Maltepe HMK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "hmk-donem-2",
+      "slug": "maltepe__hmk-donem-2",
+      "title": "Maltepe HMK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "hmk-yillik",
+      "slug": "maltepe__hmk-yillik",
+      "title": "Maltepe HMK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "hmk-donem-1",
+      "slug": "dogus__hmk-donem-1",
+      "title": "Doğuş HMK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "hmk-donem-2",
+      "slug": "dogus__hmk-donem-2",
+      "title": "Doğuş HMK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "hmk-yillik",
+      "slug": "dogus__hmk-yillik",
+      "title": "Doğuş HMK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "hmk-donem-1",
+      "slug": "isik__hmk-donem-1",
+      "title": "Işık HMK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "hmk-donem-2",
+      "slug": "isik__hmk-donem-2",
+      "title": "Işık HMK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "hmk-yillik",
+      "slug": "isik__hmk-yillik",
+      "title": "Işık HMK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "hmk-donem-1",
+      "slug": "okan__hmk-donem-1",
+      "title": "Okan HMK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "hmk-donem-2",
+      "slug": "okan__hmk-donem-2",
+      "title": "Okan HMK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "hmk-yillik",
+      "slug": "okan__hmk-yillik",
+      "title": "Okan HMK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "hmk-donem-1",
+      "slug": "kultur__hmk-donem-1",
+      "title": "İKÜ HMK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "hmk-donem-2",
+      "slug": "kultur__hmk-donem-2",
+      "title": "İKÜ HMK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "hmk-yillik",
+      "slug": "kultur__hmk-yillik",
+      "title": "İKÜ HMK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "hmk-donem-1",
+      "slug": "aydin__hmk-donem-1",
+      "title": "İAÜ HMK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "hmk-donem-2",
+      "slug": "aydin__hmk-donem-2",
+      "title": "İAÜ HMK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "hmk-yillik",
+      "slug": "aydin__hmk-yillik",
+      "title": "İAÜ HMK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "hmk-donem-1",
+      "slug": "gelisim__hmk-donem-1",
+      "title": "Gelişim HMK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "hmk-donem-2",
+      "slug": "gelisim__hmk-donem-2",
+      "title": "Gelişim HMK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "hmk-yillik",
+      "slug": "gelisim__hmk-yillik",
+      "title": "Gelişim HMK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "hmk-donem-1",
+      "slug": "topkapi__hmk-donem-1",
+      "title": "Topkapı HMK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "hmk-donem-2",
+      "slug": "topkapi__hmk-donem-2",
+      "title": "Topkapı HMK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "hmk-yillik",
+      "slug": "topkapi__hmk-yillik",
+      "title": "Topkapı HMK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "hmk-donem-1",
+      "slug": "nisantasi__hmk-donem-1",
+      "title": "Nişantaşı HMK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "hmk-donem-2",
+      "slug": "nisantasi__hmk-donem-2",
+      "title": "Nişantaşı HMK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "hmk-yillik",
+      "slug": "nisantasi__hmk-yillik",
+      "title": "Nişantaşı HMK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "hmk-donem-1",
+      "slug": "beykent__hmk-donem-1",
+      "title": "Beykent HMK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "hmk-donem-2",
+      "slug": "beykent__hmk-donem-2",
+      "title": "Beykent HMK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "hmk-yillik",
+      "slug": "beykent__hmk-yillik",
+      "title": "Beykent HMK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "hmk-donem-1",
+      "slug": "halic__hmk-donem-1",
+      "title": "Haliç HMK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "hmk-donem-2",
+      "slug": "halic__hmk-donem-2",
+      "title": "Haliç HMK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "hmk-yillik",
+      "slug": "halic__hmk-yillik",
+      "title": "Haliç HMK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "hmk-donem-1",
+      "slug": "fatih-sultan__hmk-donem-1",
+      "title": "FSMVÜ HMK 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "hmk-donem-2",
+      "slug": "fatih-sultan__hmk-donem-2",
+      "title": "FSMVÜ HMK 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "hmk-yillik",
+      "slug": "fatih-sultan__hmk-yillik",
+      "title": "FSMVÜ HMK Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "hmk-donem-1",
+      "slug": "karadeniz-teknik__hmk-donem-1",
+      "title": "KTÜ HMK 1. Dönem (Güz) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "hmk-donem-2",
+      "slug": "karadeniz-teknik__hmk-donem-2",
+      "title": "KTÜ HMK 2. Dönem (Bahar) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "hmk-yillik",
+      "slug": "karadeniz-teknik__hmk-yillik",
+      "title": "KTÜ HMK Yıllık (Tam paket) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "hmk-donem-1",
+      "slug": "ataturk__hmk-donem-1",
+      "title": "Atatürk HMK 1. Dönem (Güz) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "hmk-donem-2",
+      "slug": "ataturk__hmk-donem-2",
+      "title": "Atatürk HMK 2. Dönem (Bahar) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "hmk-yillik",
+      "slug": "ataturk__hmk-yillik",
+      "title": "Atatürk HMK Yıllık (Tam paket) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "hmk-donem-1",
+      "slug": "inonu__hmk-donem-1",
+      "title": "İnönü HMK 1. Dönem (Güz) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "hmk-donem-2",
+      "slug": "inonu__hmk-donem-2",
+      "title": "İnönü HMK 2. Dönem (Bahar) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "hmk-yillik",
+      "slug": "inonu__hmk-yillik",
+      "title": "İnönü HMK Yıllık (Tam paket) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "hmk-donem-1",
+      "slug": "dicle__hmk-donem-1",
+      "title": "Dicle HMK 1. Dönem (Güz) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "hmk-donem-2",
+      "slug": "dicle__hmk-donem-2",
+      "title": "Dicle HMK 2. Dönem (Bahar) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "hmk-yillik",
+      "slug": "dicle__hmk-yillik",
+      "title": "Dicle HMK Yıllık (Tam paket) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "hmk-donem-1",
+      "slug": "firat__hmk-donem-1",
+      "title": "Fırat HMK 1. Dönem (Güz) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "hmk-donem-2",
+      "slug": "firat__hmk-donem-2",
+      "title": "Fırat HMK 2. Dönem (Bahar) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "hmk-yillik",
+      "slug": "firat__hmk-yillik",
+      "title": "Fırat HMK Yıllık (Tam paket) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "hmk-donem-1",
+      "slug": "gaziantep__hmk-donem-1",
+      "title": "GAÜN HMK 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "hmk-donem-2",
+      "slug": "gaziantep__hmk-donem-2",
+      "title": "GAÜN HMK 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "hmk-yillik",
+      "slug": "gaziantep__hmk-yillik",
+      "title": "GAÜN HMK Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "hmk-donem-1",
+      "slug": "suleyman-demirel__hmk-donem-1",
+      "title": "SDÜ HMK 1. Dönem (Güz) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "hmk-donem-2",
+      "slug": "suleyman-demirel__hmk-donem-2",
+      "title": "SDÜ HMK 2. Dönem (Bahar) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "hmk-yillik",
+      "slug": "suleyman-demirel__hmk-yillik",
+      "title": "SDÜ HMK Yıllık (Tam paket) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "hmk-donem-1",
+      "slug": "pamukkale__hmk-donem-1",
+      "title": "PAÜ HMK 1. Dönem (Güz) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "hmk-donem-2",
+      "slug": "pamukkale__hmk-donem-2",
+      "title": "PAÜ HMK 2. Dönem (Bahar) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "hmk-yillik",
+      "slug": "pamukkale__hmk-yillik",
+      "title": "PAÜ HMK Yıllık (Tam paket) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "hmk-donem-1",
+      "slug": "mugla__hmk-donem-1",
+      "title": "MSKU HMK 1. Dönem (Güz) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "hmk-donem-2",
+      "slug": "mugla__hmk-donem-2",
+      "title": "MSKU HMK 2. Dönem (Bahar) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "hmk-yillik",
+      "slug": "mugla__hmk-yillik",
+      "title": "MSKU HMK Yıllık (Tam paket) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "hmk-donem-1",
+      "slug": "sakarya__hmk-donem-1",
+      "title": "SAÜ HMK 1. Dönem (Güz) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "hmk-donem-2",
+      "slug": "sakarya__hmk-donem-2",
+      "title": "SAÜ HMK 2. Dönem (Bahar) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "hmk-yillik",
+      "slug": "sakarya__hmk-yillik",
+      "title": "SAÜ HMK Yıllık (Tam paket) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "hmk-donem-1",
+      "slug": "kocaeli__hmk-donem-1",
+      "title": "KOÜ HMK 1. Dönem (Güz) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "hmk-donem-2",
+      "slug": "kocaeli__hmk-donem-2",
+      "title": "KOÜ HMK 2. Dönem (Bahar) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "hmk-yillik",
+      "slug": "kocaeli__hmk-yillik",
+      "title": "KOÜ HMK Yıllık (Tam paket) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "hmk-donem-1",
+      "slug": "trakya__hmk-donem-1",
+      "title": "Trakya HMK 1. Dönem (Güz) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "hmk-donem-2",
+      "slug": "trakya__hmk-donem-2",
+      "title": "Trakya HMK 2. Dönem (Bahar) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "hmk-yillik",
+      "slug": "trakya__hmk-yillik",
+      "title": "Trakya HMK Yıllık (Tam paket) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "hmk-donem-1",
+      "slug": "canakkale__hmk-donem-1",
+      "title": "ÇOMÜ HMK 1. Dönem (Güz) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "hmk-donem-2",
+      "slug": "canakkale__hmk-donem-2",
+      "title": "ÇOMÜ HMK 2. Dönem (Bahar) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "hmk-yillik",
+      "slug": "canakkale__hmk-yillik",
+      "title": "ÇOMÜ HMK Yıllık (Tam paket) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "hmk-donem-1",
+      "slug": "balikesir__hmk-donem-1",
+      "title": "BAÜN HMK 1. Dönem (Güz) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "hmk-donem-2",
+      "slug": "balikesir__hmk-donem-2",
+      "title": "BAÜN HMK 2. Dönem (Bahar) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "hmk-yillik",
+      "slug": "balikesir__hmk-yillik",
+      "title": "BAÜN HMK Yıllık (Tam paket) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "hmk-donem-1",
+      "slug": "afyon__hmk-donem-1",
+      "title": "AKÜ HMK 1. Dönem (Güz) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "hmk-donem-2",
+      "slug": "afyon__hmk-donem-2",
+      "title": "AKÜ HMK 2. Dönem (Bahar) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "hmk-yillik",
+      "slug": "afyon__hmk-yillik",
+      "title": "AKÜ HMK Yıllık (Tam paket) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "hmk-donem-1",
+      "slug": "dumlupinar__hmk-donem-1",
+      "title": "DPÜ HMK 1. Dönem (Güz) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "hmk-donem-2",
+      "slug": "dumlupinar__hmk-donem-2",
+      "title": "DPÜ HMK 2. Dönem (Bahar) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "hmk-yillik",
+      "slug": "dumlupinar__hmk-yillik",
+      "title": "DPÜ HMK Yıllık (Tam paket) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "hmk-donem-1",
+      "slug": "eskisehir-osmangazi__hmk-donem-1",
+      "title": "ESOGÜ HMK 1. Dönem (Güz) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "hmk-donem-2",
+      "slug": "eskisehir-osmangazi__hmk-donem-2",
+      "title": "ESOGÜ HMK 2. Dönem (Bahar) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "hmk-yillik",
+      "slug": "eskisehir-osmangazi__hmk-yillik",
+      "title": "ESOGÜ HMK Yıllık (Tam paket) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "hmk-donem-1",
+      "slug": "sivas-cumhuriyet__hmk-donem-1",
+      "title": "SCÜ HMK 1. Dönem (Güz) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "hmk-donem-2",
+      "slug": "sivas-cumhuriyet__hmk-donem-2",
+      "title": "SCÜ HMK 2. Dönem (Bahar) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "hmk-yillik",
+      "slug": "sivas-cumhuriyet__hmk-yillik",
+      "title": "SCÜ HMK Yıllık (Tam paket) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "hmk-donem-1",
+      "slug": "tokat__hmk-donem-1",
+      "title": "TOGÜ HMK 1. Dönem (Güz) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "hmk-donem-2",
+      "slug": "tokat__hmk-donem-2",
+      "title": "TOGÜ HMK 2. Dönem (Bahar) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "hmk-yillik",
+      "slug": "tokat__hmk-yillik",
+      "title": "TOGÜ HMK Yıllık (Tam paket) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "hmk-donem-1",
+      "slug": "yozgat__hmk-donem-1",
+      "title": "Bozok HMK 1. Dönem (Güz) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "hmk-donem-2",
+      "slug": "yozgat__hmk-donem-2",
+      "title": "Bozok HMK 2. Dönem (Bahar) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "hmk-yillik",
+      "slug": "yozgat__hmk-yillik",
+      "title": "Bozok HMK Yıllık (Tam paket) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "hmk-donem-1",
+      "slug": "kirsehir__hmk-donem-1",
+      "title": "AHİEVRAN HMK 1. Dönem (Güz) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "hmk-donem-2",
+      "slug": "kirsehir__hmk-donem-2",
+      "title": "AHİEVRAN HMK 2. Dönem (Bahar) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "hmk-yillik",
+      "slug": "kirsehir__hmk-yillik",
+      "title": "AHİEVRAN HMK Yıllık (Tam paket) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "hmk-donem-1",
+      "slug": "nevsehir__hmk-donem-1",
+      "title": "NEVÜ HMK 1. Dönem (Güz) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "hmk-donem-2",
+      "slug": "nevsehir__hmk-donem-2",
+      "title": "NEVÜ HMK 2. Dönem (Bahar) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "hmk-yillik",
+      "slug": "nevsehir__hmk-yillik",
+      "title": "NEVÜ HMK Yıllık (Tam paket) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "hmk-donem-1",
+      "slug": "mersin__hmk-donem-1",
+      "title": "MEÜ HMK 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "hmk-donem-2",
+      "slug": "mersin__hmk-donem-2",
+      "title": "MEÜ HMK 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "hmk-yillik",
+      "slug": "mersin__hmk-yillik",
+      "title": "MEÜ HMK Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "hmk-donem-1",
+      "slug": "hatay__hmk-donem-1",
+      "title": "MKÜ HMK 1. Dönem (Güz) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "hmk-donem-2",
+      "slug": "hatay__hmk-donem-2",
+      "title": "MKÜ HMK 2. Dönem (Bahar) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "hmk-yillik",
+      "slug": "hatay__hmk-yillik",
+      "title": "MKÜ HMK Yıllık (Tam paket) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "hmk-donem-1",
+      "slug": "kahramanmaras__hmk-donem-1",
+      "title": "KSÜ HMK 1. Dönem (Güz) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "hmk-donem-2",
+      "slug": "kahramanmaras__hmk-donem-2",
+      "title": "KSÜ HMK 2. Dönem (Bahar) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "hmk-yillik",
+      "slug": "kahramanmaras__hmk-yillik",
+      "title": "KSÜ HMK Yıllık (Tam paket) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "hmk-donem-1",
+      "slug": "osmaniye__hmk-donem-1",
+      "title": "OKÜ HMK 1. Dönem (Güz) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "hmk-donem-2",
+      "slug": "osmaniye__hmk-donem-2",
+      "title": "OKÜ HMK 2. Dönem (Bahar) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "hmk-yillik",
+      "slug": "osmaniye__hmk-yillik",
+      "title": "OKÜ HMK Yıllık (Tam paket) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "hmk-donem-1",
+      "slug": "samsun__hmk-donem-1",
+      "title": "OMÜ HMK 1. Dönem (Güz) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "hmk-donem-2",
+      "slug": "samsun__hmk-donem-2",
+      "title": "OMÜ HMK 2. Dönem (Bahar) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "hmk-yillik",
+      "slug": "samsun__hmk-yillik",
+      "title": "OMÜ HMK Yıllık (Tam paket) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "hmk-donem-1",
+      "slug": "ordu__hmk-donem-1",
+      "title": "ODÜ HMK 1. Dönem (Güz) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "hmk-donem-2",
+      "slug": "ordu__hmk-donem-2",
+      "title": "ODÜ HMK 2. Dönem (Bahar) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "hmk-yillik",
+      "slug": "ordu__hmk-yillik",
+      "title": "ODÜ HMK Yıllık (Tam paket) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "hmk-donem-1",
+      "slug": "giresun__hmk-donem-1",
+      "title": "GÜ HMK 1. Dönem (Güz) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "hmk-donem-2",
+      "slug": "giresun__hmk-donem-2",
+      "title": "GÜ HMK 2. Dönem (Bahar) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "hmk-yillik",
+      "slug": "giresun__hmk-yillik",
+      "title": "GÜ HMK Yıllık (Tam paket) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "hmk-donem-1",
+      "slug": "rize__hmk-donem-1",
+      "title": "RTEÜ HMK 1. Dönem (Güz) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "hmk-donem-2",
+      "slug": "rize__hmk-donem-2",
+      "title": "RTEÜ HMK 2. Dönem (Bahar) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "hmk-yillik",
+      "slug": "rize__hmk-yillik",
+      "title": "RTEÜ HMK Yıllık (Tam paket) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "hmk-donem-1",
+      "slug": "artvin__hmk-donem-1",
+      "title": "AÇÜ HMK 1. Dönem (Güz) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "hmk-donem-2",
+      "slug": "artvin__hmk-donem-2",
+      "title": "AÇÜ HMK 2. Dönem (Bahar) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "hmk-yillik",
+      "slug": "artvin__hmk-yillik",
+      "title": "AÇÜ HMK Yıllık (Tam paket) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "hmk-donem-1",
+      "slug": "van-yyu__hmk-donem-1",
+      "title": "YYÜ HMK 1. Dönem (Güz) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "hmk-donem-2",
+      "slug": "van-yyu__hmk-donem-2",
+      "title": "YYÜ HMK 2. Dönem (Bahar) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "hmk-yillik",
+      "slug": "van-yyu__hmk-yillik",
+      "title": "YYÜ HMK Yıllık (Tam paket) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "hmk-donem-1",
+      "slug": "agri__hmk-donem-1",
+      "title": "AİÇÜ HMK 1. Dönem (Güz) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "hmk-donem-2",
+      "slug": "agri__hmk-donem-2",
+      "title": "AİÇÜ HMK 2. Dönem (Bahar) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "hmk-yillik",
+      "slug": "agri__hmk-yillik",
+      "title": "AİÇÜ HMK Yıllık (Tam paket) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "hmk-donem-1",
+      "slug": "kars__hmk-donem-1",
+      "title": "Kafkas HMK 1. Dönem (Güz) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "hmk-donem-2",
+      "slug": "kars__hmk-donem-2",
+      "title": "Kafkas HMK 2. Dönem (Bahar) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "hmk-yillik",
+      "slug": "kars__hmk-yillik",
+      "title": "Kafkas HMK Yıllık (Tam paket) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "hmk-donem-1",
+      "slug": "erzincan__hmk-donem-1",
+      "title": "EBYÜ HMK 1. Dönem (Güz) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "hmk-donem-2",
+      "slug": "erzincan__hmk-donem-2",
+      "title": "EBYÜ HMK 2. Dönem (Bahar) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "hmk-yillik",
+      "slug": "erzincan__hmk-yillik",
+      "title": "EBYÜ HMK Yıllık (Tam paket) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "hmk-donem-1",
+      "slug": "bayburt__hmk-donem-1",
+      "title": "Bayburt HMK 1. Dönem (Güz) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "hmk-donem-2",
+      "slug": "bayburt__hmk-donem-2",
+      "title": "Bayburt HMK 2. Dönem (Bahar) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "hmk-yillik",
+      "slug": "bayburt__hmk-yillik",
+      "title": "Bayburt HMK Yıllık (Tam paket) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "hmk-donem-1",
+      "slug": "gumushane__hmk-donem-1",
+      "title": "Gümüşhane HMK 1. Dönem (Güz) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "hmk-donem-2",
+      "slug": "gumushane__hmk-donem-2",
+      "title": "Gümüşhane HMK 2. Dönem (Bahar) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "hmk-yillik",
+      "slug": "gumushane__hmk-yillik",
+      "title": "Gümüşhane HMK Yıllık (Tam paket) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "hmk-donem-1",
+      "slug": "bingol__hmk-donem-1",
+      "title": "Bingöl HMK 1. Dönem (Güz) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "hmk-donem-2",
+      "slug": "bingol__hmk-donem-2",
+      "title": "Bingöl HMK 2. Dönem (Bahar) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "hmk-yillik",
+      "slug": "bingol__hmk-yillik",
+      "title": "Bingöl HMK Yıllık (Tam paket) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "hmk-donem-1",
+      "slug": "mus__hmk-donem-1",
+      "title": "Muş HMK 1. Dönem (Güz) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "hmk-donem-2",
+      "slug": "mus__hmk-donem-2",
+      "title": "Muş HMK 2. Dönem (Bahar) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "hmk-yillik",
+      "slug": "mus__hmk-yillik",
+      "title": "Muş HMK Yıllık (Tam paket) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "hmk-donem-1",
+      "slug": "hakkari__hmk-donem-1",
+      "title": "Hakkâri HMK 1. Dönem (Güz) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "hmk-donem-2",
+      "slug": "hakkari__hmk-donem-2",
+      "title": "Hakkâri HMK 2. Dönem (Bahar) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "hmk-yillik",
+      "slug": "hakkari__hmk-yillik",
+      "title": "Hakkâri HMK Yıllık (Tam paket) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "hmk-donem-1",
+      "slug": "sirnak__hmk-donem-1",
+      "title": "Şırnak HMK 1. Dönem (Güz) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "hmk-donem-2",
+      "slug": "sirnak__hmk-donem-2",
+      "title": "Şırnak HMK 2. Dönem (Bahar) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "hmk-yillik",
+      "slug": "sirnak__hmk-yillik",
+      "title": "Şırnak HMK Yıllık (Tam paket) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "hmk-donem-1",
+      "slug": "mardin__hmk-donem-1",
+      "title": "Artuklu HMK 1. Dönem (Güz) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "hmk-donem-2",
+      "slug": "mardin__hmk-donem-2",
+      "title": "Artuklu HMK 2. Dönem (Bahar) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "hmk-yillik",
+      "slug": "mardin__hmk-yillik",
+      "title": "Artuklu HMK Yıllık (Tam paket) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "hmk-donem-1",
+      "slug": "batman__hmk-donem-1",
+      "title": "Batman HMK 1. Dönem (Güz) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "hmk-donem-2",
+      "slug": "batman__hmk-donem-2",
+      "title": "Batman HMK 2. Dönem (Bahar) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "hmk-yillik",
+      "slug": "batman__hmk-yillik",
+      "title": "Batman HMK Yıllık (Tam paket) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "hmk-donem-1",
+      "slug": "siirt__hmk-donem-1",
+      "title": "Siirt HMK 1. Dönem (Güz) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "hmk-donem-2",
+      "slug": "siirt__hmk-donem-2",
+      "title": "Siirt HMK 2. Dönem (Bahar) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "hmk-yillik",
+      "slug": "siirt__hmk-yillik",
+      "title": "Siirt HMK Yıllık (Tam paket) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "hmk-donem-1",
+      "slug": "adiyaman__hmk-donem-1",
+      "title": "Adıyaman HMK 1. Dönem (Güz) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "hmk-donem-2",
+      "slug": "adiyaman__hmk-donem-2",
+      "title": "Adıyaman HMK 2. Dönem (Bahar) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "hmk-yillik",
+      "slug": "adiyaman__hmk-yillik",
+      "title": "Adıyaman HMK Yıllık (Tam paket) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "hmk-donem-1",
+      "slug": "kilis__hmk-donem-1",
+      "title": "Kilis HMK 1. Dönem (Güz) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "hmk-donem-2",
+      "slug": "kilis__hmk-donem-2",
+      "title": "Kilis HMK 2. Dönem (Bahar) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "hmk-yillik",
+      "slug": "kilis__hmk-yillik",
+      "title": "Kilis HMK Yıllık (Tam paket) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "hmk-donem-1",
+      "slug": "igdir__hmk-donem-1",
+      "title": "Iğdır HMK 1. Dönem (Güz) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "hmk-donem-2",
+      "slug": "igdir__hmk-donem-2",
+      "title": "Iğdır HMK 2. Dönem (Bahar) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "hmk-yillik",
+      "slug": "igdir__hmk-yillik",
+      "title": "Iğdır HMK Yıllık (Tam paket) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "hmk-donem-1",
+      "slug": "ardahan__hmk-donem-1",
+      "title": "Ardahan HMK 1. Dönem (Güz) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "hmk-donem-2",
+      "slug": "ardahan__hmk-donem-2",
+      "title": "Ardahan HMK 2. Dönem (Bahar) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "hmk-yillik",
+      "slug": "ardahan__hmk-yillik",
+      "title": "Ardahan HMK Yıllık (Tam paket) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "hmk-donem-1",
+      "slug": "bilecik__hmk-donem-1",
+      "title": "BŞEÜ HMK 1. Dönem (Güz) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "hmk-donem-2",
+      "slug": "bilecik__hmk-donem-2",
+      "title": "BŞEÜ HMK 2. Dönem (Bahar) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "hmk-yillik",
+      "slug": "bilecik__hmk-yillik",
+      "title": "BŞEÜ HMK Yıllık (Tam paket) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "hmk-donem-1",
+      "slug": "bolu__hmk-donem-1",
+      "title": "BAİBÜ HMK 1. Dönem (Güz) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "hmk-donem-2",
+      "slug": "bolu__hmk-donem-2",
+      "title": "BAİBÜ HMK 2. Dönem (Bahar) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "hmk-yillik",
+      "slug": "bolu__hmk-yillik",
+      "title": "BAİBÜ HMK Yıllık (Tam paket) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "hmk-donem-1",
+      "slug": "duzce__hmk-donem-1",
+      "title": "Düzce HMK 1. Dönem (Güz) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "hmk-donem-2",
+      "slug": "duzce__hmk-donem-2",
+      "title": "Düzce HMK 2. Dönem (Bahar) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "hmk-yillik",
+      "slug": "duzce__hmk-yillik",
+      "title": "Düzce HMK Yıllık (Tam paket) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "hmk-donem-1",
+      "slug": "zonguldak__hmk-donem-1",
+      "title": "BEÜN HMK 1. Dönem (Güz) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "hmk-donem-2",
+      "slug": "zonguldak__hmk-donem-2",
+      "title": "BEÜN HMK 2. Dönem (Bahar) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "hmk-yillik",
+      "slug": "zonguldak__hmk-yillik",
+      "title": "BEÜN HMK Yıllık (Tam paket) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "hmk-donem-1",
+      "slug": "karabuk__hmk-donem-1",
+      "title": "KBÜ HMK 1. Dönem (Güz) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "hmk-donem-2",
+      "slug": "karabuk__hmk-donem-2",
+      "title": "KBÜ HMK 2. Dönem (Bahar) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "hmk-yillik",
+      "slug": "karabuk__hmk-yillik",
+      "title": "KBÜ HMK Yıllık (Tam paket) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "hmk-donem-1",
+      "slug": "kastamonu__hmk-donem-1",
+      "title": "KÜ HMK 1. Dönem (Güz) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "hmk-donem-2",
+      "slug": "kastamonu__hmk-donem-2",
+      "title": "KÜ HMK 2. Dönem (Bahar) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "hmk-yillik",
+      "slug": "kastamonu__hmk-yillik",
+      "title": "KÜ HMK Yıllık (Tam paket) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "hmk-donem-1",
+      "slug": "sinop__hmk-donem-1",
+      "title": "Sinop HMK 1. Dönem (Güz) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "hmk-donem-2",
+      "slug": "sinop__hmk-donem-2",
+      "title": "Sinop HMK 2. Dönem (Bahar) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "hmk-yillik",
+      "slug": "sinop__hmk-yillik",
+      "title": "Sinop HMK Yıllık (Tam paket) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "hmk-donem-1",
+      "slug": "corum__hmk-donem-1",
+      "title": "Hitit HMK 1. Dönem (Güz) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "hmk-donem-2",
+      "slug": "corum__hmk-donem-2",
+      "title": "Hitit HMK 2. Dönem (Bahar) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "hmk-yillik",
+      "slug": "corum__hmk-yillik",
+      "title": "Hitit HMK Yıllık (Tam paket) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "hmk-donem-1",
+      "slug": "amasya__hmk-donem-1",
+      "title": "Amasya HMK 1. Dönem (Güz) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "hmk-donem-2",
+      "slug": "amasya__hmk-donem-2",
+      "title": "Amasya HMK 2. Dönem (Bahar) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "hmk-yillik",
+      "slug": "amasya__hmk-yillik",
+      "title": "Amasya HMK Yıllık (Tam paket) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "hmk-donem-1",
+      "slug": "cankiri__hmk-donem-1",
+      "title": "Karatekin HMK 1. Dönem (Güz) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "hmk-donem-2",
+      "slug": "cankiri__hmk-donem-2",
+      "title": "Karatekin HMK 2. Dönem (Bahar) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "hmk-yillik",
+      "slug": "cankiri__hmk-yillik",
+      "title": "Karatekin HMK Yıllık (Tam paket) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "hmk-donem-1",
+      "slug": "kirikkale__hmk-donem-1",
+      "title": "Kırıkkale HMK 1. Dönem (Güz) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "hmk-donem-2",
+      "slug": "kirikkale__hmk-donem-2",
+      "title": "Kırıkkale HMK 2. Dönem (Bahar) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "hmk-yillik",
+      "slug": "kirikkale__hmk-yillik",
+      "title": "Kırıkkale HMK Yıllık (Tam paket) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "hmk-donem-1",
+      "slug": "aksaray__hmk-donem-1",
+      "title": "Aksaray HMK 1. Dönem (Güz) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "hmk-donem-2",
+      "slug": "aksaray__hmk-donem-2",
+      "title": "Aksaray HMK 2. Dönem (Bahar) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "hmk-yillik",
+      "slug": "aksaray__hmk-yillik",
+      "title": "Aksaray HMK Yıllık (Tam paket) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "hmk-donem-1",
+      "slug": "nigde__hmk-donem-1",
+      "title": "ÖHÜ HMK 1. Dönem (Güz) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "hmk-donem-2",
+      "slug": "nigde__hmk-donem-2",
+      "title": "ÖHÜ HMK 2. Dönem (Bahar) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "hmk-yillik",
+      "slug": "nigde__hmk-yillik",
+      "title": "ÖHÜ HMK Yıllık (Tam paket) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "hmk-donem-1",
+      "slug": "konya-teknik__hmk-donem-1",
+      "title": "NEÜ HMK 1. Dönem (Güz) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "hmk-donem-2",
+      "slug": "konya-teknik__hmk-donem-2",
+      "title": "NEÜ HMK 2. Dönem (Bahar) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "hmk-yillik",
+      "slug": "konya-teknik__hmk-yillik",
+      "title": "NEÜ HMK Yıllık (Tam paket) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "hmk-donem-1",
+      "slug": "karaman__hmk-donem-1",
+      "title": "KMÜ HMK 1. Dönem (Güz) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "hmk-donem-2",
+      "slug": "karaman__hmk-donem-2",
+      "title": "KMÜ HMK 2. Dönem (Bahar) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "hmk-yillik",
+      "slug": "karaman__hmk-yillik",
+      "title": "KMÜ HMK Yıllık (Tam paket) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "hmk-donem-1",
+      "slug": "usak__hmk-donem-1",
+      "title": "Uşak HMK 1. Dönem (Güz) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "hmk-donem-2",
+      "slug": "usak__hmk-donem-2",
+      "title": "Uşak HMK 2. Dönem (Bahar) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "hmk-yillik",
+      "slug": "usak__hmk-yillik",
+      "title": "Uşak HMK Yıllık (Tam paket) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "hmk-donem-1",
+      "slug": "manisa__hmk-donem-1",
+      "title": "MCBÜ HMK 1. Dönem (Güz) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "hmk-donem-2",
+      "slug": "manisa__hmk-donem-2",
+      "title": "MCBÜ HMK 2. Dönem (Bahar) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "hmk-yillik",
+      "slug": "manisa__hmk-yillik",
+      "title": "MCBÜ HMK Yıllık (Tam paket) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "hmk-donem-1",
+      "slug": "aydin-adu__hmk-donem-1",
+      "title": "ADÜ HMK 1. Dönem (Güz) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "hmk-donem-2",
+      "slug": "aydin-adu__hmk-donem-2",
+      "title": "ADÜ HMK 2. Dönem (Bahar) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "hmk-yillik",
+      "slug": "aydin-adu__hmk-yillik",
+      "title": "ADÜ HMK Yıllık (Tam paket) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "hmk-donem-1",
+      "slug": "tekirdag__hmk-donem-1",
+      "title": "NKÜ HMK 1. Dönem (Güz) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "hmk-donem-2",
+      "slug": "tekirdag__hmk-donem-2",
+      "title": "NKÜ HMK 2. Dönem (Bahar) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "hmk-yillik",
+      "slug": "tekirdag__hmk-yillik",
+      "title": "NKÜ HMK Yıllık (Tam paket) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "hmk-donem-1",
+      "slug": "kirklareli__hmk-donem-1",
+      "title": "Kırklareli HMK 1. Dönem (Güz) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "hmk-donem-2",
+      "slug": "kirklareli__hmk-donem-2",
+      "title": "Kırklareli HMK 2. Dönem (Bahar) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "hmk-yillik",
+      "slug": "kirklareli__hmk-yillik",
+      "title": "Kırklareli HMK Yıllık (Tam paket) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "hmk-donem-1",
+      "slug": "atilim__hmk-donem-1",
+      "title": "Atılım HMK 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "hmk-donem-2",
+      "slug": "atilim__hmk-donem-2",
+      "title": "Atılım HMK 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "hmk-yillik",
+      "slug": "atilim__hmk-yillik",
+      "title": "Atılım HMK Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "hmk-donem-1",
+      "slug": "cankaya__hmk-donem-1",
+      "title": "Çankaya HMK 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "hmk-donem-2",
+      "slug": "cankaya__hmk-donem-2",
+      "title": "Çankaya HMK 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "hmk-yillik",
+      "slug": "cankaya__hmk-yillik",
+      "title": "Çankaya HMK Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "hmk-donem-1",
+      "slug": "ufuk__hmk-donem-1",
+      "title": "Ufuk HMK 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "hmk-donem-2",
+      "slug": "ufuk__hmk-donem-2",
+      "title": "Ufuk HMK 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "hmk-yillik",
+      "slug": "ufuk__hmk-yillik",
+      "title": "Ufuk HMK Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "hmk-donem-1",
+      "slug": "yasar__hmk-donem-1",
+      "title": "Yaşar HMK 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "hmk-donem-2",
+      "slug": "yasar__hmk-donem-2",
+      "title": "Yaşar HMK 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "hmk-yillik",
+      "slug": "yasar__hmk-yillik",
+      "title": "Yaşar HMK Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "hmk-donem-1",
+      "slug": "izmir-ekonomi__hmk-donem-1",
+      "title": "İEÜ HMK 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "hmk-donem-2",
+      "slug": "izmir-ekonomi__hmk-donem-2",
+      "title": "İEÜ HMK 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "hmk-yillik",
+      "slug": "izmir-ekonomi__hmk-yillik",
+      "title": "İEÜ HMK Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "hmk-donem-1",
+      "slug": "tinaztepe__hmk-donem-1",
+      "title": "Tınaztepe HMK 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "hmk-donem-2",
+      "slug": "tinaztepe__hmk-donem-2",
+      "title": "Tınaztepe HMK 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "hmk-yillik",
+      "slug": "tinaztepe__hmk-yillik",
+      "title": "Tınaztepe HMK Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "hmk-donem-1",
+      "slug": "asbu-vakif__hmk-donem-1",
+      "title": "ABÜ HMK 1. Dönem (Güz) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "hmk-donem-2",
+      "slug": "asbu-vakif__hmk-donem-2",
+      "title": "ABÜ HMK 2. Dönem (Bahar) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "hmk-yillik",
+      "slug": "asbu-vakif__hmk-yillik",
+      "title": "ABÜ HMK Yıllık (Tam paket) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "hmk-donem-1",
+      "slug": "hasan-kalyoncu__hmk-donem-1",
+      "title": "HKÜ HMK 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "hmk-donem-2",
+      "slug": "hasan-kalyoncu__hmk-donem-2",
+      "title": "HKÜ HMK 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "hmk-yillik",
+      "slug": "hasan-kalyoncu__hmk-yillik",
+      "title": "HKÜ HMK Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "hmk-donem-1",
+      "slug": "sanko__hmk-donem-1",
+      "title": "Sanko HMK 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "hmk-donem-2",
+      "slug": "sanko__hmk-donem-2",
+      "title": "Sanko HMK 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "hmk-yillik",
+      "slug": "sanko__hmk-yillik",
+      "title": "Sanko HMK Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "hmk-donem-1",
+      "slug": "toros__hmk-donem-1",
+      "title": "Toros HMK 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "hmk-donem-2",
+      "slug": "toros__hmk-donem-2",
+      "title": "Toros HMK 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "hmk-yillik",
+      "slug": "toros__hmk-yillik",
+      "title": "Toros HMK Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "hmk-donem-1",
+      "slug": "cag__hmk-donem-1",
+      "title": "Çağ HMK 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/hmk-donem-1",
+      "variantOf": "hmk",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "hmk-donem-2",
+      "slug": "cag__hmk-donem-2",
+      "title": "Çağ HMK 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/hmk-donem-2",
+      "variantOf": "hmk",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "hmk-yillik",
+      "slug": "cag__hmk-yillik",
+      "title": "Çağ HMK Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/hmk-yillik",
+      "variantOf": "hmk",
+      "variantLabel": "Yıllık (Tam paket)"
     }
   ],
   "borclarGenelTripleAt": "2026-07-29T20:05:58.703Z",
@@ -43813,5 +47053,6 @@
   "esyaHukukuTripleAt": "2026-07-29T20:18:08.725Z",
   "mirasHukukuTripleAt": "2026-07-29T20:22:35.692Z",
   "tmk1KitapTripleAt": "2026-07-29T20:26:28.487Z",
-  "tmk2KitapTripleAt": "2026-07-29T20:29:33.697Z"
+  "tmk2KitapTripleAt": "2026-07-29T20:29:33.697Z",
+  "hmkTripleAt": "2026-07-29T20:32:21.565Z"
 }

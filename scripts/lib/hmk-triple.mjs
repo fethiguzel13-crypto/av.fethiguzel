@@ -1,0 +1,696 @@
+/**
+ * HMK / Medeni Usul Hukuku —
+ * 1. dönem / 2. dönem / yıllık premium not üreticisi.
+ * Pedagojik yarıyıl bölünmesi; medeni-usul dersiyle hizalı.
+ */
+
+function baseMeta(variant) {
+  const labels = {
+    'hmk-donem-1': {
+      label: '1. Dönem (Güz)',
+      short: '1. dönem',
+      h1Extra: '— 1. Dönem Notu',
+      scope:
+        'HMK · 1. yarı (ilkeler, görev–yetki, taraflar, dava şartları, dava türleri, süreler, dilekçeler aşaması)',
+    },
+    'hmk-donem-2': {
+      label: '2. Dönem (Bahar)',
+      short: '2. dönem',
+      h1Extra: '— 2. Dönem Notu',
+      scope:
+        'HMK · 2. yarı (ispat–deliller, tahkikat, hüküm, kanun yolları, geçici hukuki korumalar, yargılama giderleri)',
+    },
+    'hmk-yillik': {
+      label: 'Yıllık (Tam paket)',
+      short: 'yıllık',
+      h1Extra: '— Yıllık Tam Not',
+      scope: 'HMK tam omurga · medeni usul dönemlik + yıllık programlar için tek cilt',
+    },
+  };
+  return labels[variant];
+}
+
+function d1Content() {
+  return {
+    oneLiner:
+      '1. dönem: Doğru mercie, doğru sürede, doğru usulle — yargılama kapısı burada açılır.',
+    promise:
+      'Usul ilkeleri, görev–yetki, taraflar, dava şartları, dava türleri, süreler ve dilekçeler aşaması. Güz finalinde “nereye / kim / ne dava?” bozulmadan yazarsınız.',
+    sixtySecond: [
+      'Usul, maddi hakkın yargıdaki yol haritasıdır.',
+      'Görev kamu düzeni; yetki kural olarak ilk itiraz.',
+      'Dava şartı eksikse esas incelenmez (re’sen).',
+      'Dava türü talebi şekillendirir (eda / tespit / inşai).',
+      'Süre: hak düşürücü vs zamanaşımı / usul süreleri.',
+      'Dilekçeler aşaması: iddia ve savunmanın çerçevesi.',
+    ],
+    pillars: [
+      'Medeni yargılamanın ilkeleri',
+      'Görev',
+      'Yetki',
+      'Taraflar ve taraf ehliyeti',
+      'Dava şartları ve ilk itirazlar',
+      'Dava türleri',
+      'Süreler ve tebligat girişi',
+      'Dilekçeler aşaması',
+    ],
+    definitions: [
+      {
+        baslik: 'Görev',
+        govde:
+          'Uyuşmazlığın hangi tür mahkemede (asliye hukuk, sulh hukuk vb.) görüleceğidir. Kamu düzenine ilişkindir; re’sen gözetilir.',
+      },
+      {
+        baslik: 'Yetki',
+        govde:
+          'Aynı tür mahkemeler arasında yer bakımından hangi mahkemenin bakacağıdır. Genel ve özel yetki kuralları vardır; kural olarak ilk itirazdır.',
+      },
+      {
+        baslik: 'Dava şartı',
+        govde:
+          'Mahkemenin esasa girebilmesi için varlığı veya yokluğu aranan şartlardır. Eksikliği re’sen dikkate alınır.',
+      },
+      {
+        baslik: 'İlk itiraz',
+        govde:
+          'Davalının, kural olarak cevap dilekçesinde ileri sürmesi gereken usulî itirazlardır (ör. yetki). Süresi kaçırılırsa düşer.',
+      },
+      {
+        baslik: 'Eda davası',
+        govde:
+          'Davalının bir şey vermeye, yapmaya veya yapmamaya mahkûm edilmesini isteyen davadır. Tespit ve inşai davalardan ayrılır.',
+      },
+    ],
+    traps: [
+      'Görev ile yetkiyi karıştırmak.',
+      'İlk itirazı süre kaçırınca hâlâ ileri sürmek.',
+      'Dava şartı ile ilk itirazı aynı sanmak.',
+      'Her süreyi “zamanaşımı” yazmak — usul süreleri ayrı.',
+      'Dava türünü yazmadan talep sonucu uydurmak.',
+    ],
+    keyMadde: [
+      'HMK m.1 vd. — kapsam ve ilkeler (çerçeve)',
+      'HMK m.1–4 civarı / görev hükümleri — görev (çerçeve)',
+      'HMK m.5 vd. — yetki (çerçeve)',
+      'HMK m.50 vd. — taraflar (çerçeve)',
+      'HMK m.114 vd. — dava şartları',
+      'HMK m.116 vd. — ilk itirazlar',
+      'HMK m.106 vd. — dava çeşitleri (çerçeve)',
+      'HMK m.119 vd. — dava dilekçesi (çerçeve)',
+    ],
+    sectionsExtra: [
+      {
+        heading: 'A. HMK ve usulün işlevi',
+        paragraphs: [
+          'Hukuk Muhakemeleri Kanunu, özel hukuk uyuşmazlıklarının yargıda nasıl çözüleceğini düzenler. Maddi hak ne kadar güçlü olursa olsun, usul hatası hakkı yarı yolda bırakabilir.',
+          '1. dönem “kapı ve çerçeve”dir: doğru mahkeme, doğru taraf, doğru dava türü, doğru süre. 2. dönem ispat, hüküm ve kanun yollarını taşır.',
+        ],
+        hapBilgi: 'Usul kazanmadan maddi hak zor yürür.',
+      },
+      {
+        heading: 'B. Yargılama ilkeleri',
+        paragraphs: [
+          'Tasarruf, taraflarca getirilme, hukuki dinlenilme, aleniyet, usul ekonomisi, dürüst davranma gibi ilkeler somut sorularda “hangi ilke ihlal?” diye sorulur.',
+          'Hâkimin rolü ile tarafların yükü ayrılır. Resen araştırma istisnaları özel hükümle gelir.',
+        ],
+        bullets: [
+          'Tasarruf ilkesi',
+          'Taraflarca getirilme',
+          'Hukuki dinlenilme hakkı',
+          'Usul ekonomisi',
+          'Dürüst davranma',
+        ],
+      },
+      {
+        heading: 'C. Görev ve yetki',
+        paragraphs: [
+          'Görev: mahkeme türü; kamu düzeni; re’sen; yanlışlıkta görevsizlik kararı ve gönderim. Yetki: yer; genel kural davalının yerleşim yeri; sözleşmelerde, taşınmazda, haksız fiilde özel yetki.',
+          'Sınav cümlesi: “Bu görev mi yetki mi?” Sonra sonuç ve itiraz yolu.',
+        ],
+        kartlar: [
+          { baslik: 'Görev', govde: 'Mahkeme türü · re’sen.' },
+          { baslik: 'Yetki', govde: 'Yer · kural: ilk itiraz.' },
+          { baslik: 'Sonuç', govde: 'Görevsizlik / yetkisizlik.' },
+        ],
+        uyari: 'Görev ≠ yetki. Kamu düzeni eşiği farklıdır.',
+      },
+      {
+        heading: 'D. Taraflar',
+        paragraphs: [
+          'Taraf ehliyeti, dava ehliyeti, davaya vekâlet ehliyeti ayrılır. Taraf sıfatı (aktif/pasif husumet) esasa yakındır ama usul sorularında sık karışır.',
+          'Dava arkadaşlığı, fer’i müdahale, asli müdahale giriş düzeyinde tanınır. Temsil ve vekâlet belgesi eksikliği sonuç doğurur.',
+        ],
+      },
+      {
+        heading: 'E. Dava şartları ve ilk itirazlar',
+        paragraphs: [
+          'Dava şartları (görev, yargı yolu, hukuki yarar, kesin hüküm engeli vb. — madde listesi) re’sen kontrol edilir. Eksikse dava usulden reddedilebilir.',
+          'İlk itirazlar (yetki, tahkim vb.) kural olarak cevap dilekçesinde ileri sürülür. Kaçırılan ilk itiraz düşer; dava şartı düşmez.',
+        ],
+        hapBilgi: 'Dava şartı = re’sen. İlk itiraz = süreye bağlı.',
+      },
+      {
+        heading: 'F. Dava türleri',
+        paragraphs: [
+          'Eda, tespit, inşai (yenilik doğuran) davalar talep sonucunu belirler. Belirsiz alacak ve kısmi dava gibi özel türler ispat ve harç stratejisini değiştirir.',
+          'Sınavda önce “ne talep ediliyor?” yazın; sonra türe uygun şartlar.',
+        ],
+        bullets: ['Eda', 'Tespit', 'Inşai', 'Belirsiz alacak / kısmi (çerçeve)'],
+      },
+      {
+        heading: 'G. Süreler, tebligat, dilekçeler aşaması',
+        paragraphs: [
+          'Usul süreleri, hak düşürücü süreler ve zamanaşımı karıştırılmaz. Tatil, tebligat ve ek süre kuralları olayda işaretlenir.',
+          'Dava dilekçesi – cevap – cevaba cevap – ikinci cevap iskeleti iddia ve savunmanın sınırını çizer. Islah ve değiştirme yasağı 2. dönemle bağ kurar; 1. dönemde çerçeve bilinir.',
+        ],
+        uyari: 'Süre türünü adlandırmadan “kaçırdı” demeyin.',
+      },
+    ],
+    examples: [
+      {
+        title: 'Görev–yetki',
+        facts:
+          'Davacı yanlış mahkemede açar; davalı hem görev hem yetki itirazı yapar.',
+        analysis:
+          'Görev re’sen / kamu düzeni. Yetki ilk itiraz süresi. Sonuçlar ayrı yazılır.',
+        takeaway: 'Görev ≠ yetki.',
+      },
+      {
+        title: 'Dava şartı',
+        facts:
+          'Aynı konuda kesinleşmiş hüküm varken yeniden dava açılır.',
+        analysis:
+          'Kesin hüküm engeli dava şartıdır. Re’sen gözetilir. Esasa girilmez.',
+        takeaway: 'Dava şartı eksik = esas yok.',
+      },
+      {
+        title: 'Dava türü',
+        facts:
+          'Davacı “borcun varlığını tespit” ister; aslında ifa da istemektedir.',
+        analysis:
+          'Tespit mi eda mı? Hukuki yarar. Talep sonucu netleştirme.',
+        takeaway: 'Talep = dava türü.',
+      },
+      {
+        title: 'İlk itiraz süresi',
+        facts:
+          'Davalı yetki itirazını tahkikat ortasında ilk kez ileri sürer.',
+        analysis:
+          'İlk itiraz kural olarak cevapla. Geç ileri sürülürse düşer (istisnalar dikkatli).',
+        takeaway: 'İlk itiraz takvimi tut.',
+      },
+    ],
+    mindmap: {
+      center: 'HMK · 1. dönem',
+      branches: [
+        { label: 'Kapı', items: ['Görev', 'Yetki', 'Yargı yolu'] },
+        { label: 'Çerçeve', items: ['Taraf', 'Dava şartı', 'İlk itiraz'] },
+        { label: 'Dava', items: ['Eda', 'Tespit', 'Inşai'] },
+        { label: 'Süre', items: ['Usul', 'Tebligat', 'Dilekçe'] },
+      ],
+    },
+  };
+}
+
+function d2Content() {
+  return {
+    oneLiner:
+      '2. dönem: İspat, tahkikat, hüküm, kanun yolları, ihtiyati tedbir. Usulün ikinci yarısı.',
+    promise:
+      'İspat yükü ve deliller, tahkikat, hüküm ve kesinleşme, istinaf–temyiz, geçici hukuki korumalar, yargılama giderleri. Bahar finalinin ağır topu.',
+    sixtySecond: [
+      'İspat yükü: iddia eden ispat eder (kural).',
+      'Delil: senet, tanık, bilirkişi, keşif, yemin… serbest + bağlayıcı ayrımı.',
+      'Tahkikat: iddia–savunma–delil toplanır; preklüzyon unutulmaz.',
+      'Hüküm: nihai karar; şekil ve içerik unsurları.',
+      'Kanun yolu: istinaf / temyiz — süre ve sebep.',
+      'İhtiyati tedbir / delil tespiti: geçici koruma.',
+    ],
+    pillars: [
+      'İspat yükü ve karineler',
+      'Delil sistemleri',
+      'Tahkikat ve sözlü yargılama',
+      'Islah, feragat, kabul, sulh',
+      'Hüküm, tefhim, tebliğ, kesinleşme',
+      'İstinaf ve temyiz',
+      'Geçici hukuki korumalar',
+      'Yargılama giderleri ve vekâlet ücreti girişi',
+    ],
+    definitions: [
+      {
+        baslik: 'İspat yükü',
+        govde:
+          'Kural olarak iddia eden iddiasını ispat eder. Kanuni karineler ve özel ispat kuralları yükü kaydırabilir.',
+      },
+      {
+        baslik: 'Kesin delil',
+        govde:
+          'Hâkimi bağlayan delillerdir (ör. ikrar, kesin hüküm, belirli şartlarda senet). Takdiri delillerden ayrılır.',
+      },
+      {
+        baslik: 'İstinaf',
+        govde:
+          'İlk derece hükmünün hem maddi hem hukuki yönden bölgesel istinaf mahkemesinde denetlendiği kanun yoludur.',
+      },
+      {
+        baslik: 'Temyiz',
+        govde:
+          'İstinaf (veya kanunun öngördüğü hâllerde) kararlarının Yargıtay’da hukuka uygunluk denetimidir. Süre ve temyiz edilebilirlik sınırları vardır.',
+      },
+      {
+        baslik: 'İhtiyati tedbir',
+        govde:
+          'Esas hakkında karar verilmeden önce hakkın korunması için alınan geçici tedbirdir. Şartları, teminat ve itiraz ayrı yazılır.',
+      },
+    ],
+    traps: [
+      'Delili “sonradan bulurum” sanmak — usulî preklüzyon.',
+      'İstinaf ile temyizi aynı süre/sebep sanmak.',
+      'İhtiyati tedbiri nihai hüküm sanmak.',
+      'Kesin delil ile takdiri delili karıştırmak.',
+      'Hükmün tefhim–tebliğ–kesinleşme zincirini atlamak.',
+    ],
+    keyMadde: [
+      'HMK m.187 vd. — ispat (çerçeve)',
+      'HMK m.189 vd. — deliller (çerçeve)',
+      'HMK m.137 vd. — tahkikat (çerçeve)',
+      'HMK m.176 vd. — ıslah (çerçeve)',
+      'HMK m.294 vd. — hüküm (çerçeve)',
+      'HMK m.341 vd. — istinaf',
+      'HMK m.361 vd. — temyiz (çerçeve)',
+      'HMK m.389 vd. — ihtiyati tedbir',
+    ],
+    sectionsExtra: [
+      {
+        heading: 'A. İspat yükü ve karineler',
+        paragraphs: [
+          'Kim neyi iddia ediyorsa kural olarak o ispat eder. Kanuni karine, ispat yükünü karşı tarafa kaydırır. Fiilî karine ve emareler takdiri alanda kalır.',
+          'Sınavda önce “ne iddia ediliyor?”, sonra “ispat yükü kimde?”, en sonda “hangi delil türü?” yazın.',
+        ],
+        hapBilgi: 'İddia → yük → delil. Sırayı bozmayın.',
+      },
+      {
+        heading: 'B. Deliller',
+        paragraphs: [
+          'Senet (ve senetle ispat zorunluluğu / istisnaları), tanık, bilirkişi, keşif, yemin, delil sözleşmesi iskeleti bilinir. Kesin delil hâkimi bağlar; takdiri delil serbestçe değerlendirilir.',
+          'Elektronik delil ve belge kavramı güncel uygulamada sık sorulur; şekil ve bütünlük tartışılır.',
+        ],
+        bullets: [
+          'Senet / belge',
+          'Tanık',
+          'Bilirkişi',
+          'Keşif',
+          'Yemin',
+          'Kesin vs takdiri',
+        ],
+      },
+      {
+        heading: 'C. Tahkikat ve usulî işlemler',
+        paragraphs: [
+          'Tahkikatta iddia ve savunma incelenir, deliller toplanır, gerekirse tahkikat sona erdirilir. Islah, feragat, kabul, sulh yargılamayı etkiler.',
+          'Preklüzyon: belirli aşamadan sonra iddia/delil getirme sınırlanır. “Sonradan aklıma geldi” tek başına yetmez.',
+        ],
+        uyari: 'Preklüzyon = zamanında getir. Geç kalan iddia risklidir.',
+      },
+      {
+        heading: 'D. Hüküm ve kesinleşme',
+        paragraphs: [
+          'Hüküm nihai karardır; tefhim ve tebliğ süreleri kanun yolu takvimini başlatır. Gerekçeli karar ile kısa karar ayrımı pratikte önemlidir.',
+          'Kesin hüküm: aynı taraf, aynı konu, aynı sebep üçlüsünde yeniden davayı engeller. Kesinleşme ≠ mutlaka temyizden geçme; süre geçmesi de kesinleştirir.',
+        ],
+        kartlar: [
+          { baslik: 'Tefhim', govde: 'Yüzüne okuma / açıklama.' },
+          { baslik: 'Tebliğ', govde: 'Sürelerin işlemeye başlaması.' },
+          { baslik: 'Kesinleşme', govde: 'Kanun yolu tükenmesi / süre.' },
+          { baslik: 'Kesin hüküm', govde: 'Yeniden dava engeli.' },
+        ],
+      },
+      {
+        heading: 'E. Kanun yolları: istinaf ve temyiz',
+        paragraphs: [
+          'İstinaf: bölge adliye mahkemesi; maddi + hukuki denetim (kanuni çerçeve). Temyiz: Yargıtay; esasen hukuka uygunluk. Süre, dilekçe, teminat ve kesinlik sınırı olayda yazılır.',
+          'Kanun yararına temyiz, yargılamanın iadesi gibi olağanüstü yollar giriş düzeyinde tanınır.',
+        ],
+        hapBilgi: 'İstinaf ≠ temyiz. Süre ve denetim kapsamı farklıdır.',
+      },
+      {
+        heading: 'F. Geçici hukuki korumalar',
+        paragraphs: [
+          'İhtiyati tedbir ve delil tespiti en sık sorulanlardır. İhtiyati haciz İİK’ya yakındır ama HMK ile birlikte düşünülür. Şart, teminat, itiraz, uygulama süresi yazılır.',
+          'Geçici koruma nihai hüküm değildir; esas yargılamayı garanti etmez, riski yönetir.',
+        ],
+      },
+      {
+        heading: 'G. Yargılama giderleri',
+        paragraphs: [
+          'Yargılama giderleri ve vekâlet ücreti kural olarak haksız çıkan tarafa yüklenir; kısmen kabulde oranlama yapılabilir. Harç ve delil avansı pratik tuzaklardır.',
+          '2. dönem finalinde “esas + usul + gider” üçlüsünü kapatmak yüksek not getirir.',
+        ],
+      },
+    ],
+    examples: [
+      {
+        title: 'İspat yükü',
+        facts:
+          'Alacaklı borcun varlığını, borçlu ifayı iddia eder. Kim hangi delili getirmelidir?',
+        analysis:
+          'Alacaklı alacağı, borçlu ifayı ispatlar (kural). Senet/ikrar varsa yük kayar.',
+        takeaway: 'İddia başına yük yaz.',
+      },
+      {
+        title: 'Preklüzyon',
+        facts:
+          'Davacı tahkikat bitimine yakın yeni tanık listesi verir; davalı itiraz eder.',
+        analysis:
+          'Delil ikamesi zamanı. Geç getirmenin sonucu. İstisnalar (yeni vakıa vb.) dikkatli.',
+        takeaway: 'Zamanında delil.',
+      },
+      {
+        title: 'İstinaf süresi',
+        facts:
+          'Hüküm tefhim edildi; gerekçeli karar sonra tebliğ oldu. Taraf “tefhimden itibaren” mi yoksa tebliğden mi süre sayacağını karıştırır.',
+        analysis:
+          'Kanun yolu süresinin başlangıcı (tebliğ kuralı çerçevesi). Kaçırılan süre = kesinlik riski.',
+        takeaway: 'Süre başlangıcını sabitle.',
+      },
+      {
+        title: 'İhtiyati tedbir',
+        facts:
+          'Davacı, dava açmadan önce mal kaçırılacak diye tedbir ister; teminat yatırmadan karar çıkmasını bekler.',
+        analysis:
+          'Tedbir şartları + teminat. Karşı yanın itirazı. Tedbir ≠ nihai hak.',
+        takeaway: 'Geçici koruma = şart + teminat.',
+      },
+    ],
+    mindmap: {
+      center: 'HMK · 2. dönem',
+      branches: [
+        { label: 'İspat', items: ['Yük', 'Delil', 'Karine'] },
+        { label: 'Yargılama', items: ['Tahkikat', 'Islah', 'Hüküm'] },
+        { label: 'Denetim', items: ['İstinaf', 'Temyiz'] },
+        { label: 'Geçici', items: ['Tedbir', 'Delil tespiti'] },
+      ],
+    },
+  };
+}
+
+function yillikContent() {
+  const a = d1Content();
+  const b = d2Content();
+  return {
+    oneLiner:
+      'Yıllık paket: Görev–yetkiden ispat, hüküm ve kanun yollarına kadar tek omurga.',
+    promise:
+      '1. + 2. dönem birleşik; medeni usul / HMK için “tek cilt” not.',
+    sixtySecond: [
+      ...a.sixtySecond.slice(0, 3),
+      ...b.sixtySecond.slice(0, 3),
+      'Yıllık sınavda: kapı/çerçeve mi, ispat/hüküm/kanun yolu mu?',
+    ],
+    pillars: [...a.pillars.slice(0, 4), ...b.pillars.slice(0, 4)],
+    definitions: [...a.definitions.slice(0, 3), ...b.definitions.slice(0, 3)],
+    traps: [...a.traps.slice(0, 3), ...b.traps.slice(0, 3)],
+    keyMadde: [...a.keyMadde.slice(0, 4), ...b.keyMadde.slice(0, 4)],
+    sectionsExtra: [
+      {
+        heading: 'Yıllık kullanım kılavuzu',
+        paragraphs: [
+          'Dönemlik okuyan kendi yarısını, yıllık okuyan bu tam paketi kullanır. Öneri: görev–yetki–dava şartı → deneme → ispat–hüküm–istinaf → karma deneme.',
+          'Her soruda etiket: “Kapı mı, çerçeve mi, ispat mı, kanun yolu mı?”',
+        ],
+        hapBilgi: 'Yıllık başarı = doğru usul kapısı + doğru süre/delil.',
+        bullets: [
+          'Hafta 1–3: ilkeler + görev + yetki',
+          'Hafta 4–7: taraf + dava şartı + dava türü + dilekçe',
+          'Hafta 8–11: ispat + delil + tahkikat',
+          'Hafta 12–14: hüküm + istinaf/temyiz + tedbir + karma',
+        ],
+      },
+      ...a.sectionsExtra,
+      ...b.sectionsExtra,
+      {
+        heading: 'Yıllık entegrasyon: sık soru tipleri',
+        paragraphs: [
+          'Tip 1 — Görev/yetki. Tip 2 — Dava şartı. Tip 3 — İspat yükü. Tip 4 — Delil. Tip 5 — İstinaf süresi. Tip 6 — İhtiyati tedbir.',
+          'Karma olayda yanlış mahkeme + geç delil + kanun yolu üst üste binebilir. Sıra: kapı → çerçeve → ispat → karar → denetim.',
+        ],
+        uyari: 'Tek cevapta tüm HMK’yı özetlemeyin; usul kapısını seçin.',
+      },
+    ],
+    examples: [...a.examples.slice(0, 2), ...b.examples.slice(0, 2), a.examples[2], b.examples[2]],
+    mindmap: {
+      center: 'HMK · Yıllık',
+      branches: [
+        { label: '1. yarı', items: ['Görev', 'Yetki', 'Dava şartı'] },
+        { label: '2. yarı', items: ['İspat', 'Hüküm', 'Kanun yolu'] },
+        { label: 'Koruma', items: ['Tedbir', 'Delil tespiti'] },
+        { label: 'Yöntem', items: ['Kapı seç', 'Süre tut'] },
+      ],
+    },
+  };
+}
+
+const VARIANT_BUILDERS = {
+  'hmk-donem-1': d1Content,
+  'hmk-donem-2': d2Content,
+  'hmk-yillik': yillikContent,
+};
+
+export const HMK_VARIANTS = ['hmk-donem-1', 'hmk-donem-2', 'hmk-yillik'];
+
+export function buildHmkVariantNote(uni, variantCode) {
+  const meta = baseMeta(variantCode);
+  const bank = VARIANT_BUILDERS[variantCode]();
+  const calLabel =
+    uni.calendar === 'yillik'
+      ? 'yıllık program'
+      : uni.calendar === 'karma'
+        ? 'karma program'
+        : 'dönemlik program';
+
+  const title = `${uni.shortName} HMK ${meta.label} Ders Notu | ${uni.city}`;
+  const h1 = `${uni.shortName} Medeni Usul (HMK) ${meta.h1Extra}`;
+  const description = `${uni.name} için HMK / medeni usul ${meta.short} notu: ${meta.scope}. Şematik, örnekli, PDF. Ücretsiz — Av. Fethi Güzel.`;
+
+  const lead = `${uni.shortName} (${uni.city}) öğrencileri için Hukuk Muhakemeleri Kanunu — medeni usul — ${meta.label.toLocaleLowerCase('tr-TR')} notudur. ${meta.scope}. Amaç: doğru mercie, doğru sürede, doğru delil ve kanun yoluyla yazmak. Fakülte ${calLabel} kullansa da üçlü set esnek kullanılır; medeni usul dersiyle hizalıdır.`;
+
+  const sections = [
+    {
+      heading: '1. Bu notu nasıl kullanacaksın?',
+      paragraphs: [
+        `Bu dosya ${meta.label} kapsamına göre kesilmiştir. Dönemlik program kendi yarısını; yıllık veya bütüncül tekrar yıllık paketi kullanır.`,
+        'Sıra: 60 sn omurga → tanım kartları → tuzaklar → bölümler → örnek olay → PDF.',
+      ],
+      bullets: [
+        'PDF: “PDF indir / Yazdır” → Ctrl+P → PDF olarak kaydet',
+        'Her olayda: görev/yetki mi, dava şartı mı, ispat mı, kanun yolu mı?',
+        'Süre başlangıcını (tebliğ/tefhım) sabitle',
+      ],
+      hapBilgi: bank.oneLiner,
+    },
+    {
+      heading: '2. 60 saniyede omurga',
+      paragraphs: ['Sesli oku, kapat, yaz.'],
+      bullets: bank.sixtySecond,
+    },
+    {
+      heading: '3. Kavram haritası ve omurga',
+      paragraphs: [`Omurga: ${bank.pillars.join('; ')}.`],
+      bullets: bank.pillars.map((p, i) => `${i + 1}) ${p}`),
+      hapBilgi: bank.promise,
+    },
+    {
+      heading: '4. Tanım kartları',
+      paragraphs: ['İşler tanım = unsur fısıldayan cümle.'],
+      kartlar: bank.definitions,
+    },
+    {
+      heading: '5. Pusula maddeler',
+      paragraphs: ['Soru tipine göre dayanaklar. Güncel metin: HMK.'],
+      bullets: bank.keyMadde.map((m, i) => `${i + 1}) ${m}`),
+      uyari: 'Uydurma madde no yazmayın; HMK metninden doğrulayın.',
+    },
+    {
+      heading: '6. Sınav tuzağı defteri',
+      paragraphs: ['Finalde puanı bu liste taşır.'],
+      bullets: bank.traps,
+    },
+    ...bank.sectionsExtra,
+    {
+      heading: 'Sınav tekniği (HMK / Medeni Usul)',
+      paragraphs: [
+        `${uni.shortName} klasiklerinde I-II-III başlık şart. 60 dk / 3 soruda soru başı ~18 dk.`,
+        'İskelet: (1) usul sorunu adlandır (2) kural (3) istisna (4) olgu (5) sonuç kararı (görevsizlik, ret, kabul, bozma…).',
+      ],
+      bullets: [
+        'Görev ≠ yetki ilk cümlede',
+        'Dava şartı / ilk itiraz ayrımı',
+        'İspat yükünü iddia başına yaz',
+        'Kanun yolu süresini tebliğden kur',
+      ],
+      hapBilgi: 'Doğru usul kapısı + doğru süre = yüksek not.',
+    },
+  ];
+
+  const diagrams = [
+    {
+      kind: 'mindmap',
+      title: `HMK ${meta.short} — zihin haritası`,
+      center: bank.mindmap.center,
+      branches: bank.mindmap.branches,
+    },
+    {
+      kind: 'process',
+      title: 'Klasik cevap iskeleti',
+      steps: [
+        'Usul sorununu adlandır',
+        'Kuralı yaz',
+        'İstisna / süre',
+        'Olayı yedir',
+        'Sonuç kararı',
+        'Kanun yolu notu',
+      ],
+    },
+    {
+      kind: 'compare',
+      title: 'Sık karıştırılanlar',
+      headers: ['A', 'B', 'Ayırıcı soru'],
+      rows:
+        variantCode === 'hmk-donem-2'
+          ? [
+              ['İstinaf', 'Temyiz', 'Maddi+hukuki mi esasen hukuki mi?'],
+              ['Kesin delil', 'Takdiri delil', 'Hâkim bağlı mı serbest mi?'],
+              ['İhtiyati tedbir', 'Hüküm', 'Geçici mi nihai mi?'],
+              ['Tefhim', 'Tebliğ', 'Süre ne zaman işlemeye başlar?'],
+            ]
+          : variantCode === 'hmk-donem-1'
+            ? [
+                ['Görev', 'Yetki', 'Mahkeme türü mü yer mi?'],
+                ['Dava şartı', 'İlk itiraz', 'Re’sen mi süreye bağlı mı?'],
+                ['Eda', 'Tespit', 'Mahkûmiyet mi açıklama mı?'],
+                ['Taraf ehliyeti', 'Dava ehliyeti', 'Hak öznesi mi usul işlemi mi?'],
+              ]
+            : [
+                ['1. yarı', '2. yarı', 'Kapı/çerçeve mi ispat/kanun yolu mu?'],
+                ['Görev', 'Yetki', 'Tür mü yer mi?'],
+                ['İstinaf', 'Temyiz', 'Denetim kapsamı?'],
+                ['Dava şartı', 'İlk itiraz', 'Re’sen mi süre mi?'],
+              ],
+    },
+    {
+      kind: 'ladder',
+      title: 'Öğrenme merdiveni',
+      levels: [
+        'Tanım kartları',
+        'Zihin haritası çiz',
+        'Tuzak listesi',
+        '4 örnek olay süreyle',
+        'Karma deneme + yanlış defteri',
+      ],
+    },
+    {
+      kind: 'fork',
+      title: 'Soru tipi',
+      leftTitle: 'Kapı / çerçeve',
+      rightTitle: 'İspat / denetim',
+      left: 'Görev–yetki–dava şartı–dava türü–dilekçe',
+      right: 'İspat–delil–hüküm–istinaf/temyiz–tedbir',
+    },
+    {
+      kind: 'cycle',
+      title: 'Haftalık döngü',
+      steps: ['Madde', 'Şema', 'Örnek', 'Quiz', 'Yanlış defteri'],
+    },
+  ];
+
+  const faq = [
+    {
+      q: '1. dönem / 2. dönem / yıllık farkı ne?',
+      a: '1. dönem ilkeler–görev–yetki–dava şartları–dava türleri–dilekçeler; 2. dönem ispat–tahkikat–hüküm–kanun yolları–geçici korumalar; yıllık ikisini birleştirir.',
+    },
+    {
+      q: 'Medeni usul dersiyle aynı mı?',
+      a: 'Evet, hizalıdır. Fakültede “Medeni Usul Hukuku” adıyla okutulan HMK omurgasıdır.',
+    },
+    {
+      q: 'PDF nasıl indirilir?',
+      a: '“PDF indir / Yazdır” veya …/pdf → Ctrl+P → PDF olarak kaydet. Kişisel kullanım.',
+    },
+    {
+      q: 'Ücretli mi?',
+      a: 'Hayır. Av. Fethi Güzel Hukuk Portalı üzerinden ücretsizdir.',
+    },
+  ];
+
+  const checklist = [
+    '60 sn omurgayı kapalı yazdım',
+    'Tanım kartlarını ezberden yazdım',
+    'Zihin haritasını çizdim',
+    'Tuzak listesinden 5 madde işaretledim',
+    'En az 3 örnek olayı süreyle çözdüm',
+    'Pusula maddeleri HMK’dan doğruladım',
+    'PDF’i arşivledim',
+    variantCode === 'hmk-yillik'
+      ? '1. ve 2. dönem notlarıyla çapraz tekrar yaptım'
+      : 'Diğer yarı / yıllık notla bağlantıyı kontrol ettim',
+  ];
+
+  return {
+    uniSlug: uni.slug,
+    courseCode: variantCode,
+    slug: `${uni.slug}__${variantCode}`,
+    title,
+    description,
+    h1,
+    keywords: [
+      `${uni.shortName} hmk ${meta.short}`,
+      `${uni.shortName} medeni usul ders notu`,
+      `hmk ${meta.short} not pdf`,
+      'görev yetki dava şartı ispat istinaf ders notu',
+      'medeni usul hukuku yıllık not',
+      ...uni.aliases.slice(0, 2).map((a) => `${a} hmk`),
+      'ücretsiz hukuk ders notu',
+    ],
+    lead,
+    promise: bank.promise,
+    sixtySecond: bank.sixtySecond,
+    examBox: {
+      calendar: uni.calendar,
+      typicalWeights: 'Ara sınav ~%30–40 · Final ~%50–60 (yönetmeliğe göre)',
+      format: uni.type === 'vakif' ? 'Klasik + ara; ödev olabilir' : 'Klasik yazılı ağırlıklı',
+      tips: [
+        'Usul sorununu ilk adlandır',
+        'Görev ≠ yetki',
+        'Süre başlangıcını yaz',
+        'İspat yükünü iddia başına koy',
+        'PDF alıp basılı çalış',
+      ],
+    },
+    learningOutcomes: [
+      `HMK ${meta.short} kapsamındaki usul kurumlarını ayırır`,
+      'Görev–yetki ve dava şartı rejimini uygular',
+      'İspat yükü ve delil seçimini kurar',
+      'Hüküm ve kanun yolu takvimini yönetir',
+      'PDF notla düzenli tekrar yapar',
+    ],
+    sections,
+    examples: bank.examples.map((e, i) => ({
+      ...e,
+      title: `Örnek ${i + 1} — ${e.title}`,
+    })),
+    diagrams,
+    faq,
+    checklist,
+    relatedCourses: HMK_VARIANTS.filter((c) => c !== variantCode).concat([
+      'medeni-usul',
+      'icra-iflas',
+      'borclar-genel-yillik',
+    ]),
+    relatedBilgi: [],
+    updated: '2026-07-29',
+    wordTarget: variantCode === 'hmk-yillik' ? 8000 : 5500,
+    qualityTier: 'premium',
+    variantOf: 'hmk',
+    variantLabel: meta.label,
+  };
+}

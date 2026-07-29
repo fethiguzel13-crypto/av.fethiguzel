@@ -360,6 +360,30 @@
         "href": "/ders-notlari/ankara-yildirim-beyazit/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -743,6 +767,30 @@
         "href": "/ders-notlari/ankara/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/ankara/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/ankara/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/ankara/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -1127,6 +1175,30 @@
         "href": "/ders-notlari/istanbul/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/istanbul/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/istanbul/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/istanbul/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -1509,6 +1581,30 @@
         "href": "/ders-notlari/marmara/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/marmara/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/marmara/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/marmara/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -1893,6 +1989,30 @@
         "href": "/ders-notlari/galatasaray/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/galatasaray/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/galatasaray/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/galatasaray/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -2276,6 +2396,30 @@
         "href": "/ders-notlari/dokuz-eylul/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/dokuz-eylul/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/dokuz-eylul/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/dokuz-eylul/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -2658,6 +2802,30 @@
         "href": "/ders-notlari/hacettepe/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/hacettepe/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/hacettepe/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/hacettepe/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -3041,6 +3209,30 @@
         "href": "/ders-notlari/ankara-hacibayram/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/ankara-hacibayram/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/ankara-hacibayram/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/ankara-hacibayram/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -3423,6 +3615,30 @@
         "href": "/ders-notlari/bilkent/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/bilkent/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/bilkent/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/bilkent/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -3806,6 +4022,30 @@
         "href": "/ders-notlari/koc/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/koc/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/koc/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/koc/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -4189,6 +4429,30 @@
         "href": "/ders-notlari/tobb-etu/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/tobb-etu/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/tobb-etu/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/tobb-etu/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -4571,6 +4835,30 @@
         "href": "/ders-notlari/bogazici/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/bogazici/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/bogazici/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/bogazici/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -4953,6 +5241,30 @@
         "href": "/ders-notlari/ege/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/ege/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/ege/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/ege/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -5335,6 +5647,30 @@
         "href": "/ders-notlari/akdeniz/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/akdeniz/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/akdeniz/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/akdeniz/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -5717,6 +6053,30 @@
         "href": "/ders-notlari/selcuk/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/selcuk/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/selcuk/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/selcuk/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -6099,6 +6459,30 @@
         "href": "/ders-notlari/erciyes/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/erciyes/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/erciyes/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/erciyes/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -6482,6 +6866,30 @@
         "href": "/ders-notlari/uludag/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/uludag/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/uludag/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/uludag/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -6864,6 +7272,30 @@
         "href": "/ders-notlari/cukurova/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/cukurova/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/cukurova/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/cukurova/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -7246,6 +7678,30 @@
         "href": "/ders-notlari/anadolu/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/anadolu/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/anadolu/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/anadolu/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -7629,6 +8085,30 @@
         "href": "/ders-notlari/gazi-ankara/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/gazi-ankara/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/gazi-ankara/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/gazi-ankara/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -8012,6 +8492,30 @@
         "href": "/ders-notlari/yildiz-teknik/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/yildiz-teknik/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/yildiz-teknik/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/yildiz-teknik/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -8394,6 +8898,30 @@
         "href": "/ders-notlari/istanbul-medeniyet/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/istanbul-medeniyet/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/istanbul-medeniyet/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/istanbul-medeniyet/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -8777,6 +9305,30 @@
         "href": "/ders-notlari/bahcesehir/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/bahcesehir/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/bahcesehir/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/bahcesehir/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -9159,6 +9711,30 @@
         "href": "/ders-notlari/yeditepe/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/yeditepe/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/yeditepe/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/yeditepe/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -9541,6 +10117,30 @@
         "href": "/ders-notlari/ozyegin/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/ozyegin/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/ozyegin/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/ozyegin/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -9923,6 +10523,30 @@
         "href": "/ders-notlari/kadir-has/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kadir-has/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kadir-has/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kadir-has/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -10305,6 +10929,30 @@
         "href": "/ders-notlari/istanbul-bilgi/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/istanbul-bilgi/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/istanbul-bilgi/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/istanbul-bilgi/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -10687,6 +11335,30 @@
         "href": "/ders-notlari/mehmet-akif/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/mehmet-akif/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/mehmet-akif/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/mehmet-akif/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -11069,6 +11741,30 @@
         "href": "/ders-notlari/altinbas/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/altinbas/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/altinbas/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/altinbas/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -11451,6 +12147,30 @@
         "href": "/ders-notlari/maltepe/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/maltepe/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/maltepe/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/maltepe/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -11833,6 +12553,30 @@
         "href": "/ders-notlari/dogus/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/dogus/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/dogus/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/dogus/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -12215,6 +12959,30 @@
         "href": "/ders-notlari/isik/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/isik/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/isik/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/isik/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -12597,6 +13365,30 @@
         "href": "/ders-notlari/okan/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/okan/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/okan/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/okan/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -12979,6 +13771,30 @@
         "href": "/ders-notlari/kultur/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kultur/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kultur/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kultur/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -13361,6 +14177,30 @@
         "href": "/ders-notlari/aydin/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/aydin/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/aydin/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/aydin/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -13743,6 +14583,30 @@
         "href": "/ders-notlari/gelisim/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/gelisim/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/gelisim/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/gelisim/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -14125,6 +14989,30 @@
         "href": "/ders-notlari/topkapi/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/topkapi/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/topkapi/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/topkapi/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -14507,6 +15395,30 @@
         "href": "/ders-notlari/nisantasi/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/nisantasi/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/nisantasi/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/nisantasi/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -14889,6 +15801,30 @@
         "href": "/ders-notlari/beykent/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/beykent/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/beykent/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/beykent/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -15271,6 +16207,30 @@
         "href": "/ders-notlari/halic/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/halic/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/halic/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/halic/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -15653,6 +16613,30 @@
         "href": "/ders-notlari/fatih-sultan/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/fatih-sultan/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/fatih-sultan/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/fatih-sultan/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -16036,6 +17020,30 @@
         "href": "/ders-notlari/karadeniz-teknik/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/karadeniz-teknik/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/karadeniz-teknik/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/karadeniz-teknik/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -16419,6 +17427,30 @@
         "href": "/ders-notlari/ataturk/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/ataturk/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/ataturk/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/ataturk/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -16801,6 +17833,30 @@
         "href": "/ders-notlari/inonu/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/inonu/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/inonu/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/inonu/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -17183,6 +18239,30 @@
         "href": "/ders-notlari/dicle/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/dicle/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/dicle/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/dicle/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -17565,6 +18645,30 @@
         "href": "/ders-notlari/firat/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/firat/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/firat/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/firat/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -17947,6 +19051,30 @@
         "href": "/ders-notlari/gaziantep/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/gaziantep/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/gaziantep/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/gaziantep/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -18330,6 +19458,30 @@
         "href": "/ders-notlari/suleyman-demirel/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/suleyman-demirel/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/suleyman-demirel/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/suleyman-demirel/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -18712,6 +19864,30 @@
         "href": "/ders-notlari/pamukkale/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/pamukkale/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/pamukkale/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/pamukkale/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -19094,6 +20270,30 @@
         "href": "/ders-notlari/mugla/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/mugla/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/mugla/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/mugla/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -19476,6 +20676,30 @@
         "href": "/ders-notlari/sakarya/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/sakarya/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/sakarya/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/sakarya/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -19858,6 +21082,30 @@
         "href": "/ders-notlari/kocaeli/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kocaeli/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kocaeli/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kocaeli/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -20240,6 +21488,30 @@
         "href": "/ders-notlari/trakya/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/trakya/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/trakya/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/trakya/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -20622,6 +21894,30 @@
         "href": "/ders-notlari/canakkale/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/canakkale/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/canakkale/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/canakkale/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -21004,6 +22300,30 @@
         "href": "/ders-notlari/balikesir/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/balikesir/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/balikesir/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/balikesir/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -21387,6 +22707,30 @@
         "href": "/ders-notlari/afyon/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/afyon/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/afyon/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/afyon/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -21769,6 +23113,30 @@
         "href": "/ders-notlari/dumlupinar/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/dumlupinar/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/dumlupinar/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/dumlupinar/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -22151,6 +23519,30 @@
         "href": "/ders-notlari/eskisehir-osmangazi/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/eskisehir-osmangazi/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/eskisehir-osmangazi/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/eskisehir-osmangazi/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -22534,6 +23926,30 @@
         "href": "/ders-notlari/sivas-cumhuriyet/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/sivas-cumhuriyet/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/sivas-cumhuriyet/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/sivas-cumhuriyet/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -22916,6 +24332,30 @@
         "href": "/ders-notlari/tokat/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/tokat/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/tokat/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/tokat/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -23298,6 +24738,30 @@
         "href": "/ders-notlari/yozgat/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/yozgat/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/yozgat/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/yozgat/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -23680,6 +25144,30 @@
         "href": "/ders-notlari/kirsehir/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kirsehir/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kirsehir/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kirsehir/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -24062,6 +25550,30 @@
         "href": "/ders-notlari/nevsehir/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/nevsehir/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/nevsehir/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/nevsehir/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -24444,6 +25956,30 @@
         "href": "/ders-notlari/mersin/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/mersin/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/mersin/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/mersin/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -24827,6 +26363,30 @@
         "href": "/ders-notlari/hatay/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/hatay/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/hatay/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/hatay/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -25209,6 +26769,30 @@
         "href": "/ders-notlari/kahramanmaras/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kahramanmaras/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kahramanmaras/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kahramanmaras/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -25591,6 +27175,30 @@
         "href": "/ders-notlari/osmaniye/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/osmaniye/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/osmaniye/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/osmaniye/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -25974,6 +27582,30 @@
         "href": "/ders-notlari/samsun/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/samsun/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/samsun/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/samsun/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -26356,6 +27988,30 @@
         "href": "/ders-notlari/ordu/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/ordu/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/ordu/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/ordu/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -26738,6 +28394,30 @@
         "href": "/ders-notlari/giresun/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/giresun/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/giresun/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/giresun/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -27121,6 +28801,30 @@
         "href": "/ders-notlari/rize/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/rize/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/rize/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/rize/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -27503,6 +29207,30 @@
         "href": "/ders-notlari/artvin/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/artvin/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/artvin/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/artvin/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -27887,6 +29615,30 @@
         "href": "/ders-notlari/van-yyu/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/van-yyu/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/van-yyu/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/van-yyu/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -28269,6 +30021,30 @@
         "href": "/ders-notlari/agri/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/agri/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/agri/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/agri/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -28651,6 +30427,30 @@
         "href": "/ders-notlari/kars/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kars/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kars/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kars/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -29033,6 +30833,30 @@
         "href": "/ders-notlari/erzincan/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/erzincan/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/erzincan/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/erzincan/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -29415,6 +31239,30 @@
         "href": "/ders-notlari/bayburt/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/bayburt/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/bayburt/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/bayburt/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -29797,6 +31645,30 @@
         "href": "/ders-notlari/gumushane/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/gumushane/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/gumushane/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/gumushane/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -30179,6 +32051,30 @@
         "href": "/ders-notlari/bingol/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/bingol/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/bingol/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/bingol/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -30561,6 +32457,30 @@
         "href": "/ders-notlari/mus/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/mus/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/mus/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/mus/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -30943,6 +32863,30 @@
         "href": "/ders-notlari/hakkari/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/hakkari/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/hakkari/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/hakkari/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -31325,6 +33269,30 @@
         "href": "/ders-notlari/sirnak/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/sirnak/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/sirnak/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/sirnak/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -31708,6 +33676,30 @@
         "href": "/ders-notlari/mardin/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/mardin/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/mardin/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/mardin/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -32090,6 +34082,30 @@
         "href": "/ders-notlari/batman/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/batman/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/batman/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/batman/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -32472,6 +34488,30 @@
         "href": "/ders-notlari/siirt/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/siirt/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/siirt/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/siirt/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -32854,6 +34894,30 @@
         "href": "/ders-notlari/adiyaman/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/adiyaman/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/adiyaman/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/adiyaman/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -33236,6 +35300,30 @@
         "href": "/ders-notlari/kilis/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kilis/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kilis/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kilis/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -33618,6 +35706,30 @@
         "href": "/ders-notlari/igdir/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/igdir/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/igdir/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/igdir/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -34000,6 +36112,30 @@
         "href": "/ders-notlari/ardahan/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/ardahan/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/ardahan/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/ardahan/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -34382,6 +36518,30 @@
         "href": "/ders-notlari/bilecik/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/bilecik/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/bilecik/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/bilecik/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -34765,6 +36925,30 @@
         "href": "/ders-notlari/bolu/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/bolu/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/bolu/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/bolu/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -35147,6 +37331,30 @@
         "href": "/ders-notlari/duzce/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/duzce/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/duzce/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/duzce/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -35529,6 +37737,30 @@
         "href": "/ders-notlari/zonguldak/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/zonguldak/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/zonguldak/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/zonguldak/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -35911,6 +38143,30 @@
         "href": "/ders-notlari/karabuk/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/karabuk/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/karabuk/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/karabuk/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -36293,6 +38549,30 @@
         "href": "/ders-notlari/kastamonu/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kastamonu/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kastamonu/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kastamonu/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -36675,6 +38955,30 @@
         "href": "/ders-notlari/sinop/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/sinop/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/sinop/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/sinop/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -37058,6 +39362,30 @@
         "href": "/ders-notlari/corum/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/corum/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/corum/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/corum/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -37440,6 +39768,30 @@
         "href": "/ders-notlari/amasya/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/amasya/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/amasya/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/amasya/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -37822,6 +40174,30 @@
         "href": "/ders-notlari/cankiri/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/cankiri/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/cankiri/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/cankiri/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -38204,6 +40580,30 @@
         "href": "/ders-notlari/kirikkale/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kirikkale/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kirikkale/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kirikkale/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -38586,6 +40986,30 @@
         "href": "/ders-notlari/aksaray/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/aksaray/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/aksaray/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/aksaray/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -38968,6 +41392,30 @@
         "href": "/ders-notlari/nigde/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/nigde/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/nigde/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/nigde/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -39350,6 +41798,30 @@
         "href": "/ders-notlari/konya-teknik/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/konya-teknik/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/konya-teknik/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/konya-teknik/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -39732,6 +42204,30 @@
         "href": "/ders-notlari/karaman/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/karaman/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/karaman/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/karaman/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -40114,6 +42610,30 @@
         "href": "/ders-notlari/usak/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/usak/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/usak/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/usak/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -40497,6 +43017,30 @@
         "href": "/ders-notlari/manisa/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/manisa/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/manisa/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/manisa/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -40879,6 +43423,30 @@
         "href": "/ders-notlari/aydin-adu/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/aydin-adu/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/aydin-adu/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/aydin-adu/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -41261,6 +43829,30 @@
         "href": "/ders-notlari/tekirdag/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/tekirdag/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/tekirdag/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/tekirdag/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -41643,6 +44235,30 @@
         "href": "/ders-notlari/kirklareli/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kirklareli/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kirklareli/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kirklareli/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -42025,6 +44641,30 @@
         "href": "/ders-notlari/atilim/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/atilim/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/atilim/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/atilim/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -42407,6 +45047,30 @@
         "href": "/ders-notlari/cankaya/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/cankaya/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/cankaya/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/cankaya/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -42789,6 +45453,30 @@
         "href": "/ders-notlari/ufuk/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/ufuk/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/ufuk/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/ufuk/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -43171,6 +45859,30 @@
         "href": "/ders-notlari/yasar/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/yasar/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/yasar/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/yasar/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -43553,6 +46265,30 @@
         "href": "/ders-notlari/izmir-ekonomi/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/izmir-ekonomi/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/izmir-ekonomi/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/izmir-ekonomi/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -43935,6 +46671,30 @@
         "href": "/ders-notlari/tinaztepe/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/tinaztepe/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/tinaztepe/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/tinaztepe/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -44317,6 +47077,30 @@
         "href": "/ders-notlari/asbu-vakif/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/asbu-vakif/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/asbu-vakif/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/asbu-vakif/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -44699,6 +47483,30 @@
         "href": "/ders-notlari/hasan-kalyoncu/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/hasan-kalyoncu/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/hasan-kalyoncu/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/hasan-kalyoncu/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -45081,6 +47889,30 @@
         "href": "/ders-notlari/sanko/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/sanko/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/sanko/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/sanko/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -45463,6 +48295,30 @@
         "href": "/ders-notlari/toros/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/toros/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/toros/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/toros/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
@@ -45845,6 +48701,30 @@
         "href": "/ders-notlari/cag/tmk-2-kitap-yillik",
         "ready": true,
         "variantOf": "tmk-2-kitap"
+      },
+      {
+        "code": "hmk-donem-1",
+        "title": "HMK — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/cag/hmk-donem-1",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-donem-2",
+        "title": "HMK — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/cag/hmk-donem-2",
+        "ready": true,
+        "variantOf": "hmk"
+      },
+      {
+        "code": "hmk-yillik",
+        "title": "HMK — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/cag/hmk-yillik",
+        "ready": true,
+        "variantOf": "hmk"
       }
     ],
     "seoParagraphs": [
