@@ -6,6 +6,7 @@ import Footer from '@/components/Footer';
 import { HesaplamaToolBody } from '@/components/hesaplama/HesaplamaTools';
 import ToolShareBar from '@/components/hesaplama/ToolShareBar';
 import { getAracMeta, getAllAracIds, HESAPLAMA_ARACLAR } from '@/lib/hesaplama-meta';
+import { bilgiLinksForArac } from '@/lib/hesaplama-bilgi';
 import { getKavramForHesaplama } from '@/lib/kavramlar';
 import ShareableAnswer from '@/components/ShareableAnswer';
 import { SITE_URL } from '@/lib/profile';
@@ -52,6 +53,7 @@ export default async function HesaplamaSlugPage({ params }: Props) {
         .map((id) => getAracMeta(id))
         .filter((x): x is NonNullable<typeof x> => Boolean(x));
     const kavram = getKavramForHesaplama(meta.id);
+    const bilgiLinks = bilgiLinksForArac(meta.id);
 
     const softwareLd = {
         '@context': 'https://schema.org',
@@ -155,6 +157,41 @@ export default async function HesaplamaSlugPage({ params }: Props) {
                             Somut uyuşmazlıklarda avukata danışınız. Sonuç vaadi yoktur.
                         </p>
                     </section>
+
+                    {bilgiLinks.length > 0 && (
+                        <section className="mt-8 rounded-2xl border border-accent/20 bg-accent/[0.04] p-5 sm:p-6">
+                            <h2 className="text-lg font-heading font-bold text-charcoal mb-2">
+                                Vatandaş rehberi — derin okuma
+                            </h2>
+                            <p className="text-sm text-charcoal/55 mb-4 leading-relaxed">
+                                Hesap yalnızca rakam üretir. Süreç, şart ve riskler için ilgili bilgilendirme
+                                sayfalarına bakın (bilgilendirme; somut dosyada avukata danışın).
+                            </p>
+                            <ul className="grid grid-cols-1 sm:grid-cols-2 gap-2">
+                                {bilgiLinks.map((b) => (
+                                    <li key={b.href}>
+                                        <Link
+                                            href={b.href}
+                                            className="flex items-center gap-2 p-3 rounded-xl bg-white border border-charcoal/8 hover:border-accent/40 text-sm font-semibold text-charcoal transition-colors"
+                                        >
+                                            <span className="text-accent" aria-hidden>
+                                                →
+                                            </span>
+                                            {b.label}
+                                        </Link>
+                                    </li>
+                                ))}
+                            </ul>
+                            <p className="mt-3">
+                                <Link
+                                    href="/bilgi"
+                                    className="text-xs font-bold text-accent hover:underline"
+                                >
+                                    Tüm vatandaş rehberleri (550+) →
+                                </Link>
+                            </p>
+                        </section>
+                    )}
 
                     {meta.mevzuat.length > 0 && (
                         <section className="mt-8">

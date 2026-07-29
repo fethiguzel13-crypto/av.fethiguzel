@@ -11,18 +11,17 @@ import { createRequire } from 'node:module';
 const __dir = dirname(fileURLToPath(import.meta.url));
 const root = join(__dir, '..');
 
-// Dynamic import of generated data via path rewrite — use require on compiled? It's TS.
-// Read data.ts as text and eval JSON portion instead.
+// data.ts: export const VATANDAS_ARTICLES: VatandasArticle[] = [ ... ];
+// Parser must match vatandas-depth-gate.mjs (role/examples sonrası ek alanlar kırıyordu).
 const dataTs = readFileSync(join(root, 'lib/vatandas-rehberi/data.ts'), 'utf8');
-const start = dataTs.indexOf('[');
-const endMarker = /\]\r?\n\r?\nexport function getAllVatandasSlugs/;
-const endMatch = dataTs.slice(start).match(endMarker);
-if (start < 0 || !endMatch) {
+const dataMatch = dataTs.match(
+  /export const VATANDAS_ARTICLES: VatandasArticle\[\] = (\[[\s\S]*?\n\]);\r?\n\r?\nexport function/
+);
+if (!dataMatch) {
   console.error('Could not parse VATANDAS_ARTICLES from data.ts');
   process.exit(1);
 }
-const json = dataTs.slice(start, start + endMatch.index + 1);
-const ARTICLES = JSON.parse(json);
+const ARTICLES = JSON.parse(dataMatch[1]);
 
 const report = [];
 const log = (...a) => {
@@ -71,22 +70,40 @@ log(
   ARTICLES.filter((a) => a.faq.some((f) => /avukat zorunlu/i.test(f.q))).length
 );
 
-// word counts
-const words = ARTICLES.map((a) => {
-  const text = [
-    a.lead,
-    ...a.sections.flatMap((s) => s.paragraphs),
-    ...(a.steps || []),
-    ...a.faq.map((f) => f.q + ' ' + f.a),
-  ].join(' ');
-  return { slug: a.slug, n: text.split(/\s+/).filter(Boolean).length, cat: a.category };
-});
+// word counts — depth-gate ile aynı yüzey (examples/scenarios/table/checklist dahil)
+function fullWordCount(a) {
+  const parts = [a.lead || '', a.keyInsight || ''];
+  for (const s of a.sections || []) {
+    parts.push(s.heading || '');
+    parts.push(...(s.paragraphs || []));
+    parts.push(...(s.bullets || []));
+  }
+  parts.push(...(a.steps || []));
+  parts.push(...(a.checklist || []));
+  for (const f of a.faq || []) parts.push(f.q || '', f.a || '');
+  for (const e of a.examples || []) parts.push(e.title || '', e.body || '', e.takeaway || '');
+  for (const s of a.scenarios || []) parts.push(s.title || '', s.facts || '', s.outcome || '');
+  if (a.table) {
+    parts.push(a.table.caption || '');
+    parts.push(...(a.table.headers || []));
+    for (const row of a.table.rows || []) parts.push(...row);
+  }
+  return parts.join(' ').split(/\s+/).filter(Boolean).length;
+}
+const words = ARTICLES.map((a) => ({
+  slug: a.slug,
+  n: fullWordCount(a),
+  cat: a.category,
+  role: a.role || 'standard',
+}));
 const avg = words.reduce((s, w) => s + w.n, 0) / words.length;
-log('- Ortalama kelime:', Math.round(avg));
+log('- Ortalama kelime (tam gövde):', Math.round(avg));
 log('- Min/Max kelime:', Math.min(...words.map((w) => w.n)), Math.max(...words.map((w) => w.n)));
 log('- <450 kelime:', words.filter((w) => w.n < 450).length);
 log('- 450–700:', words.filter((w) => w.n >= 450 && w.n < 700).length);
-log('- ≥700:', words.filter((w) => w.n >= 700).length);
+log('- 700–1100:', words.filter((w) => w.n >= 700 && w.n < 1100).length);
+log('- ≥1100:', words.filter((w) => w.n >= 1100).length);
+log('- keyInsight/examples/scenarios dolu:', ARTICLES.filter((a) => a.keyInsight && a.examples?.length && a.scenarios?.length).length);
 
 // substance: kanun codes
 const codeRe = /TBK|TMK|TCK|HMK|İİK|CMK|4857|6098|6100|5237|6502|6698|İYUK|2577|KVKK|VUK/;
@@ -131,6 +148,19 @@ log(
   '- Mevzuat/ara/kategori linki olan:',
   ARTICLES.filter((a) => a.links.some((l) => /mevzuat|kategori|\/ara|hesaplama|rehber/.test(l.href))).length
 );
+
+// Hesaplama → /bilgi çapraz link (lib/hesaplama-bilgi.ts)
+try {
+  const bilSrc = readFileSync(join(root, 'lib/hesaplama-bilgi.ts'), 'utf8');
+  const hrefs = [...bilSrc.matchAll(/href:\s*'(\/bilgi\/[^']+)'/g)].map((m) => m[1].replace('/bilgi/', ''));
+  const brokenBilgi = hrefs.filter((h) => !slugSet.has(h));
+  const aracIds = [...bilSrc.matchAll(/^\s{2}(?:'|")?([a-z0-9-]+)(?:'|")?:\s*\[/gm)].map((m) => m[1]);
+  log('- Hesaplama→bilgi araç sayısı:', aracIds.length || '—');
+  log('- Hesaplama→bilgi toplam link:', hrefs.length);
+  log('- Hesaplama→bilgi kırık slug:', brokenBilgi.length, brokenBilgi.slice(0, 5).join(', ') || '');
+} catch {
+  log('- Hesaplama→bilgi haritası: yok');
+}
 
 log('');
 log('## 4. Kategori dağılımı');
