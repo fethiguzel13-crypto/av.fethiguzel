@@ -6,6 +6,7 @@ export const CURRICULUM: CurriculumCourse[] = [
   { code: 'hukuka-giris', title: 'Hukuka Giriş / Hukukun Temel Kavramları', year: 1, semester: 'guz', area: 'genel', keywords: ['hukuka giriş', 'hukukun temel kavramları'], core: true },
   { code: 'anayasa-1', title: 'Anayasa Hukuku I (Genel Esaslar)', year: 1, semester: 'guz', area: 'kamu', keywords: ['anayasa hukuku', 'temel haklar'], core: true },
   { code: 'roma-hukuku', title: 'Roma Hukuku', year: 1, semester: 'guz', area: 'genel', keywords: ['roma hukuku', 'ius civile'], core: true },
+  { code: 'turk-hukuk-tarihi', title: 'Türk Hukuk Tarihi', year: 1, semester: 'guz', area: 'genel', keywords: ['türk hukuk tarihi', 'osmanlı hukuku', 'mecelle', 'tanzimat', 'resepsiyon'], core: true },
   { code: 'medeni-baslangic', title: 'Medeni Hukuka Giriş ve Başlangıç Hükümleri', year: 1, semester: 'bahar', area: 'ozel', keywords: ['medeni hukuk', 'TMK başlangıç', 'kişiler hukuku giriş'], core: true },
   { code: 'anayasa-2', title: 'Anayasa Hukuku II (Türk Anayasa Düzeni)', year: 1, semester: 'bahar', area: 'kamu', keywords: ['anayasa organları', 'yasama yürütme yargı'], core: true },
   { code: 'hukuk-felsefesi', title: 'Hukuk Felsefesi ve Sosyolojisi', year: 1, semester: 'bahar', area: 'genel', keywords: ['hukuk felsefesi', 'hukuk sosyolojisi'], core: true },

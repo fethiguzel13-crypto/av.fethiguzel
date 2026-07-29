@@ -165,6 +165,9 @@ export default async function DersNotuPdfPage({ params }: Props) {
               'deniz-ticareti-donem-1',
               'deniz-ticareti-donem-2',
               'deniz-ticareti-yillik',
+              'turk-hukuk-tarihi-donem-1',
+              'turk-hukuk-tarihi-donem-2',
+              'turk-hukuk-tarihi-yillik',
             ].map((code) => (
               <a
                 key={code}

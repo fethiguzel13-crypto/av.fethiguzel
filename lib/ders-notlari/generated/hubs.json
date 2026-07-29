@@ -1008,6 +1008,30 @@
         "href": "/ders-notlari/ankara-yildirim-beyazit/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -2039,6 +2063,30 @@
         "href": "/ders-notlari/ankara/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/ankara/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/ankara/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/ankara/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -3071,6 +3119,30 @@
         "href": "/ders-notlari/istanbul/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/istanbul/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/istanbul/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/istanbul/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -4101,6 +4173,30 @@
         "href": "/ders-notlari/marmara/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/marmara/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/marmara/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/marmara/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -5133,6 +5229,30 @@
         "href": "/ders-notlari/galatasaray/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/galatasaray/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/galatasaray/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/galatasaray/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -6164,6 +6284,30 @@
         "href": "/ders-notlari/dokuz-eylul/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/dokuz-eylul/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/dokuz-eylul/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/dokuz-eylul/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -7194,6 +7338,30 @@
         "href": "/ders-notlari/hacettepe/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/hacettepe/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/hacettepe/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/hacettepe/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -8225,6 +8393,30 @@
         "href": "/ders-notlari/ankara-hacibayram/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/ankara-hacibayram/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/ankara-hacibayram/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/ankara-hacibayram/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -9255,6 +9447,30 @@
         "href": "/ders-notlari/bilkent/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/bilkent/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/bilkent/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/bilkent/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -10286,6 +10502,30 @@
         "href": "/ders-notlari/koc/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/koc/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/koc/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/koc/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -11317,6 +11557,30 @@
         "href": "/ders-notlari/tobb-etu/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/tobb-etu/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/tobb-etu/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/tobb-etu/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -12347,6 +12611,30 @@
         "href": "/ders-notlari/bogazici/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/bogazici/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/bogazici/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/bogazici/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -13377,6 +13665,30 @@
         "href": "/ders-notlari/ege/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/ege/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/ege/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/ege/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -14407,6 +14719,30 @@
         "href": "/ders-notlari/akdeniz/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/akdeniz/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/akdeniz/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/akdeniz/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -15437,6 +15773,30 @@
         "href": "/ders-notlari/selcuk/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/selcuk/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/selcuk/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/selcuk/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -16467,6 +16827,30 @@
         "href": "/ders-notlari/erciyes/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/erciyes/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/erciyes/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/erciyes/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -17498,6 +17882,30 @@
         "href": "/ders-notlari/uludag/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/uludag/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/uludag/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/uludag/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -18528,6 +18936,30 @@
         "href": "/ders-notlari/cukurova/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/cukurova/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/cukurova/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/cukurova/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -19558,6 +19990,30 @@
         "href": "/ders-notlari/anadolu/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/anadolu/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/anadolu/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/anadolu/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -20589,6 +21045,30 @@
         "href": "/ders-notlari/gazi-ankara/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/gazi-ankara/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/gazi-ankara/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/gazi-ankara/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -21620,6 +22100,30 @@
         "href": "/ders-notlari/yildiz-teknik/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/yildiz-teknik/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/yildiz-teknik/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/yildiz-teknik/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -22650,6 +23154,30 @@
         "href": "/ders-notlari/istanbul-medeniyet/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/istanbul-medeniyet/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/istanbul-medeniyet/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/istanbul-medeniyet/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -23681,6 +24209,30 @@
         "href": "/ders-notlari/bahcesehir/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/bahcesehir/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/bahcesehir/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/bahcesehir/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -24711,6 +25263,30 @@
         "href": "/ders-notlari/yeditepe/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/yeditepe/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/yeditepe/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/yeditepe/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -25741,6 +26317,30 @@
         "href": "/ders-notlari/ozyegin/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/ozyegin/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/ozyegin/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/ozyegin/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -26771,6 +27371,30 @@
         "href": "/ders-notlari/kadir-has/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/kadir-has/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/kadir-has/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/kadir-has/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -27801,6 +28425,30 @@
         "href": "/ders-notlari/istanbul-bilgi/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/istanbul-bilgi/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/istanbul-bilgi/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/istanbul-bilgi/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -28831,6 +29479,30 @@
         "href": "/ders-notlari/mehmet-akif/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/mehmet-akif/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/mehmet-akif/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/mehmet-akif/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -29861,6 +30533,30 @@
         "href": "/ders-notlari/altinbas/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/altinbas/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/altinbas/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/altinbas/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -30891,6 +31587,30 @@
         "href": "/ders-notlari/maltepe/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/maltepe/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/maltepe/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/maltepe/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -31921,6 +32641,30 @@
         "href": "/ders-notlari/dogus/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/dogus/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/dogus/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/dogus/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -32951,6 +33695,30 @@
         "href": "/ders-notlari/isik/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/isik/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/isik/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/isik/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -33981,6 +34749,30 @@
         "href": "/ders-notlari/okan/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/okan/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/okan/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/okan/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -35011,6 +35803,30 @@
         "href": "/ders-notlari/kultur/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/kultur/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/kultur/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/kultur/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -36041,6 +36857,30 @@
         "href": "/ders-notlari/aydin/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/aydin/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/aydin/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/aydin/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -37071,6 +37911,30 @@
         "href": "/ders-notlari/gelisim/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/gelisim/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/gelisim/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/gelisim/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -38101,6 +38965,30 @@
         "href": "/ders-notlari/topkapi/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/topkapi/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/topkapi/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/topkapi/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -39131,6 +40019,30 @@
         "href": "/ders-notlari/nisantasi/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/nisantasi/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/nisantasi/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/nisantasi/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -40161,6 +41073,30 @@
         "href": "/ders-notlari/beykent/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/beykent/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/beykent/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/beykent/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -41191,6 +42127,30 @@
         "href": "/ders-notlari/halic/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/halic/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/halic/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/halic/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -42221,6 +43181,30 @@
         "href": "/ders-notlari/fatih-sultan/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/fatih-sultan/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/fatih-sultan/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/fatih-sultan/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -43252,6 +44236,30 @@
         "href": "/ders-notlari/karadeniz-teknik/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/karadeniz-teknik/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/karadeniz-teknik/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/karadeniz-teknik/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -44283,6 +45291,30 @@
         "href": "/ders-notlari/ataturk/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/ataturk/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/ataturk/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/ataturk/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -45313,6 +46345,30 @@
         "href": "/ders-notlari/inonu/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/inonu/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/inonu/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/inonu/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -46343,6 +47399,30 @@
         "href": "/ders-notlari/dicle/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/dicle/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/dicle/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/dicle/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -47373,6 +48453,30 @@
         "href": "/ders-notlari/firat/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/firat/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/firat/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/firat/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -48403,6 +49507,30 @@
         "href": "/ders-notlari/gaziantep/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/gaziantep/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/gaziantep/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/gaziantep/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -49434,6 +50562,30 @@
         "href": "/ders-notlari/suleyman-demirel/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/suleyman-demirel/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/suleyman-demirel/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/suleyman-demirel/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -50464,6 +51616,30 @@
         "href": "/ders-notlari/pamukkale/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/pamukkale/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/pamukkale/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/pamukkale/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -51494,6 +52670,30 @@
         "href": "/ders-notlari/mugla/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/mugla/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/mugla/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/mugla/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -52524,6 +53724,30 @@
         "href": "/ders-notlari/sakarya/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/sakarya/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/sakarya/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/sakarya/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -53554,6 +54778,30 @@
         "href": "/ders-notlari/kocaeli/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/kocaeli/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/kocaeli/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/kocaeli/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -54584,6 +55832,30 @@
         "href": "/ders-notlari/trakya/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/trakya/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/trakya/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/trakya/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -55614,6 +56886,30 @@
         "href": "/ders-notlari/canakkale/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/canakkale/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/canakkale/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/canakkale/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -56644,6 +57940,30 @@
         "href": "/ders-notlari/balikesir/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/balikesir/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/balikesir/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/balikesir/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -57675,6 +58995,30 @@
         "href": "/ders-notlari/afyon/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/afyon/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/afyon/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/afyon/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -58705,6 +60049,30 @@
         "href": "/ders-notlari/dumlupinar/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/dumlupinar/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/dumlupinar/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/dumlupinar/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -59735,6 +61103,30 @@
         "href": "/ders-notlari/eskisehir-osmangazi/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/eskisehir-osmangazi/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/eskisehir-osmangazi/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/eskisehir-osmangazi/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -60766,6 +62158,30 @@
         "href": "/ders-notlari/sivas-cumhuriyet/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/sivas-cumhuriyet/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/sivas-cumhuriyet/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/sivas-cumhuriyet/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -61796,6 +63212,30 @@
         "href": "/ders-notlari/tokat/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/tokat/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/tokat/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/tokat/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -62826,6 +64266,30 @@
         "href": "/ders-notlari/yozgat/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/yozgat/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/yozgat/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/yozgat/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -63856,6 +65320,30 @@
         "href": "/ders-notlari/kirsehir/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/kirsehir/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/kirsehir/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/kirsehir/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -64886,6 +66374,30 @@
         "href": "/ders-notlari/nevsehir/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/nevsehir/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/nevsehir/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/nevsehir/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -65916,6 +67428,30 @@
         "href": "/ders-notlari/mersin/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/mersin/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/mersin/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/mersin/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -66947,6 +68483,30 @@
         "href": "/ders-notlari/hatay/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/hatay/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/hatay/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/hatay/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -67977,6 +69537,30 @@
         "href": "/ders-notlari/kahramanmaras/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/kahramanmaras/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/kahramanmaras/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/kahramanmaras/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -69007,6 +70591,30 @@
         "href": "/ders-notlari/osmaniye/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/osmaniye/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/osmaniye/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/osmaniye/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -70038,6 +71646,30 @@
         "href": "/ders-notlari/samsun/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/samsun/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/samsun/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/samsun/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -71068,6 +72700,30 @@
         "href": "/ders-notlari/ordu/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/ordu/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/ordu/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/ordu/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -72098,6 +73754,30 @@
         "href": "/ders-notlari/giresun/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/giresun/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/giresun/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/giresun/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -73129,6 +74809,30 @@
         "href": "/ders-notlari/rize/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/rize/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/rize/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/rize/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -74159,6 +75863,30 @@
         "href": "/ders-notlari/artvin/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/artvin/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/artvin/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/artvin/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -75191,6 +76919,30 @@
         "href": "/ders-notlari/van-yyu/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/van-yyu/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/van-yyu/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/van-yyu/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -76221,6 +77973,30 @@
         "href": "/ders-notlari/agri/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/agri/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/agri/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/agri/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -77251,6 +79027,30 @@
         "href": "/ders-notlari/kars/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/kars/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/kars/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/kars/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -78281,6 +80081,30 @@
         "href": "/ders-notlari/erzincan/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/erzincan/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/erzincan/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/erzincan/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -79311,6 +81135,30 @@
         "href": "/ders-notlari/bayburt/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/bayburt/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/bayburt/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/bayburt/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -80341,6 +82189,30 @@
         "href": "/ders-notlari/gumushane/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/gumushane/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/gumushane/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/gumushane/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -81371,6 +83243,30 @@
         "href": "/ders-notlari/bingol/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/bingol/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/bingol/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/bingol/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -82401,6 +84297,30 @@
         "href": "/ders-notlari/mus/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/mus/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/mus/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/mus/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -83431,6 +85351,30 @@
         "href": "/ders-notlari/hakkari/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/hakkari/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/hakkari/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/hakkari/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -84461,6 +86405,30 @@
         "href": "/ders-notlari/sirnak/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/sirnak/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/sirnak/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/sirnak/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -85492,6 +87460,30 @@
         "href": "/ders-notlari/mardin/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/mardin/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/mardin/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/mardin/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -86522,6 +88514,30 @@
         "href": "/ders-notlari/batman/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/batman/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/batman/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/batman/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -87552,6 +89568,30 @@
         "href": "/ders-notlari/siirt/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/siirt/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/siirt/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/siirt/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -88582,6 +90622,30 @@
         "href": "/ders-notlari/adiyaman/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/adiyaman/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/adiyaman/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/adiyaman/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -89612,6 +91676,30 @@
         "href": "/ders-notlari/kilis/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/kilis/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/kilis/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/kilis/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -90642,6 +92730,30 @@
         "href": "/ders-notlari/igdir/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/igdir/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/igdir/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/igdir/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -91672,6 +93784,30 @@
         "href": "/ders-notlari/ardahan/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/ardahan/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/ardahan/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/ardahan/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -92702,6 +94838,30 @@
         "href": "/ders-notlari/bilecik/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/bilecik/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/bilecik/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/bilecik/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -93733,6 +95893,30 @@
         "href": "/ders-notlari/bolu/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/bolu/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/bolu/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/bolu/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -94763,6 +96947,30 @@
         "href": "/ders-notlari/duzce/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/duzce/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/duzce/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/duzce/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -95793,6 +98001,30 @@
         "href": "/ders-notlari/zonguldak/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/zonguldak/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/zonguldak/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/zonguldak/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -96823,6 +99055,30 @@
         "href": "/ders-notlari/karabuk/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/karabuk/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/karabuk/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/karabuk/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -97853,6 +100109,30 @@
         "href": "/ders-notlari/kastamonu/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/kastamonu/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/kastamonu/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/kastamonu/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -98883,6 +101163,30 @@
         "href": "/ders-notlari/sinop/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/sinop/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/sinop/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/sinop/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -99914,6 +102218,30 @@
         "href": "/ders-notlari/corum/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/corum/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/corum/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/corum/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -100944,6 +103272,30 @@
         "href": "/ders-notlari/amasya/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/amasya/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/amasya/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/amasya/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -101974,6 +104326,30 @@
         "href": "/ders-notlari/cankiri/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/cankiri/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/cankiri/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/cankiri/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -103004,6 +105380,30 @@
         "href": "/ders-notlari/kirikkale/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/kirikkale/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/kirikkale/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/kirikkale/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -104034,6 +106434,30 @@
         "href": "/ders-notlari/aksaray/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/aksaray/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/aksaray/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/aksaray/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -105064,6 +107488,30 @@
         "href": "/ders-notlari/nigde/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/nigde/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/nigde/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/nigde/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -106094,6 +108542,30 @@
         "href": "/ders-notlari/konya-teknik/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/konya-teknik/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/konya-teknik/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/konya-teknik/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -107124,6 +109596,30 @@
         "href": "/ders-notlari/karaman/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/karaman/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/karaman/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/karaman/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -108154,6 +110650,30 @@
         "href": "/ders-notlari/usak/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/usak/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/usak/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/usak/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -109185,6 +111705,30 @@
         "href": "/ders-notlari/manisa/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/manisa/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/manisa/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/manisa/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -110215,6 +112759,30 @@
         "href": "/ders-notlari/aydin-adu/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/aydin-adu/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/aydin-adu/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/aydin-adu/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -111245,6 +113813,30 @@
         "href": "/ders-notlari/tekirdag/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/tekirdag/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/tekirdag/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/tekirdag/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -112275,6 +114867,30 @@
         "href": "/ders-notlari/kirklareli/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/kirklareli/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/kirklareli/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/kirklareli/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -113305,6 +115921,30 @@
         "href": "/ders-notlari/atilim/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/atilim/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/atilim/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/atilim/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -114335,6 +116975,30 @@
         "href": "/ders-notlari/cankaya/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/cankaya/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/cankaya/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/cankaya/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -115365,6 +118029,30 @@
         "href": "/ders-notlari/ufuk/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/ufuk/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/ufuk/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/ufuk/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -116395,6 +119083,30 @@
         "href": "/ders-notlari/yasar/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/yasar/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/yasar/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/yasar/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -117425,6 +120137,30 @@
         "href": "/ders-notlari/izmir-ekonomi/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/izmir-ekonomi/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/izmir-ekonomi/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/izmir-ekonomi/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -118455,6 +121191,30 @@
         "href": "/ders-notlari/tinaztepe/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/tinaztepe/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/tinaztepe/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/tinaztepe/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -119485,6 +122245,30 @@
         "href": "/ders-notlari/asbu-vakif/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/asbu-vakif/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/asbu-vakif/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/asbu-vakif/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -120515,6 +123299,30 @@
         "href": "/ders-notlari/hasan-kalyoncu/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/hasan-kalyoncu/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/hasan-kalyoncu/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/hasan-kalyoncu/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -121545,6 +124353,30 @@
         "href": "/ders-notlari/sanko/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/sanko/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/sanko/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/sanko/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -122575,6 +125407,30 @@
         "href": "/ders-notlari/toros/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/toros/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/toros/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/toros/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [
@@ -123605,6 +126461,30 @@
         "href": "/ders-notlari/cag/deniz-ticareti-yillik",
         "ready": true,
         "variantOf": "deniz-ticareti"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-1",
+        "title": "Türk Hukuk Tarihi — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/cag/turk-hukuk-tarihi-donem-1",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-donem-2",
+        "title": "Türk Hukuk Tarihi — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/cag/turk-hukuk-tarihi-donem-2",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
+      },
+      {
+        "code": "turk-hukuk-tarihi-yillik",
+        "title": "Türk Hukuk Tarihi — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/cag/turk-hukuk-tarihi-yillik",
+        "ready": true,
+        "variantOf": "turk-hukuk-tarihi"
       }
     ],
     "seoParagraphs": [

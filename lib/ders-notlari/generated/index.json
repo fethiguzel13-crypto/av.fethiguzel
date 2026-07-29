@@ -3,7 +3,7 @@
   "wave": "all",
   "universityCount": 120,
   "hubCount": 120,
-  "noteCount": 15240,
+  "noteCount": 15600,
   "universities": [
     {
       "slug": "ankara-yildirim-beyazit",
@@ -131286,6 +131286,3246 @@
       "href": "/ders-notlari/cag/deniz-ticareti-yillik",
       "variantOf": "deniz-ticareti",
       "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "ankara-yildirim-beyazit__turk-hukuk-tarihi-donem-1",
+      "title": "AYBÜ Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "ankara-yildirim-beyazit__turk-hukuk-tarihi-donem-2",
+      "title": "AYBÜ Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "ankara-yildirim-beyazit__turk-hukuk-tarihi-yillik",
+      "title": "AYBÜ Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "ankara__turk-hukuk-tarihi-donem-1",
+      "title": "AÜHF Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "ankara__turk-hukuk-tarihi-donem-2",
+      "title": "AÜHF Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "ankara__turk-hukuk-tarihi-yillik",
+      "title": "AÜHF Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "istanbul__turk-hukuk-tarihi-donem-1",
+      "title": "İÜHF Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "istanbul__turk-hukuk-tarihi-donem-2",
+      "title": "İÜHF Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "istanbul__turk-hukuk-tarihi-yillik",
+      "title": "İÜHF Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "marmara__turk-hukuk-tarihi-donem-1",
+      "title": "MÜHF Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "marmara__turk-hukuk-tarihi-donem-2",
+      "title": "MÜHF Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "marmara__turk-hukuk-tarihi-yillik",
+      "title": "MÜHF Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "galatasaray__turk-hukuk-tarihi-donem-1",
+      "title": "GSÜ Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "galatasaray__turk-hukuk-tarihi-donem-2",
+      "title": "GSÜ Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "galatasaray__turk-hukuk-tarihi-yillik",
+      "title": "GSÜ Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "dokuz-eylul__turk-hukuk-tarihi-donem-1",
+      "title": "DEÜ Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "dokuz-eylul__turk-hukuk-tarihi-donem-2",
+      "title": "DEÜ Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "dokuz-eylul__turk-hukuk-tarihi-yillik",
+      "title": "DEÜ Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "hacettepe__turk-hukuk-tarihi-donem-1",
+      "title": "Hacettepe Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "hacettepe__turk-hukuk-tarihi-donem-2",
+      "title": "Hacettepe Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "hacettepe__turk-hukuk-tarihi-yillik",
+      "title": "Hacettepe Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "ankara-hacibayram__turk-hukuk-tarihi-donem-1",
+      "title": "AHBV Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "ankara-hacibayram__turk-hukuk-tarihi-donem-2",
+      "title": "AHBV Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "ankara-hacibayram__turk-hukuk-tarihi-yillik",
+      "title": "AHBV Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "bilkent__turk-hukuk-tarihi-donem-1",
+      "title": "Bilkent Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "bilkent__turk-hukuk-tarihi-donem-2",
+      "title": "Bilkent Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "bilkent__turk-hukuk-tarihi-yillik",
+      "title": "Bilkent Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "koc__turk-hukuk-tarihi-donem-1",
+      "title": "Koç Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "koc__turk-hukuk-tarihi-donem-2",
+      "title": "Koç Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "koc__turk-hukuk-tarihi-yillik",
+      "title": "Koç Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "tobb-etu__turk-hukuk-tarihi-donem-1",
+      "title": "TOBB ETÜ Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "tobb-etu__turk-hukuk-tarihi-donem-2",
+      "title": "TOBB ETÜ Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "tobb-etu__turk-hukuk-tarihi-yillik",
+      "title": "TOBB ETÜ Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "bogazici__turk-hukuk-tarihi-donem-1",
+      "title": "BÜ Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "bogazici__turk-hukuk-tarihi-donem-2",
+      "title": "BÜ Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "bogazici__turk-hukuk-tarihi-yillik",
+      "title": "BÜ Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "ege__turk-hukuk-tarihi-donem-1",
+      "title": "Ege Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "ege__turk-hukuk-tarihi-donem-2",
+      "title": "Ege Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "ege__turk-hukuk-tarihi-yillik",
+      "title": "Ege Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "akdeniz__turk-hukuk-tarihi-donem-1",
+      "title": "Akdeniz Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "akdeniz__turk-hukuk-tarihi-donem-2",
+      "title": "Akdeniz Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "akdeniz__turk-hukuk-tarihi-yillik",
+      "title": "Akdeniz Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "selcuk__turk-hukuk-tarihi-donem-1",
+      "title": "Selçuk Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "selcuk__turk-hukuk-tarihi-donem-2",
+      "title": "Selçuk Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "selcuk__turk-hukuk-tarihi-yillik",
+      "title": "Selçuk Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "erciyes__turk-hukuk-tarihi-donem-1",
+      "title": "Erciyes Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "erciyes__turk-hukuk-tarihi-donem-2",
+      "title": "Erciyes Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "erciyes__turk-hukuk-tarihi-yillik",
+      "title": "Erciyes Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "uludag__turk-hukuk-tarihi-donem-1",
+      "title": "Uludağ Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "uludag__turk-hukuk-tarihi-donem-2",
+      "title": "Uludağ Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "uludag__turk-hukuk-tarihi-yillik",
+      "title": "Uludağ Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "cukurova__turk-hukuk-tarihi-donem-1",
+      "title": "Çukurova Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "cukurova__turk-hukuk-tarihi-donem-2",
+      "title": "Çukurova Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "cukurova__turk-hukuk-tarihi-yillik",
+      "title": "Çukurova Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "anadolu__turk-hukuk-tarihi-donem-1",
+      "title": "Anadolu Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "anadolu__turk-hukuk-tarihi-donem-2",
+      "title": "Anadolu Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "anadolu__turk-hukuk-tarihi-yillik",
+      "title": "Anadolu Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "gazi-ankara__turk-hukuk-tarihi-donem-1",
+      "title": "ASBÜ Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "gazi-ankara__turk-hukuk-tarihi-donem-2",
+      "title": "ASBÜ Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "gazi-ankara__turk-hukuk-tarihi-yillik",
+      "title": "ASBÜ Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "yildiz-teknik__turk-hukuk-tarihi-donem-1",
+      "title": "YTÜ Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "yildiz-teknik__turk-hukuk-tarihi-donem-2",
+      "title": "YTÜ Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "yildiz-teknik__turk-hukuk-tarihi-yillik",
+      "title": "YTÜ Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "istanbul-medeniyet__turk-hukuk-tarihi-donem-1",
+      "title": "Medeniyet Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "istanbul-medeniyet__turk-hukuk-tarihi-donem-2",
+      "title": "Medeniyet Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "istanbul-medeniyet__turk-hukuk-tarihi-yillik",
+      "title": "Medeniyet Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "bahcesehir__turk-hukuk-tarihi-donem-1",
+      "title": "BAU Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "bahcesehir__turk-hukuk-tarihi-donem-2",
+      "title": "BAU Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "bahcesehir__turk-hukuk-tarihi-yillik",
+      "title": "BAU Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "yeditepe__turk-hukuk-tarihi-donem-1",
+      "title": "Yeditepe Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "yeditepe__turk-hukuk-tarihi-donem-2",
+      "title": "Yeditepe Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "yeditepe__turk-hukuk-tarihi-yillik",
+      "title": "Yeditepe Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "ozyegin__turk-hukuk-tarihi-donem-1",
+      "title": "Özyeğin Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "ozyegin__turk-hukuk-tarihi-donem-2",
+      "title": "Özyeğin Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "ozyegin__turk-hukuk-tarihi-yillik",
+      "title": "Özyeğin Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "kadir-has__turk-hukuk-tarihi-donem-1",
+      "title": "KHAS Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "kadir-has__turk-hukuk-tarihi-donem-2",
+      "title": "KHAS Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "kadir-has__turk-hukuk-tarihi-yillik",
+      "title": "KHAS Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "istanbul-bilgi__turk-hukuk-tarihi-donem-1",
+      "title": "Bilgi Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "istanbul-bilgi__turk-hukuk-tarihi-donem-2",
+      "title": "Bilgi Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "istanbul-bilgi__turk-hukuk-tarihi-yillik",
+      "title": "Bilgi Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "mehmet-akif__turk-hukuk-tarihi-donem-1",
+      "title": "Medipol Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "mehmet-akif__turk-hukuk-tarihi-donem-2",
+      "title": "Medipol Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "mehmet-akif__turk-hukuk-tarihi-yillik",
+      "title": "Medipol Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "altinbas__turk-hukuk-tarihi-donem-1",
+      "title": "Altınbaş Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "altinbas__turk-hukuk-tarihi-donem-2",
+      "title": "Altınbaş Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "altinbas__turk-hukuk-tarihi-yillik",
+      "title": "Altınbaş Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "maltepe__turk-hukuk-tarihi-donem-1",
+      "title": "Maltepe Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "maltepe__turk-hukuk-tarihi-donem-2",
+      "title": "Maltepe Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "maltepe__turk-hukuk-tarihi-yillik",
+      "title": "Maltepe Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "dogus__turk-hukuk-tarihi-donem-1",
+      "title": "Doğuş Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "dogus__turk-hukuk-tarihi-donem-2",
+      "title": "Doğuş Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "dogus__turk-hukuk-tarihi-yillik",
+      "title": "Doğuş Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "isik__turk-hukuk-tarihi-donem-1",
+      "title": "Işık Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "isik__turk-hukuk-tarihi-donem-2",
+      "title": "Işık Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "isik__turk-hukuk-tarihi-yillik",
+      "title": "Işık Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "okan__turk-hukuk-tarihi-donem-1",
+      "title": "Okan Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "okan__turk-hukuk-tarihi-donem-2",
+      "title": "Okan Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "okan__turk-hukuk-tarihi-yillik",
+      "title": "Okan Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "kultur__turk-hukuk-tarihi-donem-1",
+      "title": "İKÜ Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "kultur__turk-hukuk-tarihi-donem-2",
+      "title": "İKÜ Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "kultur__turk-hukuk-tarihi-yillik",
+      "title": "İKÜ Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "aydin__turk-hukuk-tarihi-donem-1",
+      "title": "İAÜ Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "aydin__turk-hukuk-tarihi-donem-2",
+      "title": "İAÜ Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "aydin__turk-hukuk-tarihi-yillik",
+      "title": "İAÜ Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "gelisim__turk-hukuk-tarihi-donem-1",
+      "title": "Gelişim Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "gelisim__turk-hukuk-tarihi-donem-2",
+      "title": "Gelişim Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "gelisim__turk-hukuk-tarihi-yillik",
+      "title": "Gelişim Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "topkapi__turk-hukuk-tarihi-donem-1",
+      "title": "Topkapı Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "topkapi__turk-hukuk-tarihi-donem-2",
+      "title": "Topkapı Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "topkapi__turk-hukuk-tarihi-yillik",
+      "title": "Topkapı Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "nisantasi__turk-hukuk-tarihi-donem-1",
+      "title": "Nişantaşı Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "nisantasi__turk-hukuk-tarihi-donem-2",
+      "title": "Nişantaşı Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "nisantasi__turk-hukuk-tarihi-yillik",
+      "title": "Nişantaşı Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "beykent__turk-hukuk-tarihi-donem-1",
+      "title": "Beykent Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "beykent__turk-hukuk-tarihi-donem-2",
+      "title": "Beykent Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "beykent__turk-hukuk-tarihi-yillik",
+      "title": "Beykent Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "halic__turk-hukuk-tarihi-donem-1",
+      "title": "Haliç Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "halic__turk-hukuk-tarihi-donem-2",
+      "title": "Haliç Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "halic__turk-hukuk-tarihi-yillik",
+      "title": "Haliç Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "fatih-sultan__turk-hukuk-tarihi-donem-1",
+      "title": "FSMVÜ Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "fatih-sultan__turk-hukuk-tarihi-donem-2",
+      "title": "FSMVÜ Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "fatih-sultan__turk-hukuk-tarihi-yillik",
+      "title": "FSMVÜ Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "karadeniz-teknik__turk-hukuk-tarihi-donem-1",
+      "title": "KTÜ Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "karadeniz-teknik__turk-hukuk-tarihi-donem-2",
+      "title": "KTÜ Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "karadeniz-teknik__turk-hukuk-tarihi-yillik",
+      "title": "KTÜ Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "ataturk__turk-hukuk-tarihi-donem-1",
+      "title": "Atatürk Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "ataturk__turk-hukuk-tarihi-donem-2",
+      "title": "Atatürk Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "ataturk__turk-hukuk-tarihi-yillik",
+      "title": "Atatürk Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "inonu__turk-hukuk-tarihi-donem-1",
+      "title": "İnönü Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "inonu__turk-hukuk-tarihi-donem-2",
+      "title": "İnönü Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "inonu__turk-hukuk-tarihi-yillik",
+      "title": "İnönü Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "dicle__turk-hukuk-tarihi-donem-1",
+      "title": "Dicle Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "dicle__turk-hukuk-tarihi-donem-2",
+      "title": "Dicle Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "dicle__turk-hukuk-tarihi-yillik",
+      "title": "Dicle Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "firat__turk-hukuk-tarihi-donem-1",
+      "title": "Fırat Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "firat__turk-hukuk-tarihi-donem-2",
+      "title": "Fırat Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "firat__turk-hukuk-tarihi-yillik",
+      "title": "Fırat Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "gaziantep__turk-hukuk-tarihi-donem-1",
+      "title": "GAÜN Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "gaziantep__turk-hukuk-tarihi-donem-2",
+      "title": "GAÜN Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "gaziantep__turk-hukuk-tarihi-yillik",
+      "title": "GAÜN Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "suleyman-demirel__turk-hukuk-tarihi-donem-1",
+      "title": "SDÜ Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "suleyman-demirel__turk-hukuk-tarihi-donem-2",
+      "title": "SDÜ Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "suleyman-demirel__turk-hukuk-tarihi-yillik",
+      "title": "SDÜ Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "pamukkale__turk-hukuk-tarihi-donem-1",
+      "title": "PAÜ Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "pamukkale__turk-hukuk-tarihi-donem-2",
+      "title": "PAÜ Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "pamukkale__turk-hukuk-tarihi-yillik",
+      "title": "PAÜ Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "mugla__turk-hukuk-tarihi-donem-1",
+      "title": "MSKU Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "mugla__turk-hukuk-tarihi-donem-2",
+      "title": "MSKU Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "mugla__turk-hukuk-tarihi-yillik",
+      "title": "MSKU Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "sakarya__turk-hukuk-tarihi-donem-1",
+      "title": "SAÜ Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "sakarya__turk-hukuk-tarihi-donem-2",
+      "title": "SAÜ Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "sakarya__turk-hukuk-tarihi-yillik",
+      "title": "SAÜ Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "kocaeli__turk-hukuk-tarihi-donem-1",
+      "title": "KOÜ Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "kocaeli__turk-hukuk-tarihi-donem-2",
+      "title": "KOÜ Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "kocaeli__turk-hukuk-tarihi-yillik",
+      "title": "KOÜ Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "trakya__turk-hukuk-tarihi-donem-1",
+      "title": "Trakya Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "trakya__turk-hukuk-tarihi-donem-2",
+      "title": "Trakya Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "trakya__turk-hukuk-tarihi-yillik",
+      "title": "Trakya Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "canakkale__turk-hukuk-tarihi-donem-1",
+      "title": "ÇOMÜ Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "canakkale__turk-hukuk-tarihi-donem-2",
+      "title": "ÇOMÜ Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "canakkale__turk-hukuk-tarihi-yillik",
+      "title": "ÇOMÜ Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "balikesir__turk-hukuk-tarihi-donem-1",
+      "title": "BAÜN Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "balikesir__turk-hukuk-tarihi-donem-2",
+      "title": "BAÜN Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "balikesir__turk-hukuk-tarihi-yillik",
+      "title": "BAÜN Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "afyon__turk-hukuk-tarihi-donem-1",
+      "title": "AKÜ Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "afyon__turk-hukuk-tarihi-donem-2",
+      "title": "AKÜ Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "afyon__turk-hukuk-tarihi-yillik",
+      "title": "AKÜ Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "dumlupinar__turk-hukuk-tarihi-donem-1",
+      "title": "DPÜ Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "dumlupinar__turk-hukuk-tarihi-donem-2",
+      "title": "DPÜ Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "dumlupinar__turk-hukuk-tarihi-yillik",
+      "title": "DPÜ Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "eskisehir-osmangazi__turk-hukuk-tarihi-donem-1",
+      "title": "ESOGÜ Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "eskisehir-osmangazi__turk-hukuk-tarihi-donem-2",
+      "title": "ESOGÜ Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "eskisehir-osmangazi__turk-hukuk-tarihi-yillik",
+      "title": "ESOGÜ Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "sivas-cumhuriyet__turk-hukuk-tarihi-donem-1",
+      "title": "SCÜ Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "sivas-cumhuriyet__turk-hukuk-tarihi-donem-2",
+      "title": "SCÜ Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "sivas-cumhuriyet__turk-hukuk-tarihi-yillik",
+      "title": "SCÜ Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "tokat__turk-hukuk-tarihi-donem-1",
+      "title": "TOGÜ Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "tokat__turk-hukuk-tarihi-donem-2",
+      "title": "TOGÜ Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "tokat__turk-hukuk-tarihi-yillik",
+      "title": "TOGÜ Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "yozgat__turk-hukuk-tarihi-donem-1",
+      "title": "Bozok Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "yozgat__turk-hukuk-tarihi-donem-2",
+      "title": "Bozok Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "yozgat__turk-hukuk-tarihi-yillik",
+      "title": "Bozok Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "kirsehir__turk-hukuk-tarihi-donem-1",
+      "title": "AHİEVRAN Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "kirsehir__turk-hukuk-tarihi-donem-2",
+      "title": "AHİEVRAN Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "kirsehir__turk-hukuk-tarihi-yillik",
+      "title": "AHİEVRAN Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "nevsehir__turk-hukuk-tarihi-donem-1",
+      "title": "NEVÜ Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "nevsehir__turk-hukuk-tarihi-donem-2",
+      "title": "NEVÜ Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "nevsehir__turk-hukuk-tarihi-yillik",
+      "title": "NEVÜ Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "mersin__turk-hukuk-tarihi-donem-1",
+      "title": "MEÜ Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "mersin__turk-hukuk-tarihi-donem-2",
+      "title": "MEÜ Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "mersin__turk-hukuk-tarihi-yillik",
+      "title": "MEÜ Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "hatay__turk-hukuk-tarihi-donem-1",
+      "title": "MKÜ Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "hatay__turk-hukuk-tarihi-donem-2",
+      "title": "MKÜ Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "hatay__turk-hukuk-tarihi-yillik",
+      "title": "MKÜ Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "kahramanmaras__turk-hukuk-tarihi-donem-1",
+      "title": "KSÜ Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "kahramanmaras__turk-hukuk-tarihi-donem-2",
+      "title": "KSÜ Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "kahramanmaras__turk-hukuk-tarihi-yillik",
+      "title": "KSÜ Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "osmaniye__turk-hukuk-tarihi-donem-1",
+      "title": "OKÜ Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "osmaniye__turk-hukuk-tarihi-donem-2",
+      "title": "OKÜ Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "osmaniye__turk-hukuk-tarihi-yillik",
+      "title": "OKÜ Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "samsun__turk-hukuk-tarihi-donem-1",
+      "title": "OMÜ Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "samsun__turk-hukuk-tarihi-donem-2",
+      "title": "OMÜ Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "samsun__turk-hukuk-tarihi-yillik",
+      "title": "OMÜ Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "ordu__turk-hukuk-tarihi-donem-1",
+      "title": "ODÜ Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "ordu__turk-hukuk-tarihi-donem-2",
+      "title": "ODÜ Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "ordu__turk-hukuk-tarihi-yillik",
+      "title": "ODÜ Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "giresun__turk-hukuk-tarihi-donem-1",
+      "title": "GÜ Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "giresun__turk-hukuk-tarihi-donem-2",
+      "title": "GÜ Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "giresun__turk-hukuk-tarihi-yillik",
+      "title": "GÜ Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "rize__turk-hukuk-tarihi-donem-1",
+      "title": "RTEÜ Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "rize__turk-hukuk-tarihi-donem-2",
+      "title": "RTEÜ Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "rize__turk-hukuk-tarihi-yillik",
+      "title": "RTEÜ Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "artvin__turk-hukuk-tarihi-donem-1",
+      "title": "AÇÜ Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "artvin__turk-hukuk-tarihi-donem-2",
+      "title": "AÇÜ Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "artvin__turk-hukuk-tarihi-yillik",
+      "title": "AÇÜ Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "van-yyu__turk-hukuk-tarihi-donem-1",
+      "title": "YYÜ Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "van-yyu__turk-hukuk-tarihi-donem-2",
+      "title": "YYÜ Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "van-yyu__turk-hukuk-tarihi-yillik",
+      "title": "YYÜ Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "agri__turk-hukuk-tarihi-donem-1",
+      "title": "AİÇÜ Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "agri__turk-hukuk-tarihi-donem-2",
+      "title": "AİÇÜ Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "agri__turk-hukuk-tarihi-yillik",
+      "title": "AİÇÜ Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "kars__turk-hukuk-tarihi-donem-1",
+      "title": "Kafkas Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "kars__turk-hukuk-tarihi-donem-2",
+      "title": "Kafkas Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "kars__turk-hukuk-tarihi-yillik",
+      "title": "Kafkas Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "erzincan__turk-hukuk-tarihi-donem-1",
+      "title": "EBYÜ Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "erzincan__turk-hukuk-tarihi-donem-2",
+      "title": "EBYÜ Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "erzincan__turk-hukuk-tarihi-yillik",
+      "title": "EBYÜ Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "bayburt__turk-hukuk-tarihi-donem-1",
+      "title": "Bayburt Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "bayburt__turk-hukuk-tarihi-donem-2",
+      "title": "Bayburt Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "bayburt__turk-hukuk-tarihi-yillik",
+      "title": "Bayburt Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "gumushane__turk-hukuk-tarihi-donem-1",
+      "title": "Gümüşhane Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "gumushane__turk-hukuk-tarihi-donem-2",
+      "title": "Gümüşhane Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "gumushane__turk-hukuk-tarihi-yillik",
+      "title": "Gümüşhane Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "bingol__turk-hukuk-tarihi-donem-1",
+      "title": "Bingöl Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "bingol__turk-hukuk-tarihi-donem-2",
+      "title": "Bingöl Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "bingol__turk-hukuk-tarihi-yillik",
+      "title": "Bingöl Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "mus__turk-hukuk-tarihi-donem-1",
+      "title": "Muş Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "mus__turk-hukuk-tarihi-donem-2",
+      "title": "Muş Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "mus__turk-hukuk-tarihi-yillik",
+      "title": "Muş Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "hakkari__turk-hukuk-tarihi-donem-1",
+      "title": "Hakkâri Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "hakkari__turk-hukuk-tarihi-donem-2",
+      "title": "Hakkâri Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "hakkari__turk-hukuk-tarihi-yillik",
+      "title": "Hakkâri Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "sirnak__turk-hukuk-tarihi-donem-1",
+      "title": "Şırnak Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "sirnak__turk-hukuk-tarihi-donem-2",
+      "title": "Şırnak Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "sirnak__turk-hukuk-tarihi-yillik",
+      "title": "Şırnak Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "mardin__turk-hukuk-tarihi-donem-1",
+      "title": "Artuklu Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "mardin__turk-hukuk-tarihi-donem-2",
+      "title": "Artuklu Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "mardin__turk-hukuk-tarihi-yillik",
+      "title": "Artuklu Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "batman__turk-hukuk-tarihi-donem-1",
+      "title": "Batman Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "batman__turk-hukuk-tarihi-donem-2",
+      "title": "Batman Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "batman__turk-hukuk-tarihi-yillik",
+      "title": "Batman Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "siirt__turk-hukuk-tarihi-donem-1",
+      "title": "Siirt Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "siirt__turk-hukuk-tarihi-donem-2",
+      "title": "Siirt Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "siirt__turk-hukuk-tarihi-yillik",
+      "title": "Siirt Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "adiyaman__turk-hukuk-tarihi-donem-1",
+      "title": "Adıyaman Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "adiyaman__turk-hukuk-tarihi-donem-2",
+      "title": "Adıyaman Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "adiyaman__turk-hukuk-tarihi-yillik",
+      "title": "Adıyaman Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "kilis__turk-hukuk-tarihi-donem-1",
+      "title": "Kilis Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "kilis__turk-hukuk-tarihi-donem-2",
+      "title": "Kilis Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "kilis__turk-hukuk-tarihi-yillik",
+      "title": "Kilis Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "igdir__turk-hukuk-tarihi-donem-1",
+      "title": "Iğdır Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "igdir__turk-hukuk-tarihi-donem-2",
+      "title": "Iğdır Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "igdir__turk-hukuk-tarihi-yillik",
+      "title": "Iğdır Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "ardahan__turk-hukuk-tarihi-donem-1",
+      "title": "Ardahan Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "ardahan__turk-hukuk-tarihi-donem-2",
+      "title": "Ardahan Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "ardahan__turk-hukuk-tarihi-yillik",
+      "title": "Ardahan Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "bilecik__turk-hukuk-tarihi-donem-1",
+      "title": "BŞEÜ Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "bilecik__turk-hukuk-tarihi-donem-2",
+      "title": "BŞEÜ Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "bilecik__turk-hukuk-tarihi-yillik",
+      "title": "BŞEÜ Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "bolu__turk-hukuk-tarihi-donem-1",
+      "title": "BAİBÜ Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "bolu__turk-hukuk-tarihi-donem-2",
+      "title": "BAİBÜ Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "bolu__turk-hukuk-tarihi-yillik",
+      "title": "BAİBÜ Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "duzce__turk-hukuk-tarihi-donem-1",
+      "title": "Düzce Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "duzce__turk-hukuk-tarihi-donem-2",
+      "title": "Düzce Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "duzce__turk-hukuk-tarihi-yillik",
+      "title": "Düzce Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "zonguldak__turk-hukuk-tarihi-donem-1",
+      "title": "BEÜN Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "zonguldak__turk-hukuk-tarihi-donem-2",
+      "title": "BEÜN Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "zonguldak__turk-hukuk-tarihi-yillik",
+      "title": "BEÜN Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "karabuk__turk-hukuk-tarihi-donem-1",
+      "title": "KBÜ Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "karabuk__turk-hukuk-tarihi-donem-2",
+      "title": "KBÜ Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "karabuk__turk-hukuk-tarihi-yillik",
+      "title": "KBÜ Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "kastamonu__turk-hukuk-tarihi-donem-1",
+      "title": "KÜ Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "kastamonu__turk-hukuk-tarihi-donem-2",
+      "title": "KÜ Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "kastamonu__turk-hukuk-tarihi-yillik",
+      "title": "KÜ Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "sinop__turk-hukuk-tarihi-donem-1",
+      "title": "Sinop Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "sinop__turk-hukuk-tarihi-donem-2",
+      "title": "Sinop Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "sinop__turk-hukuk-tarihi-yillik",
+      "title": "Sinop Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "corum__turk-hukuk-tarihi-donem-1",
+      "title": "Hitit Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "corum__turk-hukuk-tarihi-donem-2",
+      "title": "Hitit Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "corum__turk-hukuk-tarihi-yillik",
+      "title": "Hitit Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "amasya__turk-hukuk-tarihi-donem-1",
+      "title": "Amasya Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "amasya__turk-hukuk-tarihi-donem-2",
+      "title": "Amasya Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "amasya__turk-hukuk-tarihi-yillik",
+      "title": "Amasya Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "cankiri__turk-hukuk-tarihi-donem-1",
+      "title": "Karatekin Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "cankiri__turk-hukuk-tarihi-donem-2",
+      "title": "Karatekin Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "cankiri__turk-hukuk-tarihi-yillik",
+      "title": "Karatekin Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "kirikkale__turk-hukuk-tarihi-donem-1",
+      "title": "Kırıkkale Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "kirikkale__turk-hukuk-tarihi-donem-2",
+      "title": "Kırıkkale Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "kirikkale__turk-hukuk-tarihi-yillik",
+      "title": "Kırıkkale Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "aksaray__turk-hukuk-tarihi-donem-1",
+      "title": "Aksaray Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "aksaray__turk-hukuk-tarihi-donem-2",
+      "title": "Aksaray Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "aksaray__turk-hukuk-tarihi-yillik",
+      "title": "Aksaray Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "nigde__turk-hukuk-tarihi-donem-1",
+      "title": "ÖHÜ Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "nigde__turk-hukuk-tarihi-donem-2",
+      "title": "ÖHÜ Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "nigde__turk-hukuk-tarihi-yillik",
+      "title": "ÖHÜ Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "konya-teknik__turk-hukuk-tarihi-donem-1",
+      "title": "NEÜ Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "konya-teknik__turk-hukuk-tarihi-donem-2",
+      "title": "NEÜ Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "konya-teknik__turk-hukuk-tarihi-yillik",
+      "title": "NEÜ Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "karaman__turk-hukuk-tarihi-donem-1",
+      "title": "KMÜ Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "karaman__turk-hukuk-tarihi-donem-2",
+      "title": "KMÜ Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "karaman__turk-hukuk-tarihi-yillik",
+      "title": "KMÜ Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "usak__turk-hukuk-tarihi-donem-1",
+      "title": "Uşak Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "usak__turk-hukuk-tarihi-donem-2",
+      "title": "Uşak Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "usak__turk-hukuk-tarihi-yillik",
+      "title": "Uşak Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "manisa__turk-hukuk-tarihi-donem-1",
+      "title": "MCBÜ Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "manisa__turk-hukuk-tarihi-donem-2",
+      "title": "MCBÜ Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "manisa__turk-hukuk-tarihi-yillik",
+      "title": "MCBÜ Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "aydin-adu__turk-hukuk-tarihi-donem-1",
+      "title": "ADÜ Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "aydin-adu__turk-hukuk-tarihi-donem-2",
+      "title": "ADÜ Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "aydin-adu__turk-hukuk-tarihi-yillik",
+      "title": "ADÜ Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "tekirdag__turk-hukuk-tarihi-donem-1",
+      "title": "NKÜ Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "tekirdag__turk-hukuk-tarihi-donem-2",
+      "title": "NKÜ Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "tekirdag__turk-hukuk-tarihi-yillik",
+      "title": "NKÜ Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "kirklareli__turk-hukuk-tarihi-donem-1",
+      "title": "Kırklareli Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "kirklareli__turk-hukuk-tarihi-donem-2",
+      "title": "Kırklareli Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "kirklareli__turk-hukuk-tarihi-yillik",
+      "title": "Kırklareli Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "atilim__turk-hukuk-tarihi-donem-1",
+      "title": "Atılım Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "atilim__turk-hukuk-tarihi-donem-2",
+      "title": "Atılım Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "atilim__turk-hukuk-tarihi-yillik",
+      "title": "Atılım Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "cankaya__turk-hukuk-tarihi-donem-1",
+      "title": "Çankaya Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "cankaya__turk-hukuk-tarihi-donem-2",
+      "title": "Çankaya Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "cankaya__turk-hukuk-tarihi-yillik",
+      "title": "Çankaya Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "ufuk__turk-hukuk-tarihi-donem-1",
+      "title": "Ufuk Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "ufuk__turk-hukuk-tarihi-donem-2",
+      "title": "Ufuk Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "ufuk__turk-hukuk-tarihi-yillik",
+      "title": "Ufuk Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "yasar__turk-hukuk-tarihi-donem-1",
+      "title": "Yaşar Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "yasar__turk-hukuk-tarihi-donem-2",
+      "title": "Yaşar Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "yasar__turk-hukuk-tarihi-yillik",
+      "title": "Yaşar Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "izmir-ekonomi__turk-hukuk-tarihi-donem-1",
+      "title": "İEÜ Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "izmir-ekonomi__turk-hukuk-tarihi-donem-2",
+      "title": "İEÜ Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "izmir-ekonomi__turk-hukuk-tarihi-yillik",
+      "title": "İEÜ Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "tinaztepe__turk-hukuk-tarihi-donem-1",
+      "title": "Tınaztepe Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "tinaztepe__turk-hukuk-tarihi-donem-2",
+      "title": "Tınaztepe Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "tinaztepe__turk-hukuk-tarihi-yillik",
+      "title": "Tınaztepe Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "asbu-vakif__turk-hukuk-tarihi-donem-1",
+      "title": "ABÜ Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "asbu-vakif__turk-hukuk-tarihi-donem-2",
+      "title": "ABÜ Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "asbu-vakif__turk-hukuk-tarihi-yillik",
+      "title": "ABÜ Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "hasan-kalyoncu__turk-hukuk-tarihi-donem-1",
+      "title": "HKÜ Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "hasan-kalyoncu__turk-hukuk-tarihi-donem-2",
+      "title": "HKÜ Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "hasan-kalyoncu__turk-hukuk-tarihi-yillik",
+      "title": "HKÜ Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "sanko__turk-hukuk-tarihi-donem-1",
+      "title": "Sanko Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "sanko__turk-hukuk-tarihi-donem-2",
+      "title": "Sanko Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "sanko__turk-hukuk-tarihi-yillik",
+      "title": "Sanko Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "toros__turk-hukuk-tarihi-donem-1",
+      "title": "Toros Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "toros__turk-hukuk-tarihi-donem-2",
+      "title": "Toros Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "toros__turk-hukuk-tarihi-yillik",
+      "title": "Toros Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "turk-hukuk-tarihi-donem-1",
+      "slug": "cag__turk-hukuk-tarihi-donem-1",
+      "title": "Çağ Türk Hukuk Tarihi 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/turk-hukuk-tarihi-donem-1",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "turk-hukuk-tarihi-donem-2",
+      "slug": "cag__turk-hukuk-tarihi-donem-2",
+      "title": "Çağ Türk Hukuk Tarihi 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/turk-hukuk-tarihi-donem-2",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "turk-hukuk-tarihi-yillik",
+      "slug": "cag__turk-hukuk-tarihi-yillik",
+      "title": "Çağ Türk Hukuk Tarihi Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/turk-hukuk-tarihi-yillik",
+      "variantOf": "turk-hukuk-tarihi",
+      "variantLabel": "Yıllık (Tam paket)"
     }
   ],
   "borclarGenelTripleAt": "2026-07-29T20:05:58.703Z",
@@ -131320,5 +134560,6 @@
   "hukukSosyolojisiTripleAt": "2026-07-29T21:41:19.291Z",
   "isHukukuTripleAt": "2026-07-29T21:44:20.241Z",
   "adliTipTripleAt": "2026-07-29T21:47:28.757Z",
-  "denizTicaretiTripleAt": "2026-07-29T21:51:09.739Z"
+  "denizTicaretiTripleAt": "2026-07-29T21:51:09.739Z",
+  "turkHukukTarihiTripleAt": "2026-07-29T21:54:53.702Z"
 }

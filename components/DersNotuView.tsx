@@ -914,6 +914,36 @@ export function DersNotuView({
               </p>
             ),
           },
+          {
+            match:
+              note.variantOf === 'turk-hukuk-tarihi' ||
+              note.courseCode === 'turk-hukuk-tarihi' ||
+              note.courseCode.startsWith('turk-hukuk-tarihi-'),
+            title: 'Türk Hukuk Tarihi · üç paket',
+            items: [
+              { code: 'turk-hukuk-tarihi-donem-1', label: '1. Dönem (Güz)', desc: 'Şer’i–örfi · kadı · kanunname' },
+              { code: 'turk-hukuk-tarihi-donem-2', label: '2. Dönem (Bahar)', desc: 'Tanzimat · Mecelle · 1926' },
+              { code: 'turk-hukuk-tarihi-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
+            ],
+            footer: (
+              <p className="text-[11px] text-charcoal/45 mt-3 m-0">
+                Tarih–kavram omurgası için:{' '}
+                <Link
+                  href={`/ders-notlari/${note.uniSlug}/roma-hukuku-yillik`}
+                  className="text-accent font-semibold hover:underline"
+                >
+                  Roma Hukuku yıllık
+                </Link>
+                {' · '}
+                <Link
+                  href={`/ders-notlari/${note.uniSlug}/hukuka-giris-yillik`}
+                  className="text-accent font-semibold hover:underline"
+                >
+                  Hukuka Giriş yıllık
+                </Link>
+              </p>
+            ),
+          },
         ];
         const activePacks = packs.filter((p) => p.match);
         if (!activePacks.length) return null;
@@ -1809,6 +1839,23 @@ export function UniHubView({ hub }: { hub: UniHubContent }) {
               { code: 'deniz-ticareti-donem-1', title: '1. Dönem (Güz)' },
               { code: 'deniz-ticareti-donem-2', title: '2. Dönem (Bahar)' },
               { code: 'deniz-ticareti-yillik', title: 'Yıllık tam not' },
+            ],
+          },
+          {
+            show: hub.courses.some(
+              (c) =>
+                String(c.code).startsWith('turk-hukuk-tarihi') ||
+                c.code === 'turk-hukuk-tarihi'
+            ),
+            title: 'Türk Hukuk Tarihi — 1. dönem · 2. dönem · yıllık',
+            desc: 'Şer’i–örfi–Tanzimat–Mecelle–resepsiyon… üç premium not + PDF.',
+            border: 'border-primary/20 bg-primary/[0.04]',
+            itemBorder: 'border-primary/25',
+            accent: 'text-primary',
+            items: [
+              { code: 'turk-hukuk-tarihi-donem-1', title: '1. Dönem (Güz)' },
+              { code: 'turk-hukuk-tarihi-donem-2', title: '2. Dönem (Bahar)' },
+              { code: 'turk-hukuk-tarihi-yillik', title: 'Yıllık tam not' },
             ],
           },
         ]

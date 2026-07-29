@@ -231,6 +231,11 @@ const PRIORITY = [
   `https://${HOST}/ders-notlari/ankara-yildirim-beyazit/deniz-ticareti-yillik`,
   `https://${HOST}/ders-notlari/ankara-yildirim-beyazit/deniz-ticareti-donem-1/pdf`,
   `https://${HOST}/ders-notlari/marmara/deniz-ticareti-yillik`,
+  `https://${HOST}/ders-notlari/ankara-yildirim-beyazit/turk-hukuk-tarihi-donem-1`,
+  `https://${HOST}/ders-notlari/ankara-yildirim-beyazit/turk-hukuk-tarihi-donem-2`,
+  `https://${HOST}/ders-notlari/ankara-yildirim-beyazit/turk-hukuk-tarihi-yillik`,
+  `https://${HOST}/ders-notlari/ankara-yildirim-beyazit/turk-hukuk-tarihi-donem-1/pdf`,
+  `https://${HOST}/ders-notlari/marmara/turk-hukuk-tarihi-yillik`,
 ];
 
 // First 80 TBK maddeleri — crawl seed
