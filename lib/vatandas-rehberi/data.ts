@@ -14,13 +14,17 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     ],
     "category": "Vergi",
     "related": [
-      "vergi-borcu-yapislandirma",
-      "e-devlet-vergi-borcu",
-      "mtv-nedir",
-      "gelir-vergisi-nedir",
-      "damga-vergisi-nedir",
-      "tapu-devri-nasil-yapilir",
-      "veraset-ilami-nasil-alinir"
+      "veraset-ilami-nasil-alinir",
+      "veraset-ve-intikal-vergisi",
+      "vergi-ziyai-cezasi",
+      "gecikme-zammi-faizi",
+      "muhtasar-beyanname",
+      "e-haciz-nedir",
+      "arac-haczi-nedir",
+      "itirazin-kaldirilmasi",
+      "icra-vekalet-ucreti",
+      "banka-hesap-haczi-maas",
+      "kabul-nedir-usul"
     ],
     "links": [
       {
@@ -324,7 +328,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "veraset-ilami-nasil-alinir",
     "title": "Veraset İlamı Nasıl Alınır? e-Devlet ve Noter",
-    "description": "Veraset ilamı nedir, e-Devlet, noter ve mahkeme yolu, belgeler. Adım adım rehber.",
+    "description": "Veraset ilamı nasıl alınır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosya…",
     "h1": "Veraset ilamı nasıl alınır?",
     "keywords": [
       "veraset ilamı nasıl alınır",
@@ -333,14 +337,17 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     ],
     "category": "Miras",
     "related": [
-      "e-devlet-veraset",
-      "miras-payi-nasil-hesaplanir",
-      "sakli-pay-nedir",
-      "vasiyetname-nasil-yapilir",
-      "mirasin-reddi",
-      "mirascilik-belgesi-nedir",
-      "tenkis-davasi-nedir",
-      "miras-ortakligi-nedir"
+      "olume-bagli-tasarruf",
+      "miras-paylasim-sozlesmesi",
+      "esin-miras-payi",
+      "vasiyetname-iptali",
+      "miras-sebebiyle-istihkak",
+      "e-devlet-miras",
+      "arac-haczi-nedir",
+      "itirazin-kaldirilmasi",
+      "icra-vekalet-ucreti",
+      "banka-hesap-haczi-maas",
+      "kabul-nedir-usul"
     ],
     "links": [
       {
@@ -643,7 +650,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "trafik-cezasina-itiraz",
     "title": "Trafik Cezasına İtiraz Nasıl Yapılır?",
-    "description": "Trafik cezası itiraz süresi, usulü, e-Devlet ve merciler. Adım adım bilgilendirme.",
+    "description": "Trafik cezasına itiraz nasıl yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. S…",
     "h1": "Trafik cezasına itiraz nasıl yapılır?",
     "keywords": [
       "trafik cezasına itiraz",
@@ -652,14 +659,18 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     ],
     "category": "Trafik",
     "related": [
-      "ehliyet-geri-alma",
+      "kusur-orani-trafik",
+      "arac-muayene-gecikme",
+      "trafik-sigortasi-zorunlu",
+      "deger-kaybi-arac",
+      "ehliyet-sinavlari",
+      "src-belgesi-nedir",
+      "psiko-teknik-belge",
+      "trafik-kazasi-manevvi",
       "eds-ceza-sorgulama",
       "trafik-ceza-puani",
       "alkollu-arac-kullanma-cezasi",
-      "idari-para-cezasi-indirim",
-      "trafik-cezasi-pesin-odeme",
-      "idari-dava-nasil-acilir",
-      "tebligat-usulsuzlugu"
+      "trafik-cezasi-pesin-odeme"
     ],
     "links": [
       {
@@ -961,7 +972,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "idari-dava-nasil-acilir",
     "title": "İdari Dava Nasıl Açılır? Süre, Görev ve Dilekçe",
-    "description": "İptal ve tam yargı davası, süre, görevli mahkeme, dilekçe. Vatandaş rehberi.",
+    "description": "İdari dava nasıl açılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada …",
     "h1": "İdari dava nasıl açılır?",
     "keywords": [
       "idari dava nasıl açılır",
@@ -970,14 +981,18 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     ],
     "category": "İdare",
     "related": [
-      "belediye-cezasi-itiraz",
-      "iptal-davasi-nedir",
-      "tam-yargi-davasi",
-      "idari-islem-nedir",
-      "yurutmenin-durdurulmasi",
       "idari-basvuru-yolu",
       "hukuk-davasi-nasil-acilir",
-      "trafik-cezasina-itiraz"
+      "trafik-cezasina-itiraz",
+      "memur-disiplin-cezasi",
+      "dilekce-hakki-3071",
+      "belediye-encumen-karari",
+      "gida-isletme-kayit",
+      "cevre-izin-lisans",
+      "acele-kamulastirma",
+      "idari-para-cezasi-indirim",
+      "tam-yargi-davasi",
+      "idari-islem-nedir"
     ],
     "links": [
       {
@@ -1276,7 +1291,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "hukuk-davasi-nasil-acilir",
     "title": "Hukuk Davası Nasıl Açılır? Görev, Yetki, Harç",
-    "description": "Hukuk davası, görevli mahkeme, harç, tebligat, arabuluculuk dava şartı. Rehber.",
+    "description": "Hukuk davası nasıl açılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyad…",
     "h1": "Hukuk davası nasıl açılır?",
     "keywords": [
       "hukuk davası nasıl açılır",
@@ -1285,14 +1300,18 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     ],
     "category": "Usul",
     "related": [
-      "dava-harci-nedir",
-      "dava-acilmasi-sartlari",
-      "yetkili-mahkeme-nedir",
-      "gorevli-mahkeme-nedir",
-      "dilekce-nasil-yazilir",
-      "gorevsizlik-karari",
-      "yetkisizlik-karari",
-      "idari-dava-nasil-acilir"
+      "arabuluculuk-anlasma-icra",
+      "noter-vekalet-ucreti",
+      "hak-dusurucu-sure",
+      "kesinti-durma-zamansimi",
+      "ispat-yuku",
+      "karine-nedir",
+      "tebligat-kanunu-nedir",
+      "usulsuz-tebligat-ogrenme",
+      "e-tebligat-acmamak",
+      "yargi-giderleri",
+      "delil-tespiti",
+      "ihtiyati-tedbir-itiraz"
     ],
     "links": [
       {
@@ -1590,8 +1609,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "engelli-araci-nasil-alinir",
-    "title": "Engelli aracı",
-    "description": "Engelli aracı. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Engelli aracı — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Engelli aracı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata dan…",
     "h1": "Engelli aracı",
     "keywords": [
       "engelli aracı",
@@ -1601,7 +1620,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     "related": [
       "engelli-raporu-nasil-alinir",
       "emlak-vergisi-nedir",
-      "vergi-borcu-yapislandirma"
+      "vergi-borcu-yapislandirma",
+      "evde-bakim-maasi"
     ],
     "links": [
       {
@@ -1858,7 +1878,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "bosanma-davasi-nasil-acilir",
     "title": "Boşanma Davası Nasıl Açılır? Anlaşmalı ve Çekişmeli",
-    "description": "Anlaşmalı/çekişmeli boşanma, nafaka, velayet, mal rejimi. Adım adım rehber.",
+    "description": "Boşanma davası nasıl açılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosy…",
     "h1": "Boşanma davası nasıl açılır?",
     "keywords": [
       "boşanma davası nasıl açılır",
@@ -1867,14 +1887,18 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     ],
     "category": "Aile",
     "related": [
-      "anlasmali-bosanma-sartlari",
-      "cekismeli-bosanma-sureci",
-      "bosanma-protokolu-ornegi",
-      "hayata-kast-bosanma",
-      "terk-sebebiyle-bosanma",
+      "evlat-edinme",
       "zina-sebebiyle-bosanma",
       "bosanma-sonrasi-soyadi",
-      "bosanma-maaliyeti"
+      "bosanma-maaliyeti",
+      "nisan-bozulmasi-tazminat",
+      "ayrilik-karari-nedir",
+      "siddette-tanik-koruma",
+      "babalik-davasi",
+      "nafaka-indirim-davasi",
+      "islex-nafaka-nedir",
+      "cocuk-teslimi-iade",
+      "aile-mahkamesi-nedir"
     ],
     "links": [
       {
@@ -2176,7 +2200,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "nafaka-davasi-nedir",
     "title": "Nafaka Davası Nedir? Türleri ve Hesaplama",
-    "description": "İştirak, yoksulluk, tedbir nafakası; nasıl istenir. Bilgilendirme rehberi.",
+    "description": "Nafaka davası nedir? Türleri ve süreç hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. S…",
     "h1": "Nafaka davası nedir? Türleri ve süreç",
     "keywords": [
       "nafaka davası",
@@ -2185,14 +2209,18 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     ],
     "category": "Aile",
     "related": [
-      "cocuk-nafaka-artirim",
-      "nafaka-odenmezse",
       "tedbir-nafakasi-nedir",
       "yoksulluk-nafakasi-sartlari",
       "istirak-nafakasi-nedir",
       "nafaka-artirim-davasi",
       "nafaka-indirim-davasi",
-      "islex-nafaka-nedir"
+      "islex-nafaka-nedir",
+      "bosanma-protokolu-ornegi",
+      "hayata-kast-bosanma",
+      "terk-sebebiyle-bosanma",
+      "zina-sebebiyle-bosanma",
+      "bosanma-maaliyeti",
+      "aile-mahkamesi-nedir"
     ],
     "links": [
       {
@@ -2494,7 +2522,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "icra-takibi-nedir",
     "title": "İcra Takibi Nedir? Nasıl Başlatılır ve Durdurulur?",
-    "description": "İlamlı/ilamsız takip, ödeme emri, haciz, itiraz. Sade anlatım.",
+    "description": "İcra takibi nedir? Nasıl işler? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut d…",
     "h1": "İcra takibi nedir? Nasıl işler?",
     "keywords": [
       "icra takibi nedir",
@@ -2503,14 +2531,18 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     ],
     "category": "İcra",
     "related": [
-      "odeme-emrine-itiraz",
-      "icra-dosyasi-sorgulama",
-      "senet-icra-takibi",
-      "ihtiyati-haciz-nedir",
-      "haciz-nasil-kaldirilir",
-      "iflas-nedir",
-      "icra-inkar-tazminati",
-      "e-devlet-icra"
+      "emekli-maas-haczi",
+      "kidem-tazminati-haczi",
+      "nafaka-alacaklisi-oncelik",
+      "iscilik-alacagi-oncelik",
+      "rehinli-alacak",
+      "teminat-hesabi-icra",
+      "ihale-feshi-davasi",
+      "satis-bedeli-paylasim",
+      "borclu-olmadiginin-tespiti",
+      "icra-taahudu",
+      "tazyik-hapsi",
+      "disciplin-hapsi"
     ],
     "links": [
       {
@@ -2811,8 +2843,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "odeme-emrine-itiraz",
-    "title": "Ödeme Emrine İtiraz (7 Gün)",
-    "description": "İlamsız takipte 7 günlük itiraz. Genel icra süreci ana rehberde.",
+    "title": "Ödeme emrine itiraz nasıl yapılır — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Ödeme emrine itiraz nasıl yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somu…",
     "h1": "Ödeme emrine itiraz nasıl yapılır?",
     "keywords": [
       "ödeme emrine itiraz",
@@ -2820,9 +2852,18 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     ],
     "category": "İcra",
     "related": [
-      "icra-takibi-nedir",
-      "tebligat-usulsuzlugu",
-      "hukuk-davasi-nasil-acilir"
+      "haciz-ihbarnamesi",
+      "banka-icra-takibi",
+      "aciz-vesikasi",
+      "icra-dosyasi-kapatma",
+      "iflasin-ertelenmesi",
+      "icra-inkar-tazminati-sartlari",
+      "ihtiyati-haciz-itiraz",
+      "istihkak-davasi-sure",
+      "memur-maas-haczi",
+      "emekli-maas-haczi",
+      "kidem-tazminati-haczi",
+      "nafaka-alacaklisi-oncelik"
     ],
     "links": [
       {
@@ -3081,7 +3122,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "arabuluculuk-nasil-yapilir",
     "title": "Arabuluculuk Nasıl Yapılır? Dava Şartı ve Süreç",
-    "description": "Zorunlu arabuluculuk, başvuru, anlaşma belgesi. Bilgilendirme.",
+    "description": "Arabuluculuk nasıl yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosya…",
     "h1": "Arabuluculuk nasıl yapılır?",
     "keywords": [
       "arabuluculuk nedir",
@@ -3090,14 +3131,18 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     ],
     "category": "Usul",
     "related": [
-      "arabuluculuk-anlasma-belgesi",
-      "arabuluculuk-ucreti",
-      "kira-uyusmazligi-arabuluculuk",
+      "yetkisizlik-karari",
+      "kesif-nedir",
+      "yemin-delili",
+      "arabuluculuk-anlasma-icra",
+      "hak-dusurucu-sure",
+      "kesinti-durma-zamansimi",
+      "karine-nedir",
+      "yargi-giderleri",
       "arabuluculuk-son-tutanak",
       "arabulucu-nasil-secilir",
-      "is-arabuluculuk-zorunlu",
-      "ticari-arabuluculuk",
-      "tuketici-arabuluculuk"
+      "dava-acilmasi-sartlari",
+      "whatsapp-yazismasi-delil"
     ],
     "links": [
       {
@@ -3398,7 +3443,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "kira-artis-orani-nasil-hesaplanir",
     "title": "Kira Artış Oranı Nasıl Hesaplanır?",
-    "description": "Konut/işyeri kira artışı, yasal sınır, TÜFE. Vatandaş rehberi.",
+    "description": "Kira artış oranı nasıl hesaplanır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somu…",
     "h1": "Kira artış oranı nasıl hesaplanır?",
     "keywords": [
       "kira artış oranı",
@@ -3407,14 +3452,18 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     ],
     "category": "Kira",
     "related": [
-      "kira-teminati-iadesi",
-      "kira-tespit-davasi",
-      "kira-sozlesmesi-nasil-yapilir",
-      "kiraci-haklari-nelerdir",
+      "kira-tespit-5-yil",
+      "kiracinin-olumu",
+      "kiraya-verenin-degismesi",
+      "guvence-bedeli-3-ay",
+      "yeniden-kiralama-yasagi",
+      "kira-alacagi-icra",
       "kiraya-veren-haklari",
-      "kira-odeme-ihtari",
+      "kira-uyusmazligi-arabuluculuk",
       "alt-kira-ve-devir",
-      "kira-bedeli-odeme-sekli"
+      "kira-bedeli-odeme-sekli",
+      "konut-kirasi-tahliye-sebepleri",
+      "ihtiyac-nedeniyle-tahliye"
     ],
     "links": [
       {
@@ -3716,7 +3765,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "tapu-devri-nasil-yapilir",
     "title": "Tapu Devri Nasıl Yapılır? Belgeler ve Masraflar",
-    "description": "Tapu satış/devir, belgeler, harç, randevu. Adım adım rehber.",
+    "description": "Tapu devri nasıl yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada…",
     "h1": "Tapu devri nasıl yapılır?",
     "keywords": [
       "tapu devri nasıl yapılır",
@@ -3725,14 +3774,18 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     ],
     "category": "Eşya",
     "related": [
-      "gayrimenkul-satis-vaadi",
-      "dask-nedir",
-      "ipotek-nedir",
-      "tapu-kaydi-nasil-alinir",
-      "tapu-harci-hesaplama",
-      "tapuda-satis-islemleri",
+      "sinir-uyusmazligi",
+      "kadastro-tespitine-itiraz",
+      "orman-kadastro",
       "hisseli-tapu-riskleri",
-      "e-devlet-tapu"
+      "e-devlet-tapu",
+      "tapu-vekaleten-satis",
+      "sahte-vekaletname",
+      "rehin-nedir",
+      "satis-vaadi-icra",
+      "ortak-gider-nedir",
+      "yonetici-secimi-site",
+      "kat-irtifakindan-mulkiyete"
     ],
     "links": [
       {
@@ -4032,7 +4085,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "iskan-belgesi-nedir",
     "title": "İskan Belgesi Nedir? Nasıl Alınır?",
-    "description": "Yapı kullanma izni, başvuru, iskansız daire riskleri. Bilgilendirme.",
+    "description": "İskan belgesi (yapı kullanma izni) nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portal…",
     "h1": "İskan belgesi (yapı kullanma izni) nedir?",
     "keywords": [
       "iskan belgesi nedir",
@@ -4041,13 +4094,18 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     ],
     "category": "İmar",
     "related": [
-      "kacak-yapi-cezasi",
-      "yapı-ruhsati-nedir",
+      "sit-alani-nedir",
+      "cevre-duzeni-plani",
+      "emsal-nedir-imar",
+      "taks-nedir",
+      "kacak-kat-cezasi",
+      "muhür-sokme-sucu",
       "iskan-olmadan-oturma",
       "yapı-denetim-nedir",
       "iskan-basvurusu-belgeler",
-      "tapu-devri-nasil-yapilir",
-      "kamulastirma-nedir"
+      "riskli-yapi-tespiti",
+      "belediye-imar-para-cezasi",
+      "imar-affi-nedir"
     ],
     "links": [
       {
@@ -4346,7 +4404,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "tuketici-hakem-heyeti",
     "title": "Tüketici Hakem Heyeti Başvurusu Nasıl Yapılır?",
-    "description": "Başvuru şartları, e-Devlet, parasal sınır, itiraz. Rehber.",
+    "description": "Tüketici hakem heyetine nasıl başvurulur? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portal…",
     "h1": "Tüketici hakem heyetine nasıl başvurulur?",
     "keywords": [
       "tüketici hakem heyeti",
@@ -4355,14 +4413,18 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     ],
     "category": "Tüketici",
     "related": [
-      "abonelik-iptali-tuketici",
-      "ayip-mal-iade",
       "mesafeli-satis-cayma",
       "tuketici-kredisi-cayma",
       "garanti-belgesi-haklari",
       "internet-alisveris-iade",
       "abonelik-taahhut-cezasi",
-      "ayip-bildirim-suresi"
+      "ayip-bildirim-suresi",
+      "kredi-notu-nedir",
+      "mesafeli-sozlesme-yonetmelik",
+      "kredi-karti-asgari-odeme",
+      "tuketici-arabuluculuk",
+      "tuketici-hakem-parasal-sinir",
+      "e-devlet-tuketici"
     ],
     "links": [
       {
@@ -4664,7 +4726,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "savcilik-suc-duyurusu",
     "title": "Savcılığa Suç Duyurusu Nasıl Yapılır?",
-    "description": "Suç duyurusu, dilekçe, e-şikayet, delil. Bilgilendirme rehberi.",
+    "description": "Savcılığa suç duyurusu nasıl yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. S…",
     "h1": "Savcılığa suç duyurusu nasıl yapılır?",
     "keywords": [
       "suç duyurusu nasıl yapılır",
@@ -4673,14 +4735,18 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     ],
     "category": "Ceza",
     "related": [
-      "ceza-sorusturmasi-sureci",
-      "gozalti-haklari",
-      "uzlastirma-nedir",
       "sikayet-suresi-ceza",
       "gozalti-suresi",
       "hakaret-sucu-nedir",
       "tehdit-sucu-nedir",
-      "dolandiricilik-sucu"
+      "dolandiricilik-sucu",
+      "adli-kontrol-nedir",
+      "hizli-yargilama-usulu",
+      "sabika-kaydi-nasil-alinir",
+      "suc-duyurusu-geri-alma",
+      "ifade-alma-haklari",
+      "sorusturma-gizliligi",
+      "e-devlet-ceza-sorgulama"
     ],
     "links": [
       {
@@ -4980,7 +5046,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "koruma-karari-6284",
     "title": "6284 Koruma Kararı Nedir? Nasıl Alınır?",
-    "description": "Koruma ve uzaklaştırma kararı, başvuru mercileri. Bilgilendirme.",
+    "description": "6284 koruma kararı nedir? Nasıl alınır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı.…",
     "h1": "6284 koruma kararı nedir? Nasıl alınır?",
     "keywords": [
       "6284 koruma kararı",
@@ -5294,7 +5360,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "velayet-davasi",
     "title": "Velayet Davası Nedir? Nasıl Açılır?",
-    "description": "Velayet, kişisel ilişki, çocuğun üstün yararı. Vatandaş rehberi.",
+    "description": "Velayet davası nedir? Nasıl yürütülür? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. …",
     "h1": "Velayet davası nedir? Nasıl yürütülür?",
     "keywords": [
       "velayet davası",
@@ -5309,7 +5375,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "cocuk-teslimi-iade",
       "bosanma-davasi-nasil-acilir",
       "nafaka-davasi-nedir",
-      "koruma-karari-6284"
+      "koruma-karari-6284",
+      "saglik-turizmi-haklar"
     ],
     "links": [
       {
@@ -5609,7 +5676,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "is-kazasi-tazminati",
     "title": "İş Kazası Tazminatı Nedir? Nasıl Alınır?",
-    "description": "Bildirim, SGK, maddi-manevi tazminat. İşçi rehberi.",
+    "description": "İş kazası tazminatı nedir? Nasıl talep edilir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk P…",
     "h1": "İş kazası tazminatı nedir? Nasıl talep edilir?",
     "keywords": [
       "iş kazası tazminatı",
@@ -5618,14 +5685,18 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     ],
     "category": "İş",
     "related": [
-      "is-kazasi-bildirimi",
-      "is-kazasi-maluliyet",
-      "is-guvenligi-uzmani",
-      "is-kazasi-sonrasi-haklar",
-      "meslek-hastaligi-nedir",
-      "is-veren-sorumlulugu-kazasi",
+      "uzaktan-calisma-yonetmelik",
+      "stajyer-haklari",
+      "cagri-uzerine-calisma",
+      "gecerli-fesih-nedir",
+      "is-aramaya-izin",
+      "calisma-belgesi",
+      "is-mahkemesi-nedir",
+      "hizmet-sozlesmesi-tbk",
       "is-kazasi-manevvi",
-      "is-kazasi-bildirim-suresi"
+      "surekli-is-goremezlik",
+      "is-kazasi-bildirim-suresi",
+      "sgk-rucu-davasi"
     ],
     "links": [
       {
@@ -5925,7 +5996,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "kidem-tazminati-nasil-alinir",
     "title": "Kıdem Tazminatı Nasıl Alınır? Şartlar ve Hesap",
-    "description": "Kıdem şartları, tavan, arabuluculuk, dava. Bilgilendirme.",
+    "description": "Kıdem tazminatı nasıl alınır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dos…",
     "h1": "Kıdem tazminatı nasıl alınır?",
     "keywords": [
       "kıdem tazminatı nasıl alınır",
@@ -5934,14 +6005,18 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     ],
     "category": "İş",
     "related": [
-      "ihbar-tazminati-nedir",
-      "kidem-tavan",
+      "is-mahkemesi-nedir",
+      "hizmet-sozlesmesi-tbk",
+      "surekli-is-goremezlik",
+      "sgk-rucu-davasi",
       "isten-cikarilma-tazminatlari",
-      "iscilik-alacaklari-zamansimi",
-      "kidem-tazminati-hesaplama",
-      "ihbar-suresi-tablosu",
+      "meslek-hastaligi-nedir",
       "kidem-tazminati-sgk-iliskisi",
-      "iscilik-alacaklari-davasi"
+      "uzaktan-calisma-yonetmelik",
+      "fesih-bildirimi-ornegi",
+      "toplu-isten-cikarma",
+      "cagri-uzerine-calisma",
+      "gecerli-fesih-nedir"
     ],
     "links": [
       {
@@ -6242,8 +6317,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "e-devlet-veraset",
-    "title": "e-Devlet Veraset İlamı Alma",
-    "description": "Pratik e-Devlet adımları. Noter/mahkeme yolları ana rehberde.",
+    "title": "e-Devlet ile veraset ilamı — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "e-Devlet ile veraset ilamı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyad…",
     "h1": "e-Devlet ile veraset ilamı",
     "keywords": [
       "e-devlet veraset ilamı",
@@ -6253,7 +6328,15 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     "related": [
       "veraset-ilami-nasil-alinir",
       "miras-payi-nasil-hesaplanir",
-      "tapu-devri-nasil-yapilir"
+      "tapu-devri-nasil-yapilir",
+      "mirasin-reddi",
+      "miras-ortakligi-nedir",
+      "olume-bagli-tasarruf",
+      "miras-paylasim-sozlesmesi",
+      "esin-miras-payi",
+      "vasiyetname-iptali",
+      "miras-sebebiyle-istihkak",
+      "e-devlet-miras"
     ],
     "links": [
       {
@@ -6512,7 +6595,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "miras-payi-nasil-hesaplanir",
     "title": "Miras Payı Nasıl Hesaplanır?",
-    "description": "Zümre ve eş payı. Veraset belgesi ana; saklı pay ayrı.",
+    "description": "Yasal miras payı nasıl hesaplanır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somu…",
     "h1": "Yasal miras payı nasıl hesaplanır?",
     "keywords": [
       "miras payı nasıl hesaplanır",
@@ -6781,7 +6864,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "tebligat-usulsuzlugu",
     "title": "Tebligat Usulsüzlüğü Nedir? Ne Yapılır?",
-    "description": "Usulsüz tebligat, öğrenme tarihi, itiraz. Bilgilendirme.",
+    "description": "Tebligat usulsüzlüğü nedir? Ne yapılmalı? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portal…",
     "h1": "Tebligat usulsüzlüğü nedir? Ne yapılmalı?",
     "keywords": [
       "tebligat usulsüzlüğü",
@@ -7096,7 +7179,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "ihtiyati-tedbir-nedir",
     "title": "İhtiyati Tedbir Nedir? Nasıl İstenir?",
-    "description": "Tedbir şartları, teminat, başvuru. Usul rehberi.",
+    "description": "İhtiyati tedbir nedir? Nasıl alınır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. So…",
     "h1": "İhtiyati tedbir nedir? Nasıl alınır?",
     "keywords": [
       "ihtiyati tedbir nedir",
@@ -7410,7 +7493,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "engelli-raporu-nasil-alinir",
     "title": "Engelli Raporu Nasıl Alınır? Sağlık Kurulu",
-    "description": "Sağlık kurulu raporu, oran, e-Devlet, haklar. Rehber.",
+    "description": "Engelli raporu nasıl alınır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosy…",
     "h1": "Engelli raporu nasıl alınır?",
     "keywords": [
       "engelli raporu nasıl alınır",
@@ -7720,8 +7803,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "vergi-borcu-yapislandirma",
-    "title": "Vergi Borcu Yapılandırma",
-    "description": "Genel yapılandırma. Emlak ve e-Devlet vergi linkleri.",
+    "title": "Vergi borcu yapılandırma nedir — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Vergi borcu yapılandırma nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut d…",
     "h1": "Vergi borcu yapılandırma nedir?",
     "keywords": [
       "vergi borcu yapılandırma",
@@ -7731,7 +7814,9 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     "related": [
       "emlak-vergisi-nedir",
       "icra-takibi-nedir",
-      "odeme-emrine-itiraz"
+      "odeme-emrine-itiraz",
+      "damga-vergisi-nedir",
+      "e-haciz-nedir"
     ],
     "links": [
       {
@@ -7990,7 +8075,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "kamulastirma-nedir",
     "title": "Kamulaştırma Nedir? Bedel ve Dava Yolları",
-    "description": "Kamulaştırma süreci, bedel, itiraz. Mal sahibi rehberi.",
+    "description": "Kamulaştırma nedir? Haklarınız nelerdir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı…",
     "h1": "Kamulaştırma nedir? Haklarınız nelerdir?",
     "keywords": [
       "kamulaştırma nedir",
@@ -8005,7 +8090,11 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "acele-kamulastirma",
       "idari-dava-nasil-acilir",
       "tapu-devri-nasil-yapilir",
-      "kacak-yapi-cezasi"
+      "kacak-yapi-cezasi",
+      "idari-islem-nedir",
+      "idari-basvuru-yolu",
+      "gida-isletme-kayit",
+      "cevre-izin-lisans"
     ],
     "links": [
       {
@@ -8303,8 +8392,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "kacak-yapi-cezasi",
-    "title": "Kaçak Yapı Cezası",
-    "description": "Para cezası/yıkım. İskan ve itiraz linkleri.",
+    "title": "Kaçak yapı cezası nedir — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Kaçak yapı cezası nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada …",
     "h1": "Kaçak yapı cezası nedir?",
     "keywords": [
       "kaçak yapı cezası",
@@ -8314,7 +8403,13 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     "related": [
       "iskan-belgesi-nedir",
       "idari-dava-nasil-acilir",
-      "kamulastirma-nedir"
+      "kamulastirma-nedir",
+      "sit-alani-nedir",
+      "cevre-duzeni-plani",
+      "taks-nedir",
+      "iskan-basvurusu-belgeler",
+      "kacak-kat-cezasi",
+      "muhür-sokme-sucu"
     ],
     "links": [
       {
@@ -8572,8 +8667,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "abonelik-iptali-tuketici",
-    "title": "Abonelik İptali Tüketici Hakları",
-    "description": "İptal ve cayma. Taahhüt cezası ayrı.",
+    "title": "Abonelik İptali Tüketici Hakları | Vatandaş Rehberi",
+    "description": "Abonelik iptali nasıl yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut do…",
     "h1": "Abonelik iptali nasıl yapılır?",
     "keywords": [
       "abonelik iptali",
@@ -8583,7 +8678,11 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     "related": [
       "tuketici-hakem-heyeti",
       "hukuk-davasi-nasil-acilir",
-      "ayip-mal-iade"
+      "ayip-mal-iade",
+      "ayip-bildirim-suresi",
+      "mesafeli-sozlesme-yonetmelik",
+      "e-devlet-tuketici",
+      "tuketici-arabuluculuk"
     ],
     "links": [
       {
@@ -8841,7 +8940,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "ehliyet-alma-sartlari",
     "title": "Ehliyet Alma Şartları Nelerdir? Süreç Rehberi",
-    "description": "Sürücü belgesi şartları, kurs, sınav, sağlık raporu. Bilgilendirme.",
+    "description": "Ehliyet alma şartları nelerdir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut d…",
     "h1": "Ehliyet alma şartları nelerdir?",
     "keywords": [
       "ehliyet alma şartları",
@@ -8855,7 +8954,10 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "psiko-teknik-belge",
       "trafik-cezasina-itiraz",
       "engelli-araci-nasil-alinir",
-      "idari-dava-nasil-acilir"
+      "idari-dava-nasil-acilir",
+      "trafik-ceza-puani",
+      "trafik-cezasi-pesin-odeme",
+      "trafik-kazasi-manevvi"
     ],
     "links": [
       {
@@ -9154,8 +9256,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "nufus-kayit-ornegi",
-    "title": "Nüfus kayıt örneği",
-    "description": "Nüfus kayıt örneği. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Nüfus kayıt örneği — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Nüfus kayıt örneği hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukat…",
     "h1": "Nüfus kayıt örneği",
     "keywords": [
       "nüfus kayıt örneği",
@@ -9166,7 +9268,13 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "e-devlet-nufus",
       "veraset-ilami-nasil-alinir",
       "e-devlet-veraset",
-      "bosanma-davasi-nasil-acilir"
+      "bosanma-davasi-nasil-acilir",
+      "kimlik-kartı-basvurusu",
+      "dogum-belgesi-nasil-alinir",
+      "ikametgah-belgesi",
+      "askerlik-durum-belgesi",
+      "e-devlet-sifresi-alma",
+      "isim-degisikligi-davasi"
     ],
     "links": [
       {
@@ -9423,8 +9531,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "icra-dosyasi-sorgulama",
-    "title": "İcra Dosyası Sorgulama (UYAP)",
-    "description": "UYAP/e-Devlet sorgu. e-Devlet borç sayfası ve ana icra rehberi linkleri.",
+    "title": "İcra Dosyası Sorgulama (UYAP) | Vatandaş Rehberi",
+    "description": "İcra dosyası nasıl sorgulanır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut do…",
     "h1": "İcra dosyası nasıl sorgulanır?",
     "keywords": [
       "icra dosyası sorgulama",
@@ -9692,8 +9800,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "senet-icra-takibi",
-    "title": "Senetle İcra Takibi",
-    "description": "Kambiyo yolu. Genel kambiyo ve ana icra sayfalarına link.",
+    "title": "Senetle icra takibi nasıl yapılır — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Senetle icra takibi nasıl yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somu…",
     "h1": "Senetle icra takibi nasıl yapılır?",
     "keywords": [
       "senet icra takibi",
@@ -9962,7 +10070,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "is-sozlesmesi-feshi",
     "title": "İş Sözleşmesi Feshi Nedir? Haklı ve Bildirimli Fesih",
-    "description": "İşçi/işveren feshi, kıdem-ihbar ilişkisi. İş rehberi.",
+    "description": "İş sözleşmesi feshi nedir? Nelere dikkat edilmeli? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Huk…",
     "h1": "İş sözleşmesi feshi nedir? Nelere dikkat edilmeli?",
     "keywords": [
       "iş sözleşmesi feshi",
@@ -10277,8 +10385,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "gayrimenkul-satis-vaadi",
-    "title": "Gayrimenkul Satış Vaadi",
-    "description": "Noter şekli. Ana tapu devri linki.",
+    "title": "Satış vaadi sözleşmesi nedir — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Satış vaadi sözleşmesi nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dos…",
     "h1": "Satış vaadi sözleşmesi nedir?",
     "keywords": [
       "gayrimenkul satış vaadi",
@@ -10288,7 +10396,11 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     "related": [
       "tapu-devri-nasil-yapilir",
       "iskan-belgesi-nedir",
-      "hukuk-davasi-nasil-acilir"
+      "hukuk-davasi-nasil-acilir",
+      "tapuda-satis-islemleri",
+      "e-devlet-tapu",
+      "sahte-vekaletname",
+      "orman-kadastro"
     ],
     "links": [
       {
@@ -10547,7 +10659,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "kiraci-nasil-tahliye-edilir",
     "title": "Kiracı Nasıl Tahliye Edilir? Yasal Yollar",
-    "description": "Tahliye taahhüdü, ihtiyaç, iki haklı ihtar, temerrüt. Kiraya veren rehberi.",
+    "description": "Kiracı nasıl tahliye edilir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosy…",
     "h1": "Kiracı nasıl tahliye edilir?",
     "keywords": [
       "kiracı nasıl çıkarılır",
@@ -10556,14 +10668,18 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     ],
     "category": "Kira",
     "related": [
-      "tahliye-taahhutnamesi",
-      "isyeri-kirasi-tahliye",
-      "konut-kirasi-tahliye-sebepleri",
-      "ihtiyac-nedeniyle-tahliye",
-      "yeniden-kiralama-yasagi",
-      "kira-artis-orani-nasil-hesaplanir",
-      "arabuluculuk-nasil-yapilir",
-      "hukuk-davasi-nasil-acilir"
+      "hukuk-davasi-nasil-acilir",
+      "alt-kira-ve-devir",
+      "kira-bedeli-odeme-sekli",
+      "kiralananin-ayibi",
+      "isyeri-kirasi-artis",
+      "kira-sozlesmesi-bitisi",
+      "kira-tespit-5-yil",
+      "kiracinin-olumu",
+      "kiraya-verenin-degismesi",
+      "guvence-bedeli-3-ay",
+      "kira-alacagi-icra",
+      "yeniden-kiralama-yasagi"
     ],
     "links": [
       {
@@ -10863,7 +10979,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "kira-teminati-iadesi",
     "title": "Kira Depozitosu Nasıl Geri Alınır?",
-    "description": "Depozito kesinti ve iade. Güvence 3 ay ve faiz notları ayrı; artış ana rehberde.",
+    "description": "Kira teminatı (depozito) iadesi hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut d…",
     "h1": "Kira teminatı (depozito) iadesi",
     "keywords": [
       "kira depozitosu iadesi",
@@ -11132,8 +11248,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "ayip-mal-iade",
-    "title": "Ayıplı Mal İade ve Değişim",
-    "description": "Ayıp hakları. Hakem heyeti başvurusu ana rehberde.",
+    "title": "Ayıplı malda iade hakkı nedir — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Ayıplı malda iade hakkı nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut do…",
     "h1": "Ayıplı malda iade hakkı nedir?",
     "keywords": [
       "ayıplı mal iade",
@@ -11401,8 +11517,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "mesafeli-satis-cayma",
-    "title": "Mesafeli Satışta Cayma Hakkı",
-    "description": "14 gün cayma. İstisnalar ve hakem heyeti linkleri.",
+    "title": "Mesafeli Satışta Cayma Hakkı | Vatandaş Rehberi",
+    "description": "Mesafeli satışta cayma nasıl kullanılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı…",
     "h1": "Mesafeli satışta cayma nasıl kullanılır?",
     "keywords": [
       "cayma hakkı",
@@ -11673,7 +11789,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "ise-iade-davasi",
     "title": "İşe İade Davası Nedir? Şartlar ve Süre",
-    "description": "İşe iade şartları, arabuluculuk, süre, sonuçlar. İşçi rehberi.",
+    "description": "İşe iade davası nedir? Nasıl açılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. So…",
     "h1": "İşe iade davası nedir? Nasıl açılır?",
     "keywords": [
       "işe iade davası",
@@ -11990,7 +12106,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "ihbar-tazminati-nedir",
     "title": "İhbar Tazminatı Nedir? Bildirim Süreleri",
-    "description": "İhbar tazminatı, bildirim süreleri ve kıdemden ayrımı. Kıdem hak kazanma ana rehberde.",
+    "description": "İhbar tazminatı nedir? Kıdemden farkı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. S…",
     "h1": "İhbar tazminatı nedir? Kıdemden farkı",
     "keywords": [
       "ihbar tazminatı",
@@ -12261,7 +12377,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "fazla-mesai-ucreti",
     "title": "Fazla Mesai Ücreti Nasıl Hesaplanır ve Alınır?",
-    "description": "Fazla çalışma, ispat, zamanaşımı, arabuluculuk. İşçi rehberi.",
+    "description": "Fazla mesai ücreti nasıl hesaplanır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. So…",
     "h1": "Fazla mesai ücreti nasıl hesaplanır?",
     "keywords": [
       "fazla mesai ücreti",
@@ -12574,8 +12690,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "issizlik-maasi-sartlari",
-    "title": "İşsizlik Maaşı Şartları Nelerdir? Başvuru",
-    "description": "İşsizlik ödeneği prim günü, başvuru, e-Devlet. Bilgilendirme.",
+    "title": "İşsizlik Maaşı Şartları Nelerdir? Başvuru | Vatandaş Rehberi",
+    "description": "İşsizlik maaşı şartları nelerdir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut…",
     "h1": "İşsizlik maaşı şartları nelerdir?",
     "keywords": [
       "işsizlik maaşı şartları",
@@ -12887,8 +13003,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "sgk-hizmet-dokumu",
-    "title": "SGK Hizmet Dökümü",
-    "description": "e-Devlet adımları. Emeklilik ana rehber.",
+    "title": "SGK hizmet dökümü nasıl alınır — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "SGK hizmet dökümü nasıl alınır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut d…",
     "h1": "SGK hizmet dökümü nasıl alınır?",
     "keywords": [
       "SGK hizmet dökümü",
@@ -12898,7 +13014,11 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     "related": [
       "emeklilik-sartlari",
       "issizlik-maasi-sartlari",
-      "kidem-tazminati-nasil-alinir"
+      "kidem-tazminati-nasil-alinir",
+      "e-devlet-sgk-hizmet",
+      "yurt-disi-borclanma",
+      "intibak-emeklilik",
+      "emekli-ikramiyesi"
     ],
     "links": [
       {
@@ -13156,8 +13276,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "emeklilik-sartlari",
-    "title": "Emeklilik Şartları Nelerdir? Yaş ve Prim",
-    "description": "Yaşlılık aylığı, prim günü, yaş. Genel bilgilendirme rehberi.",
+    "title": "Emeklilik Şartları Nelerdir? Yaş ve Prim | Vatandaş Rehberi",
+    "description": "Emeklilik şartları nelerdir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosy…",
     "h1": "Emeklilik şartları nelerdir?",
     "keywords": [
       "emeklilik şartları",
@@ -13166,14 +13286,18 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     ],
     "category": "Sosyal Güvenlik",
     "related": [
-      "sgk-hizmet-dokumu",
-      "malulen-emeklilik",
-      "askeri-hizmet-borclanma",
       "dogum-borclanmasi",
       "emekli-maasi-hesaplama",
       "emeklilikte-yasa-takilanlar",
       "e-devlet-sgk-hizmet",
-      "yurt-disi-borclanma"
+      "yurt-disi-borclanma",
+      "olum-ayligi-dul-yetim",
+      "e-devlet-sgk-borcu",
+      "sgk-tesvik-nedir",
+      "gecici-is-goremezlik",
+      "prim-iadesi-sgk",
+      "intibak-emeklilik",
+      "emekli-ikramiyesi"
     ],
     "links": [
       {
@@ -13472,8 +13596,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "malulen-emeklilik",
-    "title": "Malulen Emeklilik Şartları",
-    "description": "Maluliyet. Ana emeklilik rehberine link.",
+    "title": "Malulen emeklilik nedir — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Malulen emeklilik nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada …",
     "h1": "Malulen emeklilik nedir?",
     "keywords": [
       "malulen emeklilik",
@@ -13741,8 +13865,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "sakli-pay-nedir",
-    "title": "Saklı Pay ve Tenkis",
-    "description": "Saklı pay oranları. Tenkis davası spoke; pay hesabı linki.",
+    "title": "Saklı pay nedir — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Saklı pay nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata …",
     "h1": "Saklı pay nedir?",
     "keywords": [
       "saklı pay nedir",
@@ -14010,8 +14134,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "vasiyetname-nasil-yapilir",
-    "title": "Vasiyetname Nasıl Yapılır?",
-    "description": "Resmi/el yazılı. İptal ve saklı pay linkleri.",
+    "title": "Vasiyetname nasıl yapılır — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Vasiyetname nasıl yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyad…",
     "h1": "Vasiyetname nasıl yapılır?",
     "keywords": [
       "vasiyetname nasıl yapılır",
@@ -14279,8 +14403,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "mirasin-reddi",
-    "title": "Mirasın Reddi Süresi ve Usul",
-    "description": "Red süresi. Veraset ilamı ana rehberde.",
+    "title": "Mirasın Reddi Süresi ve Usul | Vatandaş Rehberi",
+    "description": "Mirasın reddi nasıl yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosy…",
     "h1": "Mirasın reddi nasıl yapılır?",
     "keywords": [
       "mirasın reddi",
@@ -14549,7 +14673,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "izale-i-suyu",
     "title": "İzale-i Şuyu (Ortaklığın Giderilmesi) Nedir?",
-    "description": "Paylı taşınmazda satış/paylaşma davası. Bilgilendirme.",
+    "description": "İzale-i şuyu nedir? Nasıl açılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut…",
     "h1": "İzale-i şuyu nedir? Nasıl açılır?",
     "keywords": [
       "izale-i şuyu",
@@ -14864,8 +14988,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "tapu-iptal-tescil",
-    "title": "Tapu iptal tescil",
-    "description": "Tapu iptal tescil. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Tapu iptal tescil — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Tapu iptal tescil hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata…",
     "h1": "Tapu iptal tescil",
     "keywords": [
       "tapu iptal tescil",
@@ -15132,8 +15256,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "kat-mulkiyeti-aidat",
-    "title": "Kat Mülkiyeti Aidat Borcu ve İcra",
-    "description": "Ortak gider, aidat, icra, genel kurul. Site sakinleri rehberi.",
+    "title": "Kat Mülkiyeti Aidat Borcu ve İcra | Vatandaş Rehberi",
+    "description": "Kat mülkiyeti aidat borcu nasıl tahsil edilir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk P…",
     "h1": "Kat mülkiyeti aidat borcu nasıl tahsil edilir?",
     "keywords": [
       "aidat borcu",
@@ -15448,8 +15572,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "ihtiyati-haciz-nedir",
-    "title": "İhtiyati Haciz Nedir?",
-    "description": "Teminatlı ihtiyati haciz. İtiraz spoke ve ana icra linkleri.",
+    "title": "İhtiyati haciz nasıl istenir — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "İhtiyati haciz nasıl istenir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dos…",
     "h1": "İhtiyati haciz nasıl istenir?",
     "keywords": [
       "ihtiyati haciz",
@@ -15717,8 +15841,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "haciz-nasil-kaldirilir",
-    "title": "Haciz Nasıl Kaldırılır?",
-    "description": "Ödeme, menfi tespit, istihkak. Haciz koyma ana icra/haciz sayfalarında.",
+    "title": "Haciz nasıl kaldırılır — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Haciz nasıl kaldırılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada a…",
     "h1": "Haciz nasıl kaldırılır?",
     "keywords": [
       "haciz nasıl kaldırılır",
@@ -15986,8 +16110,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "kefalet-sozlesmesi",
-    "title": "Kefalet sözleşmesi",
-    "description": "Kefalet sözleşmesi. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Kefalet sözleşmesi — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Kefalet sözleşmesi hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukat…",
     "h1": "Kefalet sözleşmesi",
     "keywords": [
       "kefalet sözleşmesi",
@@ -15995,10 +16119,18 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     ],
     "category": "Borçlar",
     "related": [
-      "temerrut-faizi-nedir",
-      "icra-takibi-nedir",
-      "hukuk-davasi-nasil-acilir",
-      "senet-icra-takibi"
+      "bagis-sozlesmesi",
+      "vekalet-sozlesmesi-tbk",
+      "eser-sozlesmesi-nedir",
+      "on-sozlesme-nedir",
+      "iptal-edilebilirlik",
+      "destek-payi-hesabi",
+      "kefilden-tahsilat",
+      "maddi-tazminat-nedir",
+      "kusursuz-sorumluluk",
+      "rucu-davasi-nedir",
+      "sozlesmeden-donme",
+      "faiz-hesaplama-rehberi"
     ],
     "links": [
       {
@@ -16256,7 +16388,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "zamanaşimi-nedir",
     "title": "Zamanaşımı Nedir? Alacaklarda Süreler",
-    "description": "Zamanaşımı, hak düşürücü süre, kesilme. Genel rehber.",
+    "description": "Zamanaşımı nedir? Ne zaman dolur? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut…",
     "h1": "Zamanaşımı nedir? Ne zaman dolur?",
     "keywords": [
       "zamanaşımı nedir",
@@ -16572,7 +16704,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "istinaf-nedir",
     "title": "İstinaf Nedir? Nasıl Başvurulur?",
-    "description": "İstinaf süresi, dilekçe, BAM. Kanun yolu rehberi.",
+    "description": "İstinaf nedir? Nasıl başvurulur? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut …",
     "h1": "İstinaf nedir? Nasıl başvurulur?",
     "keywords": [
       "istinaf nedir",
@@ -16885,8 +17017,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "temyiz-nedir",
-    "title": "Temyiz Nedir? Yargıtay",
-    "description": "Yargıtay. İstinaf ana rehber; sınır spoke.",
+    "title": "Temyiz nedir? Nasıl yapılır — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Temyiz nedir? Nasıl yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosy…",
     "h1": "Temyiz nedir? Nasıl yapılır?",
     "keywords": [
       "temyiz nedir",
@@ -17154,8 +17286,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "bilirkisi-raporu-itiraz",
-    "title": "Bilirkişi raporuna itiraz",
-    "description": "Bilirkişi raporuna itiraz. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Bilirkişi raporuna itiraz — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Bilirkişi raporuna itiraz hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada…",
     "h1": "Bilirkişi raporuna itiraz",
     "keywords": [
       "bilirkişi raporuna itiraz",
@@ -17423,8 +17555,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "tanik-dinletme",
-    "title": "Tanık dinletme",
-    "description": "Tanık dinletme. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Tanık dinletme — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Tanık dinletme hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata da…",
     "h1": "Tanık dinletme",
     "keywords": [
       "tanık dinletme",
@@ -17692,8 +17824,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "arabuluculuk-anlasma-belgesi",
-    "title": "Arabuluculuk Anlaşma Belgesi",
-    "description": "İlam niteliği. Süreç ana arabuluculuk rehberinde; icra ayrı.",
+    "title": "Arabuluculuk Anlaşma Belgesi | Vatandaş Rehberi",
+    "description": "Arabuluculuk anlaşma belgesi nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Som…",
     "h1": "Arabuluculuk anlaşma belgesi nedir?",
     "keywords": [
       "arabuluculuk anlaşma belgesi",
@@ -17961,8 +18093,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "is-kazasi-bildirimi",
-    "title": "İş Kazası Bildirimi",
-    "description": "İşveren bildirimi. Tazminat ana rehberde.",
+    "title": "İş kazası bildirimi nasıl yapılır — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "İş kazası bildirimi nasıl yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somu…",
     "h1": "İş kazası bildirimi nasıl yapılır?",
     "keywords": [
       "iş kazası bildirimi",
@@ -18230,8 +18362,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "mobbing-nedir",
-    "title": "Mobbing Nedir? Ne Yapılır?",
-    "description": "İspat ve haklı fesih. Ana fesih/kıdem linkleri.",
+    "title": "İşyerinde mobbing hukuken ne yapılır — Vatandaş Rehberi | Av. Fethi Gü",
+    "description": "İşyerinde mobbing hukuken ne yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. S…",
     "h1": "İşyerinde mobbing hukuken ne yapılır?",
     "keywords": [
       "mobbing nedir",
@@ -18499,8 +18631,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "cinsel-taciz-sikayet",
-    "title": "İşyerinde Cinsel Taciz Şikâyeti",
-    "description": "Şikâyet mercileri. 6284 ve savcılık linkleri.",
+    "title": "İşyerinde Cinsel Taciz Şikâyeti | Vatandaş Rehberi",
+    "description": "İşyerinde cinsel taciz şikâyeti nasıl yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk P…",
     "h1": "İşyerinde cinsel taciz şikâyeti nasıl yapılır?",
     "keywords": [
       "işyerinde cinsel taciz",
@@ -18768,8 +18900,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "cocuk-nafaka-artirim",
-    "title": "Çocuk Nafakası Artırım Davası",
-    "description": "İştirak nafakası artırım şartları ve delil. Genel nafaka türleri ana rehberde.",
+    "title": "Çocuk Nafakası Artırım Davası | Vatandaş Rehberi",
+    "description": "Çocuk nafakası nasıl artırılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut d…",
     "h1": "Çocuk nafakası nasıl artırılır?",
     "keywords": [
       "çocuk nafakası artırım",
@@ -19038,7 +19170,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "mal-rejimi-tasfiyesi",
     "title": "Mal Rejimi Tasfiyesi Nedir? Katılma Alacağı",
-    "description": "Edinilmiş mallara katılma, tasfiye davası. Bilgilendirme.",
+    "description": "Mal rejimi tasfiyesi nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosya…",
     "h1": "Mal rejimi tasfiyesi nedir?",
     "keywords": [
       "mal rejimi tasfiyesi",
@@ -19353,8 +19485,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "ziynet-esyalari-davasi",
-    "title": "Ziynet eşyası davası",
-    "description": "Ziynet eşyası davası. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Ziynet eşyası davası — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Ziynet eşyası davası hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuk…",
     "h1": "Ziynet eşyası davası",
     "keywords": [
       "ziynet eşyası davası",
@@ -19621,8 +19753,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "soybagi-reddi",
-    "title": "Soybağının reddi",
-    "description": "Soybağının reddi. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Soybağının reddi — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Soybağının reddi hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata …",
     "h1": "Soybağının reddi",
     "keywords": [
       "soybağının reddi",
@@ -19890,8 +20022,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "evlat-edinme",
-    "title": "Evlat edinme",
-    "description": "Evlat edinme. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Evlat edinme — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Evlat edinme hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danı…",
     "h1": "Evlat edinme",
     "keywords": [
       "evlat edinme",
@@ -20159,7 +20291,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "ceza-sorusturmasi-sureci",
     "title": "Ceza Soruşturması Nasıl İşler?",
-    "description": "İfade/iddianame. Suç duyurusu ana rehberde.",
+    "description": "Ceza soruşturması nasıl yürür? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut do…",
     "h1": "Ceza soruşturması nasıl yürür?",
     "keywords": [
       "ceza soruşturması",
@@ -20169,7 +20301,13 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     "related": [
       "savcilik-suc-duyurusu",
       "gozalti-haklari",
-      "tebligat-usulsuzlugu"
+      "tebligat-usulsuzlugu",
+      "gozalti-suresi",
+      "dolandiricilik-sucu",
+      "suc-duyurusu-geri-alma",
+      "ifade-alma-haklari",
+      "sorusturma-gizliligi",
+      "e-devlet-ceza-sorgulama"
     ],
     "links": [
       {
@@ -20427,8 +20565,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "gozalti-haklari",
-    "title": "Gözaltında Haklarınız",
-    "description": "Müdafi/susma. Soruşturma linki.",
+    "title": "Gözaltında haklarınız nelerdir — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Gözaltında haklarınız nelerdir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut d…",
     "h1": "Gözaltında haklarınız nelerdir?",
     "keywords": [
       "gözaltı hakları",
@@ -20695,8 +20833,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "uzlastirma-nedir",
-    "title": "Ceza Uzlaştırması",
-    "description": "Uzlaştırma. Soruşturma ana zinciri.",
+    "title": "Uzlaştırma nedir? Nasıl işler — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Uzlaştırma nedir? Nasıl işler? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut do…",
     "h1": "Uzlaştırma nedir? Nasıl işler?",
     "keywords": [
       "ceza uzlaştırması",
@@ -20964,8 +21102,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "adli-sicil-kaydi",
-    "title": "Adli sicil kaydı",
-    "description": "Adli sicil kaydı. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Adli sicil kaydı — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Adli sicil kaydı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata …",
     "h1": "Adli sicil kaydı",
     "keywords": [
       "adli sicil kaydı",
@@ -21234,7 +21372,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "trafik-kazasi-tazminati",
     "title": "Trafik Kazası Tazminatı Nasıl Alınır?",
-    "description": "Maddi-manevi, sigorta, kusur. Kaza mağduru rehberi.",
+    "description": "Trafik kazası tazminatı nasıl alınır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. S…",
     "h1": "Trafik kazası tazminatı nasıl alınır?",
     "keywords": [
       "trafik kazası tazminatı",
@@ -21549,8 +21687,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "trafik-sigortasi-hasar",
-    "title": "Trafik sigortası hasar",
-    "description": "Trafik sigortası hasar. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Trafik sigortası hasar — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Trafik sigortası hasar hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada av…",
     "h1": "Trafik sigortası hasar",
     "keywords": [
       "trafik sigortası hasar",
@@ -21817,8 +21955,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "ehliyet-geri-alma",
-    "title": "Ehliyete El Koyma ve Geri Alma",
-    "description": "İade şartları. Ceza itirazı ana rehberde.",
+    "title": "Ehliyete El Koyma ve Geri Alma | Vatandaş Rehberi",
+    "description": "Ehliyete el konulursa nasıl geri alınır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı…",
     "h1": "Ehliyete el konulursa nasıl geri alınır?",
     "keywords": [
       "ehliyete el koyma",
@@ -22085,8 +22223,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "pasaport-basvurusu",
-    "title": "Pasaport başvurusu",
-    "description": "Pasaport başvurusu. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Pasaport başvurusu — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Pasaport başvurusu hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukat…",
     "h1": "Pasaport başvurusu",
     "keywords": [
       "pasaport başvurusu",
@@ -22355,7 +22493,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "yabanci-ikamet-izni",
     "title": "Yabancı İkamet İzni Nedir? Başvuru",
-    "description": "Kısa/uzun dönem ikamet, evrak. Bilgilendirme.",
+    "description": "Yabancılar için ikamet izni nasıl alınır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portal…",
     "h1": "Yabancılar için ikamet izni nasıl alınır?",
     "keywords": [
       "ikamet izni",
@@ -22668,8 +22806,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "calisma-izni-nedir",
-    "title": "Çalışma izni",
-    "description": "Çalışma izni. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Çalışma izni — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Çalışma izni hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danı…",
     "h1": "Çalışma izni",
     "keywords": [
       "çalışma izni",
@@ -22679,7 +22817,11 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     "related": [
       "yabanci-ikamet-izni",
       "is-sozlesmesi-feshi",
-      "sgk-hizmet-dokumu"
+      "sgk-hizmet-dokumu",
+      "evlilikle-vatandaslik",
+      "uluslararasi-koruma",
+      "turist-ikamet-izni",
+      "calisma-izni-muafiyeti"
     ],
     "links": [
       {
@@ -22936,8 +23078,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "sinir-disi-karari",
-    "title": "Sınır dışı kararı",
-    "description": "Sınır dışı kararı. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Sınır dışı kararı — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Sınır dışı kararı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata…",
     "h1": "Sınır dışı kararı",
     "keywords": [
       "sınır dışı kararı",
@@ -23205,7 +23347,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "kvkk-basvuru-hakki",
     "title": "KVKK Başvuru ve Şikayet Hakkı Nedir?",
-    "description": "Veri sorumlusuna başvuru, Kurul şikayeti. Bilgilendirme.",
+    "description": "KVKK kapsamında haklarınız nelerdir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. So…",
     "h1": "KVKK kapsamında haklarınız nelerdir?",
     "keywords": [
       "KVKK başvuru",
@@ -23521,8 +23663,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "bilgi-edinme-basvurusu",
-    "title": "Bilgi edinme başvurusu",
-    "description": "Bilgi edinme başvurusu. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Bilgi edinme başvurusu — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Bilgi edinme başvurusu hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada av…",
     "h1": "Bilgi edinme başvurusu",
     "keywords": [
       "bilgi edinme başvurusu",
@@ -23791,7 +23933,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "cimer-sikayet",
     "title": "CİMER Şikayet / Başvuru Nasıl Yapılır?",
-    "description": "CİMER adımları, süre, takip. Pratik rehber.",
+    "description": "CİMER’e nasıl başvurulur? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada…",
     "h1": "CİMER’e nasıl başvurulur?",
     "keywords": [
       "CİMER şikayet",
@@ -24105,8 +24247,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "belediye-cezasi-itiraz",
-    "title": "Belediye Cezasına İtiraz",
-    "description": "Zabıta/para cezası. İdari dava ana rehber.",
+    "title": "Belediye cezasına nasıl itiraz edilir — Vatandaş Rehberi | Av. Fethi G",
+    "description": "Belediye cezasına nasıl itiraz edilir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. …",
     "h1": "Belediye cezasına nasıl itiraz edilir?",
     "keywords": [
       "belediye cezası itiraz",
@@ -24374,8 +24516,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "imar-durumu-nedir",
-    "title": "İmar durumu",
-    "description": "İmar durumu. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "İmar durumu — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "İmar durumu hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
     "h1": "İmar durumu",
     "keywords": [
       "imar durumu",
@@ -24644,8 +24786,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "yapı-ruhsati-nedir",
-    "title": "Yapı Ruhsatı Nedir?",
-    "description": "Ruhsat. İskan sonraki aşama ana rehberde.",
+    "title": "Yapı ruhsatı nasıl alınır — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Yapı ruhsatı nasıl alınır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyad…",
     "h1": "Yapı ruhsatı nasıl alınır?",
     "keywords": [
       "yapı ruhsatı",
@@ -24913,8 +25055,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "dask-nedir",
-    "title": "DASK Nedir?",
-    "description": "Poliçe. Tapu devri için zorunluluk notu.",
+    "title": "Zorunlu deprem sigortası nedir — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Zorunlu deprem sigortası nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut d…",
     "h1": "Zorunlu deprem sigortası nedir?",
     "keywords": [
       "DASK nedir",
@@ -24924,7 +25066,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     "related": [
       "tapu-devri-nasil-yapilir",
       "trafik-sigortasi-hasar",
-      "emlak-vergisi-nedir"
+      "emlak-vergisi-nedir",
+      "tss-tamamlayici-saglik"
     ],
     "links": [
       {
@@ -25182,8 +25325,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "noter-islemleri",
-    "title": "Noter İşlemleri Nelerdir? Vekâletname",
-    "description": "Vekâlet, taahhütname, satış vaadi. Pratik rehber.",
+    "title": "Noter İşlemleri Nelerdir? Vekâletname | Vatandaş Rehberi",
+    "description": "Noterde hangi işlemler yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut d…",
     "h1": "Noterde hangi işlemler yapılır?",
     "keywords": [
       "noter vekâletname",
@@ -25498,8 +25641,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "vekaletname-azli",
-    "title": "Vekâletname azli",
-    "description": "Vekâletname azli. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Vekâletname azli — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Vekâletname azli hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata …",
     "h1": "Vekâletname azli",
     "keywords": [
       "vekâletname azli",
@@ -25766,8 +25909,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "cek-karsiliksiz",
-    "title": "Karşılıksız Çek Şikayeti ve Süreç",
-    "description": "Karşılıksız çek, şikayet, tazmin. Bilgilendirme.",
+    "title": "Karşılıksız Çek Şikayeti ve Süreç | Vatandaş Rehberi",
+    "description": "Karşılıksız çek durumunda ne yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. S…",
     "h1": "Karşılıksız çek durumunda ne yapılır?",
     "keywords": [
       "karşılıksız çek",
@@ -25776,14 +25919,18 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     ],
     "category": "Ticaret",
     "related": [
-      "senet-nasil-yazilir",
-      "cek-nasil-yazilir",
       "cek-karsiliksiz-ceza",
+      "cari-hesap-sozlesmesi",
+      "franchise-sozlesmesi",
+      "acente-sozlesmesi",
+      "tasima-sozlesmesi",
+      "ticaret-sicili-islemleri",
+      "ticari-defterler",
+      "unvan-tescili",
+      "ticari-arabuluculuk",
+      "teminat-mektubu",
       "cek-ibraz-suresi",
-      "bono-vade",
-      "senet-icra-takibi",
-      "icra-takibi-nedir",
-      "savcilik-suc-duyurusu"
+      "bono-vade"
     ],
     "links": [
       {
@@ -26083,7 +26230,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "sirket-kurulusu",
     "title": "Limited / Anonim Şirket Nasıl Kurulur?",
-    "description": "MERSİS, ana sözleşme, sermaye. Girişimci rehberi.",
+    "description": "Şirket nasıl kurulur? (LTD / A.Ş.) hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somu…",
     "h1": "Şirket nasıl kurulur? (LTD / A.Ş.)",
     "keywords": [
       "limited şirket kuruluşu",
@@ -26092,14 +26239,18 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     ],
     "category": "Ticaret",
     "related": [
-      "ticari-isletme-nedir",
-      "limited-sirket-kurulus",
-      "anonim-sirket-kurulus",
+      "bono-vade",
+      "sirket-borclarinda-ortak",
+      "anonim-sirket-yonetim-kurulu",
+      "ticari-is-karinesi",
+      "fatura-itiraz-suresi",
+      "cari-hesap-sozlesmesi",
+      "acente-sozlesmesi",
+      "tasima-sozlesmesi",
       "sirket-hisse-devri",
-      "ticaret-sicili-islemleri",
-      "haksiz-rekabet-nedir",
-      "marka-tescil",
-      "ticari-defterler"
+      "ticari-defterler",
+      "unvan-tescili",
+      "cek-karsiliksiz-ceza"
     ],
     "links": [
       {
@@ -26398,8 +26549,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "ticari-isletme-nedir",
-    "title": "Ticari işletme",
-    "description": "Ticari işletme. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Ticari işletme — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Ticari işletme hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata da…",
     "h1": "Ticari işletme",
     "keywords": [
       "ticari işletme",
@@ -26667,7 +26818,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "iflas-nedir",
     "title": "İflas Nedir? Konkordato Farkı",
-    "description": "İflas ve konkordato ayrımı. Ana icra ve konkordato sayfaları.",
+    "description": "İflas nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danı…",
     "h1": "İflas nedir?",
     "keywords": [
       "iflas nedir",
@@ -26935,8 +27086,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "icra-inkar-tazminati",
-    "title": "İcra İnkâr Tazminatı Nedir?",
-    "description": "Haksız itiraz tazminatı. Oran ve şartlar yan sayfalarda; itiraz ana spoke.",
+    "title": "İcra inkâr tazminatı nedir — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "İcra inkâr tazminatı nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosya…",
     "h1": "İcra inkâr tazminatı nedir?",
     "keywords": [
       "icra inkâr tazminatı",
@@ -27204,8 +27355,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "nafaka-odenmezse",
-    "title": "Nafaka Ödenmezse İcra ve Tazyik Hapsi",
-    "description": "Nafaka icrası ve tazyik. Nafaka türleri ana rehberde; icra genel sayfası ayrı.",
+    "title": "Nafaka Ödenmezse İcra ve Tazyik Hapsi | Vatandaş Rehberi",
+    "description": "Nafaka ödenmezse ne yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosy…",
     "h1": "Nafaka ödenmezse ne yapılır?",
     "keywords": [
       "nafaka ödenmezse",
@@ -27475,8 +27626,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "ortakligin-giderilmesi-masraf",
-    "title": "İzale-i şuyu masrafı",
-    "description": "İzale-i şuyu masrafı. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "İzale-i şuyu masrafı — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "İzale-i şuyu masrafı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuk…",
     "h1": "İzale-i şuyu masrafı",
     "keywords": [
       "izale-i şuyu masrafı",
@@ -27744,8 +27895,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "e-devlet-icra",
-    "title": "e-Devlet İcra Borcu Sorgulama",
-    "description": "Borç dökümü pratik. Dosya sorgu ve ana icra ayrı.",
+    "title": "e-Devlet İcra Borcu Sorgulama | Vatandaş Rehberi",
+    "description": "e-Devletten icra borcu nasıl bakılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. S…",
     "h1": "e-Devletten icra borcu nasıl bakılır?",
     "keywords": [
       "e-devlet icra borcu",
@@ -28013,8 +28164,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "elektronik-tebligat",
-    "title": "e-Tebligat Ne Zaman Tebliğ Sayılır?",
-    "description": "UETS kuralları. Usulsüzlük ana rehberde.",
+    "title": "e-Tebligat Ne Zaman Tebliğ Sayılır? | Vatandaş Rehberi",
+    "description": "Elektronik tebligat (e-tebligat) nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı.…",
     "h1": "Elektronik tebligat (e-tebligat) nedir?",
     "keywords": [
       "e-tebligat",
@@ -28283,8 +28434,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "dava-harci-nedir",
-    "title": "Dava Harcı ve Gider Avansı",
-    "description": "Harç/avans. Ana dava açma rehberine link.",
+    "title": "Dava harcı nedir? Nasıl hesaplanır — Vatandaş Rehberi | Av. Fethi Güze",
+    "description": "Dava harcı nedir? Nasıl hesaplanır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Som…",
     "h1": "Dava harcı nedir? Nasıl hesaplanır?",
     "keywords": [
       "dava harcı",
@@ -28552,8 +28703,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "arabuluculuk-ucreti",
-    "title": "Arabuluculuk Ücretini Kim Öder?",
-    "description": "Tarife ve paylaşım. Süreç ana rehberde.",
+    "title": "Arabuluculuk Ücretini Kim Öder? | Vatandaş Rehberi",
+    "description": "Arabuluculuk ücreti kim öder? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dos…",
     "h1": "Arabuluculuk ücreti kim öder?",
     "keywords": [
       "arabuluculuk ücreti",
@@ -28821,8 +28972,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "is-kazasi-maluliyet",
-    "title": "İş Kazasında Maluliyet Oranı",
-    "description": "Oran ve tazminat. Ana iş kazası rehberine link.",
+    "title": "İş Kazasında Maluliyet Oranı | Vatandaş Rehberi",
+    "description": "Maluliyet oranı ne anlama gelir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut …",
     "h1": "Maluliyet oranı ne anlama gelir?",
     "keywords": [
       "iş kazası maluliyet",
@@ -29361,8 +29512,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "askeri-hizmet-borclanma",
-    "title": "Askerlik Borçlanması",
-    "description": "Prim. Emeklilik şartları ana.",
+    "title": "Askerlik borçlanması nasıl yapılır — Vatandaş Rehberi | Av. Fethi Güze",
+    "description": "Askerlik borçlanması nasıl yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Som…",
     "h1": "Askerlik borçlanması nasıl yapılır?",
     "keywords": [
       "askerlik borçlanması",
@@ -29630,8 +29781,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "dogum-borclanmasi",
-    "title": "Doğum Borçlanması",
-    "description": "Prim. Emeklilik ana rehber.",
+    "title": "Doğum borçlanması nasıl yapılır — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Doğum borçlanması nasıl yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut …",
     "h1": "Doğum borçlanması nasıl yapılır?",
     "keywords": [
       "doğum borçlanması",
@@ -29899,8 +30050,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "e-devlet-vergi-borcu",
-    "title": "e-Devlet Vergi Borcu",
-    "description": "GİB sorgu. Emlak ana rehberde.",
+    "title": "e-Devletten vergi borcu nasıl bakılır — Vatandaş Rehberi | Av. Fethi G",
+    "description": "e-Devletten vergi borcu nasıl bakılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. …",
     "h1": "e-Devletten vergi borcu nasıl bakılır?",
     "keywords": [
       "e-devlet vergi borcu",
@@ -30168,8 +30319,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "mtk-aidat-icra",
-    "title": "Aidat Ödenmezse İcra",
-    "description": "Kat mülkiyeti aidat icrası. Aidat ve ana icra linkleri.",
+    "title": "Site aidatı ödenmezse ne yapılır — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Site aidatı ödenmezse ne yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut…",
     "h1": "Site aidatı ödenmezse ne yapılır?",
     "keywords": [
       "aidat ödenmezse",
@@ -30437,8 +30588,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "kira-tespit-davasi",
-    "title": "Kira Tespit Davası Nedir?",
-    "description": "Kira bedeli tespit davası ve arabuluculuk. Artış oranı ana rehberde.",
+    "title": "Kira tespit davası ne zaman açılır — Vatandaş Rehberi | Av. Fethi Güze",
+    "description": "Kira tespit davası ne zaman açılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Som…",
     "h1": "Kira tespit davası ne zaman açılır?",
     "keywords": [
       "kira tespit davası",
@@ -30706,8 +30857,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "tahliye-taahhutnamesi",
-    "title": "Tahliye Taahhütnamesi Geçerlilik Şartları",
-    "description": "Tarih, imza, icra. Tüm tahliye yolları ana tahliye rehberinde.",
+    "title": "Tahliye Taahhütnamesi Geçerlilik Şartları | Vatandaş Rehberi",
+    "description": "Tahliye taahhütnamesi geçerli midir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. So…",
     "h1": "Tahliye taahhütnamesi geçerli midir?",
     "keywords": [
       "tahliye taahhütnamesi",
@@ -30976,7 +31127,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "e-devlet-nufus",
     "title": "e-Devlet Nüfus İşlemleri Rehberi",
-    "description": "Kimlik, adres, kayıt örneği. Pratik rehber.",
+    "description": "e-Devlette hangi nüfus işlemleri yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portal…",
     "h1": "e-Devlette hangi nüfus işlemleri yapılır?",
     "keywords": [
       "e-devlet nüfus işlemleri",
@@ -30991,7 +31142,10 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "dogum-belgesi-nasil-alinir",
       "evlilik-basvurusu",
       "ikametgah-belgesi",
-      "askerlik-durum-belgesi"
+      "askerlik-durum-belgesi",
+      "e-devlet-sifresi-alma",
+      "soyadi-degisikligi-davasi",
+      "isim-degisikligi-davasi"
     ],
     "links": [
       {
@@ -31288,8 +31442,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "adres-degisikligi",
-    "title": "Adres değişikliği",
-    "description": "Adres değişikliği. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Adres değişikliği — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Adres değişikliği hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata…",
     "h1": "Adres değişikliği",
     "keywords": [
       "adres değişikliği",
@@ -31556,8 +31710,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "anlasmali-bosanma-sartlari",
-    "title": "Anlaşmalı Boşanma Şartları",
-    "description": "1 yıl, irade, protokol. Genel boşanma süreci ana rehberde.",
+    "title": "Anlaşmalı boşanma şartları nelerdir — Vatandaş Rehberi | Av. Fethi Güz",
+    "description": "Anlaşmalı boşanma şartları nelerdir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. So…",
     "h1": "Anlaşmalı boşanma şartları nelerdir?",
     "keywords": [
       "anlaşmalı boşanma şartları",
@@ -31825,8 +31979,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "cekismeli-bosanma-sureci",
-    "title": "Çekişmeli Boşanma Davası Süreci",
-    "description": "Delil ve kusur. Ana boşanma ve özel sebepler ayrı.",
+    "title": "Çekişmeli Boşanma Davası Süreci | Vatandaş Rehberi",
+    "description": "Çekişmeli boşanma nasıl işler? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut do…",
     "h1": "Çekişmeli boşanma nasıl işler?",
     "keywords": [
       "çekişmeli boşanma",
@@ -32094,8 +32248,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "bosanma-protokolu-ornegi",
-    "title": "Boşanma Protokolünde Neler Yazılır?",
-    "description": "Nafaka, velayet, mal. Anlaşmalı şartlar sayfasına link.",
+    "title": "Boşanma Protokolünde Neler Yazılır? | Vatandaş Rehberi",
+    "description": "Boşanma protokolü nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada …",
     "h1": "Boşanma protokolü nedir?",
     "keywords": [
       "boşanma protokolü",
@@ -32364,7 +32518,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "tedbir-nafakasi-nedir",
     "title": "Tedbir Nafakası Nedir? Boşanma Sırasında",
-    "description": "Tedbir nafakası şartları. Türler ve genel süreç ana nafaka rehberinde.",
+    "description": "Tedbir nafakası nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada av…",
     "h1": "Tedbir nafakası nedir?",
     "keywords": [
       "tedbir nafakası",
@@ -32632,8 +32786,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "yoksulluk-nafakasi-sartlari",
-    "title": "Yoksulluk Nafakası Şartları",
-    "description": "Yoksulluk nafakası kusur ve yoksulluk ölçütleri. Ana nafaka rehberine link.",
+    "title": "Yoksulluk nafakası şartları nelerdir — Vatandaş Rehberi | Av. Fethi Gü",
+    "description": "Yoksulluk nafakası şartları nelerdir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. S…",
     "h1": "Yoksulluk nafakası şartları nelerdir?",
     "keywords": [
       "yoksulluk nafakası şartları",
@@ -32901,7 +33055,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "istirak-nafakasi-nedir",
     "title": "İştirak Nafakası Nedir? Çocuk Nafakası",
-    "description": "İştirak nafakası (çocuk). Artırım ve icra ayrı sayfalarda; genel türler ana rehberde.",
+    "description": "İştirak nafakası nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada a…",
     "h1": "İştirak nafakası nedir?",
     "keywords": [
       "iştirak nafakası",
@@ -33170,8 +33324,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "velayet-degisikligi",
-    "title": "Velayet Değişikliği Davası",
-    "description": "Değişen şartlar. Ana velayet rehberine link.",
+    "title": "Velayet değişikliği nedir — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Velayet değişikliği nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyad…",
     "h1": "Velayet değişikliği nedir?",
     "keywords": [
       "velayet değişikliği",
@@ -33439,8 +33593,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "kisisel-iliski-duzenlemesi",
-    "title": "Kişisel İlişki Düzenlemesi",
-    "description": "Görüşme günleri. Ana velayet rehberine link.",
+    "title": "Çocukla kişisel ilişki nasıl düzenlenir — Vatandaş Rehberi | Av. Fethi",
+    "description": "Çocukla kişisel ilişki nasıl düzenlenir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı…",
     "h1": "Çocukla kişisel ilişki nasıl düzenlenir?",
     "keywords": [
       "kişisel ilişki düzenlemesi",
@@ -33708,8 +33862,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "evlilik-sozlesmesi-nedir",
-    "title": "Evlilik sözleşmesi",
-    "description": "Evlilik sözleşmesi. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Evlilik sözleşmesi — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Evlilik sözleşmesi hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukat…",
     "h1": "Evlilik sözleşmesi",
     "keywords": [
       "evlilik sözleşmesi",
@@ -33976,8 +34130,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "nisan-bozulmasi-tazminat",
-    "title": "Nişan bozulması tazminatı",
-    "description": "Nişan bozulması tazminatı. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Nişan bozulması tazminatı — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Nişan bozulması tazminatı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada…",
     "h1": "Nişan bozulması tazminatı",
     "keywords": [
       "nişan bozulması tazminatı",
@@ -34245,8 +34399,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "ayrilik-karari-nedir",
-    "title": "Ayrılık kararı",
-    "description": "Ayrılık kararı. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Ayrılık kararı — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Ayrılık kararı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata da…",
     "h1": "Ayrılık kararı",
     "keywords": [
       "ayrılık kararı",
@@ -34513,8 +34667,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "aile-konutu-serhi",
-    "title": "Aile konutu şerhi",
-    "description": "Aile konutu şerhi. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Aile konutu şerhi — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Aile konutu şerhi hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata…",
     "h1": "Aile konutu şerhi",
     "keywords": [
       "aile konutu şerhi",
@@ -34781,8 +34935,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "hayata-kast-bosanma",
-    "title": "Hayata Kast / Kötü Muamele ile Boşanma",
-    "description": "Özel boşanma sebebi. Çekişmeli süreç linki.",
+    "title": "Hayata Kast / Kötü Muamele ile Boşanma | Vatandaş Rehberi",
+    "description": "Hayata kast boşanma sebebi midir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut…",
     "h1": "Hayata kast boşanma sebebi midir?",
     "keywords": [
       "hayata kast boşanma",
@@ -35050,8 +35204,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "terk-sebebiyle-bosanma",
-    "title": "Terk Sebebiyle Boşanma",
-    "description": "Terk ihtarı. Ana boşanma rehberine link.",
+    "title": "Terk nedeniyle boşanma nasıl açılır — Vatandaş Rehberi | Av. Fethi Güz",
+    "description": "Terk nedeniyle boşanma nasıl açılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. So…",
     "h1": "Terk nedeniyle boşanma nasıl açılır?",
     "keywords": [
       "terk sebebiyle boşanma",
@@ -35319,8 +35473,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "zina-sebebiyle-bosanma",
-    "title": "Zina Sebebiyle Boşanma",
-    "description": "İspat notu. Çekişmeli süreç linki.",
+    "title": "Zina nedeniyle boşanma — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Zina nedeniyle boşanma hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada av…",
     "h1": "Zina nedeniyle boşanma",
     "keywords": [
       "zina boşanma",
@@ -35588,8 +35742,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "isten-cikarilma-tazminatlari",
-    "title": "İşten Çıkarılınca Hangi Tazminatlar Alınır?",
-    "description": "Kıdem, ihbar, işe iade, kötü niyet — kalem haritası. Her kalemin detayı kendi rehberinde.",
+    "title": "İşten Çıkarılınca Hangi Tazminatlar Alınır? | Vatandaş Rehberi",
+    "description": "İşten çıkarılma tazminatları haritası hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. S…",
     "h1": "İşten çıkarılma tazminatları haritası",
     "keywords": [
       "işten çıkarılma tazminatları",
@@ -35857,8 +36011,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "belirsiz-sureli-is-sozlesmesi",
-    "title": "Belirsiz Süreli İş Sözleşmesi",
-    "description": "Türler. Fesih ana rehberde.",
+    "title": "Belirsiz Süreli İş Sözleşmesi | Vatandaş Rehberi",
+    "description": "Belirsiz süreli iş sözleşmesi nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. So…",
     "h1": "Belirsiz süreli iş sözleşmesi nedir?",
     "keywords": [
       "belirsiz süreli iş sözleşmesi"
@@ -36124,8 +36278,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "belirli-sureli-is-sozlesmesi",
-    "title": "Belirli Süreli İş Sözleşmesi",
-    "description": "Objektif neden. Fesih ana rehberde.",
+    "title": "Belirli Süreli İş Sözleşmesi | Vatandaş Rehberi",
+    "description": "Belirli süreli sözleşme ne zaman geçerli? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portal…",
     "h1": "Belirli süreli sözleşme ne zaman geçerli?",
     "keywords": [
       "belirli süreli iş sözleşmesi"
@@ -36391,8 +36545,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "deneme-suresi-is",
-    "title": "Deneme Süresi İş Sözleşmesi",
-    "description": "Deneme feshi. Ana fesih linki.",
+    "title": "Deneme süresi ne kadar? Haklar — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Deneme süresi ne kadar? Haklar hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut do…",
     "h1": "Deneme süresi ne kadar? Haklar",
     "keywords": [
       "deneme süresi iş kanunu"
@@ -36658,8 +36812,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "yillik-izin-hakki",
-    "title": "Yıllık İzin Hakkı",
-    "description": "İzin. Kullanılmayan izin ücreti işçilik alacağı.",
+    "title": "Yıllık izin kaç gündür — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Yıllık izin kaç gündür? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada a…",
     "h1": "Yıllık izin kaç gündür?",
     "keywords": [
       "yıllık izin hakkı",
@@ -36927,8 +37081,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "ubgt-ucreti",
-    "title": "Ulusal Bayram ve Genel Tatil Ücreti",
-    "description": "Bayram çalışması. Fazla mesai ana rehber.",
+    "title": "Ulusal Bayram ve Genel Tatil Ücreti | Vatandaş Rehberi",
+    "description": "UBGT ücreti nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukat…",
     "h1": "UBGT ücreti nedir?",
     "keywords": [
       "UBGT ücreti",
@@ -37196,8 +37350,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "hafta-tatili-ucreti",
-    "title": "Hafta Tatili Ücreti",
-    "description": "Hafta tatili. Fazla mesai ana.",
+    "title": "Hafta tatilinde çalışma ücreti — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Hafta tatilinde çalışma ücreti hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut do…",
     "h1": "Hafta tatilinde çalışma ücreti",
     "keywords": [
       "hafta tatili ücreti"
@@ -37463,8 +37617,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "asgari-ucret-net-brut",
-    "title": "Asgari ücret net brüt",
-    "description": "Asgari ücret net brüt. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Asgari ücret net brüt — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Asgari ücret net brüt hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avu…",
     "h1": "Asgari ücret net brüt",
     "keywords": [
       "asgari ücret net brüt",
@@ -37732,8 +37886,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "ucretsiz-izin-nedir",
-    "title": "Ücretsiz izin",
-    "description": "Ücretsiz izin. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Ücretsiz izin — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Ücretsiz izin hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata dan…",
     "h1": "Ücretsiz izin",
     "keywords": [
       "ücretsiz izin",
@@ -38002,7 +38156,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "istifa-nasil-edilir",
     "title": "İstifa Nasıl Edilir? Kıdem Riski",
-    "description": "İstifa ve haklı istifa. Kıdem pillar linki.",
+    "description": "İstifa edince kıdem alınır mı? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut do…",
     "h1": "İstifa edince kıdem alınır mı?",
     "keywords": [
       "istifa nasıl edilir",
@@ -38270,8 +38424,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "hakli-fesih-isci",
-    "title": "İşçinin Haklı Fesih Sebepleri",
-    "description": "İşçi haklı fesih. Ana fesih rehberine link.",
+    "title": "İşçinin Haklı Fesih Sebepleri | Vatandaş Rehberi",
+    "description": "İşçi hangi hallerde haklı fesih yapabilir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Porta…",
     "h1": "İşçi hangi hallerde haklı fesih yapabilir?",
     "keywords": [
       "işçi haklı fesih",
@@ -38540,8 +38694,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "isveren-hakli-fesih",
-    "title": "İşverenin Haklı Fesih Sebepleri",
-    "description": "m.25 çerçevesi. Ana fesih ve kıdem linkleri.",
+    "title": "İşverenin Haklı Fesih Sebepleri | Vatandaş Rehberi",
+    "description": "İşveren hangi hallerde haklı fesih yapabilir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Po…",
     "h1": "İşveren hangi hallerde haklı fesih yapabilir?",
     "keywords": [
       "işveren haklı fesih",
@@ -38809,8 +38963,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "kotu-niyet-tazminati",
-    "title": "Kötü Niyet Tazminatı",
-    "description": "Kötü niyetli fesih. Ana fesih linki.",
+    "title": "Kötü niyet tazminatı nedir — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Kötü niyet tazminatı nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosya…",
     "h1": "Kötü niyet tazminatı nedir?",
     "keywords": [
       "kötü niyet tazminatı"
@@ -39076,8 +39230,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "sendika-ozgurlugu",
-    "title": "Sendika özgürlüğü",
-    "description": "Sendika özgürlüğü. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Sendika özgürlüğü — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Sendika özgürlüğü hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata…",
     "h1": "Sendika özgürlüğü",
     "keywords": [
       "sendika özgürlüğü",
@@ -39345,8 +39499,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "toplu-is-sozlesmesi",
-    "title": "Toplu iş sözleşmesi",
-    "description": "Toplu iş sözleşmesi. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Toplu iş sözleşmesi — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Toplu iş sözleşmesi hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuka…",
     "h1": "Toplu iş sözleşmesi",
     "keywords": [
       "toplu iş sözleşmesi",
@@ -39614,8 +39768,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "is-guvenligi-uzmani",
-    "title": "İş Güvenliği Yükümlülükleri",
-    "description": "İSG. İş kazası sorumluluğu linki.",
+    "title": "İş güvenliği yükümlülükleri nelerdir — Vatandaş Rehberi | Av. Fethi Gü",
+    "description": "İş güvenliği yükümlülükleri nelerdir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. S…",
     "h1": "İş güvenliği yükümlülükleri nelerdir?",
     "keywords": [
       "iş güvenliği uzmanı",
@@ -39883,8 +40037,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "esdeger-is-esit-ucret",
-    "title": "Eşit işe eşit ücret",
-    "description": "Eşit işe eşit ücret. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Eşit işe eşit ücret — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Eşit işe eşit ücret hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuka…",
     "h1": "Eşit işe eşit ücret",
     "keywords": [
       "eşit işe eşit ücret",
@@ -40152,8 +40306,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "part-time-is-sozlesmesi",
-    "title": "Part-Time İş Sözleşmesi",
-    "description": "Part-time. Fesih/kıdem linkleri.",
+    "title": "Kısmi süreli işte kıdem ve izin — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Kısmi süreli işte kıdem ve izin hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut d…",
     "h1": "Kısmi süreli işte kıdem ve izin",
     "keywords": [
       "part time iş kanunu",
@@ -40422,8 +40576,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "uzaklastirma-isyerinden",
-    "title": "İşyerinden uzaklaştırma",
-    "description": "İşyerinden uzaklaştırma. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "İşyerinden uzaklaştırma — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "İşyerinden uzaklaştırma hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada a…",
     "h1": "İşyerinden uzaklaştırma",
     "keywords": [
       "işyerinden uzaklaştırma",
@@ -40692,8 +40846,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "iscilik-alacaklari-zamansimi",
-    "title": "İşçilik Alacaklarında Zamanaşımı",
-    "description": "Kıdem ve diğer işçilik alacaklarında zamanaşımı notları. Esas hak ana kıdem rehberinde.",
+    "title": "İşçilik Alacaklarında Zamanaşımı | Vatandaş Rehberi",
+    "description": "İşçilik alacaklarında zamanaşımı ne kadar? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Porta…",
     "h1": "İşçilik alacaklarında zamanaşımı ne kadar?",
     "keywords": [
       "işçilik alacakları zamanaşımı",
@@ -40962,7 +41116,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "haciz-islemleri-nasil-yapilir",
     "title": "Haciz İşlemleri Nasıl Yapılır?",
-    "description": "Menkul, maaş, tapu haczi özeti. Ana icra ve haciz kaldırma sayfalarına link.",
+    "description": "Haciz nasıl yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuk…",
     "h1": "Haciz nasıl yapılır?",
     "keywords": [
       "haciz nasıl yapılır",
@@ -41230,8 +41384,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "maas-haczi-orani",
-    "title": "Maaş Haczi Oranı Ne Kadar?",
-    "description": "Maaş haczi sınırları. Genel haciz ve nafaka önceliği ayrı.",
+    "title": "Maaştan ne kadar haciz konabilir — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Maaştan ne kadar haciz konabilir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut…",
     "h1": "Maaştan ne kadar haciz konabilir?",
     "keywords": [
       "maaş haczi oranı",
@@ -41500,8 +41654,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "banka-hesabi-haczi",
-    "title": "Banka Hesabına Haciz",
-    "description": "Hesap haczi ve itiraz. Genel haciz rehberine link.",
+    "title": "Banka hesabına haciz gelirse ne yapılır — Vatandaş Rehberi | Av. Fethi",
+    "description": "Banka hesabına haciz gelirse ne yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı…",
     "h1": "Banka hesabına haciz gelirse ne yapılır?",
     "keywords": [
       "banka hesabı haczi",
@@ -41769,8 +41923,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "arac-haczi-nedir",
-    "title": "Araç Haczi Nedir?",
-    "description": "Taşıt haczi. Genel haciz ve kaldırma sayfalarına link.",
+    "title": "Araç haczi nasıl işler — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Araç haczi nasıl işler? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada a…",
     "h1": "Araç haczi nasıl işler?",
     "keywords": [
       "araç haczi",
@@ -42037,8 +42191,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "tapu-haczi-nedir",
-    "title": "Tapuya Haciz Şerhi",
-    "description": "Gayrimenkul haczi. Satış ihalesi ayrı sayfada.",
+    "title": "Tapuya haciz nasıl konulur — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Tapuya haciz nasıl konulur? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosya…",
     "h1": "Tapuya haciz nasıl konulur?",
     "keywords": [
       "tapu haczi",
@@ -42306,8 +42460,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "icra-satis-ihalesi",
-    "title": "İcra Satış İhalesi",
-    "description": "Cebri satış. İhalenin feshi ve sıra cetveli ayrı.",
+    "title": "İcra ihalesine nasıl girilir — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "İcra ihalesine nasıl girilir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dos…",
     "h1": "İcra ihalesine nasıl girilir?",
     "keywords": [
       "icra satış ihalesi",
@@ -42575,8 +42729,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "itirazin-iptali-davasi",
-    "title": "İtirazın İptali Davası",
-    "description": "Alacaklının yolu. Ödeme emrine itiraz spoke’una ve ana icraya link.",
+    "title": "İtirazın iptali davası nasıl açılır — Vatandaş Rehberi | Av. Fethi Güz",
+    "description": "İtirazın iptali davası nasıl açılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. So…",
     "h1": "İtirazın iptali davası nasıl açılır?",
     "keywords": [
       "itirazın iptali davası",
@@ -42844,8 +42998,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "itirazin-kaldirilmasi",
-    "title": "İtirazın Kaldırılması (İcra)",
-    "description": "Kesin/geçici kaldırma. Senet ve itiraz sayfalarına link.",
+    "title": "İtirazın Kaldırılması (İcra) | Vatandaş Rehberi",
+    "description": "İtirazın kaldırılması nasıl istenir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. So…",
     "h1": "İtirazın kaldırılması nasıl istenir?",
     "keywords": [
       "itirazın kaldırılması",
@@ -43114,8 +43268,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "menfi-tespit-davasi",
-    "title": "Menfi Tespit Davası",
-    "description": "Borçlu olunmadığının tespiti. İstirdat ve ana icra linkleri.",
+    "title": "Menfi tespit davası ne zaman açılır — Vatandaş Rehberi | Av. Fethi Güz",
+    "description": "Menfi tespit davası ne zaman açılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. So…",
     "h1": "Menfi tespit davası ne zaman açılır?",
     "keywords": [
       "menfi tespit davası",
@@ -43383,8 +43537,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "istirdat-davasi",
-    "title": "İstirdat Davası Nedir?",
-    "description": "İcra sonrası geri alma. Menfi tespit linki.",
+    "title": "İstirdat davası nedir — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "İstirdat davası nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada av…",
     "h1": "İstirdat davası nedir?",
     "keywords": [
       "istirdat davası",
@@ -43652,8 +43806,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "konkordato-nedir",
-    "title": "Konkordato Nedir?",
-    "description": "Mühlet ve şartlar. İflas farkı sayfasına link.",
+    "title": "Konkordato nedir? Kimler başvurur — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Konkordato nedir? Kimler başvurur? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somu…",
     "h1": "Konkordato nedir? Kimler başvurur?",
     "keywords": [
       "konkordato nedir",
@@ -43921,8 +44075,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "icra-vekalet-ucreti",
-    "title": "İcra Vekâlet Ücreti",
-    "description": "Tarife notu. Ana icra rehberine link.",
+    "title": "İcra dosyasında vekâlet ücreti — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "İcra dosyasında vekâlet ücreti hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut do…",
     "h1": "İcra dosyasında vekâlet ücreti",
     "keywords": [
       "icra vekalet ücreti",
@@ -44190,8 +44344,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "kambiyo-senetlerine-ozgu-takip",
-    "title": "Kambiyo Senetlerine Özgü İcra",
-    "description": "Çek/bono/poliçe. Senet icra ve çek sayfalarına link.",
+    "title": "Kambiyo Senetlerine Özgü İcra | Vatandaş Rehberi",
+    "description": "Kambiyo senetlerinde icra nasıl başlar? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı.…",
     "h1": "Kambiyo senetlerinde icra nasıl başlar?",
     "keywords": [
       "kambiyo senetleri icra",
@@ -44461,7 +44615,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "ilamli-icra-nedir",
     "title": "İlamlı İcra Nedir? İlamsızdan Farkı",
-    "description": "Mahkeme ilamı ile takip. Genel icra ve itiraz farkları ana/yan sayfalarda.",
+    "description": "İlamlı icra nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukat…",
     "h1": "İlamlı icra nedir?",
     "keywords": [
       "ilamlı icra",
@@ -44729,8 +44883,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "icra-borcu-yapislandirma",
-    "title": "İcra Borcu Taksitlendirme",
-    "description": "Ödeme planı ve feragat. Ana icra ve taahhüt sayfalarına link.",
+    "title": "İcra borcu nasıl taksitlendirilir — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "İcra borcu nasıl taksitlendirilir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somu…",
     "h1": "İcra borcu nasıl taksitlendirilir?",
     "keywords": [
       "icra borcu taksit",
@@ -44999,7 +45153,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "kira-sozlesmesi-nasil-yapilir",
     "title": "Kira Sözleşmesi Nasıl Yapılır?",
-    "description": "Yazılı kira, e-Devlet bildirim. Artış ve tahliye ayrı rehberlerde.",
+    "description": "Kira sözleşmesi nasıl düzenlenir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut…",
     "h1": "Kira sözleşmesi nasıl düzenlenir?",
     "keywords": [
       "kira sözleşmesi nasıl yapılır",
@@ -45267,8 +45421,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "kiraci-haklari-nelerdir",
-    "title": "Kiracı Hakları Nelerdir?",
-    "description": "Konut kiracısı hakları özeti. Artış, depozito, tahliye detayları kendi sayfalarında.",
+    "title": "Kiracının yasal hakları nelerdir — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Kiracının yasal hakları nelerdir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut…",
     "h1": "Kiracının yasal hakları nelerdir?",
     "keywords": [
       "kiracı hakları",
@@ -45536,8 +45690,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "kiraya-veren-haklari",
-    "title": "Kiraya Veren (Ev Sahibi) Hakları",
-    "description": "Kira alacağı ve tahliye hakları özeti. Usul sayfaları ayrı.",
+    "title": "Kiraya Veren (Ev Sahibi) Hakları | Vatandaş Rehberi",
+    "description": "Ev sahibinin hakları nelerdir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut do…",
     "h1": "Ev sahibinin hakları nelerdir?",
     "keywords": [
       "kiraya veren hakları",
@@ -45805,8 +45959,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "kira-odeme-ihtari",
-    "title": "Kira Ödememe İhtarı ve Temerrüt",
-    "description": "İki haklı ihtar ve temerrüt. Tahliye ve icra sayfalarına link.",
+    "title": "Kira Ödememe İhtarı ve Temerrüt | Vatandaş Rehberi",
+    "description": "Kira ödenmezse ihtar nasıl çekilir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Som…",
     "h1": "Kira ödenmezse ihtar nasıl çekilir?",
     "keywords": [
       "kira ihtarı",
@@ -46077,8 +46231,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "isyeri-kirasi-tahliye",
-    "title": "İşyeri Kirasında Tahliye",
-    "description": "İşyeri tahliye notları. Ana tahliye rehberine link.",
+    "title": "İşyeri kiracısı nasıl tahliye edilir — Vatandaş Rehberi | Av. Fethi Gü",
+    "description": "İşyeri kiracısı nasıl tahliye edilir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. S…",
     "h1": "İşyeri kiracısı nasıl tahliye edilir?",
     "keywords": [
       "işyeri kira tahliye",
@@ -46346,8 +46500,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "kira-uyusmazligi-arabuluculuk",
-    "title": "Kira Uyuşmazlığında Arabuluculuk",
-    "description": "Kira arabuluculuk. Ana arabuluculuk ve kira artışı linkleri.",
+    "title": "Kira Uyuşmazlığında Arabuluculuk | Vatandaş Rehberi",
+    "description": "Kira davasında arabuluculuk zorunlu mu? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı.…",
     "h1": "Kira davasında arabuluculuk zorunlu mu?",
     "keywords": [
       "kira arabuluculuk"
@@ -46613,8 +46767,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "alt-kira-ve-devir",
-    "title": "Alt Kira ve Kira Devir Hakkı",
-    "description": "Alt kira ve devir izni. Sözleşme kurma rehberine link.",
+    "title": "Alt Kira ve Kira Devir Hakkı | Vatandaş Rehberi",
+    "description": "Alt kira serbest midir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada a…",
     "h1": "Alt kira serbest midir?",
     "keywords": [
       "alt kira",
@@ -46884,7 +47038,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "kira-bedeli-odeme-sekli",
     "title": "Kira Bedeli Nasıl Ödenmeli? İspat",
-    "description": "Banka/dekont ispatı. Temerrüt ve artış ayrı sayfalarda.",
+    "description": "Kira ödemesi nasıl belgelenir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut do…",
     "h1": "Kira ödemesi nasıl belgelenir?",
     "keywords": [
       "kira ödeme ispatı",
@@ -47153,8 +47307,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "tuketici-kredisi-cayma",
-    "title": "Tüketici Kredisi Cayma Hakkı",
-    "description": "14 gün kredi cayma. Hakem heyeti ana.",
+    "title": "Tüketici Kredisi Cayma Hakkı | Vatandaş Rehberi",
+    "description": "Tüketici kredisinden nasıl cayılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Som…",
     "h1": "Tüketici kredisinden nasıl cayılır?",
     "keywords": [
       "tüketici kredisi cayma",
@@ -47423,7 +47577,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "kredi-karti-itiraz",
     "title": "Kredi Kartı Harcama İtirazı Nasıl Yapılır?",
-    "description": "Yetkisiz işlem, banka itirazı. Bilgilendirme.",
+    "description": "Kredi kartı harcamasına nasıl itiraz edilir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Por…",
     "h1": "Kredi kartı harcamasına nasıl itiraz edilir?",
     "keywords": [
       "kredi kartı itiraz",
@@ -47734,8 +47888,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "kredi-borcu-yapislandirma",
-    "title": "Kredi borcu yapılandırma",
-    "description": "Kredi borcu yapılandırma. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Kredi borcu yapılandırma — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Kredi borcu yapılandırma hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada …",
     "h1": "Kredi borcu yapılandırma",
     "keywords": [
       "kredi borcu yapılandırma",
@@ -48002,8 +48156,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "garanti-belgesi-haklari",
-    "title": "Garanti Belgesi Hakları",
-    "description": "Onarım/iade. Ayıp sayfasına link.",
+    "title": "Garanti süresi içinde ne talep edilir — Vatandaş Rehberi | Av. Fethi G",
+    "description": "Garanti süresi içinde ne talep edilir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. …",
     "h1": "Garanti süresi içinde ne talep edilir?",
     "keywords": [
       "garanti belgesi hakları",
@@ -48271,8 +48425,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "internet-alisveris-iade",
-    "title": "İnternet Alışverişinde İade",
-    "description": "Pratik iade. Cayma hakkı sayfasına link.",
+    "title": "Online alışveriş iade nasıl yapılır — Vatandaş Rehberi | Av. Fethi Güz",
+    "description": "Online alışveriş iade nasıl yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. So…",
     "h1": "Online alışveriş iade nasıl yapılır?",
     "keywords": [
       "internet alışveriş iade",
@@ -48540,8 +48694,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "abonelik-taahhut-cezasi",
-    "title": "Taahhütlü Abonelik Cezası",
-    "description": "Erken iptal. Abonelik iptali ve hakem linkleri.",
+    "title": "Taahhüt bozma cezası nasıl düşürülür — Vatandaş Rehberi | Av. Fethi Gü",
+    "description": "Taahhüt bozma cezası nasıl düşürülür? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. S…",
     "h1": "Taahhüt bozma cezası nasıl düşürülür?",
     "keywords": [
       "taahhüt bozma cezası",
@@ -48809,8 +48963,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "sigorta-tazminat-reddi",
-    "title": "Sigorta Tazminatı Reddedilirse Ne Yapılır?",
-    "description": "İtiraz, tahkim, dava. Rehber.",
+    "title": "Sigorta Tazminatı Reddedilirse Ne Yapılır? | Vatandaş Rehberi",
+    "description": "Sigorta hasar ödemezse ne yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somu…",
     "h1": "Sigorta hasar ödemezse ne yapılır?",
     "keywords": [
       "sigorta tazminat red",
@@ -49122,8 +49276,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "kasko-hasar-sureci",
-    "title": "Kasko hasar süreci",
-    "description": "Kasko hasar süreci. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Kasko hasar süreci — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Kasko hasar süreci hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukat…",
     "h1": "Kasko hasar süreci",
     "keywords": [
       "kasko hasar süreci",
@@ -49390,8 +49544,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "tss-tamamlayici-saglik",
-    "title": "Tamamlayıcı sağlık sigortası",
-    "description": "Tamamlayıcı sağlık sigortası. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Tamamlayıcı sağlık sigortası | Vatandaş Rehberi",
+    "description": "Tamamlayıcı sağlık sigortası hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosy…",
     "h1": "Tamamlayıcı sağlık sigortası",
     "keywords": [
       "tamamlayıcı sağlık sigortası",
@@ -49659,7 +49813,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "malpraktis-davasi",
     "title": "Malpraktis (Tıbbi Hata) Davası Nedir?",
-    "description": "Hekim sorumluluğu, ispat, zamanaşımı. Bilgilendirme.",
+    "description": "Malpraktis davası nasıl açılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut d…",
     "h1": "Malpraktis davası nasıl açılır?",
     "keywords": [
       "malpraktis davası",
@@ -49969,8 +50123,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "mirascilik-belgesi-nedir",
-    "title": "Mirasçılık Belgesi Nedir?",
-    "description": "Veraset ilamı ile ilişki. Alma yolları ana rehberde.",
+    "title": "Mirasçılık belgesi ne işe yarar — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Mirasçılık belgesi ne işe yarar? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut …",
     "h1": "Mirasçılık belgesi ne işe yarar?",
     "keywords": [
       "mirasçılık belgesi nedir"
@@ -50236,8 +50390,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "tenkis-davasi-nedir",
-    "title": "Tenkis Davası Nedir?",
-    "description": "Saklı pay ihlali davası. Saklı pay tanımı linki.",
+    "title": "Tenkis davası nasıl açılır — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Tenkis davası nasıl açılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosya…",
     "h1": "Tenkis davası nasıl açılır?",
     "keywords": [
       "tenkis davası",
@@ -50506,8 +50660,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "miras-ortakligi-nedir",
-    "title": "Miras Ortaklığı Nedir?",
-    "description": "Elbirliği mülkiyeti. İzale ve pay linkleri.",
+    "title": "Miras ortaklığı nasıl yönetilir — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Miras ortaklığı nasıl yönetilir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut …",
     "h1": "Miras ortaklığı nasıl yönetilir?",
     "keywords": [
       "miras ortaklığı",
@@ -50775,8 +50929,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "muris-muvazaasi",
-    "title": "Muris Muvazaası ve Tapu İptal",
-    "description": "Tapu iptal. Saklı pay ve veraset linkleri.",
+    "title": "Muris Muvazaası ve Tapu İptal | Vatandaş Rehberi",
+    "description": "Muris muvazaası davası nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dos…",
     "h1": "Muris muvazaası davası nedir?",
     "keywords": [
       "muris muvazaası",
@@ -51043,8 +51197,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "olume-bagli-tasarruf",
-    "title": "Ölüme Bağlı Tasarruf Nedir?",
-    "description": "Vasiyet ve miras sözleşmesi. Vasiyetname linki.",
+    "title": "Ölüme bağlı tasarruflar nelerdir — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Ölüme bağlı tasarruflar nelerdir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut…",
     "h1": "Ölüme bağlı tasarruflar nelerdir?",
     "keywords": [
       "ölüme bağlı tasarruf",
@@ -51312,8 +51466,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "miras-paylasim-sozlesmesi",
-    "title": "Miras Paylaşım Sözleşmesi",
-    "description": "Taksim. Pay hesabı ve izale linkleri.",
+    "title": "Miras nasıl paylaşılır — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Miras nasıl paylaşılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada a…",
     "h1": "Miras nasıl paylaşılır?",
     "keywords": [
       "miras paylaşım sözleşmesi",
@@ -51581,8 +51735,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "veraset-ve-intikal-vergisi",
-    "title": "Veraset ve İntikal Vergisi",
-    "description": "Beyan ve oran. Veraset ilamı sonrası adım.",
+    "title": "Veraset ve intikal vergisi nasıl ödenir — Vatandaş Rehberi | Av. Fethi",
+    "description": "Veraset ve intikal vergisi nasıl ödenir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı…",
     "h1": "Veraset ve intikal vergisi nasıl ödenir?",
     "keywords": [
       "veraset ve intikal vergisi",
@@ -51850,8 +52004,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "kat-irtifaki-nedir",
-    "title": "Kat irtifakı",
-    "description": "Kat irtifakı. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Kat irtifakı — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Kat irtifakı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danı…",
     "h1": "Kat irtifakı",
     "keywords": [
       "kat irtifakı",
@@ -52118,8 +52272,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "ipotek-nedir",
-    "title": "İpotek Nedir? Kaldırma",
-    "description": "Fek. Ana tapu devri linki.",
+    "title": "İpotek nedir? Nasıl kaldırılır — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "İpotek nedir? Nasıl kaldırılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut d…",
     "h1": "İpotek nedir? Nasıl kaldırılır?",
     "keywords": [
       "ipotek nedir",
@@ -52387,8 +52541,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "intifa-hakki-nedir",
-    "title": "İntifa hakkı",
-    "description": "İntifa hakkı. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "İntifa hakkı — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "İntifa hakkı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danı…",
     "h1": "İntifa hakkı",
     "keywords": [
       "intifa hakkı",
@@ -52657,8 +52811,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "irtifak-hakki-nedir",
-    "title": "İrtifak hakkı",
-    "description": "İrtifak hakkı. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "İrtifak hakkı — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "İrtifak hakkı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata dan…",
     "h1": "İrtifak hakkı",
     "keywords": [
       "irtifak hakkı",
@@ -52927,8 +53081,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "zilyetlik-nedir",
-    "title": "Zilyetlik",
-    "description": "Zilyetlik. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Zilyetlik — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Zilyetlik hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
     "h1": "Zilyetlik",
     "keywords": [
       "zilyetlik",
@@ -53195,8 +53349,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "tapu-kaydi-nasil-alinir",
-    "title": "Tapu Kaydı / TAKBİS",
-    "description": "e-Devlet tapu. Ana devir rehberine link.",
+    "title": "Tapu kaydı nasıl sorgulanır — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Tapu kaydı nasıl sorgulanır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosy…",
     "h1": "Tapu kaydı nasıl sorgulanır?",
     "keywords": [
       "tapu kaydı sorgulama",
@@ -53467,7 +53621,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "tapu-harci-hesaplama",
     "title": "Tapu Harcı Nasıl Hesaplanır?",
-    "description": "Alıcı-satıcı harcı. Ana devir rehberine link.",
+    "description": "Tapu harcı ne kadar? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuk…",
     "h1": "Tapu harcı ne kadar?",
     "keywords": [
       "tapu harcı hesaplama",
@@ -53735,8 +53889,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "on-alim-sufa-hakki",
-    "title": "Önalım hakkı",
-    "description": "Önalım hakkı. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Önalım hakkı — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Önalım hakkı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danı…",
     "h1": "Önalım hakkı",
     "keywords": [
       "önalım hakkı",
@@ -54003,8 +54157,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "el-atmanin-onlenmesi",
-    "title": "El Atmanın Önlenmesi",
-    "description": "Müdahalenin men’i. Kamulaştırma ile ilişki.",
+    "title": "El atmanın önlenmesi davası nedir — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "El atmanın önlenmesi davası nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somu…",
     "h1": "El atmanın önlenmesi davası nedir?",
     "keywords": [
       "el atmanın önlenmesi",
@@ -54272,8 +54426,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "ecrimisil-nedir",
-    "title": "Ecrimisil Nedir?",
-    "description": "Ecrimisil. El atma linki.",
+    "title": "Haksız işgal tazminatı nedir — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Haksız işgal tazminatı nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dos…",
     "h1": "Haksız işgal tazminatı nedir?",
     "keywords": [
       "ecrimisil nedir",
@@ -54541,8 +54695,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "sikayet-suresi-ceza",
-    "title": "Şikâyete Bağlı Suçlarda Süre",
-    "description": "6 ay kuralı. Suç duyurusu ana.",
+    "title": "Şikâyete Bağlı Suçlarda Süre | Vatandaş Rehberi",
+    "description": "Şikâyet süresi ne kadardır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosya…",
     "h1": "Şikâyet süresi ne kadardır?",
     "keywords": [
       "şikayet süresi",
@@ -54810,8 +54964,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "gozalti-suresi",
-    "title": "Gözaltı Süresi",
-    "description": "Süreler. Gözaltı hakları linki.",
+    "title": "Gözaltı en fazla ne kadar — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Gözaltı en fazla ne kadar? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyad…",
     "h1": "Gözaltı en fazla ne kadar?",
     "keywords": [
       "gözaltı süresi",
@@ -55080,8 +55234,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "tutuklama-nedir",
-    "title": "Tutuklama Nedir? Şartları",
-    "description": "Kuvvetli şüphe, kaçma, delil. Bilgilendirme.",
+    "title": "Tutuklama şartları nelerdir — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Tutuklama şartları nelerdir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosy…",
     "h1": "Tutuklama şartları nelerdir?",
     "keywords": [
       "tutuklama nedir",
@@ -55396,8 +55550,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "adli-kontrol-nedir",
-    "title": "Adli kontrol",
-    "description": "Adli kontrol. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Adli kontrol — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Adli kontrol hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danı…",
     "h1": "Adli kontrol",
     "keywords": [
       "adli kontrol",
@@ -55664,8 +55818,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "bekletici-mesele",
-    "title": "Bekletici mesele",
-    "description": "Bekletici mesele. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Bekletici mesele — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Bekletici mesele hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata …",
     "h1": "Bekletici mesele",
     "keywords": [
       "bekletici mesele",
@@ -55932,8 +56086,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "hizli-yargilama-usulu",
-    "title": "Seri muhakeme",
-    "description": "Seri muhakeme. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Seri muhakeme — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Seri muhakeme hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata dan…",
     "h1": "Seri muhakeme",
     "keywords": [
       "seri muhakeme",
@@ -56201,8 +56355,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "hakaret-sucu-nedir",
-    "title": "Hakaret Suçu ve Şikâyet",
-    "description": "TCK hakaret. Suç duyurusu ana.",
+    "title": "Hakaret suçu şikâyeti nasıl yapılır — Vatandaş Rehberi | Av. Fethi Güz",
+    "description": "Hakaret suçu şikâyeti nasıl yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. So…",
     "h1": "Hakaret suçu şikâyeti nasıl yapılır?",
     "keywords": [
       "hakaret suçu",
@@ -56470,8 +56624,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "tehdit-sucu-nedir",
-    "title": "Tehdit Suçu",
-    "description": "Tehdit. Suç duyurusu ana.",
+    "title": "Tehdit suçu şikâyeti — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Tehdit suçu şikâyeti hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuk…",
     "h1": "Tehdit suçu şikâyeti",
     "keywords": [
       "tehdit suçu",
@@ -56739,8 +56893,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "dolandiricilik-sucu",
-    "title": "Dolandırıcılık Suçu",
-    "description": "İnternet/banka. Suç duyurusu ana.",
+    "title": "Dolandırıcılık şikâyeti nasıl yapılır — Vatandaş Rehberi | Av. Fethi G",
+    "description": "Dolandırıcılık şikâyeti nasıl yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. …",
     "h1": "Dolandırıcılık şikâyeti nasıl yapılır?",
     "keywords": [
       "dolandırıcılık suçu",
@@ -57008,7 +57162,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "kisisel-verilerin-kaydedilmesi",
-    "title": "Kişisel verilerin kaydedilmesi suçu",
+    "title": "Kişisel verilerin kaydedilmesi suçu | Vatandaş Rehberi",
     "description": "Kişisel verilerin kaydedilmesi suçu. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
     "h1": "Kişisel verilerin kaydedilmesi suçu",
     "keywords": [
@@ -57277,7 +57431,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "trafik-guvenligini-tehlikeye-sokma",
-    "title": "Trafik güvenliğini tehlikeye sokma",
+    "title": "Trafik güvenliğini tehlikeye sokma | Vatandaş Rehberi",
     "description": "Trafik güvenliğini tehlikeye sokma. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
     "h1": "Trafik güvenliğini tehlikeye sokma",
     "keywords": [
@@ -57546,8 +57700,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "cocuk-teslimi-icra",
-    "title": "Çocuk Teslimi İcrası",
-    "description": "İcra. Velayet ve kişisel ilişki linkleri.",
+    "title": "Çocuk teslimi icrası nasıl yapılır — Vatandaş Rehberi | Av. Fethi Güze",
+    "description": "Çocuk teslimi icrası nasıl yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Som…",
     "h1": "Çocuk teslimi icrası nasıl yapılır?",
     "keywords": [
       "çocuk teslimi icra"
@@ -57813,8 +57967,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "dava-acilmasi-sartlari",
-    "title": "Dava Açılmasının Şartları",
-    "description": "Hukuki yarar, ehliyet. Ana dava rehberine link.",
+    "title": "Dava açmak için ne gerekir — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Dava açmak için ne gerekir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosya…",
     "h1": "Dava açmak için ne gerekir?",
     "keywords": [
       "dava açma şartları",
@@ -58083,7 +58237,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "yetkili-mahkeme-nedir",
     "title": "Yetkili Mahkeme Nasıl Belirlenir?",
-    "description": "Genel/özel yetki. Ana dava rehberine link.",
+    "description": "Hangi mahkemede dava açılır? (yetki) hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. So…",
     "h1": "Hangi mahkemede dava açılır? (yetki)",
     "keywords": [
       "yetkili mahkeme",
@@ -58351,8 +58505,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "gorevli-mahkeme-nedir",
-    "title": "Görevli Mahkeme Nedir?",
-    "description": "Asliye/sulh/iş. Ana dava rehberine link.",
+    "title": "Görevli mahkeme nasıl anlaşılır — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Görevli mahkeme nasıl anlaşılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut …",
     "h1": "Görevli mahkeme nasıl anlaşılır?",
     "keywords": [
       "görevli mahkeme",
@@ -58620,8 +58774,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "delil-baslangici-nedir",
-    "title": "Delil başlangıcı",
-    "description": "Delil başlangıcı. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Delil başlangıcı — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Delil başlangıcı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata …",
     "h1": "Delil başlangıcı",
     "keywords": [
       "delil başlangıcı",
@@ -58889,8 +59043,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "kesin-delil-nedir",
-    "title": "Kesin delil",
-    "description": "Kesin delil. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Kesin delil — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Kesin delil hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
     "h1": "Kesin delil",
     "keywords": [
       "kesin delil",
@@ -59158,8 +59312,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "islah-nedir",
-    "title": "Islah",
-    "description": "Islah. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Islah — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Islah hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
     "h1": "Islah",
     "keywords": [
       "ıslah",
@@ -59428,8 +59582,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "belirsiz-alacak-davasi",
-    "title": "Belirsiz alacak davası",
-    "description": "Belirsiz alacak davası. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Belirsiz alacak davası — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Belirsiz alacak davası hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada av…",
     "h1": "Belirsiz alacak davası",
     "keywords": [
       "belirsiz alacak davası",
@@ -59697,8 +59851,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "davaya-mudahale",
-    "title": "Davaya müdahale",
-    "description": "Davaya müdahale. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Davaya müdahale — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Davaya müdahale hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata d…",
     "h1": "Davaya müdahale",
     "keywords": [
       "davaya müdahale",
@@ -59966,8 +60120,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "ihtiyati-tedbir-teminati",
-    "title": "İhtiyati Tedbirde Teminat",
-    "description": "Teminat. Ana tedbir rehberine link.",
+    "title": "İhtiyati tedbir teminatı ne kadardır — Vatandaş Rehberi | Av. Fethi Gü",
+    "description": "İhtiyati tedbir teminatı ne kadardır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. S…",
     "h1": "İhtiyati tedbir teminatı ne kadardır?",
     "keywords": [
       "ihtiyati tedbir teminatı"
@@ -60233,8 +60387,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "kesinlesme-senedi",
-    "title": "Kesinleşme Şerhi",
-    "description": "Kesinleşme. İstinaf/temyiz sonrası.",
+    "title": "Mahkeme kararı ne zaman kesinleşir — Vatandaş Rehberi | Av. Fethi Güze",
+    "description": "Mahkeme kararı ne zaman kesinleşir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Som…",
     "h1": "Mahkeme kararı ne zaman kesinleşir?",
     "keywords": [
       "kesinleşme şerhi",
@@ -60502,8 +60656,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "vekâlet-ucreti-karsi-taraf",
-    "title": "Karşı taraf vekâlet ücreti",
-    "description": "Karşı taraf vekâlet ücreti. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Karşı taraf vekâlet ücreti — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Karşı taraf vekâlet ücreti hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyad…",
     "h1": "Karşı taraf vekâlet ücreti",
     "keywords": [
       "karşı taraf vekâlet ücreti",
@@ -60771,8 +60925,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "arabuluculuk-son-tutanak",
-    "title": "Arabuluculuk Son Tutanak",
-    "description": "Anlaşamama tutanağı. Dava şartı ana rehberde.",
+    "title": "Arabuluculuk son tutanağı ne demektir — Vatandaş Rehberi | Av. Fethi G",
+    "description": "Arabuluculuk son tutanağı ne demektir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. …",
     "h1": "Arabuluculuk son tutanağı ne demektir?",
     "keywords": [
       "arabuluculuk son tutanak",
@@ -61040,8 +61194,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "iptal-davasi-nedir",
-    "title": "İptal Davası Nedir? İYUK",
-    "description": "İşlemin iptali. Ana idari dava rehberine link.",
+    "title": "İptal davası nedir? Nasıl açılır — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "İptal davası nedir? Nasıl açılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut…",
     "h1": "İptal davası nedir? Nasıl açılır?",
     "keywords": [
       "iptal davası",
@@ -61309,8 +61463,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "tam-yargi-davasi",
-    "title": "Tam Yargı Davası Nedir?",
-    "description": "Zarar tazmini. Ana idari dava rehberine link.",
+    "title": "Tam yargı davası nedir — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Tam yargı davası nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada a…",
     "h1": "Tam yargı davası nedir?",
     "keywords": [
       "tam yargı davası",
@@ -61578,8 +61732,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "idari-islem-nedir",
-    "title": "İdari İşlem Nedir?",
-    "description": "Tek yanlı işlem. İptal davası linki.",
+    "title": "İdari işlem ne demektir — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "İdari işlem ne demektir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada …",
     "h1": "İdari işlem ne demektir?",
     "keywords": [
       "idari işlem nedir"
@@ -61845,8 +61999,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "yurutmenin-durdurulmasi",
-    "title": "Yürütmenin Durdurulması",
-    "description": "YD şartları. Ana idari dava rehberine link.",
+    "title": "Yürütmenin durdurulması nasıl istenir — Vatandaş Rehberi | Av. Fethi G",
+    "description": "Yürütmenin durdurulması nasıl istenir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. …",
     "h1": "Yürütmenin durdurulması nasıl istenir?",
     "keywords": [
       "yürütmenin durdurulması",
@@ -62114,8 +62268,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "memur-disiplin-cezasi",
-    "title": "Memur disiplin cezası",
-    "description": "Memur disiplin cezası. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Memur disiplin cezası — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Memur disiplin cezası hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avu…",
     "h1": "Memur disiplin cezası",
     "keywords": [
       "memur disiplin cezası",
@@ -62383,8 +62537,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "kamu-ihalesi-sikayet",
-    "title": "Kamu ihalesi şikâyet",
-    "description": "Kamu ihalesi şikâyet. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Kamu ihalesi şikâyet — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Kamu ihalesi şikâyet hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuk…",
     "h1": "Kamu ihalesi şikâyet",
     "keywords": [
       "kamu ihalesi şikâyet",
@@ -62652,8 +62806,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "imar-planina-itiraz",
-    "title": "İmar planına itiraz",
-    "description": "İmar planına itiraz. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "İmar planına itiraz — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "İmar planına itiraz hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuka…",
     "h1": "İmar planına itiraz",
     "keywords": [
       "imar planına itiraz",
@@ -62922,8 +63076,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "yapi-tatil-tutanağı",
-    "title": "Yapı tatil tutanağı",
-    "description": "Yapı tatil tutanağı. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Yapı tatil tutanağı — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Yapı tatil tutanağı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuka…",
     "h1": "Yapı tatil tutanağı",
     "keywords": [
       "yapı tatil tutanağı",
@@ -63191,8 +63345,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "imar-barişi-nedir",
-    "title": "İmar barışı",
-    "description": "İmar barışı. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "İmar barışı — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "İmar barışı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
     "h1": "İmar barışı",
     "keywords": [
       "imar barışı",
@@ -63461,8 +63615,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "cevre-izin-denetim",
-    "title": "Çevre idari para cezası",
-    "description": "Çevre idari para cezası. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Çevre idari para cezası — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Çevre idari para cezası hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada a…",
     "h1": "Çevre idari para cezası",
     "keywords": [
       "çevre idari para cezası",
@@ -63730,8 +63884,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "eds-ceza-sorgulama",
-    "title": "EDS Ceza Sorgulama ve İtiraz",
-    "description": "EDS sorgu. İtiraz usulü ana trafik cezası rehberinde.",
+    "title": "EDS Ceza Sorgulama ve İtiraz | Vatandaş Rehberi",
+    "description": "EDS cezası nasıl sorgulanır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosy…",
     "h1": "EDS cezası nasıl sorgulanır?",
     "keywords": [
       "EDS ceza sorgulama",
@@ -63999,8 +64153,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "trafik-ceza-puani",
-    "title": "Trafik Ceza Puanı ve Silinme",
-    "description": "Puan ve ehliyet. İtiraz ana rehberde.",
+    "title": "Trafik Ceza Puanı ve Silinme | Vatandaş Rehberi",
+    "description": "Trafik ceza puanı nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada …",
     "h1": "Trafik ceza puanı nedir?",
     "keywords": [
       "trafik ceza puanı",
@@ -64268,8 +64422,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "alkollu-arac-kullanma-cezasi",
-    "title": "Alkollü Araç Kullanma Cezası",
-    "description": "Promil ve ehliyet. İtiraz ve suç boyutu ayrı.",
+    "title": "Alkollü Araç Kullanma Cezası | Vatandaş Rehberi",
+    "description": "Alkollü araç kullanmanın cezası nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. …",
     "h1": "Alkollü araç kullanmanın cezası nedir?",
     "keywords": [
       "alkollü araç cezası",
@@ -64537,8 +64691,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "kaza-tespit-tutanagi",
-    "title": "Kaza tespit tutanağı",
-    "description": "Kaza tespit tutanağı. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Kaza tespit tutanağı — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Kaza tespit tutanağı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuk…",
     "h1": "Kaza tespit tutanağı",
     "keywords": [
       "kaza tespit tutanağı",
@@ -64805,8 +64959,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "kusur-orani-trafik",
-    "title": "Trafik kusur oranı",
-    "description": "Trafik kusur oranı. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Trafik kusur oranı — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Trafik kusur oranı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukat…",
     "h1": "Trafik kusur oranı",
     "keywords": [
       "trafik kusur oranı",
@@ -65073,8 +65227,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "arac-muayene-gecikme",
-    "title": "Araç muayene gecikme",
-    "description": "Araç muayene gecikme. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Araç muayene gecikme — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Araç muayene gecikme hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuk…",
     "h1": "Araç muayene gecikme",
     "keywords": [
       "araç muayene gecikme",
@@ -65342,8 +65496,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "plaka-devri-arac-satis",
-    "title": "Araç satışı plaka devri",
-    "description": "Araç satışı plaka devri. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Araç satışı plaka devri — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Araç satışı plaka devri hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada a…",
     "h1": "Araç satışı plaka devri",
     "keywords": [
       "araç satışı plaka devri",
@@ -65611,8 +65765,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "mtv-nedir",
-    "title": "Motorlu Taşıtlar Vergisi",
-    "description": "Araç vergisi. e-Devlet vergi linki.",
+    "title": "MTV nedir? Nasıl ödenir — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "MTV nedir? Nasıl ödenir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada …",
     "h1": "MTV nedir? Nasıl ödenir?",
     "keywords": [
       "MTV nedir",
@@ -65882,7 +66036,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "emekli-maasi-hesaplama",
     "title": "Emekli Maaşı Nasıl Hesaplanır?",
-    "description": "Prim/yaş. Şartlar ana rehberde.",
+    "description": "Emekli maaşı kabaca nasıl hesaplanır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. S…",
     "h1": "Emekli maaşı kabaca nasıl hesaplanır?",
     "keywords": [
       "emekli maaşı hesaplama",
@@ -66150,8 +66304,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "emeklilikte-yasa-takilanlar",
-    "title": "EYT Nedir?",
-    "description": "EYT notu. Genel emeklilik şartları ana.",
+    "title": "EYT kapsamında kimler emekli olur — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "EYT kapsamında kimler emekli olur? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somu…",
     "h1": "EYT kapsamında kimler emekli olur?",
     "keywords": [
       "EYT nedir",
@@ -66419,8 +66573,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "bagkur-prim-borcu",
-    "title": "Bağ-Kur Prim Borcu ve Yapılandırma",
-    "description": "4/b prim, yapılandırma. Bilgilendirme.",
+    "title": "Bağ-Kur Prim Borcu ve Yapılandırma | Vatandaş Rehberi",
+    "description": "Bağ-Kur borcu nasıl ödenir / yapılandırılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Por…",
     "h1": "Bağ-Kur borcu nasıl ödenir / yapılandırılır?",
     "keywords": [
       "Bağkur prim borcu",
@@ -66733,8 +66887,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "issizlik-maasi-hesaplama",
-    "title": "İşsizlik Maaşı Ne Kadar?",
-    "description": "Tutar. Şartlar ana rehberde.",
+    "title": "İşsizlik maaşı nasıl hesaplanır — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "İşsizlik maaşı nasıl hesaplanır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut …",
     "h1": "İşsizlik maaşı nasıl hesaplanır?",
     "keywords": [
       "işsizlik maaşı hesaplama",
@@ -67002,8 +67156,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "genel-saglik-sigortasi",
-    "title": "GSS prim borcu",
-    "description": "GSS prim borcu. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "GSS prim borcu — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "GSS prim borcu hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata da…",
     "h1": "GSS prim borcu",
     "keywords": [
       "gss prim borcu",
@@ -67270,8 +67424,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "analik-izin-hakki",
-    "title": "Analık ve süt izni",
-    "description": "Analık ve süt izni. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Analık ve süt izni — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Analık ve süt izni hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukat…",
     "h1": "Analık ve süt izni",
     "keywords": [
       "analık ve süt izni",
@@ -67539,8 +67693,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "rapor-parasi-hesaplama",
-    "title": "Rapor parası",
-    "description": "Rapor parası. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Rapor parası — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Rapor parası hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danı…",
     "h1": "Rapor parası",
     "keywords": [
       "rapor parası",
@@ -67808,8 +67962,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "olum-ayligi-dul-yetim",
-    "title": "Ölüm aylığı dul yetim",
-    "description": "Ölüm aylığı dul yetim. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Ölüm aylığı dul yetim — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Ölüm aylığı dul yetim hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avu…",
     "h1": "Ölüm aylığı dul yetim",
     "keywords": [
       "ölüm aylığı dul yetim",
@@ -68077,8 +68231,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "gelir-vergisi-nedir",
-    "title": "Gelir Vergisi Nedir?",
-    "description": "GV özeti. Emlak ayrı vergidir.",
+    "title": "Gelir vergisi nedir? Kimler öder — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Gelir vergisi nedir? Kimler öder? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut…",
     "h1": "Gelir vergisi nedir? Kimler öder?",
     "keywords": [
       "gelir vergisi nedir",
@@ -68347,8 +68501,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "kdv-nedir",
-    "title": "KDV Nedir? Oranlar ve İade",
-    "description": "Katma değer vergisi. Rehber.",
+    "title": "KDV nedir? Hangi oranlar uygulanır — Vatandaş Rehberi | Av. Fethi Güze",
+    "description": "KDV nedir? Hangi oranlar uygulanır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Som…",
     "h1": "KDV nedir? Hangi oranlar uygulanır?",
     "keywords": [
       "KDV nedir",
@@ -68663,8 +68817,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "fatura-iptali",
-    "title": "Fatura iptali",
-    "description": "Fatura iptali. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Fatura iptali — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Fatura iptali hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata dan…",
     "h1": "Fatura iptali",
     "keywords": [
       "fatura iptali",
@@ -68930,8 +69084,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "e-fatura-nedir",
-    "title": "e-Fatura",
-    "description": "e-Fatura. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "e-Fatura — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "e-Fatura hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
     "h1": "e-Fatura",
     "keywords": [
       "e-fatura",
@@ -69198,8 +69352,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "vergi-incelemesi-nedir",
-    "title": "Vergi incelemesi",
-    "description": "Vergi incelemesi. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Vergi incelemesi — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Vergi incelemesi hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata …",
     "h1": "Vergi incelemesi",
     "keywords": [
       "vergi incelemesi",
@@ -69467,8 +69621,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "vergi-ziyai-cezasi",
-    "title": "Vergi ziyaı cezası",
-    "description": "Vergi ziyaı cezası. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Vergi ziyaı cezası — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Vergi ziyaı cezası hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukat…",
     "h1": "Vergi ziyaı cezası",
     "keywords": [
       "vergi ziyaı cezası",
@@ -69736,8 +69890,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "damga-vergisi-nedir",
-    "title": "Damga Vergisi Nedir?",
-    "description": "Sözleşme damgası. Hesap aracı linki.",
+    "title": "Damga vergisi nedir? Kim öder — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Damga vergisi nedir? Kim öder? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut do…",
     "h1": "Damga vergisi nedir? Kim öder?",
     "keywords": [
       "damga vergisi nedir"
@@ -70004,8 +70158,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "gecikme-zammi-faizi",
-    "title": "Gecikme zammı",
-    "description": "Gecikme zammı. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Gecikme zammı — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Gecikme zammı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata dan…",
     "h1": "Gecikme zammı",
     "keywords": [
       "gecikme zammı",
@@ -70273,8 +70427,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "kimlik-kartı-basvurusu",
-    "title": "Kimlik kartı başvurusu",
-    "description": "Kimlik kartı başvurusu. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Kimlik kartı başvurusu — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Kimlik kartı başvurusu hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada av…",
     "h1": "Kimlik kartı başvurusu",
     "keywords": [
       "kimlik kartı başvurusu",
@@ -70541,8 +70695,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "dogum-belgesi-nasil-alinir",
-    "title": "Doğum belgesi",
-    "description": "Doğum belgesi. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Doğum belgesi — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Doğum belgesi hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata dan…",
     "h1": "Doğum belgesi",
     "keywords": [
       "doğum belgesi",
@@ -70809,8 +70963,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "evlilik-basvurusu",
-    "title": "Evlilik başvurusu",
-    "description": "Evlilik başvurusu. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Evlilik başvurusu — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Evlilik başvurusu hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata…",
     "h1": "Evlilik başvurusu",
     "keywords": [
       "evlilik başvurusu",
@@ -71077,8 +71231,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "bosanma-sonrasi-soyadi",
-    "title": "Boşanma Sonrası Soyadı",
-    "description": "Eski soyad. Ana boşanma rehberine link.",
+    "title": "Boşanınca soyadı ne olur — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Boşanınca soyadı ne olur? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada…",
     "h1": "Boşanınca soyadı ne olur?",
     "keywords": [
       "boşanma soyadı",
@@ -71346,8 +71500,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "ikametgah-belgesi",
-    "title": "İkametgâh belgesi",
-    "description": "İkametgâh belgesi. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "İkametgâh belgesi — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "İkametgâh belgesi hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata…",
     "h1": "İkametgâh belgesi",
     "keywords": [
       "ikametgâh belgesi",
@@ -71615,8 +71769,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "sabika-kaydi-nasil-alinir",
-    "title": "Sabıka kaydı",
-    "description": "Sabıka kaydı. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Sabıka kaydı — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Sabıka kaydı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danı…",
     "h1": "Sabıka kaydı",
     "keywords": [
       "sabıka kaydı",
@@ -71884,8 +72038,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "askerlik-durum-belgesi",
-    "title": "Askerlik durum belgesi",
-    "description": "Askerlik durum belgesi. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Askerlik durum belgesi — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Askerlik durum belgesi hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada av…",
     "h1": "Askerlik durum belgesi",
     "keywords": [
       "askerlik durum belgesi",
@@ -72151,8 +72305,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "ogrenci-belgesi-e-devlet",
-    "title": "Öğrenci belgesi e-Devlet",
-    "description": "Öğrenci belgesi e-Devlet. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Öğrenci belgesi e-Devlet — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Öğrenci belgesi e-Devlet hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada …",
     "h1": "Öğrenci belgesi e-Devlet",
     "keywords": [
       "öğrenci belgesi e-devlet",
@@ -72163,7 +72317,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
       "okul-kayit-ucreti-iade",
       "e-devlet-nufus",
       "pasaport-basvurusu",
-      "ogrenim-ucreti-iade"
+      "ogrenim-ucreti-iade",
+      "yuksekogretim-disiplin"
     ],
     "links": [
       {
@@ -72420,8 +72575,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "kredi-notu-nedir",
-    "title": "Kredi notu",
-    "description": "Kredi notu. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Kredi notu — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Kredi notu hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
     "h1": "Kredi notu",
     "keywords": [
       "kredi notu",
@@ -72688,8 +72843,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "banka-hesap-haczi-maas",
-    "title": "Maaş hesabına haciz",
-    "description": "Maaş hesabına haciz. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Maaş hesabına haciz — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Maaş hesabına haciz hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuka…",
     "h1": "Maaş hesabına haciz",
     "keywords": [
       "maaş hesabına haciz",
@@ -72957,8 +73112,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "kefil-olursam-ne-olur",
-    "title": "Kefil olmanın riskleri",
-    "description": "Kefil olmanın riskleri. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Kefil olmanın riskleri — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Kefil olmanın riskleri hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada av…",
     "h1": "Kefil olmanın riskleri",
     "keywords": [
       "kefil olmanın riskleri",
@@ -73226,8 +73381,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "senet-nasil-yazilir",
-    "title": "Senet nasıl yazılır",
-    "description": "Senet nasıl yazılır. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Senet nasıl yazılır — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Senet nasıl yazılır hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuka…",
     "h1": "Senet nasıl yazılır",
     "keywords": [
       "senet nasıl yazılır",
@@ -73495,8 +73650,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "cek-nasil-yazilir",
-    "title": "Çek nasıl yazılır",
-    "description": "Çek nasıl yazılır. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Çek nasıl yazılır — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Çek nasıl yazılır hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata…",
     "h1": "Çek nasıl yazılır",
     "keywords": [
       "çek nasıl yazılır",
@@ -73763,8 +73918,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "kvkk-aydinlatma-metni",
-    "title": "KVKK Aydınlatma Metni",
-    "description": "Aydınlatma. Başvuru hakları ana rehberde.",
+    "title": "Aydınlatma metni zorunlu mudur — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Aydınlatma metni zorunlu mudur? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut d…",
     "h1": "Aydınlatma metni zorunlu mudur?",
     "keywords": [
       "KVKK aydınlatma metni",
@@ -73774,7 +73929,9 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     "related": [
       "kvkk-basvuru-hakki",
       "kvkk-acik-riza",
-      "sirket-kurulusu"
+      "sirket-kurulusu",
+      "veri-ihlali-bildirimi",
+      "cerez-aydinlatma"
     ],
     "links": [
       {
@@ -74032,8 +74189,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "kvkk-acik-riza",
-    "title": "KVKK Açık Rıza",
-    "description": "Rıza şartları. Ana KVKK rehberine link.",
+    "title": "Açık rıza nasıl alınır — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Açık rıza nasıl alınır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada a…",
     "h1": "Açık rıza nasıl alınır?",
     "keywords": [
       "KVKK açık rıza",
@@ -74301,8 +74458,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "unutulma-hakki",
-    "title": "Unutulma Hakkı",
-    "description": "İçerik kaldırma. KVKK ve erişim engeli linkleri.",
+    "title": "Unutulma hakkı nasıl kullanılır — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Unutulma hakkı nasıl kullanılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut …",
     "h1": "Unutulma hakkı nasıl kullanılır?",
     "keywords": [
       "unutulma hakkı",
@@ -74570,8 +74727,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "erisim-engeli-basvurusu",
-    "title": "Erişim engeli başvurusu",
-    "description": "Erişim engeli başvurusu. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Erişim engeli başvurusu — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Erişim engeli başvurusu hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada a…",
     "h1": "Erişim engeli başvurusu",
     "keywords": [
       "erişim engeli başvurusu",
@@ -74839,8 +74996,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "sosyal-medya-hakaret-sikayet",
-    "title": "Sosyal medya hakaret şikâyeti",
-    "description": "Sosyal medya hakaret şikâyeti. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Sosyal medya hakaret şikâyeti | Vatandaş Rehberi",
+    "description": "Sosyal medya hakaret şikâyeti hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dos…",
     "h1": "Sosyal medya hakaret şikâyeti",
     "keywords": [
       "sosyal medya hakaret şikâyeti",
@@ -75108,8 +75265,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "whatsapp-yazismasi-delil",
-    "title": "WhatsApp yazışması delil",
-    "description": "WhatsApp yazışması delil. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "WhatsApp yazışması delil — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "WhatsApp yazışması delil hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada …",
     "h1": "WhatsApp yazışması delil",
     "keywords": [
       "whatsapp yazışması delil",
@@ -75377,8 +75534,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "limited-sirket-kurulus",
-    "title": "Limited şirket kuruluşu",
-    "description": "Limited şirket kuruluşu. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Limited şirket kuruluşu — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Limited şirket kuruluşu hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada a…",
     "h1": "Limited şirket kuruluşu",
     "keywords": [
       "limited şirket kuruluşu",
@@ -75645,8 +75802,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "anonim-sirket-kurulus",
-    "title": "Anonim şirket kuruluşu",
-    "description": "Anonim şirket kuruluşu. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Anonim şirket kuruluşu — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Anonim şirket kuruluşu hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada av…",
     "h1": "Anonim şirket kuruluşu",
     "keywords": [
       "anonim şirket kuruluşu",
@@ -75913,8 +76070,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "sirket-hisse-devri",
-    "title": "Şirket hisse devri",
-    "description": "Şirket hisse devri. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Şirket hisse devri — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Şirket hisse devri hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukat…",
     "h1": "Şirket hisse devri",
     "keywords": [
       "şirket hisse devri",
@@ -76181,8 +76338,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "ticaret-sicili-islemleri",
-    "title": "Ticaret sicili işlemleri",
-    "description": "Ticaret sicili işlemleri. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Ticaret sicili işlemleri — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Ticaret sicili işlemleri hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada …",
     "h1": "Ticaret sicili işlemleri",
     "keywords": [
       "ticaret sicili işlemleri",
@@ -76449,8 +76606,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "haksiz-rekabet-nedir",
-    "title": "Haksız rekabet",
-    "description": "Haksız rekabet. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Haksız rekabet — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Haksız rekabet hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata da…",
     "h1": "Haksız rekabet",
     "keywords": [
       "haksız rekabet",
@@ -76718,8 +76875,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "marka-tescil",
-    "title": "Marka tescili",
-    "description": "Marka tescili. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Marka tescili — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Marka tescili hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata dan…",
     "h1": "Marka tescili",
     "keywords": [
       "marka tescili",
@@ -76986,8 +77143,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "cek-karsiliksiz-ceza",
-    "title": "Karşılıksız çek cezası",
-    "description": "Karşılıksız çek cezası. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Karşılıksız çek cezası — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Karşılıksız çek cezası hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada av…",
     "h1": "Karşılıksız çek cezası",
     "keywords": [
       "karşılıksız çek cezası",
@@ -77254,8 +77411,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "turk-vatandasligi-basvurusu",
-    "title": "Türk vatandaşlığı",
-    "description": "Türk vatandaşlığı. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Türk vatandaşlığı — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Türk vatandaşlığı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata…",
     "h1": "Türk vatandaşlığı",
     "keywords": [
       "türk vatandaşlığı",
@@ -77522,8 +77679,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "evlilikle-vatandaslik",
-    "title": "Evlilikle vatandaşlık",
-    "description": "Evlilikle vatandaşlık. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Evlilikle vatandaşlık — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Evlilikle vatandaşlık hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avu…",
     "h1": "Evlilikle vatandaşlık",
     "keywords": [
       "evlilikle vatandaşlık",
@@ -77790,8 +77947,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "oturma-izni-uzatma",
-    "title": "İkamet izni uzatma",
-    "description": "İkamet izni uzatma. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "İkamet izni uzatma — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "İkamet izni uzatma hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukat…",
     "h1": "İkamet izni uzatma",
     "keywords": [
       "ikamet izni uzatma",
@@ -78059,8 +78216,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "uluslararasi-koruma",
-    "title": "Uluslararası koruma",
-    "description": "Uluslararası koruma. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Uluslararası koruma — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Uluslararası koruma hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuka…",
     "h1": "Uluslararası koruma",
     "keywords": [
       "uluslararası koruma",
@@ -78327,8 +78484,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "engelli-maasi-sartlari",
-    "title": "Engelli maaşı şartları",
-    "description": "Engelli maaşı şartları. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Engelli maaşı şartları — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Engelli maaşı şartları hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada av…",
     "h1": "Engelli maaşı şartları",
     "keywords": [
       "engelli maaşı şartları",
@@ -78594,8 +78751,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "evde-bakim-maasi",
-    "title": "Evde bakım maaşı",
-    "description": "Evde bakım maaşı. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Evde bakım maaşı — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Evde bakım maaşı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata …",
     "h1": "Evde bakım maaşı",
     "keywords": [
       "evde bakım maaşı",
@@ -78861,8 +79018,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "saglik-turizmi-haklar",
-    "title": "Hasta hakları",
-    "description": "Hasta hakları. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Hasta hakları — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Hasta hakları hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata dan…",
     "h1": "Hasta hakları",
     "keywords": [
       "hasta hakları",
@@ -79129,8 +79286,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "isse-iade-arabuluculuk",
-    "title": "İşe İade Öncesi Arabuluculuk",
-    "description": "İşe iade dava şartı arabuluculuk. Esas şartlar ana işe iade sayfasında.",
+    "title": "İşe İade Öncesi Arabuluculuk | Vatandaş Rehberi",
+    "description": "İşe iadede arabuluculuk zorunlu mu? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Som…",
     "h1": "İşe iadede arabuluculuk zorunlu mu?",
     "keywords": [
       "işe iade arabuluculuk",
@@ -79398,8 +79555,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "ogrenim-ucreti-iade",
-    "title": "Üniversite öğrenim ücreti iade",
-    "description": "Üniversite öğrenim ücreti iade. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Üniversite öğrenim ücreti iade | Vatandaş Rehberi",
+    "description": "Üniversite öğrenim ücreti iade hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut do…",
     "h1": "Üniversite öğrenim ücreti iade",
     "keywords": [
       "üniversite öğrenim ücreti iade",
@@ -79667,8 +79824,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "okul-kayit-ucreti-iade",
-    "title": "Özel Okul Kayıt Ücreti İade",
-    "description": "Sözleşme, cayma. Rehber.",
+    "title": "Özel okul ücreti iade edilir mi — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Özel okul ücreti iade edilir mi? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut …",
     "h1": "Özel okul ücreti iade edilir mi?",
     "keywords": [
       "özel okul ücret iadesi",
@@ -79978,8 +80135,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "yuksekogretim-disiplin",
-    "title": "Öğrenci disiplin cezası",
-    "description": "Öğrenci disiplin cezası. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Öğrenci disiplin cezası — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Öğrenci disiplin cezası hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada a…",
     "h1": "Öğrenci disiplin cezası",
     "keywords": [
       "öğrenci disiplin cezası",
@@ -80248,7 +80405,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "kentsel-donusum-nedir",
     "title": "Kentsel Dönüşüm Nedir? Haklar",
-    "description": "Riskli yapı, anlaşma, tahliye. Rehber.",
+    "description": "Kentsel dönüşümde malik hakları nelerdir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portal…",
     "h1": "Kentsel dönüşümde malik hakları nelerdir?",
     "keywords": [
       "kentsel dönüşüm",
@@ -80563,8 +80720,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "riskli-yapi-tespiti",
-    "title": "Riskli yapı tespiti",
-    "description": "Riskli yapı tespiti. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Riskli yapı tespiti — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Riskli yapı tespiti hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuka…",
     "h1": "Riskli yapı tespiti",
     "keywords": [
       "riskli yapı tespiti",
@@ -80831,8 +80988,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "kat-karsiligi-insaat",
-    "title": "Kat karşılığı inşaat",
-    "description": "Kat karşılığı inşaat. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Kat karşılığı inşaat — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Kat karşılığı inşaat hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuk…",
     "h1": "Kat karşılığı inşaat",
     "keywords": [
       "kat karşılığı inşaat",
@@ -81100,8 +81257,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "yuklenici-temerrudu",
-    "title": "Yüklenici temerrüdü",
-    "description": "Yüklenici temerrüdü. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Yüklenici temerrüdü — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Yüklenici temerrüdü hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuka…",
     "h1": "Yüklenici temerrüdü",
     "keywords": [
       "yüklenici temerrüdü",
@@ -81370,7 +81527,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "kanun-maddesi-nasil-okunur",
     "title": "Kanun Maddesi Nasıl Okunur? Şerh Rehberi",
-    "description": "Madde metni, fıkra, şerh, içtihat. Bilgilendirme.",
+    "description": "Kanun maddesi nasıl okunur ve yorumlanır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portal…",
     "h1": "Kanun maddesi nasıl okunur ve yorumlanır?",
     "keywords": [
       "kanun maddesi",
@@ -81379,14 +81536,18 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     ],
     "category": "Mevzuat",
     "related": [
-      "mevzuat-nasil-aranir",
-      "tbk-nedir",
-      "tmk-nedir",
-      "ttk-nedir",
-      "tck-nedir",
-      "hmk-nedir",
-      "iik-nedir",
-      "cmk-nedir"
+      "iik-madde-62",
+      "is-kanunu-madde-17",
+      "is-kanunu-madde-25",
+      "durustluk-kurali",
+      "anayasa-maddesi-nedir",
+      "tbk-madde-13",
+      "tbk-madde-125",
+      "tbk-madde-49",
+      "tbk-madde-112",
+      "tmk-madde-166",
+      "tmk-madde-499",
+      "tck-madde-86"
     ],
     "links": [
       {
@@ -81687,8 +81848,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "mevzuat-nasil-aranir",
-    "title": "Mevzuat nasıl aranır",
-    "description": "Mevzuat nasıl aranır. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Mevzuat nasıl aranır — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Mevzuat nasıl aranır hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuk…",
     "h1": "Mevzuat nasıl aranır",
     "keywords": [
       "mevzuat nasıl aranır",
@@ -81696,9 +81857,18 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     ],
     "category": "Mevzuat",
     "related": [
-      "kanun-maddesi-nasil-okunur",
-      "tbk-nedir",
-      "tck-nedir"
+      "tck-madde-86",
+      "tck-madde-106",
+      "tck-madde-125",
+      "hmk-madde-119",
+      "hmk-madde-389",
+      "iik-madde-62",
+      "is-kanunu-madde-17",
+      "cmk-nedir",
+      "tkhk-nedir",
+      "vuk-nedir",
+      "is-kanunu-madde-25",
+      "durustluk-kurali"
     ],
     "links": [
       {
@@ -81956,8 +82126,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "tbk-nedir",
-    "title": "TBK nedir",
-    "description": "TBK nedir. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "TBK nedir — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "TBK nedir hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
     "h1": "TBK nedir",
     "keywords": [
       "tbk nedir",
@@ -82224,8 +82394,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "tmk-nedir",
-    "title": "TMK nedir",
-    "description": "TMK nedir. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "TMK nedir — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "TMK nedir hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
     "h1": "TMK nedir",
     "keywords": [
       "tmk nedir",
@@ -82492,8 +82662,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "ttk-nedir",
-    "title": "TTK nedir",
-    "description": "TTK nedir. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "TTK nedir — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "TTK nedir hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
     "h1": "TTK nedir",
     "keywords": [
       "ttk nedir",
@@ -82760,8 +82930,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "tck-nedir",
-    "title": "TCK nedir",
-    "description": "TCK nedir. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "TCK nedir — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "TCK nedir hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
     "h1": "TCK nedir",
     "keywords": [
       "tck nedir",
@@ -83028,8 +83198,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "hmk-nedir",
-    "title": "HMK nedir",
-    "description": "HMK nedir. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "HMK nedir — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "HMK nedir hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
     "h1": "HMK nedir",
     "keywords": [
       "hmk nedir",
@@ -83296,8 +83466,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "iik-nedir",
-    "title": "İİK nedir",
-    "description": "İİK nedir. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "İİK nedir — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "İİK nedir hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
     "h1": "İİK nedir",
     "keywords": [
       "iik nedir",
@@ -83565,8 +83735,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "cmk-nedir",
-    "title": "CMK nedir",
-    "description": "CMK nedir. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "CMK nedir — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "CMK nedir hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
     "h1": "CMK nedir",
     "keywords": [
       "cmk nedir",
@@ -83833,8 +84003,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "is-kanunu-nedir",
-    "title": "İş Kanunu nedir",
-    "description": "İş Kanunu nedir. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "İş Kanunu nedir — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "İş Kanunu nedir hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata d…",
     "h1": "İş Kanunu nedir",
     "keywords": [
       "iş kanunu nedir",
@@ -84103,8 +84273,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "tkhk-nedir",
-    "title": "TKHK nedir",
-    "description": "TKHK nedir. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "TKHK nedir — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "TKHK nedir hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
     "h1": "TKHK nedir",
     "keywords": [
       "tkhk nedir",
@@ -84371,8 +84541,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "kvkk-kanunu-nedir",
-    "title": "KVKK (6698) Nedir?",
-    "description": "Kanun özeti. Başvuru ana rehberde.",
+    "title": "KVKK nedir — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "KVKK nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
     "h1": "KVKK nedir?",
     "keywords": [
       "KVKK nedir",
@@ -84640,8 +84810,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "vuk-nedir",
-    "title": "VUK nedir",
-    "description": "VUK nedir. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "VUK nedir — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "VUK nedir hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
     "h1": "VUK nedir",
     "keywords": [
       "vuk nedir",
@@ -84908,8 +85078,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "anayasa-maddesi-nedir",
-    "title": "Anayasa maddesi",
-    "description": "Anayasa maddesi. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Anayasa maddesi — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Anayasa maddesi hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata d…",
     "h1": "Anayasa maddesi",
     "keywords": [
       "anayasa maddesi",
@@ -85176,8 +85346,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "e-devlet-sifresi-alma",
-    "title": "e-Devlet şifresi",
-    "description": "e-Devlet şifresi. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "e-Devlet şifresi — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "e-Devlet şifresi hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata …",
     "h1": "e-Devlet şifresi",
     "keywords": [
       "e-devlet şifresi",
@@ -85444,8 +85614,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "uyap-vatandas-portal",
-    "title": "UYAP vatandaş portal",
-    "description": "UYAP vatandaş portal. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "UYAP vatandaş portal — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "UYAP vatandaş portal hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuk…",
     "h1": "UYAP vatandaş portal",
     "keywords": [
       "uyap vatandaş portal",
@@ -85713,8 +85883,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "avukat-vekalet-ucreti",
-    "title": "Avukat vekâlet ücreti",
-    "description": "Avukat vekâlet ücreti. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Avukat vekâlet ücreti — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Avukat vekâlet ücreti hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avu…",
     "h1": "Avukat vekâlet ücreti",
     "keywords": [
       "avukat vekâlet ücreti",
@@ -85983,7 +86153,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "arabulucu-nasil-secilir",
     "title": "Arabulucu Nasıl Seçilir / Atanır?",
-    "description": "Liste ve atama. Süreç ana rehberde.",
+    "description": "Arabulucu nasıl bulunur? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada …",
     "h1": "Arabulucu nasıl bulunur?",
     "keywords": [
       "arabulucu nasıl seçilir",
@@ -86251,8 +86421,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "dilekce-nasil-yazilir",
-    "title": "Dilekçe Nasıl Yazılır?",
-    "description": "Şekil/içerik. HMK 119 bridge ve ana dava linki.",
+    "title": "Mahkemeye dilekçe nasıl yazılır — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Mahkemeye dilekçe nasıl yazılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut …",
     "h1": "Mahkemeye dilekçe nasıl yazılır?",
     "keywords": [
       "dilekçe nasıl yazılır",
@@ -86520,8 +86690,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "ihtarnama-nasil-cekilir",
-    "title": "İhtarname çekme",
-    "description": "İhtarname çekme. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "İhtarname çekme — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "İhtarname çekme hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata d…",
     "h1": "İhtarname çekme",
     "keywords": [
       "ihtarname çekme",
@@ -86789,8 +86959,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "sulh-nedir",
-    "title": "Sulh",
-    "description": "Sulh. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Sulh — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Sulh hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
     "h1": "Sulh",
     "keywords": [
       "sulh",
@@ -87058,8 +87228,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "feragat-nedir",
-    "title": "Davadan feragat",
-    "description": "Davadan feragat. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Davadan feragat — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Davadan feragat hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata d…",
     "h1": "Davadan feragat",
     "keywords": [
       "davadan feragat",
@@ -87327,8 +87497,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "kabul-nedir-usul",
-    "title": "Davayı kabul",
-    "description": "Davayı kabul. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Davayı kabul — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Davayı kabul hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danı…",
     "h1": "Davayı kabul",
     "keywords": [
       "davayı kabul",
@@ -87596,8 +87766,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "uzaklastirma-karari-ihlal",
-    "title": "Uzaklaştırma Kararı İhlali",
-    "description": "İhlal yaptırımı. Ana 6284 rehberine link.",
+    "title": "Uzaklaştırma kararı çiğnenirse ne olur — Vatandaş Rehberi | Av. Fethi ",
+    "description": "Uzaklaştırma kararı çiğnenirse ne olur? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı.…",
     "h1": "Uzaklaştırma kararı çiğnenirse ne olur?",
     "keywords": [
       "uzaklaştırma kararı ihlal",
@@ -87865,8 +88035,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "siddette-tanik-koruma",
-    "title": "Aile İçi Şiddette Delil",
-    "description": "Tutanak/hastane. Ana 6284 rehberine link.",
+    "title": "Şiddette delil nasıl toplanır — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Şiddette delil nasıl toplanır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut do…",
     "h1": "Şiddette delil nasıl toplanır?",
     "keywords": [
       "aile içi şiddet delil",
@@ -88134,8 +88304,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "agi-nedir",
-    "title": "AGİ",
-    "description": "AGİ. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "AGİ — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "AGİ hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
     "h1": "AGİ",
     "keywords": [
       "agi",
@@ -88404,7 +88574,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "kidem-tazminati-hesaplama",
-    "title": "Kıdem Tazminatı Hesaplama Formülü (Kabaca)",
+    "title": "Kıdem Tazminatı Hesaplama Formülü (Kabaca) | Vatandaş Rehberi",
     "description": "Kıdem tazminatı hesaplama: giydirilmiş ücret × yıl, tavan ve damga. Kabaca formül; araç linki. Hak kazanma ana rehberde.",
     "h1": "Kıdem tazminatı nasıl hesaplanır? (formül)",
     "keywords": [
@@ -88675,7 +88845,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "ihbar-suresi-tablosu",
-    "title": "İhbar Süreleri Tablosu (İş Kanunu)",
+    "title": "İhbar Süreleri Tablosu (İş Kanunu) | Vatandaş Rehberi",
     "description": "İş Kanunu bildirim (ihbar) süreleri tablosu. İhbar tazminatı ve kıdem ana sayfalarına link.",
     "h1": "İhbar süreleri kaç hafta/ay?",
     "keywords": [
@@ -88945,8 +89115,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "ise-iade-tazminati",
-    "title": "İşe Başlatmama Tazminatı (4–8 Ay)",
-    "description": "İşe iade sonucu işe başlatmama tazminatı. Dava şartları ana işe iade rehberinde.",
+    "title": "İşe Başlatmama Tazminatı (4–8 Ay) | Vatandaş Rehberi",
+    "description": "İşe başlatmama tazminatı ne kadardır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. S…",
     "h1": "İşe başlatmama tazminatı ne kadardır?",
     "keywords": [
       "işe başlatmama tazminatı",
@@ -89215,7 +89385,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "bos-ta-gecen-sure",
     "title": "Boşta Geçen Süre Ücreti Nedir?",
-    "description": "İşe iade davasında boşta geçen süre. Ana işe iade rehberine bağlantı.",
+    "description": "İşe iadede boşta geçen süre ücreti hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somu…",
     "h1": "İşe iadede boşta geçen süre ücreti",
     "keywords": [
       "boşta geçen süre ücreti",
@@ -89482,8 +89652,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "haciz-ihbarnamesi",
-    "title": "Haciz İhbarnamesi Nedir?",
-    "description": "99 ihbarname. Banka haczi linki.",
+    "title": "Haciz ihbarnamesi gelirse ne yapılır — Vatandaş Rehberi | Av. Fethi Gü",
+    "description": "Haciz ihbarnamesi gelirse ne yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. S…",
     "h1": "Haciz ihbarnamesi gelirse ne yapılır?",
     "keywords": [
       "haciz ihbarnamesi",
@@ -89752,8 +89922,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "istihkak-iddiasi",
-    "title": "İstihkak İddiası Nedir?",
-    "description": "3. kişi mal iddiası. İstihkak davası süresi linki.",
+    "title": "Haczedilen mal bana aitse ne yaparım — Vatandaş Rehberi | Av. Fethi Gü",
+    "description": "Haczedilen mal bana aitse ne yaparım? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. S…",
     "h1": "Haczedilen mal bana aitse ne yaparım?",
     "keywords": [
       "istihkak iddiası",
@@ -90022,8 +90192,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "icra-inkar-tazminati-orani",
-    "title": "İcra İnkâr Tazminatı Oranı",
-    "description": "Yüzde tartışması. Genel inkâr ve itirazın iptali sayfalarına link.",
+    "title": "İnkâr tazminatı oranı nedir — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "İnkâr tazminatı oranı nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosy…",
     "h1": "İnkâr tazminatı oranı nedir?",
     "keywords": [
       "inkar tazminatı oranı",
@@ -90292,8 +90462,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "odeme-emri-tebligi",
-    "title": "Ödeme Emri Tebliği Ne Demektir?",
-    "description": "Tebliğ ve süre başlangıcı. İtiraz usulü ayrı sayfada.",
+    "title": "Ödeme Emri Tebliği Ne Demektir? | Vatandaş Rehberi",
+    "description": "Ödeme emri tebliğ edilince ne yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. …",
     "h1": "Ödeme emri tebliğ edilince ne yapılır?",
     "keywords": [
       "ödeme emri tebliği",
@@ -90562,8 +90732,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "kira-kontrat-e-devlet",
-    "title": "e-Devlet Kira Kontratı Girişi",
-    "description": "Kira bildirim adımları. Sözleşme kurma ve stopaj ayrı notlarda.",
+    "title": "e-Devlet Kira Kontratı Girişi | Vatandaş Rehberi",
+    "description": "Kira sözleşmesi e-Devlete nasıl girilir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı…",
     "h1": "Kira sözleşmesi e-Devlete nasıl girilir?",
     "keywords": [
       "e-devlet kira kontratı",
@@ -90831,8 +91001,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "depozito-faizi",
-    "title": "Kira Depozitosuna Faiz İşler mi?",
-    "description": "Teminat faizi tartışması. İade usulü depozito rehberinde.",
+    "title": "Kira Depozitosuna Faiz İşler mi? | Vatandaş Rehberi",
+    "description": "Depozitoya faiz gerekir mi? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosya…",
     "h1": "Depozitoya faiz gerekir mi?",
     "keywords": [
       "kira depozito faizi",
@@ -91101,8 +91271,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "kiralananin-ayibi",
-    "title": "Kiralananın Ayıplı Olması",
-    "description": "Ayıp, onarım, indirim. Kiracı hakları özet sayfasına link.",
+    "title": "Kiralık ev ayıplıysa ne yapılır — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Kiralık ev ayıplıysa ne yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut …",
     "h1": "Kiralık ev ayıplıysa ne yapılır?",
     "keywords": [
       "kiralananın ayıbı",
@@ -91371,8 +91541,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "ayip-bildirim-suresi",
-    "title": "Ayıp Bildirim Süresi",
-    "description": "İhbar süreleri. Ayıp hakları sayfasına link.",
+    "title": "Ayıp ne kadar sürede bildirilmeli — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Ayıp ne kadar sürede bildirilmeli? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somu…",
     "h1": "Ayıp ne kadar sürede bildirilmeli?",
     "keywords": [
       "ayıp bildirim süresi",
@@ -91640,8 +91810,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "tuketici-mahkemesi",
-    "title": "Tüketici Mahkemesi Ne Zaman?",
-    "description": "Parasal sınır üstü / itiraz. Hakem heyeti ana.",
+    "title": "Tüketici Mahkemesi Ne Zaman? | Vatandaş Rehberi",
+    "description": "Tüketici mahkemesine ne zaman gidilir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. …",
     "h1": "Tüketici mahkemesine ne zaman gidilir?",
     "keywords": [
       "tüketici mahkemesi",
@@ -91909,8 +92079,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "mesafeli-sozlesme-yonetmelik",
-    "title": "Mesafeli Sözleşmeler — Satıcı Yükümlülüğü",
-    "description": "Bilgilendirme özeti. Cayma ana spoke.",
+    "title": "Mesafeli Sözleşmeler — Satıcı Yükümlülüğü | Vatandaş Rehberi",
+    "description": "Mesafeli satışta satıcı ne bilgilendirmeli? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Port…",
     "h1": "Mesafeli satışta satıcı ne bilgilendirmeli?",
     "keywords": [
       "mesafeli sözleşmeler yönetmeliği"
@@ -92176,8 +92346,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "suc-duyurusu-geri-alma",
-    "title": "Suç Duyurusu Geri Alma",
-    "description": "Vazgeçme. Ana suç duyurusu rehberine link.",
+    "title": "Şikâyet geri alınabilir mi — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Şikâyet geri alınabilir mi? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosya…",
     "h1": "Şikâyet geri alınabilir mi?",
     "keywords": [
       "şikayet geri alma",
@@ -92445,8 +92615,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "mudafi-hakki",
-    "title": "Müdafi (Avukat) Hakkı",
-    "description": "Zorunlu müdafi. Gözaltı hakları linki.",
+    "title": "Gözaltında avukat hakkı — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Gözaltında avukat hakkı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada a…",
     "h1": "Gözaltında avukat hakkı",
     "keywords": [
       "müdafi hakkı",
@@ -92715,8 +92885,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "ifade-alma-haklari",
-    "title": "İfade Alma Hakları",
-    "description": "Susma/müdafi. Gözaltı linki.",
+    "title": "İfadede nelere dikkat edilir — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "İfadede nelere dikkat edilir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dos…",
     "h1": "İfadede nelere dikkat edilir?",
     "keywords": [
       "ifade alma hakları",
@@ -92985,8 +93155,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "sorusturma-gizliligi",
-    "title": "Soruşturma gizliliği",
-    "description": "Soruşturma gizliliği. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Soruşturma gizliliği — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Soruşturma gizliliği hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuk…",
     "h1": "Soruşturma gizliliği",
     "keywords": [
       "soruşturma gizliliği",
@@ -93254,8 +93424,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "yasal-mirascilar",
-    "title": "Yasal Mirasçılar Kimlerdir?",
-    "description": "Zümre listesi. Pay hesabı sayfasına link.",
+    "title": "Yasal mirasçılar kimlerdir — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Yasal mirasçılar kimlerdir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosya…",
     "h1": "Yasal mirasçılar kimlerdir?",
     "keywords": [
       "yasal mirasçılar",
@@ -93523,8 +93693,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "esin-miras-payi",
-    "title": "Eşin Miras Payı Ne Kadardır?",
-    "description": "Eş + alt soy senaryoları. Genel pay hesabı linki.",
+    "title": "Eşin Miras Payı Ne Kadardır? | Vatandaş Rehberi",
+    "description": "Sağ kalan eşin miras payı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada…",
     "h1": "Sağ kalan eşin miras payı",
     "keywords": [
       "eşin miras payı",
@@ -93793,8 +93963,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "vasiyetname-iptali",
-    "title": "Vasiyetname İptali Davası",
-    "description": "Ehliyet/şekil. Vasiyet yapma linki.",
+    "title": "Vasiyetname nasıl iptal ettirilir — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Vasiyetname nasıl iptal ettirilir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somu…",
     "h1": "Vasiyetname nasıl iptal ettirilir?",
     "keywords": [
       "vasiyetname iptali"
@@ -94061,8 +94231,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "miras-sebebiyle-istihkak",
-    "title": "Miras Sebebiyle İstihkak",
-    "description": "Malın mirasçıya geçmesi. Veraset ve tapu iptal linkleri.",
+    "title": "Miras sebebiyle istihkak nedir — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Miras sebebiyle istihkak nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut d…",
     "h1": "Miras sebebiyle istihkak nedir?",
     "keywords": [
       "miras sebebiyle istihkak"
@@ -94328,8 +94498,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "tapuda-satis-islemleri",
-    "title": "Tapuda Satış İşlemleri Adım Adım",
-    "description": "Randevu ve harç. Ana tapu devri rehberine link.",
+    "title": "Tapuda Satış İşlemleri Adım Adım | Vatandaş Rehberi",
+    "description": "Tapuda satış günü neler yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut …",
     "h1": "Tapuda satış günü neler yapılır?",
     "keywords": [
       "tapuda satış",
@@ -94597,8 +94767,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "hisseli-tapu-riskleri",
-    "title": "Hisseli Tapu Riskleri",
-    "description": "Paylı mülkiyet. Önalım ve izale linkleri.",
+    "title": "Hisseli tapu alınır mı — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Hisseli tapu alınır mı? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada a…",
     "h1": "Hisseli tapu alınır mı?",
     "keywords": [
       "hisseli tapu",
@@ -94866,8 +95036,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "tarla-tapu-tarim",
-    "title": "Tarla tapu",
-    "description": "Tarla tapu. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Tarla tapu — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Tarla tapu hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
     "h1": "Tarla tapu",
     "keywords": [
       "tarla tapu",
@@ -95135,8 +95305,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "kat-mulkiyeti-genel-kurul",
-    "title": "Kat malikleri kurulu",
-    "description": "Kat malikleri kurulu. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Kat malikleri kurulu — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Kat malikleri kurulu hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuk…",
     "h1": "Kat malikleri kurulu",
     "keywords": [
       "kat malikleri kurulu",
@@ -95403,8 +95573,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "dilekce-hakki-3071",
-    "title": "Dilekçe hakkı 3071",
-    "description": "Dilekçe hakkı 3071. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Dilekçe hakkı 3071 — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Dilekçe hakkı 3071 hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukat…",
     "h1": "Dilekçe hakkı 3071",
     "keywords": [
       "dilekçe hakkı 3071",
@@ -95671,8 +95841,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "idari-basvuru-yolu",
-    "title": "İdari Başvuru Yolu Tüketme",
-    "description": "Başvuru yolları. Ana idari dava rehberine link.",
+    "title": "Davadan önce idari başvuru gerekir mi — Vatandaş Rehberi | Av. Fethi G",
+    "description": "Davadan önce idari başvuru gerekir mi? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. …",
     "h1": "Davadan önce idari başvuru gerekir mi?",
     "keywords": [
       "idari başvuru yolu",
@@ -95940,8 +96110,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "belediye-imar-para-cezasi",
-    "title": "İmar para cezası",
-    "description": "İmar para cezası. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "İmar para cezası — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "İmar para cezası hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata …",
     "h1": "İmar para cezası",
     "keywords": [
       "imar para cezası",
@@ -96210,8 +96380,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "trafik-sigortasi-zorunlu",
-    "title": "Zorunlu trafik sigortası",
-    "description": "Zorunlu trafik sigortası. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Zorunlu trafik sigortası — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Zorunlu trafik sigortası hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada …",
     "h1": "Zorunlu trafik sigortası",
     "keywords": [
       "zorunlu trafik sigortası",
@@ -96479,8 +96649,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "deger-kaybi-arac",
-    "title": "Araç değer kaybı",
-    "description": "Araç değer kaybı. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Araç değer kaybı — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Araç değer kaybı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata …",
     "h1": "Araç değer kaybı",
     "keywords": [
       "araç değer kaybı",
@@ -96747,8 +96917,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "destekten-yoksun-kalma",
-    "title": "Destekten yoksun kalma",
-    "description": "Destekten yoksun kalma. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Destekten yoksun kalma — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Destekten yoksun kalma hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada av…",
     "h1": "Destekten yoksun kalma",
     "keywords": [
       "destekten yoksun kalma",
@@ -97014,8 +97184,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "e-devlet-sgk-borcu",
-    "title": "e-Devlet SGK borcu",
-    "description": "e-Devlet SGK borcu. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "e-Devlet SGK borcu — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "e-Devlet SGK borcu hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukat…",
     "h1": "e-Devlet SGK borcu",
     "keywords": [
       "e-devlet sgk borcu",
@@ -97282,8 +97452,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "stopaj-nedir",
-    "title": "Stopaj",
-    "description": "Stopaj. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Stopaj — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Stopaj hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
     "h1": "Stopaj",
     "keywords": [
       "stopaj",
@@ -97551,8 +97721,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "muhtasar-beyanname",
-    "title": "Muhtasar beyanname",
-    "description": "Muhtasar beyanname. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Muhtasar beyanname — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Muhtasar beyanname hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukat…",
     "h1": "Muhtasar beyanname",
     "keywords": [
       "muhtasar beyanname",
@@ -97819,8 +97989,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "kredi-karti-asgari-odeme",
-    "title": "Kredi kartı asgari ödeme",
-    "description": "Kredi kartı asgari ödeme. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Kredi kartı asgari ödeme — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Kredi kartı asgari ödeme hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada …",
     "h1": "Kredi kartı asgari ödeme",
     "keywords": [
       "kredi kartı asgari ödeme",
@@ -98087,8 +98257,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "banka-icra-takibi",
-    "title": "Banka İcra Takibi Gelirse",
-    "description": "İtiraz ve yapılandırma. Ana icra ve kredi sayfalarına link.",
+    "title": "Bankadan icra gelince ne yapılmalı — Vatandaş Rehberi | Av. Fethi Güze",
+    "description": "Bankadan icra gelince ne yapılmalı? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Som…",
     "h1": "Bankadan icra gelince ne yapılmalı?",
     "keywords": [
       "banka icra takibi",
@@ -98357,8 +98527,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "kefilden-tahsilat",
-    "title": "Kefilden tahsilat",
-    "description": "Kefilden tahsilat. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Kefilden tahsilat — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Kefilden tahsilat hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata…",
     "h1": "Kefilden tahsilat",
     "keywords": [
       "kefilden tahsilat",
@@ -98625,8 +98795,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "is-kazasi-sonrasi-haklar",
-    "title": "İş Kazası Sonrası İşçi Hakları",
-    "description": "Tedavi, IG, tazminat haritası. Ana rehber.",
+    "title": "İş Kazası Sonrası İşçi Hakları | Vatandaş Rehberi",
+    "description": "İş kazası sonrası haklarınız nelerdir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. …",
     "h1": "İş kazası sonrası haklarınız nelerdir?",
     "keywords": [
       "iş kazası sonrası haklar"
@@ -98892,8 +99062,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "meslek-hastaligi-nedir",
-    "title": "Meslek Hastalığı Nedir?",
-    "description": "Tespit ve tazminat. İş kazası ana rehbere yakın.",
+    "title": "Meslek hastalığı nasıl ispatlanır — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Meslek hastalığı nasıl ispatlanır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somu…",
     "h1": "Meslek hastalığı nasıl ispatlanır?",
     "keywords": [
       "meslek hastalığı",
@@ -99160,8 +99330,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "is-veren-sorumlulugu-kazasi",
-    "title": "İşverenin İş Kazası Sorumluluğu",
-    "description": "Kusur ve rücu. Ana tazminat rehberine link.",
+    "title": "İşverenin İş Kazası Sorumluluğu | Vatandaş Rehberi",
+    "description": "İş kazasında işveren sorumlu mudur? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Som…",
     "h1": "İş kazasında işveren sorumlu mudur?",
     "keywords": [
       "işveren iş kazası sorumluluğu"
@@ -99427,8 +99597,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "evlilik-iptali-davasi",
-    "title": "Evliliğin iptali",
-    "description": "Evliliğin iptali. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Evliliğin iptali — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Evliliğin iptali hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata …",
     "h1": "Evliliğin iptali",
     "keywords": [
       "evliliğin iptali",
@@ -99696,8 +99866,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "babalik-davasi",
-    "title": "Babalık davası",
-    "description": "Babalık davası. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Babalık davası — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Babalık davası hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata da…",
     "h1": "Babalık davası",
     "keywords": [
       "babalık davası",
@@ -99965,8 +100135,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "soyadi-degisikligi-davasi",
-    "title": "Soyadı değişikliği davası",
-    "description": "Soyadı değişikliği davası. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Soyadı değişikliği davası — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Soyadı değişikliği davası hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada…",
     "h1": "Soyadı değişikliği davası",
     "keywords": [
       "soyadı değişikliği davası",
@@ -100234,8 +100404,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "isim-degisikligi-davasi",
-    "title": "İsim değişikliği davası",
-    "description": "İsim değişikliği davası. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "İsim değişikliği davası — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "İsim değişikliği davası hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada a…",
     "h1": "İsim değişikliği davası",
     "keywords": [
       "isim değişikliği davası",
@@ -100504,8 +100674,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "gorevsizlik-karari",
-    "title": "Görevsizlik Kararı Sonrası",
-    "description": "Süre ve dosya. Görev sayfasına link.",
+    "title": "Görevsizlik kararı sonrası ne yapılır — Vatandaş Rehberi | Av. Fethi G",
+    "description": "Görevsizlik kararı sonrası ne yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. …",
     "h1": "Görevsizlik kararı sonrası ne yapılır?",
     "keywords": [
       "görevsizlik kararı"
@@ -100771,8 +100941,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "yetkisizlik-karari",
-    "title": "Yetkisizlik Kararı Sonrası",
-    "description": "Yetki itirazı sonrası. Yetki sayfasına link.",
+    "title": "Yetkisizlik kararı gelirse ne yapılır — Vatandaş Rehberi | Av. Fethi G",
+    "description": "Yetkisizlik kararı gelirse ne yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. …",
     "h1": "Yetkisizlik kararı gelirse ne yapılır?",
     "keywords": [
       "yetkisizlik kararı"
@@ -101038,8 +101208,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "kesif-nedir",
-    "title": "Keşif",
-    "description": "Keşif. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Keşif — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Keşif hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
     "h1": "Keşif",
     "keywords": [
       "keşif",
@@ -101307,8 +101477,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "yemin-delili",
-    "title": "Yemin delili",
-    "description": "Yemin delili. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Yemin delili — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Yemin delili hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danı…",
     "h1": "Yemin delili",
     "keywords": [
       "yemin delili",
@@ -101576,7 +101746,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "istinaf-dilekcesi",
     "title": "İstinaf Dilekçesi Nasıl Yazılır?",
-    "description": "İçerik. Ana istinaf rehberine link.",
+    "description": "İstinaf dilekçesinde neler yazılmalı? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. S…",
     "h1": "İstinaf dilekçesinde neler yazılmalı?",
     "keywords": [
       "istinaf dilekçesi",
@@ -101844,8 +102014,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "temyiz-siniri",
-    "title": "Temyiz Sınırı",
-    "description": "Parasal sınır. Temyiz ve istinaf linkleri.",
+    "title": "Hangi kararlar temyiz edilebilir — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Hangi kararlar temyiz edilebilir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut…",
     "h1": "Hangi kararlar temyiz edilebilir?",
     "keywords": [
       "temyiz sınırı",
@@ -102113,8 +102283,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "e-devlet-ceza-sorgulama",
-    "title": "e-Devlet ceza sorgulama",
-    "description": "e-Devlet ceza sorgulama. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "e-Devlet ceza sorgulama — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "e-Devlet ceza sorgulama hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada a…",
     "h1": "e-Devlet ceza sorgulama",
     "keywords": [
       "e-devlet ceza sorgulama",
@@ -102382,8 +102552,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "e-devlet-dava-dosyasi",
-    "title": "e-Devlet dava dosyası",
-    "description": "e-Devlet dava dosyası. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "e-Devlet dava dosyası — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "e-Devlet dava dosyası hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avu…",
     "h1": "e-Devlet dava dosyası",
     "keywords": [
       "e-devlet dava dosyası",
@@ -102651,8 +102821,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "e-devlet-miras",
-    "title": "e-Devlet Miras İşlemleri",
-    "description": "Menü özeti. Veraset alma ana rehberde.",
+    "title": "e-Devlette miras işlemleri nelerdir — Vatandaş Rehberi | Av. Fethi Güz",
+    "description": "e-Devlette miras işlemleri nelerdir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. So…",
     "h1": "e-Devlette miras işlemleri nelerdir?",
     "keywords": [
       "e-devlet miras",
@@ -102920,8 +103090,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "e-devlet-tapu",
-    "title": "e-Devlet Tapu Bilgileri",
-    "description": "Taşınmaz listesi. TAKBİS sayfasına link.",
+    "title": "e-Devletten tapu nasıl sorgulanır — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "e-Devletten tapu nasıl sorgulanır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somu…",
     "h1": "e-Devletten tapu nasıl sorgulanır?",
     "keywords": [
       "e-devlet tapu sorgulama"
@@ -103187,8 +103357,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "e-devlet-sgk-hizmet",
-    "title": "e-Devlet SGK Hizmet Dökümü Adımları",
-    "description": "Pratik. SGK dökümü sayfasına link.",
+    "title": "e-Devlet SGK Hizmet Dökümü Adımları | Vatandaş Rehberi",
+    "description": "Hizmet dökümü e-Devlet adımları hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut d…",
     "h1": "Hizmet dökümü e-Devlet adımları",
     "keywords": [
       "e-devlet SGK hizmet dökümü",
@@ -103456,8 +103626,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "konut-kirasi-artis-siniri",
-    "title": "Konut Kira Artış Yasal Sınırı",
-    "description": "Konut kira artış tavanı ve TÜFE ilişkisi. Genel hesap ana kira artışı rehberinde.",
+    "title": "Konut Kira Artış Yasal Sınırı | Vatandaş Rehberi",
+    "description": "Konut kira zammı yasal sınırı nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. So…",
     "h1": "Konut kira zammı yasal sınırı nedir?",
     "keywords": [
       "konut kira artış sınırı",
@@ -103726,7 +103896,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "isyeri-kirasi-artis",
     "title": "İşyeri Kira Artışı Nasıl Belirlenir?",
-    "description": "Ticari kira artışı ve tespit. Konut hesabı ana rehberde; tahliye ayrı.",
+    "description": "İşyeri kira zammı nasıl olur? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dos…",
     "h1": "İşyeri kira zammı nasıl olur?",
     "keywords": [
       "işyeri kira artışı",
@@ -103994,8 +104164,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "kira-sozlesmesi-bitisi",
-    "title": "Kira Sözleşmesi Bitince Ne Olur?",
-    "description": "Yenileme ve süre sonu. Tahliye sebepleri ayrı listede.",
+    "title": "Kira Sözleşmesi Bitince Ne Olur? | Vatandaş Rehberi",
+    "description": "Kira süresi dolunca ne yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut d…",
     "h1": "Kira süresi dolunca ne yapılır?",
     "keywords": [
       "kira sözleşmesi bitişi",
@@ -104264,7 +104434,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "tbk-madde-13",
-    "title": "TBK 13 Yazılı Şekil — Vatandaş Özeti",
+    "title": "TBK 13 Yazılı Şekil — Vatandaş Özeti | Vatandaş Rehberi",
     "description": "TBK 13 / TBK madde 13: kanunda yazılı şekil öngörülen sözleşmenin değişikliğinde de yazılı şekil. Tam metin ve şerh: /mevzuat/tbk/madde-13 — Av. Fethi Güzel.",
     "h1": "TBK 13 nedir? Yazılı şekil kuralı (özet)",
     "keywords": [
@@ -104464,7 +104634,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "tbk-madde-125",
-    "title": "TBK 125 Zamanaşımı — Vatandaş Özeti",
+    "title": "TBK 125 Zamanaşımı — Vatandaş Özeti | Vatandaş Rehberi",
     "description": "TBK m.125 genel zamanaşımı özeti. Resmî madde metni ve akademik şerh: avfethiguzel.com/mevzuat/tbk/madde-125",
     "h1": "TBK m.125 zamanaşımı (vatandaş özeti)",
     "keywords": [
@@ -104668,8 +104838,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "tbk-madde-49",
-    "title": "TBK 49 Haksız Fiil — Vatandaş Özeti",
-    "description": "Haksız fiil unsurları özeti. Tam metin ve şerh mevzuat sayfasında.",
+    "title": "TBK 49 Haksız Fiil — Vatandaş Özeti | Vatandaş Rehberi",
+    "description": "TBK m.49 haksız fiil (özet) hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosya…",
     "h1": "TBK m.49 haksız fiil (özet)",
     "keywords": [
       "TBK 49 özet",
@@ -104869,8 +105039,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "tbk-madde-112",
-    "title": "TBK 112 Temerrüt — Vatandaş Özeti",
-    "description": "Temerrüt özeti. Tam metin /mevzuat/tbk/madde-112",
+    "title": "TBK 112 Temerrüt — Vatandaş Özeti | Vatandaş Rehberi",
+    "description": "TBK m.112 borçlu temerrüdü (özet) hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut…",
     "h1": "TBK m.112 borçlu temerrüdü (özet)",
     "keywords": [
       "TBK 112 özet",
@@ -105070,8 +105240,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "tmk-madde-166",
-    "title": "TMK 166 Boşanma — Vatandaş Özeti",
-    "description": "Evlilik birliğinin sarsılması özeti. Tam metin mevzuat sayfasında.",
+    "title": "TMK 166 Boşanma — Vatandaş Özeti | Vatandaş Rehberi",
+    "description": "TMK m.166 boşanma (özet) hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada …",
     "h1": "TMK m.166 boşanma (özet)",
     "keywords": [
       "TMK 166 özet",
@@ -105271,8 +105441,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "tmk-madde-499",
-    "title": "TMK 499 Yasal Miras — Özet",
-    "description": "Yasal mirasçılık özeti. Tam metin mevzuat sayfasında.",
+    "title": "TMK m.499 yasal miras (özet) — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "TMK m.499 yasal miras (özet) hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosy…",
     "h1": "TMK m.499 yasal miras (özet)",
     "keywords": [
       "TMK 499 özet",
@@ -105467,8 +105637,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "tck-madde-86",
-    "title": "TCK 86 Kasten Yaralama — Özet",
-    "description": "Suç özeti. Tam metin ve şerh mevzuat sayfasında.",
+    "title": "TCK 86 Kasten Yaralama — Özet | Vatandaş Rehberi",
+    "description": "TCK m.86 kasten yaralama (özet) hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut d…",
     "h1": "TCK m.86 kasten yaralama (özet)",
     "keywords": [
       "TCK 86 özet",
@@ -105668,8 +105838,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "tck-madde-106",
-    "title": "TCK 106 Tehdit — Özet",
-    "description": "Tehdit suçu özeti. Tam metin mevzuat sayfasında.",
+    "title": "TCK m.106 tehdit (özet) — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "TCK m.106 tehdit (özet) hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada a…",
     "h1": "TCK m.106 tehdit (özet)",
     "keywords": [
       "TCK 106 özet",
@@ -105869,8 +106039,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "tck-madde-125",
-    "title": "TCK 125 Hakaret — Özet",
-    "description": "Hakaret suçu özeti. Tam metin mevzuat sayfasında.",
+    "title": "TCK m.125 hakaret (özet) — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "TCK m.125 hakaret (özet) hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada …",
     "h1": "TCK m.125 hakaret (özet)",
     "keywords": [
       "TCK 125 özet",
@@ -106070,8 +106240,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "hmk-madde-119",
-    "title": "HMK 119 Dava Dilekçesi — Özet",
-    "description": "Dilekçe unsurları özeti. Tam metin mevzuat sayfasında.",
+    "title": "HMK 119 Dava Dilekçesi — Özet | Vatandaş Rehberi",
+    "description": "HMK m.119 dava dilekçesi (özet) hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut d…",
     "h1": "HMK m.119 dava dilekçesi (özet)",
     "keywords": [
       "HMK 119 özet",
@@ -106271,8 +106441,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "hmk-madde-389",
-    "title": "HMK 389 İhtiyati Tedbir — Özet",
-    "description": "Tedbir şartları özeti. Tam metin mevzuat sayfasında.",
+    "title": "HMK 389 İhtiyati Tedbir — Özet | Vatandaş Rehberi",
+    "description": "HMK m.389 ihtiyati tedbir (özet) hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut …",
     "h1": "HMK m.389 ihtiyati tedbir (özet)",
     "keywords": [
       "HMK 389 özet",
@@ -106472,8 +106642,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "iik-madde-62",
-    "title": "İİK 62 Ödeme Emrine İtiraz — Özet",
-    "description": "Madde özeti. Tam metin mevzuat; pratik rehber /bilgi/odeme-emrine-itiraz",
+    "title": "İİK 62 Ödeme Emrine İtiraz — Özet | Vatandaş Rehberi",
+    "description": "İİK m.62 ödeme emrine itiraz (özet) hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Som…",
     "h1": "İİK m.62 ödeme emrine itiraz (özet)",
     "keywords": [
       "İİK 62 özet",
@@ -106673,8 +106843,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "is-kanunu-madde-17",
-    "title": "İş Kanunu 17 İhbar — Özet",
-    "description": "Madde özeti. Tam metin mevzuat; tablo /bilgi/ihbar-suresi-tablosu",
+    "title": "İş Kanunu m.17 bildirim süreleri (özet) — Vatandaş Rehberi | Av. Fethi",
+    "description": "İş Kanunu m.17 bildirim süreleri (özet) hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı.…",
     "h1": "İş Kanunu m.17 bildirim süreleri (özet)",
     "keywords": [
       "İş Kanunu 17 özet",
@@ -106874,8 +107044,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "is-kanunu-madde-25",
-    "title": "İş Kanunu 25 Haklı Fesih — Özet",
-    "description": "Madde özeti. Tam metin mevzuat sayfasında.",
+    "title": "İş Kanunu 25 Haklı Fesih — Özet | Vatandaş Rehberi",
+    "description": "İş Kanunu m.25 haklı fesih (özet) hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut…",
     "h1": "İş Kanunu m.25 haklı fesih (özet)",
     "keywords": [
       "İş Kanunu 25 özet",
@@ -107075,8 +107245,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "manevi-tazminat-nedir",
-    "title": "Manevi tazminat",
-    "description": "Manevi tazminat. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Manevi tazminat — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Manevi tazminat hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata d…",
     "h1": "Manevi tazminat",
     "keywords": [
       "manevi tazminat",
@@ -107344,8 +107514,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "maddi-tazminat-nedir",
-    "title": "Maddi tazminat",
-    "description": "Maddi tazminat. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Maddi tazminat — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Maddi tazminat hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata da…",
     "h1": "Maddi tazminat",
     "keywords": [
       "maddi tazminat",
@@ -107613,8 +107783,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "kusursuz-sorumluluk",
-    "title": "Kusursuz sorumluluk",
-    "description": "Kusursuz sorumluluk. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Kusursuz sorumluluk — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Kusursuz sorumluluk hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuka…",
     "h1": "Kusursuz sorumluluk",
     "keywords": [
       "kusursuz sorumluluk",
@@ -107881,8 +108051,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "rucu-davasi-nedir",
-    "title": "Rücu davası",
-    "description": "Rücu davası. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Rücu davası — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Rücu davası hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
     "h1": "Rücu davası",
     "keywords": [
       "rücu davası",
@@ -108150,8 +108320,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "ticari-defterler",
-    "title": "Ticari defterler",
-    "description": "Ticari defterler. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Ticari defterler — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Ticari defterler hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata …",
     "h1": "Ticari defterler",
     "keywords": [
       "ticari defterler",
@@ -108417,8 +108587,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "unvan-tescili",
-    "title": "Ticaret unvanı tescili",
-    "description": "Ticaret unvanı tescili. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Ticaret unvanı tescili — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Ticaret unvanı tescili hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada av…",
     "h1": "Ticaret unvanı tescili",
     "keywords": [
       "ticaret unvanı tescili",
@@ -108685,8 +108855,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "aciz-vesikasi",
-    "title": "Aciz Vesikası Nedir?",
-    "description": "İcra aciz belgesi. Ana icra rehberine link.",
+    "title": "Aciz vesikası ne demektir — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Aciz vesikası ne demektir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyad…",
     "h1": "Aciz vesikası ne demektir?",
     "keywords": [
       "aciz vesikası",
@@ -108954,8 +109124,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "turist-ikamet-izni",
-    "title": "Turistik ikamet izni",
-    "description": "Turistik ikamet izni. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Turistik ikamet izni — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Turistik ikamet izni hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuk…",
     "h1": "Turistik ikamet izni",
     "keywords": [
       "turistik ikamet izni",
@@ -109222,8 +109392,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "calisma-izni-muafiyeti",
-    "title": "Çalışma izni muafiyeti",
-    "description": "Çalışma izni muafiyeti. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Çalışma izni muafiyeti — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Çalışma izni muafiyeti hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada av…",
     "h1": "Çalışma izni muafiyeti",
     "keywords": [
       "çalışma izni muafiyeti",
@@ -109490,8 +109660,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "iskan-olmadan-oturma",
-    "title": "İskansız Dairede Oturmak",
-    "description": "Riskler. Ana iskan rehberine link.",
+    "title": "İskansız evde oturulur mu — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "İskansız evde oturulur mu? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyad…",
     "h1": "İskansız evde oturulur mu?",
     "keywords": [
       "iskansız daire",
@@ -109759,8 +109929,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "yapı-denetim-nedir",
-    "title": "Yapı Denetim Nedir?",
-    "description": "Denetim firması. Ruhsat/iskan linkleri.",
+    "title": "Yapı denetim zorunlu mudur — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Yapı denetim zorunlu mudur? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosya…",
     "h1": "Yapı denetim zorunlu mudur?",
     "keywords": [
       "yapı denetim"
@@ -110026,8 +110196,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "imar-affi-nedir",
-    "title": "İmar affı",
-    "description": "İmar affı. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "İmar affı — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "İmar affı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
     "h1": "İmar affı",
     "keywords": [
       "imar affı",
@@ -110296,8 +110466,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "veri-ihlali-bildirimi",
-    "title": "Veri İhlali Bildirimi",
-    "description": "Bildirim. Ana KVKK başvuru linki.",
+    "title": "Kişisel veri ihlalinde ne yapılır — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Kişisel veri ihlalinde ne yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somu…",
     "h1": "Kişisel veri ihlalinde ne yapılır?",
     "keywords": [
       "veri ihlali bildirimi",
@@ -110565,8 +110735,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "cerez-aydinlatma",
-    "title": "Çerez Aydınlatması",
-    "description": "Web çerezleri. Aydınlatma linki.",
+    "title": "Çerez politikası zorunlu mudur — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Çerez politikası zorunlu mudur? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut d…",
     "h1": "Çerez politikası zorunlu mudur?",
     "keywords": [
       "çerez aydınlatması",
@@ -110834,8 +111004,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "is-arabuluculuk-zorunlu",
-    "title": "İş Davalarında Zorunlu Arabuluculuk",
-    "description": "İş uyuşmazlığı kapsamı. Ana arabuluculuk ve işe iade linkleri.",
+    "title": "İş Davalarında Zorunlu Arabuluculuk | Vatandaş Rehberi",
+    "description": "Hangi iş davalarında arabuluculuk zorunlu? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Porta…",
     "h1": "Hangi iş davalarında arabuluculuk zorunlu?",
     "keywords": [
       "iş arabuluculuk zorunlu",
@@ -111103,8 +111273,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "ticari-arabuluculuk",
-    "title": "Ticari Davalarda Arabuluculuk",
-    "description": "Ticari dava şartı. Ana arabuluculuk rehberine link.",
+    "title": "Ticari Davalarda Arabuluculuk | Vatandaş Rehberi",
+    "description": "Ticari davalarda arabuluculuk zorunlu mu? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portal…",
     "h1": "Ticari davalarda arabuluculuk zorunlu mu?",
     "keywords": [
       "ticari arabuluculuk",
@@ -111372,8 +111542,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "tuketici-arabuluculuk",
-    "title": "Tüketici Uyuşmazlıklarında Arabuluculuk",
-    "description": "Tüketici arabuluculuk. Hakem heyeti ayrı.",
+    "title": "Tüketici Uyuşmazlıklarında Arabuluculuk | Vatandaş Rehberi",
+    "description": "Tüketici davasında arabuluculuk var mı? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı.…",
     "h1": "Tüketici davasında arabuluculuk var mı?",
     "keywords": [
       "tüketici arabuluculuk"
@@ -111639,7 +111809,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "nafaka-artirim-davasi",
-    "title": "Nafaka Artırım Davası Usulü",
+    "title": "Nafaka artırım davası nasıl açılır — Vatandaş Rehberi | Av. Fethi Güze",
     "description": "Nafaka artırımında değişen şartlar ve usul. Çocuk odaklı artırım ayrı; türler ana rehberde.",
     "h1": "Nafaka artırım davası nasıl açılır?",
     "keywords": [
@@ -111908,8 +112078,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "nafaka-indirim-davasi",
-    "title": "Nafaka İndirim ve Kaldırma Davası",
-    "description": "Gelir değişimi, evlilik vb. ile nafaka indirim/kaldırma. Ana nafaka rehberine link.",
+    "title": "Nafaka İndirim ve Kaldırma Davası | Vatandaş Rehberi",
+    "description": "Nafaka nasıl indirilir veya kaldırılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı.…",
     "h1": "Nafaka nasıl indirilir veya kaldırılır?",
     "keywords": [
       "nafaka indirim davası",
@@ -112179,7 +112349,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "islex-nafaka-nedir",
     "title": "İştirak Nafakası Nasıl Hesaplanır?",
-    "description": "Çocuk nafakası hesabında ihtiyaç-gelir dengesi. Türler ana nafaka; artırım ayrı sayfada.",
+    "description": "İştirak nafakası kabaca nasıl hesaplanır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portal…",
     "h1": "İştirak nafakası kabaca nasıl hesaplanır?",
     "keywords": [
       "iştirak nafakası hesaplama",
@@ -112448,8 +112618,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "bosanma-maaliyeti",
-    "title": "Boşanma Davası Ne Kadar Tutar?",
-    "description": "Harç ve vekâlet. Süreç ana boşanma rehberinde.",
+    "title": "Boşanma Davası Ne Kadar Tutar? | Vatandaş Rehberi",
+    "description": "Boşanma davası maliyeti hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada a…",
     "h1": "Boşanma davası maliyeti",
     "keywords": [
       "boşanma davası ne kadar tutar",
@@ -112717,8 +112887,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "avukat-tutmak-zorunlu-mu",
-    "title": "Avukat tutmak zorunlu mu",
-    "description": "Avukat tutmak zorunlu mu. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Avukat tutmak zorunlu mu — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Avukat tutmak zorunlu mu hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada …",
     "h1": "Avukat tutmak zorunlu mu",
     "keywords": [
       "avukat tutmak zorunlu mu",
@@ -112985,8 +113155,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "adli-yardim-nedir",
-    "title": "Adli yardım",
-    "description": "Adli yardım. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Adli yardım — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Adli yardım hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
     "h1": "Adli yardım",
     "keywords": [
       "adli yardım",
@@ -113254,8 +113424,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "arabuluculuk-anlasma-icra",
-    "title": "Arabuluculuk Anlaşmasının İcrası",
-    "description": "İcra yolu. Anlaşma belgesi ve ana arabuluculuk linkleri.",
+    "title": "Arabuluculuk Anlaşmasının İcrası | Vatandaş Rehberi",
+    "description": "Anlaşma belgesi nasıl icra edilir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somu…",
     "h1": "Anlaşma belgesi nasıl icra edilir?",
     "keywords": [
       "arabuluculuk anlaşması icra"
@@ -113522,7 +113692,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "icra-dosyasi-kapatma",
     "title": "İcra Dosyası Nasıl Kapatılır?",
-    "description": "Ödeme ve feragat. Haciz kaldırma linki.",
+    "description": "İcra dosyası kapanınca ne olur? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut d…",
     "h1": "İcra dosyası kapanınca ne olur?",
     "keywords": [
       "icra dosyası kapatma",
@@ -113791,8 +113961,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "e-haciz-nedir",
-    "title": "e-Haciz Nedir? (Vergi)",
-    "description": "Vergi e-haciz. Vergi borcu ve banka haczi linkleri.",
+    "title": "e-Haciz nedir? Nasıl kalkar — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "e-Haciz nedir? Nasıl kalkar? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosy…",
     "h1": "e-Haciz nedir? Nasıl kalkar?",
     "keywords": [
       "e-haciz nedir",
@@ -114060,8 +114230,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "sgk-tesvik-nedir",
-    "title": "SGK teşvikleri",
-    "description": "SGK teşvikleri. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "SGK teşvikleri — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "SGK teşvikleri hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata da…",
     "h1": "SGK teşvikleri",
     "keywords": [
       "sgk teşvikleri",
@@ -114329,8 +114499,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "issizlik-sigortasi-nedir",
-    "title": "İşsizlik Sigortası Nedir?",
-    "description": "Prim. İşsizlik maaşı ana rehber.",
+    "title": "İşsizlik sigortası nasıl işler — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "İşsizlik sigortası nasıl işler? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut d…",
     "h1": "İşsizlik sigortası nasıl işler?",
     "keywords": [
       "işsizlik sigortası",
@@ -114598,8 +114768,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "kidem-tazminati-sgk-iliskisi",
-    "title": "Kıdem Tazminatı SGK ve Vergi İlişkisi",
-    "description": "Kıdemde SGK, damga ve vergi notları. Hak kazanma ve dava süreci ana kıdem rehberinde.",
+    "title": "Kıdem Tazminatı SGK ve Vergi İlişkisi | Vatandaş Rehberi",
+    "description": "Kıdem tazminatı SGK’ya nasıl yansır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. So…",
     "h1": "Kıdem tazminatı SGK’ya nasıl yansır?",
     "keywords": [
       "kıdem tazminatı SGK",
@@ -114870,7 +115040,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "fesih-bildirimi-ornegi",
     "title": "Fesih Bildirimi Nasıl Yapılır?",
-    "description": "Yazılı bildirim. Ana fesih rehberine link.",
+    "description": "İş sözleşmesi fesih bildirimi hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dos…",
     "h1": "İş sözleşmesi fesih bildirimi",
     "keywords": [
       "fesih bildirimi",
@@ -115138,8 +115308,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "toplu-isten-cikarma",
-    "title": "Toplu İşten Çıkarma",
-    "description": "Usul. Ana fesih rehberine link.",
+    "title": "Toplu işten çıkarma şartları — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Toplu işten çıkarma şartları hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosy…",
     "h1": "Toplu işten çıkarma şartları",
     "keywords": [
       "toplu işten çıkarma",
@@ -115407,8 +115577,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "uzaktan-calisma-yonetmelik",
-    "title": "Uzaktan çalışma",
-    "description": "Uzaktan çalışma. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Uzaktan çalışma — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Uzaktan çalışma hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata d…",
     "h1": "Uzaktan çalışma",
     "keywords": [
       "uzaktan çalışma",
@@ -115676,8 +115846,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "stajyer-haklari",
-    "title": "Stajyer hakları",
-    "description": "Stajyer hakları. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Stajyer hakları — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Stajyer hakları hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata d…",
     "h1": "Stajyer hakları",
     "keywords": [
       "stajyer hakları",
@@ -115945,8 +116115,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "cagri-uzerine-calisma",
-    "title": "Çağrı üzerine çalışma",
-    "description": "Çağrı üzerine çalışma. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Çağrı üzerine çalışma — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Çağrı üzerine çalışma hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avu…",
     "h1": "Çağrı üzerine çalışma",
     "keywords": [
       "çağrı üzerine çalışma",
@@ -116214,8 +116384,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "gecerli-fesih-nedir",
-    "title": "Geçerli Fesih Nedir?",
-    "description": "İş güvencesi. İşe iade pillar linki.",
+    "title": "Geçerli fesih ile haklı fesih farkı — Vatandaş Rehberi | Av. Fethi Güz",
+    "description": "Geçerli fesih ile haklı fesih farkı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Som…",
     "h1": "Geçerli fesih ile haklı fesih farkı",
     "keywords": [
       "geçerli fesih",
@@ -116482,8 +116652,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "is-aramaya-izin",
-    "title": "İş arama izni",
-    "description": "İş arama izni. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "İş arama izni — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "İş arama izni hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata dan…",
     "h1": "İş arama izni",
     "keywords": [
       "iş arama izni",
@@ -116752,8 +116922,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "calisma-belgesi",
-    "title": "Çalışma belgesi",
-    "description": "Çalışma belgesi. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Çalışma belgesi — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Çalışma belgesi hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata d…",
     "h1": "Çalışma belgesi",
     "keywords": [
       "çalışma belgesi",
@@ -117022,7 +117192,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "ibraname-nedir",
     "title": "İbraname Nedir? Geçerlilik Şartları",
-    "description": "TBK ibraname, iş hukuku. Bilgilendirme.",
+    "description": "İbraname imzalamak riskli midir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut …",
     "h1": "İbraname imzalamak riskli midir?",
     "keywords": [
       "ibraname nedir",
@@ -117338,7 +117508,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   {
     "slug": "iscilik-alacaklari-davasi",
     "title": "İşçilik Alacakları Davası Nasıl Açılır?",
-    "description": "Kıdem, fazla mesai, izin alacaklarında arabuluculuk ve dava. Kıdem şartları ana rehberde.",
+    "description": "İşçilik alacakları davası nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut …",
     "h1": "İşçilik alacakları davası nedir?",
     "keywords": [
       "işçilik alacakları davası",
@@ -117606,8 +117776,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "ucret-haczi-nafaka",
-    "title": "Maaş Haczinde Nafaka Önceliği",
-    "description": "Ücret haczi ve nafaka kesintisi. Maaş haczi oranı ve nafaka icra sayfalarına link.",
+    "title": "Maaş Haczinde Nafaka Önceliği | Vatandaş Rehberi",
+    "description": "Nafaka ile maaş haczi çakışırsa ne olur? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı…",
     "h1": "Nafaka ile maaş haczi çakışırsa ne olur?",
     "keywords": [
       "nafaka maaş haczi",
@@ -117876,8 +118046,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "cocuk-teslimi-iade",
-    "title": "Çocuk Tesliminde Direnme",
-    "description": "Yaptırım. Teslim icrası linki.",
+    "title": "Çocuk teslim edilmezse ne olur — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Çocuk teslim edilmezse ne olur? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut d…",
     "h1": "Çocuk teslim edilmezse ne olur?",
     "keywords": [
       "çocuk teslimi direnme"
@@ -118143,8 +118313,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "aile-mahkamesi-nedir",
-    "title": "Aile mahkemesi",
-    "description": "Aile mahkemesi. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Aile mahkemesi — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Aile mahkemesi hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata da…",
     "h1": "Aile mahkemesi",
     "keywords": [
       "aile mahkemesi",
@@ -118412,8 +118582,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "is-mahkemesi-nedir",
-    "title": "İş mahkemesi",
-    "description": "İş mahkemesi. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "İş mahkemesi — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "İş mahkemesi hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danı…",
     "h1": "İş mahkemesi",
     "keywords": [
       "iş mahkemesi",
@@ -118682,8 +118852,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "tuketici-hakem-parasal-sinir",
-    "title": "Tüketici Hakem Heyeti Parasal Sınır",
-    "description": "Yıllık limit. Başvuru usulü ana rehberde.",
+    "title": "Tüketici Hakem Heyeti Parasal Sınır | Vatandaş Rehberi",
+    "description": "Hakem heyeti parasal sınırı nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somu…",
     "h1": "Hakem heyeti parasal sınırı nedir?",
     "keywords": [
       "tüketici hakem heyeti parasal sınır",
@@ -118951,8 +119121,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "e-devlet-tuketici",
-    "title": "e-Devlet Tüketici Başvurusu",
-    "description": "Online adımlar. Esas şartlar ana rehberde.",
+    "title": "Tüketici başvurusu e-Devletten nasıl yapılır — Vatandaş Rehberi | Av. ",
+    "description": "Tüketici başvurusu e-Devletten nasıl yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Po…",
     "h1": "Tüketici başvurusu e-Devletten nasıl yapılır?",
     "keywords": [
       "e-devlet tüketici",
@@ -119220,8 +119390,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "noter-vekalet-ucreti",
-    "title": "Noter vekâlet ücreti",
-    "description": "Noter vekâlet ücreti. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Noter vekâlet ücreti — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Noter vekâlet ücreti hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuk…",
     "h1": "Noter vekâlet ücreti",
     "keywords": [
       "noter vekâlet ücreti",
@@ -119488,8 +119658,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "genel-vekaletname-risk",
-    "title": "Genel vekâletname riskleri",
-    "description": "Genel vekâletname riskleri. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Genel vekâletname riskleri — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Genel vekâletname riskleri hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyad…",
     "h1": "Genel vekâletname riskleri",
     "keywords": [
       "genel vekâletname riskleri",
@@ -119756,8 +119926,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "tapu-vekaleten-satis",
-    "title": "Vekâleten Tapu Satışı",
-    "description": "Yetki ve risk. Ana devir ve sahte vekâlet linkleri.",
+    "title": "Vekâletle tapu satışı nasıl olur — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Vekâletle tapu satışı nasıl olur? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut…",
     "h1": "Vekâletle tapu satışı nasıl olur?",
     "keywords": [
       "vekaleten tapu satışı",
@@ -120025,8 +120195,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "sahte-vekaletname",
-    "title": "Sahte vekâletname",
-    "description": "Sahte vekâletname. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Sahte vekâletname — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Sahte vekâletname hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata…",
     "h1": "Sahte vekâletname",
     "keywords": [
       "sahte vekâletname",
@@ -120294,8 +120464,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "hile-ile-sozlesme",
-    "title": "Hile ile sözleşme",
-    "description": "Hile ile sözleşme. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Hile ile sözleşme — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Hile ile sözleşme hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata…",
     "h1": "Hile ile sözleşme",
     "keywords": [
       "hile ile sözleşme",
@@ -120563,8 +120733,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "gabin-nedir",
-    "title": "Gabin",
-    "description": "Gabin. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Gabin — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Gabin hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
     "h1": "Gabin",
     "keywords": [
       "gabin",
@@ -120832,8 +121002,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "sozlesmeden-donme",
-    "title": "Sözleşmeden dönme",
-    "description": "Sözleşmeden dönme. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Sözleşmeden dönme — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Sözleşmeden dönme hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata…",
     "h1": "Sözleşmeden dönme",
     "keywords": [
       "sözleşmeden dönme",
@@ -121101,8 +121271,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "cezai-sart-nedir",
-    "title": "Cezai şart",
-    "description": "Cezai şart. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Cezai şart — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Cezai şart hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
     "h1": "Cezai şart",
     "keywords": [
       "cezai şart",
@@ -121370,8 +121540,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "temerrut-faizi-nedir",
-    "title": "Temerrüt Faizi Nedir?",
-    "description": "Yasal faiz, avans. Bilgilendirme.",
+    "title": "Temerrüt faizi nasıl işler — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Temerrüt faizi nasıl işler? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosya…",
     "h1": "Temerrüt faizi nasıl işler?",
     "keywords": [
       "temerrüt faizi",
@@ -121380,14 +121550,18 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
     ],
     "category": "Borçlar",
     "related": [
-      "kefalet-sozlesmesi",
-      "kefil-olursam-ne-olur",
-      "yuklenici-temerrudu",
-      "kefilden-tahsilat",
-      "manevi-tazminat-nedir",
-      "maddi-tazminat-nedir",
-      "kusursuz-sorumluluk",
-      "rucu-davasi-nedir"
+      "butlan-nedir",
+      "iptal-edilebilirlik",
+      "destek-payi-hesabi",
+      "cezai-sart-nedir",
+      "emanet-sozlesmesi",
+      "odunc-sozlesmesi",
+      "bagis-sozlesmesi",
+      "vekalet-sozlesmesi-tbk",
+      "eser-sozlesmesi-nedir",
+      "on-sozlesme-nedir",
+      "genel-islem-kosullari",
+      "sozlesmenin-yorumu"
     ],
     "links": [
       {
@@ -121686,8 +121860,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "faiz-hesaplama-rehberi",
-    "title": "Faiz hesaplama",
-    "description": "Faiz hesaplama. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Faiz hesaplama — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Faiz hesaplama hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata da…",
     "h1": "Faiz hesaplama",
     "keywords": [
       "faiz hesaplama",
@@ -121954,8 +122128,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "rehin-nedir",
-    "title": "Rehin",
-    "description": "Rehin. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Rehin — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Rehin hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
     "h1": "Rehin",
     "keywords": [
       "rehin",
@@ -122223,8 +122397,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "teminat-mektubu",
-    "title": "Teminat mektubu",
-    "description": "Teminat mektubu. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Teminat mektubu — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Teminat mektubu hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata d…",
     "h1": "Teminat mektubu",
     "keywords": [
       "teminat mektubu",
@@ -122490,8 +122664,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "cek-ibraz-suresi",
-    "title": "Çek ibraz süresi",
-    "description": "Çek ibraz süresi. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Çek ibraz süresi — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Çek ibraz süresi hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata …",
     "h1": "Çek ibraz süresi",
     "keywords": [
       "çek ibraz süresi",
@@ -122758,8 +122932,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "bono-vade",
-    "title": "Bono vade ve protesto",
-    "description": "Bono vade ve protesto. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Bono vade ve protesto — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Bono vade ve protesto hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avu…",
     "h1": "Bono vade ve protesto",
     "keywords": [
       "bono vade ve protesto",
@@ -123027,8 +123201,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "iflasin-ertelenmesi",
-    "title": "İflasın Ertelenmesi ve Konkordato",
-    "description": "Güncel durum notu. Konkordato ana spoke.",
+    "title": "İflasın Ertelenmesi ve Konkordato | Vatandaş Rehberi",
+    "description": "İflas erteleme hâlâ var mı? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosya…",
     "h1": "İflas erteleme hâlâ var mı?",
     "keywords": [
       "iflasın ertelenmesi",
@@ -123296,7 +123470,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "sirket-borclarinda-ortak",
-    "title": "Ortağın şirket borcu sorumluluğu",
+    "title": "Ortağın şirket borcu sorumluluğu | Vatandaş Rehberi",
     "description": "Ortağın şirket borcu sorumluluğu. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
     "h1": "Ortağın şirket borcu sorumluluğu",
     "keywords": [
@@ -123565,8 +123739,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "anonim-sirket-yonetim-kurulu",
-    "title": "Yönetim kurulu sorumluluğu",
-    "description": "Yönetim kurulu sorumluluğu. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Yönetim kurulu sorumluluğu — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Yönetim kurulu sorumluluğu hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyad…",
     "h1": "Yönetim kurulu sorumluluğu",
     "keywords": [
       "yönetim kurulu sorumluluğu",
@@ -123834,8 +124008,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "ticari-is-karinesi",
-    "title": "Ticari iş karinesi",
-    "description": "Ticari iş karinesi. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Ticari iş karinesi — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Ticari iş karinesi hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukat…",
     "h1": "Ticari iş karinesi",
     "keywords": [
       "ticari iş karinesi",
@@ -124103,8 +124277,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "fatura-itiraz-suresi",
-    "title": "Faturaya itiraz süresi",
-    "description": "Faturaya itiraz süresi. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Faturaya itiraz süresi — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Faturaya itiraz süresi hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada av…",
     "h1": "Faturaya itiraz süresi",
     "keywords": [
       "faturaya itiraz süresi",
@@ -124372,8 +124546,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "cari-hesap-sozlesmesi",
-    "title": "Cari hesap sözleşmesi",
-    "description": "Cari hesap sözleşmesi. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Cari hesap sözleşmesi — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Cari hesap sözleşmesi hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avu…",
     "h1": "Cari hesap sözleşmesi",
     "keywords": [
       "cari hesap sözleşmesi",
@@ -124641,8 +124815,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "franchise-sozlesmesi",
-    "title": "Franchise sözleşmesi",
-    "description": "Franchise sözleşmesi. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Franchise sözleşmesi — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Franchise sözleşmesi hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuk…",
     "h1": "Franchise sözleşmesi",
     "keywords": [
       "franchise sözleşmesi",
@@ -124910,8 +125084,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "acente-sozlesmesi",
-    "title": "Acente sözleşmesi",
-    "description": "Acente sözleşmesi. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Acente sözleşmesi — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Acente sözleşmesi hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata…",
     "h1": "Acente sözleşmesi",
     "keywords": [
       "acente sözleşmesi",
@@ -125179,8 +125353,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "tasima-sozlesmesi",
-    "title": "Taşıma sözleşmesi",
-    "description": "Taşıma sözleşmesi. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Taşıma sözleşmesi — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Taşıma sözleşmesi hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata…",
     "h1": "Taşıma sözleşmesi",
     "keywords": [
       "taşıma sözleşmesi",
@@ -125448,8 +125622,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "emanet-sozlesmesi",
-    "title": "Emanet sözleşmesi",
-    "description": "Emanet sözleşmesi. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Emanet sözleşmesi — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Emanet sözleşmesi hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata…",
     "h1": "Emanet sözleşmesi",
     "keywords": [
       "emanet sözleşmesi",
@@ -125717,8 +125891,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "odunc-sozlesmesi",
-    "title": "Ödünç sözleşmesi",
-    "description": "Ödünç sözleşmesi. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Ödünç sözleşmesi — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Ödünç sözleşmesi hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata …",
     "h1": "Ödünç sözleşmesi",
     "keywords": [
       "ödünç sözleşmesi",
@@ -125985,8 +126159,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "bagis-sozlesmesi",
-    "title": "Bağış sözleşmesi",
-    "description": "Bağış sözleşmesi. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Bağış sözleşmesi — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Bağış sözleşmesi hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata …",
     "h1": "Bağış sözleşmesi",
     "keywords": [
       "bağış sözleşmesi",
@@ -126254,8 +126428,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "vekalet-sozlesmesi-tbk",
-    "title": "Vekâlet sözleşmesi TBK",
-    "description": "Vekâlet sözleşmesi TBK. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Vekâlet sözleşmesi TBK — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Vekâlet sözleşmesi TBK hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada av…",
     "h1": "Vekâlet sözleşmesi TBK",
     "keywords": [
       "vekâlet sözleşmesi tbk",
@@ -126523,8 +126697,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "eser-sozlesmesi-nedir",
-    "title": "Eser sözleşmesi",
-    "description": "Eser sözleşmesi. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Eser sözleşmesi — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Eser sözleşmesi hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata d…",
     "h1": "Eser sözleşmesi",
     "keywords": [
       "eser sözleşmesi",
@@ -126792,8 +126966,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "hizmet-sozlesmesi-tbk",
-    "title": "Hizmet sözleşmesi TBK",
-    "description": "Hizmet sözleşmesi TBK. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Hizmet sözleşmesi TBK — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Hizmet sözleşmesi TBK hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avu…",
     "h1": "Hizmet sözleşmesi TBK",
     "keywords": [
       "hizmet sözleşmesi tbk",
@@ -127061,8 +127235,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "satis-vaadi-icra",
-    "title": "Satış vaadi icrası",
-    "description": "Satış vaadi icrası. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Satış vaadi icrası — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Satış vaadi icrası hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukat…",
     "h1": "Satış vaadi icrası",
     "keywords": [
       "satış vaadi icrası",
@@ -127330,8 +127504,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "on-sozlesme-nedir",
-    "title": "Ön sözleşme",
-    "description": "Ön sözleşme. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Ön sözleşme — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Ön sözleşme hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
     "h1": "Ön sözleşme",
     "keywords": [
       "ön sözleşme",
@@ -127599,8 +127773,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "genel-islem-kosullari",
-    "title": "Genel işlem koşulları",
-    "description": "Genel işlem koşulları. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Genel işlem koşulları — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Genel işlem koşulları hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avu…",
     "h1": "Genel işlem koşulları",
     "keywords": [
       "genel işlem koşulları",
@@ -127868,8 +128042,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "sozlesmenin-yorumu",
-    "title": "Sözleşmenin yorumu",
-    "description": "Sözleşmenin yorumu. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Sözleşmenin yorumu — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Sözleşmenin yorumu hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukat…",
     "h1": "Sözleşmenin yorumu",
     "keywords": [
       "sözleşmenin yorumu",
@@ -128137,8 +128311,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "hukuki-islem-nedir",
-    "title": "Hukuki işlem",
-    "description": "Hukuki işlem. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Hukuki işlem — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Hukuki işlem hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danı…",
     "h1": "Hukuki işlem",
     "keywords": [
       "hukuki işlem",
@@ -128406,8 +128580,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "butlan-nedir",
-    "title": "Butlan",
-    "description": "Butlan. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Butlan — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Butlan hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
     "h1": "Butlan",
     "keywords": [
       "butlan",
@@ -128675,8 +128849,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "iptal-edilebilirlik",
-    "title": "İptal edilebilirlik",
-    "description": "İptal edilebilirlik. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "İptal edilebilirlik — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "İptal edilebilirlik hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuka…",
     "h1": "İptal edilebilirlik",
     "keywords": [
       "iptal edilebilirlik",
@@ -128944,8 +129118,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "iyiniyet-nedir",
-    "title": "İyiniyet",
-    "description": "İyiniyet. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "İyiniyet — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "İyiniyet hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
     "h1": "İyiniyet",
     "keywords": [
       "iyiniyet",
@@ -129214,8 +129388,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "durustluk-kurali",
-    "title": "Dürüstlük kuralı",
-    "description": "Dürüstlük kuralı. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Dürüstlük kuralı — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Dürüstlük kuralı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata …",
     "h1": "Dürüstlük kuralı",
     "keywords": [
       "dürüstlük kuralı",
@@ -129483,8 +129657,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "hak-dusurucu-sure",
-    "title": "Hak düşürücü süre farkı",
-    "description": "Hak düşürücü süre farkı. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Hak düşürücü süre farkı — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Hak düşürücü süre farkı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada a…",
     "h1": "Hak düşürücü süre farkı",
     "keywords": [
       "hak düşürücü süre farkı",
@@ -129751,7 +129925,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "kesinti-durma-zamansimi",
-    "title": "Zamanaşımının kesilmesi ve durması",
+    "title": "Zamanaşımının kesilmesi ve durması | Vatandaş Rehberi",
     "description": "Zamanaşımının kesilmesi ve durması. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
     "h1": "Zamanaşımının kesilmesi ve durması",
     "keywords": [
@@ -130019,8 +130193,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "ispat-yuku",
-    "title": "İspat yükü",
-    "description": "İspat yükü. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "İspat yükü — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "İspat yükü hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
     "h1": "İspat yükü",
     "keywords": [
       "ispat yükü",
@@ -130289,8 +130463,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "karine-nedir",
-    "title": "Karine",
-    "description": "Karine. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Karine — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Karine hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
     "h1": "Karine",
     "keywords": [
       "karine",
@@ -130558,8 +130732,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "icra-inkar-tazminati-sartlari",
-    "title": "İcra İnkâr Tazminatı Şartları",
-    "description": "Haksız itiraz şartları. Oran ve genel inkâr sayfalarına link.",
+    "title": "İcra İnkâr Tazminatı Şartları | Vatandaş Rehberi",
+    "description": "İnkâr tazminatı ne zaman hükmedilir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. So…",
     "h1": "İnkâr tazminatı ne zaman hükmedilir?",
     "keywords": [
       "inkar tazminatı şartları",
@@ -130828,8 +131002,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "tebligat-kanunu-nedir",
-    "title": "Tebligat Kanunu Nedir?",
-    "description": "7201 özeti. Usulsüzlük pratik rehberi ana.",
+    "title": "Tebligat Kanunu ne işe yarar — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Tebligat Kanunu ne işe yarar? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dos…",
     "h1": "Tebligat Kanunu ne işe yarar?",
     "keywords": [
       "Tebligat Kanunu",
@@ -131097,8 +131271,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "usulsuz-tebligat-ogrenme",
-    "title": "Usulsüz Tebligatta Öğrenme Tarihi",
-    "description": "Öğrenme ispatı. Ana usulsüzlük rehberine link.",
+    "title": "Usulsüz Tebligatta Öğrenme Tarihi | Vatandaş Rehberi",
+    "description": "Usulsüz tebligatta süre ne zaman başlar? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı…",
     "h1": "Usulsüz tebligatta süre ne zaman başlar?",
     "keywords": [
       "usulsüz tebligat öğrenme tarihi"
@@ -131364,8 +131538,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "e-tebligat-acmamak",
-    "title": "e-Tebligatı Açmamak Süreyi Durdurur mu?",
-    "description": "Kanuni sayılma. e-Tebligat ve usulsüzlük linkleri.",
+    "title": "e-Tebligatı Açmamak Süreyi Durdurur mu? | Vatandaş Rehberi",
+    "description": "e-Tebligatı açmazsam tebliğ olmaz mı? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. S…",
     "h1": "e-Tebligatı açmazsam tebliğ olmaz mı?",
     "keywords": [
       "e-tebligat açmamak",
@@ -131633,8 +131807,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "yargi-giderleri",
-    "title": "Yargılama giderleri",
-    "description": "Yargılama giderleri. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Yargılama giderleri — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Yargılama giderleri hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuka…",
     "h1": "Yargılama giderleri",
     "keywords": [
       "yargılama giderleri",
@@ -131902,8 +132076,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "delil-tespiti",
-    "title": "Delil Tespiti Nedir?",
-    "description": "Tespit. Tedbir ile fark ana rehberde.",
+    "title": "Delil tespiti nasıl istenir — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Delil tespiti nasıl istenir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosy…",
     "h1": "Delil tespiti nasıl istenir?",
     "keywords": [
       "delil tespiti"
@@ -132168,8 +132342,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "ihtiyati-tedbir-itiraz",
-    "title": "İhtiyati Tedbire İtiraz",
-    "description": "İtiraz usulü. Ana tedbir rehberine link.",
+    "title": "Tedbir kararına nasıl itiraz edilir — Vatandaş Rehberi | Av. Fethi Güz",
+    "description": "Tedbir kararına nasıl itiraz edilir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. So…",
     "h1": "Tedbir kararına nasıl itiraz edilir?",
     "keywords": [
       "ihtiyati tedbire itiraz"
@@ -132435,8 +132609,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "ihtiyati-haciz-itiraz",
-    "title": "İhtiyati Hacze İtiraz",
-    "description": "İtiraz usulü. İhtiyati haciz nedir sayfasına link.",
+    "title": "İhtiyati hacze nasıl itiraz edilir — Vatandaş Rehberi | Av. Fethi Güze",
+    "description": "İhtiyati hacze nasıl itiraz edilir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Som…",
     "h1": "İhtiyati hacze nasıl itiraz edilir?",
     "keywords": [
       "ihtiyati hacze itiraz",
@@ -132704,8 +132878,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "icra-mahkemesi-nedir",
-    "title": "İcra Mahkemesi Nedir?",
-    "description": "Şikâyet ve itiraz mercileri. İcra şikâyeti spoke’u.",
+    "title": "İcra mahkemesi neye bakar — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "İcra mahkemesi neye bakar? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyad…",
     "h1": "İcra mahkemesi neye bakar?",
     "keywords": [
       "icra mahkemesi",
@@ -132974,8 +133148,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "icra-sikayeti",
-    "title": "İcra Şikâyeti Süre ve Usul",
-    "description": "7 gün şikâyet. İcra mahkemesi sayfasına link.",
+    "title": "İcra müdürlüğü işlemine nasıl şikâyet edilir — Vatandaş Rehberi | Av. ",
+    "description": "İcra müdürlüğü işlemine nasıl şikâyet edilir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Po…",
     "h1": "İcra müdürlüğü işlemine nasıl şikâyet edilir?",
     "keywords": [
       "icra şikayeti",
@@ -133244,8 +133418,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "sira-cetveli",
-    "title": "Sıra Cetveli Nedir? İcra",
-    "description": "Alacaklı sıralaması. Satış bedeli paylaşımı linki.",
+    "title": "Sıra cetveline nasıl itiraz edilir — Vatandaş Rehberi | Av. Fethi Güze",
+    "description": "Sıra cetveline nasıl itiraz edilir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Som…",
     "h1": "Sıra cetveline nasıl itiraz edilir?",
     "keywords": [
       "sıra cetveli",
@@ -133513,8 +133687,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "istihkak-davasi-sure",
-    "title": "İstihkak Davası Süresi",
-    "description": "Süre notu. İstihkak iddiası sayfasına link.",
+    "title": "İstihkak davası ne kadar sürede açılır — Vatandaş Rehberi | Av. Fethi ",
+    "description": "İstihkak davası ne kadar sürede açılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı.…",
     "h1": "İstihkak davası ne kadar sürede açılır?",
     "keywords": [
       "istihkak davası süresi"
@@ -133781,8 +133955,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "kira-tespit-5-yil",
-    "title": "5 Yıl Sonra Kira Tespiti",
-    "description": "TBK çerçevesinde 5 yıl sonrası tespit. Genel tespit ve artış ana sayfalarda.",
+    "title": "5 yıl dolunca kira nasıl yeniden belirlenir — Vatandaş Rehberi | Av. F",
+    "description": "5 yıl dolunca kira nasıl yeniden belirlenir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Por…",
     "h1": "5 yıl dolunca kira nasıl yeniden belirlenir?",
     "keywords": [
       "5 yıl kira tespit",
@@ -134051,8 +134225,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "kiracinin-olumu",
-    "title": "Kiracının Ölümü ve Kira Sözleşmesi",
-    "description": "Miras ve kira ilişkisi. Veraset ve tahliye sayfalarına link.",
+    "title": "Kiracının Ölümü ve Kira Sözleşmesi | Vatandaş Rehberi",
+    "description": "Kiracı ölürse kira ne olur? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosya…",
     "h1": "Kiracı ölürse kira ne olur?",
     "keywords": [
       "kiracı ölümü",
@@ -134320,8 +134494,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "kiraya-verenin-degismesi",
-    "title": "Ev Satılırsa Kiracı Ne Olur?",
-    "description": "Yeni malik ve kira. Tahliye ve tapu sayfalarına link.",
+    "title": "Ev Satılırsa Kiracı Ne Olur? | Vatandaş Rehberi",
+    "description": "Kiraya verenin değişmesi (satış) hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut …",
     "h1": "Kiraya verenin değişmesi (satış)",
     "keywords": [
       "ev satılırsa kiracı",
@@ -134590,8 +134764,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "guvence-bedeli-3-ay",
-    "title": "Kira Güvencesi En Fazla 3 Ay",
-    "description": "Konut kira güvencesi üst sınırı. İade süreci depozito sayfasında.",
+    "title": "Kira Güvencesi En Fazla 3 Ay | Vatandaş Rehberi",
+    "description": "Depozito en fazla kaç aylık kiradır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. So…",
     "h1": "Depozito en fazla kaç aylık kiradır?",
     "keywords": [
       "kira güvencesi 3 ay",
@@ -134860,8 +135034,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "konut-kirasi-tahliye-sebepleri",
-    "title": "Konut Kirasında Tahliye Sebepleri Listesi",
-    "description": "Liste özeti. Usul ana tahliye rehberinde.",
+    "title": "Konut Kirasında Tahliye Sebepleri Listesi | Vatandaş Rehberi",
+    "description": "Konut tahliye sebepleri nelerdir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut…",
     "h1": "Konut tahliye sebepleri nelerdir?",
     "keywords": [
       "konut tahliye sebepleri",
@@ -135129,8 +135303,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "ihtiyac-nedeniyle-tahliye",
-    "title": "İhtiyaç Nedeniyle Tahliye Şartları",
-    "description": "İhtiyaç tahliyesi. Ana tahliye rehberi ve yeniden kiralama yasağı linkleri.",
+    "title": "İhtiyaç Nedeniyle Tahliye Şartları | Vatandaş Rehberi",
+    "description": "İhtiyaç nedeniyle tahliye nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut …",
     "h1": "İhtiyaç nedeniyle tahliye nedir?",
     "keywords": [
       "ihtiyaç nedeniyle tahliye",
@@ -135398,8 +135572,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "yeniden-kiralama-yasagi",
-    "title": "Tahliye Sonrası Yeniden Kiralama Yasağı",
-    "description": "Yaptırım notu. İhtiyaç ve ana tahliye sayfalarına link.",
+    "title": "Tahliye Sonrası Yeniden Kiralama Yasağı | Vatandaş Rehberi",
+    "description": "İhtiyaç tahliyesi sonrası kiralama yasağı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portal…",
     "h1": "İhtiyaç tahliyesi sonrası kiralama yasağı",
     "keywords": [
       "yeniden kiralama yasağı"
@@ -135664,8 +135838,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "kira-alacagi-icra",
-    "title": "Kira Alacağı İçin İcra",
-    "description": "Kira alacağı takibi. Ana icra ve kira ihtarı linkleri.",
+    "title": "Ödenmeyen kira için icra — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Ödenmeyen kira için icra hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada …",
     "h1": "Ödenmeyen kira için icra",
     "keywords": [
       "kira alacağı icra",
@@ -135933,8 +136107,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "site-yonetim-plani",
-    "title": "Yönetim planı",
-    "description": "Yönetim planı. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Yönetim planı — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Yönetim planı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata dan…",
     "h1": "Yönetim planı",
     "keywords": [
       "yönetim planı",
@@ -136201,8 +136375,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "ortak-gider-nedir",
-    "title": "Ortak gider",
-    "description": "Ortak gider. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Ortak gider — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Ortak gider hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
     "h1": "Ortak gider",
     "keywords": [
       "ortak gider",
@@ -136469,8 +136643,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "yonetici-secimi-site",
-    "title": "Site yöneticisi seçimi",
-    "description": "Site yöneticisi seçimi. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Site yöneticisi seçimi — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Site yöneticisi seçimi hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada av…",
     "h1": "Site yöneticisi seçimi",
     "keywords": [
       "site yöneticisi seçimi",
@@ -136737,8 +136911,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "kat-irtifakindan-mulkiyete",
-    "title": "Kat irtifakından mülkiyete",
-    "description": "Kat irtifakından mülkiyete. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Kat irtifakından mülkiyete — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Kat irtifakından mülkiyete hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyad…",
     "h1": "Kat irtifakından mülkiyete",
     "keywords": [
       "kat irtifakından mülkiyete",
@@ -137006,8 +137180,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "bagimsiz-bolum-nedir",
-    "title": "Bağımsız bölüm",
-    "description": "Bağımsız bölüm. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Bağımsız bölüm — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Bağımsız bölüm hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata da…",
     "h1": "Bağımsız bölüm",
     "keywords": [
       "bağımsız bölüm",
@@ -137274,8 +137448,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "arsa-payi-nedir",
-    "title": "Arsa payı",
-    "description": "Arsa payı. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Arsa payı — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Arsa payı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
     "h1": "Arsa payı",
     "keywords": [
       "arsa payı",
@@ -137543,8 +137717,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "gecit-hakki-davasi",
-    "title": "Geçit hakkı davası",
-    "description": "Geçit hakkı davası. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Geçit hakkı davası — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Geçit hakkı davası hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukat…",
     "h1": "Geçit hakkı davası",
     "keywords": [
       "geçit hakkı davası",
@@ -137812,8 +137986,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "sinir-uyusmazligi",
-    "title": "Sınır uyuşmazlığı",
-    "description": "Sınır uyuşmazlığı. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Sınır uyuşmazlığı — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Sınır uyuşmazlığı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata…",
     "h1": "Sınır uyuşmazlığı",
     "keywords": [
       "sınır uyuşmazlığı",
@@ -138081,8 +138255,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "kadastro-tespitine-itiraz",
-    "title": "Kadastro tespitine itiraz",
-    "description": "Kadastro tespitine itiraz. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Kadastro tespitine itiraz — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Kadastro tespitine itiraz hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada…",
     "h1": "Kadastro tespitine itiraz",
     "keywords": [
       "kadastro tespitine itiraz",
@@ -138349,8 +138523,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "orman-kadastro",
-    "title": "Orman kadastrosu",
-    "description": "Orman kadastrosu. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Orman kadastrosu — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Orman kadastrosu hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata …",
     "h1": "Orman kadastrosu",
     "keywords": [
       "orman kadastrosu",
@@ -138618,8 +138792,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "kiyi-kenar-cizgisi",
-    "title": "Kıyı kenar çizgisi",
-    "description": "Kıyı kenar çizgisi. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Kıyı kenar çizgisi — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Kıyı kenar çizgisi hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukat…",
     "h1": "Kıyı kenar çizgisi",
     "keywords": [
       "kıyı kenar çizgisi",
@@ -138887,8 +139061,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "sit-alani-nedir",
-    "title": "Sit alanı",
-    "description": "Sit alanı. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Sit alanı — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Sit alanı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
     "h1": "Sit alanı",
     "keywords": [
       "sit alanı",
@@ -139156,8 +139330,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "cevre-duzeni-plani",
-    "title": "Çevre düzeni planı",
-    "description": "Çevre düzeni planı. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Çevre düzeni planı — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Çevre düzeni planı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukat…",
     "h1": "Çevre düzeni planı",
     "keywords": [
       "çevre düzeni planı",
@@ -139425,8 +139599,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "emsal-nedir-imar",
-    "title": "Emsal KAKS",
-    "description": "Emsal KAKS. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Emsal KAKS — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Emsal KAKS hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
     "h1": "Emsal KAKS",
     "keywords": [
       "emsal kaks",
@@ -139694,8 +139868,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "taks-nedir",
-    "title": "TAKS",
-    "description": "TAKS. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "TAKS — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "TAKS hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
     "h1": "TAKS",
     "keywords": [
       "taks",
@@ -139963,8 +140137,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "iskan-basvurusu-belgeler",
-    "title": "İskan Başvurusunda Belgeler",
-    "description": "Evrak listesi. Ana iskan rehberine link.",
+    "title": "İskan için hangi belgeler gerekir — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "İskan için hangi belgeler gerekir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somu…",
     "h1": "İskan için hangi belgeler gerekir?",
     "keywords": [
       "iskan belgeleri",
@@ -140232,8 +140406,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "kacak-kat-cezasi",
-    "title": "Kaçak kat cezası",
-    "description": "Kaçak kat cezası. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Kaçak kat cezası — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Kaçak kat cezası hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata …",
     "h1": "Kaçak kat cezası",
     "keywords": [
       "kaçak kat cezası",
@@ -140501,8 +140675,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "muhür-sokme-sucu",
-    "title": "Mühür sökme",
-    "description": "Mühür sökme. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Mühür sökme — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Mühür sökme hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
     "h1": "Mühür sökme",
     "keywords": [
       "mühür sökme",
@@ -140770,8 +140944,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "belediye-encumen-karari",
-    "title": "Belediye encümen kararı",
-    "description": "Belediye encümen kararı. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Belediye encümen kararı — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Belediye encümen kararı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada a…",
     "h1": "Belediye encümen kararı",
     "keywords": [
       "belediye encümen kararı",
@@ -141039,8 +141213,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "zabita-cezasi",
-    "title": "Zabıta cezası",
-    "description": "Zabıta cezası. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Zabıta cezası — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Zabıta cezası hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata dan…",
     "h1": "Zabıta cezası",
     "keywords": [
       "zabıta cezası",
@@ -141307,8 +141481,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "is-yeri-acma-ruhsati",
-    "title": "İşyeri açma ruhsatı",
-    "description": "İşyeri açma ruhsatı. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "İşyeri açma ruhsatı — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "İşyeri açma ruhsatı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuka…",
     "h1": "İşyeri açma ruhsatı",
     "keywords": [
       "işyeri açma ruhsatı",
@@ -141577,8 +141751,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "gida-isletme-kayit",
-    "title": "Gıda işletme kayıt",
-    "description": "Gıda işletme kayıt. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Gıda işletme kayıt — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Gıda işletme kayıt hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukat…",
     "h1": "Gıda işletme kayıt",
     "keywords": [
       "gıda işletme kayıt",
@@ -141846,8 +142020,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "cevre-izin-lisans",
-    "title": "Çevre izin lisans",
-    "description": "Çevre izin lisans. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Çevre izin lisans — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Çevre izin lisans hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata…",
     "h1": "Çevre izin lisans",
     "keywords": [
       "çevre izin lisans",
@@ -142115,8 +142289,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "kamulastirma-bedel-davasi",
-    "title": "Kamulaştırma Bedel Artırım Davası",
-    "description": "Bedel davası. Ana kamulaştırma rehberine link.",
+    "title": "Kamulaştırma Bedel Artırım Davası | Vatandaş Rehberi",
+    "description": "Kamulaştırma bedeline nasıl itiraz edilir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Porta…",
     "h1": "Kamulaştırma bedeline nasıl itiraz edilir?",
     "keywords": [
       "kamulaştırma bedel davası",
@@ -142384,8 +142558,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "acele-kamulastirma",
-    "title": "Acele Kamulaştırma",
-    "description": "Usul. Ana kamulaştırma rehberine link.",
+    "title": "Acele kamulaştırma ne demektir — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Acele kamulaştırma ne demektir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut d…",
     "h1": "Acele kamulaştırma ne demektir?",
     "keywords": [
       "acele kamulaştırma"
@@ -142651,8 +142825,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "idari-para-cezasi-indirim",
-    "title": "İdari Para Cezasında Peşin İndirim",
-    "description": "Genel indirim notu. Trafik özel sayfaya link.",
+    "title": "İdari Para Cezasında Peşin İndirim | Vatandaş Rehberi",
+    "description": "İdari para cezası peşin ödenirse indirim var mı? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk…",
     "h1": "İdari para cezası peşin ödenirse indirim var mı?",
     "keywords": [
       "idari para cezası indirim",
@@ -142920,8 +143094,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "trafik-cezasi-pesin-odeme",
-    "title": "Trafik Cezası Peşin Ödeme İndirimi",
-    "description": "Peşin indirim. İtiraz stratejisi ana rehberde.",
+    "title": "Trafik Cezası Peşin Ödeme İndirimi | Vatandaş Rehberi",
+    "description": "Trafik cezası peşin ödenirse ne kadar iner? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Port…",
     "h1": "Trafik cezası peşin ödenirse ne kadar iner?",
     "keywords": [
       "trafik cezası peşin ödeme",
@@ -143189,8 +143363,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "ehliyet-sinavlari",
-    "title": "Ehliyet sınavları",
-    "description": "Ehliyet sınavları. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Ehliyet sınavları — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Ehliyet sınavları hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata…",
     "h1": "Ehliyet sınavları",
     "keywords": [
       "ehliyet sınavları",
@@ -143457,8 +143631,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "src-belgesi-nedir",
-    "title": "SRC belgesi",
-    "description": "SRC belgesi. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "SRC belgesi — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "SRC belgesi hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata danışın.",
     "h1": "SRC belgesi",
     "keywords": [
       "src belgesi",
@@ -143725,8 +143899,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "psiko-teknik-belge",
-    "title": "Psikoteknik belge",
-    "description": "Psikoteknik belge. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Psikoteknik belge — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Psikoteknik belge hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata…",
     "h1": "Psikoteknik belge",
     "keywords": [
       "psikoteknik belge",
@@ -143993,8 +144167,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "trafik-kazasi-manevvi",
-    "title": "Trafik kazası manevi tazminat",
-    "description": "Trafik kazası manevi tazminat. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Trafik kazası manevi tazminat | Vatandaş Rehberi",
+    "description": "Trafik kazası manevi tazminat hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dos…",
     "h1": "Trafik kazası manevi tazminat",
     "keywords": [
       "trafik kazası manevi tazminat",
@@ -144261,8 +144435,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "is-kazasi-manevvi",
-    "title": "İş Kazasında Manevi Tazminat",
-    "description": "Manevi kalem. Ana tazminat rehberine link.",
+    "title": "İş Kazasında Manevi Tazminat | Vatandaş Rehberi",
+    "description": "İş kazasında manevi tazminat hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosy…",
     "h1": "İş kazasında manevi tazminat",
     "keywords": [
       "iş kazası manevi tazminat"
@@ -144528,8 +144702,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "destek-payi-hesabi",
-    "title": "Destek payı hesabı",
-    "description": "Destek payı hesabı. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Destek payı hesabı — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Destek payı hesabı hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukat…",
     "h1": "Destek payı hesabı",
     "keywords": [
       "destek payı hesabı",
@@ -144797,8 +144971,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "surekli-is-goremezlik",
-    "title": "Sürekli iş göremezlik",
-    "description": "Sürekli iş göremezlik. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Sürekli iş göremezlik — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Sürekli iş göremezlik hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avu…",
     "h1": "Sürekli iş göremezlik",
     "keywords": [
       "sürekli iş göremezlik",
@@ -145066,8 +145240,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "gecici-is-goremezlik",
-    "title": "Geçici iş göremezlik",
-    "description": "Geçici iş göremezlik. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Geçici iş göremezlik — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Geçici iş göremezlik hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuk…",
     "h1": "Geçici iş göremezlik",
     "keywords": [
       "geçici iş göremezlik",
@@ -145335,8 +145509,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "is-kazasi-bildirim-suresi",
-    "title": "İş Kazası Bildirim Süresi",
-    "description": "Kısa yasal süre. Bildirim sayfasına link.",
+    "title": "İş kazası kaç günde bildirilmeli — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "İş kazası kaç günde bildirilmeli? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut…",
     "h1": "İş kazası kaç günde bildirilmeli?",
     "keywords": [
       "iş kazası bildirim süresi",
@@ -145604,8 +145778,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "sgk-rucu-davasi",
-    "title": "SGK Rücu Davası",
-    "description": "İşverene rücu. Ana iş kazası linki.",
+    "title": "SGK rücu davası ne demektir — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "SGK rücu davası ne demektir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosy…",
     "h1": "SGK rücu davası ne demektir?",
     "keywords": [
       "SGK rücu",
@@ -145872,8 +146046,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "prim-iadesi-sgk",
-    "title": "SGK prim iadesi",
-    "description": "SGK prim iadesi. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "SGK prim iadesi — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "SGK prim iadesi hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avukata d…",
     "h1": "SGK prim iadesi",
     "keywords": [
       "sgk prim iadesi",
@@ -146140,8 +146314,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "yurt-disi-borclanma",
-    "title": "Yurt Dışı Hizmet Borçlanması",
-    "description": "Yurtdışı prim. Emeklilik ana.",
+    "title": "Yurt Dışı Hizmet Borçlanması | Vatandaş Rehberi",
+    "description": "Yurt dışı borçlanması nasıl yapılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. So…",
     "h1": "Yurt dışı borçlanması nasıl yapılır?",
     "keywords": [
       "yurt dışı borçlanma"
@@ -146407,8 +146581,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "intibak-emeklilik",
-    "title": "Emeklilik İntibakı",
-    "description": "Aylık güncelleme. Ana emeklilik linki.",
+    "title": "Emekli intibak ne demektir — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Emekli intibak ne demektir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosya…",
     "h1": "Emekli intibak ne demektir?",
     "keywords": [
       "emekli intibak"
@@ -146674,8 +146848,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "emekli-ikramiyesi",
-    "title": "Emekli İkramiyesi",
-    "description": "Memur/işçi farkı. Emeklilik ana.",
+    "title": "Emekli ikramiyesi kimlere ödenir — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Emekli ikramiyesi kimlere ödenir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut…",
     "h1": "Emekli ikramiyesi kimlere ödenir?",
     "keywords": [
       "emekli ikramiyesi"
@@ -146941,8 +147115,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "memur-maas-haczi",
-    "title": "Memur maaşına haciz",
-    "description": "Memur maaşına haciz. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Memur maaşına haciz — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Memur maaşına haciz hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuka…",
     "h1": "Memur maaşına haciz",
     "keywords": [
       "memur maaşına haciz",
@@ -147210,8 +147384,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "emekli-maas-haczi",
-    "title": "Emekli maaşına haciz",
-    "description": "Emekli maaşına haciz. Dar niyet; ana rehbere yönlendirir. Genel bilgilendirme.",
+    "title": "Emekli maaşına haciz — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Emekli maaşına haciz hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuk…",
     "h1": "Emekli maaşına haciz",
     "keywords": [
       "emekli maaşına haciz",
@@ -147479,7 +147653,7 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "kidem-tazminati-haczi",
-    "title": "Kıdem Tazminatı Haczedilir mi?",
+    "title": "Kıdem Tazminatı Haczedilir mi? | Vatandaş Rehberi",
     "description": "Kıdem tazminatında haciz tartışması ve istisnalar. İcra genel rehberi ve ana kıdem sayfasına bağlantı.",
     "h1": "Kıdem tazminatına haciz konur mu?",
     "keywords": [
@@ -147748,8 +147922,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "nafaka-alacaklisi-oncelik",
-    "title": "Nafaka Alacağının İcrada Önceliği",
-    "description": "Nafakanın sıra cetvelindeki yeri. Ödeme ve tazyik ayrı; türler ana rehberde.",
+    "title": "Nafaka Alacağının İcrada Önceliği | Vatandaş Rehberi",
+    "description": "Nafaka alacağı icrada öncelikli midir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. …",
     "h1": "Nafaka alacağı icrada öncelikli midir?",
     "keywords": [
       "nafaka öncelik icra",
@@ -148018,8 +148192,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "iscilik-alacagi-oncelik",
-    "title": "İşçilik Alacağının İcrada Önceliği",
-    "description": "İşçilik alacağının sıra cetvelinde yeri. Kıdem tahsili ve icra genel rehberlerine link.",
+    "title": "İşçilik Alacağının İcrada Önceliği | Vatandaş Rehberi",
+    "description": "İşçilik alacağı icrada öncelikli midir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı.…",
     "h1": "İşçilik alacağı icrada öncelikli midir?",
     "keywords": [
       "işçilik alacağı öncelik",
@@ -148288,8 +148462,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "rehinli-alacak",
-    "title": "Rehinli Alacak İcrada",
-    "description": "İpotek/rehin sırası. Sıra cetveli linki.",
+    "title": "Rehinli alacaklı icrada ne yapar — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Rehinli alacaklı icrada ne yapar? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut…",
     "h1": "Rehinli alacaklı icrada ne yapar?",
     "keywords": [
       "rehinli alacak",
@@ -148558,8 +148732,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "teminat-hesabi-icra",
-    "title": "İcra Teminat Hesabı",
-    "description": "İstihkak/satış teminatı. İstihkak sayfasına link.",
+    "title": "İcra dosyasında teminat nasıl yatırılır — Vatandaş Rehberi | Av. Fethi",
+    "description": "İcra dosyasında teminat nasıl yatırılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı…",
     "h1": "İcra dosyasında teminat nasıl yatırılır?",
     "keywords": [
       "icra teminat",
@@ -148828,8 +149002,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "ihale-feshi-davasi",
-    "title": "İhalenin Feshi Davası",
-    "description": "Fesih sebepleri. Satış ihalesi sayfasına link.",
+    "title": "İcra ihalesi nasıl bozulur — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "İcra ihalesi nasıl bozulur? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosya…",
     "h1": "İcra ihalesi nasıl bozulur?",
     "keywords": [
       "ihalenin feshi",
@@ -149098,8 +149272,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "satis-bedeli-paylasim",
-    "title": "İcra Satış Bedelinin Paylaşımı",
-    "description": "Sıra cetveli ödeme. Sıra cetveli sayfasına link.",
+    "title": "İcra Satış Bedelinin Paylaşımı | Vatandaş Rehberi",
+    "description": "İcra satış parası nasıl paylaşılır? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Som…",
     "h1": "İcra satış parası nasıl paylaşılır?",
     "keywords": [
       "icra satış bedeli paylaşım"
@@ -149366,8 +149540,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "borclu-olmadiginin-tespiti",
-    "title": "Borçlu Olmadığının Tespiti",
-    "description": "Menfi tespit ile ilişki. Menfi tespit ana spoke.",
+    "title": "Borçlu olmadığımı nasıl ispatlarım — Vatandaş Rehberi | Av. Fethi Güze",
+    "description": "Borçlu olmadığımı nasıl ispatlarım? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Som…",
     "h1": "Borçlu olmadığımı nasıl ispatlarım?",
     "keywords": [
       "borçlu olmadığının tespiti"
@@ -149634,8 +149808,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "icra-taahudu",
-    "title": "İcra Taahhüdü ve İhlali",
-    "description": "Taahhüt ve ihlal. Tazyik ve dosya kapatma linkleri.",
+    "title": "İcra taahhüdü nedir — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "İcra taahhüdü nedir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada avuk…",
     "h1": "İcra taahhüdü nedir?",
     "keywords": [
       "icra taahhüdü",
@@ -149903,8 +150077,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "tazyik-hapsi",
-    "title": "Tazyik Hapsi Nedir? (İcra)",
-    "description": "Nafaka/taahhüt tazyiki. Nafaka ödenmezse ve taahhüt sayfalarına link.",
+    "title": "Tazyik hapsi ne demektir — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Tazyik hapsi ne demektir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut dosyada…",
     "h1": "Tazyik hapsi ne demektir?",
     "keywords": [
       "tazyik hapsi",
@@ -150173,8 +150347,8 @@ export const VATANDAS_ARTICLES: VatandasArticle[] = [
   },
   {
     "slug": "disciplin-hapsi",
-    "title": "Disiplin Hapsi (İcra)",
-    "description": "Çocuk teslimi vb. Tazyik farkı notu.",
+    "title": "Disiplin hapsi ne zaman verilir — Vatandaş Rehberi | Av. Fethi Güzel",
+    "description": "Disiplin hapsi ne zaman verilir? hakkında adım adım bilgilendirme: süre, merci, belge ve riskler. Genel bilgilendirme — Av. Fethi Güzel Hukuk Portalı. Somut …",
     "h1": "Disiplin hapsi ne zaman verilir?",
     "keywords": [
       "disiplin hapsi",

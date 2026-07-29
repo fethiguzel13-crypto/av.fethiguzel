@@ -6,10 +6,10 @@ export default function DeployCheckPage() {
             <div className="text-center">
                 <h1 className="text-2xl font-bold text-charcoal mb-2">Deploy OK</h1>
                 <p className="text-charcoal/60 text-sm font-mono">
-                    build-marker: 2026-07-29-tbk13-search-redirect-v2
+                    build-marker: 2026-07-29-vatandas-100-complete-v1
                 </p>
                 <p className="mt-4 text-sm text-charcoal/50">
-                    /ara?q=TBK+13 → madde sayfası · priority-sitemap · ana sayfa TBK 13 link
+                    554 rehber · bilgi-sitemap · /bilgi arama · kategori sayfaları · 0 orphan
                 </p>
                 <p className="mt-2 flex flex-wrap justify-center gap-3">
                     <a href="/mevzuat/tbk/madde-13" className="text-accent font-semibold text-sm">

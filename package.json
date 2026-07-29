@@ -18,6 +18,7 @@
     "build:vatandas": "node scripts/generate-vatandas-rehberi.mjs",
     "vatandas:depth": "node scripts/vatandas-depth-gate.mjs",
     "vatandas:analyze": "node scripts/analyze-seo-content.mjs",
+    "vatandas:sitemaps": "node scripts/build-bilgi-sitemap.mjs && node scripts/build-priority-sitemap.mjs",
     "seo:verify-live": "node scripts/verify-live-seo.mjs",
     "seo:indexnow": "node scripts/indexnow-submit.mjs",
     "seo:madde-html": "node scripts/build-seo-madde-html.mjs",

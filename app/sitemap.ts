@@ -69,14 +69,20 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   }));
 
   // Vatandaş rehberi — Google discovery priority (early in file)
-  const { VATANDAS_ARTICLES } = await import('@/lib/vatandas-rehberi');
+  const { VATANDAS_ARTICLES, getVatandasCategories } = await import('@/lib/vatandas-rehberi');
   const bilgiRoutes: MetadataRoute.Sitemap = VATANDAS_ARTICLES.map((a) => ({
     url: `${baseUrl}/bilgi/${a.slug}`,
     lastModified: new Date(a.updated || '2026-07-29'),
     changeFrequency: (a.role === 'pillar' ? 'weekly' : 'monthly') as 'weekly' | 'monthly',
     priority:
       a.sitemapPriority ??
-      (a.role === 'pillar' ? 0.95 : a.role === 'spoke' ? 0.7 : a.role === 'bridge' ? 0.55 : 0.85),
+      (a.role === 'pillar' ? 0.95 : a.role === 'spoke' ? 0.72 : a.role === 'bridge' ? 0.55 : 0.85),
+  }));
+  const bilgiKategoriRoutes: MetadataRoute.Sitemap = getVatandasCategories().map((cat) => ({
+    url: `${baseUrl}/bilgi/kategori/${encodeURIComponent(cat)}`,
+    lastModified: new Date(),
+    changeFrequency: 'weekly' as const,
+    priority: 0.8,
   }));
 
   const ilceSlugs = [
@@ -187,6 +193,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     ...staticRoutes,
     ...kanunHubs,
     ...bilgiRoutes,
+    ...bilgiKategoriRoutes,
     ...hesaplamaRoutes,
     ...kavramRoutes,
     ...ilceRoutes,

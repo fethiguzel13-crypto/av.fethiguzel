@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import type { VatandasArticle, VatandasVisual } from '@/lib/vatandas-rehberi';
+import { hesaplamaToolsForBilgiSlug } from '@/lib/hesaplama-bilgi';
 
 const SITE = 'https://www.avfethiguzel.com';
 
@@ -292,6 +293,9 @@ export default function VatandasRehberArticle({
   related: VatandasArticle[];
 }) {
   const pageUrl = `${SITE}/bilgi/${article.slug}`;
+  const calcLinks = hesaplamaToolsForBilgiSlug(article.slug);
+  const shareText = encodeURIComponent(`${article.h1} — Av. Fethi Güzel`);
+  const shareUrl = encodeURIComponent(pageUrl);
   const howTo =
     article.steps && article.steps.length > 0
       ? {
@@ -661,6 +665,27 @@ export default function VatandasRehberArticle({
         </section>
       )}
 
+      {calcLinks.length > 0 && (
+        <section className="mb-10 rounded-2xl border border-primary/15 bg-primary/[0.04] p-5">
+          <h2 className="text-lg font-heading font-bold text-charcoal mb-2">Hesaplama araçları</h2>
+          <p className="text-sm text-charcoal/55 mb-3">
+            Rakam senaryosu için ilgili araç (bilgilendirme; resmî sonuç değildir).
+          </p>
+          <ul className="flex flex-wrap gap-2 m-0 p-0 list-none">
+            {calcLinks.map((c) => (
+              <li key={c.id}>
+                <Link
+                  href={c.href}
+                  className="inline-flex text-xs font-semibold px-3 py-1.5 rounded-full bg-white border border-charcoal/10 text-charcoal hover:border-accent hover:text-accent"
+                >
+                  {c.id} hesapla →
+                </Link>
+              </li>
+            ))}
+          </ul>
+        </section>
+      )}
+
       <section className="mb-10">
         <h2 className="text-lg font-heading font-bold text-charcoal mb-3">Araçlar ve mevzuat</h2>
         <ul className="flex flex-wrap gap-2 m-0 p-0 list-none">
@@ -670,6 +695,14 @@ export default function VatandasRehberArticle({
               className="inline-flex text-xs font-semibold px-3 py-1.5 rounded-full bg-charcoal text-cream hover:bg-accent transition-colors"
             >
               Kanun maddesi ara
+            </Link>
+          </li>
+          <li>
+            <Link
+              href={`/bilgi/kategori/${encodeURIComponent(article.category)}`}
+              className="inline-flex text-xs font-semibold px-3 py-1.5 rounded-full bg-white border border-charcoal/10 text-charcoal/70 hover:border-accent"
+            >
+              {article.category} kategorisi
             </Link>
           </li>
           {article.links.map((l) => (
@@ -704,12 +737,65 @@ export default function VatandasRehberArticle({
         </section>
       )}
 
+      <section className="mb-10 rounded-2xl border border-charcoal/8 bg-white p-5">
+        <h2 className="text-base font-heading font-bold text-charcoal mb-2">Paylaş</h2>
+        <p className="text-xs text-charcoal/50 mb-3">
+          Bu rehberi paylaşmak site görünürlüğüne katkı sağlar (reklam yasağına uygun genel bilgi).
+        </p>
+        <ul className="flex flex-wrap gap-2 m-0 p-0 list-none">
+          <li>
+            <a
+              href={`https://twitter.com/intent/tweet?text=${shareText}&url=${shareUrl}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex text-xs font-semibold px-3 py-1.5 rounded-full bg-[#0f1419] text-white hover:opacity-90"
+            >
+              X / Twitter
+            </a>
+          </li>
+          <li>
+            <a
+              href={`https://www.linkedin.com/sharing/share-offsite/?url=${shareUrl}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex text-xs font-semibold px-3 py-1.5 rounded-full bg-[#0a66c2] text-white hover:opacity-90"
+            >
+              LinkedIn
+            </a>
+          </li>
+          <li>
+            <a
+              href={`https://wa.me/?text=${shareText}%20${shareUrl}`}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="inline-flex text-xs font-semibold px-3 py-1.5 rounded-full bg-[#25D366] text-white hover:opacity-90"
+            >
+              WhatsApp
+            </a>
+          </li>
+          <li>
+            <a
+              href={pageUrl}
+              className="inline-flex text-xs font-semibold px-3 py-1.5 rounded-full border border-charcoal/15 text-charcoal/70"
+            >
+              Sayfa linki
+            </a>
+          </li>
+        </ul>
+      </section>
+
       <p className="text-sm text-charcoal/45 border-t border-charcoal/10 pt-6 m-0">
         Av. Fethi Güzel Hukuk Portalı · bilgilendirme
       </p>
-      <p className="mt-4 mb-0">
+      <p className="mt-4 mb-0 flex flex-wrap gap-4">
         <Link href="/bilgi" className="text-accent font-bold hover:underline">
           ← Tüm rehberler
+        </Link>
+        <Link
+          href={`/bilgi/kategori/${encodeURIComponent(article.category)}`}
+          className="text-charcoal/50 font-semibold hover:text-accent"
+        >
+          {article.category} kategorisi
         </Link>
       </p>
     </>

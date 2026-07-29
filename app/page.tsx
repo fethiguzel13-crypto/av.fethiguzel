@@ -93,18 +93,27 @@ export default function Home() {
           <div>
             <p className="section-label mb-2">Bilgilendirme</p>
             <h2 className="text-2xl sm:text-3xl font-heading font-bold text-charcoal">
-              Hukuki rehberler
+              554 vatandaş rehberi + süreç kılavuzları
             </h2>
             <p className="text-charcoal/55 text-sm mt-2 max-w-lg">
-              Miras, kıdem ve arabuluculuk — reklam yasağına uygun genel bilgilendirme.
+              Kıdem, nafaka, icra, kira, boşanma ve 50+ ana rehber — reklam yasağına uygun genel
+              bilgilendirme. Arama motorları için tam dizin: /bilgi
             </p>
           </div>
-          <a
-            href="/rehber"
-            className="inline-flex self-start sm:self-auto items-center gap-2 bg-charcoal text-cream px-6 py-3 rounded-full text-sm font-bold hover:bg-accent transition-colors"
-          >
-            Rehberlere git
-          </a>
+          <div className="flex flex-wrap gap-2">
+            <a
+              href="/bilgi"
+              className="inline-flex items-center gap-2 bg-accent text-white px-6 py-3 rounded-full text-sm font-bold hover:bg-accent/90 transition-colors"
+            >
+              Vatandaş rehberi
+            </a>
+            <a
+              href="/rehber"
+              className="inline-flex items-center gap-2 bg-charcoal text-cream px-6 py-3 rounded-full text-sm font-bold hover:bg-accent transition-colors"
+            >
+              Süreç kılavuzları
+            </a>
+          </div>
         </div>
       </section>
       <FaqSection />

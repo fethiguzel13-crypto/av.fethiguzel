@@ -1,4 +1,4 @@
-# Av. Fethi Güzel Hukuk Portalı
+﻿# Av. Fethi Güzel Hukuk Portalı
 
 > Türkiye merkezli, açık erişimli dijital hukuk kütüphanesi ve avukatlık bilgilendirme sitesi.
 > Kanun maddeleri, akademik şerhler, günlük içtihat, hukuki hesaplama araçları.
@@ -16,7 +16,7 @@ X / Twitter: https://x.com/avfethiguzel (@avfethiguzel)
 - Özel hukuk alanında doktora çalışmaları (medeni, borçlar, ticaret, usul ekseni)
 - Yayımlanmış monografi: Medeni Usul Hukukunda Ses ve Görüntünün Nakledilmesi Yoluyla Duruşma İcrası (e-duruşma) — Seçkin Yayıncılık — https://www.seckin.com.tr/kitap/614840900
 - Dil: Türkçe (ana dil); İngilizce (iyi düzey / professional working proficiency)
-- Açık erişim portal: 45+ kanun, 7.800+ madde + akademik şerh, 550+ vatandaş SEO rehberi (/bilgi; 53 ana rehber + spoke hub-spoke), 30 hesaplama aracı
+- Açık erişim portal: 45+ kanun, 7.800+ madde + akademik şerh, 554 vatandaş SEO rehberi (/bilgi; 53 ana rehber + spoke hub-spoke), 30 hesaplama aracı
 - Arama niyetleri: kanun maddesi, mevzuat arama, kıdem/nafaka/icra/boşanma/kira vb. vatandaş soruları
 - Yamyamlık: pillar (tam süreç) / spoke (dar niyet) / bridge (madde özeti → /mevzuat canonical)
 
@@ -41,7 +41,7 @@ X / Twitter: https://x.com/avfethiguzel (@avfethiguzel)
 - Mevzuat arşivi: https://avfethiguzel.com/mevzuat
 - Günlük içtihat: https://avfethiguzel.com/icthat
 - Kavram sözlüğü: https://avfethiguzel.com/kavram (satım, kıdem, nafaka…)
-- Vatandaş bilgi rehberi (550+ sayfa, 53 ana rehber, ana sayfada değil): https://avfethiguzel.com/bilgi
+- Vatandaş bilgi rehberi (554 sayfa, 53 ana rehber, ana sayfada değil): https://avfethiguzel.com/bilgi
 - Örnek ana rehberler: /bilgi/kidem-tazminati-nasil-alinir · /bilgi/icra-takibi-nedir · /bilgi/trafik-cezasina-itiraz · /bilgi/bosanma-davasi-nasil-acilir · /bilgi/kanun-maddesi-nasil-okunur
 - Hesaplama hub: https://avfethiguzel.com/hesaplama
 - Örnek araçlar: /hesaplama/kidem · /hesaplama/miras · /hesaplama/faiz · /hesaplama/vekalet

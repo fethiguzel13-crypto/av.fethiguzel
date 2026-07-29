@@ -169,6 +169,18 @@ export function bilgiLinksForArac(aracId: string): BilgiLink[] {
   return HESAPLAMA_BILGI_MAP[aracId] ?? [];
 }
 
+/** /bilgi/{slug} → ilgili hesaplama araçları (ters indeks) */
+export function hesaplamaToolsForBilgiSlug(slug: string): { id: string; label: string; href: string }[] {
+  const out: { id: string; label: string; href: string }[] = [];
+  const target = `/bilgi/${slug}`;
+  for (const [id, links] of Object.entries(HESAPLAMA_BILGI_MAP)) {
+    if (links.some((l) => l.href === target)) {
+      out.push({ id, label: `Hesaplama: ${id}`, href: `/hesaplama/${id}` });
+    }
+  }
+  return out;
+}
+
 /** Kaç aracın en az bir /bilgi linki var (bakım metriği) */
 export function hesaplamaBilgiCoverage(): { total: number; withLinks: number } {
   const ids = Object.keys(HESAPLAMA_BILGI_MAP);

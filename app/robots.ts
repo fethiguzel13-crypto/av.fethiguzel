@@ -66,9 +66,9 @@ export default function robots(): MetadataRoute.Robots {
                 disallow: ['/api/'],
             },
         ],
-        // priority-sitemap: TBK 1–50 + pillar /bilgi — Google önce burayı tarasın
         sitemap: [
             `${base}/priority-sitemap.xml`,
+            `${base}/bilgi-sitemap.xml`,
             `${base}/sitemap.xml`,
             `${base}/images-sitemap.xml`,
         ],
