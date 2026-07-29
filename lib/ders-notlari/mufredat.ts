@@ -46,6 +46,7 @@ export const CURRICULUM: CurriculumCourse[] = [
   { code: 'cevre-hukuku', title: 'Çevre Hukuku', year: 4, semester: 'bahar', area: 'secmeli', keywords: ['çevre hukuku'], core: false },
   { code: 'spor-hukuku', title: 'Spor Hukuku', year: 4, semester: 'bahar', area: 'secmeli', keywords: ['spor hukuku'], core: false },
   { code: 'saglik-hukuku', title: 'Sağlık / Tıp Hukuku', year: 4, semester: 'guz', area: 'secmeli', keywords: ['tıp hukuku', 'malpraktis'], core: false },
+  { code: 'adli-tip', title: 'Adli Tıp', year: 3, semester: 'bahar', area: 'secmeli', keywords: ['adli tıp', 'otopsi', 'bilirkişi', 'yaralanma'], core: false },
   { code: 'insaat-hukuku', title: 'İnşaat Hukuku', year: 4, semester: 'bahar', area: 'secmeli', keywords: ['inşaat hukuku', 'eser sözleşmesi', 'yapı ruhsatı', 'kat karşılığı'], core: false },
   { code: 'enerji-hukuku', title: 'Enerji Hukuku', year: 4, semester: 'bahar', area: 'secmeli', keywords: ['enerji hukuku'], core: false },
   { code: 'sermaye-piyasasi', title: 'Sermaye Piyasası Hukuku', year: 4, semester: 'guz', area: 'secmeli', keywords: ['sermaye piyasası', 'SPK'], core: false },

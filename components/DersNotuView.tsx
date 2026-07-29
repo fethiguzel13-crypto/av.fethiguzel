@@ -854,6 +854,36 @@ export function DersNotuView({
               </p>
             ),
           },
+          {
+            match:
+              note.variantOf === 'adli-tip' ||
+              note.courseCode === 'adli-tip' ||
+              note.courseCode.startsWith('adli-tip-'),
+            title: 'Adli Tıp · üç paket',
+            items: [
+              { code: 'adli-tip-donem-1', label: '1. Dönem (Güz)', desc: 'Ölüm · otopsi · yara' },
+              { code: 'adli-tip-donem-2', label: '2. Dönem (Bahar)', desc: 'Delil · bilirkişi · CMK' },
+              { code: 'adli-tip-yillik', label: 'Yıllık tam not', desc: '1. + 2. dönem birleşik paket' },
+            ],
+            footer: (
+              <p className="text-[11px] text-charcoal/45 mt-3 m-0">
+                Malpraktis ve hasta hakları için:{' '}
+                <Link
+                  href={`/ders-notlari/${note.uniSlug}/saglik-hukuku-yillik`}
+                  className="text-accent font-semibold hover:underline"
+                >
+                  Sağlık Hukuku yıllık
+                </Link>
+                {' · '}
+                <Link
+                  href={`/ders-notlari/${note.uniSlug}/cmk-yillik`}
+                  className="text-accent font-semibold hover:underline"
+                >
+                  CMK yıllık
+                </Link>
+              </p>
+            ),
+          },
         ];
         const activePacks = packs.filter((p) => p.match);
         if (!activePacks.length) return null;
@@ -1715,6 +1745,23 @@ export function UniHubView({ hub }: { hub: UniHubContent }) {
               { code: 'is-hukuku-donem-1', title: '1. Dönem (Güz)' },
               { code: 'is-hukuku-donem-2', title: '2. Dönem (Bahar)' },
               { code: 'is-hukuku-yillik', title: 'Yıllık tam not' },
+            ],
+          },
+          {
+            show: hub.courses.some(
+              (c) =>
+                String(c.code).startsWith('adli-tip') ||
+                c.code === 'adli-tip'
+            ),
+            title: 'Adli Tıp — 1. dönem · 2. dönem · yıllık',
+            desc: 'Otopsi–yaralanma–delil–bilirkişi… üç premium not + PDF.',
+            border: 'border-primary/20 bg-primary/[0.04]',
+            itemBorder: 'border-primary/25',
+            accent: 'text-primary',
+            items: [
+              { code: 'adli-tip-donem-1', title: '1. Dönem (Güz)' },
+              { code: 'adli-tip-donem-2', title: '2. Dönem (Bahar)' },
+              { code: 'adli-tip-yillik', title: 'Yıllık tam not' },
             ],
           },
         ]

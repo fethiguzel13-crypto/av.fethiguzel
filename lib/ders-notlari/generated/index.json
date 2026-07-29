@@ -3,7 +3,7 @@
   "wave": "all",
   "universityCount": 120,
   "hubCount": 120,
-  "noteCount": 14520,
+  "noteCount": 14880,
   "universities": [
     {
       "slug": "ankara-yildirim-beyazit",
@@ -124806,6 +124806,3246 @@
       "href": "/ders-notlari/cag/is-hukuku-yillik",
       "variantOf": "is-hukuku",
       "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "ankara-yildirim-beyazit__adli-tip-donem-1",
+      "title": "AYBÜ Adli Tıp 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "ankara-yildirim-beyazit__adli-tip-donem-2",
+      "title": "AYBÜ Adli Tıp 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "adli-tip-yillik",
+      "slug": "ankara-yildirim-beyazit__adli-tip-yillik",
+      "title": "AYBÜ Adli Tıp Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "ankara__adli-tip-donem-1",
+      "title": "AÜHF Adli Tıp 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "ankara__adli-tip-donem-2",
+      "title": "AÜHF Adli Tıp 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "adli-tip-yillik",
+      "slug": "ankara__adli-tip-yillik",
+      "title": "AÜHF Adli Tıp Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "istanbul__adli-tip-donem-1",
+      "title": "İÜHF Adli Tıp 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "istanbul__adli-tip-donem-2",
+      "title": "İÜHF Adli Tıp 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "adli-tip-yillik",
+      "slug": "istanbul__adli-tip-yillik",
+      "title": "İÜHF Adli Tıp Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "marmara__adli-tip-donem-1",
+      "title": "MÜHF Adli Tıp 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "marmara__adli-tip-donem-2",
+      "title": "MÜHF Adli Tıp 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "adli-tip-yillik",
+      "slug": "marmara__adli-tip-yillik",
+      "title": "MÜHF Adli Tıp Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "galatasaray__adli-tip-donem-1",
+      "title": "GSÜ Adli Tıp 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "galatasaray__adli-tip-donem-2",
+      "title": "GSÜ Adli Tıp 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "adli-tip-yillik",
+      "slug": "galatasaray__adli-tip-yillik",
+      "title": "GSÜ Adli Tıp Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "dokuz-eylul__adli-tip-donem-1",
+      "title": "DEÜ Adli Tıp 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "dokuz-eylul__adli-tip-donem-2",
+      "title": "DEÜ Adli Tıp 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "adli-tip-yillik",
+      "slug": "dokuz-eylul__adli-tip-yillik",
+      "title": "DEÜ Adli Tıp Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "hacettepe__adli-tip-donem-1",
+      "title": "Hacettepe Adli Tıp 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "hacettepe__adli-tip-donem-2",
+      "title": "Hacettepe Adli Tıp 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "adli-tip-yillik",
+      "slug": "hacettepe__adli-tip-yillik",
+      "title": "Hacettepe Adli Tıp Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "ankara-hacibayram__adli-tip-donem-1",
+      "title": "AHBV Adli Tıp 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "ankara-hacibayram__adli-tip-donem-2",
+      "title": "AHBV Adli Tıp 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "adli-tip-yillik",
+      "slug": "ankara-hacibayram__adli-tip-yillik",
+      "title": "AHBV Adli Tıp Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "bilkent__adli-tip-donem-1",
+      "title": "Bilkent Adli Tıp 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "bilkent__adli-tip-donem-2",
+      "title": "Bilkent Adli Tıp 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "adli-tip-yillik",
+      "slug": "bilkent__adli-tip-yillik",
+      "title": "Bilkent Adli Tıp Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "koc__adli-tip-donem-1",
+      "title": "Koç Adli Tıp 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "koc__adli-tip-donem-2",
+      "title": "Koç Adli Tıp 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "adli-tip-yillik",
+      "slug": "koc__adli-tip-yillik",
+      "title": "Koç Adli Tıp Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "tobb-etu__adli-tip-donem-1",
+      "title": "TOBB ETÜ Adli Tıp 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "tobb-etu__adli-tip-donem-2",
+      "title": "TOBB ETÜ Adli Tıp 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "adli-tip-yillik",
+      "slug": "tobb-etu__adli-tip-yillik",
+      "title": "TOBB ETÜ Adli Tıp Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "bogazici__adli-tip-donem-1",
+      "title": "BÜ Adli Tıp 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "bogazici__adli-tip-donem-2",
+      "title": "BÜ Adli Tıp 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "adli-tip-yillik",
+      "slug": "bogazici__adli-tip-yillik",
+      "title": "BÜ Adli Tıp Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "ege__adli-tip-donem-1",
+      "title": "Ege Adli Tıp 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "ege__adli-tip-donem-2",
+      "title": "Ege Adli Tıp 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ege",
+      "courseCode": "adli-tip-yillik",
+      "slug": "ege__adli-tip-yillik",
+      "title": "Ege Adli Tıp Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/ege/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "akdeniz__adli-tip-donem-1",
+      "title": "Akdeniz Adli Tıp 1. Dönem (Güz) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "akdeniz__adli-tip-donem-2",
+      "title": "Akdeniz Adli Tıp 2. Dönem (Bahar) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "adli-tip-yillik",
+      "slug": "akdeniz__adli-tip-yillik",
+      "title": "Akdeniz Adli Tıp Yıllık (Tam paket) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "selcuk__adli-tip-donem-1",
+      "title": "Selçuk Adli Tıp 1. Dönem (Güz) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "selcuk__adli-tip-donem-2",
+      "title": "Selçuk Adli Tıp 2. Dönem (Bahar) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "adli-tip-yillik",
+      "slug": "selcuk__adli-tip-yillik",
+      "title": "Selçuk Adli Tıp Yıllık (Tam paket) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "erciyes__adli-tip-donem-1",
+      "title": "Erciyes Adli Tıp 1. Dönem (Güz) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "erciyes__adli-tip-donem-2",
+      "title": "Erciyes Adli Tıp 2. Dönem (Bahar) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "adli-tip-yillik",
+      "slug": "erciyes__adli-tip-yillik",
+      "title": "Erciyes Adli Tıp Yıllık (Tam paket) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "uludag__adli-tip-donem-1",
+      "title": "Uludağ Adli Tıp 1. Dönem (Güz) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "uludag__adli-tip-donem-2",
+      "title": "Uludağ Adli Tıp 2. Dönem (Bahar) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "adli-tip-yillik",
+      "slug": "uludag__adli-tip-yillik",
+      "title": "Uludağ Adli Tıp Yıllık (Tam paket) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "cukurova__adli-tip-donem-1",
+      "title": "Çukurova Adli Tıp 1. Dönem (Güz) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "cukurova__adli-tip-donem-2",
+      "title": "Çukurova Adli Tıp 2. Dönem (Bahar) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "adli-tip-yillik",
+      "slug": "cukurova__adli-tip-yillik",
+      "title": "Çukurova Adli Tıp Yıllık (Tam paket) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "anadolu__adli-tip-donem-1",
+      "title": "Anadolu Adli Tıp 1. Dönem (Güz) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "anadolu__adli-tip-donem-2",
+      "title": "Anadolu Adli Tıp 2. Dönem (Bahar) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "adli-tip-yillik",
+      "slug": "anadolu__adli-tip-yillik",
+      "title": "Anadolu Adli Tıp Yıllık (Tam paket) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "gazi-ankara__adli-tip-donem-1",
+      "title": "ASBÜ Adli Tıp 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "gazi-ankara__adli-tip-donem-2",
+      "title": "ASBÜ Adli Tıp 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gazi-ankara",
+      "courseCode": "adli-tip-yillik",
+      "slug": "gazi-ankara__adli-tip-yillik",
+      "title": "ASBÜ Adli Tıp Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/gazi-ankara/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "yildiz-teknik__adli-tip-donem-1",
+      "title": "YTÜ Adli Tıp 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "yildiz-teknik__adli-tip-donem-2",
+      "title": "YTÜ Adli Tıp 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yildiz-teknik",
+      "courseCode": "adli-tip-yillik",
+      "slug": "yildiz-teknik__adli-tip-yillik",
+      "title": "YTÜ Adli Tıp Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yildiz-teknik/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "istanbul-medeniyet__adli-tip-donem-1",
+      "title": "Medeniyet Adli Tıp 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "istanbul-medeniyet__adli-tip-donem-2",
+      "title": "Medeniyet Adli Tıp 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "adli-tip-yillik",
+      "slug": "istanbul-medeniyet__adli-tip-yillik",
+      "title": "Medeniyet Adli Tıp Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "bahcesehir__adli-tip-donem-1",
+      "title": "BAU Adli Tıp 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "bahcesehir__adli-tip-donem-2",
+      "title": "BAU Adli Tıp 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "adli-tip-yillik",
+      "slug": "bahcesehir__adli-tip-yillik",
+      "title": "BAU Adli Tıp Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "yeditepe__adli-tip-donem-1",
+      "title": "Yeditepe Adli Tıp 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "yeditepe__adli-tip-donem-2",
+      "title": "Yeditepe Adli Tıp 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "adli-tip-yillik",
+      "slug": "yeditepe__adli-tip-yillik",
+      "title": "Yeditepe Adli Tıp Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "ozyegin__adli-tip-donem-1",
+      "title": "Özyeğin Adli Tıp 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "ozyegin__adli-tip-donem-2",
+      "title": "Özyeğin Adli Tıp 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "adli-tip-yillik",
+      "slug": "ozyegin__adli-tip-yillik",
+      "title": "Özyeğin Adli Tıp Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "kadir-has__adli-tip-donem-1",
+      "title": "KHAS Adli Tıp 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "kadir-has__adli-tip-donem-2",
+      "title": "KHAS Adli Tıp 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "adli-tip-yillik",
+      "slug": "kadir-has__adli-tip-yillik",
+      "title": "KHAS Adli Tıp Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "istanbul-bilgi__adli-tip-donem-1",
+      "title": "Bilgi Adli Tıp 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "istanbul-bilgi__adli-tip-donem-2",
+      "title": "Bilgi Adli Tıp 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "adli-tip-yillik",
+      "slug": "istanbul-bilgi__adli-tip-yillik",
+      "title": "Bilgi Adli Tıp Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "mehmet-akif__adli-tip-donem-1",
+      "title": "Medipol Adli Tıp 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "mehmet-akif__adli-tip-donem-2",
+      "title": "Medipol Adli Tıp 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mehmet-akif",
+      "courseCode": "adli-tip-yillik",
+      "slug": "mehmet-akif__adli-tip-yillik",
+      "title": "Medipol Adli Tıp Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mehmet-akif/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "altinbas__adli-tip-donem-1",
+      "title": "Altınbaş Adli Tıp 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "altinbas__adli-tip-donem-2",
+      "title": "Altınbaş Adli Tıp 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "adli-tip-yillik",
+      "slug": "altinbas__adli-tip-yillik",
+      "title": "Altınbaş Adli Tıp Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "maltepe__adli-tip-donem-1",
+      "title": "Maltepe Adli Tıp 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "maltepe__adli-tip-donem-2",
+      "title": "Maltepe Adli Tıp 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "adli-tip-yillik",
+      "slug": "maltepe__adli-tip-yillik",
+      "title": "Maltepe Adli Tıp Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "dogus__adli-tip-donem-1",
+      "title": "Doğuş Adli Tıp 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "dogus__adli-tip-donem-2",
+      "title": "Doğuş Adli Tıp 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "adli-tip-yillik",
+      "slug": "dogus__adli-tip-yillik",
+      "title": "Doğuş Adli Tıp Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "isik__adli-tip-donem-1",
+      "title": "Işık Adli Tıp 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "isik__adli-tip-donem-2",
+      "title": "Işık Adli Tıp 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "isik",
+      "courseCode": "adli-tip-yillik",
+      "slug": "isik__adli-tip-yillik",
+      "title": "Işık Adli Tıp Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/isik/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "okan__adli-tip-donem-1",
+      "title": "Okan Adli Tıp 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "okan__adli-tip-donem-2",
+      "title": "Okan Adli Tıp 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "adli-tip-yillik",
+      "slug": "okan__adli-tip-yillik",
+      "title": "Okan Adli Tıp Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "kultur__adli-tip-donem-1",
+      "title": "İKÜ Adli Tıp 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "kultur__adli-tip-donem-2",
+      "title": "İKÜ Adli Tıp 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "adli-tip-yillik",
+      "slug": "kultur__adli-tip-yillik",
+      "title": "İKÜ Adli Tıp Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "aydin__adli-tip-donem-1",
+      "title": "İAÜ Adli Tıp 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "aydin__adli-tip-donem-2",
+      "title": "İAÜ Adli Tıp 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "adli-tip-yillik",
+      "slug": "aydin__adli-tip-yillik",
+      "title": "İAÜ Adli Tıp Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "gelisim__adli-tip-donem-1",
+      "title": "Gelişim Adli Tıp 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "gelisim__adli-tip-donem-2",
+      "title": "Gelişim Adli Tıp 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gelisim",
+      "courseCode": "adli-tip-yillik",
+      "slug": "gelisim__adli-tip-yillik",
+      "title": "Gelişim Adli Tıp Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/gelisim/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "topkapi__adli-tip-donem-1",
+      "title": "Topkapı Adli Tıp 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "topkapi__adli-tip-donem-2",
+      "title": "Topkapı Adli Tıp 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "topkapi",
+      "courseCode": "adli-tip-yillik",
+      "slug": "topkapi__adli-tip-yillik",
+      "title": "Topkapı Adli Tıp Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/topkapi/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "nisantasi__adli-tip-donem-1",
+      "title": "Nişantaşı Adli Tıp 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "nisantasi__adli-tip-donem-2",
+      "title": "Nişantaşı Adli Tıp 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nisantasi",
+      "courseCode": "adli-tip-yillik",
+      "slug": "nisantasi__adli-tip-yillik",
+      "title": "Nişantaşı Adli Tıp Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/nisantasi/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "beykent__adli-tip-donem-1",
+      "title": "Beykent Adli Tıp 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "beykent__adli-tip-donem-2",
+      "title": "Beykent Adli Tıp 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "adli-tip-yillik",
+      "slug": "beykent__adli-tip-yillik",
+      "title": "Beykent Adli Tıp Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "halic__adli-tip-donem-1",
+      "title": "Haliç Adli Tıp 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "halic__adli-tip-donem-2",
+      "title": "Haliç Adli Tıp 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "halic",
+      "courseCode": "adli-tip-yillik",
+      "slug": "halic__adli-tip-yillik",
+      "title": "Haliç Adli Tıp Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/halic/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "fatih-sultan__adli-tip-donem-1",
+      "title": "FSMVÜ Adli Tıp 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "fatih-sultan__adli-tip-donem-2",
+      "title": "FSMVÜ Adli Tıp 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "adli-tip-yillik",
+      "slug": "fatih-sultan__adli-tip-yillik",
+      "title": "FSMVÜ Adli Tıp Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "karadeniz-teknik__adli-tip-donem-1",
+      "title": "KTÜ Adli Tıp 1. Dönem (Güz) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "karadeniz-teknik__adli-tip-donem-2",
+      "title": "KTÜ Adli Tıp 2. Dönem (Bahar) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karadeniz-teknik",
+      "courseCode": "adli-tip-yillik",
+      "slug": "karadeniz-teknik__adli-tip-yillik",
+      "title": "KTÜ Adli Tıp Yıllık (Tam paket) Ders Notu | Trabzon",
+      "href": "/ders-notlari/karadeniz-teknik/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "ataturk__adli-tip-donem-1",
+      "title": "Atatürk Adli Tıp 1. Dönem (Güz) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "ataturk__adli-tip-donem-2",
+      "title": "Atatürk Adli Tıp 2. Dönem (Bahar) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "adli-tip-yillik",
+      "slug": "ataturk__adli-tip-yillik",
+      "title": "Atatürk Adli Tıp Yıllık (Tam paket) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "inonu__adli-tip-donem-1",
+      "title": "İnönü Adli Tıp 1. Dönem (Güz) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "inonu__adli-tip-donem-2",
+      "title": "İnönü Adli Tıp 2. Dönem (Bahar) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "adli-tip-yillik",
+      "slug": "inonu__adli-tip-yillik",
+      "title": "İnönü Adli Tıp Yıllık (Tam paket) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "dicle__adli-tip-donem-1",
+      "title": "Dicle Adli Tıp 1. Dönem (Güz) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "dicle__adli-tip-donem-2",
+      "title": "Dicle Adli Tıp 2. Dönem (Bahar) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "adli-tip-yillik",
+      "slug": "dicle__adli-tip-yillik",
+      "title": "Dicle Adli Tıp Yıllık (Tam paket) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "firat__adli-tip-donem-1",
+      "title": "Fırat Adli Tıp 1. Dönem (Güz) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "firat__adli-tip-donem-2",
+      "title": "Fırat Adli Tıp 2. Dönem (Bahar) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "firat",
+      "courseCode": "adli-tip-yillik",
+      "slug": "firat__adli-tip-yillik",
+      "title": "Fırat Adli Tıp Yıllık (Tam paket) Ders Notu | Elazığ",
+      "href": "/ders-notlari/firat/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "gaziantep__adli-tip-donem-1",
+      "title": "GAÜN Adli Tıp 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "gaziantep__adli-tip-donem-2",
+      "title": "GAÜN Adli Tıp 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "adli-tip-yillik",
+      "slug": "gaziantep__adli-tip-yillik",
+      "title": "GAÜN Adli Tıp Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "suleyman-demirel__adli-tip-donem-1",
+      "title": "SDÜ Adli Tıp 1. Dönem (Güz) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "suleyman-demirel__adli-tip-donem-2",
+      "title": "SDÜ Adli Tıp 2. Dönem (Bahar) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "adli-tip-yillik",
+      "slug": "suleyman-demirel__adli-tip-yillik",
+      "title": "SDÜ Adli Tıp Yıllık (Tam paket) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "pamukkale__adli-tip-donem-1",
+      "title": "PAÜ Adli Tıp 1. Dönem (Güz) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "pamukkale__adli-tip-donem-2",
+      "title": "PAÜ Adli Tıp 2. Dönem (Bahar) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "adli-tip-yillik",
+      "slug": "pamukkale__adli-tip-yillik",
+      "title": "PAÜ Adli Tıp Yıllık (Tam paket) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "mugla__adli-tip-donem-1",
+      "title": "MSKU Adli Tıp 1. Dönem (Güz) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "mugla__adli-tip-donem-2",
+      "title": "MSKU Adli Tıp 2. Dönem (Bahar) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mugla",
+      "courseCode": "adli-tip-yillik",
+      "slug": "mugla__adli-tip-yillik",
+      "title": "MSKU Adli Tıp Yıllık (Tam paket) Ders Notu | Muğla",
+      "href": "/ders-notlari/mugla/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "sakarya__adli-tip-donem-1",
+      "title": "SAÜ Adli Tıp 1. Dönem (Güz) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "sakarya__adli-tip-donem-2",
+      "title": "SAÜ Adli Tıp 2. Dönem (Bahar) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "adli-tip-yillik",
+      "slug": "sakarya__adli-tip-yillik",
+      "title": "SAÜ Adli Tıp Yıllık (Tam paket) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "kocaeli__adli-tip-donem-1",
+      "title": "KOÜ Adli Tıp 1. Dönem (Güz) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "kocaeli__adli-tip-donem-2",
+      "title": "KOÜ Adli Tıp 2. Dönem (Bahar) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "adli-tip-yillik",
+      "slug": "kocaeli__adli-tip-yillik",
+      "title": "KOÜ Adli Tıp Yıllık (Tam paket) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "trakya__adli-tip-donem-1",
+      "title": "Trakya Adli Tıp 1. Dönem (Güz) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "trakya__adli-tip-donem-2",
+      "title": "Trakya Adli Tıp 2. Dönem (Bahar) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "trakya",
+      "courseCode": "adli-tip-yillik",
+      "slug": "trakya__adli-tip-yillik",
+      "title": "Trakya Adli Tıp Yıllık (Tam paket) Ders Notu | Edirne",
+      "href": "/ders-notlari/trakya/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "canakkale__adli-tip-donem-1",
+      "title": "ÇOMÜ Adli Tıp 1. Dönem (Güz) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "canakkale__adli-tip-donem-2",
+      "title": "ÇOMÜ Adli Tıp 2. Dönem (Bahar) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "canakkale",
+      "courseCode": "adli-tip-yillik",
+      "slug": "canakkale__adli-tip-yillik",
+      "title": "ÇOMÜ Adli Tıp Yıllık (Tam paket) Ders Notu | Çanakkale",
+      "href": "/ders-notlari/canakkale/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "balikesir__adli-tip-donem-1",
+      "title": "BAÜN Adli Tıp 1. Dönem (Güz) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "balikesir__adli-tip-donem-2",
+      "title": "BAÜN Adli Tıp 2. Dönem (Bahar) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "adli-tip-yillik",
+      "slug": "balikesir__adli-tip-yillik",
+      "title": "BAÜN Adli Tıp Yıllık (Tam paket) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "afyon__adli-tip-donem-1",
+      "title": "AKÜ Adli Tıp 1. Dönem (Güz) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "afyon__adli-tip-donem-2",
+      "title": "AKÜ Adli Tıp 2. Dönem (Bahar) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "adli-tip-yillik",
+      "slug": "afyon__adli-tip-yillik",
+      "title": "AKÜ Adli Tıp Yıllık (Tam paket) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "dumlupinar__adli-tip-donem-1",
+      "title": "DPÜ Adli Tıp 1. Dönem (Güz) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "dumlupinar__adli-tip-donem-2",
+      "title": "DPÜ Adli Tıp 2. Dönem (Bahar) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dumlupinar",
+      "courseCode": "adli-tip-yillik",
+      "slug": "dumlupinar__adli-tip-yillik",
+      "title": "DPÜ Adli Tıp Yıllık (Tam paket) Ders Notu | Kütahya",
+      "href": "/ders-notlari/dumlupinar/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "eskisehir-osmangazi__adli-tip-donem-1",
+      "title": "ESOGÜ Adli Tıp 1. Dönem (Güz) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "eskisehir-osmangazi__adli-tip-donem-2",
+      "title": "ESOGÜ Adli Tıp 2. Dönem (Bahar) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "adli-tip-yillik",
+      "slug": "eskisehir-osmangazi__adli-tip-yillik",
+      "title": "ESOGÜ Adli Tıp Yıllık (Tam paket) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "sivas-cumhuriyet__adli-tip-donem-1",
+      "title": "SCÜ Adli Tıp 1. Dönem (Güz) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "sivas-cumhuriyet__adli-tip-donem-2",
+      "title": "SCÜ Adli Tıp 2. Dönem (Bahar) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "adli-tip-yillik",
+      "slug": "sivas-cumhuriyet__adli-tip-yillik",
+      "title": "SCÜ Adli Tıp Yıllık (Tam paket) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "tokat__adli-tip-donem-1",
+      "title": "TOGÜ Adli Tıp 1. Dönem (Güz) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "tokat__adli-tip-donem-2",
+      "title": "TOGÜ Adli Tıp 2. Dönem (Bahar) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "adli-tip-yillik",
+      "slug": "tokat__adli-tip-yillik",
+      "title": "TOGÜ Adli Tıp Yıllık (Tam paket) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "yozgat__adli-tip-donem-1",
+      "title": "Bozok Adli Tıp 1. Dönem (Güz) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "yozgat__adli-tip-donem-2",
+      "title": "Bozok Adli Tıp 2. Dönem (Bahar) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "adli-tip-yillik",
+      "slug": "yozgat__adli-tip-yillik",
+      "title": "Bozok Adli Tıp Yıllık (Tam paket) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "kirsehir__adli-tip-donem-1",
+      "title": "AHİEVRAN Adli Tıp 1. Dönem (Güz) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "kirsehir__adli-tip-donem-2",
+      "title": "AHİEVRAN Adli Tıp 2. Dönem (Bahar) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirsehir",
+      "courseCode": "adli-tip-yillik",
+      "slug": "kirsehir__adli-tip-yillik",
+      "title": "AHİEVRAN Adli Tıp Yıllık (Tam paket) Ders Notu | Kırşehir",
+      "href": "/ders-notlari/kirsehir/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "nevsehir__adli-tip-donem-1",
+      "title": "NEVÜ Adli Tıp 1. Dönem (Güz) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "nevsehir__adli-tip-donem-2",
+      "title": "NEVÜ Adli Tıp 2. Dönem (Bahar) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nevsehir",
+      "courseCode": "adli-tip-yillik",
+      "slug": "nevsehir__adli-tip-yillik",
+      "title": "NEVÜ Adli Tıp Yıllık (Tam paket) Ders Notu | Nevşehir",
+      "href": "/ders-notlari/nevsehir/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "mersin__adli-tip-donem-1",
+      "title": "MEÜ Adli Tıp 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "mersin__adli-tip-donem-2",
+      "title": "MEÜ Adli Tıp 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mersin",
+      "courseCode": "adli-tip-yillik",
+      "slug": "mersin__adli-tip-yillik",
+      "title": "MEÜ Adli Tıp Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/mersin/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "hatay__adli-tip-donem-1",
+      "title": "MKÜ Adli Tıp 1. Dönem (Güz) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "hatay__adli-tip-donem-2",
+      "title": "MKÜ Adli Tıp 2. Dönem (Bahar) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hatay",
+      "courseCode": "adli-tip-yillik",
+      "slug": "hatay__adli-tip-yillik",
+      "title": "MKÜ Adli Tıp Yıllık (Tam paket) Ders Notu | Hatay",
+      "href": "/ders-notlari/hatay/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "kahramanmaras__adli-tip-donem-1",
+      "title": "KSÜ Adli Tıp 1. Dönem (Güz) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "kahramanmaras__adli-tip-donem-2",
+      "title": "KSÜ Adli Tıp 2. Dönem (Bahar) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kahramanmaras",
+      "courseCode": "adli-tip-yillik",
+      "slug": "kahramanmaras__adli-tip-yillik",
+      "title": "KSÜ Adli Tıp Yıllık (Tam paket) Ders Notu | Kahramanmaraş",
+      "href": "/ders-notlari/kahramanmaras/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "osmaniye__adli-tip-donem-1",
+      "title": "OKÜ Adli Tıp 1. Dönem (Güz) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "osmaniye__adli-tip-donem-2",
+      "title": "OKÜ Adli Tıp 2. Dönem (Bahar) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "osmaniye",
+      "courseCode": "adli-tip-yillik",
+      "slug": "osmaniye__adli-tip-yillik",
+      "title": "OKÜ Adli Tıp Yıllık (Tam paket) Ders Notu | Osmaniye",
+      "href": "/ders-notlari/osmaniye/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "samsun__adli-tip-donem-1",
+      "title": "OMÜ Adli Tıp 1. Dönem (Güz) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "samsun__adli-tip-donem-2",
+      "title": "OMÜ Adli Tıp 2. Dönem (Bahar) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "adli-tip-yillik",
+      "slug": "samsun__adli-tip-yillik",
+      "title": "OMÜ Adli Tıp Yıllık (Tam paket) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "ordu__adli-tip-donem-1",
+      "title": "ODÜ Adli Tıp 1. Dönem (Güz) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "ordu__adli-tip-donem-2",
+      "title": "ODÜ Adli Tıp 2. Dönem (Bahar) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ordu",
+      "courseCode": "adli-tip-yillik",
+      "slug": "ordu__adli-tip-yillik",
+      "title": "ODÜ Adli Tıp Yıllık (Tam paket) Ders Notu | Ordu",
+      "href": "/ders-notlari/ordu/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "giresun__adli-tip-donem-1",
+      "title": "GÜ Adli Tıp 1. Dönem (Güz) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "giresun__adli-tip-donem-2",
+      "title": "GÜ Adli Tıp 2. Dönem (Bahar) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "giresun",
+      "courseCode": "adli-tip-yillik",
+      "slug": "giresun__adli-tip-yillik",
+      "title": "GÜ Adli Tıp Yıllık (Tam paket) Ders Notu | Giresun",
+      "href": "/ders-notlari/giresun/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "rize__adli-tip-donem-1",
+      "title": "RTEÜ Adli Tıp 1. Dönem (Güz) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "rize__adli-tip-donem-2",
+      "title": "RTEÜ Adli Tıp 2. Dönem (Bahar) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "adli-tip-yillik",
+      "slug": "rize__adli-tip-yillik",
+      "title": "RTEÜ Adli Tıp Yıllık (Tam paket) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "artvin__adli-tip-donem-1",
+      "title": "AÇÜ Adli Tıp 1. Dönem (Güz) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "artvin__adli-tip-donem-2",
+      "title": "AÇÜ Adli Tıp 2. Dönem (Bahar) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "artvin",
+      "courseCode": "adli-tip-yillik",
+      "slug": "artvin__adli-tip-yillik",
+      "title": "AÇÜ Adli Tıp Yıllık (Tam paket) Ders Notu | Artvin",
+      "href": "/ders-notlari/artvin/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "van-yyu__adli-tip-donem-1",
+      "title": "YYÜ Adli Tıp 1. Dönem (Güz) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "van-yyu__adli-tip-donem-2",
+      "title": "YYÜ Adli Tıp 2. Dönem (Bahar) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "van-yyu",
+      "courseCode": "adli-tip-yillik",
+      "slug": "van-yyu__adli-tip-yillik",
+      "title": "YYÜ Adli Tıp Yıllık (Tam paket) Ders Notu | Van",
+      "href": "/ders-notlari/van-yyu/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "agri__adli-tip-donem-1",
+      "title": "AİÇÜ Adli Tıp 1. Dönem (Güz) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "agri__adli-tip-donem-2",
+      "title": "AİÇÜ Adli Tıp 2. Dönem (Bahar) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "agri",
+      "courseCode": "adli-tip-yillik",
+      "slug": "agri__adli-tip-yillik",
+      "title": "AİÇÜ Adli Tıp Yıllık (Tam paket) Ders Notu | Ağrı",
+      "href": "/ders-notlari/agri/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "kars__adli-tip-donem-1",
+      "title": "Kafkas Adli Tıp 1. Dönem (Güz) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "kars__adli-tip-donem-2",
+      "title": "Kafkas Adli Tıp 2. Dönem (Bahar) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kars",
+      "courseCode": "adli-tip-yillik",
+      "slug": "kars__adli-tip-yillik",
+      "title": "Kafkas Adli Tıp Yıllık (Tam paket) Ders Notu | Kars",
+      "href": "/ders-notlari/kars/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "erzincan__adli-tip-donem-1",
+      "title": "EBYÜ Adli Tıp 1. Dönem (Güz) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "erzincan__adli-tip-donem-2",
+      "title": "EBYÜ Adli Tıp 2. Dönem (Bahar) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "adli-tip-yillik",
+      "slug": "erzincan__adli-tip-yillik",
+      "title": "EBYÜ Adli Tıp Yıllık (Tam paket) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "bayburt__adli-tip-donem-1",
+      "title": "Bayburt Adli Tıp 1. Dönem (Güz) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "bayburt__adli-tip-donem-2",
+      "title": "Bayburt Adli Tıp 2. Dönem (Bahar) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bayburt",
+      "courseCode": "adli-tip-yillik",
+      "slug": "bayburt__adli-tip-yillik",
+      "title": "Bayburt Adli Tıp Yıllık (Tam paket) Ders Notu | Bayburt",
+      "href": "/ders-notlari/bayburt/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "gumushane__adli-tip-donem-1",
+      "title": "Gümüşhane Adli Tıp 1. Dönem (Güz) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "gumushane__adli-tip-donem-2",
+      "title": "Gümüşhane Adli Tıp 2. Dönem (Bahar) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gumushane",
+      "courseCode": "adli-tip-yillik",
+      "slug": "gumushane__adli-tip-yillik",
+      "title": "Gümüşhane Adli Tıp Yıllık (Tam paket) Ders Notu | Gümüşhane",
+      "href": "/ders-notlari/gumushane/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "bingol__adli-tip-donem-1",
+      "title": "Bingöl Adli Tıp 1. Dönem (Güz) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "bingol__adli-tip-donem-2",
+      "title": "Bingöl Adli Tıp 2. Dönem (Bahar) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bingol",
+      "courseCode": "adli-tip-yillik",
+      "slug": "bingol__adli-tip-yillik",
+      "title": "Bingöl Adli Tıp Yıllık (Tam paket) Ders Notu | Bingöl",
+      "href": "/ders-notlari/bingol/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "mus__adli-tip-donem-1",
+      "title": "Muş Adli Tıp 1. Dönem (Güz) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "mus__adli-tip-donem-2",
+      "title": "Muş Adli Tıp 2. Dönem (Bahar) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mus",
+      "courseCode": "adli-tip-yillik",
+      "slug": "mus__adli-tip-yillik",
+      "title": "Muş Adli Tıp Yıllık (Tam paket) Ders Notu | Muş",
+      "href": "/ders-notlari/mus/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "hakkari__adli-tip-donem-1",
+      "title": "Hakkâri Adli Tıp 1. Dönem (Güz) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "hakkari__adli-tip-donem-2",
+      "title": "Hakkâri Adli Tıp 2. Dönem (Bahar) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hakkari",
+      "courseCode": "adli-tip-yillik",
+      "slug": "hakkari__adli-tip-yillik",
+      "title": "Hakkâri Adli Tıp Yıllık (Tam paket) Ders Notu | Hakkâri",
+      "href": "/ders-notlari/hakkari/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "sirnak__adli-tip-donem-1",
+      "title": "Şırnak Adli Tıp 1. Dönem (Güz) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "sirnak__adli-tip-donem-2",
+      "title": "Şırnak Adli Tıp 2. Dönem (Bahar) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sirnak",
+      "courseCode": "adli-tip-yillik",
+      "slug": "sirnak__adli-tip-yillik",
+      "title": "Şırnak Adli Tıp Yıllık (Tam paket) Ders Notu | Şırnak",
+      "href": "/ders-notlari/sirnak/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "mardin__adli-tip-donem-1",
+      "title": "Artuklu Adli Tıp 1. Dönem (Güz) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "mardin__adli-tip-donem-2",
+      "title": "Artuklu Adli Tıp 2. Dönem (Bahar) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mardin",
+      "courseCode": "adli-tip-yillik",
+      "slug": "mardin__adli-tip-yillik",
+      "title": "Artuklu Adli Tıp Yıllık (Tam paket) Ders Notu | Mardin",
+      "href": "/ders-notlari/mardin/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "batman__adli-tip-donem-1",
+      "title": "Batman Adli Tıp 1. Dönem (Güz) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "batman__adli-tip-donem-2",
+      "title": "Batman Adli Tıp 2. Dönem (Bahar) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "batman",
+      "courseCode": "adli-tip-yillik",
+      "slug": "batman__adli-tip-yillik",
+      "title": "Batman Adli Tıp Yıllık (Tam paket) Ders Notu | Batman",
+      "href": "/ders-notlari/batman/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "siirt__adli-tip-donem-1",
+      "title": "Siirt Adli Tıp 1. Dönem (Güz) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "siirt__adli-tip-donem-2",
+      "title": "Siirt Adli Tıp 2. Dönem (Bahar) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "siirt",
+      "courseCode": "adli-tip-yillik",
+      "slug": "siirt__adli-tip-yillik",
+      "title": "Siirt Adli Tıp Yıllık (Tam paket) Ders Notu | Siirt",
+      "href": "/ders-notlari/siirt/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "adiyaman__adli-tip-donem-1",
+      "title": "Adıyaman Adli Tıp 1. Dönem (Güz) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "adiyaman__adli-tip-donem-2",
+      "title": "Adıyaman Adli Tıp 2. Dönem (Bahar) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "adiyaman",
+      "courseCode": "adli-tip-yillik",
+      "slug": "adiyaman__adli-tip-yillik",
+      "title": "Adıyaman Adli Tıp Yıllık (Tam paket) Ders Notu | Adıyaman",
+      "href": "/ders-notlari/adiyaman/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "kilis__adli-tip-donem-1",
+      "title": "Kilis Adli Tıp 1. Dönem (Güz) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "kilis__adli-tip-donem-2",
+      "title": "Kilis Adli Tıp 2. Dönem (Bahar) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kilis",
+      "courseCode": "adli-tip-yillik",
+      "slug": "kilis__adli-tip-yillik",
+      "title": "Kilis Adli Tıp Yıllık (Tam paket) Ders Notu | Kilis",
+      "href": "/ders-notlari/kilis/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "igdir__adli-tip-donem-1",
+      "title": "Iğdır Adli Tıp 1. Dönem (Güz) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "igdir__adli-tip-donem-2",
+      "title": "Iğdır Adli Tıp 2. Dönem (Bahar) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "igdir",
+      "courseCode": "adli-tip-yillik",
+      "slug": "igdir__adli-tip-yillik",
+      "title": "Iğdır Adli Tıp Yıllık (Tam paket) Ders Notu | Iğdır",
+      "href": "/ders-notlari/igdir/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "ardahan__adli-tip-donem-1",
+      "title": "Ardahan Adli Tıp 1. Dönem (Güz) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "ardahan__adli-tip-donem-2",
+      "title": "Ardahan Adli Tıp 2. Dönem (Bahar) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ardahan",
+      "courseCode": "adli-tip-yillik",
+      "slug": "ardahan__adli-tip-yillik",
+      "title": "Ardahan Adli Tıp Yıllık (Tam paket) Ders Notu | Ardahan",
+      "href": "/ders-notlari/ardahan/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "bilecik__adli-tip-donem-1",
+      "title": "BŞEÜ Adli Tıp 1. Dönem (Güz) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "bilecik__adli-tip-donem-2",
+      "title": "BŞEÜ Adli Tıp 2. Dönem (Bahar) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bilecik",
+      "courseCode": "adli-tip-yillik",
+      "slug": "bilecik__adli-tip-yillik",
+      "title": "BŞEÜ Adli Tıp Yıllık (Tam paket) Ders Notu | Bilecik",
+      "href": "/ders-notlari/bilecik/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "bolu__adli-tip-donem-1",
+      "title": "BAİBÜ Adli Tıp 1. Dönem (Güz) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "bolu__adli-tip-donem-2",
+      "title": "BAİBÜ Adli Tıp 2. Dönem (Bahar) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "adli-tip-yillik",
+      "slug": "bolu__adli-tip-yillik",
+      "title": "BAİBÜ Adli Tıp Yıllık (Tam paket) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "duzce__adli-tip-donem-1",
+      "title": "Düzce Adli Tıp 1. Dönem (Güz) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "duzce__adli-tip-donem-2",
+      "title": "Düzce Adli Tıp 2. Dönem (Bahar) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "duzce",
+      "courseCode": "adli-tip-yillik",
+      "slug": "duzce__adli-tip-yillik",
+      "title": "Düzce Adli Tıp Yıllık (Tam paket) Ders Notu | Düzce",
+      "href": "/ders-notlari/duzce/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "zonguldak__adli-tip-donem-1",
+      "title": "BEÜN Adli Tıp 1. Dönem (Güz) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "zonguldak__adli-tip-donem-2",
+      "title": "BEÜN Adli Tıp 2. Dönem (Bahar) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "zonguldak",
+      "courseCode": "adli-tip-yillik",
+      "slug": "zonguldak__adli-tip-yillik",
+      "title": "BEÜN Adli Tıp Yıllık (Tam paket) Ders Notu | Zonguldak",
+      "href": "/ders-notlari/zonguldak/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "karabuk__adli-tip-donem-1",
+      "title": "KBÜ Adli Tıp 1. Dönem (Güz) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "karabuk__adli-tip-donem-2",
+      "title": "KBÜ Adli Tıp 2. Dönem (Bahar) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karabuk",
+      "courseCode": "adli-tip-yillik",
+      "slug": "karabuk__adli-tip-yillik",
+      "title": "KBÜ Adli Tıp Yıllık (Tam paket) Ders Notu | Karabük",
+      "href": "/ders-notlari/karabuk/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "kastamonu__adli-tip-donem-1",
+      "title": "KÜ Adli Tıp 1. Dönem (Güz) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "kastamonu__adli-tip-donem-2",
+      "title": "KÜ Adli Tıp 2. Dönem (Bahar) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kastamonu",
+      "courseCode": "adli-tip-yillik",
+      "slug": "kastamonu__adli-tip-yillik",
+      "title": "KÜ Adli Tıp Yıllık (Tam paket) Ders Notu | Kastamonu",
+      "href": "/ders-notlari/kastamonu/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "sinop__adli-tip-donem-1",
+      "title": "Sinop Adli Tıp 1. Dönem (Güz) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "sinop__adli-tip-donem-2",
+      "title": "Sinop Adli Tıp 2. Dönem (Bahar) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sinop",
+      "courseCode": "adli-tip-yillik",
+      "slug": "sinop__adli-tip-yillik",
+      "title": "Sinop Adli Tıp Yıllık (Tam paket) Ders Notu | Sinop",
+      "href": "/ders-notlari/sinop/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "corum__adli-tip-donem-1",
+      "title": "Hitit Adli Tıp 1. Dönem (Güz) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "corum__adli-tip-donem-2",
+      "title": "Hitit Adli Tıp 2. Dönem (Bahar) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "corum",
+      "courseCode": "adli-tip-yillik",
+      "slug": "corum__adli-tip-yillik",
+      "title": "Hitit Adli Tıp Yıllık (Tam paket) Ders Notu | Çorum",
+      "href": "/ders-notlari/corum/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "amasya__adli-tip-donem-1",
+      "title": "Amasya Adli Tıp 1. Dönem (Güz) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "amasya__adli-tip-donem-2",
+      "title": "Amasya Adli Tıp 2. Dönem (Bahar) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "amasya",
+      "courseCode": "adli-tip-yillik",
+      "slug": "amasya__adli-tip-yillik",
+      "title": "Amasya Adli Tıp Yıllık (Tam paket) Ders Notu | Amasya",
+      "href": "/ders-notlari/amasya/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "cankiri__adli-tip-donem-1",
+      "title": "Karatekin Adli Tıp 1. Dönem (Güz) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "cankiri__adli-tip-donem-2",
+      "title": "Karatekin Adli Tıp 2. Dönem (Bahar) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "adli-tip-yillik",
+      "slug": "cankiri__adli-tip-yillik",
+      "title": "Karatekin Adli Tıp Yıllık (Tam paket) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "kirikkale__adli-tip-donem-1",
+      "title": "Kırıkkale Adli Tıp 1. Dönem (Güz) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "kirikkale__adli-tip-donem-2",
+      "title": "Kırıkkale Adli Tıp 2. Dönem (Bahar) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "adli-tip-yillik",
+      "slug": "kirikkale__adli-tip-yillik",
+      "title": "Kırıkkale Adli Tıp Yıllık (Tam paket) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "aksaray__adli-tip-donem-1",
+      "title": "Aksaray Adli Tıp 1. Dönem (Güz) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "aksaray__adli-tip-donem-2",
+      "title": "Aksaray Adli Tıp 2. Dönem (Bahar) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aksaray",
+      "courseCode": "adli-tip-yillik",
+      "slug": "aksaray__adli-tip-yillik",
+      "title": "Aksaray Adli Tıp Yıllık (Tam paket) Ders Notu | Aksaray",
+      "href": "/ders-notlari/aksaray/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "nigde__adli-tip-donem-1",
+      "title": "ÖHÜ Adli Tıp 1. Dönem (Güz) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "nigde__adli-tip-donem-2",
+      "title": "ÖHÜ Adli Tıp 2. Dönem (Bahar) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nigde",
+      "courseCode": "adli-tip-yillik",
+      "slug": "nigde__adli-tip-yillik",
+      "title": "ÖHÜ Adli Tıp Yıllık (Tam paket) Ders Notu | Niğde",
+      "href": "/ders-notlari/nigde/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "konya-teknik__adli-tip-donem-1",
+      "title": "NEÜ Adli Tıp 1. Dönem (Güz) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "konya-teknik__adli-tip-donem-2",
+      "title": "NEÜ Adli Tıp 2. Dönem (Bahar) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "konya-teknik",
+      "courseCode": "adli-tip-yillik",
+      "slug": "konya-teknik__adli-tip-yillik",
+      "title": "NEÜ Adli Tıp Yıllık (Tam paket) Ders Notu | Konya",
+      "href": "/ders-notlari/konya-teknik/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "karaman__adli-tip-donem-1",
+      "title": "KMÜ Adli Tıp 1. Dönem (Güz) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "karaman__adli-tip-donem-2",
+      "title": "KMÜ Adli Tıp 2. Dönem (Bahar) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "karaman",
+      "courseCode": "adli-tip-yillik",
+      "slug": "karaman__adli-tip-yillik",
+      "title": "KMÜ Adli Tıp Yıllık (Tam paket) Ders Notu | Karaman",
+      "href": "/ders-notlari/karaman/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "usak__adli-tip-donem-1",
+      "title": "Uşak Adli Tıp 1. Dönem (Güz) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "usak__adli-tip-donem-2",
+      "title": "Uşak Adli Tıp 2. Dönem (Bahar) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "usak",
+      "courseCode": "adli-tip-yillik",
+      "slug": "usak__adli-tip-yillik",
+      "title": "Uşak Adli Tıp Yıllık (Tam paket) Ders Notu | Uşak",
+      "href": "/ders-notlari/usak/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "manisa__adli-tip-donem-1",
+      "title": "MCBÜ Adli Tıp 1. Dönem (Güz) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "manisa__adli-tip-donem-2",
+      "title": "MCBÜ Adli Tıp 2. Dönem (Bahar) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "manisa",
+      "courseCode": "adli-tip-yillik",
+      "slug": "manisa__adli-tip-yillik",
+      "title": "MCBÜ Adli Tıp Yıllık (Tam paket) Ders Notu | Manisa",
+      "href": "/ders-notlari/manisa/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "aydin-adu__adli-tip-donem-1",
+      "title": "ADÜ Adli Tıp 1. Dönem (Güz) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "aydin-adu__adli-tip-donem-2",
+      "title": "ADÜ Adli Tıp 2. Dönem (Bahar) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aydin-adu",
+      "courseCode": "adli-tip-yillik",
+      "slug": "aydin-adu__adli-tip-yillik",
+      "title": "ADÜ Adli Tıp Yıllık (Tam paket) Ders Notu | Aydın",
+      "href": "/ders-notlari/aydin-adu/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "tekirdag__adli-tip-donem-1",
+      "title": "NKÜ Adli Tıp 1. Dönem (Güz) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "tekirdag__adli-tip-donem-2",
+      "title": "NKÜ Adli Tıp 2. Dönem (Bahar) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "adli-tip-yillik",
+      "slug": "tekirdag__adli-tip-yillik",
+      "title": "NKÜ Adli Tıp Yıllık (Tam paket) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "kirklareli__adli-tip-donem-1",
+      "title": "Kırklareli Adli Tıp 1. Dönem (Güz) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "kirklareli__adli-tip-donem-2",
+      "title": "Kırklareli Adli Tıp 2. Dönem (Bahar) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "adli-tip-yillik",
+      "slug": "kirklareli__adli-tip-yillik",
+      "title": "Kırklareli Adli Tıp Yıllık (Tam paket) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "atilim__adli-tip-donem-1",
+      "title": "Atılım Adli Tıp 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "atilim__adli-tip-donem-2",
+      "title": "Atılım Adli Tıp 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "adli-tip-yillik",
+      "slug": "atilim__adli-tip-yillik",
+      "title": "Atılım Adli Tıp Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "cankaya__adli-tip-donem-1",
+      "title": "Çankaya Adli Tıp 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "cankaya__adli-tip-donem-2",
+      "title": "Çankaya Adli Tıp 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "adli-tip-yillik",
+      "slug": "cankaya__adli-tip-yillik",
+      "title": "Çankaya Adli Tıp Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "ufuk__adli-tip-donem-1",
+      "title": "Ufuk Adli Tıp 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "ufuk__adli-tip-donem-2",
+      "title": "Ufuk Adli Tıp 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "adli-tip-yillik",
+      "slug": "ufuk__adli-tip-yillik",
+      "title": "Ufuk Adli Tıp Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "yasar__adli-tip-donem-1",
+      "title": "Yaşar Adli Tıp 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "yasar__adli-tip-donem-2",
+      "title": "Yaşar Adli Tıp 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "adli-tip-yillik",
+      "slug": "yasar__adli-tip-yillik",
+      "title": "Yaşar Adli Tıp Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "izmir-ekonomi__adli-tip-donem-1",
+      "title": "İEÜ Adli Tıp 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "izmir-ekonomi__adli-tip-donem-2",
+      "title": "İEÜ Adli Tıp 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "adli-tip-yillik",
+      "slug": "izmir-ekonomi__adli-tip-yillik",
+      "title": "İEÜ Adli Tıp Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "tinaztepe__adli-tip-donem-1",
+      "title": "Tınaztepe Adli Tıp 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "tinaztepe__adli-tip-donem-2",
+      "title": "Tınaztepe Adli Tıp 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tinaztepe",
+      "courseCode": "adli-tip-yillik",
+      "slug": "tinaztepe__adli-tip-yillik",
+      "title": "Tınaztepe Adli Tıp Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/tinaztepe/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "asbu-vakif__adli-tip-donem-1",
+      "title": "ABÜ Adli Tıp 1. Dönem (Güz) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "asbu-vakif__adli-tip-donem-2",
+      "title": "ABÜ Adli Tıp 2. Dönem (Bahar) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "asbu-vakif",
+      "courseCode": "adli-tip-yillik",
+      "slug": "asbu-vakif__adli-tip-yillik",
+      "title": "ABÜ Adli Tıp Yıllık (Tam paket) Ders Notu | Antalya",
+      "href": "/ders-notlari/asbu-vakif/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "hasan-kalyoncu__adli-tip-donem-1",
+      "title": "HKÜ Adli Tıp 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "hasan-kalyoncu__adli-tip-donem-2",
+      "title": "HKÜ Adli Tıp 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "adli-tip-yillik",
+      "slug": "hasan-kalyoncu__adli-tip-yillik",
+      "title": "HKÜ Adli Tıp Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "sanko__adli-tip-donem-1",
+      "title": "Sanko Adli Tıp 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "sanko__adli-tip-donem-2",
+      "title": "Sanko Adli Tıp 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sanko",
+      "courseCode": "adli-tip-yillik",
+      "slug": "sanko__adli-tip-yillik",
+      "title": "Sanko Adli Tıp Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/sanko/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "toros__adli-tip-donem-1",
+      "title": "Toros Adli Tıp 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "toros__adli-tip-donem-2",
+      "title": "Toros Adli Tıp 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "toros",
+      "courseCode": "adli-tip-yillik",
+      "slug": "toros__adli-tip-yillik",
+      "title": "Toros Adli Tıp Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/toros/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "adli-tip-donem-1",
+      "slug": "cag__adli-tip-donem-1",
+      "title": "Çağ Adli Tıp 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/adli-tip-donem-1",
+      "variantOf": "adli-tip",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "adli-tip-donem-2",
+      "slug": "cag__adli-tip-donem-2",
+      "title": "Çağ Adli Tıp 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/adli-tip-donem-2",
+      "variantOf": "adli-tip",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "adli-tip-yillik",
+      "slug": "cag__adli-tip-yillik",
+      "title": "Çağ Adli Tıp Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/adli-tip-yillik",
+      "variantOf": "adli-tip",
+      "variantLabel": "Yıllık (Tam paket)"
     }
   ],
   "borclarGenelTripleAt": "2026-07-29T20:05:58.703Z",
@@ -124838,5 +128078,6 @@
   "romaHukukuTripleAt": "2026-07-29T21:35:13.772Z",
   "milletlerarasiHukukTripleAt": "2026-07-29T21:38:10.199Z",
   "hukukSosyolojisiTripleAt": "2026-07-29T21:41:19.291Z",
-  "isHukukuTripleAt": "2026-07-29T21:44:20.241Z"
+  "isHukukuTripleAt": "2026-07-29T21:44:20.241Z",
+  "adliTipTripleAt": "2026-07-29T21:47:28.757Z"
 }

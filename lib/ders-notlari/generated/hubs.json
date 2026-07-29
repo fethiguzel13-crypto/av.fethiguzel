@@ -960,6 +960,30 @@
         "href": "/ders-notlari/ankara-yildirim-beyazit/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -1943,6 +1967,30 @@
         "href": "/ders-notlari/ankara/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/ankara/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/ankara/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/ankara/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -2927,6 +2975,30 @@
         "href": "/ders-notlari/istanbul/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/istanbul/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/istanbul/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/istanbul/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -3909,6 +3981,30 @@
         "href": "/ders-notlari/marmara/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/marmara/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/marmara/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/marmara/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -4893,6 +4989,30 @@
         "href": "/ders-notlari/galatasaray/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/galatasaray/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/galatasaray/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/galatasaray/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -5876,6 +5996,30 @@
         "href": "/ders-notlari/dokuz-eylul/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/dokuz-eylul/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/dokuz-eylul/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/dokuz-eylul/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -6858,6 +7002,30 @@
         "href": "/ders-notlari/hacettepe/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/hacettepe/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/hacettepe/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/hacettepe/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -7841,6 +8009,30 @@
         "href": "/ders-notlari/ankara-hacibayram/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/ankara-hacibayram/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/ankara-hacibayram/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/ankara-hacibayram/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -8823,6 +9015,30 @@
         "href": "/ders-notlari/bilkent/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/bilkent/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/bilkent/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/bilkent/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -9806,6 +10022,30 @@
         "href": "/ders-notlari/koc/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/koc/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/koc/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/koc/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -10789,6 +11029,30 @@
         "href": "/ders-notlari/tobb-etu/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/tobb-etu/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/tobb-etu/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/tobb-etu/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -11771,6 +12035,30 @@
         "href": "/ders-notlari/bogazici/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/bogazici/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/bogazici/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/bogazici/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -12753,6 +13041,30 @@
         "href": "/ders-notlari/ege/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/ege/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/ege/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/ege/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -13735,6 +14047,30 @@
         "href": "/ders-notlari/akdeniz/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/akdeniz/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/akdeniz/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/akdeniz/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -14717,6 +15053,30 @@
         "href": "/ders-notlari/selcuk/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/selcuk/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/selcuk/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/selcuk/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -15699,6 +16059,30 @@
         "href": "/ders-notlari/erciyes/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/erciyes/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/erciyes/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/erciyes/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -16682,6 +17066,30 @@
         "href": "/ders-notlari/uludag/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/uludag/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/uludag/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/uludag/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -17664,6 +18072,30 @@
         "href": "/ders-notlari/cukurova/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/cukurova/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/cukurova/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/cukurova/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -18646,6 +19078,30 @@
         "href": "/ders-notlari/anadolu/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/anadolu/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/anadolu/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/anadolu/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -19629,6 +20085,30 @@
         "href": "/ders-notlari/gazi-ankara/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/gazi-ankara/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/gazi-ankara/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/gazi-ankara/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -20612,6 +21092,30 @@
         "href": "/ders-notlari/yildiz-teknik/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/yildiz-teknik/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/yildiz-teknik/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/yildiz-teknik/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -21594,6 +22098,30 @@
         "href": "/ders-notlari/istanbul-medeniyet/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/istanbul-medeniyet/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/istanbul-medeniyet/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/istanbul-medeniyet/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -22577,6 +23105,30 @@
         "href": "/ders-notlari/bahcesehir/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/bahcesehir/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/bahcesehir/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/bahcesehir/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -23559,6 +24111,30 @@
         "href": "/ders-notlari/yeditepe/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/yeditepe/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/yeditepe/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/yeditepe/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -24541,6 +25117,30 @@
         "href": "/ders-notlari/ozyegin/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/ozyegin/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/ozyegin/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/ozyegin/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -25523,6 +26123,30 @@
         "href": "/ders-notlari/kadir-has/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kadir-has/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kadir-has/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kadir-has/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -26505,6 +27129,30 @@
         "href": "/ders-notlari/istanbul-bilgi/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/istanbul-bilgi/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/istanbul-bilgi/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/istanbul-bilgi/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -27487,6 +28135,30 @@
         "href": "/ders-notlari/mehmet-akif/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/mehmet-akif/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/mehmet-akif/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/mehmet-akif/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -28469,6 +29141,30 @@
         "href": "/ders-notlari/altinbas/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/altinbas/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/altinbas/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/altinbas/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -29451,6 +30147,30 @@
         "href": "/ders-notlari/maltepe/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/maltepe/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/maltepe/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/maltepe/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -30433,6 +31153,30 @@
         "href": "/ders-notlari/dogus/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/dogus/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/dogus/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/dogus/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -31415,6 +32159,30 @@
         "href": "/ders-notlari/isik/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/isik/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/isik/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/isik/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -32397,6 +33165,30 @@
         "href": "/ders-notlari/okan/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/okan/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/okan/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/okan/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -33379,6 +34171,30 @@
         "href": "/ders-notlari/kultur/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kultur/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kultur/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kultur/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -34361,6 +35177,30 @@
         "href": "/ders-notlari/aydin/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/aydin/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/aydin/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/aydin/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -35343,6 +36183,30 @@
         "href": "/ders-notlari/gelisim/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/gelisim/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/gelisim/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/gelisim/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -36325,6 +37189,30 @@
         "href": "/ders-notlari/topkapi/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/topkapi/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/topkapi/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/topkapi/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -37307,6 +38195,30 @@
         "href": "/ders-notlari/nisantasi/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/nisantasi/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/nisantasi/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/nisantasi/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -38289,6 +39201,30 @@
         "href": "/ders-notlari/beykent/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/beykent/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/beykent/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/beykent/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -39271,6 +40207,30 @@
         "href": "/ders-notlari/halic/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/halic/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/halic/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/halic/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -40253,6 +41213,30 @@
         "href": "/ders-notlari/fatih-sultan/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/fatih-sultan/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/fatih-sultan/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/fatih-sultan/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -41236,6 +42220,30 @@
         "href": "/ders-notlari/karadeniz-teknik/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/karadeniz-teknik/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/karadeniz-teknik/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/karadeniz-teknik/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -42219,6 +43227,30 @@
         "href": "/ders-notlari/ataturk/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/ataturk/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/ataturk/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/ataturk/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -43201,6 +44233,30 @@
         "href": "/ders-notlari/inonu/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/inonu/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/inonu/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/inonu/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -44183,6 +45239,30 @@
         "href": "/ders-notlari/dicle/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/dicle/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/dicle/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/dicle/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -45165,6 +46245,30 @@
         "href": "/ders-notlari/firat/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/firat/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/firat/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/firat/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -46147,6 +47251,30 @@
         "href": "/ders-notlari/gaziantep/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/gaziantep/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/gaziantep/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/gaziantep/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -47130,6 +48258,30 @@
         "href": "/ders-notlari/suleyman-demirel/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/suleyman-demirel/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/suleyman-demirel/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/suleyman-demirel/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -48112,6 +49264,30 @@
         "href": "/ders-notlari/pamukkale/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/pamukkale/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/pamukkale/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/pamukkale/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -49094,6 +50270,30 @@
         "href": "/ders-notlari/mugla/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/mugla/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/mugla/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/mugla/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -50076,6 +51276,30 @@
         "href": "/ders-notlari/sakarya/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/sakarya/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/sakarya/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/sakarya/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -51058,6 +52282,30 @@
         "href": "/ders-notlari/kocaeli/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kocaeli/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kocaeli/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kocaeli/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -52040,6 +53288,30 @@
         "href": "/ders-notlari/trakya/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/trakya/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/trakya/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/trakya/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -53022,6 +54294,30 @@
         "href": "/ders-notlari/canakkale/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/canakkale/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/canakkale/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/canakkale/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -54004,6 +55300,30 @@
         "href": "/ders-notlari/balikesir/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/balikesir/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/balikesir/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/balikesir/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -54987,6 +56307,30 @@
         "href": "/ders-notlari/afyon/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/afyon/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/afyon/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/afyon/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -55969,6 +57313,30 @@
         "href": "/ders-notlari/dumlupinar/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/dumlupinar/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/dumlupinar/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/dumlupinar/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -56951,6 +58319,30 @@
         "href": "/ders-notlari/eskisehir-osmangazi/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/eskisehir-osmangazi/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/eskisehir-osmangazi/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/eskisehir-osmangazi/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -57934,6 +59326,30 @@
         "href": "/ders-notlari/sivas-cumhuriyet/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/sivas-cumhuriyet/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/sivas-cumhuriyet/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/sivas-cumhuriyet/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -58916,6 +60332,30 @@
         "href": "/ders-notlari/tokat/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/tokat/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/tokat/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/tokat/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -59898,6 +61338,30 @@
         "href": "/ders-notlari/yozgat/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/yozgat/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/yozgat/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/yozgat/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -60880,6 +62344,30 @@
         "href": "/ders-notlari/kirsehir/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kirsehir/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kirsehir/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kirsehir/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -61862,6 +63350,30 @@
         "href": "/ders-notlari/nevsehir/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/nevsehir/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/nevsehir/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/nevsehir/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -62844,6 +64356,30 @@
         "href": "/ders-notlari/mersin/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/mersin/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/mersin/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/mersin/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -63827,6 +65363,30 @@
         "href": "/ders-notlari/hatay/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/hatay/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/hatay/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/hatay/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -64809,6 +66369,30 @@
         "href": "/ders-notlari/kahramanmaras/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kahramanmaras/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kahramanmaras/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kahramanmaras/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -65791,6 +67375,30 @@
         "href": "/ders-notlari/osmaniye/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/osmaniye/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/osmaniye/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/osmaniye/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -66774,6 +68382,30 @@
         "href": "/ders-notlari/samsun/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/samsun/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/samsun/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/samsun/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -67756,6 +69388,30 @@
         "href": "/ders-notlari/ordu/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/ordu/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/ordu/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/ordu/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -68738,6 +70394,30 @@
         "href": "/ders-notlari/giresun/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/giresun/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/giresun/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/giresun/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -69721,6 +71401,30 @@
         "href": "/ders-notlari/rize/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/rize/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/rize/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/rize/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -70703,6 +72407,30 @@
         "href": "/ders-notlari/artvin/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/artvin/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/artvin/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/artvin/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -71687,6 +73415,30 @@
         "href": "/ders-notlari/van-yyu/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/van-yyu/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/van-yyu/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/van-yyu/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -72669,6 +74421,30 @@
         "href": "/ders-notlari/agri/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/agri/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/agri/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/agri/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -73651,6 +75427,30 @@
         "href": "/ders-notlari/kars/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kars/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kars/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kars/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -74633,6 +76433,30 @@
         "href": "/ders-notlari/erzincan/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/erzincan/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/erzincan/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/erzincan/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -75615,6 +77439,30 @@
         "href": "/ders-notlari/bayburt/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/bayburt/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/bayburt/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/bayburt/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -76597,6 +78445,30 @@
         "href": "/ders-notlari/gumushane/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/gumushane/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/gumushane/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/gumushane/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -77579,6 +79451,30 @@
         "href": "/ders-notlari/bingol/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/bingol/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/bingol/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/bingol/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -78561,6 +80457,30 @@
         "href": "/ders-notlari/mus/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/mus/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/mus/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/mus/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -79543,6 +81463,30 @@
         "href": "/ders-notlari/hakkari/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/hakkari/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/hakkari/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/hakkari/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -80525,6 +82469,30 @@
         "href": "/ders-notlari/sirnak/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/sirnak/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/sirnak/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/sirnak/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -81508,6 +83476,30 @@
         "href": "/ders-notlari/mardin/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/mardin/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/mardin/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/mardin/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -82490,6 +84482,30 @@
         "href": "/ders-notlari/batman/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/batman/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/batman/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/batman/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -83472,6 +85488,30 @@
         "href": "/ders-notlari/siirt/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/siirt/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/siirt/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/siirt/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -84454,6 +86494,30 @@
         "href": "/ders-notlari/adiyaman/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/adiyaman/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/adiyaman/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/adiyaman/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -85436,6 +87500,30 @@
         "href": "/ders-notlari/kilis/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kilis/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kilis/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kilis/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -86418,6 +88506,30 @@
         "href": "/ders-notlari/igdir/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/igdir/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/igdir/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/igdir/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -87400,6 +89512,30 @@
         "href": "/ders-notlari/ardahan/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/ardahan/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/ardahan/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/ardahan/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -88382,6 +90518,30 @@
         "href": "/ders-notlari/bilecik/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/bilecik/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/bilecik/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/bilecik/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -89365,6 +91525,30 @@
         "href": "/ders-notlari/bolu/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/bolu/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/bolu/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/bolu/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -90347,6 +92531,30 @@
         "href": "/ders-notlari/duzce/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/duzce/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/duzce/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/duzce/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -91329,6 +93537,30 @@
         "href": "/ders-notlari/zonguldak/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/zonguldak/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/zonguldak/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/zonguldak/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -92311,6 +94543,30 @@
         "href": "/ders-notlari/karabuk/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/karabuk/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/karabuk/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/karabuk/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -93293,6 +95549,30 @@
         "href": "/ders-notlari/kastamonu/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kastamonu/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kastamonu/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kastamonu/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -94275,6 +96555,30 @@
         "href": "/ders-notlari/sinop/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/sinop/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/sinop/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/sinop/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -95258,6 +97562,30 @@
         "href": "/ders-notlari/corum/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/corum/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/corum/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/corum/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -96240,6 +98568,30 @@
         "href": "/ders-notlari/amasya/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/amasya/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/amasya/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/amasya/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -97222,6 +99574,30 @@
         "href": "/ders-notlari/cankiri/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/cankiri/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/cankiri/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/cankiri/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -98204,6 +100580,30 @@
         "href": "/ders-notlari/kirikkale/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kirikkale/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kirikkale/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kirikkale/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -99186,6 +101586,30 @@
         "href": "/ders-notlari/aksaray/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/aksaray/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/aksaray/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/aksaray/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -100168,6 +102592,30 @@
         "href": "/ders-notlari/nigde/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/nigde/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/nigde/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/nigde/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -101150,6 +103598,30 @@
         "href": "/ders-notlari/konya-teknik/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/konya-teknik/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/konya-teknik/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/konya-teknik/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -102132,6 +104604,30 @@
         "href": "/ders-notlari/karaman/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/karaman/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/karaman/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/karaman/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -103114,6 +105610,30 @@
         "href": "/ders-notlari/usak/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/usak/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/usak/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/usak/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -104097,6 +106617,30 @@
         "href": "/ders-notlari/manisa/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/manisa/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/manisa/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/manisa/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -105079,6 +107623,30 @@
         "href": "/ders-notlari/aydin-adu/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/aydin-adu/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/aydin-adu/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/aydin-adu/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -106061,6 +108629,30 @@
         "href": "/ders-notlari/tekirdag/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/tekirdag/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/tekirdag/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/tekirdag/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -107043,6 +109635,30 @@
         "href": "/ders-notlari/kirklareli/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/kirklareli/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/kirklareli/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/kirklareli/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -108025,6 +110641,30 @@
         "href": "/ders-notlari/atilim/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/atilim/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/atilim/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/atilim/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -109007,6 +111647,30 @@
         "href": "/ders-notlari/cankaya/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/cankaya/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/cankaya/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/cankaya/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -109989,6 +112653,30 @@
         "href": "/ders-notlari/ufuk/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/ufuk/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/ufuk/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/ufuk/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -110971,6 +113659,30 @@
         "href": "/ders-notlari/yasar/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/yasar/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/yasar/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/yasar/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -111953,6 +114665,30 @@
         "href": "/ders-notlari/izmir-ekonomi/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/izmir-ekonomi/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/izmir-ekonomi/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/izmir-ekonomi/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -112935,6 +115671,30 @@
         "href": "/ders-notlari/tinaztepe/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/tinaztepe/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/tinaztepe/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/tinaztepe/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -113917,6 +116677,30 @@
         "href": "/ders-notlari/asbu-vakif/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/asbu-vakif/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/asbu-vakif/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/asbu-vakif/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -114899,6 +117683,30 @@
         "href": "/ders-notlari/hasan-kalyoncu/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/hasan-kalyoncu/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/hasan-kalyoncu/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/hasan-kalyoncu/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -115881,6 +118689,30 @@
         "href": "/ders-notlari/sanko/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/sanko/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/sanko/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/sanko/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -116863,6 +119695,30 @@
         "href": "/ders-notlari/toros/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/toros/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/toros/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/toros/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
@@ -117845,6 +120701,30 @@
         "href": "/ders-notlari/cag/is-hukuku-yillik",
         "ready": true,
         "variantOf": "is-hukuku"
+      },
+      {
+        "code": "adli-tip-donem-1",
+        "title": "Adli Tıp — 1. Dönem (Güz)",
+        "year": 3,
+        "href": "/ders-notlari/cag/adli-tip-donem-1",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-donem-2",
+        "title": "Adli Tıp — 2. Dönem (Bahar)",
+        "year": 3,
+        "href": "/ders-notlari/cag/adli-tip-donem-2",
+        "ready": true,
+        "variantOf": "adli-tip"
+      },
+      {
+        "code": "adli-tip-yillik",
+        "title": "Adli Tıp — Yıllık Tam Not",
+        "year": 3,
+        "href": "/ders-notlari/cag/adli-tip-yillik",
+        "ready": true,
+        "variantOf": "adli-tip"
       }
     ],
     "seoParagraphs": [
