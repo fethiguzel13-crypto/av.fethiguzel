@@ -66,7 +66,14 @@ export default function robots(): MetadataRoute.Robots {
                 disallow: ['/api/'],
             },
         ],
-        sitemap: [`${base}/sitemap.xml`, `${base}/images-sitemap.xml`],
+        // Next generateSitemaps → index at /sitemap.xml (+ /sitemap/0..2.xml)
+        sitemap: [
+            `${base}/sitemap.xml`,
+            `${base}/sitemap/0.xml`,
+            `${base}/sitemap/1.xml`,
+            `${base}/sitemap/2.xml`,
+            `${base}/images-sitemap.xml`,
+        ],
         host: base,
     };
 }

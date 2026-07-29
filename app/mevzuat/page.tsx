@@ -59,12 +59,55 @@ export default async function MevzuatPage() {
           <div className="max-w-3xl mx-auto mb-6">
             <MevzuatSearch compact />
           </div>
-          <Link
-            href="/ara"
-            className="inline-flex items-center gap-2 text-xs font-bold tracking-widest uppercase text-accent hover:underline"
-          >
-            <Search size={14} /> Tam ekran arama
-          </Link>
+          <div className="flex flex-wrap justify-center gap-3 mb-8">
+            <Link
+              href="/ara"
+              className="inline-flex items-center gap-2 text-xs font-bold tracking-widest uppercase text-accent hover:underline"
+            >
+              <Search size={14} /> Tam ekran arama
+            </Link>
+            <Link
+              href="/bilgi"
+              className="inline-flex items-center gap-2 text-xs font-bold tracking-widest uppercase text-charcoal/55 hover:text-accent"
+            >
+              Vatandaş rehberi (550+)
+            </Link>
+          </div>
+          {/* Google exact-match crawl paths: TBK 13, TBK 1, … */}
+          <section className="max-w-4xl mx-auto mb-12 text-left rounded-2xl border border-charcoal/8 bg-white/70 p-5 sm:p-6">
+            <h2 className="text-sm font-bold uppercase tracking-widest text-accent mb-3">
+              Sık aranan kanun maddeleri
+            </h2>
+            <p className="text-sm text-charcoal/55 mb-4">
+              «TBK 13», «TBK madde 1», «TCK 86» gibi aramalar için doğrudan sayfalar — Av. Fethi Güzel.
+            </p>
+            <ul className="flex flex-wrap gap-2">
+              {[
+                { label: 'TBK 1', href: '/mevzuat/tbk/madde-1' },
+                { label: 'TBK 13', href: '/mevzuat/tbk/madde-13' },
+                { label: 'TBK 49', href: '/mevzuat/tbk/madde-49' },
+                { label: 'TBK 112', href: '/mevzuat/tbk/madde-112' },
+                { label: 'TBK 125', href: '/mevzuat/tbk/madde-125' },
+                { label: 'TMK 1', href: '/mevzuat/tmk/madde-1' },
+                { label: 'TMK 166', href: '/mevzuat/tmk/madde-166' },
+                { label: 'TCK 86', href: '/mevzuat/tck/madde-86' },
+                { label: 'HMK 119', href: '/mevzuat/hmk/madde-119' },
+                { label: 'İİK 62', href: '/mevzuat/iik/madde-62' },
+                { label: 'Tüm TBK', href: '/mevzuat/tbk' },
+                { label: 'Tüm TMK', href: '/mevzuat/tmk' },
+                { label: 'Tüm TCK', href: '/mevzuat/tck' },
+              ].map((item) => (
+                <li key={item.href}>
+                  <Link
+                    href={item.href}
+                    className="inline-block text-sm px-3 py-1.5 rounded-full bg-cream border border-charcoal/10 font-semibold text-charcoal hover:border-accent hover:text-accent"
+                  >
+                    {item.label}
+                  </Link>
+                </li>
+              ))}
+            </ul>
+          </section>
         </header>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">

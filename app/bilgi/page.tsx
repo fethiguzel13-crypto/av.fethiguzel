@@ -11,10 +11,11 @@ import { BookOpen } from 'lucide-react';
 const SITE = 'https://www.avfethiguzel.com';
 
 export const metadata: Metadata = {
-  title: 'Vatandaş Bilgi Rehberi | 500+ Sık Aranan Hukuki Konu',
+  title: 'Vatandaş Bilgi Rehberi | 553 Hukuki Konu | Av. Fethi Güzel',
   description:
-    '500+ vatandaş rehberi: emlak vergisi, veraset, boşanma, icra, kira, kıdem, trafik cezası, kanun maddesi, e-Devlet ve Google’da en çok aranan hukuki konular. Av. Fethi Güzel.',
+    '553 vatandaş bilgilendirme sayfası: emlak vergisi, veraset, boşanma, icra, kira, kıdem, trafik cezası, kanun maddesi, e-Devlet. Sade anlatım — Av. Fethi Güzel Hukuk Portalı.',
   keywords: [
+    'vatandaş bilgi rehberi',
     'hukuki bilgi',
     'vatandaş rehberi',
     'sık sorulan hukuki sorular',
@@ -23,14 +24,19 @@ export const metadata: Metadata = {
     'icra takibi',
     'kıdem tazminatı',
     'boşanma davası',
+    'Av. Fethi Güzel',
   ],
   alternates: { canonical: `${SITE}/bilgi` },
   openGraph: {
-    title: 'Vatandaş Bilgi Rehberi | 500+ Konu',
-    description: 'Google’da en çok aranan 500+ hukuki ve idari konuda sade, detaylı bilgilendirme.',
+    title: 'Vatandaş Bilgi Rehberi | 553 Konu | Av. Fethi Güzel',
+    description: 'Google’da aranan 553 hukuki ve idari konuda sade, detaylı bilgilendirme.',
     url: `${SITE}/bilgi`,
   },
-  robots: { index: true, follow: true },
+  robots: {
+    index: true,
+    follow: true,
+    googleBot: { index: true, follow: true, 'max-snippet': -1, 'max-image-preview': 'large' },
+  },
 };
 
 function roleRank(role?: string) {

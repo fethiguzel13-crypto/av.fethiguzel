@@ -1,0 +1,95 @@
+/**
+ * IndexNow — Bing/Yandex/Seznam anında URL bildirimi.
+ * Google IndexNow'u desteklemez; GSC URL Denetimi ayrıca gerekir.
+ *
+ * Run: node scripts/indexnow-submit.mjs
+ * Optional: node scripts/indexnow-submit.mjs --all-priority
+ */
+import https from 'node:https';
+
+const HOST = 'www.avfethiguzel.com';
+const KEY = 'fethiguzel-indexnow-2026-07-29-avfethiguzel';
+const KEY_LOC = `https://${HOST}/indexnow-key.txt`;
+
+const PRIORITY = [
+  `https://${HOST}/`,
+  `https://${HOST}/mevzuat`,
+  `https://${HOST}/mevzuat/tbk`,
+  `https://${HOST}/mevzuat/tbk/madde-1`,
+  `https://${HOST}/mevzuat/tbk/madde-13`,
+  `https://${HOST}/mevzuat/tbk/madde-49`,
+  `https://${HOST}/mevzuat/tbk/madde-112`,
+  `https://${HOST}/mevzuat/tbk/madde-125`,
+  `https://${HOST}/mevzuat/tmk`,
+  `https://${HOST}/mevzuat/tmk/madde-1`,
+  `https://${HOST}/mevzuat/tck/madde-86`,
+  `https://${HOST}/mevzuat/hmk/madde-119`,
+  `https://${HOST}/ara`,
+  `https://${HOST}/bilgi`,
+  `https://${HOST}/bilgi/emlak-vergisi-nedir`,
+  `https://${HOST}/bilgi/kidem-tazminati-nasil-alinir`,
+  `https://${HOST}/bilgi/bosanma-davasi-nasil-acilir`,
+  `https://${HOST}/bilgi/icra-takibi-nedir`,
+  `https://${HOST}/bilgi/kira-artis-orani-nasil-hesaplanir`,
+  `https://${HOST}/bilgi/nafaka-davasi-nedir`,
+  `https://${HOST}/bilgi/arabuluculuk-nasil-yapilir`,
+  `https://${HOST}/bilgi/trafik-cezasina-itiraz`,
+  `https://${HOST}/bilgi/hukuk-davasi-nasil-acilir`,
+  `https://${HOST}/hesaplama/kidem`,
+  `https://${HOST}/avukat-fethi-guzel`,
+];
+
+// First 80 TBK maddeleri — crawl seed
+for (let n = 1; n <= 80; n++) {
+  PRIORITY.push(`https://${HOST}/mevzuat/tbk/madde-${n}`);
+}
+
+const urlList = [...new Set(PRIORITY)];
+
+function post(endpoint, body) {
+  return new Promise((resolve, reject) => {
+    const u = new URL(endpoint);
+    const data = JSON.stringify(body);
+    const req = https.request(
+      {
+        hostname: u.hostname,
+        path: u.pathname,
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json; charset=utf-8',
+          'Content-Length': Buffer.byteLength(data),
+        },
+      },
+      (res) => {
+        let d = '';
+        res.on('data', (c) => (d += c));
+        res.on('end', () => resolve({ status: res.statusCode, body: d.slice(0, 200) }));
+      }
+    );
+    req.on('error', reject);
+    req.write(data);
+    req.end();
+  });
+}
+
+const payload = {
+  host: HOST,
+  key: KEY,
+  keyLocation: KEY_LOC,
+  urlList,
+};
+
+console.log(`[indexnow] submitting ${urlList.length} URLs…`);
+for (const ep of [
+  'https://api.indexnow.org/indexnow',
+  'https://www.bing.com/indexnow',
+  'https://yandex.com/indexnow',
+]) {
+  try {
+    const r = await post(ep, payload);
+    console.log(ep, r.status, r.body);
+  } catch (e) {
+    console.warn(ep, e.message);
+  }
+}
+console.log('[indexnow] done — Google için Search Console URL Denetimi kullanın.');

@@ -132,19 +132,20 @@ function buildHtml(kanunId: string, id: string, article: PackArticle): string {
   const code = kanunId.toUpperCase();
   const n = article.maddeNo;
   const kanun = article.kanun || code;
-  const h1 = (article.title || `${kanun} Madde ${n}`).trim();
   const officialPlain = plain(article.official);
   const lead = officialPlain
     .replace(/^.*?Madde\s+\d+\s*[-–—:]?\s*/i, '')
     .trim()
     .slice(0, 130);
-  const title =
-    lead.length > 8
-      ? `${code} Madde ${n} (${code} m. ${n}) ${lead.slice(0, 40)} | Av. Fethi Güzel`
-      : `${code} Madde ${n} | ${code} m. ${n} Resmî Metin ve Şerh | Av. Fethi Güzel`;
+  const shortLead = lead.length > 12 ? lead.slice(0, 42).replace(/\s+\S*$/, '') : '';
+  // Exact query first: "TBK 13"
+  const title = shortLead
+    ? `${code} ${n} | ${code} Madde ${n} (m. ${n}) — ${shortLead} | Av. Fethi Güzel`
+    : `${code} ${n} | ${code} Madde ${n} (m. ${n}) Resmî Metin ve Şerh | Av. Fethi Güzel`;
   const description = lead
-    ? `${code} madde ${n} / ${code} m. ${n} (${kanun}): ${lead}${lead.length >= 120 ? '…' : ''} Akademik şerh — Av. Fethi Güzel.`
-    : `${kanun} Madde ${n} (${code} m. ${n}) resmî metni ve akademik şerh. Av. Fethi Güzel.`;
+    ? `${code} ${n} / ${code} madde ${n} / ${code} m. ${n} (${kanun}): ${lead}${lead.length >= 120 ? '…' : ''} Resmî metin + akademik şerh — Av. Fethi Güzel.`
+    : `${code} ${n} — ${kanun} Madde ${n} (${code} m. ${n}) resmî metni ve akademik şerh. Av. Fethi Güzel.`;
+  const h1 = `${code} ${n} — ${code} Madde ${n} (${code} m. ${n})`;
   const canonical = `${SITE}/mevzuat/${kanunId}/${id}`;
   // Cap commentary size for response weight (full text still huge for SEO snippet)
   const commentarySrc = String(article.commentary || '');
@@ -163,12 +164,13 @@ function buildHtml(kanunId: string, id: string, article: PackArticle): string {
     '@graph': [
       {
         '@type': 'Article',
-        headline: `${code} Madde ${n} | ${code} m. ${n}`,
+        headline: `${code} ${n} | ${code} Madde ${n}`,
         name: `${code} Madde ${n}`,
         alternateName: [
+          `${code} ${n}`,
           `${code} m. ${n}`,
           `${code} m ${n}`,
-          `${code} ${n}`,
+          `${code} madde ${n}`,
           `${code} Madde ${n}`,
         ],
         description,
@@ -223,7 +225,7 @@ function buildHtml(kanunId: string, id: string, article: PackArticle): string {
 <meta name="description" content="${esc(description)}"/>
 <meta name="robots" content="index,follow,max-snippet:-1,max-image-preview:large"/>
 <meta name="author" content="Av. Fethi Güzel"/>
-<meta name="keywords" content="${esc(`${code} madde ${n}, ${code} m. ${n}, ${code} m ${n}, ${code} ${n}, ${kanun} madde ${n}, Av. Fethi Güzel, Fethi Güzel, kanun maddesi, akademik şerh`)}"/>
+<meta name="keywords" content="${esc(`${code} ${n}, ${code} madde ${n}, ${code} m. ${n}, ${code} m ${n}, ${code} Madde ${n}, ${kanun} madde ${n}, Av. Fethi Güzel, Fethi Güzel, kanun maddesi, akademik şerh`)}"/>
 <link rel="canonical" href="${canonical}"/>
 <meta property="og:type" content="article"/>
 <meta property="og:locale" content="tr_TR"/>
@@ -269,12 +271,12 @@ h1{font-size:clamp(1.45rem,3vw,2rem);line-height:1.22;margin:.45rem 0 0;font-wei
 <a href="${SITE}/ara?q=${encodeURIComponent(code + ' madde ' + n)}">${code}</a> ·
 Madde ${n}
 </nav>
-<p class="badge">${esc(kanun)}</p>
+<p class="badge">${esc(kanun)} · ${code} ${n}</p>
 <h1>${esc(h1)}</h1>
 <p class="muted" style="margin-top:.8rem">
-Bu sayfada <strong>${code} madde ${n}</strong> (<strong>${code} m. ${n}</strong>,
-<strong>${code} m ${n}</strong>, <strong>${code} ${n}</strong>)
-resmî hükmü ile akademik şerhi yer alır — <strong>Av. Fethi Güzel</strong> Hukuk Portalı.
+Arama adları: <strong>${code} ${n}</strong> · <strong>${code} madde ${n}</strong> ·
+<strong>${code} m. ${n}</strong> · <strong>${code} m ${n}</strong>
+— resmî metin ve akademik şerh: <strong>Av. Fethi Güzel</strong> Hukuk Portalı.
 </p>
 <section class="box off">
 <p style="font-size:.68rem;letter-spacing:.16em;text-transform:uppercase;opacity:.88;margin:0 0 .8rem">Resmî metin — ${code} Madde ${n}</p>

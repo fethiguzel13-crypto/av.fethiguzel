@@ -19,6 +19,8 @@
     "vatandas:depth": "node scripts/vatandas-depth-gate.mjs",
     "vatandas:analyze": "node scripts/analyze-seo-content.mjs",
     "seo:verify-live": "node scripts/verify-live-seo.mjs",
+    "seo:indexnow": "node scripts/indexnow-submit.mjs",
+    "seo:madde-html": "node scripts/build-seo-madde-html.mjs",
     "social:draft": "node scripts/social-draft.js",
     "social:seed": "node scripts/social-draft-seed.js",
     "social:publish": "node scripts/social-publish.js",

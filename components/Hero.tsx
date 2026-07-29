@@ -8,6 +8,7 @@ import { ArrowRight, Calculator, BookOpen, Scale } from 'lucide-react';
 const STAT_ITEMS = [
   { num: '45+', label: 'Kanun' },
   { num: '7800+', label: 'Madde + Şerh' },
+  { num: '550+', label: 'Vatandaş Rehberi' },
   { num: '30', label: 'Hukuki Araç' },
 ];
 
@@ -117,10 +118,16 @@ export default function Hero() {
               <span>HESAPLAMA</span>
             </Link>
             <Link
-              href="/mevzuat"
+              href="/bilgi"
+              className="group flex items-center justify-center gap-2 sm:gap-3 bg-transparent text-cream/85 border border-cream/20 px-6 py-3.5 sm:py-4 rounded-full font-bold text-sm transition-all hover:text-cream hover:border-cream/40"
+            >
+              <span>VATANDAŞ REHBERİ</span>
+            </Link>
+            <Link
+              href="/mevzuat/tbk"
               className="group flex items-center justify-center gap-2 sm:gap-3 bg-transparent text-cream/75 border border-cream/15 px-6 py-3.5 sm:py-4 rounded-full font-bold text-sm transition-all hover:text-cream hover:border-cream/30"
             >
-              <span>TÜM KANUNLAR</span>
+              <span>TBK MADDELERİ</span>
             </Link>
             <Link
               href="/#iletisim"
