@@ -22,8 +22,8 @@ import { gunzipSync } from 'node:zlib';
 
 const root = join(dirname(fileURLToPath(import.meta.url)), '..');
 const OUT = join(root, 'public', 'data', 'm');
-/** Full resmi + enough şerh for Google; keeps deploy lean */
-const MAX_COMMENTARY = 10000;
+/** Tam şerh — kesilmez (portalın kendisi tam metni sunar) */
+const MAX_COMMENTARY = Number.MAX_SAFE_INTEGER;
 
 function loadPack(kanunId) {
   const candidates = [
@@ -62,10 +62,8 @@ function listKanunIds() {
 function clip(s, max) {
   const t = String(s || '');
   if (t.length <= max) return t;
-  return (
-    t.slice(0, max).trimEnd() +
-    '\n\n… (devamı portal arşivinde; bilgilendirme amaçlı özet şerh)'
-  );
+  // Yalnız aşırı büyük edge-case: cümle sınırında kes, “arşivde” deme
+  return t.slice(0, max).replace(/\s+\S*$/, '').trimEnd();
 }
 
 if (existsSync(OUT)) {

@@ -30,16 +30,20 @@ if (existsSync(indexPath)) {
     console.warn('[prebuild-safe] no index — run: npm run build:index');
 }
 
-// Compact crawlable HTML for every madde (Google). Generated at build — NOT committed
-// (150MB git commit failed Vercel; prebuild artifact is fine).
-const r = spawnSync(process.execPath, [join(root, 'scripts', 'build-seo-madde-html.mjs')], {
-    cwd: root,
-    stdio: 'inherit',
-    env: process.env,
-});
-if (r.status !== 0) {
-    console.error('[prebuild-safe] build-seo-madde-html failed');
-    process.exit(r.status || 1);
+// Madde HTML artık Node route ile tam şerh sunulur (next.config rewrite kaldırıldı).
+// İsteğe bağlı statik üretim: FULL_SEO_MADDE_HTML=1 ile açılır (büyük artifact).
+if (process.env.FULL_SEO_MADDE_HTML === '1') {
+    const r = spawnSync(process.execPath, [join(root, 'scripts', 'build-seo-madde-html.mjs')], {
+        cwd: root,
+        stdio: 'inherit',
+        env: process.env,
+    });
+    if (r.status !== 0) {
+        console.error('[prebuild-safe] build-seo-madde-html failed');
+        process.exit(r.status || 1);
+    }
+} else {
+    console.log('[prebuild-safe] skip seo-madde static HTML (route serves full şerh)');
 }
 
 const r2 = spawnSync(process.execPath, [join(root, 'scripts', 'build-priority-sitemap.mjs')], {

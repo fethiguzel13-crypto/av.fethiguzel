@@ -33,17 +33,23 @@ function escapeHtml(s) {
 }
 
 function mdLite(md) {
-  // Minimal markdown → HTML for crawlers (no marked dep in prebuild)
-  let t = String(md || '');
+  // Minimal markdown → HTML (#### ve altı dahil; uzun başlıklar önce)
+  let t = String(md || '').replace(/\r\n/g, '\n');
   t = t.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
-  t = t.replace(/^### (.+)$/gm, '<h3>$1</h3>');
-  t = t.replace(/^## (.+)$/gm, '<h2>$1</h2>');
-  t = t.replace(/^# (.+)$/gm, '<h1>$1</h1>');
+  // #### 2. Maddedeki Kavram → <h4>…</h4> (ham ### kalmasın)
+  t = t.replace(/^######\s+(.+?)\s*#*\s*$/gm, '<h6>$1</h6>');
+  t = t.replace(/^#####\s+(.+?)\s*#*\s*$/gm, '<h5>$1</h5>');
+  t = t.replace(/^####\s+(.+?)\s*#*\s*$/gm, '<h4>$1</h4>');
+  t = t.replace(/^###\s+(.+?)\s*#*\s*$/gm, '<h3>$1</h3>');
+  t = t.replace(/^##\s+(.+?)\s*#*\s*$/gm, '<h2>$1</h2>');
+  t = t.replace(/^#\s+(.+?)\s*#*\s*$/gm, '<h1>$1</h1>');
+  // Satır ortasında kalmış ham #### kalıntısı
+  t = t.replace(/(^|\n)\s*#{1,6}\s+/g, '$1');
   t = t.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
   t = t.replace(/\*(.+?)\*/g, '<em>$1</em>');
   t = t.replace(/\n{2,}/g, '</p><p>');
   t = t.replace(/\n/g, '<br/>');
-  return `<p>${t}</p>`;
+  return `<div class="prose">${t.startsWith('<h') ? t : `<p>${t}</p>`}</div>`;
 }
 
 function plain(md) {
@@ -105,16 +111,11 @@ function pageHtml({ kanunId, id, article, prevId, nextId }) {
   const canonical = `${SITE}/mevzuat/${kanunId}/${id}`;
   const hubUrl = `${SITE}/mevzuat/${kanunId}`;
   const officialHtml = mdLite(article.official);
-  // Cap şerh hard for deploy size (8087 pages must stay under Vercel artifact limits)
-  const rawComm = String(article.commentary || '');
-  const clipped =
-    rawComm.length > 2800
-      ? rawComm.slice(0, 2800) +
-        '\n\n… (tam şerh portal arşivinde — Av. Fethi Güzel)'
-      : rawComm;
-  const commentaryHtml = clipped
-    ? mdLite(clipped)
-    : '<p>Bu madde için şerh metni paketle birlikte sunulur.</p>';
+  // Tam şerh — bu sayfa zaten portalın kendisi; kesme / “arşivde” notu yok
+  const rawComm = String(article.commentary || '').trim();
+  const commentaryHtml = rawComm
+    ? mdLite(rawComm)
+    : '<p>Bu madde için şerh metni henüz eklenmemiştir.</p>';
 
   const keywords = [
     `${code} ${n}`,
@@ -238,6 +239,10 @@ main{max-width:42rem;margin:0 auto;padding:2rem 1.1rem 3rem}
 .off{background:linear-gradient(135deg,#2E4036,#24352c);color:#FFFEFA}
 .com{background:#FFFEFA;border:1px solid rgba(0,0,0,.08)}
 h1{font-size:1.55rem;line-height:1.25;margin:.4rem 0 0;font-weight:800}
+.prose h2,.prose h3,.prose h4,.prose h5,.prose h6{font-weight:700;line-height:1.3;margin:1.15rem 0 .45rem;color:#1C1C1C}
+.prose h2{font-size:1.15rem}.prose h3{font-size:1.05rem}.prose h4{font-size:1rem;color:#2a2a2a}
+.prose h5,.prose h6{font-size:.95rem;color:#333}
+.prose p{margin:.55rem 0}.prose strong{font-weight:700}
 .muted{color:rgba(28,28,28,.55);font-size:.9rem}
 .nav{font-size:.8rem;color:rgba(28,28,28,.5);margin-bottom:1rem}
 .pager{display:flex;flex-wrap:wrap;gap:1rem;justify-content:space-between;margin:1.25rem 0;font-size:.9rem;font-weight:600}

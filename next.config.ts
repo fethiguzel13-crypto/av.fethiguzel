@@ -64,14 +64,9 @@ const nextConfig: NextConfig = {
     ];
   },
   async rewrites() {
-    return {
-      beforeFiles: [
-        {
-          source: "/mevzuat/:kanunId/:id",
-          destination: "/seo-madde/:kanunId/:id.html",
-        },
-      ],
-    };
+    // Madde sayfaları: Node route (app/mevzuat/[kanunId]/[id]/route.ts) — tam şerh.
+    // Eski beforeFiles → /seo-madde/*.html kesik özet veriyordu ("portal arşivinde…"); kaldırıldı.
+    return { beforeFiles: [], afterFiles: [], fallback: [] };
   },
   outputFileTracingIncludes: {
     "*": [

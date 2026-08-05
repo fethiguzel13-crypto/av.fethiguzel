@@ -55,16 +55,20 @@ function plain(md: string) {
 }
 
 function mdLite(md: string) {
-  let t = String(md || '');
+  let t = String(md || '').replace(/\r\n/g, '\n');
   t = t.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
-  t = t.replace(/^### (.+)$/gm, '<h3>$1</h3>');
-  t = t.replace(/^## (.+)$/gm, '<h2>$1</h2>');
-  t = t.replace(/^# (.+)$/gm, '<h1>$1</h1>');
+  t = t.replace(/^######\s+(.+?)\s*#*\s*$/gm, '<h6>$1</h6>');
+  t = t.replace(/^#####\s+(.+?)\s*#*\s*$/gm, '<h5>$1</h5>');
+  t = t.replace(/^####\s+(.+?)\s*#*\s*$/gm, '<h4>$1</h4>');
+  t = t.replace(/^###\s+(.+?)\s*#*\s*$/gm, '<h3>$1</h3>');
+  t = t.replace(/^##\s+(.+?)\s*#*\s*$/gm, '<h2>$1</h2>');
+  t = t.replace(/^#\s+(.+?)\s*#*\s*$/gm, '<h1>$1</h1>');
+  t = t.replace(/(^|\n)\s*#{1,6}\s+/g, '$1');
   t = t.replace(/\*\*(.+?)\*\*/g, '<strong>$1</strong>');
   t = t.replace(/\*(.+?)\*/g, '<em>$1</em>');
   t = t.replace(/\n{2,}/g, '</p><p>');
   t = t.replace(/\n/g, '<br/>');
-  return `<p>${t}</p>`;
+  return `<div class="prose">${t.startsWith('<h') ? t : `<p>${t}</p>`}</div>`;
 }
 
 async function loadPack(kanunId: string, origin: string): Promise<Pack> {
@@ -147,17 +151,12 @@ function buildHtml(kanunId: string, id: string, article: PackArticle): string {
     : `${code} ${n} — ${kanun} Madde ${n} (${code} m. ${n}) resmî metni ve akademik şerh. Av. Fethi Güzel.`;
   const h1 = `${code} ${n} — ${code} Madde ${n} (${code} m. ${n})`;
   const canonical = `${SITE}/mevzuat/${kanunId}/${id}`;
-  // Cap commentary size for response weight (full text still huge for SEO snippet)
-  const commentarySrc = String(article.commentary || '');
-  const commentary =
-    commentarySrc.length > 14000
-      ? commentarySrc.slice(0, 14000) +
-        '\n\n… (tam metin portal arşivinde)'
-      : commentarySrc;
+  // Tam şerh — kesme yok (sayfa zaten portalın kendisi)
+  const commentary = String(article.commentary || '').trim();
   const officialHtml = mdLite(article.official);
   const commentaryHtml = commentary
     ? mdLite(commentary)
-    : '<p>Bu madde için şerh pakette yer alır.</p>';
+    : '<p>Bu madde için şerh henüz eklenmemiştir.</p>';
 
   const jsonLd = {
     '@context': 'https://schema.org',
@@ -246,6 +245,10 @@ main{max-width:42rem;margin:0 auto;padding:1.75rem 1.1rem 3rem}
 .off{background:linear-gradient(145deg,#2E4036,#1f2e26);color:#FFFEFA}
 .com{background:#FFFEFA;border:1px solid rgba(0,0,0,.08)}
 h1{font-size:clamp(1.45rem,3vw,2rem);line-height:1.22;margin:.45rem 0 0;font-weight:800}
+.prose h2,.prose h3,.prose h4,.prose h5,.prose h6{font-weight:700;line-height:1.3;margin:1.15rem 0 .45rem;color:#1C1C1C}
+.prose h2{font-size:1.15rem}.prose h3{font-size:1.05rem}.prose h4{font-size:1rem}
+.prose h5,.prose h6{font-size:.95rem}
+.prose p{margin:.55rem 0}
 .muted{color:rgba(28,28,28,.55);font-size:.9rem}
 .nav{font-size:.78rem;color:rgba(28,28,28,.5);margin-bottom:1rem}
 .topbar{display:flex;flex-wrap:wrap;gap:.75rem;justify-content:space-between;align-items:center;padding:.85rem 1.1rem;background:rgba(244,241,234,.95);border-bottom:1px solid rgba(0,0,0,.07);position:sticky;top:0;z-index:5}
