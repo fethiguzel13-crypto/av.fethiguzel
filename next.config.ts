@@ -84,6 +84,7 @@ const nextConfig: NextConfig = {
     ],
     // Ders notları — SSG dışında runtime fallback için dosya erişimi
     "/ders-notlari/[uni]/[ders]": ["./lib/ders-notlari/generated/notes/**/*"],
+    "/ders-notlari/[uni]/[ders]/pdf": ["./lib/ders-notlari/generated/notes/**/*"],
     "/ders-notlari/[uni]": ["./lib/ders-notlari/generated/**/*"],
   },
   async headers() {

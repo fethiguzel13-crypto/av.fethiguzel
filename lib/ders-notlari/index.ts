@@ -45,13 +45,15 @@ const NOTES_DIR = path.join(
   'notes'
 );
 
-export function getHub(uniSlug: string): UniHubContent | undefined {
-  return DERS_NOTLARI_HUBS.find((h) => h.uni.slug === uniSlug);
+function sanitizeSlug(s: string): string {
+  return String(s || '')
+    .toLowerCase()
+    .replace(/[^a-z0-9-]/g, '');
 }
 
-export function getNote(uniSlug: string, courseCode: string): CourseNote | undefined {
-  const safeUni = String(uniSlug || '').replace(/[^a-z0-9-]/g, '');
-  const safeCourse = String(courseCode || '').replace(/[^a-z0-9-]/g, '');
+function readNoteFile(uniSlug: string, courseCode: string): CourseNote | undefined {
+  const safeUni = sanitizeSlug(uniSlug);
+  const safeCourse = sanitizeSlug(courseCode);
   if (!safeUni || !safeCourse) return undefined;
   const file = path.join(NOTES_DIR, `${safeUni}__${safeCourse}.json`);
   if (!fs.existsSync(file)) return undefined;
@@ -60,6 +62,68 @@ export function getNote(uniSlug: string, courseCode: string): CourseNote | undef
   } catch {
     return undefined;
   }
+}
+
+/**
+ * Hub bazen `sigorta-hukuku` listeler; dosya yalnızca `sigorta-hukuku-yillik` olabilir.
+ * Eski/kısa kodları mevcut not dosyasına çözer.
+ */
+export function resolveNoteCourseCode(uniSlug: string, courseCode: string): string | null {
+  const safeUni = sanitizeSlug(uniSlug);
+  const code = sanitizeSlug(courseCode);
+  if (!safeUni || !code) return null;
+
+  const candidates = [
+    code,
+    `${code}-yillik`,
+    `${code}-donem-1`,
+    `${code}-donem-2`,
+  ];
+
+  // anayasa-1 → anayasa-donem-1 / anayasa-yillik
+  if (/-\d+$/.test(code)) {
+    const base = code.replace(/-\d+$/, '');
+    candidates.push(`${base}-yillik`, `${base}-donem-1`, `${base}-donem-2`, base);
+  }
+
+  // medeni-usul → hmk-yillik (yaygın eşleme)
+  if (code === 'medeni-usul') {
+    candidates.push('hmk-yillik', 'hmk-donem-1', 'hmk');
+  }
+  if (code === 'icra-iflas') {
+    candidates.push('icra-yillik', 'iflas-yillik', 'icra-donem-1');
+  }
+  if (code === 'ceza-muhakemesi') {
+    candidates.push('cmk-yillik', 'cmk-donem-1');
+  }
+  if (code === 'ticaret-sirketler') {
+    candidates.push('sirketler-yillik', 'sirketler-donem-1');
+  }
+
+  for (const c of candidates) {
+    if (readNoteFile(safeUni, c)) return c;
+  }
+  return null;
+}
+
+export function getHub(uniSlug: string): UniHubContent | undefined {
+  return DERS_NOTLARI_HUBS.find((h) => h.uni.slug === uniSlug);
+}
+
+export function getNote(uniSlug: string, courseCode: string): CourseNote | undefined {
+  const resolved = resolveNoteCourseCode(uniSlug, courseCode);
+  if (!resolved) return undefined;
+  return readNoteFile(uniSlug, resolved);
+}
+
+/** Hub listesinde tıklanabilir ders: mevcut nota çözülen href. */
+export function resolveHubCourseHref(
+  uniSlug: string,
+  courseCode: string
+): { code: string; href: string } | null {
+  const code = resolveNoteCourseCode(uniSlug, courseCode);
+  if (!code) return null;
+  return { code, href: `/ders-notlari/${sanitizeSlug(uniSlug)}/${code}` };
 }
 
 export function getAllUniSlugs(): string[] {

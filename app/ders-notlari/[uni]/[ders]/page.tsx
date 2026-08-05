@@ -1,9 +1,14 @@
 import type { Metadata } from 'next';
-import { notFound } from 'next/navigation';
+import { notFound, permanentRedirect } from 'next/navigation';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 import { DersNotuView } from '@/components/DersNotuView';
-import { getAllNoteParams, getHub, getNote } from '@/lib/ders-notlari';
+import {
+  getAllNoteParams,
+  getHub,
+  getNote,
+  resolveNoteCourseCode,
+} from '@/lib/ders-notlari';
 
 const SITE = 'https://www.avfethiguzel.com';
 
@@ -173,6 +178,10 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
 export default async function DersNotuPage({ params }: Props) {
   const { uni, ders } = await params;
+  const resolved = resolveNoteCourseCode(uni, ders);
+  if (resolved && resolved !== ders) {
+    permanentRedirect(`/ders-notlari/${uni}/${resolved}`);
+  }
   const note = getNote(uni, ders);
   const hub = getHub(uni);
   if (!note || !hub) notFound();

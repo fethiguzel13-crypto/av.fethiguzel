@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import type { ReactNode } from 'react';
 import type { CourseNote, NoteDiagram, UniHubContent } from '@/lib/ders-notlari';
+import { resolveHubCourseHref } from '@/lib/ders-notlari';
 
 const SITE = 'https://www.avfethiguzel.com';
 
@@ -320,14 +321,16 @@ export function DersNotuView({
             <Link
               href={`${pdfHref}?print=1`}
               className="inline-flex text-sm font-bold px-4 py-2.5 rounded-full bg-accent text-white hover:bg-accent/90"
+              prefetch={false}
             >
               PDF indir / Yazdır
             </Link>
             <Link
               href={pdfHref}
               className="inline-flex text-sm font-semibold px-4 py-2.5 rounded-full border border-cream/20 text-cream/85 hover:bg-cream/10"
+              prefetch={false}
             >
-              PDF sayfası
+              Yazdırma sayfası
             </Link>
             <Link
               href={`/ders-notlari/${note.uniSlug}`}
@@ -1948,26 +1951,31 @@ export function UniHubView({ hub }: { hub: UniHubContent }) {
                       !String(c.code).match(/^borclar-ozel-(donem|yillik)/) &&
                       !String(c.code).match(/^esya-hukuku-(donem|yillik)/)
                   )
-                  .map((c) => (
+                  .map((c) => {
+                    const resolved = resolveHubCourseHref(hub.uni.slug, c.code);
+                    const unavailable = !resolved || c.ready === false;
+                    return (
                   <li key={c.code}>
-                    {'ready' in c && c.ready === false ? (
+                    {unavailable && !resolved ? (
                       <span className="block rounded-xl border border-dashed border-charcoal/15 bg-charcoal/[0.02] px-3 py-2.5 text-sm text-charcoal/40">
                         {c.title}
                         <span className="block text-[10px] mt-0.5">Yakında</span>
                       </span>
                     ) : (
                       <Link
-                        href={c.href}
+                        href={resolved?.href || c.href}
                         className="block rounded-xl border border-charcoal/10 bg-white hover:border-accent/40 hover:shadow-sm px-3 py-3 text-sm font-semibold text-charcoal transition-all"
                       >
                         {c.title}
                         <span className="block text-[10px] font-normal text-charcoal/40 mt-1">
                           şematik · örnekli · premium
+                          {resolved && resolved.code !== c.code ? ' · yıllık paket' : ''}
                         </span>
                       </Link>
                     )}
                   </li>
-                ))}
+                    );
+                })}
               </ul>
             </section>
           )

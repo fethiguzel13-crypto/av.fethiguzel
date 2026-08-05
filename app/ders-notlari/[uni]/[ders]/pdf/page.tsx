@@ -1,9 +1,18 @@
 import type { Metadata } from 'next';
-import { notFound } from 'next/navigation';
+import { notFound, permanentRedirect } from 'next/navigation';
 import { DersNotuView } from '@/components/DersNotuView';
-import { getAllNoteParams, getHub, getNote } from '@/lib/ders-notlari';
+import { DersNotuPrintTrigger } from '@/components/DersNotuPrint';
+import {
+  getAllNoteParams,
+  getHub,
+  getNote,
+  resolveNoteCourseCode,
+} from '@/lib/ders-notlari';
 
-type Props = { params: Promise<{ uni: string; ders: string }> };
+type Props = {
+  params: Promise<{ uni: string; ders: string }>;
+  searchParams: Promise<{ print?: string }>;
+};
 
 export function generateStaticParams() {
   // PDF sayfaları da tam SSG yapmaz — build bütçesi
@@ -34,11 +43,18 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 }
 
 /** Yazdır / PDF kaydet için sade sayfa (tarayıcı print → PDF) */
-export default async function DersNotuPdfPage({ params }: Props) {
+export default async function DersNotuPdfPage({ params, searchParams }: Props) {
   const { uni, ders } = await params;
+  const sp = await searchParams;
+  const resolved = resolveNoteCourseCode(uni, ders);
+  if (resolved && resolved !== ders) {
+    const q = sp?.print ? `?print=${encodeURIComponent(sp.print)}` : '';
+    permanentRedirect(`/ders-notlari/${uni}/${resolved}/pdf${q}`);
+  }
   const note = getNote(uni, ders);
   const hub = getHub(uni);
   if (!note || !hub) notFound();
+  const autoPrint = sp?.print === '1' || sp?.print === 'true';
 
   return (
     <div className="bg-white min-h-screen text-black print:bg-white">
@@ -57,135 +73,17 @@ export default async function DersNotuPdfPage({ params }: Props) {
         <div className="mb-6 rounded-xl border border-charcoal/15 bg-charcoal/[0.03] p-4 print:hidden">
           <p className="text-sm font-bold text-charcoal m-0 mb-1">PDF indir</p>
           <p className="text-xs text-charcoal/65 m-0 mb-3">
-            <strong>Windows:</strong> Ctrl+P → Hedef: “PDF olarak kaydet” → Kaydet.
+            Tarayıcı yazdırma penceresini açın → hedef olarak <strong>“PDF olarak kaydet”</strong> seçin.
             <br />
-            <strong>Mac:</strong> Cmd+P → PDF → “PDF olarak kaydet”.
+            <strong>Windows:</strong> Ctrl+P · <strong>Mac:</strong> Cmd+P
           </p>
-          <p className="text-xs text-charcoal/50 m-0">
-            Dosya: <code className="text-accent">{note.slug}.pdf</code> · kişisel arşiv · ticari satış yok
+          <p className="text-xs text-charcoal/50 m-0 mb-3">
+            Dosya adı önerisi: <code className="text-accent">{note.slug || `${uni}-${ders}`}.pdf</code>
           </p>
-          <div className="flex flex-wrap gap-2 mt-3">
-            {[
-              'borclar-genel-donem-1',
-              'borclar-genel-donem-2',
-              'borclar-genel-yillik',
-              'borclar-ozel-donem-1',
-              'borclar-ozel-donem-2',
-              'borclar-ozel-yillik',
-              'esya-hukuku-donem-1',
-              'esya-hukuku-donem-2',
-              'esya-hukuku-yillik',
-              'miras-hukuku-donem-1',
-              'miras-hukuku-donem-2',
-              'miras-hukuku-yillik',
-              'tmk-1-kitap-donem-1',
-              'tmk-1-kitap-donem-2',
-              'tmk-1-kitap-yillik',
-              'tmk-2-kitap-donem-1',
-              'tmk-2-kitap-donem-2',
-              'tmk-2-kitap-yillik',
-              'hmk-donem-1',
-              'hmk-donem-2',
-              'hmk-yillik',
-              'icra-donem-1',
-              'icra-donem-2',
-              'icra-yillik',
-              'iflas-donem-1',
-              'iflas-donem-2',
-              'iflas-yillik',
-              'sirketler-donem-1',
-              'sirketler-donem-2',
-              'sirketler-yillik',
-              'kiymetli-evrak-donem-1',
-              'kiymetli-evrak-donem-2',
-              'kiymetli-evrak-yillik',
-              'sigorta-hukuku-donem-1',
-              'sigorta-hukuku-donem-2',
-              'sigorta-hukuku-yillik',
-              'ticari-isletme-donem-1',
-              'ticari-isletme-donem-2',
-              'ticari-isletme-yillik',
-              'ceza-genel-donem-1',
-              'ceza-genel-donem-2',
-              'ceza-genel-yillik',
-              'ceza-ozel-donem-1',
-              'ceza-ozel-donem-2',
-              'ceza-ozel-yillik',
-              'cmk-donem-1',
-              'cmk-donem-2',
-              'cmk-yillik',
-              'idare-hukuku-donem-1',
-              'idare-hukuku-donem-2',
-              'idare-hukuku-yillik',
-              'idari-yargilama-donem-1',
-              'idari-yargilama-donem-2',
-              'idari-yargilama-yillik',
-              'hukuk-felsefesi-donem-1',
-              'hukuk-felsefesi-donem-2',
-              'hukuk-felsefesi-yillik',
-              'hukuk-ingilizcesi-donem-1',
-              'hukuk-ingilizcesi-donem-2',
-              'hukuk-ingilizcesi-yillik',
-              'saglik-hukuku-donem-1',
-              'saglik-hukuku-donem-2',
-              'saglik-hukuku-yillik',
-              'tuketici-hukuku-donem-1',
-              'tuketici-hukuku-donem-2',
-              'tuketici-hukuku-yillik',
-              'insaat-hukuku-donem-1',
-              'insaat-hukuku-donem-2',
-              'insaat-hukuku-yillik',
-              'arabuluculuk-donem-1',
-              'arabuluculuk-donem-2',
-              'arabuluculuk-yillik',
-              'devletler-ozel-donem-1',
-              'devletler-ozel-donem-2',
-              'devletler-ozel-yillik',
-              'hukuka-giris-donem-1',
-              'hukuka-giris-donem-2',
-              'hukuka-giris-yillik',
-              'anayasa-donem-1',
-              'anayasa-donem-2',
-              'anayasa-yillik',
-              'roma-hukuku-donem-1',
-              'roma-hukuku-donem-2',
-              'roma-hukuku-yillik',
-              'milletlerarasi-hukuk-donem-1',
-              'milletlerarasi-hukuk-donem-2',
-              'milletlerarasi-hukuk-yillik',
-              'hukuk-sosyolojisi-donem-1',
-              'hukuk-sosyolojisi-donem-2',
-              'hukuk-sosyolojisi-yillik',
-              'is-hukuku-donem-1',
-              'is-hukuku-donem-2',
-              'is-hukuku-yillik',
-              'adli-tip-donem-1',
-              'adli-tip-donem-2',
-              'adli-tip-yillik',
-              'deniz-ticareti-donem-1',
-              'deniz-ticareti-donem-2',
-              'deniz-ticareti-yillik',
-              'turk-hukuk-tarihi-donem-1',
-              'turk-hukuk-tarihi-donem-2',
-              'turk-hukuk-tarihi-yillik',
-            ].map((code) => (
-              <a
-                key={code}
-                href={`/ders-notlari/${uni}/${code}/pdf`}
-                className="text-[11px] font-semibold px-2.5 py-1 rounded-full border border-charcoal/15 hover:border-accent text-charcoal/70"
-              >
-                {code.replace('borclar-', '')} PDF
-              </a>
-            ))}
-          </div>
+          <DersNotuPrintTrigger auto={autoPrint} />
         </div>
         <DersNotuView note={note} hub={hub} />
       </div>
-      <script
-        dangerouslySetInnerHTML={{
-          __html: `if (typeof window !== 'undefined' && /(?:[?&]print=|/pdf)/i.test(location.href)) setTimeout(function(){window.print()}, 500);`,
-        }}
-      />
     </div>
   );
 }
