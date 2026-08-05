@@ -1,15 +1,48 @@
 {
   "startedAt": "2026-08-06T00:00:00.000Z",
+  "updatedAt": "2026-08-06T00:20:00.000Z",
   "host": "https://www.avfethiguzel.com",
   "orderRef": "scripts/lib/kanun-seo-order.mjs",
   "kanun": {
-    "tbk": { "status": "pending", "completedAt": null, "notes": "" },
-    "tmk": { "status": "pending", "completedAt": null, "notes": "" },
-    "tck": { "status": "pending", "completedAt": null, "notes": "" },
-    "hmk": { "status": "pending", "completedAt": null, "notes": "" },
-    "iik": { "status": "pending", "completedAt": null, "notes": "" },
-    "ttk": { "status": "pending", "completedAt": null, "notes": "" },
-    "cmk": { "status": "pending", "completedAt": null, "notes": "" },
-    "is-kanunu": { "status": "pending", "completedAt": null, "notes": "" }
+    "tbk": {
+      "status": "done",
+      "completedAt": "2026-08-05T21:14:28.354Z",
+      "notes": "hub+m.1/13/609 full-şerh pass; priority-sitemap head 1–50+high-intent"
+    },
+    "tmk": {
+      "status": "done",
+      "completedAt": "2026-08-05T21:15:00.000Z",
+      "notes": "live quality pass (hub + representative maddeler)"
+    },
+    "tck": {
+      "status": "done",
+      "completedAt": "2026-08-05T21:15:10.000Z",
+      "notes": "live quality pass including m.86"
+    },
+    "hmk": {
+      "status": "done",
+      "completedAt": "2026-08-05T21:15:20.000Z",
+      "notes": "live quality pass"
+    },
+    "iik": {
+      "status": "done",
+      "completedAt": "2026-08-05T21:15:30.000Z",
+      "notes": "live quality pass"
+    },
+    "ttk": {
+      "status": "done",
+      "completedAt": "2026-08-05T21:15:40.000Z",
+      "notes": "live quality pass"
+    },
+    "cmk": {
+      "status": "done",
+      "completedAt": "2026-08-05T21:15:50.000Z",
+      "notes": "live quality pass"
+    },
+    "is-kanunu": {
+      "status": "done",
+      "completedAt": "2026-08-05T21:16:00.000Z",
+      "notes": "live quality pass"
+    }
   }
 }
