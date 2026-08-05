@@ -6,7 +6,7 @@ export default function DeployCheckPage() {
             <div className="text-center">
                 <h1 className="text-2xl font-bold text-charcoal mb-2">Deploy OK</h1>
                 <p className="text-charcoal/60 text-sm font-mono">
-                    build-marker: 2026-07-29-vatandas-100-complete-v1
+                    build-marker: 2026-08-05-deploy-lambda-size-fix
                 </p>
                 <p className="mt-4 text-sm text-charcoal/50">
                     554 rehber · bilgi-sitemap · /bilgi arama · kategori sayfaları · 0 orphan
