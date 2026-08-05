@@ -3,7 +3,7 @@
   "wave": "cleanup-active-only",
   "universityCount": 84,
   "hubCount": 84,
-  "noteCount": 7930,
+  "noteCount": 7999,
   "universities": [
     {
       "slug": "ankara-yildirim-beyazit",
@@ -1409,27 +1409,6 @@
     },
     {
       "uniSlug": "afyon",
-      "courseCode": "tmk-1-kitap-donem-1",
-      "slug": "afyon__tmk-1-kitap-donem-1",
-      "title": "AKÜ TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Afyonkarahisar",
-      "href": "/ders-notlari/afyon/tmk-1-kitap-donem-1"
-    },
-    {
-      "uniSlug": "afyon",
-      "courseCode": "tmk-1-kitap-donem-2",
-      "slug": "afyon__tmk-1-kitap-donem-2",
-      "title": "AKÜ TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Afyonkarahisar",
-      "href": "/ders-notlari/afyon/tmk-1-kitap-donem-2"
-    },
-    {
-      "uniSlug": "afyon",
-      "courseCode": "tmk-1-kitap-yillik",
-      "slug": "afyon__tmk-1-kitap-yillik",
-      "title": "AKÜ TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Afyonkarahisar",
-      "href": "/ders-notlari/afyon/tmk-1-kitap-yillik"
-    },
-    {
-      "uniSlug": "afyon",
       "courseCode": "tmk-2-kitap-donem-1",
       "slug": "afyon__tmk-2-kitap-donem-1",
       "title": "AKÜ TMK 2. Kitap 1. Dönem (Güz) Ders Notu | Afyonkarahisar",
@@ -2316,27 +2295,6 @@
       "slug": "akdeniz__ticari-isletme",
       "title": "Akdeniz Ticari İşletme Hukuku Ders Notları — Şematik & Örnekli | Antalya",
       "href": "/ders-notlari/akdeniz/ticari-isletme"
-    },
-    {
-      "uniSlug": "akdeniz",
-      "courseCode": "tmk-1-kitap-donem-1",
-      "slug": "akdeniz__tmk-1-kitap-donem-1",
-      "title": "Akdeniz TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Antalya",
-      "href": "/ders-notlari/akdeniz/tmk-1-kitap-donem-1"
-    },
-    {
-      "uniSlug": "akdeniz",
-      "courseCode": "tmk-1-kitap-donem-2",
-      "slug": "akdeniz__tmk-1-kitap-donem-2",
-      "title": "Akdeniz TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Antalya",
-      "href": "/ders-notlari/akdeniz/tmk-1-kitap-donem-2"
-    },
-    {
-      "uniSlug": "akdeniz",
-      "courseCode": "tmk-1-kitap-yillik",
-      "slug": "akdeniz__tmk-1-kitap-yillik",
-      "title": "Akdeniz TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Antalya",
-      "href": "/ders-notlari/akdeniz/tmk-1-kitap-yillik"
     },
     {
       "uniSlug": "akdeniz",
@@ -3229,27 +3187,6 @@
     },
     {
       "uniSlug": "altinbas",
-      "courseCode": "tmk-1-kitap-donem-1",
-      "slug": "altinbas__tmk-1-kitap-donem-1",
-      "title": "Altınbaş TMK 1. Kitap 1. Dönem (Güz) Ders Notu | İstanbul",
-      "href": "/ders-notlari/altinbas/tmk-1-kitap-donem-1"
-    },
-    {
-      "uniSlug": "altinbas",
-      "courseCode": "tmk-1-kitap-donem-2",
-      "slug": "altinbas__tmk-1-kitap-donem-2",
-      "title": "Altınbaş TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | İstanbul",
-      "href": "/ders-notlari/altinbas/tmk-1-kitap-donem-2"
-    },
-    {
-      "uniSlug": "altinbas",
-      "courseCode": "tmk-1-kitap-yillik",
-      "slug": "altinbas__tmk-1-kitap-yillik",
-      "title": "Altınbaş TMK 1. Kitap Yıllık (Tam paket) Ders Notu | İstanbul",
-      "href": "/ders-notlari/altinbas/tmk-1-kitap-yillik"
-    },
-    {
-      "uniSlug": "altinbas",
       "courseCode": "tmk-2-kitap-donem-1",
       "slug": "altinbas__tmk-2-kitap-donem-1",
       "title": "Altınbaş TMK 2. Kitap 1. Dönem (Güz) Ders Notu | İstanbul",
@@ -4136,27 +4073,6 @@
       "slug": "anadolu__ticari-isletme",
       "title": "Anadolu Ticari İşletme Hukuku Ders Notları — Şematik & Örnekli | Eskişehir",
       "href": "/ders-notlari/anadolu/ticari-isletme"
-    },
-    {
-      "uniSlug": "anadolu",
-      "courseCode": "tmk-1-kitap-donem-1",
-      "slug": "anadolu__tmk-1-kitap-donem-1",
-      "title": "Anadolu TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Eskişehir",
-      "href": "/ders-notlari/anadolu/tmk-1-kitap-donem-1"
-    },
-    {
-      "uniSlug": "anadolu",
-      "courseCode": "tmk-1-kitap-donem-2",
-      "slug": "anadolu__tmk-1-kitap-donem-2",
-      "title": "Anadolu TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Eskişehir",
-      "href": "/ders-notlari/anadolu/tmk-1-kitap-donem-2"
-    },
-    {
-      "uniSlug": "anadolu",
-      "courseCode": "tmk-1-kitap-yillik",
-      "slug": "anadolu__tmk-1-kitap-yillik",
-      "title": "Anadolu TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Eskişehir",
-      "href": "/ders-notlari/anadolu/tmk-1-kitap-yillik"
     },
     {
       "uniSlug": "anadolu",
@@ -5049,27 +4965,6 @@
     },
     {
       "uniSlug": "ankara-hacibayram",
-      "courseCode": "tmk-1-kitap-donem-1",
-      "slug": "ankara-hacibayram__tmk-1-kitap-donem-1",
-      "title": "AHBV TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Ankara",
-      "href": "/ders-notlari/ankara-hacibayram/tmk-1-kitap-donem-1"
-    },
-    {
-      "uniSlug": "ankara-hacibayram",
-      "courseCode": "tmk-1-kitap-donem-2",
-      "slug": "ankara-hacibayram__tmk-1-kitap-donem-2",
-      "title": "AHBV TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Ankara",
-      "href": "/ders-notlari/ankara-hacibayram/tmk-1-kitap-donem-2"
-    },
-    {
-      "uniSlug": "ankara-hacibayram",
-      "courseCode": "tmk-1-kitap-yillik",
-      "slug": "ankara-hacibayram__tmk-1-kitap-yillik",
-      "title": "AHBV TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Ankara",
-      "href": "/ders-notlari/ankara-hacibayram/tmk-1-kitap-yillik"
-    },
-    {
-      "uniSlug": "ankara-hacibayram",
       "courseCode": "tmk-2-kitap-donem-1",
       "slug": "ankara-hacibayram__tmk-2-kitap-donem-1",
       "title": "AHBV TMK 2. Kitap 1. Dönem (Güz) Ders Notu | Ankara",
@@ -5956,27 +5851,6 @@
       "slug": "ankara-yildirim-beyazit__ticari-isletme",
       "title": "AYBÜ Ticari İşletme Hukuku Ders Notları — Şematik & Örnekli | Ankara",
       "href": "/ders-notlari/ankara-yildirim-beyazit/ticari-isletme"
-    },
-    {
-      "uniSlug": "ankara-yildirim-beyazit",
-      "courseCode": "tmk-1-kitap-donem-1",
-      "slug": "ankara-yildirim-beyazit__tmk-1-kitap-donem-1",
-      "title": "AYBÜ TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Ankara",
-      "href": "/ders-notlari/ankara-yildirim-beyazit/tmk-1-kitap-donem-1"
-    },
-    {
-      "uniSlug": "ankara-yildirim-beyazit",
-      "courseCode": "tmk-1-kitap-donem-2",
-      "slug": "ankara-yildirim-beyazit__tmk-1-kitap-donem-2",
-      "title": "AYBÜ TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Ankara",
-      "href": "/ders-notlari/ankara-yildirim-beyazit/tmk-1-kitap-donem-2"
-    },
-    {
-      "uniSlug": "ankara-yildirim-beyazit",
-      "courseCode": "tmk-1-kitap-yillik",
-      "slug": "ankara-yildirim-beyazit__tmk-1-kitap-yillik",
-      "title": "AYBÜ TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Ankara",
-      "href": "/ders-notlari/ankara-yildirim-beyazit/tmk-1-kitap-yillik"
     },
     {
       "uniSlug": "ankara-yildirim-beyazit",
@@ -6869,27 +6743,6 @@
     },
     {
       "uniSlug": "ankara",
-      "courseCode": "tmk-1-kitap-donem-1",
-      "slug": "ankara__tmk-1-kitap-donem-1",
-      "title": "AÜHF TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Ankara",
-      "href": "/ders-notlari/ankara/tmk-1-kitap-donem-1"
-    },
-    {
-      "uniSlug": "ankara",
-      "courseCode": "tmk-1-kitap-donem-2",
-      "slug": "ankara__tmk-1-kitap-donem-2",
-      "title": "AÜHF TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Ankara",
-      "href": "/ders-notlari/ankara/tmk-1-kitap-donem-2"
-    },
-    {
-      "uniSlug": "ankara",
-      "courseCode": "tmk-1-kitap-yillik",
-      "slug": "ankara__tmk-1-kitap-yillik",
-      "title": "AÜHF TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Ankara",
-      "href": "/ders-notlari/ankara/tmk-1-kitap-yillik"
-    },
-    {
-      "uniSlug": "ankara",
       "courseCode": "tmk-2-kitap-donem-1",
       "slug": "ankara__tmk-2-kitap-donem-1",
       "title": "AÜHF TMK 2. Kitap 1. Dönem (Güz) Ders Notu | Ankara",
@@ -7776,27 +7629,6 @@
       "slug": "ataturk__ticari-isletme",
       "title": "Atatürk Ticari İşletme Hukuku Ders Notları — Şematik & Örnekli | Erzurum",
       "href": "/ders-notlari/ataturk/ticari-isletme"
-    },
-    {
-      "uniSlug": "ataturk",
-      "courseCode": "tmk-1-kitap-donem-1",
-      "slug": "ataturk__tmk-1-kitap-donem-1",
-      "title": "Atatürk TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Erzurum",
-      "href": "/ders-notlari/ataturk/tmk-1-kitap-donem-1"
-    },
-    {
-      "uniSlug": "ataturk",
-      "courseCode": "tmk-1-kitap-donem-2",
-      "slug": "ataturk__tmk-1-kitap-donem-2",
-      "title": "Atatürk TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Erzurum",
-      "href": "/ders-notlari/ataturk/tmk-1-kitap-donem-2"
-    },
-    {
-      "uniSlug": "ataturk",
-      "courseCode": "tmk-1-kitap-yillik",
-      "slug": "ataturk__tmk-1-kitap-yillik",
-      "title": "Atatürk TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Erzurum",
-      "href": "/ders-notlari/ataturk/tmk-1-kitap-yillik"
     },
     {
       "uniSlug": "ataturk",
@@ -8689,27 +8521,6 @@
     },
     {
       "uniSlug": "atilim",
-      "courseCode": "tmk-1-kitap-donem-1",
-      "slug": "atilim__tmk-1-kitap-donem-1",
-      "title": "Atılım TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Ankara",
-      "href": "/ders-notlari/atilim/tmk-1-kitap-donem-1"
-    },
-    {
-      "uniSlug": "atilim",
-      "courseCode": "tmk-1-kitap-donem-2",
-      "slug": "atilim__tmk-1-kitap-donem-2",
-      "title": "Atılım TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Ankara",
-      "href": "/ders-notlari/atilim/tmk-1-kitap-donem-2"
-    },
-    {
-      "uniSlug": "atilim",
-      "courseCode": "tmk-1-kitap-yillik",
-      "slug": "atilim__tmk-1-kitap-yillik",
-      "title": "Atılım TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Ankara",
-      "href": "/ders-notlari/atilim/tmk-1-kitap-yillik"
-    },
-    {
-      "uniSlug": "atilim",
       "courseCode": "tmk-2-kitap-donem-1",
       "slug": "atilim__tmk-2-kitap-donem-1",
       "title": "Atılım TMK 2. Kitap 1. Dönem (Güz) Ders Notu | Ankara",
@@ -9596,27 +9407,6 @@
       "slug": "aydin__ticari-isletme",
       "title": "İAÜ Ticari İşletme Hukuku Ders Notları — Şematik & Örnekli | İstanbul",
       "href": "/ders-notlari/aydin/ticari-isletme"
-    },
-    {
-      "uniSlug": "aydin",
-      "courseCode": "tmk-1-kitap-donem-1",
-      "slug": "aydin__tmk-1-kitap-donem-1",
-      "title": "İAÜ TMK 1. Kitap 1. Dönem (Güz) Ders Notu | İstanbul",
-      "href": "/ders-notlari/aydin/tmk-1-kitap-donem-1"
-    },
-    {
-      "uniSlug": "aydin",
-      "courseCode": "tmk-1-kitap-donem-2",
-      "slug": "aydin__tmk-1-kitap-donem-2",
-      "title": "İAÜ TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | İstanbul",
-      "href": "/ders-notlari/aydin/tmk-1-kitap-donem-2"
-    },
-    {
-      "uniSlug": "aydin",
-      "courseCode": "tmk-1-kitap-yillik",
-      "slug": "aydin__tmk-1-kitap-yillik",
-      "title": "İAÜ TMK 1. Kitap Yıllık (Tam paket) Ders Notu | İstanbul",
-      "href": "/ders-notlari/aydin/tmk-1-kitap-yillik"
     },
     {
       "uniSlug": "aydin",
@@ -10509,27 +10299,6 @@
     },
     {
       "uniSlug": "bahcesehir",
-      "courseCode": "tmk-1-kitap-donem-1",
-      "slug": "bahcesehir__tmk-1-kitap-donem-1",
-      "title": "BAU TMK 1. Kitap 1. Dönem (Güz) Ders Notu | İstanbul",
-      "href": "/ders-notlari/bahcesehir/tmk-1-kitap-donem-1"
-    },
-    {
-      "uniSlug": "bahcesehir",
-      "courseCode": "tmk-1-kitap-donem-2",
-      "slug": "bahcesehir__tmk-1-kitap-donem-2",
-      "title": "BAU TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | İstanbul",
-      "href": "/ders-notlari/bahcesehir/tmk-1-kitap-donem-2"
-    },
-    {
-      "uniSlug": "bahcesehir",
-      "courseCode": "tmk-1-kitap-yillik",
-      "slug": "bahcesehir__tmk-1-kitap-yillik",
-      "title": "BAU TMK 1. Kitap Yıllık (Tam paket) Ders Notu | İstanbul",
-      "href": "/ders-notlari/bahcesehir/tmk-1-kitap-yillik"
-    },
-    {
-      "uniSlug": "bahcesehir",
       "courseCode": "tmk-2-kitap-donem-1",
       "slug": "bahcesehir__tmk-2-kitap-donem-1",
       "title": "BAU TMK 2. Kitap 1. Dönem (Güz) Ders Notu | İstanbul",
@@ -11416,27 +11185,6 @@
       "slug": "balikesir__ticari-isletme",
       "title": "BAÜN Ticari İşletme Hukuku Ders Notları — Şematik & Örnekli | Balıkesir",
       "href": "/ders-notlari/balikesir/ticari-isletme"
-    },
-    {
-      "uniSlug": "balikesir",
-      "courseCode": "tmk-1-kitap-donem-1",
-      "slug": "balikesir__tmk-1-kitap-donem-1",
-      "title": "BAÜN TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Balıkesir",
-      "href": "/ders-notlari/balikesir/tmk-1-kitap-donem-1"
-    },
-    {
-      "uniSlug": "balikesir",
-      "courseCode": "tmk-1-kitap-donem-2",
-      "slug": "balikesir__tmk-1-kitap-donem-2",
-      "title": "BAÜN TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Balıkesir",
-      "href": "/ders-notlari/balikesir/tmk-1-kitap-donem-2"
-    },
-    {
-      "uniSlug": "balikesir",
-      "courseCode": "tmk-1-kitap-yillik",
-      "slug": "balikesir__tmk-1-kitap-yillik",
-      "title": "BAÜN TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Balıkesir",
-      "href": "/ders-notlari/balikesir/tmk-1-kitap-yillik"
     },
     {
       "uniSlug": "balikesir",
@@ -12329,27 +12077,6 @@
     },
     {
       "uniSlug": "beykent",
-      "courseCode": "tmk-1-kitap-donem-1",
-      "slug": "beykent__tmk-1-kitap-donem-1",
-      "title": "Beykent TMK 1. Kitap 1. Dönem (Güz) Ders Notu | İstanbul",
-      "href": "/ders-notlari/beykent/tmk-1-kitap-donem-1"
-    },
-    {
-      "uniSlug": "beykent",
-      "courseCode": "tmk-1-kitap-donem-2",
-      "slug": "beykent__tmk-1-kitap-donem-2",
-      "title": "Beykent TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | İstanbul",
-      "href": "/ders-notlari/beykent/tmk-1-kitap-donem-2"
-    },
-    {
-      "uniSlug": "beykent",
-      "courseCode": "tmk-1-kitap-yillik",
-      "slug": "beykent__tmk-1-kitap-yillik",
-      "title": "Beykent TMK 1. Kitap Yıllık (Tam paket) Ders Notu | İstanbul",
-      "href": "/ders-notlari/beykent/tmk-1-kitap-yillik"
-    },
-    {
-      "uniSlug": "beykent",
       "courseCode": "tmk-2-kitap-donem-1",
       "slug": "beykent__tmk-2-kitap-donem-1",
       "title": "Beykent TMK 2. Kitap 1. Dönem (Güz) Ders Notu | İstanbul",
@@ -13236,27 +12963,6 @@
       "slug": "bilkent__ticari-isletme",
       "title": "Bilkent Ticari İşletme Hukuku Ders Notları — Şematik & Örnekli | Ankara",
       "href": "/ders-notlari/bilkent/ticari-isletme"
-    },
-    {
-      "uniSlug": "bilkent",
-      "courseCode": "tmk-1-kitap-donem-1",
-      "slug": "bilkent__tmk-1-kitap-donem-1",
-      "title": "Bilkent TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Ankara",
-      "href": "/ders-notlari/bilkent/tmk-1-kitap-donem-1"
-    },
-    {
-      "uniSlug": "bilkent",
-      "courseCode": "tmk-1-kitap-donem-2",
-      "slug": "bilkent__tmk-1-kitap-donem-2",
-      "title": "Bilkent TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Ankara",
-      "href": "/ders-notlari/bilkent/tmk-1-kitap-donem-2"
-    },
-    {
-      "uniSlug": "bilkent",
-      "courseCode": "tmk-1-kitap-yillik",
-      "slug": "bilkent__tmk-1-kitap-yillik",
-      "title": "Bilkent TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Ankara",
-      "href": "/ders-notlari/bilkent/tmk-1-kitap-yillik"
     },
     {
       "uniSlug": "bilkent",
@@ -14149,27 +13855,6 @@
     },
     {
       "uniSlug": "bogazici",
-      "courseCode": "tmk-1-kitap-donem-1",
-      "slug": "bogazici__tmk-1-kitap-donem-1",
-      "title": "BÜ TMK 1. Kitap 1. Dönem (Güz) Ders Notu | İstanbul",
-      "href": "/ders-notlari/bogazici/tmk-1-kitap-donem-1"
-    },
-    {
-      "uniSlug": "bogazici",
-      "courseCode": "tmk-1-kitap-donem-2",
-      "slug": "bogazici__tmk-1-kitap-donem-2",
-      "title": "BÜ TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | İstanbul",
-      "href": "/ders-notlari/bogazici/tmk-1-kitap-donem-2"
-    },
-    {
-      "uniSlug": "bogazici",
-      "courseCode": "tmk-1-kitap-yillik",
-      "slug": "bogazici__tmk-1-kitap-yillik",
-      "title": "BÜ TMK 1. Kitap Yıllık (Tam paket) Ders Notu | İstanbul",
-      "href": "/ders-notlari/bogazici/tmk-1-kitap-yillik"
-    },
-    {
-      "uniSlug": "bogazici",
       "courseCode": "tmk-2-kitap-donem-1",
       "slug": "bogazici__tmk-2-kitap-donem-1",
       "title": "BÜ TMK 2. Kitap 1. Dönem (Güz) Ders Notu | İstanbul",
@@ -15056,27 +14741,6 @@
       "slug": "bolu__ticari-isletme",
       "title": "BAİBÜ Ticari İşletme Hukuku Ders Notları — Şematik & Örnekli | Bolu",
       "href": "/ders-notlari/bolu/ticari-isletme"
-    },
-    {
-      "uniSlug": "bolu",
-      "courseCode": "tmk-1-kitap-donem-1",
-      "slug": "bolu__tmk-1-kitap-donem-1",
-      "title": "BAİBÜ TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Bolu",
-      "href": "/ders-notlari/bolu/tmk-1-kitap-donem-1"
-    },
-    {
-      "uniSlug": "bolu",
-      "courseCode": "tmk-1-kitap-donem-2",
-      "slug": "bolu__tmk-1-kitap-donem-2",
-      "title": "BAİBÜ TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Bolu",
-      "href": "/ders-notlari/bolu/tmk-1-kitap-donem-2"
-    },
-    {
-      "uniSlug": "bolu",
-      "courseCode": "tmk-1-kitap-yillik",
-      "slug": "bolu__tmk-1-kitap-yillik",
-      "title": "BAİBÜ TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Bolu",
-      "href": "/ders-notlari/bolu/tmk-1-kitap-yillik"
     },
     {
       "uniSlug": "bolu",
@@ -15969,27 +15633,6 @@
     },
     {
       "uniSlug": "cag",
-      "courseCode": "tmk-1-kitap-donem-1",
-      "slug": "cag__tmk-1-kitap-donem-1",
-      "title": "Çağ TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Mersin",
-      "href": "/ders-notlari/cag/tmk-1-kitap-donem-1"
-    },
-    {
-      "uniSlug": "cag",
-      "courseCode": "tmk-1-kitap-donem-2",
-      "slug": "cag__tmk-1-kitap-donem-2",
-      "title": "Çağ TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Mersin",
-      "href": "/ders-notlari/cag/tmk-1-kitap-donem-2"
-    },
-    {
-      "uniSlug": "cag",
-      "courseCode": "tmk-1-kitap-yillik",
-      "slug": "cag__tmk-1-kitap-yillik",
-      "title": "Çağ TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Mersin",
-      "href": "/ders-notlari/cag/tmk-1-kitap-yillik"
-    },
-    {
-      "uniSlug": "cag",
       "courseCode": "tmk-2-kitap-donem-1",
       "slug": "cag__tmk-2-kitap-donem-1",
       "title": "Çağ TMK 2. Kitap 1. Dönem (Güz) Ders Notu | Mersin",
@@ -16876,27 +16519,6 @@
       "slug": "cankaya__ticari-isletme",
       "title": "Çankaya Ticari İşletme Hukuku Ders Notları — Şematik & Örnekli | Ankara",
       "href": "/ders-notlari/cankaya/ticari-isletme"
-    },
-    {
-      "uniSlug": "cankaya",
-      "courseCode": "tmk-1-kitap-donem-1",
-      "slug": "cankaya__tmk-1-kitap-donem-1",
-      "title": "Çankaya TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Ankara",
-      "href": "/ders-notlari/cankaya/tmk-1-kitap-donem-1"
-    },
-    {
-      "uniSlug": "cankaya",
-      "courseCode": "tmk-1-kitap-donem-2",
-      "slug": "cankaya__tmk-1-kitap-donem-2",
-      "title": "Çankaya TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Ankara",
-      "href": "/ders-notlari/cankaya/tmk-1-kitap-donem-2"
-    },
-    {
-      "uniSlug": "cankaya",
-      "courseCode": "tmk-1-kitap-yillik",
-      "slug": "cankaya__tmk-1-kitap-yillik",
-      "title": "Çankaya TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Ankara",
-      "href": "/ders-notlari/cankaya/tmk-1-kitap-yillik"
     },
     {
       "uniSlug": "cankaya",
@@ -17789,27 +17411,6 @@
     },
     {
       "uniSlug": "cankiri",
-      "courseCode": "tmk-1-kitap-donem-1",
-      "slug": "cankiri__tmk-1-kitap-donem-1",
-      "title": "Karatekin TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Çankırı",
-      "href": "/ders-notlari/cankiri/tmk-1-kitap-donem-1"
-    },
-    {
-      "uniSlug": "cankiri",
-      "courseCode": "tmk-1-kitap-donem-2",
-      "slug": "cankiri__tmk-1-kitap-donem-2",
-      "title": "Karatekin TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Çankırı",
-      "href": "/ders-notlari/cankiri/tmk-1-kitap-donem-2"
-    },
-    {
-      "uniSlug": "cankiri",
-      "courseCode": "tmk-1-kitap-yillik",
-      "slug": "cankiri__tmk-1-kitap-yillik",
-      "title": "Karatekin TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Çankırı",
-      "href": "/ders-notlari/cankiri/tmk-1-kitap-yillik"
-    },
-    {
-      "uniSlug": "cankiri",
       "courseCode": "tmk-2-kitap-donem-1",
       "slug": "cankiri__tmk-2-kitap-donem-1",
       "title": "Karatekin TMK 2. Kitap 1. Dönem (Güz) Ders Notu | Çankırı",
@@ -18696,27 +18297,6 @@
       "slug": "cukurova__ticari-isletme",
       "title": "Çukurova Ticari İşletme Hukuku Ders Notları — Şematik & Örnekli | Adana",
       "href": "/ders-notlari/cukurova/ticari-isletme"
-    },
-    {
-      "uniSlug": "cukurova",
-      "courseCode": "tmk-1-kitap-donem-1",
-      "slug": "cukurova__tmk-1-kitap-donem-1",
-      "title": "Çukurova TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Adana",
-      "href": "/ders-notlari/cukurova/tmk-1-kitap-donem-1"
-    },
-    {
-      "uniSlug": "cukurova",
-      "courseCode": "tmk-1-kitap-donem-2",
-      "slug": "cukurova__tmk-1-kitap-donem-2",
-      "title": "Çukurova TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Adana",
-      "href": "/ders-notlari/cukurova/tmk-1-kitap-donem-2"
-    },
-    {
-      "uniSlug": "cukurova",
-      "courseCode": "tmk-1-kitap-yillik",
-      "slug": "cukurova__tmk-1-kitap-yillik",
-      "title": "Çukurova TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Adana",
-      "href": "/ders-notlari/cukurova/tmk-1-kitap-yillik"
     },
     {
       "uniSlug": "cukurova",
@@ -19609,27 +19189,6 @@
     },
     {
       "uniSlug": "dicle",
-      "courseCode": "tmk-1-kitap-donem-1",
-      "slug": "dicle__tmk-1-kitap-donem-1",
-      "title": "Dicle TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Diyarbakır",
-      "href": "/ders-notlari/dicle/tmk-1-kitap-donem-1"
-    },
-    {
-      "uniSlug": "dicle",
-      "courseCode": "tmk-1-kitap-donem-2",
-      "slug": "dicle__tmk-1-kitap-donem-2",
-      "title": "Dicle TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Diyarbakır",
-      "href": "/ders-notlari/dicle/tmk-1-kitap-donem-2"
-    },
-    {
-      "uniSlug": "dicle",
-      "courseCode": "tmk-1-kitap-yillik",
-      "slug": "dicle__tmk-1-kitap-yillik",
-      "title": "Dicle TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Diyarbakır",
-      "href": "/ders-notlari/dicle/tmk-1-kitap-yillik"
-    },
-    {
-      "uniSlug": "dicle",
       "courseCode": "tmk-2-kitap-donem-1",
       "slug": "dicle__tmk-2-kitap-donem-1",
       "title": "Dicle TMK 2. Kitap 1. Dönem (Güz) Ders Notu | Diyarbakır",
@@ -20516,27 +20075,6 @@
       "slug": "dogus__ticari-isletme",
       "title": "Doğuş Ticari İşletme Hukuku Ders Notları — Şematik & Örnekli | İstanbul",
       "href": "/ders-notlari/dogus/ticari-isletme"
-    },
-    {
-      "uniSlug": "dogus",
-      "courseCode": "tmk-1-kitap-donem-1",
-      "slug": "dogus__tmk-1-kitap-donem-1",
-      "title": "Doğuş TMK 1. Kitap 1. Dönem (Güz) Ders Notu | İstanbul",
-      "href": "/ders-notlari/dogus/tmk-1-kitap-donem-1"
-    },
-    {
-      "uniSlug": "dogus",
-      "courseCode": "tmk-1-kitap-donem-2",
-      "slug": "dogus__tmk-1-kitap-donem-2",
-      "title": "Doğuş TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | İstanbul",
-      "href": "/ders-notlari/dogus/tmk-1-kitap-donem-2"
-    },
-    {
-      "uniSlug": "dogus",
-      "courseCode": "tmk-1-kitap-yillik",
-      "slug": "dogus__tmk-1-kitap-yillik",
-      "title": "Doğuş TMK 1. Kitap Yıllık (Tam paket) Ders Notu | İstanbul",
-      "href": "/ders-notlari/dogus/tmk-1-kitap-yillik"
     },
     {
       "uniSlug": "dogus",
@@ -21429,27 +20967,6 @@
     },
     {
       "uniSlug": "dokuz-eylul",
-      "courseCode": "tmk-1-kitap-donem-1",
-      "slug": "dokuz-eylul__tmk-1-kitap-donem-1",
-      "title": "DEÜ TMK 1. Kitap 1. Dönem (Güz) Ders Notu | İzmir",
-      "href": "/ders-notlari/dokuz-eylul/tmk-1-kitap-donem-1"
-    },
-    {
-      "uniSlug": "dokuz-eylul",
-      "courseCode": "tmk-1-kitap-donem-2",
-      "slug": "dokuz-eylul__tmk-1-kitap-donem-2",
-      "title": "DEÜ TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | İzmir",
-      "href": "/ders-notlari/dokuz-eylul/tmk-1-kitap-donem-2"
-    },
-    {
-      "uniSlug": "dokuz-eylul",
-      "courseCode": "tmk-1-kitap-yillik",
-      "slug": "dokuz-eylul__tmk-1-kitap-yillik",
-      "title": "DEÜ TMK 1. Kitap Yıllık (Tam paket) Ders Notu | İzmir",
-      "href": "/ders-notlari/dokuz-eylul/tmk-1-kitap-yillik"
-    },
-    {
-      "uniSlug": "dokuz-eylul",
       "courseCode": "tmk-2-kitap-donem-1",
       "slug": "dokuz-eylul__tmk-2-kitap-donem-1",
       "title": "DEÜ TMK 2. Kitap 1. Dönem (Güz) Ders Notu | İzmir",
@@ -22336,27 +21853,6 @@
       "slug": "erciyes__ticari-isletme",
       "title": "Erciyes Ticari İşletme Hukuku Ders Notları — Şematik & Örnekli | Kayseri",
       "href": "/ders-notlari/erciyes/ticari-isletme"
-    },
-    {
-      "uniSlug": "erciyes",
-      "courseCode": "tmk-1-kitap-donem-1",
-      "slug": "erciyes__tmk-1-kitap-donem-1",
-      "title": "Erciyes TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Kayseri",
-      "href": "/ders-notlari/erciyes/tmk-1-kitap-donem-1"
-    },
-    {
-      "uniSlug": "erciyes",
-      "courseCode": "tmk-1-kitap-donem-2",
-      "slug": "erciyes__tmk-1-kitap-donem-2",
-      "title": "Erciyes TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Kayseri",
-      "href": "/ders-notlari/erciyes/tmk-1-kitap-donem-2"
-    },
-    {
-      "uniSlug": "erciyes",
-      "courseCode": "tmk-1-kitap-yillik",
-      "slug": "erciyes__tmk-1-kitap-yillik",
-      "title": "Erciyes TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Kayseri",
-      "href": "/ders-notlari/erciyes/tmk-1-kitap-yillik"
     },
     {
       "uniSlug": "erciyes",
@@ -23249,27 +22745,6 @@
     },
     {
       "uniSlug": "erzincan",
-      "courseCode": "tmk-1-kitap-donem-1",
-      "slug": "erzincan__tmk-1-kitap-donem-1",
-      "title": "EBYÜ TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Erzincan",
-      "href": "/ders-notlari/erzincan/tmk-1-kitap-donem-1"
-    },
-    {
-      "uniSlug": "erzincan",
-      "courseCode": "tmk-1-kitap-donem-2",
-      "slug": "erzincan__tmk-1-kitap-donem-2",
-      "title": "EBYÜ TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Erzincan",
-      "href": "/ders-notlari/erzincan/tmk-1-kitap-donem-2"
-    },
-    {
-      "uniSlug": "erzincan",
-      "courseCode": "tmk-1-kitap-yillik",
-      "slug": "erzincan__tmk-1-kitap-yillik",
-      "title": "EBYÜ TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Erzincan",
-      "href": "/ders-notlari/erzincan/tmk-1-kitap-yillik"
-    },
-    {
-      "uniSlug": "erzincan",
       "courseCode": "tmk-2-kitap-donem-1",
       "slug": "erzincan__tmk-2-kitap-donem-1",
       "title": "EBYÜ TMK 2. Kitap 1. Dönem (Güz) Ders Notu | Erzincan",
@@ -24156,27 +23631,6 @@
       "slug": "eskisehir-osmangazi__ticari-isletme",
       "title": "ESOGÜ Ticari İşletme Hukuku Ders Notları — Şematik & Örnekli | Eskişehir",
       "href": "/ders-notlari/eskisehir-osmangazi/ticari-isletme"
-    },
-    {
-      "uniSlug": "eskisehir-osmangazi",
-      "courseCode": "tmk-1-kitap-donem-1",
-      "slug": "eskisehir-osmangazi__tmk-1-kitap-donem-1",
-      "title": "ESOGÜ TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Eskişehir",
-      "href": "/ders-notlari/eskisehir-osmangazi/tmk-1-kitap-donem-1"
-    },
-    {
-      "uniSlug": "eskisehir-osmangazi",
-      "courseCode": "tmk-1-kitap-donem-2",
-      "slug": "eskisehir-osmangazi__tmk-1-kitap-donem-2",
-      "title": "ESOGÜ TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Eskişehir",
-      "href": "/ders-notlari/eskisehir-osmangazi/tmk-1-kitap-donem-2"
-    },
-    {
-      "uniSlug": "eskisehir-osmangazi",
-      "courseCode": "tmk-1-kitap-yillik",
-      "slug": "eskisehir-osmangazi__tmk-1-kitap-yillik",
-      "title": "ESOGÜ TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Eskişehir",
-      "href": "/ders-notlari/eskisehir-osmangazi/tmk-1-kitap-yillik"
     },
     {
       "uniSlug": "eskisehir-osmangazi",
@@ -25069,27 +24523,6 @@
     },
     {
       "uniSlug": "fatih-sultan",
-      "courseCode": "tmk-1-kitap-donem-1",
-      "slug": "fatih-sultan__tmk-1-kitap-donem-1",
-      "title": "FSMVÜ TMK 1. Kitap 1. Dönem (Güz) Ders Notu | İstanbul",
-      "href": "/ders-notlari/fatih-sultan/tmk-1-kitap-donem-1"
-    },
-    {
-      "uniSlug": "fatih-sultan",
-      "courseCode": "tmk-1-kitap-donem-2",
-      "slug": "fatih-sultan__tmk-1-kitap-donem-2",
-      "title": "FSMVÜ TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | İstanbul",
-      "href": "/ders-notlari/fatih-sultan/tmk-1-kitap-donem-2"
-    },
-    {
-      "uniSlug": "fatih-sultan",
-      "courseCode": "tmk-1-kitap-yillik",
-      "slug": "fatih-sultan__tmk-1-kitap-yillik",
-      "title": "FSMVÜ TMK 1. Kitap Yıllık (Tam paket) Ders Notu | İstanbul",
-      "href": "/ders-notlari/fatih-sultan/tmk-1-kitap-yillik"
-    },
-    {
-      "uniSlug": "fatih-sultan",
       "courseCode": "tmk-2-kitap-donem-1",
       "slug": "fatih-sultan__tmk-2-kitap-donem-1",
       "title": "FSMVÜ TMK 2. Kitap 1. Dönem (Güz) Ders Notu | İstanbul",
@@ -25976,27 +25409,6 @@
       "slug": "galatasaray__ticari-isletme",
       "title": "GSÜ Ticari İşletme Hukuku Ders Notları — Şematik & Örnekli | İstanbul",
       "href": "/ders-notlari/galatasaray/ticari-isletme"
-    },
-    {
-      "uniSlug": "galatasaray",
-      "courseCode": "tmk-1-kitap-donem-1",
-      "slug": "galatasaray__tmk-1-kitap-donem-1",
-      "title": "GSÜ TMK 1. Kitap 1. Dönem (Güz) Ders Notu | İstanbul",
-      "href": "/ders-notlari/galatasaray/tmk-1-kitap-donem-1"
-    },
-    {
-      "uniSlug": "galatasaray",
-      "courseCode": "tmk-1-kitap-donem-2",
-      "slug": "galatasaray__tmk-1-kitap-donem-2",
-      "title": "GSÜ TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | İstanbul",
-      "href": "/ders-notlari/galatasaray/tmk-1-kitap-donem-2"
-    },
-    {
-      "uniSlug": "galatasaray",
-      "courseCode": "tmk-1-kitap-yillik",
-      "slug": "galatasaray__tmk-1-kitap-yillik",
-      "title": "GSÜ TMK 1. Kitap Yıllık (Tam paket) Ders Notu | İstanbul",
-      "href": "/ders-notlari/galatasaray/tmk-1-kitap-yillik"
     },
     {
       "uniSlug": "galatasaray",
@@ -26889,27 +26301,6 @@
     },
     {
       "uniSlug": "gaziantep",
-      "courseCode": "tmk-1-kitap-donem-1",
-      "slug": "gaziantep__tmk-1-kitap-donem-1",
-      "title": "GAÜN TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Gaziantep",
-      "href": "/ders-notlari/gaziantep/tmk-1-kitap-donem-1"
-    },
-    {
-      "uniSlug": "gaziantep",
-      "courseCode": "tmk-1-kitap-donem-2",
-      "slug": "gaziantep__tmk-1-kitap-donem-2",
-      "title": "GAÜN TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Gaziantep",
-      "href": "/ders-notlari/gaziantep/tmk-1-kitap-donem-2"
-    },
-    {
-      "uniSlug": "gaziantep",
-      "courseCode": "tmk-1-kitap-yillik",
-      "slug": "gaziantep__tmk-1-kitap-yillik",
-      "title": "GAÜN TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Gaziantep",
-      "href": "/ders-notlari/gaziantep/tmk-1-kitap-yillik"
-    },
-    {
-      "uniSlug": "gaziantep",
       "courseCode": "tmk-2-kitap-donem-1",
       "slug": "gaziantep__tmk-2-kitap-donem-1",
       "title": "GAÜN TMK 2. Kitap 1. Dönem (Güz) Ders Notu | Gaziantep",
@@ -27796,27 +27187,6 @@
       "slug": "hacettepe__ticari-isletme",
       "title": "Hacettepe Ticari İşletme Hukuku Ders Notları — Şematik & Örnekli | Ankara",
       "href": "/ders-notlari/hacettepe/ticari-isletme"
-    },
-    {
-      "uniSlug": "hacettepe",
-      "courseCode": "tmk-1-kitap-donem-1",
-      "slug": "hacettepe__tmk-1-kitap-donem-1",
-      "title": "Hacettepe TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Ankara",
-      "href": "/ders-notlari/hacettepe/tmk-1-kitap-donem-1"
-    },
-    {
-      "uniSlug": "hacettepe",
-      "courseCode": "tmk-1-kitap-donem-2",
-      "slug": "hacettepe__tmk-1-kitap-donem-2",
-      "title": "Hacettepe TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Ankara",
-      "href": "/ders-notlari/hacettepe/tmk-1-kitap-donem-2"
-    },
-    {
-      "uniSlug": "hacettepe",
-      "courseCode": "tmk-1-kitap-yillik",
-      "slug": "hacettepe__tmk-1-kitap-yillik",
-      "title": "Hacettepe TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Ankara",
-      "href": "/ders-notlari/hacettepe/tmk-1-kitap-yillik"
     },
     {
       "uniSlug": "hacettepe",
@@ -28709,27 +28079,6 @@
     },
     {
       "uniSlug": "hasan-kalyoncu",
-      "courseCode": "tmk-1-kitap-donem-1",
-      "slug": "hasan-kalyoncu__tmk-1-kitap-donem-1",
-      "title": "HKÜ TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Gaziantep",
-      "href": "/ders-notlari/hasan-kalyoncu/tmk-1-kitap-donem-1"
-    },
-    {
-      "uniSlug": "hasan-kalyoncu",
-      "courseCode": "tmk-1-kitap-donem-2",
-      "slug": "hasan-kalyoncu__tmk-1-kitap-donem-2",
-      "title": "HKÜ TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Gaziantep",
-      "href": "/ders-notlari/hasan-kalyoncu/tmk-1-kitap-donem-2"
-    },
-    {
-      "uniSlug": "hasan-kalyoncu",
-      "courseCode": "tmk-1-kitap-yillik",
-      "slug": "hasan-kalyoncu__tmk-1-kitap-yillik",
-      "title": "HKÜ TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Gaziantep",
-      "href": "/ders-notlari/hasan-kalyoncu/tmk-1-kitap-yillik"
-    },
-    {
-      "uniSlug": "hasan-kalyoncu",
       "courseCode": "tmk-2-kitap-donem-1",
       "slug": "hasan-kalyoncu__tmk-2-kitap-donem-1",
       "title": "HKÜ TMK 2. Kitap 1. Dönem (Güz) Ders Notu | Gaziantep",
@@ -29616,27 +28965,6 @@
       "slug": "inonu__ticari-isletme",
       "title": "İnönü Ticari İşletme Hukuku Ders Notları — Şematik & Örnekli | Malatya",
       "href": "/ders-notlari/inonu/ticari-isletme"
-    },
-    {
-      "uniSlug": "inonu",
-      "courseCode": "tmk-1-kitap-donem-1",
-      "slug": "inonu__tmk-1-kitap-donem-1",
-      "title": "İnönü TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Malatya",
-      "href": "/ders-notlari/inonu/tmk-1-kitap-donem-1"
-    },
-    {
-      "uniSlug": "inonu",
-      "courseCode": "tmk-1-kitap-donem-2",
-      "slug": "inonu__tmk-1-kitap-donem-2",
-      "title": "İnönü TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Malatya",
-      "href": "/ders-notlari/inonu/tmk-1-kitap-donem-2"
-    },
-    {
-      "uniSlug": "inonu",
-      "courseCode": "tmk-1-kitap-yillik",
-      "slug": "inonu__tmk-1-kitap-yillik",
-      "title": "İnönü TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Malatya",
-      "href": "/ders-notlari/inonu/tmk-1-kitap-yillik"
     },
     {
       "uniSlug": "inonu",
@@ -30529,27 +29857,6 @@
     },
     {
       "uniSlug": "istanbul-bilgi",
-      "courseCode": "tmk-1-kitap-donem-1",
-      "slug": "istanbul-bilgi__tmk-1-kitap-donem-1",
-      "title": "Bilgi TMK 1. Kitap 1. Dönem (Güz) Ders Notu | İstanbul",
-      "href": "/ders-notlari/istanbul-bilgi/tmk-1-kitap-donem-1"
-    },
-    {
-      "uniSlug": "istanbul-bilgi",
-      "courseCode": "tmk-1-kitap-donem-2",
-      "slug": "istanbul-bilgi__tmk-1-kitap-donem-2",
-      "title": "Bilgi TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | İstanbul",
-      "href": "/ders-notlari/istanbul-bilgi/tmk-1-kitap-donem-2"
-    },
-    {
-      "uniSlug": "istanbul-bilgi",
-      "courseCode": "tmk-1-kitap-yillik",
-      "slug": "istanbul-bilgi__tmk-1-kitap-yillik",
-      "title": "Bilgi TMK 1. Kitap Yıllık (Tam paket) Ders Notu | İstanbul",
-      "href": "/ders-notlari/istanbul-bilgi/tmk-1-kitap-yillik"
-    },
-    {
-      "uniSlug": "istanbul-bilgi",
       "courseCode": "tmk-2-kitap-donem-1",
       "slug": "istanbul-bilgi__tmk-2-kitap-donem-1",
       "title": "Bilgi TMK 2. Kitap 1. Dönem (Güz) Ders Notu | İstanbul",
@@ -31436,27 +30743,6 @@
       "slug": "istanbul-medeniyet__ticari-isletme",
       "title": "Medeniyet Ticari İşletme Hukuku Ders Notları — Şematik & Örnekli | İstanbul",
       "href": "/ders-notlari/istanbul-medeniyet/ticari-isletme"
-    },
-    {
-      "uniSlug": "istanbul-medeniyet",
-      "courseCode": "tmk-1-kitap-donem-1",
-      "slug": "istanbul-medeniyet__tmk-1-kitap-donem-1",
-      "title": "Medeniyet TMK 1. Kitap 1. Dönem (Güz) Ders Notu | İstanbul",
-      "href": "/ders-notlari/istanbul-medeniyet/tmk-1-kitap-donem-1"
-    },
-    {
-      "uniSlug": "istanbul-medeniyet",
-      "courseCode": "tmk-1-kitap-donem-2",
-      "slug": "istanbul-medeniyet__tmk-1-kitap-donem-2",
-      "title": "Medeniyet TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | İstanbul",
-      "href": "/ders-notlari/istanbul-medeniyet/tmk-1-kitap-donem-2"
-    },
-    {
-      "uniSlug": "istanbul-medeniyet",
-      "courseCode": "tmk-1-kitap-yillik",
-      "slug": "istanbul-medeniyet__tmk-1-kitap-yillik",
-      "title": "Medeniyet TMK 1. Kitap Yıllık (Tam paket) Ders Notu | İstanbul",
-      "href": "/ders-notlari/istanbul-medeniyet/tmk-1-kitap-yillik"
     },
     {
       "uniSlug": "istanbul-medeniyet",
@@ -32349,27 +31635,6 @@
     },
     {
       "uniSlug": "istanbul",
-      "courseCode": "tmk-1-kitap-donem-1",
-      "slug": "istanbul__tmk-1-kitap-donem-1",
-      "title": "İÜHF TMK 1. Kitap 1. Dönem (Güz) Ders Notu | İstanbul",
-      "href": "/ders-notlari/istanbul/tmk-1-kitap-donem-1"
-    },
-    {
-      "uniSlug": "istanbul",
-      "courseCode": "tmk-1-kitap-donem-2",
-      "slug": "istanbul__tmk-1-kitap-donem-2",
-      "title": "İÜHF TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | İstanbul",
-      "href": "/ders-notlari/istanbul/tmk-1-kitap-donem-2"
-    },
-    {
-      "uniSlug": "istanbul",
-      "courseCode": "tmk-1-kitap-yillik",
-      "slug": "istanbul__tmk-1-kitap-yillik",
-      "title": "İÜHF TMK 1. Kitap Yıllık (Tam paket) Ders Notu | İstanbul",
-      "href": "/ders-notlari/istanbul/tmk-1-kitap-yillik"
-    },
-    {
-      "uniSlug": "istanbul",
       "courseCode": "tmk-2-kitap-donem-1",
       "slug": "istanbul__tmk-2-kitap-donem-1",
       "title": "İÜHF TMK 2. Kitap 1. Dönem (Güz) Ders Notu | İstanbul",
@@ -33256,27 +32521,6 @@
       "slug": "izmir-ekonomi__ticari-isletme",
       "title": "İEÜ Ticari İşletme Hukuku Ders Notları — Şematik & Örnekli | İzmir",
       "href": "/ders-notlari/izmir-ekonomi/ticari-isletme"
-    },
-    {
-      "uniSlug": "izmir-ekonomi",
-      "courseCode": "tmk-1-kitap-donem-1",
-      "slug": "izmir-ekonomi__tmk-1-kitap-donem-1",
-      "title": "İEÜ TMK 1. Kitap 1. Dönem (Güz) Ders Notu | İzmir",
-      "href": "/ders-notlari/izmir-ekonomi/tmk-1-kitap-donem-1"
-    },
-    {
-      "uniSlug": "izmir-ekonomi",
-      "courseCode": "tmk-1-kitap-donem-2",
-      "slug": "izmir-ekonomi__tmk-1-kitap-donem-2",
-      "title": "İEÜ TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | İzmir",
-      "href": "/ders-notlari/izmir-ekonomi/tmk-1-kitap-donem-2"
-    },
-    {
-      "uniSlug": "izmir-ekonomi",
-      "courseCode": "tmk-1-kitap-yillik",
-      "slug": "izmir-ekonomi__tmk-1-kitap-yillik",
-      "title": "İEÜ TMK 1. Kitap Yıllık (Tam paket) Ders Notu | İzmir",
-      "href": "/ders-notlari/izmir-ekonomi/tmk-1-kitap-yillik"
     },
     {
       "uniSlug": "izmir-ekonomi",
@@ -34169,27 +33413,6 @@
     },
     {
       "uniSlug": "kadir-has",
-      "courseCode": "tmk-1-kitap-donem-1",
-      "slug": "kadir-has__tmk-1-kitap-donem-1",
-      "title": "KHAS TMK 1. Kitap 1. Dönem (Güz) Ders Notu | İstanbul",
-      "href": "/ders-notlari/kadir-has/tmk-1-kitap-donem-1"
-    },
-    {
-      "uniSlug": "kadir-has",
-      "courseCode": "tmk-1-kitap-donem-2",
-      "slug": "kadir-has__tmk-1-kitap-donem-2",
-      "title": "KHAS TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | İstanbul",
-      "href": "/ders-notlari/kadir-has/tmk-1-kitap-donem-2"
-    },
-    {
-      "uniSlug": "kadir-has",
-      "courseCode": "tmk-1-kitap-yillik",
-      "slug": "kadir-has__tmk-1-kitap-yillik",
-      "title": "KHAS TMK 1. Kitap Yıllık (Tam paket) Ders Notu | İstanbul",
-      "href": "/ders-notlari/kadir-has/tmk-1-kitap-yillik"
-    },
-    {
-      "uniSlug": "kadir-has",
       "courseCode": "tmk-2-kitap-donem-1",
       "slug": "kadir-has__tmk-2-kitap-donem-1",
       "title": "KHAS TMK 2. Kitap 1. Dönem (Güz) Ders Notu | İstanbul",
@@ -35076,27 +34299,6 @@
       "slug": "kirikkale__ticari-isletme",
       "title": "Kırıkkale Ticari İşletme Hukuku Ders Notları — Şematik & Örnekli | Kırıkkale",
       "href": "/ders-notlari/kirikkale/ticari-isletme"
-    },
-    {
-      "uniSlug": "kirikkale",
-      "courseCode": "tmk-1-kitap-donem-1",
-      "slug": "kirikkale__tmk-1-kitap-donem-1",
-      "title": "Kırıkkale TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Kırıkkale",
-      "href": "/ders-notlari/kirikkale/tmk-1-kitap-donem-1"
-    },
-    {
-      "uniSlug": "kirikkale",
-      "courseCode": "tmk-1-kitap-donem-2",
-      "slug": "kirikkale__tmk-1-kitap-donem-2",
-      "title": "Kırıkkale TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Kırıkkale",
-      "href": "/ders-notlari/kirikkale/tmk-1-kitap-donem-2"
-    },
-    {
-      "uniSlug": "kirikkale",
-      "courseCode": "tmk-1-kitap-yillik",
-      "slug": "kirikkale__tmk-1-kitap-yillik",
-      "title": "Kırıkkale TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Kırıkkale",
-      "href": "/ders-notlari/kirikkale/tmk-1-kitap-yillik"
     },
     {
       "uniSlug": "kirikkale",
@@ -35989,27 +35191,6 @@
     },
     {
       "uniSlug": "kirklareli",
-      "courseCode": "tmk-1-kitap-donem-1",
-      "slug": "kirklareli__tmk-1-kitap-donem-1",
-      "title": "Kırklareli TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Kırklareli",
-      "href": "/ders-notlari/kirklareli/tmk-1-kitap-donem-1"
-    },
-    {
-      "uniSlug": "kirklareli",
-      "courseCode": "tmk-1-kitap-donem-2",
-      "slug": "kirklareli__tmk-1-kitap-donem-2",
-      "title": "Kırklareli TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Kırklareli",
-      "href": "/ders-notlari/kirklareli/tmk-1-kitap-donem-2"
-    },
-    {
-      "uniSlug": "kirklareli",
-      "courseCode": "tmk-1-kitap-yillik",
-      "slug": "kirklareli__tmk-1-kitap-yillik",
-      "title": "Kırklareli TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Kırklareli",
-      "href": "/ders-notlari/kirklareli/tmk-1-kitap-yillik"
-    },
-    {
-      "uniSlug": "kirklareli",
       "courseCode": "tmk-2-kitap-donem-1",
       "slug": "kirklareli__tmk-2-kitap-donem-1",
       "title": "Kırklareli TMK 2. Kitap 1. Dönem (Güz) Ders Notu | Kırklareli",
@@ -36896,27 +36077,6 @@
       "slug": "kocaeli__ticari-isletme",
       "title": "KOÜ Ticari İşletme Hukuku Ders Notları — Şematik & Örnekli | Kocaeli",
       "href": "/ders-notlari/kocaeli/ticari-isletme"
-    },
-    {
-      "uniSlug": "kocaeli",
-      "courseCode": "tmk-1-kitap-donem-1",
-      "slug": "kocaeli__tmk-1-kitap-donem-1",
-      "title": "KOÜ TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Kocaeli",
-      "href": "/ders-notlari/kocaeli/tmk-1-kitap-donem-1"
-    },
-    {
-      "uniSlug": "kocaeli",
-      "courseCode": "tmk-1-kitap-donem-2",
-      "slug": "kocaeli__tmk-1-kitap-donem-2",
-      "title": "KOÜ TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Kocaeli",
-      "href": "/ders-notlari/kocaeli/tmk-1-kitap-donem-2"
-    },
-    {
-      "uniSlug": "kocaeli",
-      "courseCode": "tmk-1-kitap-yillik",
-      "slug": "kocaeli__tmk-1-kitap-yillik",
-      "title": "KOÜ TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Kocaeli",
-      "href": "/ders-notlari/kocaeli/tmk-1-kitap-yillik"
     },
     {
       "uniSlug": "kocaeli",
@@ -37809,27 +36969,6 @@
     },
     {
       "uniSlug": "koc",
-      "courseCode": "tmk-1-kitap-donem-1",
-      "slug": "koc__tmk-1-kitap-donem-1",
-      "title": "Koç TMK 1. Kitap 1. Dönem (Güz) Ders Notu | İstanbul",
-      "href": "/ders-notlari/koc/tmk-1-kitap-donem-1"
-    },
-    {
-      "uniSlug": "koc",
-      "courseCode": "tmk-1-kitap-donem-2",
-      "slug": "koc__tmk-1-kitap-donem-2",
-      "title": "Koç TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | İstanbul",
-      "href": "/ders-notlari/koc/tmk-1-kitap-donem-2"
-    },
-    {
-      "uniSlug": "koc",
-      "courseCode": "tmk-1-kitap-yillik",
-      "slug": "koc__tmk-1-kitap-yillik",
-      "title": "Koç TMK 1. Kitap Yıllık (Tam paket) Ders Notu | İstanbul",
-      "href": "/ders-notlari/koc/tmk-1-kitap-yillik"
-    },
-    {
-      "uniSlug": "koc",
       "courseCode": "tmk-2-kitap-donem-1",
       "slug": "koc__tmk-2-kitap-donem-1",
       "title": "Koç TMK 2. Kitap 1. Dönem (Güz) Ders Notu | İstanbul",
@@ -38716,27 +37855,6 @@
       "slug": "kultur__ticari-isletme",
       "title": "İKÜ Ticari İşletme Hukuku Ders Notları — Şematik & Örnekli | İstanbul",
       "href": "/ders-notlari/kultur/ticari-isletme"
-    },
-    {
-      "uniSlug": "kultur",
-      "courseCode": "tmk-1-kitap-donem-1",
-      "slug": "kultur__tmk-1-kitap-donem-1",
-      "title": "İKÜ TMK 1. Kitap 1. Dönem (Güz) Ders Notu | İstanbul",
-      "href": "/ders-notlari/kultur/tmk-1-kitap-donem-1"
-    },
-    {
-      "uniSlug": "kultur",
-      "courseCode": "tmk-1-kitap-donem-2",
-      "slug": "kultur__tmk-1-kitap-donem-2",
-      "title": "İKÜ TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | İstanbul",
-      "href": "/ders-notlari/kultur/tmk-1-kitap-donem-2"
-    },
-    {
-      "uniSlug": "kultur",
-      "courseCode": "tmk-1-kitap-yillik",
-      "slug": "kultur__tmk-1-kitap-yillik",
-      "title": "İKÜ TMK 1. Kitap Yıllık (Tam paket) Ders Notu | İstanbul",
-      "href": "/ders-notlari/kultur/tmk-1-kitap-yillik"
     },
     {
       "uniSlug": "kultur",
@@ -39629,27 +38747,6 @@
     },
     {
       "uniSlug": "maltepe",
-      "courseCode": "tmk-1-kitap-donem-1",
-      "slug": "maltepe__tmk-1-kitap-donem-1",
-      "title": "Maltepe TMK 1. Kitap 1. Dönem (Güz) Ders Notu | İstanbul",
-      "href": "/ders-notlari/maltepe/tmk-1-kitap-donem-1"
-    },
-    {
-      "uniSlug": "maltepe",
-      "courseCode": "tmk-1-kitap-donem-2",
-      "slug": "maltepe__tmk-1-kitap-donem-2",
-      "title": "Maltepe TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | İstanbul",
-      "href": "/ders-notlari/maltepe/tmk-1-kitap-donem-2"
-    },
-    {
-      "uniSlug": "maltepe",
-      "courseCode": "tmk-1-kitap-yillik",
-      "slug": "maltepe__tmk-1-kitap-yillik",
-      "title": "Maltepe TMK 1. Kitap Yıllık (Tam paket) Ders Notu | İstanbul",
-      "href": "/ders-notlari/maltepe/tmk-1-kitap-yillik"
-    },
-    {
-      "uniSlug": "maltepe",
       "courseCode": "tmk-2-kitap-donem-1",
       "slug": "maltepe__tmk-2-kitap-donem-1",
       "title": "Maltepe TMK 2. Kitap 1. Dönem (Güz) Ders Notu | İstanbul",
@@ -40536,27 +39633,6 @@
       "slug": "marmara__ticari-isletme",
       "title": "MÜHF Ticari İşletme Hukuku Ders Notları — Şematik & Örnekli | İstanbul",
       "href": "/ders-notlari/marmara/ticari-isletme"
-    },
-    {
-      "uniSlug": "marmara",
-      "courseCode": "tmk-1-kitap-donem-1",
-      "slug": "marmara__tmk-1-kitap-donem-1",
-      "title": "MÜHF TMK 1. Kitap 1. Dönem (Güz) Ders Notu | İstanbul",
-      "href": "/ders-notlari/marmara/tmk-1-kitap-donem-1"
-    },
-    {
-      "uniSlug": "marmara",
-      "courseCode": "tmk-1-kitap-donem-2",
-      "slug": "marmara__tmk-1-kitap-donem-2",
-      "title": "MÜHF TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | İstanbul",
-      "href": "/ders-notlari/marmara/tmk-1-kitap-donem-2"
-    },
-    {
-      "uniSlug": "marmara",
-      "courseCode": "tmk-1-kitap-yillik",
-      "slug": "marmara__tmk-1-kitap-yillik",
-      "title": "MÜHF TMK 1. Kitap Yıllık (Tam paket) Ders Notu | İstanbul",
-      "href": "/ders-notlari/marmara/tmk-1-kitap-yillik"
     },
     {
       "uniSlug": "marmara",
@@ -41449,27 +40525,6 @@
     },
     {
       "uniSlug": "okan",
-      "courseCode": "tmk-1-kitap-donem-1",
-      "slug": "okan__tmk-1-kitap-donem-1",
-      "title": "Okan TMK 1. Kitap 1. Dönem (Güz) Ders Notu | İstanbul",
-      "href": "/ders-notlari/okan/tmk-1-kitap-donem-1"
-    },
-    {
-      "uniSlug": "okan",
-      "courseCode": "tmk-1-kitap-donem-2",
-      "slug": "okan__tmk-1-kitap-donem-2",
-      "title": "Okan TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | İstanbul",
-      "href": "/ders-notlari/okan/tmk-1-kitap-donem-2"
-    },
-    {
-      "uniSlug": "okan",
-      "courseCode": "tmk-1-kitap-yillik",
-      "slug": "okan__tmk-1-kitap-yillik",
-      "title": "Okan TMK 1. Kitap Yıllık (Tam paket) Ders Notu | İstanbul",
-      "href": "/ders-notlari/okan/tmk-1-kitap-yillik"
-    },
-    {
-      "uniSlug": "okan",
       "courseCode": "tmk-2-kitap-donem-1",
       "slug": "okan__tmk-2-kitap-donem-1",
       "title": "Okan TMK 2. Kitap 1. Dönem (Güz) Ders Notu | İstanbul",
@@ -42356,27 +41411,6 @@
       "slug": "ozyegin__ticari-isletme",
       "title": "Özyeğin Ticari İşletme Hukuku Ders Notları — Şematik & Örnekli | İstanbul",
       "href": "/ders-notlari/ozyegin/ticari-isletme"
-    },
-    {
-      "uniSlug": "ozyegin",
-      "courseCode": "tmk-1-kitap-donem-1",
-      "slug": "ozyegin__tmk-1-kitap-donem-1",
-      "title": "Özyeğin TMK 1. Kitap 1. Dönem (Güz) Ders Notu | İstanbul",
-      "href": "/ders-notlari/ozyegin/tmk-1-kitap-donem-1"
-    },
-    {
-      "uniSlug": "ozyegin",
-      "courseCode": "tmk-1-kitap-donem-2",
-      "slug": "ozyegin__tmk-1-kitap-donem-2",
-      "title": "Özyeğin TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | İstanbul",
-      "href": "/ders-notlari/ozyegin/tmk-1-kitap-donem-2"
-    },
-    {
-      "uniSlug": "ozyegin",
-      "courseCode": "tmk-1-kitap-yillik",
-      "slug": "ozyegin__tmk-1-kitap-yillik",
-      "title": "Özyeğin TMK 1. Kitap Yıllık (Tam paket) Ders Notu | İstanbul",
-      "href": "/ders-notlari/ozyegin/tmk-1-kitap-yillik"
     },
     {
       "uniSlug": "ozyegin",
@@ -43269,27 +42303,6 @@
     },
     {
       "uniSlug": "pamukkale",
-      "courseCode": "tmk-1-kitap-donem-1",
-      "slug": "pamukkale__tmk-1-kitap-donem-1",
-      "title": "PAÜ TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Denizli",
-      "href": "/ders-notlari/pamukkale/tmk-1-kitap-donem-1"
-    },
-    {
-      "uniSlug": "pamukkale",
-      "courseCode": "tmk-1-kitap-donem-2",
-      "slug": "pamukkale__tmk-1-kitap-donem-2",
-      "title": "PAÜ TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Denizli",
-      "href": "/ders-notlari/pamukkale/tmk-1-kitap-donem-2"
-    },
-    {
-      "uniSlug": "pamukkale",
-      "courseCode": "tmk-1-kitap-yillik",
-      "slug": "pamukkale__tmk-1-kitap-yillik",
-      "title": "PAÜ TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Denizli",
-      "href": "/ders-notlari/pamukkale/tmk-1-kitap-yillik"
-    },
-    {
-      "uniSlug": "pamukkale",
       "courseCode": "tmk-2-kitap-donem-1",
       "slug": "pamukkale__tmk-2-kitap-donem-1",
       "title": "PAÜ TMK 2. Kitap 1. Dönem (Güz) Ders Notu | Denizli",
@@ -44176,27 +43189,6 @@
       "slug": "rize__ticari-isletme",
       "title": "RTEÜ Ticari İşletme Hukuku Ders Notları — Şematik & Örnekli | Rize",
       "href": "/ders-notlari/rize/ticari-isletme"
-    },
-    {
-      "uniSlug": "rize",
-      "courseCode": "tmk-1-kitap-donem-1",
-      "slug": "rize__tmk-1-kitap-donem-1",
-      "title": "RTEÜ TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Rize",
-      "href": "/ders-notlari/rize/tmk-1-kitap-donem-1"
-    },
-    {
-      "uniSlug": "rize",
-      "courseCode": "tmk-1-kitap-donem-2",
-      "slug": "rize__tmk-1-kitap-donem-2",
-      "title": "RTEÜ TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Rize",
-      "href": "/ders-notlari/rize/tmk-1-kitap-donem-2"
-    },
-    {
-      "uniSlug": "rize",
-      "courseCode": "tmk-1-kitap-yillik",
-      "slug": "rize__tmk-1-kitap-yillik",
-      "title": "RTEÜ TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Rize",
-      "href": "/ders-notlari/rize/tmk-1-kitap-yillik"
     },
     {
       "uniSlug": "rize",
@@ -45089,27 +44081,6 @@
     },
     {
       "uniSlug": "sakarya",
-      "courseCode": "tmk-1-kitap-donem-1",
-      "slug": "sakarya__tmk-1-kitap-donem-1",
-      "title": "SAÜ TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Sakarya",
-      "href": "/ders-notlari/sakarya/tmk-1-kitap-donem-1"
-    },
-    {
-      "uniSlug": "sakarya",
-      "courseCode": "tmk-1-kitap-donem-2",
-      "slug": "sakarya__tmk-1-kitap-donem-2",
-      "title": "SAÜ TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Sakarya",
-      "href": "/ders-notlari/sakarya/tmk-1-kitap-donem-2"
-    },
-    {
-      "uniSlug": "sakarya",
-      "courseCode": "tmk-1-kitap-yillik",
-      "slug": "sakarya__tmk-1-kitap-yillik",
-      "title": "SAÜ TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Sakarya",
-      "href": "/ders-notlari/sakarya/tmk-1-kitap-yillik"
-    },
-    {
-      "uniSlug": "sakarya",
       "courseCode": "tmk-2-kitap-donem-1",
       "slug": "sakarya__tmk-2-kitap-donem-1",
       "title": "SAÜ TMK 2. Kitap 1. Dönem (Güz) Ders Notu | Sakarya",
@@ -45996,27 +44967,6 @@
       "slug": "samsun__ticari-isletme",
       "title": "OMÜ Ticari İşletme Hukuku Ders Notları — Şematik & Örnekli | Samsun",
       "href": "/ders-notlari/samsun/ticari-isletme"
-    },
-    {
-      "uniSlug": "samsun",
-      "courseCode": "tmk-1-kitap-donem-1",
-      "slug": "samsun__tmk-1-kitap-donem-1",
-      "title": "OMÜ TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Samsun",
-      "href": "/ders-notlari/samsun/tmk-1-kitap-donem-1"
-    },
-    {
-      "uniSlug": "samsun",
-      "courseCode": "tmk-1-kitap-donem-2",
-      "slug": "samsun__tmk-1-kitap-donem-2",
-      "title": "OMÜ TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Samsun",
-      "href": "/ders-notlari/samsun/tmk-1-kitap-donem-2"
-    },
-    {
-      "uniSlug": "samsun",
-      "courseCode": "tmk-1-kitap-yillik",
-      "slug": "samsun__tmk-1-kitap-yillik",
-      "title": "OMÜ TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Samsun",
-      "href": "/ders-notlari/samsun/tmk-1-kitap-yillik"
     },
     {
       "uniSlug": "samsun",
@@ -46909,27 +45859,6 @@
     },
     {
       "uniSlug": "selcuk",
-      "courseCode": "tmk-1-kitap-donem-1",
-      "slug": "selcuk__tmk-1-kitap-donem-1",
-      "title": "Selçuk TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Konya",
-      "href": "/ders-notlari/selcuk/tmk-1-kitap-donem-1"
-    },
-    {
-      "uniSlug": "selcuk",
-      "courseCode": "tmk-1-kitap-donem-2",
-      "slug": "selcuk__tmk-1-kitap-donem-2",
-      "title": "Selçuk TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Konya",
-      "href": "/ders-notlari/selcuk/tmk-1-kitap-donem-2"
-    },
-    {
-      "uniSlug": "selcuk",
-      "courseCode": "tmk-1-kitap-yillik",
-      "slug": "selcuk__tmk-1-kitap-yillik",
-      "title": "Selçuk TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Konya",
-      "href": "/ders-notlari/selcuk/tmk-1-kitap-yillik"
-    },
-    {
-      "uniSlug": "selcuk",
       "courseCode": "tmk-2-kitap-donem-1",
       "slug": "selcuk__tmk-2-kitap-donem-1",
       "title": "Selçuk TMK 2. Kitap 1. Dönem (Güz) Ders Notu | Konya",
@@ -47816,27 +46745,6 @@
       "slug": "sivas-cumhuriyet__ticari-isletme",
       "title": "SCÜ Ticari İşletme Hukuku Ders Notları — Şematik & Örnekli | Sivas",
       "href": "/ders-notlari/sivas-cumhuriyet/ticari-isletme"
-    },
-    {
-      "uniSlug": "sivas-cumhuriyet",
-      "courseCode": "tmk-1-kitap-donem-1",
-      "slug": "sivas-cumhuriyet__tmk-1-kitap-donem-1",
-      "title": "SCÜ TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Sivas",
-      "href": "/ders-notlari/sivas-cumhuriyet/tmk-1-kitap-donem-1"
-    },
-    {
-      "uniSlug": "sivas-cumhuriyet",
-      "courseCode": "tmk-1-kitap-donem-2",
-      "slug": "sivas-cumhuriyet__tmk-1-kitap-donem-2",
-      "title": "SCÜ TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Sivas",
-      "href": "/ders-notlari/sivas-cumhuriyet/tmk-1-kitap-donem-2"
-    },
-    {
-      "uniSlug": "sivas-cumhuriyet",
-      "courseCode": "tmk-1-kitap-yillik",
-      "slug": "sivas-cumhuriyet__tmk-1-kitap-yillik",
-      "title": "SCÜ TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Sivas",
-      "href": "/ders-notlari/sivas-cumhuriyet/tmk-1-kitap-yillik"
     },
     {
       "uniSlug": "sivas-cumhuriyet",
@@ -48729,27 +47637,6 @@
     },
     {
       "uniSlug": "suleyman-demirel",
-      "courseCode": "tmk-1-kitap-donem-1",
-      "slug": "suleyman-demirel__tmk-1-kitap-donem-1",
-      "title": "SDÜ TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Isparta",
-      "href": "/ders-notlari/suleyman-demirel/tmk-1-kitap-donem-1"
-    },
-    {
-      "uniSlug": "suleyman-demirel",
-      "courseCode": "tmk-1-kitap-donem-2",
-      "slug": "suleyman-demirel__tmk-1-kitap-donem-2",
-      "title": "SDÜ TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Isparta",
-      "href": "/ders-notlari/suleyman-demirel/tmk-1-kitap-donem-2"
-    },
-    {
-      "uniSlug": "suleyman-demirel",
-      "courseCode": "tmk-1-kitap-yillik",
-      "slug": "suleyman-demirel__tmk-1-kitap-yillik",
-      "title": "SDÜ TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Isparta",
-      "href": "/ders-notlari/suleyman-demirel/tmk-1-kitap-yillik"
-    },
-    {
-      "uniSlug": "suleyman-demirel",
       "courseCode": "tmk-2-kitap-donem-1",
       "slug": "suleyman-demirel__tmk-2-kitap-donem-1",
       "title": "SDÜ TMK 2. Kitap 1. Dönem (Güz) Ders Notu | Isparta",
@@ -49636,27 +48523,6 @@
       "slug": "tekirdag__ticari-isletme",
       "title": "NKÜ Ticari İşletme Hukuku Ders Notları — Şematik & Örnekli | Tekirdağ",
       "href": "/ders-notlari/tekirdag/ticari-isletme"
-    },
-    {
-      "uniSlug": "tekirdag",
-      "courseCode": "tmk-1-kitap-donem-1",
-      "slug": "tekirdag__tmk-1-kitap-donem-1",
-      "title": "NKÜ TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Tekirdağ",
-      "href": "/ders-notlari/tekirdag/tmk-1-kitap-donem-1"
-    },
-    {
-      "uniSlug": "tekirdag",
-      "courseCode": "tmk-1-kitap-donem-2",
-      "slug": "tekirdag__tmk-1-kitap-donem-2",
-      "title": "NKÜ TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Tekirdağ",
-      "href": "/ders-notlari/tekirdag/tmk-1-kitap-donem-2"
-    },
-    {
-      "uniSlug": "tekirdag",
-      "courseCode": "tmk-1-kitap-yillik",
-      "slug": "tekirdag__tmk-1-kitap-yillik",
-      "title": "NKÜ TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Tekirdağ",
-      "href": "/ders-notlari/tekirdag/tmk-1-kitap-yillik"
     },
     {
       "uniSlug": "tekirdag",
@@ -50549,27 +49415,6 @@
     },
     {
       "uniSlug": "tobb-etu",
-      "courseCode": "tmk-1-kitap-donem-1",
-      "slug": "tobb-etu__tmk-1-kitap-donem-1",
-      "title": "TOBB ETÜ TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Ankara",
-      "href": "/ders-notlari/tobb-etu/tmk-1-kitap-donem-1"
-    },
-    {
-      "uniSlug": "tobb-etu",
-      "courseCode": "tmk-1-kitap-donem-2",
-      "slug": "tobb-etu__tmk-1-kitap-donem-2",
-      "title": "TOBB ETÜ TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Ankara",
-      "href": "/ders-notlari/tobb-etu/tmk-1-kitap-donem-2"
-    },
-    {
-      "uniSlug": "tobb-etu",
-      "courseCode": "tmk-1-kitap-yillik",
-      "slug": "tobb-etu__tmk-1-kitap-yillik",
-      "title": "TOBB ETÜ TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Ankara",
-      "href": "/ders-notlari/tobb-etu/tmk-1-kitap-yillik"
-    },
-    {
-      "uniSlug": "tobb-etu",
       "courseCode": "tmk-2-kitap-donem-1",
       "slug": "tobb-etu__tmk-2-kitap-donem-1",
       "title": "TOBB ETÜ TMK 2. Kitap 1. Dönem (Güz) Ders Notu | Ankara",
@@ -51456,27 +50301,6 @@
       "slug": "tokat__ticari-isletme",
       "title": "TOGÜ Ticari İşletme Hukuku Ders Notları — Şematik & Örnekli | Tokat",
       "href": "/ders-notlari/tokat/ticari-isletme"
-    },
-    {
-      "uniSlug": "tokat",
-      "courseCode": "tmk-1-kitap-donem-1",
-      "slug": "tokat__tmk-1-kitap-donem-1",
-      "title": "TOGÜ TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Tokat",
-      "href": "/ders-notlari/tokat/tmk-1-kitap-donem-1"
-    },
-    {
-      "uniSlug": "tokat",
-      "courseCode": "tmk-1-kitap-donem-2",
-      "slug": "tokat__tmk-1-kitap-donem-2",
-      "title": "TOGÜ TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Tokat",
-      "href": "/ders-notlari/tokat/tmk-1-kitap-donem-2"
-    },
-    {
-      "uniSlug": "tokat",
-      "courseCode": "tmk-1-kitap-yillik",
-      "slug": "tokat__tmk-1-kitap-yillik",
-      "title": "TOGÜ TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Tokat",
-      "href": "/ders-notlari/tokat/tmk-1-kitap-yillik"
     },
     {
       "uniSlug": "tokat",
@@ -52369,27 +51193,6 @@
     },
     {
       "uniSlug": "ufuk",
-      "courseCode": "tmk-1-kitap-donem-1",
-      "slug": "ufuk__tmk-1-kitap-donem-1",
-      "title": "Ufuk TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Ankara",
-      "href": "/ders-notlari/ufuk/tmk-1-kitap-donem-1"
-    },
-    {
-      "uniSlug": "ufuk",
-      "courseCode": "tmk-1-kitap-donem-2",
-      "slug": "ufuk__tmk-1-kitap-donem-2",
-      "title": "Ufuk TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Ankara",
-      "href": "/ders-notlari/ufuk/tmk-1-kitap-donem-2"
-    },
-    {
-      "uniSlug": "ufuk",
-      "courseCode": "tmk-1-kitap-yillik",
-      "slug": "ufuk__tmk-1-kitap-yillik",
-      "title": "Ufuk TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Ankara",
-      "href": "/ders-notlari/ufuk/tmk-1-kitap-yillik"
-    },
-    {
-      "uniSlug": "ufuk",
       "courseCode": "tmk-2-kitap-donem-1",
       "slug": "ufuk__tmk-2-kitap-donem-1",
       "title": "Ufuk TMK 2. Kitap 1. Dönem (Güz) Ders Notu | Ankara",
@@ -53276,27 +52079,6 @@
       "slug": "uludag__ticari-isletme",
       "title": "Uludağ Ticari İşletme Hukuku Ders Notları — Şematik & Örnekli | Bursa",
       "href": "/ders-notlari/uludag/ticari-isletme"
-    },
-    {
-      "uniSlug": "uludag",
-      "courseCode": "tmk-1-kitap-donem-1",
-      "slug": "uludag__tmk-1-kitap-donem-1",
-      "title": "Uludağ TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Bursa",
-      "href": "/ders-notlari/uludag/tmk-1-kitap-donem-1"
-    },
-    {
-      "uniSlug": "uludag",
-      "courseCode": "tmk-1-kitap-donem-2",
-      "slug": "uludag__tmk-1-kitap-donem-2",
-      "title": "Uludağ TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Bursa",
-      "href": "/ders-notlari/uludag/tmk-1-kitap-donem-2"
-    },
-    {
-      "uniSlug": "uludag",
-      "courseCode": "tmk-1-kitap-yillik",
-      "slug": "uludag__tmk-1-kitap-yillik",
-      "title": "Uludağ TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Bursa",
-      "href": "/ders-notlari/uludag/tmk-1-kitap-yillik"
     },
     {
       "uniSlug": "uludag",
@@ -54189,27 +52971,6 @@
     },
     {
       "uniSlug": "yasar",
-      "courseCode": "tmk-1-kitap-donem-1",
-      "slug": "yasar__tmk-1-kitap-donem-1",
-      "title": "Yaşar TMK 1. Kitap 1. Dönem (Güz) Ders Notu | İzmir",
-      "href": "/ders-notlari/yasar/tmk-1-kitap-donem-1"
-    },
-    {
-      "uniSlug": "yasar",
-      "courseCode": "tmk-1-kitap-donem-2",
-      "slug": "yasar__tmk-1-kitap-donem-2",
-      "title": "Yaşar TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | İzmir",
-      "href": "/ders-notlari/yasar/tmk-1-kitap-donem-2"
-    },
-    {
-      "uniSlug": "yasar",
-      "courseCode": "tmk-1-kitap-yillik",
-      "slug": "yasar__tmk-1-kitap-yillik",
-      "title": "Yaşar TMK 1. Kitap Yıllık (Tam paket) Ders Notu | İzmir",
-      "href": "/ders-notlari/yasar/tmk-1-kitap-yillik"
-    },
-    {
-      "uniSlug": "yasar",
       "courseCode": "tmk-2-kitap-donem-1",
       "slug": "yasar__tmk-2-kitap-donem-1",
       "title": "Yaşar TMK 2. Kitap 1. Dönem (Güz) Ders Notu | İzmir",
@@ -55096,27 +53857,6 @@
       "slug": "yeditepe__ticari-isletme",
       "title": "Yeditepe Ticari İşletme Hukuku Ders Notları — Şematik & Örnekli | İstanbul",
       "href": "/ders-notlari/yeditepe/ticari-isletme"
-    },
-    {
-      "uniSlug": "yeditepe",
-      "courseCode": "tmk-1-kitap-donem-1",
-      "slug": "yeditepe__tmk-1-kitap-donem-1",
-      "title": "Yeditepe TMK 1. Kitap 1. Dönem (Güz) Ders Notu | İstanbul",
-      "href": "/ders-notlari/yeditepe/tmk-1-kitap-donem-1"
-    },
-    {
-      "uniSlug": "yeditepe",
-      "courseCode": "tmk-1-kitap-donem-2",
-      "slug": "yeditepe__tmk-1-kitap-donem-2",
-      "title": "Yeditepe TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | İstanbul",
-      "href": "/ders-notlari/yeditepe/tmk-1-kitap-donem-2"
-    },
-    {
-      "uniSlug": "yeditepe",
-      "courseCode": "tmk-1-kitap-yillik",
-      "slug": "yeditepe__tmk-1-kitap-yillik",
-      "title": "Yeditepe TMK 1. Kitap Yıllık (Tam paket) Ders Notu | İstanbul",
-      "href": "/ders-notlari/yeditepe/tmk-1-kitap-yillik"
     },
     {
       "uniSlug": "yeditepe",
@@ -56009,27 +54749,6 @@
     },
     {
       "uniSlug": "yozgat",
-      "courseCode": "tmk-1-kitap-donem-1",
-      "slug": "yozgat__tmk-1-kitap-donem-1",
-      "title": "Bozok TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Yozgat",
-      "href": "/ders-notlari/yozgat/tmk-1-kitap-donem-1"
-    },
-    {
-      "uniSlug": "yozgat",
-      "courseCode": "tmk-1-kitap-donem-2",
-      "slug": "yozgat__tmk-1-kitap-donem-2",
-      "title": "Bozok TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Yozgat",
-      "href": "/ders-notlari/yozgat/tmk-1-kitap-donem-2"
-    },
-    {
-      "uniSlug": "yozgat",
-      "courseCode": "tmk-1-kitap-yillik",
-      "slug": "yozgat__tmk-1-kitap-yillik",
-      "title": "Bozok TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Yozgat",
-      "href": "/ders-notlari/yozgat/tmk-1-kitap-yillik"
-    },
-    {
-      "uniSlug": "yozgat",
       "courseCode": "tmk-2-kitap-donem-1",
       "slug": "yozgat__tmk-2-kitap-donem-1",
       "title": "Bozok TMK 2. Kitap 1. Dönem (Güz) Ders Notu | Yozgat",
@@ -56104,6 +54823,2275 @@
       "slug": "yozgat__vergi-hukuku",
       "title": "Bozok Vergi Hukuku Ders Notları — Şematik & Örnekli | Yozgat",
       "href": "/ders-notlari/yozgat/vergi-hukuku"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "ankara-yildirim-beyazit__tmk-1-kitap-donem-1",
+      "title": "AYBÜ TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "ankara-yildirim-beyazit__tmk-1-kitap-donem-2",
+      "title": "AYBÜ TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara-yildirim-beyazit",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "ankara-yildirim-beyazit__tmk-1-kitap-yillik",
+      "title": "AYBÜ TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-yildirim-beyazit/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "ankara__tmk-1-kitap-donem-1",
+      "title": "AÜHF TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "ankara__tmk-1-kitap-donem-2",
+      "title": "AÜHF TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "ankara__tmk-1-kitap-yillik",
+      "title": "AÜHF TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "istanbul__tmk-1-kitap-donem-1",
+      "title": "İÜHF TMK 1. Kitap 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "istanbul__tmk-1-kitap-donem-2",
+      "title": "İÜHF TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "istanbul__tmk-1-kitap-yillik",
+      "title": "İÜHF TMK 1. Kitap Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "marmara__tmk-1-kitap-donem-1",
+      "title": "MÜHF TMK 1. Kitap 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "marmara__tmk-1-kitap-donem-2",
+      "title": "MÜHF TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "marmara",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "marmara__tmk-1-kitap-yillik",
+      "title": "MÜHF TMK 1. Kitap Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/marmara/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "galatasaray__tmk-1-kitap-donem-1",
+      "title": "GSÜ TMK 1. Kitap 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "galatasaray__tmk-1-kitap-donem-2",
+      "title": "GSÜ TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "galatasaray",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "galatasaray__tmk-1-kitap-yillik",
+      "title": "GSÜ TMK 1. Kitap Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/galatasaray/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "dokuz-eylul__tmk-1-kitap-donem-1",
+      "title": "DEÜ TMK 1. Kitap 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "dokuz-eylul__tmk-1-kitap-donem-2",
+      "title": "DEÜ TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dokuz-eylul",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "dokuz-eylul__tmk-1-kitap-yillik",
+      "title": "DEÜ TMK 1. Kitap Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/dokuz-eylul/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "hacettepe__tmk-1-kitap-donem-1",
+      "title": "Hacettepe TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "hacettepe__tmk-1-kitap-donem-2",
+      "title": "Hacettepe TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hacettepe",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "hacettepe__tmk-1-kitap-yillik",
+      "title": "Hacettepe TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/hacettepe/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "ankara-hacibayram__tmk-1-kitap-donem-1",
+      "title": "AHBV TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "ankara-hacibayram__tmk-1-kitap-donem-2",
+      "title": "AHBV TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara-hacibayram",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "ankara-hacibayram__tmk-1-kitap-yillik",
+      "title": "AHBV TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-hacibayram/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "bilkent__tmk-1-kitap-donem-1",
+      "title": "Bilkent TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "bilkent__tmk-1-kitap-donem-2",
+      "title": "Bilkent TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bilkent",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "bilkent__tmk-1-kitap-yillik",
+      "title": "Bilkent TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/bilkent/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "koc__tmk-1-kitap-donem-1",
+      "title": "Koç TMK 1. Kitap 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "koc__tmk-1-kitap-donem-2",
+      "title": "Koç TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "koc",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "koc__tmk-1-kitap-yillik",
+      "title": "Koç TMK 1. Kitap Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/koc/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "tobb-etu__tmk-1-kitap-donem-1",
+      "title": "TOBB ETÜ TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "tobb-etu__tmk-1-kitap-donem-2",
+      "title": "TOBB ETÜ TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tobb-etu",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "tobb-etu__tmk-1-kitap-yillik",
+      "title": "TOBB ETÜ TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/tobb-etu/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "bogazici__tmk-1-kitap-donem-1",
+      "title": "BÜ TMK 1. Kitap 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "bogazici__tmk-1-kitap-donem-2",
+      "title": "BÜ TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bogazici",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "bogazici__tmk-1-kitap-yillik",
+      "title": "BÜ TMK 1. Kitap Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bogazici/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "ozyegin__tmk-1-kitap-donem-1",
+      "title": "Özyeğin TMK 1. Kitap 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "ozyegin__tmk-1-kitap-donem-2",
+      "title": "Özyeğin TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ozyegin",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "ozyegin__tmk-1-kitap-yillik",
+      "title": "Özyeğin TMK 1. Kitap Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ozyegin/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "yeditepe__tmk-1-kitap-donem-1",
+      "title": "Yeditepe TMK 1. Kitap 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "yeditepe__tmk-1-kitap-donem-2",
+      "title": "Yeditepe TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yeditepe",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "yeditepe__tmk-1-kitap-yillik",
+      "title": "Yeditepe TMK 1. Kitap Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeditepe/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "akdeniz__tmk-1-kitap-donem-1",
+      "title": "Akdeniz TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "akdeniz__tmk-1-kitap-donem-2",
+      "title": "Akdeniz TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "akdeniz",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "akdeniz__tmk-1-kitap-yillik",
+      "title": "Akdeniz TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Antalya",
+      "href": "/ders-notlari/akdeniz/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "selcuk__tmk-1-kitap-donem-1",
+      "title": "Selçuk TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "selcuk__tmk-1-kitap-donem-2",
+      "title": "Selçuk TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "selcuk",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "selcuk__tmk-1-kitap-yillik",
+      "title": "Selçuk TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Konya",
+      "href": "/ders-notlari/selcuk/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "erciyes__tmk-1-kitap-donem-1",
+      "title": "Erciyes TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "erciyes__tmk-1-kitap-donem-2",
+      "title": "Erciyes TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "erciyes",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "erciyes__tmk-1-kitap-yillik",
+      "title": "Erciyes TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Kayseri",
+      "href": "/ders-notlari/erciyes/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "uludag__tmk-1-kitap-donem-1",
+      "title": "Uludağ TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "uludag__tmk-1-kitap-donem-2",
+      "title": "Uludağ TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "uludag",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "uludag__tmk-1-kitap-yillik",
+      "title": "Uludağ TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Bursa",
+      "href": "/ders-notlari/uludag/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "cukurova__tmk-1-kitap-donem-1",
+      "title": "Çukurova TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "cukurova__tmk-1-kitap-donem-2",
+      "title": "Çukurova TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cukurova",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "cukurova__tmk-1-kitap-yillik",
+      "title": "Çukurova TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Adana",
+      "href": "/ders-notlari/cukurova/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "anadolu__tmk-1-kitap-donem-1",
+      "title": "Anadolu TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "anadolu__tmk-1-kitap-donem-2",
+      "title": "Anadolu TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "anadolu",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "anadolu__tmk-1-kitap-yillik",
+      "title": "Anadolu TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/anadolu/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "asbu",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "asbu__tmk-1-kitap-donem-1",
+      "title": "ASBÜ TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/asbu/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "asbu",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "asbu__tmk-1-kitap-donem-2",
+      "title": "ASBÜ TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/asbu/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "asbu",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "asbu__tmk-1-kitap-yillik",
+      "title": "ASBÜ TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/asbu/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "istanbul-medeniyet__tmk-1-kitap-donem-1",
+      "title": "Medeniyet TMK 1. Kitap 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "istanbul-medeniyet__tmk-1-kitap-donem-2",
+      "title": "Medeniyet TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul-medeniyet",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "istanbul-medeniyet__tmk-1-kitap-yillik",
+      "title": "Medeniyet TMK 1. Kitap Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-medeniyet/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "bahcesehir__tmk-1-kitap-donem-1",
+      "title": "BAU TMK 1. Kitap 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "bahcesehir__tmk-1-kitap-donem-2",
+      "title": "BAU TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bahcesehir",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "bahcesehir__tmk-1-kitap-yillik",
+      "title": "BAU TMK 1. Kitap Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/bahcesehir/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "kadir-has__tmk-1-kitap-donem-1",
+      "title": "KHAS TMK 1. Kitap 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "kadir-has__tmk-1-kitap-donem-2",
+      "title": "KHAS TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kadir-has",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "kadir-has__tmk-1-kitap-yillik",
+      "title": "KHAS TMK 1. Kitap Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kadir-has/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "istanbul-bilgi__tmk-1-kitap-donem-1",
+      "title": "Bilgi TMK 1. Kitap 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "istanbul-bilgi__tmk-1-kitap-donem-2",
+      "title": "Bilgi TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul-bilgi",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "istanbul-bilgi__tmk-1-kitap-yillik",
+      "title": "Bilgi TMK 1. Kitap Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-bilgi/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "medipol",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "medipol__tmk-1-kitap-donem-1",
+      "title": "Medipol TMK 1. Kitap 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/medipol/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "medipol",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "medipol__tmk-1-kitap-donem-2",
+      "title": "Medipol TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/medipol/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "medipol",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "medipol__tmk-1-kitap-yillik",
+      "title": "Medipol TMK 1. Kitap Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/medipol/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "altinbas__tmk-1-kitap-donem-1",
+      "title": "Altınbaş TMK 1. Kitap 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "altinbas__tmk-1-kitap-donem-2",
+      "title": "Altınbaş TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "altinbas",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "altinbas__tmk-1-kitap-yillik",
+      "title": "Altınbaş TMK 1. Kitap Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/altinbas/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "maltepe__tmk-1-kitap-donem-1",
+      "title": "Maltepe TMK 1. Kitap 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "maltepe__tmk-1-kitap-donem-2",
+      "title": "Maltepe TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "maltepe",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "maltepe__tmk-1-kitap-yillik",
+      "title": "Maltepe TMK 1. Kitap Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/maltepe/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "dogus__tmk-1-kitap-donem-1",
+      "title": "Doğuş TMK 1. Kitap 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "dogus__tmk-1-kitap-donem-2",
+      "title": "Doğuş TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dogus",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "dogus__tmk-1-kitap-yillik",
+      "title": "Doğuş TMK 1. Kitap Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/dogus/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "okan__tmk-1-kitap-donem-1",
+      "title": "Okan TMK 1. Kitap 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "okan__tmk-1-kitap-donem-2",
+      "title": "Okan TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "okan",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "okan__tmk-1-kitap-yillik",
+      "title": "Okan TMK 1. Kitap Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/okan/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "kultur__tmk-1-kitap-donem-1",
+      "title": "İKÜ TMK 1. Kitap 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "kultur__tmk-1-kitap-donem-2",
+      "title": "İKÜ TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kultur",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "kultur__tmk-1-kitap-yillik",
+      "title": "İKÜ TMK 1. Kitap Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/kultur/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "aydin__tmk-1-kitap-donem-1",
+      "title": "İAÜ TMK 1. Kitap 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "aydin__tmk-1-kitap-donem-2",
+      "title": "İAÜ TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "aydin",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "aydin__tmk-1-kitap-yillik",
+      "title": "İAÜ TMK 1. Kitap Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/aydin/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "beykent__tmk-1-kitap-donem-1",
+      "title": "Beykent TMK 1. Kitap 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "beykent__tmk-1-kitap-donem-2",
+      "title": "Beykent TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "beykent",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "beykent__tmk-1-kitap-yillik",
+      "title": "Beykent TMK 1. Kitap Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/beykent/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "fatih-sultan__tmk-1-kitap-donem-1",
+      "title": "FSMVÜ TMK 1. Kitap 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "fatih-sultan__tmk-1-kitap-donem-2",
+      "title": "FSMVÜ TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "fatih-sultan",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "fatih-sultan__tmk-1-kitap-yillik",
+      "title": "FSMVÜ TMK 1. Kitap Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/fatih-sultan/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "ataturk__tmk-1-kitap-donem-1",
+      "title": "Atatürk TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "ataturk__tmk-1-kitap-donem-2",
+      "title": "Atatürk TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ataturk",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "ataturk__tmk-1-kitap-yillik",
+      "title": "Atatürk TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Erzurum",
+      "href": "/ders-notlari/ataturk/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "inonu__tmk-1-kitap-donem-1",
+      "title": "İnönü TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "inonu__tmk-1-kitap-donem-2",
+      "title": "İnönü TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "inonu",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "inonu__tmk-1-kitap-yillik",
+      "title": "İnönü TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Malatya",
+      "href": "/ders-notlari/inonu/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "dicle__tmk-1-kitap-donem-1",
+      "title": "Dicle TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "dicle__tmk-1-kitap-donem-2",
+      "title": "Dicle TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "dicle",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "dicle__tmk-1-kitap-yillik",
+      "title": "Dicle TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Diyarbakır",
+      "href": "/ders-notlari/dicle/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "gaziantep__tmk-1-kitap-donem-1",
+      "title": "GAÜN TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "gaziantep__tmk-1-kitap-donem-2",
+      "title": "GAÜN TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "gaziantep",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "gaziantep__tmk-1-kitap-yillik",
+      "title": "GAÜN TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/gaziantep/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "suleyman-demirel__tmk-1-kitap-donem-1",
+      "title": "SDÜ TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "suleyman-demirel__tmk-1-kitap-donem-2",
+      "title": "SDÜ TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "suleyman-demirel",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "suleyman-demirel__tmk-1-kitap-yillik",
+      "title": "SDÜ TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Isparta",
+      "href": "/ders-notlari/suleyman-demirel/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "pamukkale__tmk-1-kitap-donem-1",
+      "title": "PAÜ TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "pamukkale__tmk-1-kitap-donem-2",
+      "title": "PAÜ TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "pamukkale",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "pamukkale__tmk-1-kitap-yillik",
+      "title": "PAÜ TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Denizli",
+      "href": "/ders-notlari/pamukkale/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "sakarya__tmk-1-kitap-donem-1",
+      "title": "SAÜ TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "sakarya__tmk-1-kitap-donem-2",
+      "title": "SAÜ TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sakarya",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "sakarya__tmk-1-kitap-yillik",
+      "title": "SAÜ TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Sakarya",
+      "href": "/ders-notlari/sakarya/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "kocaeli__tmk-1-kitap-donem-1",
+      "title": "KOÜ TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "kocaeli__tmk-1-kitap-donem-2",
+      "title": "KOÜ TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kocaeli",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "kocaeli__tmk-1-kitap-yillik",
+      "title": "KOÜ TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Kocaeli",
+      "href": "/ders-notlari/kocaeli/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "balikesir__tmk-1-kitap-donem-1",
+      "title": "BAÜN TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "balikesir__tmk-1-kitap-donem-2",
+      "title": "BAÜN TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "balikesir",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "balikesir__tmk-1-kitap-yillik",
+      "title": "BAÜN TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Balıkesir",
+      "href": "/ders-notlari/balikesir/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "afyon__tmk-1-kitap-donem-1",
+      "title": "AKÜ TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "afyon__tmk-1-kitap-donem-2",
+      "title": "AKÜ TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "afyon",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "afyon__tmk-1-kitap-yillik",
+      "title": "AKÜ TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Afyonkarahisar",
+      "href": "/ders-notlari/afyon/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "eskisehir-osmangazi__tmk-1-kitap-donem-1",
+      "title": "ESOGÜ TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "eskisehir-osmangazi__tmk-1-kitap-donem-2",
+      "title": "ESOGÜ TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "eskisehir-osmangazi",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "eskisehir-osmangazi__tmk-1-kitap-yillik",
+      "title": "ESOGÜ TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Eskişehir",
+      "href": "/ders-notlari/eskisehir-osmangazi/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "sivas-cumhuriyet__tmk-1-kitap-donem-1",
+      "title": "SCÜ TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "sivas-cumhuriyet__tmk-1-kitap-donem-2",
+      "title": "SCÜ TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "sivas-cumhuriyet",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "sivas-cumhuriyet__tmk-1-kitap-yillik",
+      "title": "SCÜ TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Sivas",
+      "href": "/ders-notlari/sivas-cumhuriyet/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "samsun__tmk-1-kitap-donem-1",
+      "title": "OMÜ TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "samsun__tmk-1-kitap-donem-2",
+      "title": "OMÜ TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "samsun",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "samsun__tmk-1-kitap-yillik",
+      "title": "OMÜ TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Samsun",
+      "href": "/ders-notlari/samsun/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "erzincan__tmk-1-kitap-donem-1",
+      "title": "EBYÜ TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "erzincan__tmk-1-kitap-donem-2",
+      "title": "EBYÜ TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "erzincan",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "erzincan__tmk-1-kitap-yillik",
+      "title": "EBYÜ TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Erzincan",
+      "href": "/ders-notlari/erzincan/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "kirikkale__tmk-1-kitap-donem-1",
+      "title": "Kırıkkale TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "kirikkale__tmk-1-kitap-donem-2",
+      "title": "Kırıkkale TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirikkale",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "kirikkale__tmk-1-kitap-yillik",
+      "title": "Kırıkkale TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Kırıkkale",
+      "href": "/ders-notlari/kirikkale/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "necmettin-erbakan",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "necmettin-erbakan__tmk-1-kitap-donem-1",
+      "title": "NEÜ TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Konya",
+      "href": "/ders-notlari/necmettin-erbakan/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "necmettin-erbakan",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "necmettin-erbakan__tmk-1-kitap-donem-2",
+      "title": "NEÜ TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Konya",
+      "href": "/ders-notlari/necmettin-erbakan/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "necmettin-erbakan",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "necmettin-erbakan__tmk-1-kitap-yillik",
+      "title": "NEÜ TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Konya",
+      "href": "/ders-notlari/necmettin-erbakan/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "atilim__tmk-1-kitap-donem-1",
+      "title": "Atılım TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "atilim__tmk-1-kitap-donem-2",
+      "title": "Atılım TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "atilim",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "atilim__tmk-1-kitap-yillik",
+      "title": "Atılım TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/atilim/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "cankaya__tmk-1-kitap-donem-1",
+      "title": "Çankaya TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "cankaya__tmk-1-kitap-donem-2",
+      "title": "Çankaya TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cankaya",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "cankaya__tmk-1-kitap-yillik",
+      "title": "Çankaya TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/cankaya/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "baskent",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "baskent__tmk-1-kitap-donem-1",
+      "title": "Başkent TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/baskent/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "baskent",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "baskent__tmk-1-kitap-donem-2",
+      "title": "Başkent TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/baskent/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "baskent",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "baskent__tmk-1-kitap-yillik",
+      "title": "Başkent TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/baskent/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "yasar__tmk-1-kitap-donem-1",
+      "title": "Yaşar TMK 1. Kitap 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "yasar__tmk-1-kitap-donem-2",
+      "title": "Yaşar TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yasar",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "yasar__tmk-1-kitap-yillik",
+      "title": "Yaşar TMK 1. Kitap Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/yasar/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "izmir-ekonomi__tmk-1-kitap-donem-1",
+      "title": "İEÜ TMK 1. Kitap 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "izmir-ekonomi__tmk-1-kitap-donem-2",
+      "title": "İEÜ TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "izmir-ekonomi",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "izmir-ekonomi__tmk-1-kitap-yillik",
+      "title": "İEÜ TMK 1. Kitap Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-ekonomi/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "antalya-bilim",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "antalya-bilim__tmk-1-kitap-donem-1",
+      "title": "ABÜ TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Antalya",
+      "href": "/ders-notlari/antalya-bilim/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "antalya-bilim",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "antalya-bilim__tmk-1-kitap-donem-2",
+      "title": "ABÜ TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Antalya",
+      "href": "/ders-notlari/antalya-bilim/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "antalya-bilim",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "antalya-bilim__tmk-1-kitap-yillik",
+      "title": "ABÜ TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Antalya",
+      "href": "/ders-notlari/antalya-bilim/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "hasan-kalyoncu__tmk-1-kitap-donem-1",
+      "title": "HKÜ TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "hasan-kalyoncu__tmk-1-kitap-donem-2",
+      "title": "HKÜ TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "hasan-kalyoncu",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "hasan-kalyoncu__tmk-1-kitap-yillik",
+      "title": "HKÜ TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Gaziantep",
+      "href": "/ders-notlari/hasan-kalyoncu/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "turk-alman",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "turk-alman__tmk-1-kitap-donem-1",
+      "title": "TAÜ TMK 1. Kitap 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/turk-alman/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "turk-alman",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "turk-alman__tmk-1-kitap-donem-2",
+      "title": "TAÜ TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/turk-alman/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "turk-alman",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "turk-alman__tmk-1-kitap-yillik",
+      "title": "TAÜ TMK 1. Kitap Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/turk-alman/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "mef",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "mef__tmk-1-kitap-donem-1",
+      "title": "MEF TMK 1. Kitap 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mef/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "mef",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "mef__tmk-1-kitap-donem-2",
+      "title": "MEF TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mef/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "mef",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "mef__tmk-1-kitap-yillik",
+      "title": "MEF TMK 1. Kitap Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/mef/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ibn-haldun",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "ibn-haldun__tmk-1-kitap-donem-1",
+      "title": "İHÜ TMK 1. Kitap 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ibn-haldun/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ibn-haldun",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "ibn-haldun__tmk-1-kitap-donem-2",
+      "title": "İHÜ TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ibn-haldun/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ibn-haldun",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "ibn-haldun__tmk-1-kitap-yillik",
+      "title": "İHÜ TMK 1. Kitap Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/ibn-haldun/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "tokat__tmk-1-kitap-donem-1",
+      "title": "TOGÜ TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "tokat__tmk-1-kitap-donem-2",
+      "title": "TOGÜ TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tokat",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "tokat__tmk-1-kitap-yillik",
+      "title": "TOGÜ TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Tokat",
+      "href": "/ders-notlari/tokat/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "yozgat__tmk-1-kitap-donem-1",
+      "title": "Bozok TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "yozgat__tmk-1-kitap-donem-2",
+      "title": "Bozok TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yozgat",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "yozgat__tmk-1-kitap-yillik",
+      "title": "Bozok TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Yozgat",
+      "href": "/ders-notlari/yozgat/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "rize__tmk-1-kitap-donem-1",
+      "title": "RTEÜ TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "rize__tmk-1-kitap-donem-2",
+      "title": "RTEÜ TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "rize",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "rize__tmk-1-kitap-yillik",
+      "title": "RTEÜ TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Rize",
+      "href": "/ders-notlari/rize/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "bolu__tmk-1-kitap-donem-1",
+      "title": "BAİBÜ TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "bolu__tmk-1-kitap-donem-2",
+      "title": "BAİBÜ TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "bolu",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "bolu__tmk-1-kitap-yillik",
+      "title": "BAİBÜ TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Bolu",
+      "href": "/ders-notlari/bolu/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "cankiri__tmk-1-kitap-donem-1",
+      "title": "Karatekin TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "cankiri__tmk-1-kitap-donem-2",
+      "title": "Karatekin TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cankiri",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "cankiri__tmk-1-kitap-yillik",
+      "title": "Karatekin TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Çankırı",
+      "href": "/ders-notlari/cankiri/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "tekirdag__tmk-1-kitap-donem-1",
+      "title": "NKÜ TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "tekirdag__tmk-1-kitap-donem-2",
+      "title": "NKÜ TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "tekirdag",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "tekirdag__tmk-1-kitap-yillik",
+      "title": "NKÜ TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Tekirdağ",
+      "href": "/ders-notlari/tekirdag/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "kirklareli__tmk-1-kitap-donem-1",
+      "title": "Kırklareli TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "kirklareli__tmk-1-kitap-donem-2",
+      "title": "Kırklareli TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kirklareli",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "kirklareli__tmk-1-kitap-yillik",
+      "title": "Kırklareli TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Kırklareli",
+      "href": "/ders-notlari/kirklareli/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "trabzon",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "trabzon__tmk-1-kitap-donem-1",
+      "title": "Trabzon TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Trabzon",
+      "href": "/ders-notlari/trabzon/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "trabzon",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "trabzon__tmk-1-kitap-donem-2",
+      "title": "Trabzon TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Trabzon",
+      "href": "/ders-notlari/trabzon/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "trabzon",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "trabzon__tmk-1-kitap-yillik",
+      "title": "Trabzon TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Trabzon",
+      "href": "/ders-notlari/trabzon/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yalova",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "yalova__tmk-1-kitap-donem-1",
+      "title": "Yalova TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Yalova",
+      "href": "/ders-notlari/yalova/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yalova",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "yalova__tmk-1-kitap-donem-2",
+      "title": "Yalova TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Yalova",
+      "href": "/ders-notlari/yalova/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yalova",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "yalova__tmk-1-kitap-yillik",
+      "title": "Yalova TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Yalova",
+      "href": "/ders-notlari/yalova/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "izmir-bakircay",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "izmir-bakircay__tmk-1-kitap-donem-1",
+      "title": "Bakırçay TMK 1. Kitap 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-bakircay/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "izmir-bakircay",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "izmir-bakircay__tmk-1-kitap-donem-2",
+      "title": "Bakırçay TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-bakircay/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "izmir-bakircay",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "izmir-bakircay__tmk-1-kitap-yillik",
+      "title": "Bakırçay TMK 1. Kitap Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-bakircay/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "izmir-demokrasi",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "izmir-demokrasi__tmk-1-kitap-donem-1",
+      "title": "İDÜ TMK 1. Kitap 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-demokrasi/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "izmir-demokrasi",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "izmir-demokrasi__tmk-1-kitap-donem-2",
+      "title": "İDÜ TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-demokrasi/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "izmir-demokrasi",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "izmir-demokrasi__tmk-1-kitap-yillik",
+      "title": "İDÜ TMK 1. Kitap Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-demokrasi/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "izmir-katip-celebi",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "izmir-katip-celebi__tmk-1-kitap-donem-1",
+      "title": "İKÇÜ TMK 1. Kitap 1. Dönem (Güz) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-katip-celebi/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "izmir-katip-celebi",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "izmir-katip-celebi__tmk-1-kitap-donem-2",
+      "title": "İKÇÜ TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-katip-celebi/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "izmir-katip-celebi",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "izmir-katip-celebi__tmk-1-kitap-yillik",
+      "title": "İKÇÜ TMK 1. Kitap Yıllık (Tam paket) Ders Notu | İzmir",
+      "href": "/ders-notlari/izmir-katip-celebi/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "ufuk__tmk-1-kitap-donem-1",
+      "title": "Ufuk TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "ufuk__tmk-1-kitap-donem-2",
+      "title": "Ufuk TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ufuk",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "ufuk__tmk-1-kitap-yillik",
+      "title": "Ufuk TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ufuk/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara-bilim",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "ankara-bilim__tmk-1-kitap-donem-1",
+      "title": "Ankara Bilim TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-bilim/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara-bilim",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "ankara-bilim__tmk-1-kitap-donem-2",
+      "title": "Ankara Bilim TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-bilim/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara-bilim",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "ankara-bilim__tmk-1-kitap-yillik",
+      "title": "Ankara Bilim TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-bilim/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "ankara-medipol",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "ankara-medipol__tmk-1-kitap-donem-1",
+      "title": "Ankara Medipol TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-medipol/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "ankara-medipol",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "ankara-medipol__tmk-1-kitap-donem-2",
+      "title": "Ankara Medipol TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-medipol/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "ankara-medipol",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "ankara-medipol__tmk-1-kitap-yillik",
+      "title": "Ankara Medipol TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Ankara",
+      "href": "/ders-notlari/ankara-medipol/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "cag__tmk-1-kitap-donem-1",
+      "title": "Çağ TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "cag__tmk-1-kitap-donem-2",
+      "title": "Çağ TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "cag",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "cag__tmk-1-kitap-yillik",
+      "title": "Çağ TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Mersin",
+      "href": "/ders-notlari/cag/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul-29-mayis",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "istanbul-29-mayis__tmk-1-kitap-donem-1",
+      "title": "29 Mayıs TMK 1. Kitap 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-29-mayis/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul-29-mayis",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "istanbul-29-mayis__tmk-1-kitap-donem-2",
+      "title": "29 Mayıs TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-29-mayis/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul-29-mayis",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "istanbul-29-mayis__tmk-1-kitap-yillik",
+      "title": "29 Mayıs TMK 1. Kitap Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-29-mayis/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul-gedik",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "istanbul-gedik__tmk-1-kitap-donem-1",
+      "title": "Gedik TMK 1. Kitap 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-gedik/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul-gedik",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "istanbul-gedik__tmk-1-kitap-donem-2",
+      "title": "Gedik TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-gedik/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul-gedik",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "istanbul-gedik__tmk-1-kitap-yillik",
+      "title": "Gedik TMK 1. Kitap Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-gedik/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul-zaim",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "istanbul-zaim__tmk-1-kitap-donem-1",
+      "title": "İZÜ TMK 1. Kitap 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-zaim/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul-zaim",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "istanbul-zaim__tmk-1-kitap-donem-2",
+      "title": "İZÜ TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-zaim/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul-zaim",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "istanbul-zaim__tmk-1-kitap-yillik",
+      "title": "İZÜ TMK 1. Kitap Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-zaim/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "istanbul-ticaret",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "istanbul-ticaret__tmk-1-kitap-donem-1",
+      "title": "Ticaret TMK 1. Kitap 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-ticaret/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "istanbul-ticaret",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "istanbul-ticaret__tmk-1-kitap-donem-2",
+      "title": "Ticaret TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-ticaret/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "istanbul-ticaret",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "istanbul-ticaret__tmk-1-kitap-yillik",
+      "title": "Ticaret TMK 1. Kitap Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/istanbul-ticaret/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "yeni-yuzyil",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "yeni-yuzyil__tmk-1-kitap-donem-1",
+      "title": "Yeni Yüzyıl TMK 1. Kitap 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeni-yuzyil/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "yeni-yuzyil",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "yeni-yuzyil__tmk-1-kitap-donem-2",
+      "title": "Yeni Yüzyıl TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeni-yuzyil/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "yeni-yuzyil",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "yeni-yuzyil__tmk-1-kitap-yillik",
+      "title": "Yeni Yüzyıl TMK 1. Kitap Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/yeni-yuzyil/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "kto-karatay",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "kto-karatay__tmk-1-kitap-donem-1",
+      "title": "Karatay TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Konya",
+      "href": "/ders-notlari/kto-karatay/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "kto-karatay",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "kto-karatay__tmk-1-kitap-donem-2",
+      "title": "Karatay TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Konya",
+      "href": "/ders-notlari/kto-karatay/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "kto-karatay",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "kto-karatay__tmk-1-kitap-yillik",
+      "title": "Karatay TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Konya",
+      "href": "/ders-notlari/kto-karatay/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "nuh-naci-yazgan",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "nuh-naci-yazgan__tmk-1-kitap-donem-1",
+      "title": "NNY TMK 1. Kitap 1. Dönem (Güz) Ders Notu | Kayseri",
+      "href": "/ders-notlari/nuh-naci-yazgan/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "nuh-naci-yazgan",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "nuh-naci-yazgan__tmk-1-kitap-donem-2",
+      "title": "NNY TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | Kayseri",
+      "href": "/ders-notlari/nuh-naci-yazgan/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "nuh-naci-yazgan",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "nuh-naci-yazgan__tmk-1-kitap-yillik",
+      "title": "NNY TMK 1. Kitap Yıllık (Tam paket) Ders Notu | Kayseri",
+      "href": "/ders-notlari/nuh-naci-yazgan/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
+    },
+    {
+      "uniSlug": "piri-reis",
+      "courseCode": "tmk-1-kitap-donem-1",
+      "slug": "piri-reis__tmk-1-kitap-donem-1",
+      "title": "Piri Reis TMK 1. Kitap 1. Dönem (Güz) Ders Notu | İstanbul",
+      "href": "/ders-notlari/piri-reis/tmk-1-kitap-donem-1",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "1. Dönem (Güz)"
+    },
+    {
+      "uniSlug": "piri-reis",
+      "courseCode": "tmk-1-kitap-donem-2",
+      "slug": "piri-reis__tmk-1-kitap-donem-2",
+      "title": "Piri Reis TMK 1. Kitap 2. Dönem (Bahar) Ders Notu | İstanbul",
+      "href": "/ders-notlari/piri-reis/tmk-1-kitap-donem-2",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "2. Dönem (Bahar)"
+    },
+    {
+      "uniSlug": "piri-reis",
+      "courseCode": "tmk-1-kitap-yillik",
+      "slug": "piri-reis__tmk-1-kitap-yillik",
+      "title": "Piri Reis TMK 1. Kitap Yıllık (Tam paket) Ders Notu | İstanbul",
+      "href": "/ders-notlari/piri-reis/tmk-1-kitap-yillik",
+      "variantOf": "tmk-1-kitap",
+      "variantLabel": "Yıllık (Tam paket)"
     }
-  ]
+  ],
+  "tmk1KitapTripleAt": "2026-08-05T21:07:50.557Z"
 }

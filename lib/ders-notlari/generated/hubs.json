@@ -251,6 +251,30 @@
         "year": 4,
         "href": "/ders-notlari/ankara-yildirim-beyazit/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/ankara-yildirim-beyazit/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -525,6 +549,30 @@
         "year": 4,
         "href": "/ders-notlari/ankara/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/ankara/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/ankara/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/ankara/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -800,6 +848,30 @@
         "year": 4,
         "href": "/ders-notlari/istanbul/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/istanbul/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/istanbul/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/istanbul/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -1073,6 +1145,30 @@
         "year": 4,
         "href": "/ders-notlari/marmara/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/marmara/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/marmara/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/marmara/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -1348,6 +1444,30 @@
         "year": 4,
         "href": "/ders-notlari/galatasaray/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/galatasaray/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/galatasaray/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/galatasaray/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -1622,6 +1742,30 @@
         "year": 4,
         "href": "/ders-notlari/dokuz-eylul/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/dokuz-eylul/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/dokuz-eylul/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/dokuz-eylul/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -1895,6 +2039,30 @@
         "year": 4,
         "href": "/ders-notlari/hacettepe/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/hacettepe/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/hacettepe/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/hacettepe/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -2170,6 +2338,30 @@
         "year": 4,
         "href": "/ders-notlari/ankara-hacibayram/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/ankara-hacibayram/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/ankara-hacibayram/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/ankara-hacibayram/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -2443,6 +2635,30 @@
         "year": 4,
         "href": "/ders-notlari/bilkent/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/bilkent/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/bilkent/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/bilkent/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -2717,6 +2933,30 @@
         "year": 4,
         "href": "/ders-notlari/koc/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/koc/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/koc/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/koc/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -2991,6 +3231,30 @@
         "year": 4,
         "href": "/ders-notlari/tobb-etu/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/tobb-etu/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/tobb-etu/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/tobb-etu/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -3264,6 +3528,30 @@
         "year": 4,
         "href": "/ders-notlari/bogazici/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/bogazici/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/bogazici/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/bogazici/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -3537,6 +3825,30 @@
         "year": 4,
         "href": "/ders-notlari/ozyegin/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/ozyegin/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/ozyegin/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/ozyegin/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -3810,6 +4122,30 @@
         "year": 4,
         "href": "/ders-notlari/yeditepe/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/yeditepe/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/yeditepe/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/yeditepe/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -4083,6 +4419,30 @@
         "year": 4,
         "href": "/ders-notlari/akdeniz/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/akdeniz/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/akdeniz/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/akdeniz/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -4356,6 +4716,30 @@
         "year": 4,
         "href": "/ders-notlari/selcuk/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/selcuk/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/selcuk/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/selcuk/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -4629,6 +5013,30 @@
         "year": 4,
         "href": "/ders-notlari/erciyes/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/erciyes/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/erciyes/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/erciyes/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -4903,6 +5311,30 @@
         "year": 4,
         "href": "/ders-notlari/uludag/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/uludag/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/uludag/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/uludag/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -5176,6 +5608,30 @@
         "year": 4,
         "href": "/ders-notlari/cukurova/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/cukurova/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/cukurova/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/cukurova/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -5449,6 +5905,30 @@
         "year": 4,
         "href": "/ders-notlari/anadolu/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/anadolu/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/anadolu/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/anadolu/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -5723,6 +6203,30 @@
         "year": 4,
         "href": "/ders-notlari/asbu/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/asbu/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/asbu/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/asbu/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -5996,6 +6500,30 @@
         "year": 4,
         "href": "/ders-notlari/istanbul-medeniyet/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/istanbul-medeniyet/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/istanbul-medeniyet/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/istanbul-medeniyet/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -6270,6 +6798,30 @@
         "year": 4,
         "href": "/ders-notlari/bahcesehir/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/bahcesehir/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/bahcesehir/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/bahcesehir/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -6543,6 +7095,30 @@
         "year": 4,
         "href": "/ders-notlari/kadir-has/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/kadir-has/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/kadir-has/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/kadir-has/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -6816,6 +7392,30 @@
         "year": 4,
         "href": "/ders-notlari/istanbul-bilgi/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/istanbul-bilgi/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/istanbul-bilgi/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/istanbul-bilgi/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -7090,6 +7690,30 @@
         "year": 4,
         "href": "/ders-notlari/medipol/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/medipol/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/medipol/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/medipol/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -7363,6 +7987,30 @@
         "year": 4,
         "href": "/ders-notlari/altinbas/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/altinbas/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/altinbas/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/altinbas/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -7636,6 +8284,30 @@
         "year": 4,
         "href": "/ders-notlari/maltepe/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/maltepe/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/maltepe/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/maltepe/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -7909,6 +8581,30 @@
         "year": 4,
         "href": "/ders-notlari/dogus/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/dogus/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/dogus/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/dogus/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -8182,6 +8878,30 @@
         "year": 4,
         "href": "/ders-notlari/okan/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/okan/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/okan/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/okan/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -8455,6 +9175,30 @@
         "year": 4,
         "href": "/ders-notlari/kultur/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/kultur/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/kultur/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/kultur/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -8728,6 +9472,30 @@
         "year": 4,
         "href": "/ders-notlari/aydin/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/aydin/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/aydin/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/aydin/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -9001,6 +9769,30 @@
         "year": 4,
         "href": "/ders-notlari/beykent/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/beykent/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/beykent/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/beykent/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -9274,6 +10066,30 @@
         "year": 4,
         "href": "/ders-notlari/fatih-sultan/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/fatih-sultan/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/fatih-sultan/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/fatih-sultan/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -9548,6 +10364,30 @@
         "year": 4,
         "href": "/ders-notlari/ataturk/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/ataturk/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/ataturk/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/ataturk/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -9821,6 +10661,30 @@
         "year": 4,
         "href": "/ders-notlari/inonu/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/inonu/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/inonu/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/inonu/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -10094,6 +10958,30 @@
         "year": 4,
         "href": "/ders-notlari/dicle/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/dicle/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/dicle/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/dicle/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -10367,6 +11255,30 @@
         "year": 4,
         "href": "/ders-notlari/gaziantep/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/gaziantep/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/gaziantep/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/gaziantep/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -10641,6 +11553,30 @@
         "year": 4,
         "href": "/ders-notlari/suleyman-demirel/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/suleyman-demirel/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/suleyman-demirel/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/suleyman-demirel/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -10914,6 +11850,30 @@
         "year": 4,
         "href": "/ders-notlari/pamukkale/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/pamukkale/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/pamukkale/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/pamukkale/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -11187,6 +12147,30 @@
         "year": 4,
         "href": "/ders-notlari/sakarya/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/sakarya/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/sakarya/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/sakarya/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -11460,6 +12444,30 @@
         "year": 4,
         "href": "/ders-notlari/kocaeli/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/kocaeli/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/kocaeli/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/kocaeli/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -11733,6 +12741,30 @@
         "year": 4,
         "href": "/ders-notlari/balikesir/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/balikesir/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/balikesir/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/balikesir/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -12007,6 +13039,30 @@
         "year": 4,
         "href": "/ders-notlari/afyon/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/afyon/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/afyon/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/afyon/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -12280,6 +13336,30 @@
         "year": 4,
         "href": "/ders-notlari/eskisehir-osmangazi/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/eskisehir-osmangazi/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/eskisehir-osmangazi/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/eskisehir-osmangazi/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -12554,6 +13634,30 @@
         "year": 4,
         "href": "/ders-notlari/sivas-cumhuriyet/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/sivas-cumhuriyet/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/sivas-cumhuriyet/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/sivas-cumhuriyet/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -12828,6 +13932,30 @@
         "year": 4,
         "href": "/ders-notlari/samsun/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/samsun/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/samsun/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/samsun/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -13101,6 +14229,30 @@
         "year": 4,
         "href": "/ders-notlari/erzincan/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/erzincan/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/erzincan/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/erzincan/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -13374,6 +14526,30 @@
         "year": 4,
         "href": "/ders-notlari/kirikkale/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/kirikkale/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/kirikkale/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/kirikkale/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -13647,6 +14823,30 @@
         "year": 4,
         "href": "/ders-notlari/necmettin-erbakan/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/necmettin-erbakan/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/necmettin-erbakan/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/necmettin-erbakan/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -13920,6 +15120,30 @@
         "year": 4,
         "href": "/ders-notlari/atilim/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/atilim/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/atilim/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/atilim/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -14193,6 +15417,30 @@
         "year": 4,
         "href": "/ders-notlari/cankaya/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/cankaya/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/cankaya/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/cankaya/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -14466,6 +15714,30 @@
         "year": 4,
         "href": "/ders-notlari/baskent/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/baskent/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/baskent/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/baskent/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -14739,6 +16011,30 @@
         "year": 4,
         "href": "/ders-notlari/yasar/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/yasar/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/yasar/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/yasar/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -15012,6 +16308,30 @@
         "year": 4,
         "href": "/ders-notlari/izmir-ekonomi/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/izmir-ekonomi/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/izmir-ekonomi/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/izmir-ekonomi/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -15285,6 +16605,30 @@
         "year": 4,
         "href": "/ders-notlari/antalya-bilim/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/antalya-bilim/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/antalya-bilim/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/antalya-bilim/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -15558,6 +16902,30 @@
         "year": 4,
         "href": "/ders-notlari/hasan-kalyoncu/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/hasan-kalyoncu/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/hasan-kalyoncu/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/hasan-kalyoncu/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -15833,6 +17201,30 @@
         "year": 4,
         "href": "/ders-notlari/turk-alman/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/turk-alman/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/turk-alman/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/turk-alman/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -16106,6 +17498,30 @@
         "year": 4,
         "href": "/ders-notlari/mef/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/mef/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/mef/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/mef/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -16379,6 +17795,30 @@
         "year": 4,
         "href": "/ders-notlari/ibn-haldun/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/ibn-haldun/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/ibn-haldun/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/ibn-haldun/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -16652,6 +18092,30 @@
         "year": 4,
         "href": "/ders-notlari/tokat/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/tokat/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/tokat/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/tokat/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -16925,6 +18389,30 @@
         "year": 4,
         "href": "/ders-notlari/yozgat/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/yozgat/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/yozgat/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/yozgat/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -17199,6 +18687,30 @@
         "year": 4,
         "href": "/ders-notlari/rize/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/rize/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/rize/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/rize/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -17473,6 +18985,30 @@
         "year": 4,
         "href": "/ders-notlari/bolu/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/bolu/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/bolu/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/bolu/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -17746,6 +19282,30 @@
         "year": 4,
         "href": "/ders-notlari/cankiri/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/cankiri/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/cankiri/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/cankiri/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -18019,6 +19579,30 @@
         "year": 4,
         "href": "/ders-notlari/tekirdag/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/tekirdag/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/tekirdag/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/tekirdag/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -18292,6 +19876,30 @@
         "year": 4,
         "href": "/ders-notlari/kirklareli/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/kirklareli/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/kirklareli/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/kirklareli/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -18566,6 +20174,30 @@
         "year": 4,
         "href": "/ders-notlari/trabzon/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/trabzon/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/trabzon/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/trabzon/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -18839,6 +20471,30 @@
         "year": 4,
         "href": "/ders-notlari/yalova/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/yalova/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/yalova/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/yalova/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -19112,6 +20768,30 @@
         "year": 4,
         "href": "/ders-notlari/izmir-bakircay/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/izmir-bakircay/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/izmir-bakircay/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/izmir-bakircay/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -19385,6 +21065,30 @@
         "year": 4,
         "href": "/ders-notlari/izmir-demokrasi/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/izmir-demokrasi/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/izmir-demokrasi/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/izmir-demokrasi/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -19658,6 +21362,30 @@
         "year": 4,
         "href": "/ders-notlari/izmir-katip-celebi/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/izmir-katip-celebi/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/izmir-katip-celebi/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/izmir-katip-celebi/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -19931,6 +21659,30 @@
         "year": 4,
         "href": "/ders-notlari/ufuk/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/ufuk/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/ufuk/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/ufuk/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -20204,6 +21956,30 @@
         "year": 4,
         "href": "/ders-notlari/ankara-bilim/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/ankara-bilim/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/ankara-bilim/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/ankara-bilim/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -20477,6 +22253,30 @@
         "year": 4,
         "href": "/ders-notlari/ankara-medipol/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/ankara-medipol/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/ankara-medipol/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/ankara-medipol/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -20750,6 +22550,30 @@
         "year": 4,
         "href": "/ders-notlari/cag/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/cag/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/cag/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/cag/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -21023,6 +22847,30 @@
         "year": 4,
         "href": "/ders-notlari/istanbul-29-mayis/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/istanbul-29-mayis/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/istanbul-29-mayis/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/istanbul-29-mayis/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -21296,6 +23144,30 @@
         "year": 4,
         "href": "/ders-notlari/istanbul-gedik/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/istanbul-gedik/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/istanbul-gedik/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/istanbul-gedik/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -21570,6 +23442,30 @@
         "year": 4,
         "href": "/ders-notlari/istanbul-zaim/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/istanbul-zaim/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/istanbul-zaim/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/istanbul-zaim/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -21843,6 +23739,30 @@
         "year": 4,
         "href": "/ders-notlari/istanbul-ticaret/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/istanbul-ticaret/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/istanbul-ticaret/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/istanbul-ticaret/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -22116,6 +24036,30 @@
         "year": 4,
         "href": "/ders-notlari/yeni-yuzyil/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/yeni-yuzyil/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/yeni-yuzyil/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/yeni-yuzyil/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -22390,6 +24334,30 @@
         "year": 4,
         "href": "/ders-notlari/kto-karatay/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/kto-karatay/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/kto-karatay/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/kto-karatay/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -22663,6 +24631,30 @@
         "year": 4,
         "href": "/ders-notlari/nuh-naci-yazgan/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/nuh-naci-yazgan/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/nuh-naci-yazgan/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/nuh-naci-yazgan/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [
@@ -22936,6 +24928,30 @@
         "year": 4,
         "href": "/ders-notlari/piri-reis/deniz-ticareti",
         "ready": false
+      },
+      {
+        "code": "tmk-1-kitap-donem-1",
+        "title": "TMK 1. Kitap — 1. Dönem (Güz)",
+        "year": 1,
+        "href": "/ders-notlari/piri-reis/tmk-1-kitap-donem-1",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-donem-2",
+        "title": "TMK 1. Kitap — 2. Dönem (Bahar)",
+        "year": 1,
+        "href": "/ders-notlari/piri-reis/tmk-1-kitap-donem-2",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
+      },
+      {
+        "code": "tmk-1-kitap-yillik",
+        "title": "TMK 1. Kitap — Yıllık Tam Not",
+        "year": 1,
+        "href": "/ders-notlari/piri-reis/tmk-1-kitap-yillik",
+        "ready": true,
+        "variantOf": "tmk-1-kitap"
       }
     ],
     "seoParagraphs": [

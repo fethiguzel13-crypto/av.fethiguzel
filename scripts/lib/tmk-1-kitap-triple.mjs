@@ -34,22 +34,22 @@ function baseMeta(variant) {
 function d1Content() {
   return {
     oneLiner:
-      '1. dönem: Hukuku uygula, dürüst ol, iyiniyeti koru; kim hak öznesi, kim fiilen işlem yapabilir?',
+      'Güz yarıyılında asıl mesele şudur: Hangi kural uygulanacak, kim hak öznesi, kim fiilen işlem yapabilir ve dürüstlük ile iyiniyet bu tabloya nereden girer?',
     promise:
-      'TMK m.1–7, kişilik, hak ehliyeti, fiil ehliyeti basamakları, hısımlık ve yerleşim yeri. Güz finalinde matris bozulmadan yazarsınız.',
+      'm.1–7 omurgasını, hak ve fiil ehliyeti ayrımını, hısımlık ile yerleşim yerini olay sorusunda bozulmayan bir matris hâlinde kurarsınız; güz finalinde “kapıyı seç → unsura yedir” reflekse dönüşür.',
     sixtySecond: [
-      'TMK m.1: kanun → örf → hâkim hukuku yaratır (sınırlı).',
-      'm.2: dürüstlük + hakkın kötüye kullanılması yasağı.',
-      'm.3: iyiniyet — bilmeme + bilmesi gerekmeme; ağır ihmal kırar.',
-      'm.6: iddia eden ispatlar (kural).',
-      'Hak ehliyeti herkese; fiil ehliyeti basamaklı (ayırt etme + erginlik + kısıtlı olmama).',
-      'Cevap: kural → istisna → olaya yedir → sonuç.',
+      'Hâkim önce kanunu sözü ve özüyle uygular; hüküm yoksa örfe, o da yetmezse hukuk yaratma yetkisine geçer — ne var ki bu yetki serbest icat değil, sınırlı bir disiplindir (TMK m.1).',
+      'Hak kullanılırken ve borç ifa edilirken dürüstlük kuralına uyulur; hakkın açıkça kötüye kullanılması ise hukuk düzenince korunmaz (m.2).',
+      'İyiniyet, gereken özeni gösteren kimsenin bir olguyu bilmemesi ve bilmesinin de gerekmemesidir; ağır ihmal bu kalkanı deler (m.3).',
+      'Kural olarak iddia eden ispatlar; karine ve özel hükümler yükü kaydırdığında bunu ayrıca yazarsınız (m.6).',
+      'Hak ehliyeti herkese tanınır; fiil ehliyeti ise ayırt etme gücü, erginlik ve kısıtlı olmama basamaklarıyla kurulur — ikisini asla aynı kapı sanmayın.',
+      'Cevap iskeleti şudur: kuralı koy, istisnayı aç, olayı unsura yedir, sonucu bağla.',
     ],
     pillars: [
       'Hukukun uygulanması ve yorum (TMK m.1)',
       'Dürüstlük kuralı ve hakkın kötüye kullanılması (m.2)',
-      'İyiniyet (m.3) ve ispat (m.6)',
-      'Kişi ve kişilik kavramı',
+      'İyiniyet (m.3) ve ispat yükü (m.6)',
+      'Kişi ve kişilik',
       'Hak ehliyeti',
       'Fiil ehliyeti basamakları',
       'Hısımlık',
@@ -57,164 +57,222 @@ function d1Content() {
     ],
     definitions: [
       {
-        baslik: 'Dürüstlük kuralı',
+        baslik: 'Dürüstlük kuralı (m.2)',
         govde:
-          'Haklar kullanılırken ve borçlar ifa edilirken dürüstlük kuralına uyulur (TMK m.2/1). Hakkın açıkça kötüye kullanılması hukuk düzenince korunmaz (m.2/2).',
+          'Hakların kullanılması ve borçların ifasında dürüstlük kuralına uyulur (m.2/1). Hakkın açıkça kötüye kullanılması hukuk düzenince korunmaz (m.2/2). Şeklen geçerli bir yol bile amaca aykırı ve oransızsa m.2 güvenlik vanası gibi devreye girer.',
       },
       {
-        baslik: 'İyiniyet',
+        baslik: 'İyiniyet (m.3)',
         govde:
-          'Durumun gerektirdiği özeni gösteren kişinin bir olguyu bilmemesi veya bilmesinin gerekmemesidir. Karine lehine işler; ağır ihmal iyiniyeti düşürebilir.',
+          'Durumun gerektirdiği özeni gösteren kimsenin bir olguyu bilmemesi veya bilmesinin gerekmemesidir. Karine iyiniyet lehinedir; iddia eden aksini ispatlar. “Hiç bilmiyordum” yetmez — bilmesi gerekir miydi sorusu ağır ihmal eşiğinde çözülür.',
       },
       {
         baslik: 'Hak ehliyeti',
         govde:
-          'Haklara ve borçlara sahip olabilme iktidarıdır. Herkes hak ehliyetine sahiptir; başlangıç ve sona erme kişilikle bağlıdır.',
+          'Haklara ve borçlara sahip olabilme iktidarıdır. Herkes hak ehliyetine sahiptir; kişiliğin başlaması ve sona ermesiyle bağlıdır. “Hak ehliyeti yok” ile “fiil ehliyeti kısıtlı” cümleleri birbirinin yerine geçmez.',
       },
       {
         baslik: 'Fiil ehliyeti',
         govde:
-          'Kişinin bizzat haklarını kullanıp borç altına girebilme iktidarıdır. Ayırt etme gücü, erginlik ve kısıtlı olmama basamakları birlikte okunur.',
+          'Kişinin bizzat haklarını kullanıp borç altına girebilme iktidarıdır. Kural olarak ayırt etme gücü, erginlik ve kısıtlı olmama birlikte aranır. Ayırt etme gücüne sahip küçük veya kısıtlının işlemi, türüne göre onay veya geçersizlik rejimine girer.',
       },
       {
         baslik: 'Yerleşim yeri',
         govde:
-          'Bir kimsenin sürekli kalma niyetiyle oturduğu yerdir. Hukuki ilişkilerde yetki, tebligat ve bağlama noktası işlevi görür.',
+          'Bir kimsenin sürekli kalma niyetiyle oturduğu yerdir. Yetki, tebligat ve bağlama noktası işlevi görür. “Şu an neredeyse orası” yetmez; niyet ve süreklilik birlikte yazılır.',
       },
     ],
     traps: [
-      'Şekil geçerliğini “her zaman hukuki koruma” sanmak (m.2).',
-      'İyiniyeti “hiç bilmemek” sanmak — bilmesi gerekirdi mi?',
-      'Küçüğün yaptığı her işlemi otomatik yok saymak — işlem türü ve onay matrisi.',
-      'Hak ehliyeti ile fiil ehliyetini karıştırmak.',
-      'Yerleşim yerini “şu an neredeyse orası” sanmak — niyet + süreklilik.',
+      'Şekil tamam diye her işlemi veya dava yolunu hukuken korunmuş sanmak — m.2’nin güvenlik vanasını unutmak.',
+      'İyiniyeti “hiç bilmiyordum”a indirgemek; bilmesi gerekir miydi ve ağır ihmal sorusunu atlamak.',
+      'Küçüğün her işlemini otomatik yok saymak; işlem türü × onay matrisini çizmeden sonuç yazmak.',
+      'Hak ehliyeti ile fiil ehliyetini aynı cümlede eritmek — sahip olma ile işlem yapma kapılarını karıştırmak.',
+      'Yerleşim yerini fiilen bulunulan yere eşitlemek; sürekli kalma niyetini ve karineleri yazmamak.',
     ],
     keyMadde: [
-      'TMK m.1 — hukukun uygulanması',
-      'TMK m.2 — dürüstlük / hakkın kötüye kullanılması',
+      'TMK m.1 — hukukun uygulanması (kanun → örf → hâkimin hukuk yaratması)',
+      'TMK m.2 — dürüstlük kuralı / hakkın kötüye kullanılması yasağı',
       'TMK m.3 — iyiniyet',
-      'TMK m.6 — ispat yükü',
-      'TMK m.8 vd. — hak ehliyeti / kişilik çerçevesi',
-      'TMK m.9–16 — fiil ehliyeti basamakları (çerçeve)',
-      'TMK m.19 vd. — yerleşim yeri',
+      'TMK m.6 — ispat yükü (kural: iddia eden)',
+      'TMK m.8 vd. — hak ehliyeti ve kişilik çerçevesi',
+      'TMK m.9–16 — fiil ehliyeti basamakları (çerçeve; güncel metni doğrula)',
       'TMK m.17 vd. — hısımlık (çerçeve)',
+      'TMK m.19 vd. — yerleşim yeri',
     ],
+    howToUse: {
+      paragraphs: [
+        'Bu not, güz yarıyılının TMK başlangıç hükümleri ile gerçek kişilerin ehliyet omurgasını tek hat üzerinde toplar. Dönemlik programda kendi yarınızı, bütüncül tekrar için yıllık paketi kullanın; ikisini aynı günde ezber yarışına çevirmeyin.',
+        'Okuma sırası şöyledir: önce omurgayı sesli okuyup kapatın, ardından tanım kartlarını unsurlu cümleye çevirin, tuzak listesini kırmızı kalemle işaretleyin, bölüm anlatılarını olay iskeletine bağlayın, en sonda örnek olayları süre tutarak yazın. PDF’i basılı arşiv olarak tutmak, sınav haftasında ekran yorgunluğunu keser.',
+      ],
+      bullets: [
+        'Her olayda ilk cümlede kapıyı seçin: başlangıç kuralı mı, ehliyet mi, yoksa (ileride) koruma veya tüzel kişi mi?',
+        'Fiil ehliyetinde işlem türü matrisini boş kâğıda çizin; “küçük = batıl” otomatiğini bırakın.',
+        'PDF: “PDF indir / Yazdır” → Ctrl+P (Cmd+P) → “PDF olarak kaydet”.',
+      ],
+      hapBilgi:
+        'Güzün üç sorusu çoğu zaman aynı kapıdan girer: kuralı kim koyar (m.1–3–6), kim hak öznesidir, kim fiilen bağlanabilir?',
+    },
+    spineNarrative:
+      'Omurgayı slogan dizisi gibi okumayın; bir hikâye gibi kurun. Hâkim önce kanuna bakar, boşlukta örfe ve sınırlı hukuk yaratmaya geçer (m.1). Taraflar haklarını kullanırken dürüst davranmak zorundadır; şekil bile kötüye kullanmayı meşrulaştırmaz (m.2). Üçüncü kişinin bilmediği olgu, gereken özeni gösterdiyse iyiniyet kalkanı olur (m.3). İspat yükü kural olarak iddia edendedir (m.6). Bu arka planın üzerine kişiyi oturtursunuz: herkes hak ehliyetine sahiptir, fakat fiil ehliyeti basamaklıdır. Hısımlık ve yerleşim yeri ise ilişkiyi hangi bağlama noktasında çözeceğinizi söyler. Cevabı bu sırayla yazdığınızda metin kopuk madde listesine değil, tek akışa döner.',
     sectionsExtra: [
       {
-        heading: 'A. TMK 1. Kitap nedir?',
+        heading: 'A. TMK 1. Kitap nedir ve güz yarıyılı neyi taşır?',
         paragraphs: [
-          'Türk Medenî Kanunu’nun birinci kitabı kişiler hukukudur; başında başlangıç hükümleri (m.1–7) tüm medeni hukuka ışık tutar. Sınav ve uygulamada “önce başlangıç, sonra ehliyet” sırası çoğu soruyu çözer.',
-          'Bu 1. dönem notu başlangıç + gerçek kişilerin ehliyet omurgasını taşır. Kişilik hakkı derinliği, sicil, vesayet girişi ve tüzel kişiler 2. döneme kalır.',
+          'Türk Medenî Kanunu’nun birinci kitabı kişiler hukukudur; kitabın hemen başındaki başlangıç hükümleri (m.1–7) ise yalnız “giriş süsü” değil, tüm medeni hukukun uygulama ve dürüstlük omurgasıdır. Sınavda çoğu öğrenci ehliyete atlar; oysa m.1–3–6’yı kurmadan yazılan cevap, doğru sonuca götürse bile iskeletsiz kalır.',
+          'Bu 1. dönem notu, başlangıç hükümleri ile gerçek kişilerin hak ve fiil ehliyeti, hısımlık ve yerleşim yeri hattını taşır. Kişilik hakkının korunması, ad ve sicil, vesayet–kayyım girişi ile dernek–vakıf 2. döneme bırakılmıştır; güz finalinde “her şeyi bir paragrafa sığdırma” tuzağına düşmeyin.',
         ],
-        hapBilgi: 'Başlangıç = her medeni sorunun arka planı; ehliyet = işlem geçerliliğinin kapısı.',
+        hapBilgi:
+          'Başlangıç hükümleri arka planı kurar; ehliyet işlemin kapısını açar veya kapatır. Önce arka plan, sonra kapı.',
       },
       {
-        heading: 'B. Hukukun uygulanması (m.1)',
+        heading: 'B. Hukukun uygulanması (TMK m.1) — merdiven nasıl çıkar?',
         paragraphs: [
-          'Hâkim, kanunu sözü ve özüyle uygular. Kanunda hüküm yoksa örf ve âdet; o da yoksa kendisi kanun koyucu gibi kural koyar — ama bu serbest icat değil, hukuk yaratma disiplinidir.',
-          'Yorumda lafzî, sistematik, amaca uygun okuma birlikte kullanılır. Sınavda “m.1’i ezber slogan” yerine somut boşluğu nasıl doldurduğunuzu yazın.',
+          'm.1, hâkime üç basamaklı bir merdiven sunar. Önce kanun uygulanır; hem lafzı hem özü birlikte okunur. Kanunda hüküm yoksa örf ve âdete bakılır. O da yetmezse hâkim, kendisi kanun koyucu gibi kural koyar — fakat bu basamak “istediğim sonucu yazayım” serbestisi değildir; hukuk yaratma, sisteme ve amaca bağlı sınırlı bir yetkidir.',
+          'Yorumda lafzî, sistematik ve amaca uygun okuma birbirini tamamlar. Sınav kâğıdında “m.1’e göre hâkim hukuk yaratır” cümlesi tek başına puan getirmez; somut olayda hangi basamağın devreye girdiğini ve neden bir alt basamağın yetmediğini yazmanız gerekir.',
         ],
         bullets: [
-          'Kanun (söz + öz)',
-          'Örf ve âdet',
-          'Hâkimin hukuk yaratması (sınırlı)',
-          'Yorum yöntemleri',
+          '1. basamak: Kanun (söz + öz)',
+          '2. basamak: Örf ve âdet',
+          '3. basamak: Hâkimin sınırlı hukuk yaratması',
+          'Yorum: lafzî · sistematik · amaca uygun (birlikte)',
         ],
+        hapBilgi:
+          'm.1’de ezber slogan değil, “hangi basamaktayım ve neden?” sorusunun cevabı puan getirir.',
       },
       {
-        heading: 'C. Dürüstlük ve hakkın kötüye kullanılması (m.2)',
+        heading: 'C. Dürüstlük ve hakkın kötüye kullanılması (m.2) — şeklin üstündeki vana',
         paragraphs: [
-          'm.2/1 olumlu ödevdir: hak kullanılırken dürüst davran. m.2/2 olumsuz sınırdır: hakkın açıkça kötüye kullanılması korunmaz. Şeklen geçerli bir işlem veya dava yolu, amaca aykırı ve oransızsa m.2 devreye girebilir.',
-          'Klasik sınav tuzağı: “Şekil tamam, o hâlde her şey serbest.” Hayır — m.2 şeklin üstünde güvenlik vanasıdır.',
+          'm.2 iki yüzü olan bir madendir. Birinci fıkra olumlu ödevdir: hak kullanılırken ve borç ifa edilirken dürüstlük kuralına uyulur. İkinci fıkra olumsuz sınırdır: hakkın açıkça kötüye kullanılması korunmaz. Şeklen geçerli bir sözleşme, takip yolu veya dava yetkisi, amaca aykırı ve oransız kullanıldığında m.2 devreye girebilir.',
+          'Klasik tuzak şöyledir: “Şekil tamam, o hâlde her şey serbest.” Bu cümle yanlıştır. m.2, şeklin üstünde bir güvenlik vanasıdır; vana açıldığında sonuç “hak yok sayılır / korunmaz” çizgisindedir. Cevapta amaç, araç ve oran üçlüsünü yazmazsanız m.2 kutusunu açmış sayılmazsınız.',
         ],
         kartlar: [
-          { baslik: 'm.2/1', govde: 'Dürüstlük ödevi.' },
-          { baslik: 'm.2/2', govde: 'Açık kötüye kullanma → koruma yok.' },
-          { baslik: 'Ölçüt', govde: 'Amaç, oran, dürüstlük.' },
+          {
+            baslik: 'm.2/1 — olumlu ödev',
+            govde: 'Hak kullanırken ve borç ifa ederken dürüst davran.',
+          },
+          {
+            baslik: 'm.2/2 — olumsuz sınır',
+            govde: 'Açık kötüye kullanma hukuk düzenince korunmaz.',
+          },
+          {
+            baslik: 'Ölçüt üçlüsü',
+            govde: 'Amaç · araç · oran (dürüstlük süzgeci).',
+          },
         ],
-        uyari: 'Şekil geçerliği ≠ mutlak hukuki koruma.',
+        uyari:
+          'Şekil geçerliği, mutlak hukuki koruma demek değildir; m.2 hâlâ devrededir.',
       },
       {
-        heading: 'D. İyiniyet (m.3) ve ispat (m.6)',
+        heading: 'D. İyiniyet (m.3) ve ispat (m.6) — kalkan ve yük',
         paragraphs: [
-          'İyiniyet, gereken özeni gösteren kişinin bilmemesi / bilmesi gerekmemesidir. Karine iyiniyet lehinedir; iddia eden aksini ispatlar. Ağır ihmal iyiniyeti kırar.',
-          'm.6: kural olarak iddia eden ispat eder. Karine ve ispat yükü kaydıran özel hükümler (sicile güven vb.) olayda ayrıca yazılır.',
+          'İyiniyet, gereken özeni gösteren kimsenin bir olguyu bilmemesi veya bilmesinin gerekmemesidir. İki unsur birlikte düşünülür: fiilî bilmeme ve “bilmesi gerekirdi” eşiğinin aşılmamış olması. Karine iyiniyet lehinedir; aksini iddia eden ispatlar. Ağır ihmal, bu kalkanı deler zira hukuk, gözünü kapatarak iyiniyet iddia etmeye izin vermez.',
+          'm.6, ispat yükünün genel kuralını koyar: iddia eden ispat eder. Sicile güven, karineler ve özel hükümler yükü kaydırdığında bunu olayda ayrıca göstermeniz gerekir. “m.6’ya göre ispat” deyip bırakmak yetmez; neyin kimin omzunda olduğunu bir cümleyle bağlayın.',
         ],
-        hapBilgi: 'İyiniyet = bilmeme + bilmesi gerekmeme. İspat = iddia eden (kural).',
+        hapBilgi:
+          'İyiniyet = bilmeme + bilmesi gerekmeme. İspat kuralı = iddia eden taşır (karine ve özel hüküm saklı).',
       },
       {
-        heading: 'E. Kişi, kişilik, hak ehliyeti',
+        heading: 'E. Kişi, kişilik ve hak ehliyeti — kim masada yer alır?',
         paragraphs: [
-          'Kişi hak öznesidir. Kişilik, hak ehliyetinin taşıyıcısıdır; başlangıç ve sona erme (doğum–ölüm, gaiplik çerçevesi) ayrı incelenir.',
-          'Hak ehliyeti herkese aittir. “Hak ehliyeti yok” demek ile “fiil ehliyeti kısıtlı” demek tamamen farklıdır — sınavda kelimeyi seçin.',
+          'Kişi, hak ve borçların öznesidir. Kişilik, bu ehliyetin taşıyıcısıdır; başlangıç (doğum) ve sona erme (ölüm; gaiplik çerçevesi) ayrı kutularda incelenir. Güz yarıyılında “kişi kimdir?” sorusu çoğu zaman ehliyet sorusunun ön kapısıdır.',
+          'Hak ehliyeti herkese tanınır. “Hak ehliyeti yok” demek ile “fiil ehliyeti kısıtlı” demek arasında uçurum vardır: ilki masada yer yok demektir, ikincisi masada yer var ama imza yetkisi sınırlı demektir. Sınavda kelimeyi bilerek seçin; yanlış etiket tüm cevabı kaydırır.',
         ],
       },
       {
-        heading: 'F. Fiil ehliyeti basamakları',
+        heading: 'F. Fiil ehliyeti basamakları — matris bozulmadan',
         paragraphs: [
-          'Fiil ehliyeti için kural olarak: ayırt etme gücü + erginlik + kısıtlı olmama. Ayırt etme gücünden yoksun olanın fiil ehliyeti yoktur. Ayırt etme gücüne sahip küçük ve kısıtlıların işlemleri türe göre geçerlilik / onay rejimine girer.',
-          'İşlem türü matrisi zorunludur: sırf hak kazandıran, karşılıksız kazandırma, önemli tasarruf, bizzat yapılabilecek işlemler… Otomatik “küçük = her şey batıl” yazmayın.',
+          'Fiil ehliyeti, kişinin bizzat haklarını kullanıp borç altına girebilmesidir. Kural olarak üç basamak birlikte aranır: ayırt etme gücü, erginlik ve kısıtlı olmama. Ayırt etme gücünden yoksun olanın fiil ehliyeti yoktur. Ayırt etme gücüne sahip küçük veya kısıtlının işlemi ise türe göre geçerlilik, askıda geçerlilik veya onay rejimine girer.',
+          'Bu yüzden cevapta mutlaka işlem türü matrisi çizilir: sırf hak kazandıran işlemler, karşılıksız kazandırmalar, önemli tasarruflar, bizzat yapılabilecek işlemler… “Küçük yaptığı için batıl” otomatiği, basamak ve tür atlandığında yanlış olur. Yasal temsilcinin onayı veya icazeti olayda yazılmazsa matris yarım kalır.',
         ],
         bullets: [
-          'Ayırt etme gücü',
-          'Erginlik / yasal erginlik',
-          'Kısıtlı olmama',
-          'İşlem türüne göre sonuç',
-          'Yasal temsilci onayı',
+          'Ayırt etme gücü var mı?',
+          'Ergin mi / yasal erginlik mi?',
+          'Kısıtlı mı?',
+          'İşlem türü nedir (hak kazandırma / tasarruf / bizzat…)?',
+          'Yasal temsilci onayı veya icazet devrede mi?',
         ],
-        uyari: 'Ehliyet matrisi çizilmeden cevap yazılmaz.',
+        uyari:
+          'Ehliyet × işlem türü matrisi çizilmeden sonuç cümlesi yazılmaz.',
       },
       {
-        heading: 'G. Hısımlık ve yerleşim yeri',
+        heading: 'G. Hısımlık ve yerleşim yeri — bağlama noktaları',
         paragraphs: [
-          'Hısımlık (kan hısımlığı, kayın hısımlığı) aile ve miras bağlantılarında bağlama noktasıdır. Derece hesabı olay sorusunda istenir.',
-          'Yerleşim yeri sürekli kalma niyetiyle oturulan yerdir. Birden fazla oturma yeri / işyeri senaryolarında kanuni karineler ve niyet yazılır. Tebligat ve yetki ile karıştırılmamalı; bağlantı kurulabilir.',
+          'Hısımlık (kan hısımlığı ve kayın hısımlığı), aile ve miras ilişkilerinde kimlerin hangi çizgide bağlandığını gösterir. Derece hesabı olay sorusunda sık istenir; “yakın akraba” belirsizliğini bırakıp kanuni çizgiyi yazın.',
+          'Yerleşim yeri, sürekli kalma niyetiyle oturulan yerdir. Hafta içi bir şehirde çalışıp hafta sonu başka yerde kalan kimse örneğinde fiilî çokluk, niyet ve kanuni karineler birlikte tartılır. Tebligat ve yetki kurallarıyla karıştırılmamalıdır; bağlantı kurulabilir ama ikisi aynı kavram değildir.',
         ],
       },
     ],
     examples: [
       {
-        title: 'Dürüstlük kuralı',
+        title: 'Dürüstlük kuralı — şekil yetmez',
         facts:
-          'Alacaklı, borçlunun zayıf anını bilerek şeklen geçerli fakat hakkın amacına aykırı bir yola başvurur.',
+          'Alacaklı, borçlunun geçici zayıf anını bilerek şeklen geçerli bir takip veya sözleşme yoluna başvurur; amaç alacağı tahsil etmekten çok, karşı tarafı oransız baskı altına almaktır.',
         analysis:
-          'TMK m.2: şekil geçerliği tek başına yetmez; açık kötüye kullanma korunmaz. Amaç–araç oransızlığı yazılır.',
-        takeaway: 'Şekil ≠ her zaman koruma.',
+          'Önce şekil geçerliği kabul edilir, sonra m.2 kutusu açılır. Amaç–araç oransızlığı ve açık kötüye kullanma ölçütü yazılır. Sonuç, hakkın korunmaması çizgisine bağlanır.',
+        takeaway:
+          'Şekil tamam olsa bile m.2 güvenlik vanası kapanmamış olabilir.',
       },
       {
-        title: 'İyiniyet',
+        title: 'İyiniyet — bilmeme yetmez',
         facts:
-          'Üçüncü kişi, kolayca öğrenilebilecek bir engeli araştırmadan işlem yapar; “iyiniyetliyim” der.',
+          'Üçüncü kişi, kolayca öğrenilebilecek bir engeli araştırmadan işlem yapar ve “iyiniyetliyim, bilmiyordum” der.',
         analysis:
-          'm.3: bilmeme yetmez; bilmesi gerekir miydi? Ağır ihmal. Karine ve ispat.',
-        takeaway: '“Bilmeme + bilmesi gerekmeme”.',
+          'm.3’te iki soru vardır: bilmiyor muydu, bilmesi gerekir miydi? Gereken özen ve ağır ihmal eşiği yazılır. Karinelerin kimin lehine işlediği ve ispat yükü (m.6) bağlanır.',
+        takeaway:
+          'İyiniyet kalkanı = bilmeme + bilmesi gerekmeme; ağır ihmal deler.',
       },
       {
-        title: 'Fiil ehliyeti — küçük',
+        title: 'Fiil ehliyeti — 15 yaşındaki küçük',
         facts:
-          '15 yaşındaki ayırt etme gücüne sahip küçük, tek başına önemli bir taşınmaz satım vaadi imzalar.',
+          'Ayırt etme gücüne sahip 15 yaşındaki küçük, yasal temsilci olmadan önemli bir taşınmaz satım vaadi imzalar.',
         analysis:
-          'Ehliyet basamağı + işlem türü + yasal temsilci onayı. Sonuç türe göre değişir.',
-        takeaway: 'Matris: ehliyet × işlem türü.',
+          'Hak ehliyeti vardır; fiil ehliyeti basamakları ve işlem türü incelenir. Onay/icazet rejimi olayın sonucunu belirler. “Küçük = her şey batıl” cümlesi matrissiz yazılmaz.',
+        takeaway: 'Matris: ehliyet basamağı × işlem türü × temsilci.',
       },
       {
-        title: 'Yerleşim yeri',
+        title: 'Yerleşim yeri — iki şehir',
         facts:
-          'Kişi hafta içi A şehrinde çalışır, hafta sonu B’de ailesiyle kalır; tebligat ve yetki tartışılır.',
+          'Kişi hafta içi A şehrinde çalışır ve kirada kalır; hafta sonlarını B’deki aile konutunda geçirir. Tebligat ve yetki tartışması çıkar.',
         analysis:
-          'Sürekli kalma niyeti, kanuni karineler, fiilî durum. “Şu an neredeyse orası” yetmez.',
-        takeaway: 'Niyet + süreklilik.',
+          'Sürekli kalma niyeti, fiilî durum ve kanuni karineler birlikte okunur. “Şu an neredeyse orası” formülü yetmez; yerleşim ile bulunulan yer ayrılır.',
+        takeaway: 'Yerleşim = niyet + süreklilik, anlık konum değil.',
       },
     ],
     mindmap: {
-      center: 'TMK 1. Kitap · 1. dönem',
+      center: 'TMK 1. Kitap · Güz',
       branches: [
-        { label: 'Başlangıç', items: ['m.1', 'm.2', 'm.3', 'm.6'] },
-        { label: 'Ehliyet', items: ['Hak', 'Fiil', 'Basamak'] },
-        { label: 'Kişi', items: ['Kişilik', 'Doğum', 'Ölüm'] },
-        { label: 'Bağ', items: ['Hısımlık', 'Yerleşim'] },
+        {
+          label: 'Başlangıç (m.1–7)',
+          items: ['m.1 merdiven', 'm.2 dürüstlük', 'm.3 iyiniyet', 'm.6 ispat'],
+        },
+        {
+          label: 'Ehliyet',
+          items: ['Hak ehliyeti', 'Fiil basamakları', 'İşlem matrisi'],
+        },
+        {
+          label: 'Kişi',
+          items: ['Kişilik', 'Doğum–ölüm', 'Hak öznesi'],
+        },
+        {
+          label: 'Bağlama',
+          items: ['Hısımlık', 'Yerleşim yeri', 'Niyet+süreklilik'],
+        },
       ],
     },
+    processSteps: [
+      'Kapıyı seç: başlangıç kuralı mı, ehliyet mi?',
+      'Tanımı bir cümlede kur (unsur fısıldasın)',
+      'Unsurları numarala; boş unsur bırakma',
+      'Olay olgularını unsura tek tek yedir',
+      'İstisna kutusunu aç (m.2, m.3, onay…)',
+      'Sonucu bağla: geçerli / korunmaz / askıda / onaylı',
+    ],
+    compareRows: [
+      ['Hak ehliyeti', 'Fiil ehliyeti', 'Sahip olma mı, işlem yapma mı?'],
+      ['m.2/1', 'm.2/2', 'Dürüstlük ödevi mi, kötüye kullanma yasağı mı?'],
+      ['İyiniyet', 'Salt bilmeme', 'Bilmesi gerekir miydi / ağır ihmal?'],
+      ['Yerleşim yeri', 'Bulunulan yer', 'Sürekli kalma niyeti var mı?'],
+    ],
   };
 }
 
@@ -487,65 +545,108 @@ export function buildTmk1KitapVariantNote(uni, variantCode) {
   const h1 = `${uni.shortName} TMK 1. Kitap (Kişiler Hukuku) ${meta.h1Extra}`;
   const description = `${uni.name} için TMK 1. Kitap ${meta.short} notu: ${meta.scope}. Şematik, örnekli, PDF. Ücretsiz — Av. Fethi Güzel.`;
 
-  const lead = `${uni.shortName} (${uni.city}) öğrencileri için Türk Medenî Kanunu 1. Kitap — başlangıç hükümleri ve kişiler hukuku — ${meta.label.toLocaleLowerCase('tr-TR')} notudur. ${meta.scope}. Amaç: doğru kapıyı (başlangıç / ehliyet / koruma / tüzel kişi) seçip unsurlarıyla yazmak. Fakülte ${calLabel} kullansa da üçlü set esnek kullanılır; medeni başlangıç dersiyle hizalıdır.`;
+  const lead =
+    variantCode === 'tmk-1-kitap-donem-1'
+      ? `${uni.shortName} (${uni.city}) için güz yarıyılı TMK 1. Kitap notu: başlangıç hükümleri (m.1–7), hak ve fiil ehliyeti, hısımlık ve yerleşim yeri. Anlatım kopuk madde listesi değil; omurga → tanım → olay iskeleti akışındadır. Fakülte ${calLabel} izlese de medeni başlangıç / kişiler dersiyle hizalıdır.`
+      : `${uni.shortName} (${uni.city}) öğrencileri için Türk Medenî Kanunu 1. Kitap — başlangıç hükümleri ve kişiler hukuku — ${meta.label.toLocaleLowerCase('tr-TR')} notudur. ${meta.scope}. Amaç: doğru kapıyı (başlangıç / ehliyet / koruma / tüzel kişi) seçip unsurlarıyla yazmak. Fakülte ${calLabel} kullansa da üçlü set esnek kullanılır; medeni başlangıç dersiyle hizalıdır.`;
+
+  const how = bank.howToUse || {
+    paragraphs: [
+      `Bu dosya ${meta.label} kapsamına göre düzenlenmiştir. Dönemlik program kendi yarısını, bütüncül tekrar yıllık paketi kullanır; ikisini aynı oturumda ezber yarışına çevirmeyin.`,
+      'Okuma sırası: omurgayı sesli okuyup kapatın → tanım kartlarını unsurlu cümleye çevirin → tuzakları işaretleyin → bölüm anlatılarını olay iskeletine bağlayın → örnek olayları süre tutarak yazın.',
+    ],
+    bullets: [
+      'PDF: “PDF indir / Yazdır” → Ctrl+P → PDF olarak kaydet',
+      'Her olayda kapıyı ilk cümlede seçin: başlangıç / ehliyet / koruma / tüzel',
+      'Fiil ehliyetinde işlem türü matrisini boş kâğıda çizin',
+    ],
+    hapBilgi: bank.oneLiner,
+  };
 
   const sections = [
     {
       heading: '1. Bu notu nasıl kullanacaksın?',
-      paragraphs: [
-        `Bu dosya ${meta.label} kapsamına göre kesilmiştir. Dönemlik program kendi yarısını; yıllık veya bütüncül tekrar yıllık paketi kullanır.`,
-        'Sıra: 60 sn omurga → tanım kartları → tuzaklar → bölümler → örnek olay → PDF.',
-      ],
-      bullets: [
-        'PDF: “PDF indir / Yazdır” → Ctrl+P → PDF olarak kaydet',
-        'Her olayda: başlangıç kuralı mı, ehliyet mi, koruma/tüzel mi?',
-        'Fiil ehliyetinde işlem türü matrisini çiz',
-      ],
-      hapBilgi: bank.oneLiner,
+      paragraphs: how.paragraphs,
+      bullets: how.bullets,
+      hapBilgi: how.hapBilgi || bank.oneLiner,
     },
     {
       heading: '2. 60 saniyede omurga',
-      paragraphs: ['Sesli oku, kapat, yaz.'],
+      paragraphs: [
+        bank.spineNarrative ||
+          'Omurgayı sesli okuyun, kapatın, boş kâğıda yeniden kurun. Madde numaralarını slogan gibi dizmek yetmez; aralarındaki akışı cümleyle bağlayın.',
+      ],
       bullets: bank.sixtySecond,
     },
     {
       heading: '3. Kavram haritası ve omurga',
-      paragraphs: [`Omurga: ${bank.pillars.join('; ')}.`],
+      paragraphs: [
+        `Aşağıdaki omurga, ${meta.short} kapsamının iskeletidir. Her maddeyi ezber listesi gibi değil, bir sonraki basamağın kapısı gibi okuyun.`,
+        bank.promise,
+      ],
       bullets: bank.pillars.map((p, i) => `${i + 1}) ${p}`),
-      hapBilgi: bank.promise,
+      hapBilgi: bank.oneLiner,
     },
     {
       heading: '4. Tanım kartları',
-      paragraphs: ['İşler tanım = unsur fısıldayan cümle.'],
+      paragraphs: [
+        'İşler tanım, tek kelimelik etiket değil, unsur fısıldayan cümledir. Kartı kapattıktan sonra “unsurları say” diye kendinize sorun; sayılamıyorsa tanım henüz oturmamıştır.',
+      ],
       kartlar: bank.definitions,
     },
     {
       heading: '5. Pusula maddeler',
-      paragraphs: ['Soru tipine göre dayanaklar. Güncel metin: TMK Başlangıç + 1. Kitap.'],
+      paragraphs: [
+        'Soru tipine göre dayanaklar burada toplanır. Madde numarasını uydurmayın; güncel TMK metninden (Başlangıç + 1. Kitap) doğrulayın.',
+      ],
       bullets: bank.keyMadde.map((m, i) => `${i + 1}) ${m}`),
       uyari: 'Uydurma madde no yazmayın; TMK metninden doğrulayın.',
     },
     {
       heading: '6. Sınav tuzağı defteri',
-      paragraphs: ['Finalde puanı bu liste taşır.'],
+      paragraphs: [
+        'Final kâğıdında puan çoğu zaman “doğru kuralı bilmek”ten değil, şu tuzaklara düşmemekten gelir. Her maddeyi bir yanlış cevaba karşı panzehir gibi okuyun.',
+      ],
       bullets: bank.traps,
     },
     ...bank.sectionsExtra,
     {
       heading: 'Sınav tekniği (TMK 1. Kitap)',
       paragraphs: [
-        `${uni.shortName} klasiklerinde I-II-III başlık şart. 60 dk / 3 soruda soru başı ~18 dk.`,
-        'İskelet: (1) kapı seç (başlangıç/ehliyet/koruma/tüzel) (2) tanım (3) unsur (4) olgu (5) sonuç + istisna.',
+        `${uni.shortName} klasiklerinde I–II–III başlık disiplini beklenir. Altmış dakikada üç soru varsayımında soru başına yaklaşık on sekiz dakika ayırın; ilk üç dakikayı kapı seçimine verin.`,
+        'İskelet şudur: (1) kapıyı seçin (başlangıç / ehliyet / koruma / tüzel), (2) tanımı unsurlu kurun, (3) unsurları numaralayın, (4) olguyu unsura yedirin, (5) istisna kutusunu açıp sonucu bağlayın.',
       ],
       bullets: [
-        'm.2 / m.3 kutusunu gerektiğinde aç',
-        'Hak ehliyeti ≠ fiil ehliyeti',
-        'Küçük/kısıtlıda işlem türü matrisi',
-        'Tüzel kişide organ + amaç sınırı',
+        'm.2 ve m.3 kutusunu gerektiğinde bilinçli açın',
+        'Hak ehliyeti ile fiil ehliyetini aynı cümlede eritmeyin',
+        'Küçük veya kısıtlıda işlem türü matrisini çizin',
+        'Tüzel kişide organ ve amaç sınırını yazın (2. dönem / yıllık)',
       ],
-      hapBilgi: 'Doğru kapı + doğru unsur = yüksek not.',
+      hapBilgi: 'Doğru kapı + doğru unsur = yüksek not; doğru sonuç yanlış iskelette ucuz kalır.',
     },
   ];
+
+  const defaultCompare =
+    variantCode === 'tmk-1-kitap-donem-2'
+      ? [
+          ['Vasi', 'Kayyım', 'Genel koruma mı, belirli iş mi?'],
+          ['Dernek', 'Vakıf', 'Kişi topluluğu mu, mal + amaç mı?'],
+          ['Önleme / durdurma', 'Tazminat', 'Tehlike veya saldırı mı, zarar mı?'],
+          ['Sicil', 'Gerçek durum', 'Kayıt yanlışsa düzeltme yolu var mı?'],
+        ]
+      : variantCode === 'tmk-1-kitap-donem-1'
+        ? [
+            ['Hak ehliyeti', 'Fiil ehliyeti', 'Sahip olma mı, işlem yapma mı?'],
+            ['m.2/1', 'm.2/2', 'Dürüstlük ödevi mi, kötüye kullanma yasağı mı?'],
+            ['İyiniyet', 'Salt bilmeme', 'Bilmesi gerekir miydi?'],
+            ['Yerleşim yeri', 'Bulunulan yer', 'Sürekli kalma niyeti var mı?'],
+          ]
+        : [
+            ['1. yarı', '2. yarı', 'Başlangıç/ehliyet mi, koruma/tüzel mi?'],
+            ['Hak ehliyeti', 'Fiil ehliyeti', 'Sahip mi, işlem mi?'],
+            ['Dernek', 'Vakıf', 'Üye birliği mi, mal + amaç mı?'],
+            ['Vasi', 'Kayyım', 'Genel koruma mı, özel iş mi?'],
+          ];
 
   const diagrams = [
     {
@@ -557,64 +658,44 @@ export function buildTmk1KitapVariantNote(uni, variantCode) {
     {
       kind: 'process',
       title: 'Klasik cevap iskeleti',
-      steps: [
+      steps: bank.processSteps || [
         'Kapıyı seç (başlangıç / ehliyet / koruma / tüzel)',
-        'Tanım (1 cümle)',
+        'Tanımı unsurlu bir cümlede kur',
         'Unsurları numarala',
         'Olayı unsura yedir',
-        'İstisna (m.2, m.3, onay…)',
-        'Sonuç',
+        'İstisna kutusunu aç (m.2, m.3, onay…)',
+        'Sonucu bağla',
       ],
     },
     {
       kind: 'compare',
       title: 'Sık karıştırılanlar',
       headers: ['A', 'B', 'Ayırıcı soru'],
-      rows:
-        variantCode === 'tmk-1-kitap-donem-2'
-          ? [
-              ['Vasi', 'Kayyım', 'Genel koruma mı belirli iş mi?'],
-              ['Dernek', 'Vakıf', 'Kişi topluluğu mu mal+amaç mı?'],
-              ['Önleme/durdurma', 'Tazminat', 'Tehlike/saldırı mı zarar mı?'],
-              ['Sicil', 'Gerçek durum', 'Kayıt yanlışsa düzeltme var mı?'],
-            ]
-          : variantCode === 'tmk-1-kitap-donem-1'
-            ? [
-                ['Hak ehliyeti', 'Fiil ehliyeti', 'Sahip olma mı işlem yapma mı?'],
-                ['m.2/1', 'm.2/2', 'Dürüstlük ödevi mi kötüye kullanma yasağı mı?'],
-                ['İyiniyet', 'Bilmeme', 'Bilmesi gerekir miydi?'],
-                ['Yerleşim yeri', 'Bulunulan yer', 'Sürekli kalma niyeti var mı?'],
-              ]
-            : [
-                ['1. yarı', '2. yarı', 'Başlangıç/ehliyet mi koruma/tüzel mi?'],
-                ['Hak ehliyeti', 'Fiil ehliyeti', 'Sahip mi işlem mi?'],
-                ['Dernek', 'Vakıf', 'Üye mi mal+amaç mı?'],
-                ['Vasi', 'Kayyım', 'Genel mi özel iş mi?'],
-              ],
+      rows: bank.compareRows || defaultCompare,
     },
     {
       kind: 'ladder',
       title: 'Öğrenme merdiveni',
       levels: [
-        'Tanım kartları',
-        'Zihin haritası çiz',
-        'Tuzak listesi',
-        '4 örnek olay süreyle',
+        'Tanım kartlarını unsurlu yaz',
+        'Zihin haritasını boş kâğıda çiz',
+        'Tuzak listesinden beşi işaretle',
+        'Dört örnek olayı süreyle çöz',
         'Karma deneme + yanlış defteri',
       ],
     },
     {
       kind: 'fork',
-      title: 'Soru tipi',
+      title: 'Soru tipi — hangi kapı?',
       leftTitle: 'Başlangıç / ehliyet',
       rightTitle: 'Koruma / tüzel',
-      left: 'm.1–7 + ehliyet matrisi + hısımlık/yerleşim',
-      right: 'Kişilik talepleri + vesayet girişi + dernek/vakıf',
+      left: 'm.1–7 · ehliyet matrisi · hısımlık · yerleşim',
+      right: 'Kişilik talepleri · vesayet girişi · dernek / vakıf',
     },
     {
       kind: 'cycle',
-      title: 'Haftalık döngü',
-      steps: ['Madde', 'Şema', 'Örnek', 'Quiz', 'Yanlış defteri'],
+      title: 'Haftalık çalışma döngüsü',
+      steps: ['Madde oku', 'Şema çiz', 'Örnek yaz', 'Kısa quiz', 'Yanlış defteri'],
     },
   ];
 
