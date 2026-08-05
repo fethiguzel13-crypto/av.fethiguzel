@@ -7,6 +7,10 @@
 import { writeFileSync, readFileSync, existsSync } from 'node:fs';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
+import {
+  CORE_KANUN_ORDER,
+  PRIORITY_MADDE_BY_KANUN,
+} from './lib/kanun-seo-order.mjs';
 
 const root = join(dirname(fileURLToPath(import.meta.url)), '..');
 const SITE = 'https://www.avfethiguzel.com';
@@ -31,40 +35,23 @@ function add(path, prio = '0.9', freq = 'weekly') {
   '/bolge-yazi/ahlat-vakif-miras-ve-tarihi-tasinmazlar',
   '/bolge-yazi/caldiran-tarimsal-tasinmaz-kadastro-ve-nufus',
   '/bolge-yazi/dogu-anadolu-el-birligi-mulkiyet-ve-miras-pratikleri',
-  '/mevzuat/tbk',
-  '/mevzuat/tmk',
-  '/mevzuat/tck',
-  '/mevzuat/hmk',
-  '/mevzuat/iik',
-  '/mevzuat/ttk',
-  '/mevzuat/is-kanunu',
   '/ders-notlari/ankara-yildirim-beyazit',
   '/ders-notlari/marmara',
   '/ders-notlari/ankara',
 ].forEach((p) => add(p, p === '/' ? '1.0' : '0.95'));
 
-// TBK 1–50 (Google «TBK 13» niyeti)
-for (let n = 1; n <= 50; n++) {
-  add(`/mevzuat/tbk/madde-${n}`, n <= 20 ? '0.93' : '0.9');
+// Core kanun hubs (order = SEO queue)
+for (const kid of CORE_KANUN_ORDER) {
+  add(`/mevzuat/${kid}`, '0.96');
 }
-// Diğer sık maddeler
-for (const [k, n] of [
-  ['tmk', 1],
-  ['tmk', 166],
-  ['tmk', 499],
-  ['tck', 86],
-  ['tck', 106],
-  ['tck', 125],
-  ['hmk', 119],
-  ['hmk', 389],
-  ['iik', 62],
-  ['tbk', 49],
-  ['tbk', 112],
-  ['tbk', 125],
-  ['is-kanunu', 17],
-  ['is-kanunu', 25],
-]) {
-  add(`/mevzuat/${k}/madde-${n}`, '0.92');
+
+// High-intent madde set per core kanun (kanun-seo-order)
+for (const kid of CORE_KANUN_ORDER) {
+  const nums = PRIORITY_MADDE_BY_KANUN[kid] || [];
+  nums.forEach((n, i) => {
+    const prio = i < 15 ? '0.93' : '0.9';
+    add(`/mevzuat/${kid}/madde-${n}`, prio);
+  });
 }
 
 // Vatandaş pillar (data.ts'den)

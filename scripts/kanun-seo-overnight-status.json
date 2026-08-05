@@ -1,0 +1,15 @@
+{
+  "startedAt": "2026-08-06T00:00:00.000Z",
+  "host": "https://www.avfethiguzel.com",
+  "orderRef": "scripts/lib/kanun-seo-order.mjs",
+  "kanun": {
+    "tbk": { "status": "pending", "completedAt": null, "notes": "" },
+    "tmk": { "status": "pending", "completedAt": null, "notes": "" },
+    "tck": { "status": "pending", "completedAt": null, "notes": "" },
+    "hmk": { "status": "pending", "completedAt": null, "notes": "" },
+    "iik": { "status": "pending", "completedAt": null, "notes": "" },
+    "ttk": { "status": "pending", "completedAt": null, "notes": "" },
+    "cmk": { "status": "pending", "completedAt": null, "notes": "" },
+    "is-kanunu": { "status": "pending", "completedAt": null, "notes": "" }
+  }
+}
