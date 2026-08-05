@@ -121,14 +121,20 @@ const nextConfig: NextConfig = {
   },
   poweredByHeader: false,
   compress: true,
-  // Keep deploy lean: never ship raw markdown / scrapers / 30MB packs into serverless
-  // Use '*' key (Next 16) so excludes don't fight route-scoped includes.
+  // Keep deploy lean: never ship bulk static data into serverless lambdas.
+  // Vercel limit is ~250MB/function. A failed deploy (2026-07-30+) traced
+  // notes (107MB) + public/data (112MB) + seo-madde (78MB) into content-pack → OOM/size fail.
+  // Use '*' key (Next 16) so excludes apply broadly; route includes below re-add only notes.
   outputFileTracingExcludes: {
     "*": [
       "./content/**/*",
       "./content-packs/**/*",
       "./public/content-packs/**/*",
       "./public/packs/**/*",
+      "./public/seo-madde/**/*",
+      "./public/data/**/*",
+      // notes: NOT excluded here — route-scoped includes below ship them only to
+      // /ders-notlari/* lambdas. Auto-trace is blocked via turbopackIgnore in getNote.
       "./scraper/**/*",
       "./scripts/**/*",
       "./docs/**/*",

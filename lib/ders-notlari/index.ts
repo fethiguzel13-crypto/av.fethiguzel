@@ -31,15 +31,29 @@ export const DERS_NOTLARI_INDEX = indexJson as {
 
 export const DERS_NOTLARI_HUBS = hubsJson as UniHubContent[];
 
-/** Monolit notes.json (20MB+) import edilmez — build/runtime şişmesini önler */
-const NOTES_DIR = path.join(process.cwd(), 'lib', 'ders-notlari', 'generated', 'notes');
+/**
+ * Monolit notes.json import edilmez.
+ * path.join(process.cwd(), …, dynamic) NFT'ye tüm notları yazdırır; turbopackIgnore ile
+ * otomatik izleme kapatılır. Runtime için next.config outputFileTracingIncludes notları
+ * yalnız /ders-notlari rotalarına ekler (diğer lambdalar 250MB limitine takılmaz).
+ */
+const NOTES_DIR = path.join(
+  /* turbopackIgnore: true */ process.cwd(),
+  'lib',
+  'ders-notlari',
+  'generated',
+  'notes'
+);
 
 export function getHub(uniSlug: string): UniHubContent | undefined {
   return DERS_NOTLARI_HUBS.find((h) => h.uni.slug === uniSlug);
 }
 
 export function getNote(uniSlug: string, courseCode: string): CourseNote | undefined {
-  const file = path.join(NOTES_DIR, `${uniSlug}__${courseCode}.json`);
+  const safeUni = String(uniSlug || '').replace(/[^a-z0-9-]/g, '');
+  const safeCourse = String(courseCode || '').replace(/[^a-z0-9-]/g, '');
+  if (!safeUni || !safeCourse) return undefined;
+  const file = path.join(NOTES_DIR, `${safeUni}__${safeCourse}.json`);
   if (!fs.existsSync(file)) return undefined;
   try {
     return JSON.parse(fs.readFileSync(file, 'utf8')) as CourseNote;

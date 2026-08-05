@@ -96,26 +96,38 @@ function parsePackBuffer(buf: Buffer): Pack {
   return JSON.parse(buf.toString('utf8')) as Pack;
 }
 
-async function loadIndex(): Promise<IndexItem[]> {
-  if (indexCache) return indexCache;
-
-  // Build-time / local: prefer reading public file without dynamic path join patterns.
+/**
+ * Local/build disk read with turbopackIgnore so NFT does NOT pack public/** into lambdas.
+ * On Vercel serverless these files are not in the function FS — callers must HTTP-fetch.
+ */
+function readLocalFile(relFromRoot: string): Buffer | null {
   try {
     // eslint-disable-next-line @typescript-eslint/no-require-imports
     const fs = require('fs') as typeof import('fs');
-    const candidates = [
-      'public/data/mevzuat-index.json',
-      './public/data/mevzuat-index.json',
-    ];
-    for (const p of candidates) {
-      if (fs.existsSync(p)) {
-        const data = JSON.parse(fs.readFileSync(p, 'utf8')) as IndexPayload;
-        indexCache = data.items || [];
-        return indexCache;
-      }
-    }
+    // eslint-disable-next-line @typescript-eslint/no-require-imports
+    const path = require('path') as typeof import('path');
+    // turbopackIgnore: prevent whole-project NFT when path is composed at runtime
+    const p = path.join(/* turbopackIgnore: true */ process.cwd(), relFromRoot);
+    if (!fs.existsSync(p)) return null;
+    return fs.readFileSync(p);
   } catch {
-    // fetch
+    return null;
+  }
+}
+
+async function loadIndex(): Promise<IndexItem[]> {
+  if (indexCache) return indexCache;
+
+  // Build machine / local: fixed relative path (ignored by NFT).
+  const local = readLocalFile(pathPosix('public/data/mevzuat-index.json'));
+  if (local) {
+    try {
+      const data = JSON.parse(local.toString('utf8')) as IndexPayload;
+      indexCache = data.items || [];
+      return indexCache;
+    } catch {
+      // fall through to HTTP
+    }
   }
 
   const res = await fetch(`${siteBaseUrl()}/data/mevzuat-index.json`, {
@@ -127,31 +139,32 @@ async function loadIndex(): Promise<IndexItem[]> {
   return indexCache;
 }
 
+function pathPosix(p: string): string {
+  return p.replace(/\\/g, '/');
+}
+
 async function loadPack(kanunId: string): Promise<Pack> {
   if (packCache.has(kanunId)) return packCache.get(kanunId)!;
 
-  // Prefer disk when available (local + Vercel build; packs may be absent in slim lambdas).
-  try {
-    // eslint-disable-next-line @typescript-eslint/no-require-imports
-    const fs = require('fs') as typeof import('fs');
-    const candidates = [
-      `content-packs/${kanunId}.json.gz`,
-      `public/content-packs/${kanunId}.json.gz`,
-      `./content-packs/${kanunId}.json.gz`,
-      `./public/content-packs/${kanunId}.json.gz`,
-    ];
-    for (const p of candidates) {
-      if (fs.existsSync(p)) {
-        const pack = parsePackBuffer(fs.readFileSync(p));
-        packCache.set(kanunId, pack);
-        return pack;
-      }
+  const safe = String(kanunId || '')
+    .toLowerCase()
+    .replace(/[^a-z0-9-]/g, '');
+  if (!safe) throw new Error('pack: empty kanunId');
+
+  // Build/local only via ignored path — never template-string existsSync (NFT explosion).
+  for (const rel of [
+    `public/content-packs/${safe}.json.gz`,
+    `content-packs/${safe}.json.gz`,
+  ]) {
+    const buf = readLocalFile(rel);
+    if (buf && buf.length >= 64) {
+      const pack = parsePackBuffer(buf);
+      packCache.set(kanunId, pack);
+      return pack;
     }
-  } catch {
-    // HTTP fallback
   }
 
-  const kid = encodeURIComponent(kanunId);
+  const kid = encodeURIComponent(safe);
   const urls = [
     // Same origin static first (CDN-backed on Vercel)
     `${SITE_ORIGIN}/content-packs/${kid}.json.gz`,
