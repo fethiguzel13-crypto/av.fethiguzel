@@ -210,19 +210,16 @@ export default function BolgeBilgiSayfasi({ veri }: { veri: BolgeBilgi }) {
 
         {(() => {
           const makaleler = BOLGE_MAKALELER.filter(
-            (m) =>
-              m.yerlesim === veri.yerlesim ||
-              m.bolgeHref === `/${veri.slug}` ||
-              m.il === veri.il
+            (m) => m.yerlesim === veri.yerlesim || m.il === veri.il
           ).slice(0, 6);
           if (!makaleler.length) return null;
           return (
             <section className="mb-12">
               <h2 className="text-lg font-heading font-bold text-charcoal mb-3">
-                {veri.yerlesim} ve çevresi — hukuki makaleler
+                {veri.yerlesim} ve çevresi — bölge yazıları
               </h2>
               <p className="text-sm text-charcoal/50 mb-4">
-                Tarihi gelişmeler, nüfus ve taşınmaz olayları — grafik destekli bilgilendirme yazıları.
+                Mekânın ruhu, tarih ve bellek — fotoğraflı denemeler (reklam değil).
               </p>
               <ul className="space-y-2">
                 {makaleler.map((m) => (

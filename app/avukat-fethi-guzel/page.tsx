@@ -186,10 +186,11 @@ export default function AvukatFethiGuzelPage() {
                             <li className="flex gap-3">
                                 <MapPin className="text-accent shrink-0 mt-0.5" size={18} />
                                 <span>
-                                    Hizmet: Van, Erciş, Bitlis hattı, Ağrı/Patnos ve uzaktan Ankara erişimi —{' '}
-                                    <Link href="/hizmet-bolgeleri" className="text-accent font-semibold hover:underline">
-                                        tüm bölgeler
+                                    Çalışma odağı Van–Erciş ve çevre; uzaktan Ankara. Mekân denemeleri:{' '}
+                                    <Link href="/bolge-yazi" className="text-accent font-semibold hover:underline">
+                                        bölge yazıları
                                     </Link>
+                                    .
                                 </span>
                             </li>
                         </ul>

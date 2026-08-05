@@ -84,7 +84,7 @@ export default function HizmetlerPage() {
                         Akademik profil
                     </Link>
                     {' · '}
-                    <Link href="/hizmet-bolgeleri" className="text-accent font-semibold hover:underline">
+                    <Link href="/bolge-yazi" className="text-accent font-semibold hover:underline">
                         Hizmet bölgeleri
                     </Link>
                     {' · '}

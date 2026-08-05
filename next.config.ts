@@ -47,6 +47,20 @@ const nextConfig: NextConfig = {
         destination: "/bilgi/bosanma-maaliyeti",
         permanent: true,
       },
+      // Eski “X avukat” SEO sayfaları → bölge denemeleri (reklam yasağı / soft-CTA temizliği)
+      { source: "/van-avukat", destination: "/bolge-yazi/van-golu-havzasi-tasinmaz-ve-miras-hukuku", permanent: true },
+      { source: "/ercis-avukat", destination: "/bolge-yazi/ercis-nufus-veraset-tapu-intikali", permanent: true },
+      { source: "/muradiye-avukat", destination: "/bolge-yazi/muradiye-aile-miras-ve-nufus-olaylari", permanent: true },
+      { source: "/agri-avukat", destination: "/bolge-yazi/agri-sinir-bolgesi-tasinmaz-miras-ve-idare", permanent: true },
+      { source: "/patnos-avukat", destination: "/bolge-yazi/patnos-icra-tarimsal-alacak-ve-nufus", permanent: true },
+      { source: "/caldiran-avukat", destination: "/bolge-yazi/caldiran-tarimsal-tasinmaz-kadastro-ve-nufus", permanent: true },
+      { source: "/ozalp-avukat", destination: "/bolge-yazi", permanent: true },
+      { source: "/tatvan-avukat", destination: "/bolge-yazi/tatvan-ticaret-kira-ve-ulastirma-hukuku", permanent: true },
+      { source: "/bitlis-avukat", destination: "/bolge-yazi/bitlis-miras-paydasligi-ve-daglik-tasinmaz", permanent: true },
+      { source: "/adilcevaz-avukat", destination: "/bolge-yazi/adilcevaz-gol-kiyisi-mulkiyet-ve-miras", permanent: true },
+      { source: "/ahlat-avukat", destination: "/bolge-yazi/ahlat-vakif-miras-ve-tarihi-tasinmazlar", permanent: true },
+      { source: "/ankara-avukat", destination: "/bolge-yazi", permanent: true },
+      { source: "/hizmet-bolgeleri", destination: "/bolge-yazi", permanent: true },
     ];
   },
   async rewrites() {

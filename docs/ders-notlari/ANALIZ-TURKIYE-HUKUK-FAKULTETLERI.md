@@ -1,8 +1,10 @@
 # Türkiye Hukuk Fakülteleri ve Sınav Sistemleri — Derin Analiz
 
-**Tarih:** 2026-07-29  
+**Tarih:** 2026-07-29 (rev. 2026-08-05)  
 **Amaç:** Ücretsiz, üniversite bazlı hukuk ders notları projesinin veri zemini  
 **Kaynak notu:** Sayılar YÖK Atlas / ÖSYM / açık raporlara dayanır; kesin kontenjan için o yılın kılavuzu esas alınmalıdır.
+
+> **2026-08-05 düzeltme:** Liste “her şehir” değil, **yalnızca YÖK Atlas’ta Hukuk programı görünen TR fakülteler** olacak şekilde daraltıldı (Ağrı vb. sahte kayıtlar ve ~7.670 not silindi). Kalite standardı ve araştırma disiplini: `KALITE-VE-ARASTIRMA.md`.
 
 ---
 

@@ -14,8 +14,8 @@ export function generateStaticParams() {
         'ankara',
         'istanbul',
         'marmara',
-        'van-yyu',
         'bilkent',
+        'bogazici',
       ].includes(p.uni)
     )
     .slice(0, 120);

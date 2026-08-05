@@ -27,8 +27,9 @@ export function generateStaticParams() {
     'bilkent',
     'koc',
     'tobb-etu',
-    'van-yyu',
     'bogazici',
+    'ozyegin',
+    'yeditepe',
   ]);
   const first = all.filter((p) => priority.has(p.uni));
   // Borçlar Genel üçlü paket — öncelikli fakültelerde mutlaka SSG

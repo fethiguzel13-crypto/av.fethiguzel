@@ -2,6 +2,7 @@ export type {
   BolgeMakale,
   MakaleBolum,
   MakaleFaq,
+  MakaleFoto,
   MakaleGrafik,
 } from './types';
 export {

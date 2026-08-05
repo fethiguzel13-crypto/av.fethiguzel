@@ -37,7 +37,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     { url: `${baseUrl}/english-speaking-lawyer`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.8 },
     { url: `${baseUrl}/ingilizce-avukat`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.7 },
     { url: `${baseUrl}/ar`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.7 },
-    { url: `${baseUrl}/hizmet-bolgeleri`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.5 },
+
     { url: `${baseUrl}/ders-notlari`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.88 },
     { url: `${baseUrl}/bolge-yazi`, lastModified: new Date(), changeFrequency: 'weekly', priority: 0.86 },
     { url: `${baseUrl}/hizmetler`, lastModified: new Date(), changeFrequency: 'monthly', priority: 0.85 },
@@ -87,28 +87,15 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
     priority: 0.8,
   }));
 
-  const ilceSlugs = [
-    'ercis-avukat',
-    'van-avukat',
-    'muradiye-avukat',
-    'agri-avukat',
-    'patnos-avukat',
-    'caldiran-avukat',
-    'ozalp-avukat',
-    'tatvan-avukat',
-    'bitlis-avukat',
-    'adilcevaz-avukat',
-    'ahlat-avukat',
-    'ankara-avukat',
-    'avukat-fethi-guzel',
+  // Eski “X avukat” ilçe URL’leri sitemap’ten çıkarıldı (308 → /bolge-yazi/…)
+  const ilceRoutes: MetadataRoute.Sitemap = [
+    {
+      url: `${baseUrl}/avukat-fethi-guzel`,
+      lastModified: new Date(),
+      changeFrequency: 'monthly' as const,
+      priority: 0.9,
+    },
   ];
-  // Bölgesel bilgilendirme: index'e açık ama ana sayfa kadar öncelikli değil
-  const ilceRoutes: MetadataRoute.Sitemap = ilceSlugs.map((slug) => ({
-    url: `${baseUrl}/${slug}`,
-    lastModified: new Date(),
-    changeFrequency: 'monthly' as const,
-    priority: slug === 'avukat-fethi-guzel' ? 0.9 : 0.55,
-  }));
 
   const categoryRoutes: MetadataRoute.Sitemap = lawCategories.map((cat) => ({
     url: `${baseUrl}/${cat.slug}`,

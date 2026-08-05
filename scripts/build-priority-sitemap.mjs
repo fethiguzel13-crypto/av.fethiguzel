@@ -40,7 +40,7 @@ function add(path, prio = '0.9', freq = 'weekly') {
   '/mevzuat/is-kanunu',
   '/ders-notlari/ankara-yildirim-beyazit',
   '/ders-notlari/marmara',
-  '/ders-notlari/van-yyu',
+  '/ders-notlari/ankara',
 ].forEach((p) => add(p, p === '/' ? '1.0' : '0.95'));
 
 // TBK 1–50 (Google «TBK 13» niyeti)

@@ -1,4 +1,12 @@
-/** Bölgesel hukuki tarih / olay makaleleri — reklam yasağına uygun bilgilendirme */
+/** Bölgesel deneme / tarih–mekân makaleleri — “X avukat” SEO değil */
+
+export type MakaleFoto = {
+  /** public/ altı yol veya mutlak URL */
+  src: string;
+  alt: string;
+  caption: string;
+  credit?: string;
+};
 
 export type MakaleGrafik =
   | {
@@ -34,34 +42,33 @@ export type MakaleBolum = {
   paragraphs: string[];
   bullets?: string[];
   callout?: { title: string; body: string };
+  /** Bölüm içi foto (opsiyonel) */
+  photo?: MakaleFoto;
 };
 
 export type MakaleFaq = { q: string; a: string };
 
 export type BolgeMakale = {
   slug: string;
-  /** Yerleşim / havza etiketi */
   yerlesim: string;
   il: string;
-  /** Konu kategorisi */
-  kategori: 'tarih' | 'nufus' | 'tasinmaz' | 'olay' | 'miras' | 'ticaret' | 'genel';
+  kategori: 'tarih' | 'nufus' | 'tasinmaz' | 'olay' | 'miras' | 'ticaret' | 'genel' | 'kultur';
   title: string;
   description: string;
   keywords: string[];
   h1: string;
   eyebrow: string;
   lead: string;
-  /** Üstte öne çıkan “kilit nokta” */
   keyInsight: string;
-  /** Okuma süresi tahmini (dk) */
   okumaDk: number;
   updated: string;
   sections: MakaleBolum[];
   graphics: MakaleGrafik[];
   faq: MakaleFaq[];
   related: { label: string; href: string }[];
-  /** Eski *-avukat bilgilendirme sayfası */
-  bolgeHref?: string;
-  /** Dekoratif gradient teması */
   theme: 'lake' | 'mountain' | 'plain' | 'historic' | 'trade';
+  /** Kapak fotoğrafı */
+  heroPhoto: MakaleFoto;
+  /** Ek fotoğraflar (galeri / araya serpiştirme) */
+  photos?: MakaleFoto[];
 };

@@ -37,7 +37,7 @@ const CORE = [
     { href: '/akademik-profil', ad: 'Akademik profil' },
     { href: '/english-speaking-lawyer', ad: 'English-speaking lawyer' },
     { href: '/ar', ad: 'Arabic landing' },
-    { href: '/hizmet-bolgeleri', ad: 'Bölgesel hukuki bilgilendirme' },
+    { href: '/bolge-yazi', ad: 'Bölge yazıları (fotoğraflı denemeler)' },
     { href: '/hizmetler', ad: 'Hizmet alanları' },
     { href: '/gizlilik', ad: 'Gizlilik / KVKK' },
     { href: '/yasal-uyari', ad: 'Yasal uyarı' },
@@ -154,8 +154,8 @@ export default function SiteHaritasiPage() {
                             </Link>
                         </li>
                         <li>
-                            <Link href="/ders-notlari/van-yyu" className="text-sm text-charcoal/70 hover:text-accent">
-                                Van YYÜ örnek hub
+                            <Link href="/ders-notlari/ankara" className="text-sm text-charcoal/70 hover:text-accent">
+                                Ankara Hukuk örnek hub
                             </Link>
                         </li>
                         <li>

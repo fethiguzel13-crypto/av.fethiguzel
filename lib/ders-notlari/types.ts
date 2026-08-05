@@ -106,7 +106,15 @@ export type CourseNote = {
   relatedBilgi: string[];
   updated: string;
   wordTarget: number;
-  qualityTier?: 'premium';
+  /**
+   * template = eski isim-değiştirmeli motor
+   * research-draft = araştırma var, metin yarı
+   * curated = fakülteye özgü elden geçirilmiş
+   * premium = legacy etiket (curated ile eşdeğer say)
+   */
+  qualityTier?: 'template' | 'research-draft' | 'curated' | 'premium';
+  /** Kamuya açık kaynaklar (müfredat, açık ders, fakülte sayfası) */
+  sources?: { title: string; url: string; note?: string }[];
   /** Örn. borclar-genel */
   variantOf?: string;
   /** Örn. 1. Dönem (Güz) */

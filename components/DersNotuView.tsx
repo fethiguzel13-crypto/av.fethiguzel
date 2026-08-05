@@ -292,7 +292,12 @@ export function DersNotuView({
       <div className="mb-8 rounded-3xl border border-charcoal/10 overflow-hidden bg-white shadow-sm">
         <div className="bg-gradient-to-br from-charcoal via-charcoal to-[#2a2520] px-5 sm:px-8 py-7 sm:py-9 text-cream">
           <p className="text-accent font-mono text-[10px] tracking-[0.2em] uppercase mb-3">
-            Ücretsiz premium not · {hub.uni.city} · {hub.uni.shortName}
+            Ücretsiz ders notu · {hub.uni.city} · {hub.uni.shortName}
+            {note.qualityTier === 'curated'
+              ? ' · elden geçirilmiş'
+              : note.qualityTier === 'research-draft'
+                ? ' · araştırma taslağı'
+                : ' · taslak iskelet'}
           </p>
           <h1 className="text-2xl sm:text-4xl font-heading font-bold leading-tight mb-3 text-cream">
             {note.h1}
@@ -303,6 +308,14 @@ export function DersNotuView({
             </p>
           )}
           <p className="text-cream/65 text-sm sm:text-base leading-relaxed max-w-3xl">{note.lead}</p>
+          {(!note.qualityTier ||
+            note.qualityTier === 'premium' ||
+            note.qualityTier === 'template') && (
+            <p className="mt-4 text-[11px] sm:text-xs text-cream/55 leading-relaxed max-w-3xl border border-cream/15 rounded-xl px-3 py-2">
+              Bu sayfa genel çekirdek iskelettir; fakülteye özgü derin yazım dalga dalga
+              güncellenir. Bağlayıcı olan OBS, dönem duyurusu ve sorumlu öğretim elemanıdır.
+            </p>
+          )}
           <div className="flex flex-wrap gap-2 mt-5 print:hidden">
             <Link
               href={`${pdfHref}?print=1`}
@@ -1213,6 +1226,39 @@ export function DersNotuView({
         </div>
       </section>
 
+      {/* Kaynaklar (curated) */}
+      {note.sources && note.sources.length > 0 && (
+        <section className="mb-10">
+          <h2 className="text-xl font-heading font-bold text-charcoal mb-4">
+            Kamuya açık kaynaklar
+          </h2>
+          <p className="text-sm text-charcoal/55 mb-3 leading-relaxed">
+            Aşağıdakiler müfredat / duyuru / açık erişim sayfalarıdır. Hoca slaytı
+            kopyalanmaz; bağlayıcı bilgi için her zaman resmi kanala bakın.
+          </p>
+          <ul className="space-y-2 m-0 pl-0 list-none">
+            {note.sources.map((s) => (
+              <li
+                key={s.url}
+                className="rounded-xl border border-charcoal/8 bg-white px-3 py-2.5 text-sm"
+              >
+                <a
+                  href={s.url}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="font-semibold text-accent hover:underline"
+                >
+                  {s.title}
+                </a>
+                {s.note && (
+                  <p className="m-0 mt-1 text-xs text-charcoal/50 leading-relaxed">{s.note}</p>
+                )}
+              </li>
+            ))}
+          </ul>
+        </section>
+      )}
+
       {/* İlişkili dersler */}
       {note.relatedCourses.length > 0 && (
         <section className="mb-10">
@@ -1241,7 +1287,11 @@ export function DersNotuView({
         <p className="m-0">
           Resmi müfredatın ve sorumlu öğretim elemanının yerine geçmez · telifli slayt kopyalanmaz ·
           güncelleme: {note.updated}
-          {note.qualityTier === 'premium' ? ' · premium şematik sürüm' : ''}
+          {note.qualityTier === 'curated'
+            ? ' · elden geçirilmiş (curated)'
+            : note.qualityTier === 'research-draft'
+              ? ' · araştırma taslağı'
+              : ' · taslak iskelet'}
         </p>
       </footer>
     </>
