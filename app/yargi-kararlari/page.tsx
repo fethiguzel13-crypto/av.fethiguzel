@@ -5,8 +5,9 @@ import { join } from 'path';
 import Navbar from '@/components/Navbar';
 import Footer from '@/components/Footer';
 
-/** Yerel dosya okur; build sırasında statik boş liste de olur */
+/** Yerel dosya okur; production'da arşiv yoksa boş liste. */
 export const dynamic = 'force-dynamic';
+export const runtime = 'nodejs';
 
 export const metadata: Metadata = {
   title: 'Yargı Kararları | Borçlar ve Medeni Hukuk',
@@ -26,28 +27,33 @@ type Pointer = {
 };
 
 function loadLocalPointers(): Pointer[] {
-  // Önce public (deploy sonrası), yoksa yerel data (dev)
-  const candidates = [
-    join(process.cwd(), 'public', 'data', 'yargi-kararlari', 'by-alan'),
-    join(process.cwd(), 'data', 'yargi-kararlari', 'by-alan'),
-  ];
-  const out: Pointer[] = [];
-  for (const base of candidates) {
-    if (!existsSync(base)) continue;
-    for (const alan of ['borclar', 'medeni']) {
-      const dir = join(base, alan);
-      if (!existsSync(dir)) continue;
-      for (const f of readdirSync(dir).filter((x) => x.endsWith('.json'))) {
-        try {
-          out.push(JSON.parse(readFileSync(join(dir, f), 'utf8')));
-        } catch {
-          /* skip */
+  try {
+    // Önce public (deploy sonrası), yoksa yerel data (dev)
+    const candidates = [
+      join(process.cwd(), 'public', 'data', 'yargi-kararlari', 'by-alan'),
+      join(process.cwd(), 'data', 'yargi-kararlari', 'by-alan'),
+    ];
+    const out: Pointer[] = [];
+    for (const base of candidates) {
+      if (!existsSync(base)) continue;
+      for (const alan of ['borclar', 'medeni']) {
+        const dir = join(base, alan);
+        if (!existsSync(dir)) continue;
+        for (const f of readdirSync(dir).filter((x) => x.endsWith('.json'))) {
+          try {
+            out.push(JSON.parse(readFileSync(join(dir, f), 'utf8')));
+          } catch {
+            /* skip corrupt pointer */
+          }
         }
       }
+      if (out.length) break;
     }
-    if (out.length) break;
+    return out.sort((a, b) => String(b.tarih || '').localeCompare(String(a.tarih || '')));
+  } catch {
+    // Vercel'de fs yok / path yok → boş arşiv göster
+    return [];
   }
-  return out.sort((a, b) => String(b.tarih || '').localeCompare(String(a.tarih || '')));
 }
 
 export default function YargiKararlariPage() {
@@ -89,13 +95,15 @@ export default function YargiKararlariPage() {
               <p className="mt-2 text-sm leading-relaxed">
                 Terminalde{' '}
                 <code className="rounded bg-stone-100 px-1.5 py-0.5 text-xs">
-                  npm run yargi:pilot
+                  npm run yargi:run
                 </code>{' '}
                 ile indirmeyi başlat; liste{' '}
                 <code className="rounded bg-stone-100 px-1.5 py-0.5 text-xs">
                   data/yargi-kararlari/
                 </code>{' '}
-                altında birikir. Yerel tarayıcı: aynı klasördeki <code>index.html</code>.
+                altında birikir. Karar JSON dosyaları Vercel limitleri nedeniyle
+                henüz production&apos;a yüklenmez; sayfa yerelde dolu, canlıda
+                boş arşiv mesajı gösterir.
               </p>
             </div>
           ) : (
