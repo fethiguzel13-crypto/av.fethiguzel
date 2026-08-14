@@ -11,7 +11,7 @@ export const PROFILE = {
     shortName: 'Fethi Güzel',
     alternateNames: ['Avukat Fethi Güzel', 'Fethi Güzel', 'Av. Fethi Güzel'],
     jobTitle: 'Avukat & Arabulucu',
-    email: 'av.fethiguzel@hotmail.com',
+    email: 'fethiguzel@hotmail.com',
     /**
      * WhatsApp iş hattı — rakamları güncelleyin (ülke kodu + numara, + yok).
      * Boş bırakılırsa sitede e-posta CTA kullanılır.
@@ -35,13 +35,13 @@ export const PROFILE = {
         { code: 'en', label: 'English', level: 'İyi düzeyde / Professional working proficiency' },
     ],
     office: {
-        street: 'Vanyolu Mah. Karayusuf Bey Bulvarı Zenginler İş Hanı Kat 4 No 26',
+        street: 'Vanyolu Mah. Karayusuf Bey Bulvarı Zenginler İş Hanı A Blok Kat 5 No 33',
         locality: 'Erciş',
         region: 'Van',
         postalCode: '65400',
         country: 'TR',
         mapQuery:
-            'Vanyolu+Mah.+Karayusuf+Bey+Bulvar%C4%B1+Zenginler+I%C5%9F+Han%C4%B1+Erci%C5%9F+Van',
+            'Vanyolu+Mah.+Karayusuf+Bey+Bulvar%C4%B1+Zenginler+I%C5%9F+Han%C4%B1+A+Blok+Kat+5+No+33+Erci%C5%9F+Van',
     },
     photo: '/images/av-fethi-guzel-van-ercis-avukat.jpg',
     ogImage: '/images/av-fethi-guzel-og.jpg',

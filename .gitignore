@@ -63,3 +63,14 @@ logs/
 # local build noise
 start-out.txt
 
+# Yargı kararı yerel arşivi (ağır JSON; Vercel/push öncesi yerelde kalsın)
+/data/yargi-kararlari/decisions/
+/data/yargi-kararlari/_state/
+/data/yargi-kararlari/by-alan/
+/data/yargi-kararlari/index.jsonl
+/data/yargi-kararlari/index.html
+
+
+# TestSprite local artifacts
+.testsprite/failure/
+

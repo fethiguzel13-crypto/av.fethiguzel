@@ -74,11 +74,12 @@ export default async function BilgiKategoriPage({ params }: Props) {
           <span className="text-charcoal/60">{cat}</span>
         </nav>
         <h1 className="text-3xl sm:text-4xl font-heading font-bold text-charcoal mb-3">
-          {cat} — vatandaş rehberleri
+          {cat}
         </h1>
         <p className="text-charcoal/55 text-sm mb-8 max-w-2xl">
-          {items.length} bilgilendirme sayfası. Genel bilgilendirme amaçlıdır; somut uyuşmazlıkta
-          avukata danışın.
+          {items.filter((a) => a.role === 'pillar').length
+            ? 'Önce ana rehberleri okuyun; alt konular tek bir soruya cevap verir.'
+            : 'Bu konudaki kısa rehberler. Somut dosyada süre ve merci değişebilir.'}
         </p>
         <ul className="grid gap-3 sm:grid-cols-2">
           {items.map((a) => (

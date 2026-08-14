@@ -1,0 +1,122 @@
+{
+  "version": 1,
+  "targetTotal": 100000,
+  "similarityThreshold": 0.85,
+  "candidatePoolMultiplier": 3,
+  "blocks": [
+    {
+      "id": "yibk",
+      "label": "İçtihadı Birleştirme / Büyük Genel Kurulu",
+      "quota": 1200,
+      "sourcePriority": 0,
+      "match": { "tierIds": ["yibk"], "dairePatterns": ["Büyük Genel Kurulu", "İçtihadı Birleştirme"] }
+    },
+    {
+      "id": "hgk",
+      "label": "Hukuk Genel Kurulu",
+      "quota": 12000,
+      "sourcePriority": 1,
+      "match": { "tierIds": ["hgk"], "dairePatterns": ["Hukuk Genel Kurulu"] }
+    },
+    {
+      "id": "cgk",
+      "label": "Ceza Genel Kurulu",
+      "quota": 8000,
+      "sourcePriority": 1,
+      "match": { "tierIds": ["cgk"], "dairePatterns": ["Ceza Genel Kurulu"] }
+    },
+    {
+      "id": "kurul-diger",
+      "label": "Diğer Yargıtay kurulları (HDBK vb.)",
+      "quota": 1800,
+      "sourcePriority": 2,
+      "match": {
+        "tierIds": ["hdbk", "cdbk"],
+        "dairePatterns": ["Başkanlar Kurulu", "Hukuk Daireleri Başkanlar", "Ceza Daireleri Başkanlar"]
+      }
+    },
+    {
+      "id": "hukuk-daire",
+      "label": "Hukuk daireleri (ilke örnekleme)",
+      "quota": 32000,
+      "sourcePriority": 3,
+      "match": { "tierIds": ["borclar-daire", "medeni-daire", "is-daire", "ticaret-daire", "hukuk-daire-genel"], "dairePatterns": ["Hukuk Dairesi"] },
+      "perDaireCap": 2800
+    },
+    {
+      "id": "ceza-daire",
+      "label": "Ceza daireleri",
+      "quota": 16000,
+      "sourcePriority": 3,
+      "match": { "tierIds": ["ceza-daire"], "dairePatterns": ["Ceza Dairesi"] },
+      "perDaireCap": 2200
+    },
+    {
+      "id": "icra-daire",
+      "label": "İcra ve İflas",
+      "quota": 6000,
+      "sourcePriority": 3,
+      "match": { "tierIds": ["icra-daire"], "dairePatterns": ["İcra", "İflas"] },
+      "perDaireCap": 3500
+    },
+    {
+      "id": "danistay-iddk",
+      "label": "Danıştay İdare Dava Daireleri Kurulu",
+      "quota": 4000,
+      "sourcePriority": 2,
+      "match": { "tierIds": ["danistay-iddk"], "dairePatterns": ["İdare Dava Daireleri Kurulu", "İDDK"] }
+    },
+    {
+      "id": "danistay-vddk",
+      "label": "Danıştay Vergi Dava Daireleri Kurulu",
+      "quota": 4000,
+      "sourcePriority": 2,
+      "match": { "tierIds": ["danistay-vddk"], "dairePatterns": ["Vergi Dava Daireleri Kurulu", "VDDK"] }
+    },
+    {
+      "id": "danistay-daire",
+      "label": "Danıştay daire ve diğer kurullar",
+      "quota": 15000,
+      "sourcePriority": 4,
+      "match": { "tierIds": ["danistay-daire"], "dairePatterns": ["Danıştay"] },
+      "perDaireCap": 2500
+    }
+  ],
+  "eraShares": {
+    "pre2010": 0.18,
+    "y2010_2019": 0.42,
+    "y2020plus": 0.4
+  },
+  "domainFloors": {
+    "borclar": 6000,
+    "esya_tapu": 4500,
+    "aile": 4000,
+    "miras": 2500,
+    "is_sgk": 7000,
+    "ticaret": 5500,
+    "tuketici": 2500,
+    "icra_iflas": 6000,
+    "usul_hukuk": 5000,
+    "ceza_genel": 5000,
+    "ceza_ozel": 7000,
+    "ceza_usul": 4000,
+    "idare": 8000,
+    "vergi": 6000,
+    "kamulastirma": 2000,
+    "diger": 2000
+  },
+  "quality": {
+    "minTextLenDefault": 1500,
+    "minTextLenKurul": 900,
+    "preferLenSweetMin": 4000,
+    "preferLenSweetMax": 40000,
+    "formulaPenaltyWeight": 0.45,
+    "principleBoostWeight": 0.25
+  },
+  "weights": {
+    "source": 0.32,
+    "quality": 0.38,
+    "uniqueness": 0.22,
+    "eraBalance": 0.08
+  }
+}

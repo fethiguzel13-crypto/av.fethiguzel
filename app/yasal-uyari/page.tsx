@@ -58,10 +58,10 @@ export default function YasalUyariPage() {
                     <p>
                         Sorularınız için:{' '}
                         <a
-                            href="mailto:av.fethiguzel@hotmail.com"
+                            href="mailto:fethiguzel@hotmail.com"
                             className="text-accent font-semibold hover:underline"
                         >
-                            av.fethiguzel@hotmail.com
+                            fethiguzel@hotmail.com
                         </a>
                         . Ayrıca{' '}
                         <Link href="/gizlilik" className="text-accent font-semibold hover:underline">

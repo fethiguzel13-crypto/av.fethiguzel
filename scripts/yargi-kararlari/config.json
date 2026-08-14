@@ -1,0 +1,198 @@
+{
+    "description":  "Yargıtay arşivi — YİBK → HGK → CGK → HDBK → hukuk/ceza/icra daireleri. BAM/ilk derece yok. Çekirdek 100k emsal aday havuzu.",
+    "outputDir":  "data/yargi-kararlari",
+    "sourcePrimary":  "yargitay-resmi",
+    "storeHtml":  false,
+    "rateLimit":  {
+                      "minDelayMsBetweenFullText":  2500,
+                      "maxDelayMsBetweenFullText":  7000,
+                      "minDelayMsBetweenSearch":  2500,
+                      "maxDelayMsBetweenSearch":  7000,
+                      "minDelayMsBetweenPages":  2000,
+                      "maxDelayMsBetweenPages":  5500,
+                      "maxFullTextPerDay":  9500,
+                      "maxSearchCallsPerDay":  2400,
+                      "maxFullTextPerRun":  350,
+                      "maxSearchPagesPerRun":  28,
+                      "pauseEveryNFullText":  80,
+                      "pauseMinMs":  22000,
+                      "pauseMaxMs":  60000
+                  },
+    "pagination":  {
+                       "pageSize":  100
+                   },
+    "harvest":  {
+                    "yearFrom":  2012,
+                    "yearTo":  2026,
+                    "yearsPerSearchWindow":  2,
+                    "skipBam":  true,
+                    "skipFirstInstance":  true,
+                    "notes":  "BAM ve ilk derece metinleri Yargıtay kararı içinde geçse bile kaynak birim Yargıtay\u0027dır; ayrı BAM arşivi yok. Cursor: yibk/hgk pencereleri değişmez."
+                },
+    "tiers":  [
+                  {
+                      "id":  "yibk",
+                      "label":  "İçtihadı Birleştirme (Büyük Genel Kurulu)",
+                      "priority":  0,
+                      "mode":  "full-unit",
+                      "unit":  {
+                                   "kurul":  "Büyük Genel Kurulu"
+                               },
+                      "alan":  "yibk",
+                      "yearFrom":  1950,
+                      "yearsPerSearchWindow":  80
+                  },
+                  {
+                      "id":  "hgk",
+                      "label":  "Hukuk Genel Kurulu",
+                      "priority":  1,
+                      "mode":  "full-unit",
+                      "unit":  {
+                                   "kurul":  "Hukuk Genel Kurulu"
+                               },
+                      "alan":  "hgk",
+                      "yearFrom":  2010,
+                      "yearsPerSearchWindow":  2
+                  },
+                  {
+                      "id":  "cgk",
+                      "label":  "Ceza Genel Kurulu",
+                      "priority":  1,
+                      "mode":  "full-unit",
+                      "unit":  {
+                                   "kurul":  "Ceza Genel Kurulu"
+                               },
+                      "alan":  "cgk",
+                      "yearFrom":  2010,
+                      "yearsPerSearchWindow":  2
+                  },
+                  {
+                      "id":  "hdbk",
+                      "label":  "Hukuk Daireleri Başkanlar Kurulu",
+                      "priority":  2,
+                      "mode":  "full-unit",
+                      "unit":  {
+                                   "kurul":  "Hukuk Daireleri Başkanlar Kurulu"
+                               },
+                      "alan":  "hdbk",
+                      "yearFrom":  2010,
+                      "yearsPerSearchWindow":  3
+                  },
+                  {
+                      "id":  "borclar-daire",
+                      "label":  "Borçlar odaklı hukuk daireleri",
+                      "priority":  3,
+                      "mode":  "unit-keyword",
+                      "alan":  "borclar",
+                      "daireler":  [
+                                       "3. Hukuk Dairesi",
+                                       "4. Hukuk Dairesi",
+                                       "6. Hukuk Dairesi",
+                                       "11. Hukuk Dairesi",
+                                       "13. Hukuk Dairesi",
+                                       "15. Hukuk Dairesi"
+                                   ],
+                      "keywords":  [
+                                       "yerleşik içtihat",
+                                       "ilke olarak",
+                                       "haksız fiil",
+                                       "sebepsiz zenginleşme",
+                                       "temerrüt",
+                                       "kefalet",
+                                       "genel işlem koşulları",
+                                       "eser sözleşmesi",
+                                       "kira",
+                                       "vekalet"
+                                   ]
+                  },
+                  {
+                      "id":  "medeni-daire",
+                      "label":  "Medeni odaklı hukuk daireleri",
+                      "priority":  3,
+                      "mode":  "unit-keyword",
+                      "alan":  "medeni",
+                      "daireler":  [
+                                       "1. Hukuk Dairesi",
+                                       "2. Hukuk Dairesi",
+                                       "8. Hukuk Dairesi",
+                                       "14. Hukuk Dairesi"
+                                   ],
+                      "keywords":  [
+                                       "yerleşik içtihat",
+                                       "mal rejimi",
+                                       "edinilmiş mallara katılma",
+                                       "velayet",
+                                       "tenkis",
+                                       "tapu iptali",
+                                       "elatmanın önlenmesi",
+                                       "saklı pay"
+                                   ]
+                  },
+                  {
+                      "id":  "is-daire",
+                      "label":  "İş/SGK hukuk daireleri",
+                      "priority":  3,
+                      "mode":  "unit-keyword",
+                      "alan":  "is_sgk",
+                      "daireler":  [
+                                       "9. Hukuk Dairesi",
+                                       "10. Hukuk Dairesi",
+                                       "22. Hukuk Dairesi"
+                                   ],
+                      "keywords":  [
+                                       "yerleşik içtihat",
+                                       "iş güvencesi",
+                                       "kıdem tazminatı",
+                                       "iş kazası",
+                                       "fazla mesai",
+                                       "ihbar tazminatı"
+                                   ]
+                  },
+                  {
+                      "id":  "icra-daire",
+                      "label":  "İcra-İflas odaklı hukuk daireleri",
+                      "priority":  3,
+                      "mode":  "unit-keyword",
+                      "alan":  "icra",
+                      "daireler":  [
+                                       "12. Hukuk Dairesi",
+                                       "19. Hukuk Dairesi"
+                                   ],
+                      "keywords":  [
+                                       "yerleşik içtihat",
+                                       "haciz",
+                                       "ihtiyati haciz",
+                                       "itirazın iptali",
+                                       "menfi tespit",
+                                       "konkordato",
+                                       "sıra cetveli"
+                                   ]
+                  },
+                  {
+                      "id":  "ceza-daire",
+                      "label":  "Ceza daireleri (ilke anahtar kelime)",
+                      "priority":  3,
+                      "mode":  "ceza-keyword",
+                      "alan":  "ceza",
+                      "daireler":  [
+                                       "1. Ceza Dairesi",
+                                       "2. Ceza Dairesi",
+                                       "3. Ceza Dairesi",
+                                       "4. Ceza Dairesi",
+                                       "5. Ceza Dairesi",
+                                       "6. Ceza Dairesi",
+                                       "8. Ceza Dairesi",
+                                       "9. Ceza Dairesi",
+                                       "12. Ceza Dairesi"
+                                   ],
+                      "keywords":  [
+                                       "yerleşik içtihat",
+                                       "Ceza Genel Kurulu",
+                                       "kast",
+                                       "taksir",
+                                       "iştirak",
+                                       "zincirleme suç"
+                                   ]
+                  }
+              ]
+}

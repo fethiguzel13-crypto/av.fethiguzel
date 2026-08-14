@@ -439,9 +439,9 @@ function deepPillar(label, spokeSlugs) {
     .map((s) => `/bilgi/${s}`)
     .join(' · ');
   return pack(
-    `${label} konusunda sık aranan sorular bu ana rehberde birleştirilir. Alt niyetler ayrı sayfalara bölünerek arama yamyamlığı azaltılır. Metin genel bilgilendirmedir; somut dosyada yürürlükteki mevzuat ve avukat değerlendirmesi esastır.`,
+    `${label} konusunda sık sorulan sorular bu ana rehberde birleştirilir. Metin genel bilgilendirmedir; somut dosyada yürürlükteki mevzuat ve avukat değerlendirmesi esastır.`,
     [
-      s(`${label}: kapsam ve niyet ayrımı`, [
+      s(`${label}: kapsam`, [
         `${label} birden fazla alt soruyu içerir. Bu sayfa merciler, belgeler, süreç ve riskleri ana hatlarıyla anlatır.`,
         `Dar sorular (oran, tek belge, tek adım) için alt sayfalar kullanılır: ${links}`,
       ]),

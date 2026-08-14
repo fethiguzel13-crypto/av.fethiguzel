@@ -87,38 +87,24 @@ export default function BilgiIndexPage() {
       />
       <main id="main-content" className="pt-32 sm:pt-40 pb-20 px-5 sm:px-6 max-w-4xl mx-auto">
         <p className="text-accent font-mono text-[10px] tracking-[0.22em] uppercase mb-3">
-          Vatandaş bilgilendirme · {N} rehber
+          Vatandaş rehberi
         </p>
         <h1 className="text-3xl sm:text-4xl font-heading font-bold text-charcoal mb-4">
-          Vatandaş bilgi rehberi
+          Ne yapmanız gerektiğini sade anlatır
         </h1>
-        <p className="text-charcoal/60 text-sm sm:text-base leading-relaxed mb-3 max-w-2xl">
-          Emlak vergisi, veraset ilamı, trafik cezasına itiraz, boşanma, icra, nafaka, kıdem ve{' '}
-          {N} sık aranan konuda adım adım bilgilendirme. Metinler genel bilgilendirme amaçlıdır;
-          somut dosyada avukata danışılmalıdır.
+        <p className="text-charcoal/65 text-sm sm:text-base leading-relaxed mb-2 max-w-2xl">
+          Kıdem, boşanma, icra, kira, veraset, trafik cezası: kısa cevap, sırayla adımlar, gerekli
+          belgeler. Genel bilgidir; somut dosyada süre ve merci değişebilir.
         </p>
-        <p className="text-[12px] text-charcoal/45 mb-4">
-          {N} rehber · {pillars.length} ana rehber · hub–spoke yapı ·{' '}
+        <p className="text-[12px] text-charcoal/45 mb-8">
           <Link href="/mevzuat" className="text-accent font-semibold hover:underline">
             Kanun maddeleri
-          </Link>{' '}
-          ·{' '}
+          </Link>
+          {' · '}
           <Link href="/hesaplama" className="text-accent font-semibold hover:underline">
             Hesaplama araçları
           </Link>
         </p>
-
-        <nav className="mb-8 flex flex-wrap gap-2" aria-label="Kategori dizinleri">
-          {categories.map((c) => (
-            <Link
-              key={c}
-              href={`/bilgi/kategori/${encodeURIComponent(c)}`}
-              className="text-xs px-2.5 py-1 rounded-full bg-white border border-charcoal/10 text-charcoal/70 hover:border-accent hover:text-accent font-semibold"
-            >
-              {c}
-            </Link>
-          ))}
-        </nav>
 
         <BilgiHubClient articles={cards} categories={categories} />
       </main>

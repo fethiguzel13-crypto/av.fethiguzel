@@ -139,9 +139,10 @@ export default function Navbar() {
 
   const simpleLinks = [
     { name: 'Ara', href: '/ara' },
-    { name: 'Bilgi', href: '/bilgi' },
+    { name: 'Rehber', href: '/bilgi' },
     { name: 'Hesaplama', href: '/hesaplama' },
     { name: 'Güncel', href: '/icthat' },
+    { name: 'Yargı', href: '/yargi-kararlari' },
     { name: 'Hakkımda', href: '/avukat-fethi-guzel' },
     { name: 'Akademik', href: '/akademik-profil' },
     { name: 'Ders notları', href: '/ders-notlari' },

@@ -1,0 +1,227 @@
+{
+  "ziynet-esyalari-davasi": {
+    "steps": ["Düğün ve evlilikte takılan altın / takıları listeleyin.", "Kimin taktığı ve kime takıldığına dair fotoğraf, tanık ve kayıt toplayın.", "Boşanma dosyası varsa talebi orada ileri sürün; yoksa ayrı dava açın.", "İade mümkün değilse bedele hükmedilmesini isteyin.", "Zamanaşımını (öğrenme / boşanma) kontrol edin."],
+    "docs": ["fotoğraf / video", "tanık listesi", "kuyumcu fişi", "dilekçe"],
+    "notes": [{ "heading": "Kime ait", "paragraphs": ["Yargıtay uygulamasında kadına takılan ziynet kural olarak ona aittir; iade için erkeğin ‘iade şartıyla verildiğini’ ispatı gerekir. Çeyiz ve ev eşyası ayrı kalemdir."] }]
+  },
+  "soybagi-reddi": {
+    "steps": ["Evlat ile baba arasındaki yasal karineyi (evlilik içi doğum) tespit edin.", "Öğrenme tarihinden itibaren hak düşürücü süreyi hesaplayın.", "Sulh / aile mahkemesinde soybağının reddi davası açın.", "DNA ve diğer delilleri sunun.", "Ret kabul edilirse nafaka ve soyadı sonuçlarını izleyin."],
+    "docs": ["nüfus kayıt", "doğum belgesi", "öğrenme delili", "DNA (mahkeme kararıyla)"],
+    "notes": [{ "heading": "Süre katı", "paragraphs": ["Süre öğrenmeden itibaren işleir ve kaçırılırsa hak düşer. Çocuk da belirli şartlarda dava açabilir. Dava kabul edilmeden nafaka yükümlülüğü kalkmaz."] }]
+  },
+  "evlat-edinme": {
+    "steps": ["Yaş, evlilik ve rıza şartlarını kontrol edin.", "Aile ve Sosyal Hizmetler sürecine başvurun (küçüklerde).", "Rızası gerekenleri (ana-baba, 12 yaşını bitiren çocuk) alın.", "Aile mahkemesinden evlat edinme kararı isteyin.", "Nüfus tescilini yaptırın; miras ve soyadı etkisini bilin."],
+    "docs": ["kimlik", "gelir / ev belgesi", "rıza evrakı", "mahkeme kararı"],
+    "notes": [{ "heading": "Kurucu karar", "paragraphs": ["Evlatlık bağı mahkeme kararıyla doğar. Küçüklerde kurum süreci vardır. Evlatlık, evlat edinenin yasal mirasçısı olur; bazı bağlar kopar."] }]
+  },
+  "ceza-sorusturmasi-sureci": {
+    "steps": ["İhbar veya şikâyetle soruşturma açıldığını öğrenin.", "Şüpheliyseniz müdafi hakkını kullanın; ifade vermeden önce konuşun.", "Mağdursanız delil ve talep listenizi verin.", "KYOK veya iddianame sonucunu bekleyin.", "KYOK’a itiraz süresini yazın."],
+    "docs": ["şikâyet / ifade", "delil", "müdafi vekâleti", "karar"],
+    "notes": [{ "heading": "Gizlilik", "paragraphs": ["Soruşturma gizlidir; dosya herkese açılmaz. Tutuklama ayrı bir koruma tedbiridir. Uzlaştırma kapsamındaki suçlarda süreç farklı yürür."] }]
+  },
+  "gozalti-haklari": {
+    "steps": ["Gözaltı sebebini ve süresini sorun; yakınıza haber verilmesini isteyin.", "Müdafi isteyin; susma hakkını kullanın.", "Hekim muayenesi ve tutanağı imzalamadan okuyun.", "İfade sırasında zorlama varsa tutanağa geçirin.", "Süre bitince serbestlik veya sevk kararını izleyin."],
+    "docs": ["gözaltı tutanağı", "hekim raporu", "müdafi belgesi"],
+    "notes": [{ "heading": "Süre", "paragraphs": ["Gözaltı kural olarak 24 saattir; toplu suçlarda uzayabilir. Müdafiden feragat baskıyla alınmamalıdır. İfade özgür iradeyle verilmezse geçersiz sayılabilir."] }]
+  },
+  "uzlastirma-nedir": {
+    "steps": ["Suçun uzlaştırma kapsamında olup olmadığını sorun.", "Uzlaştırmacı çağrısına katılın veya mazeret bildirin.", "Edim ve özrü yazılı kabul edin.", "Anlaşma sağlanırsa kovuşturma düşer; ödemeyi belgelendirin.", "Anlaşmazlıkta soruşturma / dava devam eder."],
+    "docs": ["uzlaştırma tutanağı", "ödeme belgesi", "tebligat"],
+    "notes": [{ "heading": "Kapsam", "paragraphs": ["Her suç uzlaşmaz. Anlaşma, edim yerine getirilirse kamu davasını düşürür. Katılmamak aleyhe yorumlanabilir ama suç ikrarı değildir."] }]
+  },
+  "adli-sicil-kaydi": {
+    "steps": ["e-Devlet’ten adli sicil ve arşiv kaydını indirin.", "Hangi kurumun sicil mi arşiv mi istediğini sorun.", "Silinme / yasaklanmış hakların iadesi şartına bakın.", "Yanlış kayıt için Cumhuriyet savcılığına düzeltme isteyin.", "İş / ihale başvurusunda güncel çıktı kullanın."],
+    "docs": ["e-Devlet çıktısı", "kesinleşme belgesi", "düzeltme dilekçesi"],
+    "notes": [{ "heading": "Sicil ve arşiv", "paragraphs": ["Adli sicil, hükmün görünür kaydıdır; arşiv daha uzun tutulur. HAGB ve bazı ertelemeler sicile farklı yansır. Silinme otomatik olmayabilir."] }]
+  },
+  "trafik-kazasi-tazminati": {
+    "steps": ["Kaza tespit tutanağı ve fotoğrafı alın; sağlık kaydı düşürtün.", "Zorunlu mali sorumluluk sigortasına ihbar edin.", "Kusur oranını ve hasar kalemlerini (araç, tedavi, iş göremezlik, destekten yoksunluk) ayırın.", "Sigorta ödemezse tahkim veya dava açın.", "Değer kaybını ayrı talep edin."],
+    "docs": ["kaza tutanağı", "poliçe", "eksper / fatura", "sağlık raporu"],
+    "notes": [{ "heading": "Kim öder", "paragraphs": ["Karşı tarafın ZMMS’si kusuru oranında öder. Kendi kaskonuz ayrıdır. Destekten yoksun kalma ölüm hâlinde mirasçılara aittir. Kusur paylaşımı tazminatı keser."] }]
+  },
+  "trafik-sigortasi-hasar": {
+    "steps": ["Poliçe ve kaza evrakını sigortaya iletin.", "Eksper gününü kaçırmayın.", "Hasar dosya numarasını alın.", "Eksik evrak listesini tamamlayın.", "Red veya düşük ödemede yazılı itiraz + tahkim yolunu kullanın."],
+    "docs": ["poliçe", "tutanak", "eksper raporu", "iban / ruhsat"],
+    "notes": [{ "heading": "Süre", "paragraphs": ["İhbar gecikmesi red gerekçesi olabilir. ZMMS teminat tavanı aşılırsa sürücü / işleten malvarlığına gidilir. Kasko muafiyeti ayrıdır."] }]
+  },
+  "ehliyet-geri-alma": {
+    "steps": ["El koyma sebebini (puan, alkol, mahkeme) yazın.", "Yasak süresinin bitimini hesaplayın.", "Psikoteknik / sürücü davranışı eğitimi isteniyorsa tamamlayın.", "Teslim aldığınız birime evrakla başvurun.", "İdari işleme karşı süre varsa sulh ceza / idare yolunu değerlendirin."],
+    "docs": ["el koyma tutanağı", "eğitim belgesi", "sağlık raporu", "başvuru"],
+    "notes": [{ "heading": "Sebep ayrı", "paragraphs": ["Ceza puanı, alkollü araç ve mahkeme kararı ayrı iade usulüne tabidir. Süre bitmeden başvuru çoğu kez reddedilir. Sahte belge yeni suç olur."] }]
+  },
+  "pasaport-basvurusu": {
+    "steps": ["e-Devlet’ten randevu alın; harcı yatırın.", "Biyometrik fotoğraf ve kimliği hazırlayın.", "18 yaş altı için veli rızasını ekleyin.", "Nüfus / PTT teslim noktasından teslim alın.", "Eski pasaporttaki vizeleri kontrol edin."],
+    "docs": ["kimlik", "fotoğraf", "harç dekontu", "rıza (küçükse)"],
+    "notes": [{ "heading": "Engel", "paragraphs": ["Yurt dışı çıkış yasağı, askerlik ve bazı kamu borçları pasaportu durdurabilir. Umuma mahsus ve hususi pasaport ayrıdır. Randevusuz işlem çoğu ilde yoktur."] }]
+  },
+  "yabanci-ikamet-izni": {
+    "steps": ["İzin türünü (kısa dönem, aile, öğrenci, insani) seçin.", "e-ikamet üzerinden başvurun; harcı yatırın.", "Pasaport, sigorta, adres ve yeterli geçim belgesini yükleyin.", "Randevuda parmak izi / teslimi tamamlayın.", "Redde idari itiraz ve iptal davası süresini yazın."],
+    "docs": ["pasaport", "sağlık sigortası", "adres", "geçim belgesi"],
+    "notes": [{ "heading": "Süre aşımı", "paragraphs": ["İzin bitmeden uzatma başvurusu yapılmalıdır. Vize ihlali idari para cezası ve sınır dışı riski doğurur. Çalışma izni ikametin yerine geçmez; ikisi ayrıdır."] }]
+  },
+  "calisma-izni-nedir": {
+    "steps": ["İşverenin e-izin sisteminden başvuru yapmasını sağlayın.", "Diploma denkliği ve meslek şartını kontrol edin.", "Harç ve sözleşme evrakını tamamlayın.", "İzin kartını bekleyin; izinsiz çalışmayın.", "Ret veya iptalde idari yargı süresini hesaplayın."],
+    "docs": ["iş sözleşmesi", "diploma", "pasaport", "izin belgesi"],
+    "notes": [{ "heading": "İşveren başvurur", "paragraphs": ["Çalışma iznini kural olarak işveren ister. İzinsiz çalışma hem işçiye hem işverene yaptırım doğurur. Muafiyet meslekleri ayrı listededir."] }]
+  },
+  "sinir-disi-karari": {
+    "steps": ["Kararı ve tebliğ tarihini alın.", "İtiraz süresini (çok kısa) yazın.", "İdare mahkemesinde iptal ve yürütmenin durdurulmasını isteyin.", "İdari gözetim varsa sulh ceza hâkimliğine başvurun.", "Avukat ve tercüman hakkını kullanın."],
+    "docs": ["sınır dışı kararı", "tebliğ", "kimlik / pasaport", "dilekçe"],
+    "notes": [{ "heading": "Acil", "paragraphs": ["Süreler günler mertebesindedir. Refakat hâli, hastalık ve uluslararası koruma başvurusu sınır dışını durdurabilir. Sessiz kalmak işlemi kesinleştirir."] }]
+  },
+  "kvkk-basvuru-hakki": {
+    "steps": ["Veri sorumlusunu (şirket / kurum) tespit edin.", "KVKK m.11 haklarınızı (öğrenme, silme, düzeltme, itiraz) yazın.", "Veri sorumlusuna yazılı / KEP ile başvurun.", "30 gün içinde cevap gelmezse Kurula şikâyet edin.", "Zarar varsa tazminat davasını ayrıca değerlendirin."],
+    "docs": ["başvuru yazısı", "kimlik", "yazışma", "Kurul şikâyeti"],
+    "notes": [{ "heading": "Önce sorumluya", "paragraphs": ["Kurula gitmeden önce veri sorumlusuna başvuru kuraldır. Cevap 30 gündür. Açık rıza ve aydınlatma eksikliği ayrı ihlaldir."] }]
+  },
+  "bilgi-edinme-basvurusu": {
+    "steps": ["Hangi belgenin isteneceğini somut yazın.", "4982 sayılı Kanun kapsamında kuruma başvurun (CİMER veya evrak).", "15 iş günlük süreyi izleyin.", "Redde üst mercie itiraz edin.", "Sonra idare mahkemesinde bilgi edinme davası açın."],
+    "docs": ["başvuru", "red yazısı", "itiraz", "kimlik"],
+    "notes": [{ "heading": "İstisna", "paragraphs": ["Devlet sırrı, yargı ve özel hayat istisnaları vardır. Gerekçesiz red hukuka aykırıdır. CİMER bilgi edinmenin yerini her zaman tutmaz; 4982 başvurusu ayrıdır."] }]
+  },
+  "cimer-sikayet": {
+    "steps": ["e-Devlet CİMER’den konuyu seçin.", "Somut olay, tarih ve talep yazın; küfür / genel sitem yazmayın.", "Başvuru numarasını saklayın.", "Cevabı okuyun; ilgili kuruma yönlendirilmiş olabilir.", "İdari işlem doğduysa ayrıca dava süresini hesaplayın."],
+    "docs": ["başvuru numarası", "ek belgeler", "cevap yazısı"],
+    "notes": [{ "heading": "Ne değildir", "paragraphs": ["CİMER mahkeme değildir. Süreleri durdurmaz. Suç ihbarı savcılığa da düşmelidir. Tekrarlayan mesnetsiz başvuru işleme alınmayabilir."] }]
+  },
+  "belediye-cezasi-itiraz": {
+    "steps": ["Ceza tebliğini ve dayanak zabıtayı alın.", "Tebliğden itibaren idari itiraz / dava süresini yazın.", "Usul ve maddi hatayı (plaka, adres, tutanak) belgelendirin.", "Encümen veya idare mahkemesi yolunu seçin.", "Ödeme indirimini kaçırmamak için takvimi ayrı tutun."],
+    "docs": ["tebliğ", "zabıta tutanağı", "fotoğraf", "dilekçe"],
+    "notes": [{ "heading": "Süre", "paragraphs": ["Belediye idari para cezalarında süre tebliğle başlar. Zabıtaya itiraz edilmezse tutanak aleyhe delil olur. İndirimli ödeme itiraz hakkını etkileyebilir."] }]
+  },
+  "imar-durumu-nedir": {
+    "steps": ["Ada/parsel numarasını tapudan alın.", "Belediyeden imar durumu / çap belgesi isteyin.", "Fonksiyon, emsal, yükseklik ve çekme mesafesini okuyun.", "Plan değişikliği askıdaysa itiraz süresini yazın.", "Alım-satım ve proje öncesi belgenin güncelliğini teyit edin."],
+    "docs": ["tapu", "imar durumu", "plan paftası"],
+    "notes": [{ "heading": "Ne gösterir", "paragraphs": ["İmar durumu, parselde ne yapılabileceğini gösterir; ruhsat değildir. Eski belgeyle proje çizmek risklidir. Sit ve kıyı şeridi ayrıca bakılır."] }]
+  },
+  "yapı-ruhsati-nedir": {
+    "steps": ["İmar durumu ve proje müelliflerini hazırlayın.", "Yapı denetim kuruluşu ile sözleşme yapın.", "Belediyeye ruhsat dosyasını verin.", "Harçları yatırın; ruhsatı alın.", "Ruhsat süresinde inşaata başlayın; tadilat ruhsatını unutmayın."],
+    "docs": ["proje", "imar durumu", "yapı denetim sözleşmesi", "ruhsat"],
+    "notes": [{ "heading": "Ruhsatsız inşaat", "paragraphs": ["Ruhsat olmadan temel atmak kaçak yapıdır. Ruhsat belirli sürede başlamazsa düşer. İskan, ruhsatın devamıdır; ikisi aynı belge değildir."] }]
+  },
+  "dask-nedir": {
+    "steps": ["Zorunlu deprem sigortasının tapu / abonelik için şart olduğunu bilin.", "Poliçeyi e-Devlet veya acenteden yaptırın.", "Metrekare ve yapı tarzını doğru beyan edin.", "Hasarda DASK’a ihbar edin; eksper bekleyin.", "Teminat üstü hasarı kasko / konut poliçesinden sorun."],
+    "docs": ["DASK poliçesi", "tapu", "hasar ihbarı"],
+    "notes": [{ "heading": "Zorunlu", "paragraphs": ["DASK deprem ve depreme bağlı yangın / tsunami içindir; hırsızlık ve su baskını kural olarak kapsamaz. Abonelik ve tapu işlemlerinde istenir. Teminat tutarı sınırlıdır."] }]
+  },
+  "noter-islemleri": {
+    "steps": ["İşlemin noterlik zorunlu olup olmadığını sorun (satış vaadi, vasiyet, vekâlet).", "Kimlik ve varsa tercüme / apostil hazırlayın.", "Ücreti sorun; tarife dışına çıkmayın.", "Suret ve evrak numarasını alın.", "İptal / azil gerekirse aynı veya başka notere gidin."],
+    "docs": ["kimlik", "işleme esas belgeler", "ücret makbuzu"],
+    "notes": [{ "heading": "Şekil", "paragraphs": ["Noter, bazı işlemleri geçerlilik şartı yapar. Düzenleme ve onaylama farklıdır. Yabancı belgede apostil / yeminli tercüme gerekir."] }]
+  },
+  "vekaletname-azli": {
+    "steps": ["Azil beyanını noterde veya yazılı yapın.", "Eski vekile ve ilgili kurumlara (tapu, banka, mahkeme) bildirin.", "e-Devlet / UYAP vekâlet sorgusunu kontrol edin.", "Yeni vekâletname düzenleyin.", "Azil öncesi yapılan işlemlerin geçerliliğini sorun."],
+    "docs": ["eski vekâlet", "azilname", "tebliğ", "yeni vekâlet"],
+    "notes": [{ "heading": "Bildirim", "paragraphs": ["Azil, öğrenilmeyen üçüncü kişilere karşı hemen etki etmeyebilir. Tapu ve bankaya ayrıca bildirin. Mahkemede azil tutanağa geçmelidir."] }]
+  },
+  "cek-karsiliksiz": {
+    "steps": ["Çeki süresinde bankaya ibraz edin; karşılıksızdır yazısını alın.", "Keşideciye ihbar çekin.", "Kambiyo takibi ve karşılıksız çek suç duyurusu yollarını ayırın.", "Keşidecinin adres ve malvarlığını tespit edin.", "Zamanaşımı ve ibraz sürelerini kaçırmayın."],
+    "docs": ["çek aslı", "ibraz yazısı", "ihtar", "takip evrakı"],
+    "notes": [{ "heading": "İki yol", "paragraphs": ["Karşılıksız çek hem alacak hem (şartları varsa) ceza dosyasıdır. İbraz süresi kaçarsa kambiyo sıfatı zayıflar. Aval / ciranta sorumluluğu ayrıdır."] }]
+  },
+  "sirket-kurulusu": {
+    "steps": ["LTD veya A.Ş. seçin; sermaye ve ortak yapısını yazın.", "MERSİS’ten başvuru ve ana sözleşme hazırlayın.", "Noter / ticaret sicili ve vergi dairesi adımlarını tamamlayın.", "Defter tasdiki ve imza sirkülerini alın.", "SGK ve belediye işyeri bildirimlerini yapın."],
+    "docs": ["ana sözleşme", "kimlik", "sermaye dekontu", "sicil gazetesi"],
+    "notes": [{ "heading": "LTD / A.Ş.", "paragraphs": ["LTD’de ortak sayısı ve devir kuralları daha sıkıdır; A.Ş. pay ve yönetim kurulu rejimidir. Şahıs şirketi ile karıştırmayın. Kuruluş sonrası defter tasdiki unutulursa ceza doğar."] }]
+  },
+  "ticari-isletme-nedir": {
+    "steps": ["Faaliyetin ticari işletme niteliğini (esnaf sınırı üstü) kontrol edin.", "Ticaret sicili ve oda kaydı gerekip gerekmediğine bakın.", "Ticari iş karinesinin faiz ve ispat etkisini bilin.", "Unvan ve işletme adı tescilini yapın.", "Devri noter + sicil ile yapın."],
+    "docs": ["oda kaydı", "sicil", "defter", "devir sözleşmesi"],
+    "notes": [{ "heading": "Esnaf ayrımı", "paragraphs": ["Esnaf işletmesi TTK’nın bir kısmının dışındadır. Ticari işletme devri borçları da etkileyebilir. Kartvizitte ‘ticaret’ yazmak tek başına yeterli değildir."] }]
+  },
+  "iflas-nedir": {
+    "steps": ["Borçlunun iflasa tabi olup olmadığını (tacir) kontrol edin.", "İflas takibi veya doğrudan iflas sebeplerini yazın.", "Asliye ticaret mahkemesine başvurun.", "İflasın açılmasıyla haciz ve davaların durumunu izleyin.", "Masa alacağı için kaydınızı yaptırın."],
+    "docs": ["alacak belgesi", "dilekçe", "sicil kaydı", "alacak kaydı"],
+    "notes": [{ "heading": "Tacir", "paragraphs": ["İflas kural olarak tacirlere özgüdür. İflas masası, tek alacaklının haczi değildir. Konkordato ayrı bir kurtarma yoludur."] }]
+  },
+  "icra-inkar-tazminati": {
+    "steps": ["Takibin ilamsız ve itirazlı olup olmadığını bakın.", "İtirazın haksız çıktığı kararı bekleyin.", "Kanuni oranda inkâr tazminatı talep edilip edilmediğini kontrol edin.", "Kötü niyet / haksız itiraz şartını değerlendirin.", "Kararı icraya koyun."],
+    "docs": ["takip dosyası", "itiraz", "mahkeme kararı"],
+    "notes": [{ "heading": "Otomatik değil", "paragraphs": ["İnkâr tazminatı her kaybeden itirazcıya değil, haksız ve kötü niyetli itirazda gündeme gelir. Oran kanunda yazılıdır. Talep edilmezse hükmedilmeyebilir."] }]
+  },
+  "nafaka-odenmezse": {
+    "steps": ["Kesinleşmiş nafaka kararını ve birikmiş tutarı hesaplayın.", "İcra dairesinde nafaka takibi başlatın.", "Maaş / haciz ve öncelik kuralını kullanın.", "Kasten ödememede tazyik hapsi şikâyetini değerlendirin.", "Artırım davasını ödememe ile karıştırmayın."],
+    "docs": ["nafaka kararı", "hesap dökümü", "icra evrakı", "şikâyet"],
+    "notes": [{ "heading": "Öncelik", "paragraphs": ["Nafaka alacağı birçok alacaktan önce gelir. Tazyik hapsi borç hapishanesi değildir; ödeyince kalkar. İcra ile tazyik birlikte yürütülebilir."] }]
+  },
+  "ortakligin-giderilmesi-masraf": {
+    "steps": ["Keşif, bilirkişi ve satış masraflarının kimden avans alındığını sorun.", "Masrafı pay oranında paylaşım kararına işletin.", "İhale bedelinden mahsup edilmesini isteyin.", "Avansı yatıran paydaşın rücu alacağını yazın.", "Satış sonrası kesin hesabı kontrol edin."],
+    "docs": ["mahkeme kararı", "masraf makbuzları", "ihale tutanağı"],
+    "notes": [{ "heading": "Kim öder", "paragraphs": ["Yargılama gideri kural olarak paylara göre bölüşülür; davayı kaybeden tek kişi gibi düşünülmez. Avansı yatırmayanın payından kesilir."] }]
+  },
+  "e-devlet-icra": {
+    "steps": ["e-Devlet’te icra dosyası / borç sorgusunu açın.", "Her dosyanın daire ve esas numarasını yazın.", "Bakiye, vekâlet ücreti ve faiz kalemini ayırın.", "Ödemeyi doğru dosya numarasıyla yapın.", "Gözükmeyen dosya için UYAP Vatandaş ve daire teyidi alın."],
+    "docs": ["sorgu çıktısı", "dosya numarası", "dekont"],
+    "notes": [{ "heading": "Eksik liste", "paragraphs": ["e-Devlet her dosyayı göstermeyebilir. Eski sistem ve bazı ilamsız takipler gecikmeli düşer. Ödemeyi ‘genel icra’ diye değil dosya numarasıyla yapın."] }]
+  },
+  "elektronik-tebligat": {
+    "steps": ["e-Tebligat adresinizin açık olup olmadığını kontrol edin.", "Gelen kutuyu düzenli bakın; açmama süreyi durdurmaz.", "Tebliğ tarihini sistem kaydından yazın.", "Usulsüzlük iddiasını somut kayda dayandırın.", "Süreleri bu tarihten hesaplayın."],
+    "docs": ["e-tebligat kaydı", "ekran çıktısı", "dilekçe"],
+    "notes": [{ "heading": "Açmama", "paragraphs": ["Kanuni süre sonunda tebliğ edilmiş sayılma kuralı vardır. ‘Mailime bakmadım’ çoğu halde geçerli değildir. Adres güncellemesi sizin yükümlülüğünüzdür."] }]
+  },
+  "dava-harci-nedir": {
+    "steps": ["Davanın konusunu (alacak, tespit, boşanma) belirleyin.", "Maktu mu nispi mi harç olduğunu bulun.", "Peşin harç ve başvuru harcını yatırın.", "Eksik harç ihtarını süresinde tamamlayın.", "Adli yardım şartınız varsa belgelendirin."],
+    "docs": ["harç makbuzu", "dilekçe", "adli yardım evrakı"],
+    "notes": [{ "heading": "Eksik harç", "paragraphs": ["Nispi harçta peşin kısmı yatırılmazsa dava işleme konmayabilir. Kazanınca harç karşı tarafa yüklenebilir. Islah ile değer artınca ek harç gerekir."] }]
+  },
+  "arabuluculuk-ucreti": {
+    "steps": ["Tarifenin zorunlu mu ihtiyari mi arabuluculuğa ait olduğunu sorun.", "İlk iki saatin karşılanma kuralını okuyun.", "Anlaşmada ücretin nasıl paylaşıldığını belgeye yazın.", "Anlaşmazlıkta kalan ücreti kimin ödeyeceğini sorun.", "Makbuzu saklayın; yargılama giderine ekletilebilir."],
+    "docs": ["tarife", "son tutanak", "makbuz"],
+    "notes": [{ "heading": "İlk saatler", "paragraphs": ["Zorunlu arabuluculukta belirli süre Adalet Bakanlığı tarifesinden karşılanır; sonrası taraflara kalır. Anlaşma belgesinde ücret yazılmazsa uyuşmazlık çıkar."] }]
+  },
+  "is-kazasi-maluliyet": {
+    "steps": ["SGK sağlık kuruluna sevk ve rapor sürecini izleyin.", "Sürekli iş göremezlik oranını yazın.", "Gelir bağlama ve işverene rücu hesabını ayırın.", "Orana itiraz edin (yüksek sağlık kurulu).", "Tazminat davasında oranı delil olarak kullanın."],
+    "docs": ["SGK raporu", "epikriz", "gelir bağlama yazısı"],
+    "notes": [{ "heading": "Oran", "paragraphs": ["Maluliyet oranı hem SGK gelirini hem tazminatı etkiler. Hastane raporu SGK kurulunun yerini tutmaz. Kontrol muayenesi oranı düşürebilir."] }]
+  },
+  "kidem-tavan": {
+    "steps": ["Fesih tarihindeki yasal tavanı (Resmî Gazete / Hazine) bulun.", "Giydirilmiş brüt ücreti hesaplayın.", "Tavanı aşan kısmın ödenmeyeceğini bilin.", "Yıl yıl tavan değişimini kıdem yılına uygulamayın; fesih tavanı esastır.", "İbranamede tavan üstü ‘feragat’ olup olmadığını okuyun."],
+    "docs": ["fesih tarihi belgesi", "tavan tebliği", "bordro"],
+    "notes": [{ "heading": "Tavan keser", "paragraphs": ["Kıdem, her yıl için en çok o dönem tavanı kadardır. Yüksek ücretli çalışanda fiilî ücret tavanla sınırlanır. İhbar tavanı ayrı rejimde olmayabilir."] }]
+  },
+  "askeri-hizmet-borclanma": {
+    "steps": ["e-Devlet / SGK’dan borçlanma hizmetini açın.", "Askerlik süresini belgelendirin.", "Prim tutarını hesaplatın; peşin veya taksit seçin.", "Ödemeyi yapın; hizmete işlendiğini dökümden görün.", "Emeklilik tahsisinden önce kontrol edin."],
+    "docs": ["askerlik belgesi", "borçlanma tahakkuku", "ödeme"],
+    "notes": [{ "heading": "İsteğe bağlı", "paragraphs": ["Askerlik borçlanması prim gününü artırır ama herkese emeklilik garantisi vermez. Bedelli / kısa dönem süreleri ayrıdır. Ödenmeden gün yazılmaz."] }]
+  },
+  "dogum-borclanmasi": {
+    "steps": ["Doğum tarihlerini ve sigortalılık statüsünü kontrol edin.", "Kanundaki çocuk sayısı ve süre tavanını okuyun.", "SGK’ya borçlanma talep edin.", "Tahakkuku ödeyin.", "Hizmet dökümünde günlerin düştüğünü doğrulayın."],
+    "docs": ["nüfus kayıt", "doğum belgeleri", "tahakkuk", "ödeme"],
+    "notes": [{ "heading": "Kim kullanır", "paragraphs": ["Doğum borçlanması kural olarak kadın sigortalıya özgüdür; şartlar kanunda sınırlıdır. Doğumun sigortalılıktan sonra olması gerekir. Ödenmeyen talep gün yazmaz."] }]
+  },
+  "e-devlet-vergi-borcu": {
+    "steps": ["GİB / e-Devlet borç sorgusunu açın.", "Vergi dairesi, tür ve vade ayırın.", "E-haciz ve ihtiyati haciz uyarısını okuyun.", "Ödeme veya yapılandırmayı doğru kodla yapın.", "Kapanış fişini indirin."],
+    "docs": ["borç dökümü", "dekont", "yapılandırma (varsa)"],
+    "notes": [{ "heading": "E-haciz", "paragraphs": ["Görünmeyen borç e-hacizle çıkabilir. Yanlış vade kodu ödemeyi başka borca mahsup eder. Belediye emlak vergisi GİB dökümünde olmayabilir."] }]
+  },
+  "mtk-aidat-icra": {
+    "steps": ["Aidat borcunu yönetim planı ve karar ile belgelendirin.", "Kat malikine yazılı ihtar gönderin.", "İlamsız icra veya sulh hukuk yolunu seçin.", "Bağımsız bölüm üzerine haciz / şerh değerlendirin.", "Yeni malike geçişte borcun intikalini kontrol edin."],
+    "docs": ["aidat dökümü", "genel kurul kararı", "ihtar", "takip"],
+    "notes": [{ "heading": "İntikal", "paragraphs": ["Aidat, bağımsız bölüme bağlıdır; satışta birikmiş borç tartışması tapu ve yönetim planına göre değişir. Kiracıya icra, maliki düşürmez."] }]
+  },
+  "kira-tespit-davasi": {
+    "steps": ["5 yıllık süre ve rayiç kira şartını kontrol edin.", "Arabuluculuk dava şartını tamamlayın.", "Sulh hukukta tespit davası açın.", "Emsal ve bilirkişi raporuna itiraz edin.", "Hükmün hangi dönemden uygulanacağını yazın."],
+    "docs": ["sözleşme", "emsal kiralar", "arabuluculuk tutanağı", "dilekçe"],
+    "notes": [{ "heading": "5 yıl", "paragraphs": ["Tespit, yıllık yasal artıştan farklıdır; uzun süreli konut kiralarında rayice çekmek içindir. Erken açılan dava reddedilir. Karar gelecek dönemleri bağlar."] }]
+  },
+  "tahliye-taahhutnamesi": {
+    "steps": ["Taahhüdün kira sözleşmesinden sonra ve belirli bir tarih içerdiğini kontrol edin.", "Kiracının bizzat imzalayıp imzalamadığına bakın.", "Süre dolunca icra veya dava yolunu seçin.", "Geçersizlikte (önceden imzalatılmış boş evrak) iddiayı hazırlayın.", "Yeni dönem zımnî uzamayı kaçırmayın."],
+    "docs": ["taahhütname", "sözleşme", "tebliğ", "takip"],
+    "notes": [{ "heading": "Geçerlilik", "paragraphs": ["Sözleşmeyle aynı anda imzalatılan boş tarihli taahhüt çoğu kez geçersiz sayılır. Tarih ve imza sonradan atılmalıdır. Geçerli taahhüt en hızlı tahliye sebeplerindendir."] }]
+  },
+  "e-devlet-nufus": {
+    "steps": ["e-Devlet nüfus hizmetlerinden ihtiyacınızı seçin.", "Kayıt örneği, adres, askerlik, evlilik başvurusunu ayırın.", "Barkodlu çıktıyı alın.", "Kurum onaylı suret isterse müdürlüğe gidin.", "Yanlış kayıt için düzeltme davası / idari düzeltme yolunu sorun."],
+    "docs": ["e-Devlet çıktısı", "kimlik"],
+    "notes": [{ "heading": "Ne yeter", "paragraphs": ["Çoğu işlem barkodlu e-Devlet çıktısıyla yürür. Mahkeme ve yurt dışı işlemler onaylı suret isteyebilir. Adres beyanı ayrı hizmettir."] }]
+  },
+  "adres-degisikligi": {
+    "steps": ["Yeni adresi e-Devlet veya nüfus müdürlüğünden beyan edin.", "Süreye uyun (taşınmadan sonra kanuni süre).", "Tapu / kira belgesini ekleyin.", "Seçmen ve tebligat adresinin güncellendiğini kontrol edin.", "Yanlış beyan idari yaptırım doğurur."],
+    "docs": ["kira / tapu", "kimlik", "beyan çıktısı"],
+    "notes": [{ "heading": "Tebligat", "paragraphs": ["Kayıtlı adres tebligat adresidir. Güncellemezseniz eski adrese çıkan tebligat geçerli sayılabilir. Yurt içi taşınmada beyan zorunludur."] }]
+  },
+  "anlasmali-bosanma-sartlari": {
+    "steps": ["En az 1 yıllık evlilik şartını kontrol edin.", "Mali, velayet ve nafaka konularını protokole yazın.", "Birlikte veya kabul beyanıyla aile mahkemesine başvurun.", "Duruşmada iradeyi bizzat açıklayın.", "Kesinleşen kararı nüfusa işletin."],
+    "docs": ["protokol", "nüfus kayıt", "dilekçe"],
+    "notes": [{ "heading": "1 yıl ve irade", "paragraphs": ["1 yıl dolmadan anlaşmalı yol kapanır. Hâkim çocuğun yararını aykırı görürse protokolü onaylamaz. Taraflardan biri duruşmada vazgeçerse çekişmeliye döner."] }]
+  }
+}

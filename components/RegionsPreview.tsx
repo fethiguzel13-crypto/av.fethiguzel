@@ -30,7 +30,7 @@ export default function RegionsPreview() {
                 </div>
                 <div className="grid grid-cols-1 sm:grid-cols-3 gap-3">
                     {[
-                        { href: '/bilgi', ad: 'Vatandaş rehberi', desc: '554 hukuki konu' },
+                        { href: '/bilgi', ad: 'Vatandaş rehberi', desc: 'Kıdem, icra, kira, boşanma' },
                         { href: '/ders-notlari', ad: 'Ders notları', desc: '120 fakülte · ücretsiz' },
                         { href: '/mevzuat', ad: 'Mevzuat arşivi', desc: '7.800+ madde + şerh' },
                     ].map((b) => (

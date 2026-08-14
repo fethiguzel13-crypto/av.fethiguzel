@@ -1,0 +1,207 @@
+{
+  "bosanma-sonrasi-soyadi": {
+    "steps": ["Boşanma kararının kesinleşmesini bekleyin.", "Eski soyadına dönmek istiyorsanız kararda veya sonra talep edin.", "Nüfus müdürlüğüne kararı verin.", "Kimlik, ehliyet ve bankayı güncelleyin.", "Çocuğun soyadı ayrı karara bağlıdır; karıştırmayın."],
+    "docs": ["boşanma kararı", "nüfus kayıt", "kimlik"],
+    "notes": [{ "heading": "Soyadı", "paragraphs": ["Kadın boşanınca kural olarak evlilik öncesi soyadına döner. Kocasının soyadını sürdürmek ayrı talep ve bazen izin ister. Çocuk soyadı velayetle otomatik değişmez."] }]
+  },
+  "siddette-tanik-koruma": {
+    "steps": ["Tanık veya mağdur olduğunuzu ayırın.", "6284 ve CMK koruma tedbirlerini isteyin.", "Adres gizliği ve uzaklaştırma talep edin.", "Savcılık / aile mahkemesine bildirin.", "İhlali hemen kolluğa yazın."],
+    "docs": ["şikâyet", "6284 kararı", "kimlik"],
+    "notes": [{ "heading": "Koruma", "paragraphs": ["Şiddet tanığı da korunabilir. Adres gizliği nüfus kaydına işlenir. Tedbir ihlali ayrıca suçtur."] }]
+  },
+  "evlilik-iptali-davasi": {
+    "steps": ["İptal sebebini (yaş, ehliyet, hata, hile, korkutma) yazın.", "Hak düşürücü süreyi hesaplayın.", "Aile mahkemesinde evliliğin iptalini isteyin.", "İyi niyetli eş ve çocukların durumunu sorun.", "Kesinleşen kararı nüfusa işletin."],
+    "docs": ["evlilik kaydı", "delil", "dilekçe"],
+    "notes": [{ "heading": "Boşanma değil", "paragraphs": ["İptal, evliliği baştan sakat saydırır. Boşanmadan farklı sebepleri ve süreleri vardır. Çocukların soybağı kural olarak korunur."] }]
+  },
+  "islex-nafaka-nedir": {
+    "steps": ["İştirak nafakası mı kastedildiğini doğrulayın.", "Çocuk giderini belgelendirin.", "Velayet sahibine ödeme kararını alın.", "İcraya koyun.", "Artırım / indirim için ayrı dava açın."],
+    "docs": ["karar", "gider belgesi", "nüfus"],
+    "notes": [{ "heading": "Terim", "paragraphs": ["Halk arasında ‘işlek nafaka’ çoğu kez iştirak nafakasıdır. Çocuk içindir. Yoksulluk nafakası ile karıştırmayın."] }]
+  },
+  "bosanma-maaliyeti": {
+    "steps": ["Anlaşmalı ve çekişmeli harcı ayırın.", "Vekâlet ücreti, bilirkişi ve tebligat avansını ekleyin.", "Adli yardım şartınız varsa belgelendirin.", "Karşı taraf vekâlet ücretini kaybedince ödeyebileceğinizi bilin.", "Protokolde masraf paylaşımını yazın."],
+    "docs": ["harç tarifesi", "vekalet", "adli yardım evrakı"],
+    "notes": [{ "heading": "Sabit değil", "paragraphs": ["Anlaşmalı daha ucuz ve kısadır. Çekişmeli, keşif ve bilirkişiyle şişer. ‘Paketi şu kadar’ vaadi yanıltıcıdır."] }]
+  },
+  "aile-mahkamesi-nedir": {
+    "steps": ["Uyuşmazlığın aile mahkemesine girip girmediğini kontrol edin.", "Boşanma, nafaka, velayet, 6284 için oraya gidin.", "Yetkili yer (yerleşim) kuralını yazın.", "Dilekçe ve harcı verin.", "Aile mahkemesi yoksa asliye hukukun bakacağını bilin."],
+    "docs": ["dilekçe", "nüfus kayıt", "harç"],
+    "notes": [{ "heading": "Görev", "paragraphs": ["Aile mahkemesi özel görevlidir. Yanlış mahkeme süre kaybettirir. 6284 talebi nöbetçi mahkemede de görülebilir."] }]
+  },
+  "isten-cikarilma-tazminatlari": {
+    "steps": ["Fesih türünü yazın.", "Kıdem, ihbar, izin, işe iade ve kötü niyet kalemlerini ayırın.", "Haklı fesihte hangilerinin düştüğünü işaretleyin.", "Arabuluculukta her kalemi ayrı talep edin.", "İbranamede feragat edilen kalemi okuyun."],
+    "docs": ["fesih", "bordro", "ibraname"],
+    "notes": [{ "heading": "Harita", "paragraphs": ["Her çıkarmada bütün tazminatlar doğmaz. İşe iade ile kıdem aynı anda farklı sonuçlar verir. Kalem kalem bakın."] }]
+  },
+  "asgari-ucret-net-brut": {
+    "steps": ["Dönemin resmi asgari ücretini bulun.", "Brüt-net kesintilerini (SGK, vergi, damga) ayırın.", "Bordrodaki netin altında ödeme varsa farkı yazın.", "AGİ’nin kalktığını / güncel kesintiyi kontrol edin.", "Eksik ödeme için arabuluculuğa gidin."],
+    "docs": ["bordro", "dekont", "resmî tarife"],
+    "notes": [{ "heading": "Taban", "paragraphs": ["Asgari ücretin altında ücret kararlaştırılamaz. Net-brüt karışıklığı işçi aleyhine yorulamamalıdır. Dönemsel artış geriye yürümez."] }]
+  },
+  "ucretsiz-izin": {
+    "steps": ["Ücretsiz iznin yazılı rızaya dayanıp dayanmadığına bakın.", "İşverenin tek taraflı ücretsiz izni fesih sayılıp sayılmayacağını değerlendirin.", "SGK prim gününün nasıl etkilendiğini sorun.", "Süreyi ve dönüş tarihini yazın.", "Rıza yoksa haklı fesih / işe iade yollarını düşünün."],
+    "docs": ["izin yazısı", "rıza", "bordro"],
+    "notes": [{ "heading": "Rıza", "paragraphs": ["Ücretsiz izin kural olarak işçinin yazılı onayını ister. Zorla ücretsiz izin çoğu halde fesih etkisindedir. Kısa süreli salgın istisnaları dönemseldi."] }]
+  },
+  "kotu-niyet-tazminati": {
+    "steps": ["İş güvencesi kapsamı dışında mısınız bakın (30 işçi / 6 ay).", "Feshin kötü niyetle yapıldığını (sendika, şikâyet, hamilelik vb.) yazın.", "16 haftalık ücret talep edin.", "Arabuluculuk + iş mahkemesi yolunu izleyin.", "İşe iade ile birlikte istenemeyeceğini bilin."],
+    "docs": ["fesih", "kötü niyet delili", "işçi sayısı"],
+    "notes": [{ "heading": "Kapsam dışı", "paragraphs": ["Kötü niyet tazminatı, işe iade güvencesi olmayan işçiyedir. Güvence varsa işe iade yoluna gidilir. İspat işçiye aittir."] }]
+  },
+  "sendika-ozgurlugu": {
+    "steps": ["Üyelik veya üye olmama tercihini belgelendirin.", "İşverenin baskı veya fesih sebebini yazın.", "Sendikal tazminat ve işe iade talebini hazırlayın.", "Çalışma ve Sosyal Güvenlik / mahkeme yolunu seçin.", "Toplu iş sözleşmesi kapsamını ayrı okuyun."],
+    "docs": ["üyelik belgesi", "fesih", "yazışma"],
+    "notes": [{ "heading": "Güvence", "paragraphs": ["Sendikaya üye olmak veya olmamak işten çıkarma sebebi yapılamaz. Sendikal fesihte ek tazminat vardır. İspat çoğu kez karineyle kolaylaşır."] }]
+  },
+  "toplu-is-sozlesmesi": {
+    "steps": ["Yetkili sendika ve işyeri kapsamını sorun.", "TİS’in sizin iş sözleşmenizi nasıl iyileştirdiğini yazın.", "Uyuşmazlıkta grev / lokavt ve arabuluculuk rejimini okuyun.", "TİS’ten doğan alacağı ayrıca talep edin.", "Süresi biten TİS’in art etkisini kontrol edin."],
+    "docs": ["TİS metni", "üyelik", "bordro"],
+    "notes": [{ "heading": "İş sözleşmesi üstü", "paragraphs": ["TİS, bireysel sözleşmenin aleyhe hükümlerini çoğu halde ezer. Yetkisiz sendikanın imzaladığı metin bağlamaz."] }]
+  },
+  "is-guvenligi-uzmani": {
+    "steps": ["İşyerinin tehlike sınıfını bulun.", "İSG uzmanı ve hekim yükümlülüğünü kontrol edin.", "Risk değerlendirmesi ve eğitim kaydını isteyin.", "Eksikte idari şikâyet ve kaza hâlinde tazminat yazın.", "Uzmanın işverene bağlılığının sorumluluğu kaldırmadığını bilin."],
+    "docs": ["risk değerlendirmesi", "eğitim tutanağı", "sözleşme"],
+    "notes": [{ "heading": "İşveren yükümlülüğü", "paragraphs": ["İSG uzmanı bulundurmak işverenin kendi yükümlülüğünü silmez. Eğitim ve risk belgesi yoksa kaza ispatı kolaylaşır."] }]
+  },
+  "esdeger-is-esit-ucret": {
+    "steps": ["Aynı veya eşdeğer işi yapanlarla ücret farkını belgelendirin.", "Cinsiyet veya başka ayrımcılık sebebini yazın.", "İşverenden yazılı açıklama isteyin.", "Eşit davranma borcuna aykırılık tazminatı talep edin.", "Arabuluculuk + dava yolunu izleyin."],
+    "docs": ["bordrolar", "görev tanımları", "yazışma"],
+    "notes": [{ "heading": "Eşitlik", "paragraphs": ["Eşit işe eşit ücret, kıdem ve performans farkını yok saymaz. Ayrımcılık iddiası somut karşılaştırma ister."] }]
+  },
+  "part-time-is-sozlesmesi": {
+    "steps": ["Haftalık sürenin tam sürenin altında olduğunu yazın.", "Kıdem, izin ve ücretin orantılı hesaplandığını kontrol edin.", "Fazla sürenin fazla mesai olup olmadığına bakın.", "Sözleşmeyi yazılı yapın.", "Belirsiz süreliye dönüş riskini izleyin."],
+    "docs": ["sözleşme", "puantaj", "bordro"],
+    "notes": [{ "heading": "Orantı", "paragraphs": ["Kısmi süreli işçi, tam süreliyle aynı kıdem rejimine orantılı girer. Çağrı üzerine çalışma ayrı türdür."] }]
+  },
+  "uzaklastirma-isyerinden": {
+    "steps": ["Uzaklaştırmanın disiplin / soruşturma amaçlı mı olduğunu sorun.", "Süreyi ve ücretin ödenip ödenmediğini yazın.", "Savunma hakkınızı kullanın.", "Ücretsiz ve süresiz uzaklaştırmayı fesih sayıp saymayacağınızı değerlendirin.", "Yazılı itiraz edin."],
+    "docs": ["uzaklaştırma yazısı", "savunma", "bordro"],
+    "notes": [{ "heading": "Geçici", "paragraphs": ["Soruşturma uzaklaştırması geçici olmalı ve çoğu halde ücretli olmalıdır. Belirsiz uzaklaştırma fiilî fesih gibi yorumlanabilir."] }]
+  },
+  "cagri-uzerine-calisma": {
+    "steps": ["Çağrı üzerine sözleşmenin yazılı olup olmadığını bakın.", "Haftalık asgari süre kuralını kontrol edin.", "Çağrılmadan geçen sürenin ücretini sorun.", "Kıdem ve izin hesabını yazın.", "Fiilen tam süre çalışıyorsanız belirsiz süreli iddiasını değerlendirin."],
+    "docs": ["sözleşme", "çağrı kayıtları", "bordro"],
+    "notes": [{ "heading": "Asgari süre", "paragraphs": ["Çağrı üzerine çalışmada kanuni asgari çalışma süresi vardır. Hiç çağrılmamak ücretsiz kölelik değildir."] }]
+  },
+  "gecerli-fesih-nedir": {
+    "steps": ["İş güvencesi kapsamında mısınız (30 işçi, 6 ay) bakın.", "Geçerli nedenin yeterliliğini (davranış, yeterlilik, işletme) yazın.", "Savunma alındı mı kontrol edin.", "İşe iade süresini kaçırmayın.", "Geçersizlikte başlatmama tazminatını hesaplayın."],
+    "docs": ["fesih yazısı", "savunma", "işçi listesi"],
+    "notes": [{ "heading": "Haklı ≠ geçerli", "paragraphs": ["Geçerli fesih kıdemi yok etmez; işe iadeyi ilgilendirir. Haklı fesih kıdemi düşürür. Karıştırmayın."] }]
+  },
+  "is-aramaya-izin": {
+    "steps": ["İhbar süresi içinde iş arama izninin 2 saat olduğunu bilin.", "Toplu kullanmak istiyorsanız yazılı isteyin.", "Kullandırılmazsa ücrete eklenmesini talep edin.", "İzin gün ve saatini yazın.", "Fesih bildiriminde bu hakkı hatırlatın."],
+    "docs": ["fesih bildirimi", "izin yazısı", "bordro"],
+    "notes": [{ "heading": "2 saat", "paragraphs": ["Bildirimli fesihte işçiye günde 2 saat iş arama izni vardır. Kullandırılmazsa ücreti ödenir."] }]
+  },
+  "calisma-belgesi": {
+    "steps": ["Fesihte çalışma belgesi isteyin.", "İşin niteliği ve süresinin doğru yazıldığını kontrol edin.", "Olumsuz ve gerçeğe aykırı ibareye itiraz edin.", "Verilmezse arabuluculuk / dava ile isteyin.", "Yeni işverene ibraz edin."],
+    "docs": ["talep yazısı", "eski sözleşme", "belge"],
+    "notes": [{ "heading": "Zorunlu", "paragraphs": ["İşveren, işçi ayrılırken çalışma belgesi vermek zorundadır. Gerçeğe aykırı belge tazminat doğurur."] }]
+  },
+  "stajyer-haklari": {
+    "steps": ["Stajın zorunlu okul stajı mı, fiilî çalışma mı olduğunu ayırın.", "Sigorta ve ücret yükümlülüğünü kontrol edin.", "Fiilen işçi gibi çalışıyorsanız işçilik alacağı iddiasını yazın.", "İş kazasında bildirimi isteyin.", "Belge ve puantajı saklayın."],
+    "docs": ["staj evrakı", "okul yazısı", "puantaj"],
+    "notes": [{ "heading": "Maske", "paragraphs": ["‘Stajyer’ yazmak işçilik ilişkisini gizleyemez. Fiilî bağımlı çalışma iş sözleşmesi sayılabilir."] }]
+  },
+  "uzaktan-calisma-yonetmelik": {
+    "steps": ["Uzaktan çalışmanın yazılı sözleşmesini isteyin.", "İş araçları, gider ve mesai sınırını yazın.", "İş kazası ve İSG yükümlülüğünün sürdüğünü bilin.", "Tek taraflı eve göndermeyi fesih sayıp saymayacağınızı değerlendirin.", "Veri güvenliği ve mesai dışı ulaşılabilirliği sınırlayın."],
+    "docs": ["uzaktan çalışma sözleşmesi", "yazışma", "gider fişi"],
+    "notes": [{ "heading": "Yazılı", "paragraphs": ["Uzaktan çalışma yazılı usule bağlıdır. Ev kazası iş kazası olabilir. Mesai sınırı kalkmaz."] }]
+  },
+  "toplu-isten-cikarma": {
+    "steps": ["İşçi sayısı eşiğinin aşıldığını kontrol edin.", "Kurul ve İŞKUR bildirimini sorun.", "Geçerli işletmesel nedeni yazın.", "İşe iade ve kötü niyet iddiasını hazırlayın.", "Kıdem ve ihbarın ayrıca doğduğunu bilin."],
+    "docs": ["bildirim", "fesih listesi", "gerekçe"],
+    "notes": [{ "heading": "Usul", "paragraphs": ["Toplu işten çıkarmada bildirim usulü vardır. Usulsüzlük feshin geçersizliğine yol açabilir. Kıdem yine ödenir."] }]
+  },
+  "agi-nedir": {
+    "steps": ["AGİ’nin 2022 sonrası genel uygulamadan kalktığını bilin.", "Eski dönem bordrosunda AGİ satırını kontrol edin.", "Eksik ödenmiş eski AGİ varsa zamanaşımıyla talep edin.", "Güncel asgari ücret hesabına AGİ eklemeyin.", "Muhasebe ile teyit edin."],
+    "docs": ["eski bordro", "dönem mevzuatı"],
+    "notes": [{ "heading": "Kalktı", "paragraphs": ["Asgari geçim indirimi yürürlükten kalkmıştır. Güncel net ücret hesabına eklenmez. Eski dönem alacağı ayrıdır."] }]
+  },
+  "kidem-tazminati-hesaplama": {
+    "steps": ["Giydirilmiş brüt ücreti bulun.", "Tam yıl ve artan günleri yazın.", "Fesih tarihindeki tavanı uygulayın.", "Damga vergisini düşün.", "Hesaplama aracını senaryo için kullanın; ibrayı ona göre okuyun."],
+    "docs": ["bordro", "fesih tarihi", "tavan"],
+    "notes": [{ "heading": "Giydirilmiş", "paragraphs": ["Kıdem, çıplak ücretten değil giydirilmiş brütten hesaplanır. Prim ve sürekli yardımlar katılır. Tavan keser."] }]
+  },
+  "ihbar-suresi-tablosu": {
+    "steps": ["Kıdeme göre 2/4/6/8 haftalık süreyi bulun.", "Bildirimli feshin bu süreyi kullandırıp kullandırmadığına bakın.", "Kullandırmayan tarafın tazminatını hesaplayın.", "Toplu kullanıma izin verilmiş mi yazın.", "Haklı fesihten ihbar düşer."],
+    "docs": ["sözleşme", "fesih", "kıdem"],
+    "notes": [{ "heading": "Tablo", "paragraphs": ["0–6 ay: 2 hafta; 6 ay–1,5 yıl: 4; 1,5–3 yıl: 6; üzeri: 8 haftadır. Sözleşme lehe uzatabilir, kısaltamaz."] }]
+  },
+  "isse-iade-arabuluculuk": {
+    "steps": ["Fesih tebliğinden 1 ay içinde arabuluculuğa başvurun.", "İşe iade talebini açık yazın.", "Anlaşma olmazsa 2 haftada dava açın.", "Tutanağı saklayın.", "Süre kaçarsa yol kapanır."],
+    "docs": ["fesih tebliği", "başvuru", "tutanak"],
+    "notes": [{ "heading": "1 ay", "paragraphs": ["İşe iadede arabuluculuk hem dava şartı hem süre tuzakıdır. 1 ay kaçınca 2 haftalık dava yolu da fiilen ölür."] }]
+  },
+  "issizlik-maasi-hesaplama": {
+    "steps": ["Son 4 aylık prime esas kazancı alın.", "Günlük asgari-azami sınırları uygulayın.", "Prim gününe göre ödeme süresini (6/8/10 ay) bulun.", "e-Devlet tahmini bağlayıcı değildir; İŞKUR sonucunu bekleyin.", "Kesinti ve işe girişte kesilmeyi izleyin."],
+    "docs": ["hizmet dökümü", "İŞKUR kararı"],
+    "notes": [{ "heading": "Süre", "paragraphs": ["Ödeme süresi prim gününe göre 180/240/300 gündür. Tutar son primlerin ortalamasına bağlıdır, son ücretin tamamı değildir."] }]
+  },
+  "analik-izin-hakki": {
+    "steps": ["16 haftalık analık iznini (çoğulda 18) yazın.", "Rapor ve doğum belgesini işverene verin.", "Süt izni ve kısmi süreli çalışma hakkını sorun.", "Feshin geçersiz / kötü niyet sayılacağını bilin.", "Ücret ve SGK priminin nasıl ödendiğini kontrol edin."],
+    "docs": ["sağlık raporu", "doğum belgesi", "yazışma"],
+    "notes": [{ "heading": "Koruma", "paragraphs": ["Hamilelik ve analık döneminde fesih ciddi sınırlara tabidir. Süt izni ücretsiz değil, çalışma süresinden sayılır."] }]
+  },
+  "fesih-bildirimi-ornegi": {
+    "steps": ["Fesih sebebini açık ve yazılı yazın.", "Tarih ve imza koyun; tebliğ alın.", "Haklı / geçerli / bildirimli ayrımını karıştırmayın.", "İbranameyi aynı kâğıda sıkıştırmayın.", "Bir nüshayı saklayın."],
+    "docs": ["bildirim", "tebliğ", "sözleşme"],
+    "notes": [{ "heading": "Yazılı", "paragraphs": ["İş güvencesinde yazılı ve sebepli fesih şarttır. Sebebi sonradan değiştirmek zordur. Şablon dilekçe somut olayı yazmazsa işe yaramaz."] }]
+  },
+  "hizmet-sozlesmesi-tbk": {
+    "steps": ["İlişkinin İş Kanunu’na mı TBK hizmet sözleşmesine mi girdiğini ayırın.", "İhbar, ücret ve özen borçlarını yazın.", "Fesih rejimini TBK’ya göre uygulayın.", "İşçilik davası açmadan görevli mahkemeyi sorun.", "Zamanaşımını kontrol edin."],
+    "docs": ["sözleşme", "ödeme", "yazışma"],
+    "notes": [{ "heading": "İş K. dışı", "paragraphs": ["Bazı ilişkiler (belirli meslekler, ev hizmeti sınırları) İş Kanunu dışında TBK hizmet sözleşmesine girer. Kıdem ve işe iade her zaman yoktur."] }]
+  },
+  "surekli-is-goremezlik": {
+    "steps": ["SGK sürekli iş göremezlik gelirini takip edin.", "Oranı ve kontrol muayenesini yazın.", "İşverene karşı bakiye tazminatı hesaplayın.", "Rücu davasını izleyin.", "Bağlanan gelirin mahsubunu bilin."],
+    "docs": ["SGK kararı", "rapor", "bordro"],
+    "notes": [{ "heading": "Gelir ≠ tazminat", "paragraphs": ["SGK geliri işverenin tüm borcunu silmez. Kusur ve fark tazminatı ayrıca istenir."] }]
+  },
+  "sgk-rucu-davasi": {
+    "steps": ["SGK’nın işverene rücu ettiğini öğrenin.", "Kusur raporunu isteyin.", "Rücu miktarını ve faizi kontrol edin.", "İşveren sıfatındaysanız savunma ve kusur paylaşımı yazın.", "İşçiyseniz sizin tazminatınızın nasıl etkilendiğini sorun."],
+    "docs": ["rücu ihbarı", "kaza raporu", "ödeme"],
+    "notes": [{ "heading": "Kusur", "paragraphs": ["SGK, kusurlu işverene ödediği geliri rücu eder. İşçinin kendi kusuru rücu ve tazminatı keser."] }]
+  },
+  "is-kazasi-manevvi": {
+    "steps": ["Manevi zararı (elem, korku, kalıcı iz) yazın.", "Maddi kalemlerden ayırın.", "İşveren ve varsa üçüncü kişiye yöneltin.", "Arabuluculuk kapsamını sorun.", "Takdirî miktarın belgelenmesini sağlayın."],
+    "docs": ["tıbbi rapor", "fotoğraf", "dilekçe"],
+    "notes": [{ "heading": "Takdir", "paragraphs": ["Manevi tazminatın tarifesi yoktur; hâkim takdir eder. Ağır kusur ve kalıcı zarar miktarı artırır. Fatura istemez."] }]
+  },
+  "meslek-hastaligi-nedir": {
+    "steps": ["Hastalığın meslek listesinde veya işle illiyetini belgelendirin.", "SGK’ya meslek hastalığı bildirimi yaptırın.", "Sağlık kurulu sürecini izleyin.", "İşverene karşı tazminat ve gelir bağlama yollarını ayırın.", "Zamanaşımını öğrenme tarihinden hesaplayın."],
+    "docs": ["tıbbi dosya", "işyeri ortam ölçümü", "SGK bildirimi"],
+    "notes": [{ "heading": "İlliyet", "paragraphs": ["Meslek hastalığı, işin niteliğinden doğan hastalıktır. Ani kaza değildir. Bildirim ve kurul şarttır."] }]
+  },
+  "is-kazasi-sonrasi-haklar": {
+    "steps": ["Tedavi ve geçici iş göremezlik ödeneğini izleyin.", "Maluliyet ve gelir bağlama talep edin.", "İşverene maddi-manevi tazminat yazın.", "Kıdem ve fesih haklarını ayrı tutun.", "SGK gelirinin mahsubunu hesaplayın."],
+    "docs": ["kaza tutanağı", "rapor", "SGK yazısı"],
+    "notes": [{ "heading": "Paket", "paragraphs": ["Kaza sonrası haklar tek kalem değildir: tedavi, ödenek, gelir, tazminat, kıdem. Birini almak diğerini düşürmez, mahsup eder."] }]
+  },
+  "is-veren-sorumlulugu-kazasi": {
+    "steps": ["İşverenin koruma borcunu (eğitim, ekipman, denetim) yazın.", "Kusur ve kusursuz sorumluluk iddiasını ayırın.", "Alt işveren / asıl işveren ilişkisini netleştirin.", "Tazminat davasını yöneltin.", "SGK rücusunun sizin davanızla ilişkisini sorun."],
+    "docs": ["İSG evrakı", "kaza tutanağı", "sözleşme"],
+    "notes": [{ "heading": "Koruma borcu", "paragraphs": ["İşveren, işçiyi gözetmekle yükümlüdür. Uzman bulundurmak bu borcu silmez. Kusursuz sorumluluk tartışması dosyaya göre değişir."] }]
+  },
+  "is-kazasi-bildirim-suresi": {
+    "steps": ["Kazayı hemen işyerine bildirin.", "İşverenin 3 iş günü SGK bildirimi yükümlülüğünü hatırlatın.", "Bildirmezse kendiniz e-Devlet’ten bildirin.", "Sağlık kaydına iş kazası yazdırın.", "Gecikme cezasının sizin hakkınızı düşürmediğini bilin."],
+    "docs": ["tutanak", "SGK bildirimi", "epikriz"],
+    "notes": [{ "heading": "3 iş günü", "paragraphs": ["İşveren bildirimi 3 iş günüdür. İşçi bildirimi hakkı düşürmez. ‘Hastalık’ yazdırmak ileride ispatı bozar."] }]
+  },
+  "is-arabuluculuk-zorunlu": {
+    "steps": ["Uyuşmazlığın işçilik alacağı veya işe iade olduğunu doğrulayın.", "Dava açmadan arabuluculuğa başvurun.", "Toplantıya katılın; tutanağı alın.", "Anlaşmazlık tutanağı olmadan dava açmayın.", "Süreleri (işe iade) ayrıca yazın."],
+    "docs": ["başvuru", "tutanak"],
+    "notes": [{ "heading": "Dava şartı", "paragraphs": ["İşçilik alacağı ve işe iadede arabuluculuk dava şartıdır. Tutanağı olmayan dava usulden reddedilir."] }]
+  },
+  "issizlik-sigortasi-nedir": {
+    "steps": ["İşsizlik sigortasının prim kesintisi olduğunu bilin.", "Ödenek şartlarını (fesih türü, prim günü) kontrol edin.", "İŞKUR’a süresinde başvurun.", "İş arama yükümlülüğünü yerine getirin.", "Haksız rette itiraz edin."],
+    "docs": ["hizmet dökümü", "fesih", "İŞKUR başvurusu"],
+    "notes": [{ "heading": "Prim", "paragraphs": ["İşsizlik ödeneği bu primden ödenir. İstifa kural olarak ödenek vermez. Başvuru süresi kaçarsa hak düşer."] }]
+  },
+  "kidem-tazminati-sgk-iliskisi": {
+    "steps": ["Kıdemin SGK’dan değil işverenden istendiğini bilin.", "Emeklilik nedeniyle feshin kıdem doğurduğunu yazın.", "SGK hizmet dökümünü kıdem yılı ispatında kullanın.", "Tavan ve giydirilmiş ücreti ayrı hesaplayın.", "SGK’ya ‘kıdem başvurusu’ yapılmayacağını bilin."],
+    "docs": ["hizmet dökümü", "fesih", "bordro"],
+    "notes": [{ "heading": "Ayrı borç", "paragraphs": ["Kıdem tazminatı SGK kalemi değildir. Emeklilik kıdemi işverene karşıdır. Hizmet dökümü sadece süreyi ispatlar."] }]
+  }
+}

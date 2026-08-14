@@ -211,8 +211,8 @@ export function applyProfessionalLayer(t, body, role = 'standard', meta = {}) {
     extraSections.push({
       heading: 'Karşılaştırmalı not: dar soru vs tam süreç',
       paragraphs: [
-        `Dar soru bu sayfada; tam süreç, merciler ve belge iskeleti ana rehberde. İkisini aynı anahtar kelimelerle doldurmak SEO yamyamlığı ve okuyucu kafa karışıklığı yaratır.`,
-        `Pratik kural: Cevabınız tek cümlelik «oran/şart/tanım» ise spoke yeterli olabilir. Cevabınız «hangi mahkeme, hangi süre, hangi dilekçe» ise pillar’a geçin.`,
+        `Dar soru bu sayfada; tam süreç, merciler ve belgeler ana rehberdedir.`,
+        `Pratik kural: Cevabınız tek cümlelik oran, şart veya tanım ise bu sayfa yetebilir. Cevabınız hangi mahkeme, hangi süre, hangi dilekçe ise ana rehbere geçin.`,
       ],
     });
   } else {
@@ -220,7 +220,7 @@ export function applyProfessionalLayer(t, body, role = 'standard', meta = {}) {
       heading: 'Maddeyi nasıl okumalısınız?',
       paragraphs: [
         `Önce madde başlığı ve sistematik yeri, sonra fıkralar, sonra atıf maddeleri. Tanım fıkrasını atlamak yanlış yoruma yol açar.`,
-        `Özet (bu sayfa) arama niyetini karşılar; karar ve atıf için tam metin sayfası esastır. Şerh akademik bilgilendirmedir.`,
+        `Bu sayfa özet verir; karar ve atıf için tam metin sayfası esastır. Şerh akademik bilgilendirmedir.`,
       ],
       bullets: [
         'Fıkra/bent atlama',

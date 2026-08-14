@@ -12,6 +12,20 @@
     "start": "next start",
     "lint": "eslint",
     "test:scripts": "node --test \"scripts/lib/__tests__/*.test.js\"",
+    "yargi:dry": "node scripts/yargi-kararlari/archive-yargitay.mjs --dry-run",
+    "yargi:status": "node scripts/yargi-kararlari/archive-yargitay.mjs --status",
+    "yargi:run": "node scripts/yargi-kararlari/archive-yargitay.mjs",
+    "yargi:until-done": "node scripts/yargi-kararlari/until-done.mjs",
+    "yargi:proof-budget": "node scripts/yargi-kararlari/proof-budget-wait.mjs",
+    "yargi:test": "node --test scripts/yargi-kararlari/__tests__/*.test.js",
+    "yargi:yibk": "node scripts/yargi-kararlari/archive-yargitay.mjs --tier=yibk --max=50",
+    "yargi:hgk": "node scripts/yargi-kararlari/archive-yargitay.mjs --tier=hgk --max=45",
+    "yargi:search": "node scripts/yargi-kararlari/archive-yargitay.mjs --search-only",
+    "yargi:download": "node scripts/yargi-kararlari/archive-yargitay.mjs --download-only",
+    "yargi:index": "node scripts/yargi-kararlari/build-local-index.mjs",
+    "yargi:lexpera-login": "node scripts/yargi-kararlari/login-lexpera.js",
+    "yargi:core-select": "node scripts/yargi-kararlari/core-100k/select-core.mjs",
+    "yargi:core-report": "node scripts/yargi-kararlari/core-100k/select-core.mjs --report-only",
     "build:daily": "node scripts/build-daily.js",
     "build:index": "node scripts/build-mevzuat-index.mjs",
     "build:site-search": "node scripts/build-site-search-only.mjs",
@@ -69,3 +83,4 @@
     "typescript": "^5"
   }
 }
+

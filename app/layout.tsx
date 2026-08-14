@@ -161,11 +161,11 @@ const personSchema = {
     'Van ve Erciş merkezli avukat; özel hukuk doktora çalışmaları; e-duruşma monografisi yazarı; iyi düzeyde İngilizce. Medeni, borçlar, ticaret, ceza ve usul hukuku.',
   url: `${siteUrl}/avukat-fethi-guzel`,
   image: `${siteUrl}/images/av-fethi-guzel-van-ercis-avukat.jpg`,
-  email: 'av.fethiguzel@hotmail.com',
+  email: 'fethiguzel@hotmail.com',
   knowsLanguage: ['tr', 'en'],
   address: {
     '@type': 'PostalAddress',
-    streetAddress: 'Vanyolu Mah. Karayusuf Bey Bulvarı Zenginler İş Hanı Kat 4 No 26',
+    streetAddress: 'Vanyolu Mah. Karayusuf Bey Bulvarı Zenginler İş Hanı A Blok Kat 5 No 33',
     addressLocality: 'Erciş',
     addressRegion: 'Van',
     postalCode: '65400',
@@ -247,11 +247,11 @@ const orgSchema = {
   image: `${siteUrl}/images/av-fethi-guzel-van-ercis-avukat.jpg`,
   description:
     'Mevzuat bankası, akademik şerhler, günlük içtihat ve hukuki hesaplama araçları sunan dijital hukuk portalı ve avukatlık bürosu.',
-  email: 'av.fethiguzel@hotmail.com',
+  email: 'fethiguzel@hotmail.com',
   priceRange: '$$',
   address: {
     '@type': 'PostalAddress',
-    streetAddress: 'Vanyolu Mah. Karayusuf Bey Bulvarı Zenginler İş Hanı Kat 4 No 26',
+    streetAddress: 'Vanyolu Mah. Karayusuf Bey Bulvarı Zenginler İş Hanı A Blok Kat 5 No 33',
     addressLocality: 'Erciş',
     addressRegion: 'Van',
     postalCode: '65400',

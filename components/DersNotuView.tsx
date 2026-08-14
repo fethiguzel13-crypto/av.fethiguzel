@@ -1085,8 +1085,15 @@ export function DersNotuView({
         </ol>
       </nav>
 
-      {/* Bölümler + grafikler */}
-      {note.sections.map((sec, si) => (
+      {/* Bölümler + grafikler — önce hukuk, sonra çalışma tekniği */}
+      {(() => {
+        const metaRe =
+          /nasıl oku|haftalık|mini plan|tempo|sınav tekniği|sınav kâğıdı|bu notu bitirince|okumalısın/i;
+        const indexed = note.sections.map((sec, si) => ({ sec, si }));
+        const teach = indexed.filter(({ sec }) => !metaRe.test(sec.heading));
+        const meta = indexed.filter(({ sec }) => metaRe.test(sec.heading));
+        return [...teach, ...meta];
+      })().map(({ sec, si }) => (
         <div key={sec.heading}>
           <section className="mb-10 scroll-mt-28">
             <h2 className="text-xl sm:text-2xl font-heading font-bold text-charcoal mb-4 pb-2 border-b border-charcoal/10">
