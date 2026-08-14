@@ -6,10 +6,14 @@ Play Store için Capacitor tabanlı uygulama. İçerik **https://www.avfethiguze
 
 | Alan | Değer |
 |------|--------|
-| Uygulama adı | Av. Fethi Güzel |
+| Model | **Hukuk Galaxy** (çoklu uygulama) |
+| Uygulama adı | Av. Fethi Güzel (hub) |
 | Paket adı | `com.avfethiguzel.hukuk` |
 | Sürüm | **1.2.0** (`versionCode` 3) |
 | Site | https://www.avfethiguzel.com |
+| Diller | TR → EN → DE → FR → AR (UI: TR+EN aktif) |
+
+Galaxy ayrıntı: [galaxy/README.md](./galaxy/README.md)
 
 ## 1.2 yenilikleri
 
@@ -34,9 +38,18 @@ Play Store için Capacitor tabanlı uygulama. İçerik **https://www.avfethiguze
 ```bash
 cd mobile
 npm install
+npm run galaxy         # 4 flavor (portal, hesap, icthat, rehber)
 npm run icons          # isteğe bağlı
-npm run cap:sync
+npm run cap:sync       # portal flavor + cap sync
 npx cap open android
+```
+
+Başka uygulama kabuğu:
+
+```bash
+npm run galaxy:hesap   # com.avfethiguzel.hesap
+npx cap sync android
+# build.gradle applicationId'yi flavors/hesap/android-app.gradle ile hizalayın
 ```
 
 Release AAB (Windows, JDK 17 + keystore gerekir):

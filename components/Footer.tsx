@@ -5,6 +5,7 @@ import Link from 'next/link';
 import { MapPin, Mail, Scale, Clock } from 'lucide-react';
 import { PROFILE } from '@/lib/profile';
 import { isNativeApp } from '@/lib/native-app';
+import GalaxySisterApps from '@/components/GalaxySisterApps';
 
 function InstagramIcon({ size = 18 }: { size?: number }) {
   return (
@@ -264,6 +265,10 @@ export default function Footer() {
             <Link href="/yasal-uyari" className="hover:text-accent transition-colors">Yasal Uyarı</Link>
             <Link href="/#sss" className="hover:text-accent transition-colors">SSS</Link>
           </div>
+        </div>
+
+        <div className="mt-10 max-w-2xl mx-auto">
+          <GalaxySisterApps variant="dark" />
         </div>
 
         <p className="mt-6 text-center text-cream/45 text-xs font-sans leading-relaxed max-w-3xl mx-auto">

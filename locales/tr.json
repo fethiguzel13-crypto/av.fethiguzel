@@ -1,0 +1,48 @@
+{
+  "common": {
+    "brand": "Av. Fethi Güzel",
+    "loading": "Yükleniyor…",
+    "retry": "Yeniden dene",
+    "offline": "Çevrimdışısınız. Mevzuat ve hesaplama için internet gerekir — bağlantı gelince yenileyin.",
+    "openInBrowser": "Tarayıcıda aç",
+    "share": "Paylaş",
+    "copy": "Kopyala",
+    "copied": "Kopyalandı",
+    "search": "Ara",
+    "home": "Ana",
+    "guide": "Rehber",
+    "calc": "Hesap",
+    "cases": "Güncel",
+    "disclaimer": "Bilgilendirme amaçlıdır; resmi tavsiye veya vekâlet yerine geçmez.",
+    "privacy": "Gizlilik",
+    "language": "Dil",
+    "sisterApps": "Diğer uygulamalarımız",
+    "openApp": "Uygulamayı aç",
+    "installHint": "Play Store yakında; şimdilik siteden kullanın."
+  },
+  "apps": {
+    "portal": {
+      "name": "Av. Fethi Güzel",
+      "tagline": "Mevzuat, akademik şerh ve hukuki araçlar"
+    },
+    "hesap": {
+      "name": "Hukuki Hesap",
+      "tagline": "Kıdem, faiz, harç ve 30+ hesaplama"
+    },
+    "icthat": {
+      "name": "İçtihat Günü",
+      "tagline": "Günlük yüksek yargı özetleri"
+    },
+    "rehber": {
+      "name": "Vatandaş Hukuku",
+      "tagline": "Adım adım merci, süre ve belge"
+    }
+  },
+  "shell": {
+    "opening": "Hukuk portalı açılıyor…",
+    "noNetwork": "İnternet bağlantısı yok veya siteye ulaşılamıyor. Bağlanınca yeniden deneyin.",
+    "deviceOffline": "Cihaz çevrimdışı",
+    "serverUnreachable": "Sunucuya erişilemedi",
+    "retrying": "Bağlantı deneniyor ({n})…"
+  }
+}

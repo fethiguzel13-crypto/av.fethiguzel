@@ -1,0 +1,48 @@
+{
+  "common": {
+    "brand": "Fethi Güzel Recht",
+    "loading": "Wird geladen…",
+    "retry": "Erneut versuchen",
+    "offline": "Sie sind offline. Für Gesetze und Rechner ist Internet erforderlich.",
+    "openInBrowser": "Im Browser öffnen",
+    "share": "Teilen",
+    "copy": "Kopieren",
+    "copied": "Kopiert",
+    "search": "Suche",
+    "home": "Start",
+    "guide": "Ratgeber",
+    "calc": "Rechner",
+    "cases": "Urteile",
+    "disclaimer": "Nur zur Information; keine anwaltliche Beratung oder Vertretung.",
+    "privacy": "Datenschutz",
+    "language": "Sprache",
+    "sisterApps": "Unsere anderen Apps",
+    "openApp": "App öffnen",
+    "installHint": "Play Store demnächst; nutzen Sie vorerst die Website."
+  },
+  "apps": {
+    "portal": {
+      "name": "Fethi Güzel Recht",
+      "tagline": "Gesetze, Kommentare und juristische Tools"
+    },
+    "hesap": {
+      "name": "Rechtsrechner TR",
+      "tagline": "Abfindung, Zinsen, Gebühren und 30+ Rechner"
+    },
+    "icthat": {
+      "name": "Rechtsprechung Täglich",
+      "tagline": "Tägliche Zusammenfassungen oberster Gerichte"
+    },
+    "rehber": {
+      "name": "Bürgerrecht TR",
+      "tagline": "Schritt für Schritt: Zuständigkeit, Frist, Unterlagen"
+    }
+  },
+  "shell": {
+    "opening": "Rechtsportal wird geöffnet…",
+    "noNetwork": "Kein Internet oder Seite nicht erreichbar. Bitte später erneut versuchen.",
+    "deviceOffline": "Gerät offline",
+    "serverUnreachable": "Server nicht erreichbar",
+    "retrying": "Verbindung wird geprüft ({n})…"
+  }
+}

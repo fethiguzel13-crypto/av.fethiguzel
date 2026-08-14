@@ -2,6 +2,7 @@ import type { Metadata, Viewport } from 'next'
 import { Plus_Jakarta_Sans, Outfit, Cormorant_Garamond, IBM_Plex_Mono } from 'next/font/google'
 import SkipLink from '@/components/SkipLink'
 import AppNativeChrome from '@/components/AppNativeChrome'
+import GalaxyChrome from '@/components/GalaxyChrome'
 import './globals.css'
 
 const plusJakarta = Plus_Jakarta_Sans({
@@ -400,6 +401,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
       </head>
       <body className="bg-cream text-charcoal font-sans antialiased selection:bg-accent selection:text-white min-h-screen app-body-pad">
         <SkipLink />
+        <GalaxyChrome />
         {children}
         <AppNativeChrome />
       </body>

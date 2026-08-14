@@ -5,8 +5,14 @@
   "private": true,
   "scripts": {
     "build:web": "node scripts/prepare-www.mjs",
+    "galaxy": "node scripts/build-flavor.mjs --app=all --lang=tr",
+    "galaxy:portal": "node scripts/build-flavor.mjs --app=portal --lang=tr",
+    "galaxy:hesap": "node scripts/build-flavor.mjs --app=hesap --lang=tr",
+    "galaxy:icthat": "node scripts/build-flavor.mjs --app=icthat --lang=tr",
+    "galaxy:rehber": "node scripts/build-flavor.mjs --app=rehber --lang=tr",
+    "galaxy:en": "node scripts/build-flavor.mjs --app=all --lang=en",
     "icons": "node scripts/generate-icons.mjs",
-    "cap:sync": "npm run build:web && npx cap sync android",
+    "cap:sync": "npm run galaxy:portal && npx cap sync android",
     "open:android": "npx cap open android",
     "build:android": "npm run cap:sync && cd android && gradlew.bat bundleRelease",
     "build:android:unix": "npm run cap:sync && cd android && ./gradlew bundleRelease"

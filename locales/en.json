@@ -1,0 +1,48 @@
+{
+  "common": {
+    "brand": "Fethi Güzel Law",
+    "loading": "Loading…",
+    "retry": "Try again",
+    "offline": "You are offline. Internet is required for statutes and calculators — refresh when reconnected.",
+    "openInBrowser": "Open in browser",
+    "share": "Share",
+    "copy": "Copy",
+    "copied": "Copied",
+    "search": "Search",
+    "home": "Home",
+    "guide": "Guide",
+    "calc": "Calc",
+    "cases": "Cases",
+    "disclaimer": "For information only; not formal legal advice or representation.",
+    "privacy": "Privacy",
+    "language": "Language",
+    "sisterApps": "Our other apps",
+    "openApp": "Open app",
+    "installHint": "Play Store soon; use the website for now."
+  },
+  "apps": {
+    "portal": {
+      "name": "Fethi Güzel Law",
+      "tagline": "Statutes, academic commentary and legal tools"
+    },
+    "hesap": {
+      "name": "Legal Calc TR",
+      "tagline": "Severance, interest, fees and 30+ calculators"
+    },
+    "icthat": {
+      "name": "Case Law Daily",
+      "tagline": "Daily high-court case briefs"
+    },
+    "rehber": {
+      "name": "Citizen Law TR",
+      "tagline": "Step-by-step forum, deadline and documents"
+    }
+  },
+  "shell": {
+    "opening": "Opening the law portal…",
+    "noNetwork": "No internet or the site is unreachable. Try again when connected.",
+    "deviceOffline": "Device offline",
+    "serverUnreachable": "Could not reach the server",
+    "retrying": "Connecting ({n})…"
+  }
+}

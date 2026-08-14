@@ -1,0 +1,118 @@
+{
+  "version": 1,
+  "brand": "Av. Fethi Güzel",
+  "site": "https://www.avfethiguzel.com",
+  "scheme": "avfethiguzel",
+  "localeOrder": ["tr", "en", "de", "fr", "ar"],
+  "defaultLocale": "tr",
+  "apps": [
+    {
+      "id": "portal",
+      "packageId": "com.avfethiguzel.hukuk",
+      "versionName": "1.2.0",
+      "versionCode": 3,
+      "name": {
+        "tr": "Av. Fethi Güzel",
+        "en": "Fethi Güzel Law",
+        "de": "Fethi Güzel Recht",
+        "fr": "Fethi Güzel Droit",
+        "ar": "فتحي كوزيل للقانون"
+      },
+      "short": {
+        "tr": "Mevzuat, şerh, hesap ve içtihat.",
+        "en": "Statutes, commentary, calculators and case law.",
+        "de": "Gesetze, Kommentare, Rechner und Rechtsprechung.",
+        "fr": "Textes, commentaires, calculateurs et jurisprudence.",
+        "ar": "تشريعات وشروح وحاسبات واجتهاد."
+      },
+      "path": "/",
+      "accent": "#2E4036",
+      "role": "hub",
+      "tabs": ["home", "search", "guide", "calc", "cases"]
+    },
+    {
+      "id": "hesap",
+      "packageId": "com.avfethiguzel.hesap",
+      "versionName": "1.0.0",
+      "versionCode": 1,
+      "name": {
+        "tr": "Hukuki Hesap",
+        "en": "Legal Calc TR",
+        "de": "Rechtsrechner TR",
+        "fr": "Calcul Juridique TR",
+        "ar": "الحاسبة القانونية"
+      },
+      "short": {
+        "tr": "Kıdem, faiz, harç ve 30+ hukuki hesaplama.",
+        "en": "Severance, interest, fees and 30+ legal calculators.",
+        "de": "Abfindung, Zinsen, Gebühren und 30+ Rechner.",
+        "fr": "Indemnités, intérêts, frais et 30+ calculateurs.",
+        "ar": "تعويضات وفوائد ورسوم وأكثر من 30 حاسبة."
+      },
+      "path": "/hesaplama",
+      "accent": "#CC5833",
+      "role": "tool",
+      "tabs": ["calc", "home", "guide", "cases"]
+    },
+    {
+      "id": "icthat",
+      "packageId": "com.avfethiguzel.icthat",
+      "versionName": "1.0.0",
+      "versionCode": 1,
+      "name": {
+        "tr": "İçtihat Günü",
+        "en": "Case Law Daily",
+        "de": "Rechtsprechung Täglich",
+        "fr": "Jurisprudence Quotidienne",
+        "ar": "الاجتهاد اليومي"
+      },
+      "short": {
+        "tr": "Günlük Yargıtay, Danıştay ve AYM özetleri.",
+        "en": "Daily Court of Cassation, Council of State and Constitutional Court briefs.",
+        "de": "Tägliche Zusammenfassungen höchster Gerichte.",
+        "fr": "Résumés quotidiens des hautes juridictions.",
+        "ar": "ملخصات يومية لأعلى المحاكم."
+      },
+      "path": "/icthat",
+      "accent": "#1B4F72",
+      "role": "research",
+      "tabs": ["cases", "search", "home", "calc"]
+    },
+    {
+      "id": "rehber",
+      "packageId": "com.avfethiguzel.rehber",
+      "versionName": "1.0.0",
+      "versionCode": 1,
+      "name": {
+        "tr": "Vatandaş Hukuku",
+        "en": "Citizen Law TR",
+        "de": "Bürgerrecht TR",
+        "fr": "Droit du Citoyen TR",
+        "ar": "قانون المواطن"
+      },
+      "short": {
+        "tr": "Adım adım vatandaş rehberi: merci, süre, belge.",
+        "en": "Step-by-step citizen guides: forum, deadline, documents.",
+        "de": "Schritt-für-Schritt: Zuständigkeit, Frist, Unterlagen.",
+        "fr": "Guides pas à pas: instance, délai, documents.",
+        "ar": "أدلة خطوة بخطوة: الجهة والمدة والمستندات."
+      },
+      "path": "/bilgi",
+      "accent": "#6B4F3A",
+      "role": "citizen",
+      "tabs": ["guide", "calc", "home", "cases"]
+    }
+  ],
+  "deepLinks": {
+    "portal": "avfethiguzel://portal",
+    "hesap": "avfethiguzel://hesap",
+    "icthat": "avfethiguzel://icthat",
+    "rehber": "avfethiguzel://rehber",
+    "web": {
+      "portal": "https://www.avfethiguzel.com/",
+      "hesap": "https://www.avfethiguzel.com/hesaplama",
+      "icthat": "https://www.avfethiguzel.com/icthat",
+      "rehber": "https://www.avfethiguzel.com/bilgi"
+    }
+  }
+}

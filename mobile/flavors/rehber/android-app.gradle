@@ -1,0 +1,13 @@
+// Galaxy flavor: rehber
+// android/app/build.gradle defaultConfig içine veya productFlavors'a kopyalayın
+// applicationId "com.avfethiguzel.rehber"
+// versionCode 1
+// versionName "1.0.0"
+android {
+    defaultConfig {
+        applicationId "com.avfethiguzel.rehber"
+        versionCode 1
+        versionName "1.0.0"
+        resValue "string", "app_name", "Vatandaş Hukuku"
+    }
+}

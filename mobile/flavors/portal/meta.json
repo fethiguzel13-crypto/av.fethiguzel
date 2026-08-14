@@ -1,0 +1,10 @@
+{
+  "id": "portal",
+  "packageId": "com.avfethiguzel.hukuk",
+  "versionName": "1.2.0",
+  "versionCode": 3,
+  "name": "Av. Fethi Güzel",
+  "lang": "tr",
+  "entry": "https://www.avfethiguzel.com?app=portal&lang=tr&utm_source=android_app&utm_medium=portal",
+  "builtAt": "2026-08-14T14:44:45.706Z"
+}

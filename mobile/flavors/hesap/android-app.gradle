@@ -1,0 +1,13 @@
+// Galaxy flavor: hesap
+// android/app/build.gradle defaultConfig içine veya productFlavors'a kopyalayın
+// applicationId "com.avfethiguzel.hesap"
+// versionCode 1
+// versionName "1.0.0"
+android {
+    defaultConfig {
+        applicationId "com.avfethiguzel.hesap"
+        versionCode 1
+        versionName "1.0.0"
+        resValue "string", "app_name", "Hukuki Hesap"
+    }
+}

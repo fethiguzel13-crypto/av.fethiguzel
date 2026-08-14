@@ -1,0 +1,48 @@
+{
+  "common": {
+    "brand": "Fethi Güzel Droit",
+    "loading": "Chargement…",
+    "retry": "Réessayer",
+    "offline": "Vous êtes hors ligne. Internet est requis pour les textes et calculateurs.",
+    "openInBrowser": "Ouvrir dans le navigateur",
+    "share": "Partager",
+    "copy": "Copier",
+    "copied": "Copié",
+    "search": "Rechercher",
+    "home": "Accueil",
+    "guide": "Guide",
+    "calc": "Calcul",
+    "cases": "Arrêts",
+    "disclaimer": "À titre informatif uniquement ; ne remplace pas un conseil ou un mandat d'avocat.",
+    "privacy": "Confidentialité",
+    "language": "Langue",
+    "sisterApps": "Nos autres applications",
+    "openApp": "Ouvrir l'application",
+    "installHint": "Play Store bientôt ; utilisez le site pour l'instant."
+  },
+  "apps": {
+    "portal": {
+      "name": "Fethi Güzel Droit",
+      "tagline": "Textes, commentaires et outils juridiques"
+    },
+    "hesap": {
+      "name": "Calcul Juridique TR",
+      "tagline": "Indemnités, intérêts, frais et 30+ calculateurs"
+    },
+    "icthat": {
+      "name": "Jurisprudence Quotidienne",
+      "tagline": "Résumés quotidiens des hautes juridictions"
+    },
+    "rehber": {
+      "name": "Droit du Citoyen TR",
+      "tagline": "Guides pas à pas : instance, délai, documents"
+    }
+  },
+  "shell": {
+    "opening": "Ouverture du portail juridique…",
+    "noNetwork": "Pas d'Internet ou site inaccessible. Réessayez une fois connecté.",
+    "deviceOffline": "Appareil hors ligne",
+    "serverUnreachable": "Serveur inaccessible",
+    "retrying": "Connexion ({n})…"
+  }
+}
