@@ -1,13 +1,28 @@
 /**
- * Hukuk Galaxy — uygulama kataloğu (tek kaynak).
- * mobile/galaxy/catalog.json ile senkron tutulur.
+ * Hukuk Galaxy — uygulama kataloğu.
+ * Saf mantık: ./pure.mjs · veri: mobile/galaxy/catalog.json ile senkron.
  */
 
+import {
+  ACTIVE_LOCALES as PURE_ACTIVE,
+  DEFAULT_LOCALE as PURE_DEFAULT,
+  LOCALE_ORDER as PURE_ORDER,
+  SCHEME as PURE_SCHEME,
+  SITE as PURE_SITE,
+  appHomeUrl as pureAppHomeUrl,
+  deepLinkFor as pureDeepLinkFor,
+  getGalaxyApp as pureGetGalaxyApp,
+  inferAppFromPath as pureInfer,
+  localized as pureLocalized,
+  pathFromAppUrl as purePathFromAppUrl,
+  tabsForApp as pureTabsForApp,
+  webUrlFor as pureWebUrlFor,
+} from './pure.mjs';
+
 export type LocaleCode = 'tr' | 'en' | 'de' | 'fr' | 'ar';
-
 export type GalaxyAppId = 'portal' | 'hesap' | 'icthat' | 'rehber';
-
 export type LocalizedString = Record<LocaleCode, string>;
+export type TabKey = 'home' | 'search' | 'guide' | 'calc' | 'cases';
 
 export type GalaxyApp = {
   id: GalaxyAppId;
@@ -19,13 +34,14 @@ export type GalaxyApp = {
   path: string;
   accent: string;
   role: 'hub' | 'tool' | 'research' | 'citizen';
-  tabs: Array<'home' | 'search' | 'guide' | 'calc' | 'cases'>;
+  tabs: TabKey[];
 };
 
-export const LOCALE_ORDER: LocaleCode[] = ['tr', 'en', 'de', 'fr', 'ar'];
-export const DEFAULT_LOCALE: LocaleCode = 'tr';
-/** UI’da önce aktif olan diller (DE/FR/AR metin hazır, menüde kademeli açılır) */
-export const ACTIVE_LOCALES: LocaleCode[] = ['tr', 'en'];
+export const LOCALE_ORDER = PURE_ORDER as LocaleCode[];
+export const DEFAULT_LOCALE = PURE_DEFAULT as LocaleCode;
+export const ACTIVE_LOCALES = PURE_ACTIVE as LocaleCode[];
+export const SITE = PURE_SITE;
+export const SCHEME = PURE_SCHEME;
 
 export const LOCALE_LABELS: Record<LocaleCode, string> = {
   tr: 'Türkçe',
@@ -34,9 +50,6 @@ export const LOCALE_LABELS: Record<LocaleCode, string> = {
   fr: 'Français',
   ar: 'العربية',
 };
-
-export const SITE = 'https://www.avfethiguzel.com';
-export const SCHEME = 'avfethiguzel';
 
 export const GALAXY_APPS: GalaxyApp[] = [
   {
@@ -138,7 +151,7 @@ export const GALAXY_APPS: GalaxyApp[] = [
 ];
 
 export function getGalaxyApp(id: string | null | undefined): GalaxyApp {
-  return GALAXY_APPS.find((a) => a.id === id) ?? GALAXY_APPS[0];
+  return pureGetGalaxyApp(GALAXY_APPS, id) as GalaxyApp;
 }
 
 export function localized(
@@ -146,31 +159,29 @@ export function localized(
   locale: LocaleCode,
   fallback: LocaleCode = 'en'
 ): string {
-  return map[locale] || map[fallback] || map.tr;
+  return pureLocalized(map, locale, fallback);
 }
 
 export function appHomeUrl(app: GalaxyApp, locale: LocaleCode = 'tr'): string {
-  const base = `${SITE}${app.path === '/' ? '' : app.path}`;
-  const params = new URLSearchParams();
-  params.set('app', app.id);
-  if (locale !== 'tr') params.set('lang', locale);
-  return `${base}?${params.toString()}`;
+  return pureAppHomeUrl(app, locale, SITE);
 }
 
 export function deepLinkFor(appId: GalaxyAppId, path = ''): string {
-  const p = path.replace(/^\//, '');
-  return p ? `${SCHEME}://${appId}/${p}` : `${SCHEME}://${appId}`;
+  return pureDeepLinkFor(appId, path, SCHEME);
 }
 
 export function webUrlFor(appId: GalaxyAppId): string {
-  const app = getGalaxyApp(appId);
-  return `${SITE}${app.path === '/' ? '/' : app.path}`;
+  return pureWebUrlFor(GALAXY_APPS, appId, SITE);
 }
 
-/** Path’e göre hangi galaxy uygulamasına ait olduğunu tahmin et */
 export function inferAppFromPath(pathname: string): GalaxyAppId {
-  if (pathname.startsWith('/hesaplama')) return 'hesap';
-  if (pathname.startsWith('/icthat') || pathname.startsWith('/yargi')) return 'icthat';
-  if (pathname.startsWith('/bilgi') || pathname.startsWith('/rehber')) return 'rehber';
-  return 'portal';
+  return pureInfer(pathname) as GalaxyAppId;
+}
+
+export function pathFromGalaxyUrl(raw: string): string | null {
+  return purePathFromAppUrl(raw, GALAXY_APPS, SITE, SCHEME);
+}
+
+export function tabsForApp(appId: GalaxyAppId): TabKey[] {
+  return pureTabsForApp(GALAXY_APPS, appId) as TabKey[];
 }

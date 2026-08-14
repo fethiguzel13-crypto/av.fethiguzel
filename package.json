@@ -12,6 +12,7 @@
     "start": "next start",
     "lint": "eslint",
     "test:scripts": "node --test \"scripts/lib/__tests__/*.test.js\"",
+    "test:galaxy": "node --test \"lib/galaxy/__tests__/*.test.mjs\"",
     "yargi:dry": "node scripts/yargi-kararlari/archive-yargitay.mjs --dry-run",
     "yargi:status": "node scripts/yargi-kararlari/archive-yargitay.mjs --status",
     "yargi:run": "node scripts/yargi-kararlari/archive-yargitay.mjs",

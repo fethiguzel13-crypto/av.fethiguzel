@@ -3,7 +3,7 @@
   "appName": "Av. Fethi Güzel",
   "webDir": "www",
   "server": {
-    "url": "https://www.avfethiguzel.com?app=portal&lang=tr&utm_source=android_app&utm_medium=portal",
+    "url": "https://www.avfethiguzel.com/?app=portal&lang=tr&utm_source=android_app&utm_medium=portal",
     "cleartext": false,
     "allowNavigation": [
       "avfethiguzel.com",

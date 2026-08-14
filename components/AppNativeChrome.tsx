@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, useState } from 'react';
+import { Suspense, useEffect, useState } from 'react';
 import { usePathname, useRouter } from 'next/navigation';
 import {
   getCapPlugin,
@@ -10,18 +10,16 @@ import {
   pathFromAppUrl,
 } from '@/lib/native-app';
 import MobileBottomNav from '@/components/MobileBottomNav';
+import { useGalaxy } from '@/lib/galaxy/useGalaxy';
 
 /**
  * Native Android kabuğu + mobil alt menü.
- * - Geri tuşu: geçmiş varsa geri, yoksa uygulamadan çık
- * - Deep link (appUrlOpen)
- * - Harici bağlantılar → sistem tarayıcısı (Browser eklentisi)
- * - Çevrimdışı şeridi
- * - Safe-area ve alt menü boşluğu
+ * - Geri tuşu / deep link / harici link / çevrimdışı (i18n)
  */
-export default function AppNativeChrome() {
+function NativeChromeInner() {
   const router = useRouter();
   const pathname = usePathname();
+  const { t, locale, appId } = useGalaxy();
   const [native, setNative] = useState(false);
   const [offline, setOffline] = useState(false);
 
@@ -45,7 +43,6 @@ export default function AppNativeChrome() {
     };
   }, []);
 
-  // Donanım geri tuşu
   useEffect(() => {
     if (!native) return;
     const App = getCapPlugin<{
@@ -63,7 +60,7 @@ export default function AppNativeChrome() {
         if (canGoBack || window.history.length > 1) {
           window.history.back();
         } else if (pathname !== '/') {
-          router.push('/');
+          router.push(`/?app=${appId}&lang=${locale}`);
         } else {
           App.exitApp?.();
         }
@@ -78,9 +75,8 @@ export default function AppNativeChrome() {
         /* ignore */
       }
     };
-  }, [native, pathname, router]);
+  }, [native, pathname, router, appId, locale]);
 
-  // Deep link: uygulama açıkken gelen URL
   useEffect(() => {
     if (!native) return;
     const App = getCapPlugin<{
@@ -95,7 +91,7 @@ export default function AppNativeChrome() {
     const navigateFrom = (raw?: string) => {
       if (!raw) return;
       const path = pathFromAppUrl(raw);
-      if (path && path !== pathname) {
+      if (path && path !== `${pathname}${window.location.search}`) {
         router.push(path);
       }
     };
@@ -121,7 +117,6 @@ export default function AppNativeChrome() {
     };
   }, [native, pathname, router]);
 
-  // Harici linkler: Instagram, Maps, Play Store vb. sistem tarayıcısında
   useEffect(() => {
     if (!native) return;
 
@@ -132,9 +127,6 @@ export default function AppNativeChrome() {
       const target = e.target as Element | null;
       const a = target?.closest?.('a') as HTMLAnchorElement | null;
       if (!a || !a.href) return;
-      if (a.target === '_blank' || a.hasAttribute('download')) {
-        /* handled below if external */
-      }
       if (!isExternalUrl(a.href)) return;
       e.preventDefault();
       openExternalUrl(a.href);
@@ -144,7 +136,6 @@ export default function AppNativeChrome() {
     return () => document.removeEventListener('click', onClick, true);
   }, [native]);
 
-  // Çevrimiçi / çevrimdışı
   useEffect(() => {
     const sync = () => setOffline(typeof navigator !== 'undefined' && !navigator.onLine);
     sync();
@@ -190,11 +181,18 @@ export default function AppNativeChrome() {
           className="fixed top-0 inset-x-0 z-[70] bg-charcoal text-cream text-center text-xs sm:text-sm font-medium py-2 px-3"
           style={{ paddingTop: 'max(0.5rem, env(safe-area-inset-top))' }}
         >
-          Çevrimdışısınız. Mevzuat ve hesaplama için internet gerekir — bağlantı gelince
-          yenileyin.
+          {t('common.offline')}
         </div>
       )}
       <MobileBottomNav />
     </>
+  );
+}
+
+export default function AppNativeChrome() {
+  return (
+    <Suspense fallback={<MobileBottomNav />}>
+      <NativeChromeInner />
+    </Suspense>
   );
 }

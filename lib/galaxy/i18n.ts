@@ -1,10 +1,15 @@
 /**
- * Galaxy UI i18n — hafif, next-intl’siz.
+ * Galaxy UI i18n — pure.mjs translate + locale JSON.
  * Dil sırası: tr → en → de → fr → ar
  */
 
 import type { LocaleCode } from './catalog';
 import { DEFAULT_LOCALE, LOCALE_ORDER } from './catalog';
+import {
+  isLocale as pureIsLocale,
+  normalizeLocale as pureNormalize,
+  translate,
+} from './pure.mjs';
 
 import tr from '@/locales/tr.json';
 import en from '@/locales/en.json';
@@ -20,47 +25,24 @@ const STORAGE_KEY = 'fg_locale';
 const COOKIE_KEY = 'fg_lang';
 
 export function isLocale(v: string | null | undefined): v is LocaleCode {
-  return !!v && (LOCALE_ORDER as string[]).includes(v);
+  return pureIsLocale(v, LOCALE_ORDER);
 }
 
 export function normalizeLocale(v: string | null | undefined): LocaleCode {
-  if (isLocale(v)) return v;
-  if (!v) return DEFAULT_LOCALE;
-  const short = v.slice(0, 2).toLowerCase();
-  if (isLocale(short)) return short;
-  return DEFAULT_LOCALE;
+  return pureNormalize(v, LOCALE_ORDER, DEFAULT_LOCALE) as LocaleCode;
 }
 
 export function getDict(locale: LocaleCode): Dict {
   return DICTS[locale] || DICTS.tr;
 }
 
-/** "common.retry" veya "shell.opening" */
-export function t(locale: LocaleCode, key: string, vars?: Record<string, string | number>): string {
-  const dict = getDict(locale) as Record<string, unknown>;
-  const fallback = getDict('en') as Record<string, unknown>;
-  const trDict = getDict('tr') as Record<string, unknown>;
-
-  const resolve = (d: Record<string, unknown>): string | undefined => {
-    const parts = key.split('.');
-    let cur: unknown = d;
-    for (const p of parts) {
-      if (cur && typeof cur === 'object' && p in (cur as object)) {
-        cur = (cur as Record<string, unknown>)[p];
-      } else {
-        return undefined;
-      }
-    }
-    return typeof cur === 'string' ? cur : undefined;
-  };
-
-  let s = resolve(dict) ?? resolve(fallback) ?? resolve(trDict) ?? key;
-  if (vars) {
-    for (const [k, v] of Object.entries(vars)) {
-      s = s.replace(new RegExp(`\\{${k}\\}`, 'g'), String(v));
-    }
-  }
-  return s;
+/** "common.retry" veya "shell.opening" — shipped UI path */
+export function t(
+  locale: LocaleCode,
+  key: string,
+  vars?: Record<string, string | number>
+): string {
+  return translate(DICTS as unknown as Record<string, object>, locale, key, vars);
 }
 
 export function readStoredLocale(): LocaleCode | null {
@@ -94,10 +76,13 @@ export function detectBrowserLocale(): LocaleCode {
   if (typeof navigator === 'undefined') return DEFAULT_LOCALE;
   const list = navigator.languages?.length ? navigator.languages : [navigator.language];
   for (const l of list) {
-    const n = normalizeLocale(l);
-    if (n !== DEFAULT_LOCALE || l.toLowerCase().startsWith('tr')) {
-      if (isLocale(l.slice(0, 2).toLowerCase())) return n;
-    }
+    const short = l.slice(0, 2).toLowerCase();
+    if (isLocale(short)) return short;
   }
   return DEFAULT_LOCALE;
+}
+
+/** Test / smoke: raw dict map for pure translate */
+export function getAllDicts(): Record<LocaleCode, Dict> {
+  return DICTS;
 }

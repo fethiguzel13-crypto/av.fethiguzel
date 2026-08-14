@@ -25,22 +25,27 @@ const localeArg = (args.find((a) => a.startsWith('--lang=')) || '--lang=tr').spl
 
 const SITE = catalog.site || 'https://www.avfethiguzel.com';
 
-function loadShellStrings(lang) {
+function loadLocale(lang) {
   try {
-    const j = JSON.parse(readFileSync(join(localesRoot, `${lang}.json`), 'utf8'));
-    return j.shell || {};
+    return JSON.parse(readFileSync(join(localesRoot, `${lang}.json`), 'utf8'));
   } catch {
     return {};
   }
 }
 
 function prepareWww(app, lang) {
-  const shell = loadShellStrings(lang);
-  const shellEn = loadShellStrings('en');
+  const loc = loadLocale(lang);
+  const locEn = loadLocale('en');
+  const shell = loc.shell || {};
+  const shellEn = locEn.shell || {};
+  const common = loc.common || {};
+  const commonEn = locEn.common || {};
   const s = (k, fb) => shell[k] || shellEn[k] || fb;
+  const c = (k, fb) => common[k] || commonEn[k] || fb;
 
   const name = app.name[lang] || app.name.en || app.name.tr;
-  const entry = `${SITE}${app.path === '/' ? '' : app.path}?app=${app.id}&lang=${lang}&utm_source=android_app&utm_medium=${app.id}`;
+  const pathPart = app.path === '/' ? '/' : app.path;
+  const entry = `${SITE}${pathPart === '/' ? '/' : pathPart}?app=${app.id}&lang=${lang}&utm_source=android_app&utm_medium=${app.id}`;
 
   const html = `<!DOCTYPE html>
 <html lang="${lang}" ${lang === 'ar' ? 'dir="rtl"' : 'dir="ltr"'}>
@@ -81,8 +86,8 @@ function prepareWww(app, lang) {
     <div class="mark" aria-hidden="true">§</div>
     <h1>${name}</h1>
     <p class="sub" id="msg">${s('opening', 'Opening…')}</p>
-    <button type="button" class="btn" id="retry"><span class="spin" id="spin"></span>${s('opening', '…').includes('…') ? 'OK' : 'Retry'}</button>
-    <a class="btn btn-ghost hidden" id="open" href="${entry}">Browser</a>
+    <button type="button" class="btn" id="retry"><span class="spin" id="spin"></span>${c('retry', 'Retry')}</button>
+    <a class="btn btn-ghost hidden" id="open" href="${entry}">${c('openInBrowser', 'Open in browser')}</a>
     <div class="links" id="shortcuts">
       ${catalog.apps
         .filter((a) => a.id !== app.id)
@@ -165,12 +170,15 @@ function writeFlavor(app, lang) {
   const iconSrc = join(root, 'assets', 'icon-512.png');
   if (existsSync(iconSrc)) copyFileSync(iconSrc, join(wwwDir, 'icon-512.png'));
 
+  const pathPart = app.path === '/' ? '/' : app.path;
+  const serverUrl = `${SITE}${pathPart === '/' ? '/' : pathPart}?app=${app.id}&lang=${lang}&utm_source=android_app&utm_medium=${app.id}`;
+
   const capConfig = {
     appId: app.packageId,
     appName: name,
     webDir: 'www',
     server: {
-      url: entry.split('?')[0] + `?app=${app.id}&lang=${lang}&utm_source=android_app&utm_medium=${app.id}`,
+      url: serverUrl,
       cleartext: false,
       allowNavigation: [
         'avfethiguzel.com',

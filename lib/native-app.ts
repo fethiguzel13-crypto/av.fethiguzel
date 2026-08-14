@@ -3,6 +3,9 @@
  * Native uygulama sunucu URL'sini yüklerken window.Capacitor enjekte edilir.
  */
 
+import { GALAXY_APPS, SCHEME, SITE } from '@/lib/galaxy/catalog';
+import { pathFromAppUrl as purePathFromAppUrl } from '@/lib/galaxy/pure.mjs';
+
 export type CapPlatform = 'web' | 'android' | 'ios' | 'unknown';
 
 type CapBridge = {
@@ -62,7 +65,10 @@ export function isExternalUrl(href: string): boolean {
     return true;
   }
   try {
-    const u = new URL(href, typeof window !== 'undefined' ? window.location.href : 'https://www.avfethiguzel.com');
+    const u = new URL(
+      href,
+      typeof window !== 'undefined' ? window.location.href : 'https://www.avfethiguzel.com'
+    );
     if (u.protocol !== 'http:' && u.protocol !== 'https:') return true;
     const host = u.hostname.replace(/^www\./, '');
     if (OWN_HOSTS.has(u.hostname) || OWN_HOSTS.has(host) || OWN_HOSTS.has(`www.${host}`)) {
@@ -159,23 +165,7 @@ export async function shareContent(payload: SharePayload): Promise<boolean> {
   return false;
 }
 
-/** Deep link URL → sitedeki path (+ search + hash). */
+/** Deep link URL → sitedeki path (+ search + hash). Galaxy app id destekli. */
 export function pathFromAppUrl(raw: string): string | null {
-  if (!raw) return null;
-  try {
-    // avfethiguzel://mevzuat/tbk  veya https://www.avfethiguzel.com/...
-    let normalized = raw;
-    if (raw.startsWith('avfethiguzel://')) {
-      normalized =
-        'https://www.avfethiguzel.com/' +
-        raw.slice('avfethiguzel://'.length).replace(/^\/+/, '');
-    }
-    const u = new URL(normalized);
-    const host = u.hostname.replace(/^www\./, '');
-    if (host && host !== 'avfethiguzel.com') return null;
-    const path = `${u.pathname || '/'}${u.search || ''}${u.hash || ''}`;
-    return path || '/';
-  } catch {
-    return null;
-  }
+  return purePathFromAppUrl(raw, GALAXY_APPS, SITE, SCHEME);
 }
