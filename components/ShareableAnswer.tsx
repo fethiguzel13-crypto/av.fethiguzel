@@ -2,6 +2,7 @@
 
 import { useState } from 'react';
 import { Copy, Check, Share2 } from 'lucide-react';
+import { shareContent } from '@/lib/native-app';
 
 type Props = {
     text: string;
@@ -28,15 +29,8 @@ export default function ShareableAnswer({ text, title = 'Kısa bilgilendirme (ko
     };
 
     const share = async () => {
-        if (navigator.share) {
-            try {
-                await navigator.share({ title, text });
-                return;
-            } catch {
-                /* fall through */
-            }
-        }
-        await copy();
+        const shared = await shareContent({ title, text });
+        if (!shared) await copy();
     };
 
     return (

@@ -18,21 +18,27 @@ Bu uygulama hazır AAB ile Play Console’a yüklenir. **Play Console hesabı ve
 |------|--------|
 | Paket adı | `com.avfethiguzel.hukuk` |
 | Uygulama adı | Av. Fethi Güzel |
+| Sürüm | 1.2.0 (`versionCode` 3) |
 | Kategori | Kitaplar ve referans / Verimlilik |
 | İçerik | 16+ (hukuki içerik; çocuklara özel değil) |
-| Gizlilik politikası | `https://avfethiguzel.com/gizlilik` (aşağıda sayfa eklenecek) |
+| Gizlilik politikası | `https://www.avfethiguzel.com/gizlilik` (**hazır**) |
 
 ## 3) AAB dosyası
 
 ### A) GitHub Actions (önerilen)
 
-1. Repo’da **Actions → Build Android AAB → Run workflow**  
-2. Bitince **Artifacts → app-release** indirin  
-3. `app-release.aab` dosyasını Play Console → **Production** (veya dahili test) → **Yeni sürüm** ile yükleyin
+1. Repo secrets (bir kez):  
+   - `ANDROID_KEYSTORE_BASE64`  
+   - `ANDROID_KEYSTORE_PASSWORD`  
+   - `ANDROID_KEY_ALIAS` (= `fethiguzel`)  
+   - `ANDROID_KEY_PASSWORD`  
+2. **Actions → Build Android AAB → Run workflow**  
+3. Bitince **Artifacts → fethiguzel-android** indirin  
+4. `app-release.aab` dosyasını Play Console → **Production** (veya dahili test) → **Yeni sürüm** ile yükleyin
 
 ### B) Yerel derleme
 
-Android Studio + JDK 17 + SDK gerekir. `README.md` içindeki komutlara bakın.
+Android Studio + **JDK 17** + SDK gerekir. `README.md` içindeki komutlara bakın.
 
 ## 4) Mağaza girişi (metinler hazır)
 
@@ -72,18 +78,29 @@ Ekran görüntüleri: telefondan siteden 2–8 adet PNG (telefon boyutu).
 
 Uygulama WebView ile siteyi açar. Formlar sitede işlenir.
 
+- Gizlilik URL: https://www.avfethiguzel.com/gizlilik  
 - Veri toplama: sitedeki analitik/iletişim formlarına bağlıdır  
-- Gizlilik URL’si zorunludur → sitede `/gizlilik` sayfası
 
 ## 6) İmza (signing)
-
-CI veya siz bir yükleme anahtarı üretirsiniz. **keystore dosyasını asla public repoya koymayın.**
 
 ```bash
 keytool -genkey -v -keystore fethiguzel-upload.jks -keyalg RSA -keysize 2048 -validity 10000 -alias fethiguzel
 ```
 
+PowerShell: `mobile/scripts/create-upload-keystore.ps1`
+
 Play App Signing önerilir (Google’ın imza yönetmesi).
+
+### App Links (assetlinks.json)
+
+`public/.well-known/assetlinks.json` içinde `REPLACE_WITH_UPLOAD_OR_APP_SIGNING_SHA256` yerine gerçek parmak izi olmalı:
+
+```powershell
+keytool -list -v -keystore fethiguzel-upload.jks -alias fethiguzel
+# SHA256 satırını kopyalayın (iki nokta olmadan veya Play Console formatında)
+```
+
+Play App Signing açıksa Console → App signing → **App signing key certificate** SHA-256 kullanılır.
 
 ## 7) Yayın
 
@@ -95,5 +112,5 @@ Play App Signing önerilir (Google’ın imza yönetmesi).
 
 Play Console’da e-posta ve web sitesi:
 
-- Site: https://avfethiguzel.com  
-- E-posta: (kendi iletişim e-postanız)
+- Site: https://www.avfethiguzel.com  
+- E-posta: fethiguzel@hotmail.com  

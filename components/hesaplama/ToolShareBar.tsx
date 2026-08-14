@@ -2,6 +2,7 @@
 
 import { useState } from 'react';
 import { Copy, Check, Share2 } from 'lucide-react';
+import { shareContent } from '@/lib/native-app';
 
 export default function ToolShareBar({ url, title }: { url: string; title: string }) {
     const [ok, setOk] = useState(false);
@@ -17,16 +18,9 @@ export default function ToolShareBar({ url, title }: { url: string; title: strin
     };
 
     const share = async () => {
-        const text = `${title} — Av. Fethi Güzel Hukuk Portalı (bilgi amaçlı)\n${url}`;
-        if (navigator.share) {
-            try {
-                await navigator.share({ title, text, url });
-                return;
-            } catch {
-                /* fall through */
-            }
-        }
-        await copy();
+        const text = `${title} — Av. Fethi Güzel Hukuk Portalı (bilgi amaçlı)`;
+        const shared = await shareContent({ title, text, url });
+        if (!shared) await copy();
     };
 
     return (

@@ -2,12 +2,20 @@
 
 import { useEffect, useState } from 'react';
 import { usePathname, useRouter } from 'next/navigation';
-import { getCapPlugin, isNativeApp } from '@/lib/native-app';
+import {
+  getCapPlugin,
+  isExternalUrl,
+  isNativeApp,
+  openExternalUrl,
+  pathFromAppUrl,
+} from '@/lib/native-app';
 import MobileBottomNav from '@/components/MobileBottomNav';
 
 /**
  * Native Android kabuğu + mobil alt menü.
  * - Geri tuşu: geçmiş varsa geri, yoksa uygulamadan çık
+ * - Deep link (appUrlOpen)
+ * - Harici bağlantılar → sistem tarayıcısı (Browser eklentisi)
  * - Çevrimdışı şeridi
  * - Safe-area ve alt menü boşluğu
  */
@@ -23,7 +31,6 @@ export default function AppNativeChrome() {
     document.documentElement.classList.toggle('app-native', on);
     document.documentElement.classList.add('app-mobile-chrome');
 
-    // Status bar (varsa)
     if (on) {
       const StatusBar = getCapPlugin<{
         setBackgroundColor?: (o: { color: string }) => Promise<void>;
@@ -72,6 +79,70 @@ export default function AppNativeChrome() {
       }
     };
   }, [native, pathname, router]);
+
+  // Deep link: uygulama açıkken gelen URL
+  useEffect(() => {
+    if (!native) return;
+    const App = getCapPlugin<{
+      addListener: (
+        event: string,
+        cb: (data: { url: string }) => void
+      ) => Promise<{ remove: () => void }> | { remove: () => void };
+      getLaunchUrl?: () => Promise<{ url?: string } | undefined>;
+    }>('App');
+    if (!App?.addListener) return;
+
+    const navigateFrom = (raw?: string) => {
+      if (!raw) return;
+      const path = pathFromAppUrl(raw);
+      if (path && path !== pathname) {
+        router.push(path);
+      }
+    };
+
+    let handle: { remove: () => void } | null = null;
+    const bind = async () => {
+      try {
+        const launch = await App.getLaunchUrl?.();
+        navigateFrom(launch?.url);
+      } catch {
+        /* ignore */
+      }
+      const h = await App.addListener('appUrlOpen', ({ url }) => navigateFrom(url));
+      handle = h;
+    };
+    bind();
+    return () => {
+      try {
+        handle?.remove();
+      } catch {
+        /* ignore */
+      }
+    };
+  }, [native, pathname, router]);
+
+  // Harici linkler: Instagram, Maps, Play Store vb. sistem tarayıcısında
+  useEffect(() => {
+    if (!native) return;
+
+    const onClick = (e: MouseEvent) => {
+      if (e.defaultPrevented || e.button !== 0 || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) {
+        return;
+      }
+      const target = e.target as Element | null;
+      const a = target?.closest?.('a') as HTMLAnchorElement | null;
+      if (!a || !a.href) return;
+      if (a.target === '_blank' || a.hasAttribute('download')) {
+        /* handled below if external */
+      }
+      if (!isExternalUrl(a.href)) return;
+      e.preventDefault();
+      openExternalUrl(a.href);
+    };
+
+    document.addEventListener('click', onClick, true);
+    return () => document.removeEventListener('click', onClick, true);
+  }, [native]);
 
   // Çevrimiçi / çevrimdışı
   useEffect(() => {

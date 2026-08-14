@@ -74,3 +74,8 @@ start-out.txt
 # TestSprite local artifacts
 .testsprite/failure/
 
+
+# Android upload key
+mobile/**/*.jks
+mobile/**/*.keystore
+mobile/android/keystore.properties

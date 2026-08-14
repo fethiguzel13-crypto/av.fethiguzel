@@ -1,9 +1,10 @@
 "use client";
 
-import React from 'react';
+import React, { useEffect, useState } from 'react';
 import Link from 'next/link';
 import { MapPin, Mail, Scale, Clock } from 'lucide-react';
 import { PROFILE } from '@/lib/profile';
+import { isNativeApp } from '@/lib/native-app';
 
 function InstagramIcon({ size = 18 }: { size?: number }) {
   return (
@@ -24,6 +25,11 @@ function XIcon({ size = 16 }: { size?: number }) {
 }
 
 export default function Footer() {
+  const [inApp, setInApp] = useState(false);
+  useEffect(() => {
+    setInApp(isNativeApp());
+  }, []);
+
   return (
     <footer className="bg-charcoal pt-16 sm:pt-24 md:pt-32 pb-8 sm:pb-12 px-5 sm:px-6 rounded-t-[2rem] sm:rounded-t-[3rem] md:rounded-t-[4rem] overflow-hidden" id="iletisim">
       <div className="max-w-7xl mx-auto">
@@ -90,17 +96,19 @@ export default function Footer() {
                 </div>
               </div>
 
-              <div>
-                <h4 className="text-cream/40 text-[10px] uppercase tracking-widest mb-3 font-bold">Mobil uygulama</h4>
-                <a
-                  href="https://play.google.com/store/apps/details?id=com.avfethiguzel.hukuk"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="inline-flex items-center gap-2 px-4 py-2.5 rounded-full bg-accent text-white text-sm font-semibold hover:bg-accent/90 transition-colors mb-6"
-                >
-                  Google Play&apos;de indir
-                </a>
-              </div>
+              {!inApp && (
+                <div>
+                  <h4 className="text-cream/40 text-[10px] uppercase tracking-widest mb-3 font-bold">Mobil uygulama</h4>
+                  <a
+                    href="https://play.google.com/store/apps/details?id=com.avfethiguzel.hukuk"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-flex items-center gap-2 px-4 py-2.5 rounded-full bg-accent text-white text-sm font-semibold hover:bg-accent/90 transition-colors mb-6"
+                  >
+                    Google Play&apos;de indir
+                  </a>
+                </div>
+              )}
 
               <div>
                 <h4 className="text-cream/40 text-[10px] uppercase tracking-widest mb-3 font-bold">Sosyal Medya</h4>

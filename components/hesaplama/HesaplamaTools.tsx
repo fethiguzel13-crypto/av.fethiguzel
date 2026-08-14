@@ -9,6 +9,7 @@ import { HESAPLAMA_ARACLAR as META_ARACLAR } from "@/lib/hesaplama-meta";
 import { matchHesaplamaTool } from "@/lib/hesaplama-search";
 import { loadFavorites, toggleFavorite, loadRecent, pushRecent } from "@/lib/hesaplama-prefs";
 import { getKavramForHesaplama } from "@/lib/kavramlar";
+import { shareContent } from "@/lib/native-app";
 
 // ─── YARDIMCI ─────────────────────────────────────────────────────────────────
 
@@ -235,15 +236,8 @@ function Result({ rows, note, baslik }: { rows: [string, string][]; note?: strin
 
   const paylas = async () => {
     const metin = buildResultText(baslikMetin, rows, note);
-    if (navigator.share) {
-      try {
-        await navigator.share({ title: baslikMetin, text: metin });
-        return;
-      } catch {
-        /* fall through */
-      }
-    }
-    await kopyala();
+    const shared = await shareContent({ title: baslikMetin, text: metin });
+    if (!shared) await kopyala();
   };
 
   const yazdir = () => {
