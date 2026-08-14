@@ -542,6 +542,24 @@ body::before {
   margin: 0 0 0.85rem;
 }
 
+/* —— Mobil uygulama / alt menü —— */
+.app-body-pad {
+  /* alt menü + güvenli alan (yalnızca dar ekran) */
+}
+@media (max-width: 767px) {
+  .app-body-pad {
+    padding-bottom: calc(4.25rem + env(safe-area-inset-bottom, 0px));
+  }
+  html.app-native body {
+    /* status bar / çentik */
+    padding-top: env(safe-area-inset-top, 0px);
+  }
+}
+
+.app-bottom-nav {
+  box-shadow: 0 -4px 24px rgba(26, 26, 26, 0.06);
+}
+
 /* Print */
 @media print {
   body::before {
@@ -550,7 +568,8 @@ body::before {
 
   nav,
   footer,
-  .fixed {
+  .fixed,
+  .app-bottom-nav {
     display: none !important;
   }
 }

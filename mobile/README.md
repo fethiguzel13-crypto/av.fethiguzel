@@ -1,37 +1,40 @@
 # Av. Fethi Güzel — Android Uygulaması
 
-Play Store için Capacitor tabanlı uygulama. İçerik her zaman **https://avfethiguzel.com** üzerinden yüklenir (güncel mevzuat / şerh / hesaplama).
+Play Store için Capacitor tabanlı uygulama. İçerik **https://www.avfethiguzel.com** üzerinden yüklenir (güncel mevzuat / şerh / hesaplama).
 
-## Kimlik
+## Sürüm
 
 | Alan | Değer |
 |------|--------|
 | Uygulama adı | Av. Fethi Güzel |
 | Paket adı | `com.avfethiguzel.hukuk` |
-| Site | https://avfethiguzel.com |
+| Sürüm | **1.1.0** (`versionCode` 2) |
+| Site | https://www.avfethiguzel.com |
+
+## 1.1 yenilikleri
+
+- Mobil alt menü (Ana · Ara · Rehber · Hesap · Güncel)
+- Android geri tuşu: geçmiş / ana sayfa / çıkış
+- Çevrimdışı uyarı şeridi
+- Deep link: `https://www.avfethiguzel.com/...` ve `avfethiguzel://`
+- Güçlendirilmiş çevrimdışı kabuk (yeniden dene + kısayollar)
+- Safe-area (çentik / alt bar)
+- Network / Browser / Share eklentileri
 
 ## Yerel kurulum
 
 ```bash
-cd fethiguzel-app
+cd mobile
 npm install
-npm run icons
-npm run build:web
-npx cap add android
-npx cap sync android
-```
-
-Android Studio ile açma:
-
-```bash
+npm run icons          # isteğe bağlı
+npm run cap:sync
 npx cap open android
 ```
 
-Release AAB (imza gerekir):
+Release AAB (Windows):
 
 ```bash
-cd android
-./gradlew bundleRelease
+npm run build:android
 ```
 
 Çıktı: `android/app/build/outputs/bundle/release/app-release.aab`
@@ -40,6 +43,6 @@ cd android
 
 Ayrıntılı adımlar: [PLAY_STORE.md](./PLAY_STORE.md)
 
-## GitHub Actions
+## Mimari not
 
-`main` dalına push sonrası (veya workflow_dispatch) AAB artifact olarak üretilir.
+Uygulama bir WebView sarmalayıcıdır; portal Next.js sitesidir. UI iyileştirmeleri (`MobileBottomNav`, `AppNativeChrome`) sitede yaşar — `cap sync` sonrası AAB ile mağazaya gider, içerik ise anında siteden güncellenir.

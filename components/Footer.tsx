@@ -91,6 +91,18 @@ export default function Footer() {
               </div>
 
               <div>
+                <h4 className="text-cream/40 text-[10px] uppercase tracking-widest mb-3 font-bold">Mobil uygulama</h4>
+                <a
+                  href="https://play.google.com/store/apps/details?id=com.avfethiguzel.hukuk"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="inline-flex items-center gap-2 px-4 py-2.5 rounded-full bg-accent text-white text-sm font-semibold hover:bg-accent/90 transition-colors mb-6"
+                >
+                  Google Play&apos;de indir
+                </a>
+              </div>
+
+              <div>
                 <h4 className="text-cream/40 text-[10px] uppercase tracking-widest mb-3 font-bold">Sosyal Medya</h4>
                 <div className="flex flex-wrap items-center gap-3">
                   <a

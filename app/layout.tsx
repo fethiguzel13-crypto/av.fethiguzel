@@ -1,6 +1,7 @@
 import type { Metadata, Viewport } from 'next'
 import { Plus_Jakarta_Sans, Outfit, Cormorant_Garamond, IBM_Plex_Mono } from 'next/font/google'
 import SkipLink from '@/components/SkipLink'
+import AppNativeChrome from '@/components/AppNativeChrome'
 import './globals.css'
 
 const plusJakarta = Plus_Jakarta_Sans({
@@ -37,6 +38,7 @@ export const viewport: Viewport = {
   width: 'device-width',
   initialScale: 1,
   maximumScale: 5,
+  viewportFit: 'cover',
 }
 
 export const metadata: Metadata = {
@@ -396,9 +398,10 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
           dangerouslySetInnerHTML={{ __html: JSON.stringify(softwareSchema) }}
         />
       </head>
-      <body className="bg-cream text-charcoal font-sans antialiased selection:bg-accent selection:text-white min-h-screen">
+      <body className="bg-cream text-charcoal font-sans antialiased selection:bg-accent selection:text-white min-h-screen app-body-pad">
         <SkipLink />
         {children}
+        <AppNativeChrome />
       </body>
     </html>
   )

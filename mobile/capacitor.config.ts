@@ -4,35 +4,44 @@
  * never fails typecheck on Vercel (mobile deps are not installed there).
  */
 const config = {
-    appId: 'com.avfethiguzel.hukuk',
-    appName: 'Av. Fethi Güzel',
-    webDir: 'www',
-    server: {
-        // Live portal — always up to date with the website
-        url: 'https://avfethiguzel.com',
-        cleartext: false,
-        allowNavigation: [
-            'avfethiguzel.com',
-            '*.avfethiguzel.com',
-            'www.avfethiguzel.com',
-        ],
+  appId: 'com.avfethiguzel.hukuk',
+  appName: 'Av. Fethi Güzel',
+  webDir: 'www',
+  server: {
+    // Canlı portal — mevzuat/şerh her zaman güncel
+    url: 'https://www.avfethiguzel.com',
+    cleartext: false,
+    allowNavigation: [
+      'avfethiguzel.com',
+      '*.avfethiguzel.com',
+      'www.avfethiguzel.com',
+      // Harita / mağaza dış bağlantıları
+      'maps.google.com',
+      '*.google.com',
+      'play.google.com',
+    ],
+  },
+  plugins: {
+    SplashScreen: {
+      launchShowDuration: 900,
+      launchAutoHide: true,
+      backgroundColor: '#2E4036',
+      showSpinner: false,
+      androidSplashResourceName: 'splash',
+      splashFullScreen: true,
+      splashImmersive: true,
     },
-    plugins: {
-        SplashScreen: {
-            launchShowDuration: 1200,
-            backgroundColor: '#2E4036',
-            showSpinner: false,
-            launchAutoHide: true,
-        },
-        StatusBar: {
-            style: 'DARK',
-            backgroundColor: '#2E4036',
-        },
+    StatusBar: {
+      style: 'DARK',
+      backgroundColor: '#2E4036',
     },
-    android: {
-        allowMixedContent: false,
-        backgroundColor: '#F2F0E9',
-    },
+  },
+  android: {
+    allowMixedContent: false,
+    backgroundColor: '#F2F0E9',
+    // WebView geri tuşu / gezinme
+    webContentsDebuggingEnabled: false,
+  },
 };
 
 export default config as const;
