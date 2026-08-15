@@ -196,6 +196,26 @@ async function main() {
 
     log(`spawn archive-yargitay.mjs ${args.join(" ")}`, opts.logFile);
     const result = await runArchive(args, opts.logFile);
+
+    // Bakanlık getDokuman kapalıysa indirme turunu boşuna çevirme — bekle, sonra tekrar dene
+    if (
+      result.out &&
+      /endpoint-down|getDokuman API kapalı/i.test(result.out)
+    ) {
+      const waitMs = opts.budgetWaitMs ?? 30 * 60 * 1000; // 30 dk
+      log(
+        `getDokuman endpoint-down detected — waiting ${(waitMs / 60000).toFixed(0)} min before retry (search queue preserved)`,
+        opts.logFile
+      );
+      if (opts.once) {
+        log("once=true and endpoint-down — exit 3 (resume later)", opts.logFile);
+        process.exit(3);
+      }
+      await sleep(waitMs);
+      consecutiveErrors = 0;
+      continue;
+    }
+
     if (result.code !== 0) {
       consecutiveErrors++;
       const backoff = Math.min(

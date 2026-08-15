@@ -120,6 +120,20 @@ async function apiSearch({ kurul, hukuk, ceza, keyword, startTr, endTr, pageSize
   return { error: null, items, total: json.data.recordsTotal ?? items.length };
 }
 
+function isMinistryEndpointDownPage(raw) {
+  if (!raw || typeof raw !== "string") return false;
+  // Adalet Bakanlığı generic 404 shell when getDokuman is offline
+  if (/mevcut de[gğ]ildir|böyle bir i[cç]erik/i.test(raw)) return true;
+  if (
+    /Adalet Bakanl[ıi][gğ][ıi] Bilgi [İI][sş]lem/i.test(raw) &&
+    /<!doctype html/i.test(raw) &&
+    !/"data"\s*:/.test(raw)
+  ) {
+    return true;
+  }
+  return false;
+}
+
 async function fetchFullText(id) {
   const resp = await fetch(`${BASE}/getDokuman?id=${id}`, {
     headers: {
@@ -130,7 +144,22 @@ async function fetchFullText(id) {
     },
   });
   if (!resp.ok) return { error: `HTTP ${resp.status}` };
-  const json = await resp.json().catch(() => null);
+  const raw = await resp.text();
+  if (isMinistryEndpointDownPage(raw)) {
+    return {
+      error: "endpoint-down",
+      detail:
+        "getDokuman bakanlık 404 sayfası dönüyor (tam metin API geçici kapalı)",
+    };
+  }
+  let json = null;
+  try {
+    json = JSON.parse(raw);
+  } catch {
+    // HTML/unexpected body
+    if (raw.length < 80) return { error: "empty-or-short", text: raw };
+    return { error: "non-json-body", detail: raw.slice(0, 120) };
+  }
   const html = json?.data || "";
   const text = stripHtml(html);
   if (!text || text.length < 80) return { error: "empty-or-short", text };
@@ -586,8 +615,19 @@ async function main() {
         log(`Tam metin [p${item.priority ?? "?"}/${item.tierId}]: ${item.kunye}`);
         try {
           const doc = await fetchFullText(item.id);
+          if (doc.error === "endpoint-down") {
+            // Bakanlık getDokuman kapalı — kuyruğu yakma, öğeyi geri koy ve indirmeyi kes
+            log(`  Hata: ${doc.error} — ${doc.detail || ""}`);
+            log(
+              "  getDokuman API kapalı görünüyor; kuyruk korunuyor, tam metin turu durduruluyor."
+            );
+            queue.unshift(item);
+            saveQueueJsonl(paths.queue, queue);
+            saveJson(paths.progress, progress);
+            break;
+          }
           if (doc.error) {
-            log(`  Hata: ${doc.error}`);
+            log(`  Hata: ${doc.error}${doc.detail ? " " + doc.detail : ""}`);
             progress.failedIds[item.id] = {
               at: new Date().toISOString(),
               error: doc.error,
