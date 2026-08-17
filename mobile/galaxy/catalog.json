@@ -3,12 +3,53 @@
   "brand": "Av. Fethi Güzel",
   "site": "https://www.avfethiguzel.com",
   "scheme": "avfethiguzel",
-  "localeOrder": ["tr", "en", "de", "fr", "ar"],
+  "localeOrder": [
+    "tr",
+    "en",
+    "de",
+    "fr",
+    "ar"
+  ],
   "defaultLocale": "tr",
-  "_note": "Sekmeler app-src/src/lib/nav.ts içinde tanımlıdır; her uygulama yalnız kendi içeriğinde gezinir. Derin bağlantı yolları scripts/build-flavor.mjs → LINK_PATHS.",
+  "_note": "Sekmeler app-src/src/lib/nav.ts içinde tanımlıdır. Derin bağlantı yolları scripts/build-flavor.mjs → LINK_PATHS.",
+  "_yayinNotu": "17.08.2026: dört ayrı uygulama tek uygulamada birleştirildi. Gerekçe: Play'in yeni geliştirici hesaplarına dayattığı 12 test kullanıcısı × 14 gün kapalı test şartı HER UYGULAMA için ayrı işliyor — dört uygulama dört ayrı kapalı test demekti. Ayrıca tek işlevli 'Hukuki Hesap' Play'in Minimum Functionality politikasına yakın duruyordu. Birleşme, dört uygulamanın ayrı tutulma gerekçesi olan Repetitive Content riskini de tamamen ortadan kaldırır. Eski dört kayıt published:false ile duruyor; kod ve derleme yolları çalışır durumda, yalnız yayınlanmıyorlar.",
   "apps": [
     {
+      "id": "asistan",
+      "packageId": "com.avfethiguzel.hesap",
+      "_packageNote": "Play Console'da bu paket adıyla bir kayıt zaten açılmıştı ('Hukuki Hesap'). Paket adı sonradan DEĞİŞTİRİLEMEZ ama kullanıcıya hiç görünmez; mağaza girişi ve dahili test hazır olduğu için yeni kayıt açmak yerine o kayıt kullanılır. Mağazadaki görünen ad name.tr'dir.",
+      "versionName": "1.0.0",
+      "versionCode": 2,
+      "_versionNote": "Dahili teste versionCode 1 yüklenmişti; Play aynı kodu ikinci kez kabul etmez.",
+      "published": true,
+      "name": {
+        "tr": "Av. Fethi Güzel Hukuk Asistanı",
+        "en": "Turkish Law Assistant",
+        "de": "Türkisches Rechts-Assistent",
+        "fr": "Assistant Juridique Turc",
+        "ar": "المساعد القانوني التركي"
+      },
+      "short": {
+        "tr": "Mevzuat, hesaplama, içtihat ve rehber — tek uygulamada, çevrimdışı.",
+        "en": "Statutes, calculators, case law and guides — one app, offline.",
+        "de": "Gesetze, Rechner, Rechtsprechung und Leitfäden — offline.",
+        "fr": "Textes, calculateurs, jurisprudence et guides — hors ligne.",
+        "ar": "تشريعات وحاسبات واجتهاد وأدلة — دون إنترنت."
+      },
+      "path": "/",
+      "accent": "#2E4036",
+      "role": "suite",
+      "offline": "full",
+      "needsNetwork": true,
+      "assets": [
+        "packs",
+        "icthat",
+        "rehber"
+      ]
+    },
+    {
       "id": "portal",
+      "published": false,
       "packageId": "com.avfethiguzel.hukuk",
       "versionName": "2.0.0",
       "versionCode": 4,
@@ -31,10 +72,14 @@
       "accent": "#2E4036",
       "role": "reference",
       "offline": "full",
-      "needsNetwork": false
+      "needsNetwork": false,
+      "assets": [
+        "packs"
+      ]
     },
     {
       "id": "hesap",
+      "published": false,
       "packageId": "com.avfethiguzel.hesap",
       "versionName": "1.0.0",
       "versionCode": 1,
@@ -56,10 +101,12 @@
       "accent": "#CC5833",
       "role": "tool",
       "offline": "full",
-      "needsNetwork": false
+      "needsNetwork": false,
+      "assets": []
     },
     {
       "id": "icthat",
+      "published": false,
       "packageId": "com.avfethiguzel.icthat",
       "versionName": "1.0.0",
       "versionCode": 1,
@@ -81,10 +128,14 @@
       "accent": "#1B4F72",
       "role": "research",
       "offline": "cache",
-      "needsNetwork": true
+      "needsNetwork": true,
+      "assets": [
+        "icthat"
+      ]
     },
     {
       "id": "rehber",
+      "published": false,
       "packageId": "com.avfethiguzel.rehber",
       "versionName": "1.0.0",
       "versionCode": 1,
@@ -106,7 +157,11 @@
       "accent": "#6B4F3A",
       "role": "citizen",
       "offline": "full",
-      "needsNetwork": false
+      "needsNetwork": false,
+      "assets": [
+        "rehber"
+      ]
     }
-  ]
+  ],
+  "_assetsNotu": "assets = uygulamanın çevrimdışı taşıdığı veri kümeleri. TEK KAYNAK: build-app.mjs bunları app-src/public altına kopyalar, verify-release.mjs aynı listeden beklenen dosyaları türetir. Ayrı listeler tutulursa bir uygulamaya veri eklenip denetim atlanabilir."
 }

@@ -1,0 +1,17 @@
+{
+  "projectId": "de742371-a914-4849-a0fd-88ebeb25f6ab",
+  "targetUrl": "https://www.avfethiguzel.com",
+  "name": "avfethiguzel-portal",
+  "tests": {
+    "home": "3dff522d-bc52-4f0b-b203-84875494e6c0",
+    "search": "7bf5c2bb-001e-4e23-bdce-925baf22a104",
+    "mevzuatTbk1": "d0671345-d41f-4910-b77f-ca90700f33cc",
+    "mevzuatIndex": "e6fe2b58-fe7d-4316-be92-3de5120de4ac",
+    "hesaplama": "47ba43dc-d0ec-42cf-90d1-2c5bbc3de750"
+  },
+  "smokeTestIds": [
+    "3dff522d-bc52-4f0b-b203-84875494e6c0",
+    "7bf5c2bb-001e-4e23-bdce-925baf22a104",
+    "d0671345-d41f-4910-b77f-ca90700f33cc"
+  ]
+}

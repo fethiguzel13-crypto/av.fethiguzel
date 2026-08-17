@@ -1,0 +1,21 @@
+{
+  "projectId": "de742371-a914-4849-a0fd-88ebeb25f6ab",
+  "type": "frontend",
+  "name": "Mevzuat — TBK Madde 1 içeriği",
+  "description": "TBK madde-1 sayfası açılır ve madde metni veya başlık görünür.",
+  "priority": "p0",
+  "planSteps": [
+    {
+      "type": "action",
+      "description": "Navigate to https://www.avfethiguzel.com/mevzuat/tbk/madde-1"
+    },
+    {
+      "type": "assertion",
+      "description": "The page body or heading contains 'Madde' or 'TBK' or 'Borçlar'"
+    },
+    {
+      "type": "assertion",
+      "description": "Visible article/content text longer than a short title is present (not only a 404 or error message)"
+    }
+  ]
+}

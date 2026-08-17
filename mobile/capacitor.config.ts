@@ -1,17 +1,17 @@
 /**
- * OTOMATİK ÜRETİLDİ — scripts/build-flavor.mjs (flavor: icthat)
+ * OTOMATİK ÜRETİLDİ — scripts/build-flavor.mjs (flavor: asistan)
  * Elle düzenlemeyin; yeniden üretmek için:
- *   node scripts/build-flavor.mjs --app=icthat
+ *   node scripts/build-flavor.mjs --app=asistan
  */
 const config = {
-  "appId": "com.avfethiguzel.icthat",
-  "appName": "İçtihat Günü",
+  "appId": "com.avfethiguzel.hesap",
+  "appName": "Av. Fethi Güzel Hukuk Asistanı",
   "webDir": "www",
   "plugins": {
     "SplashScreen": {
       "launchShowDuration": 600,
       "launchAutoHide": false,
-      "backgroundColor": "#1B4F72",
+      "backgroundColor": "#2E4036",
       "showSpinner": false,
       "androidSplashResourceName": "splash",
       "splashFullScreen": false,
@@ -19,12 +19,12 @@ const config = {
     },
     "StatusBar": {
       "style": "DARK",
-      "backgroundColor": "#1B4F72",
+      "backgroundColor": "#2E4036",
       "overlaysWebView": false
     },
     "LocalNotifications": {
       "smallIcon": "ic_stat_notify",
-      "iconColor": "#1B4F72"
+      "iconColor": "#2E4036"
     }
   },
   "android": {

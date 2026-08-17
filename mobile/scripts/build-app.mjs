@@ -11,7 +11,8 @@
  * uygulama çıkar — her biri kendi içeriğini ve rengini taşır.
  */
 import { execFileSync } from 'node:child_process';
-import { existsSync, readdirSync, statSync, rmSync, mkdirSync, cpSync } from 'node:fs';
+import { existsSync, readdirSync, readFileSync, statSync, rmSync, mkdirSync, cpSync } from 'node:fs';
+import { gunzipSync } from 'node:zlib';
 import { join, dirname } from 'node:path';
 import { fileURLToPath } from 'node:url';
 
@@ -23,8 +24,19 @@ const args = process.argv.slice(2);
 const appArg = (args.find((a) => a.startsWith('--app=')) || '--app=all').split('=')[1];
 const devPrepare = args.includes('--dev-prepare');
 
-const APPS = ['portal', 'hesap', 'icthat', 'rehber'];
-const targets = appArg === 'all' ? APPS : [appArg];
+const catalog = JSON.parse(readFileSync(join(mobile, 'galaxy', 'catalog.json'), 'utf8'));
+
+/**
+ * Derlenebilir tüm uygulamalar ve `--app=all`'ın anlamı.
+ *
+ * Dört ayrı uygulama `asistan` içinde birleştirildi. Eskiler katalogda
+ * `published:false` ile duruyor: adıyla istenirse hâlâ derlenirler (geçmişi
+ * kurtarmak ya da karşılaştırmak için), ama `all` yalnız YAYINDA olanları
+ * derler — yoksa CI her seferinde yayınlanmayacak dört arayüzü de üretirdi.
+ */
+const APPS = catalog.apps.map((a) => a.id);
+const PUBLISHED = catalog.apps.filter((a) => a.published === true).map((a) => a.id);
+const targets = appArg === 'all' ? PUBLISHED : [appArg];
 
 for (const t of targets) {
   if (!APPS.includes(t)) {
@@ -70,12 +82,53 @@ if (!existsSync(join(dataSrc, 'packs', 'manifest.json'))) {
  * Mevzuat paketi 2,9 MB; hesap ve rehber uygulamalarının ona ihtiyacı yok.
  * İçtihat tohumu da yalnız içtihat uygulamasına girer.
  */
-const ASSETS = {
-  portal: ['packs'],
-  icthat: ['icthat'],
-  rehber: ['rehber'],
-  hesap: [],
-};
+/**
+ * Hangi uygulama hangi varlığı taşır — KATALOGDAN okunur.
+ *
+ * Mevzuat paketi 2,9 MB; eski `hesap` uygulamasının ona ihtiyacı yoktu.
+ * Birleşik uygulama üçünü de taşır. Liste burada değil katalogda durur,
+ * çünkü verify-release.mjs da aynı listeden beklenen dosyaları türetiyor.
+ */
+const ASSETS = Object.fromEntries(catalog.apps.map((a) => [a.id, a.assets ?? []]));
+
+/**
+ * Giriş ekranındaki sayılar — derleme anında GERÇEK veriden okunur.
+ *
+ * Elle yazılan sayı kaçınılmaz olarak kayar: külliyat büyür, rehber eklenir,
+ * arşiv her gün genişler. Burada üretilen değerler `__GALAXY_STATS__` olarak
+ * arayüze enjekte edilir, böylece ekrandaki rakam her derlemede kendini
+ * günceller ve hiçbir zaman uydurma olmaz.
+ */
+function computeStats(staged) {
+  const stats = {};
+
+  const manifest = join(dataSrc, 'packs', 'manifest.json');
+  if (staged.includes('packs') && existsSync(manifest)) {
+    const m = JSON.parse(readFileSync(manifest, 'utf8'));
+    stats.laws = Array.isArray(m.packs) ? m.packs.length : 0;
+    stats.articles = m.totalArticles ?? 0;
+  }
+
+  const guides = join(dataSrc, 'rehber', 'guides.json.gz');
+  if (staged.includes('rehber') && existsSync(guides)) {
+    const list = JSON.parse(gunzipSync(readFileSync(guides)).toString());
+    stats.guides = Array.isArray(list) ? list.length : 0;
+  }
+
+  const archive = join(dataSrc, 'icthat', 'archive.json.gz');
+  if (staged.includes('icthat') && existsSync(archive)) {
+    const list = JSON.parse(gunzipSync(readFileSync(archive)).toString());
+    stats.decisions = Array.isArray(list) ? list.length : 0;
+  }
+
+  // Hesaplama araçları portalın kaynağında tanımlı; sayı oradan sayılır.
+  const meta = join(portal, 'lib', 'hesaplama-meta.ts');
+  if (existsSync(meta)) {
+    stats.tools = (readFileSync(meta, 'utf8').match(/^\s{8}id: '/gm) || []).length;
+  }
+
+  return stats;
+}
 
 /** Seçilen uygulamanın varlıklarını app-src/public'e yerleştirir. */
 function stageAssets(app) {
@@ -111,6 +164,7 @@ for (const app of targets) {
   run('npx', ['vite', 'build', '--config', 'vite.config.mjs'], {
     GALAXY_APP: app,
     GALAXY_BUILT_AT: builtAt,
+    GALAXY_STATS: JSON.stringify(computeStats(ASSETS[app] ?? [])),
     NODE_ENV: 'production',
   });
 

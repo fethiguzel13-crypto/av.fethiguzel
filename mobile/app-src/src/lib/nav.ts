@@ -17,6 +17,22 @@ export type Tab = {
 };
 
 const TABS: Record<GalaxyAppId, Tab[]> = {
+  /**
+   * Birleşik uygulama — dört bölüm tek kabukta.
+   *
+   * Bölümlerin iç yolları birbirine karışmaz: dört uygulamanın rota
+   * kümeleri zaten ayrıktı (`/arac/:id`, `/mevzuat/:kanun`, `/arsiv`,
+   * `/kategori/:cat` …). Yalnız her birinin ana sayfası `/` idi; burada
+   * her bölüme kendi kökü verildi ve `/` bölümleri tanıtan giriş
+   * ekranına ayrıldı.
+   */
+  asistan: [
+    { id: 'home', path: '/', label: 'Ana', icon: 'apps' },
+    { id: 'laws', path: '/mevzuat', label: 'Mevzuat', icon: 'scale' },
+    { id: 'tools', path: '/hesap', label: 'Hesap', icon: 'calc' },
+    { id: 'cases', path: '/icthat', label: 'İçtihat', icon: 'today' },
+    { id: 'guides', path: '/rehber', label: 'Rehber', icon: 'book' },
+  ],
   hesap: [
     { id: 'tools', path: '/', label: 'Araçlar', icon: 'calc' },
     { id: 'fav', path: '/favoriler', label: 'Favoriler', icon: 'star' },
@@ -43,10 +59,47 @@ const TABS: Record<GalaxyAppId, Tab[]> = {
   ],
 };
 
-export const APP_TABS: Tab[] = TABS[APP_ID] ?? TABS.portal;
+export const APP_TABS: Tab[] = TABS[APP_ID] ?? TABS.asistan;
+
+/**
+ * Birleşik uygulamada hangi yol hangi bölüme ait.
+ *
+ * TEK KAYNAK: hem alt gezinmedeki etkin sekmeyi hem `AsistanApp`'in hangi
+ * bölüm bileşenini göstereceğini bu tablo belirler. İkisi ayrı listeler
+ * tutarsa, bir bölüme yeni yol eklendiğinde sekme yanlış yerde parlar ya da
+ * sayfa hiç açılmaz.
+ *
+ * Bölümlerin ana sayfası dışındaki yolları, dört uygulama ayrıyken de
+ * benzersizdi; bu yüzden önek çakışması yok. `/diger` ve `/ayarlar` bilinçli
+ * olarak listede değil — onlar bölüme değil kabuğa aittir.
+ */
+export const SECTION_PATHS: Record<string, string[]> = {
+  laws: ['/mevzuat', '/ara', '/indirilenler'],
+  tools: ['/hesap', '/arac', '/favoriler', '/gecmis'],
+  cases: ['/icthat', '/karar', '/arsiv', '/takip'],
+  guides: ['/rehber', '/kategori', '/kategoriler', '/kaydettiklerim'],
+};
+
+/** Yol bu önekin kendisi mi, yoksa altında mı? (`/kategoriler` ≠ `/kategori`) */
+function under(path: string, prefix: string): boolean {
+  return path === prefix || path.startsWith(`${prefix}/`);
+}
+
+/** Verilen yol hangi bölüme ait? Bölüm dışı yollarda null. */
+export function sectionOf(path: string): string | null {
+  for (const [section, paths] of Object.entries(SECTION_PATHS)) {
+    if (paths.some((p) => under(path, p))) return section;
+  }
+  return null;
+}
 
 /** Verilen yol hangi sekmeye ait? En uzun eşleşen önek kazanır. */
 export function activeTabId(path: string): string {
+  // Birleşik uygulamada sekme kimliği bölüm kimliğiyle aynıdır; böylece
+  // `/arac/5` gibi alt yollar da kendi sekmesini işaretler.
+  const section = sectionOf(path);
+  if (section && APP_TABS.some((t) => t.id === section)) return section;
+
   let best = APP_TABS[0]?.id ?? '';
   let bestLen = -1;
   for (const t of APP_TABS) {
@@ -57,7 +110,7 @@ export function activeTabId(path: string): string {
       }
       continue;
     }
-    if ((path === t.path || path.startsWith(`${t.path}/`)) && t.path.length > bestLen) {
+    if (under(path, t.path) && t.path.length > bestLen) {
       best = t.id;
       bestLen = t.path.length;
     }

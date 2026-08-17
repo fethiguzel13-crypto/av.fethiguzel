@@ -57,6 +57,18 @@ const SCHEME = catalog.scheme || 'avfethiguzel';
  * bölümünü doğrular.
  */
 const LINK_PATHS = {
+  // Birleşik uygulama dört bölümün de yollarını sahiplenir. Artık tek
+  // uygulama olduğu için "hangi uygulama açılsın?" sorusu doğmaz.
+  asistan: [
+    '/mevzuat',
+    '/ara',
+    '/kavram',
+    '/hesaplama',
+    '/icthat',
+    '/yargi-kararlari',
+    '/bilgi',
+    '/rehber',
+  ],
   portal: ['/mevzuat', '/ara', '/kavram'],
   hesap: ['/hesaplama'],
   icthat: ['/icthat', '/yargi-kararlari'],

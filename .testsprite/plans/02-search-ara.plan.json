@@ -1,0 +1,25 @@
+{
+  "projectId": "de742371-a914-4849-a0fd-88ebeb25f6ab",
+  "type": "frontend",
+  "name": "Arama — /ara sayfası ve sorgu sonucu",
+  "description": "Site arama sayfası açılır; borçlar sorgusu sonuç veya boş durum gösterir.",
+  "priority": "p0",
+  "planSteps": [
+    {
+      "type": "action",
+      "description": "Navigate to https://www.avfethiguzel.com/ara"
+    },
+    {
+      "type": "assertion",
+      "description": "A search input field or search form is visible on the page"
+    },
+    {
+      "type": "action",
+      "description": "If a search box is present, type 'borçlar' and submit the search (press Enter or click search)"
+    },
+    {
+      "type": "assertion",
+      "description": "After search, the URL contains 'ara' or 'q=' OR the page shows at least one result link/card OR a visible empty-state message about no results"
+    }
+  ]
+}

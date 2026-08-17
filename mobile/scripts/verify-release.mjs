@@ -157,11 +157,36 @@ function checkFlavor(app) {
   }
 }
 
+/**
+ * Bir varlık kümesinin varlığını KANITLAYAN dosyalar.
+ *
+ * Hangi uygulamanın hangi kümeyi taşıdığı katalogdaki `assets` alanından
+ * gelir — build-app.mjs de aynı alandan okur. Burada ayrı bir uygulama
+ * listesi tutulmuyordu ve `asistan` eklendiğinde `expectedAssets` onu
+ * tanımadığı için çevrimdışı içerik denetimi SESSİZCE atlandı; içeriği
+ * eksik bir sürüm kapıdan geçebilirdi.
+ */
+const ASSET_SENTINELS = {
+  packs: ['packs/manifest.json'],
+  icthat: ['icthat/seed.json', 'icthat/archive.json.gz'],
+  rehber: ['rehber/guides.json.gz'],
+};
+
 function expectedAssets(id) {
-  if (id === 'portal') return ['packs/manifest.json'];
-  if (id === 'icthat') return ['icthat/seed.json', 'icthat/archive.json.gz'];
-  if (id === 'rehber') return ['rehber/guides.json.gz'];
-  return []; // hesap tamamen kod içinde
+  const app = catalog.apps.find((a) => a.id === id);
+  if (!app) return [];
+  if (!Array.isArray(app.assets)) {
+    warn(`${id}: katalogda 'assets' alanı yok — çevrimdışı içerik denetlenemiyor`);
+    return [];
+  }
+  return app.assets.flatMap((name) => {
+    const files = ASSET_SENTINELS[name];
+    if (!files) {
+      warn(`${id}: bilinmeyen varlık kümesi '${name}' — verify-release tanımıyor`);
+      return [];
+    }
+    return files;
+  });
 }
 
 // ─── 3. Aktif flavor Android'e yazılmış mı? ──────────────────────────────────
@@ -208,17 +233,49 @@ function checkActiveIdentity() {
 
 // ─── 4. Uygulamalar birbirinden ayrı mı? ─────────────────────────────────────
 
+/**
+ * Bu bölümün tamamı YALNIZ yayınlanan uygulamalar için anlamlıdır.
+ *
+ * Dört uygulama `asistan` içinde birleştirildikten sonra eskiler katalogda
+ * `published:false` ile duruyor ve `asistan`, Play Console'da kaydı zaten
+ * açılmış olan `com.avfethiguzel.hesap` paket adını devraldı. Katalogun
+ * tamamı denetlenirse bu devir "yinelenen packageId" diye raporlanır —
+ * oysa aynı anda yayında iki uygulama yok. Play'e giden ne ise denetlenen
+ * de o olmalı.
+ */
+function publishedApps() {
+  return catalog.apps.filter((a) => a.published === true);
+}
+
 function checkDistinctness() {
-  const ids = new Set(catalog.apps.map((a) => a.packageId));
-  if (ids.size !== catalog.apps.length) fail('katalogda yinelenen packageId var');
+  const apps = publishedApps();
+
+  if (!apps.length) {
+    fail('katalogda yayınlanan uygulama yok (published:true bekleniyor)');
+    return;
+  }
+
+  // Tek uygulama yayınlanıyorsa "birbirinden ayrı mı" sorusu düşer; Play'in
+  // Repetitive Content değerlendirmesi zaten uygulamalar ARASINDA çalışır.
+  if (apps.length === 1) {
+    ok(`tek uygulama yayınlanıyor: ${apps[0].id} (${apps[0].packageId})`);
+    const icon = join(root, 'assets', 'icons', `${apps[0].id}-512.png`);
+    if (!existsSync(icon)) {
+      warn(`${apps[0].id}: simge yok (assets/icons/${apps[0].id}-512.png) — npm run icons`);
+    } else ok('uygulama simgesi yerinde');
+    return;
+  }
+
+  const ids = new Set(apps.map((a) => a.packageId));
+  if (ids.size !== apps.length) fail('yayınlanan uygulamalarda yinelenen packageId var');
   else ok('paket adları benzersiz');
 
-  const accents = new Set(catalog.apps.map((a) => a.accent));
-  if (accents.size !== catalog.apps.length) warn('iki uygulama aynı vurgu rengini kullanıyor');
+  const accents = new Set(apps.map((a) => a.accent));
+  if (accents.size !== apps.length) warn('iki uygulama aynı vurgu rengini kullanıyor');
 
   // Simge dosyaları farklı mı? (Play "Repetitive Content" için görünür kanıt)
   const hashes = new Map();
-  for (const app of catalog.apps) {
+  for (const app of apps) {
     const icon = join(root, 'assets', 'icons', `${app.id}-512.png`);
     if (!existsSync(icon)) {
       warn(`${app.id}: özgün simge yok (assets/icons/${app.id}-512.png) — npm run icons`);
@@ -230,16 +287,16 @@ function checkDistinctness() {
     }
     hashes.set(h, app.id);
   }
-  if (hashes.size === catalog.apps.length) ok('her uygulamanın simgesi farklı');
+  if (hashes.size === apps.length) ok('her uygulamanın simgesi farklı');
 
   // Arayüz gerçekten farklı mı?
   //
-  // Ortak satıcı parçaları (react, lucide) dört uygulamada da birebir aynıdır
+  // Ortak satıcı parçaları (react, lucide) her uygulamada birebir aynıdır
   // ve öyle olmalıdır; onları karşılaştırmak her seferinde yanlış alarm verir.
   // Ölçülen şey uygulamaya özgü kod: satıcı olmayan parçaların birleşimi.
   const VENDOR = /^(react|icons|vendor)-/;
   const bundleHashes = new Map();
-  for (const app of catalog.apps) {
+  for (const app of apps) {
     const dir = join(root, 'flavors', app.id, 'www', 'assets');
     if (!existsSync(dir)) continue;
     const own = readdirSync(dir)
@@ -256,8 +313,8 @@ function checkDistinctness() {
     }
     bundleHashes.set(digest, app.id);
   }
-  if (bundleHashes.size === catalog.apps.length) {
-    ok('dört uygulamanın kodu da birbirinden farklı');
+  if (bundleHashes.size === apps.length) {
+    ok('yayınlanan uygulamaların kodu birbirinden farklı');
   }
 }
 
@@ -277,8 +334,11 @@ function checkAssetLinks() {
     return;
   }
 
+  // Yalnız yayınlanan paketler zorunlu: yayında olmayan bir uygulamanın
+  // App Links kaydını aramak, birleşmeden sonra kalıcı yanlış alarm üretirdi.
+  const apps = publishedApps();
   const declared = new Set(links.map((l) => l?.target?.package_name).filter(Boolean));
-  for (const app of catalog.apps) {
+  for (const app of apps) {
     if (!declared.has(app.packageId)) {
       fail(`assetlinks.json ${app.packageId} paketini tanımlamıyor`);
     }
@@ -298,8 +358,8 @@ function checkAssetLinks() {
         'App Links ilk yüklemeden sonra Play Console → Uygulama bütünlüğü → ' +
         'Uygulama imzalama anahtarı sertifikası SHA-256 ile tamamlanmalı'
     );
-  } else if (declared.size >= catalog.apps.length) {
-    ok('assetlinks.json dört paketi de gerçek parmak iziyle tanımlıyor');
+  } else if (apps.every((a) => declared.has(a.packageId))) {
+    ok('assetlinks.json yayınlanan paketleri gerçek parmak iziyle tanımlıyor');
   }
 }
 
@@ -332,13 +392,15 @@ checkAndroidModule();
 console.log('── flavor kimlikleri');
 const active = checkActiveIdentity();
 
+// `--all` yayınlanan uygulamaları gezer; yayınlanmayan bir eskiyi denetlemek
+// istersen adıyla iste (`--app=portal`).
 const scope = all
-  ? catalog.apps
+  ? publishedApps()
   : only
     ? catalog.apps.filter((a) => a.id === only)
     : active
       ? [active]
-      : catalog.apps;
+      : publishedApps();
 
 for (const app of scope) {
   checkFlavor(app);

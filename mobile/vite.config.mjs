@@ -12,6 +12,8 @@ const portal = resolve(here, '..');
 
 /** Flavor kimliği → uygulama kökü dosyası */
 const ROOTS = {
+  // Birleşik uygulama: dört bölümü tek kabukta barındırır.
+  asistan: 'AsistanApp.tsx',
   portal: 'PortalApp.tsx',
   hesap: 'HesapApp.tsx',
   icthat: 'IcthatApp.tsx',
@@ -50,6 +52,8 @@ export default defineConfig(() => {
     define: {
       __GALAXY_APP__: JSON.stringify(app),
       __GALAXY_BUILT_AT__: JSON.stringify(process.env.GALAXY_BUILT_AT || ''),
+      // Giriş ekranındaki sayılar; build-app.mjs gerçek veriden hesaplar.
+      __GALAXY_STATS__: process.env.GALAXY_STATS || '{}',
       'process.env.NODE_ENV': JSON.stringify(process.env.NODE_ENV || 'production'),
     },
     resolve: {

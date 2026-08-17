@@ -1,0 +1,21 @@
+{
+  "projectId": "de742371-a914-4849-a0fd-88ebeb25f6ab",
+  "type": "frontend",
+  "name": "Ana sayfa — yüklenir ve marka görünür",
+  "description": "Canlı sitede ana sayfa açılır; Fethi Güzel / hukuk portalı kimliği ve ana navigasyon görünür.",
+  "priority": "p0",
+  "planSteps": [
+    {
+      "type": "action",
+      "description": "Navigate to https://www.avfethiguzel.com/"
+    },
+    {
+      "type": "assertion",
+      "description": "The page title or visible heading contains 'Fethi' or 'Güzel' or 'Av.'"
+    },
+    {
+      "type": "assertion",
+      "description": "A navigation link or button to Mevzuat (/mevzuat) or Arama (/ara) is visible on the page"
+    }
+  ]
+}

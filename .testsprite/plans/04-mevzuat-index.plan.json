@@ -1,0 +1,17 @@
+{
+  "projectId": "de742371-a914-4849-a0fd-88ebeb25f6ab",
+  "type": "frontend",
+  "name": "Mevzuat indeksi — kanun listesi",
+  "description": "/mevzuat ana listesi açılır ve en az bir kanun bağlantısı görünür.",
+  "priority": "p1",
+  "planSteps": [
+    {
+      "type": "action",
+      "description": "Navigate to https://www.avfethiguzel.com/mevzuat"
+    },
+    {
+      "type": "assertion",
+      "description": "The page shows 'Mevzuat' or similar heading and at least one link containing 'tbk' or 'tmk' or 'kanun' or a law name"
+    }
+  ]
+}

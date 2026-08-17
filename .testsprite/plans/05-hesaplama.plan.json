@@ -1,0 +1,17 @@
+{
+  "projectId": "de742371-a914-4849-a0fd-88ebeb25f6ab",
+  "type": "frontend",
+  "name": "Hesaplama — araç listesi",
+  "description": "/hesaplama sayfası açılır ve en az bir hesaplama aracı bağlantısı görünür.",
+  "priority": "p1",
+  "planSteps": [
+    {
+      "type": "action",
+      "description": "Navigate to https://www.avfethiguzel.com/hesaplama"
+    },
+    {
+      "type": "assertion",
+      "description": "The page heading or title relates to hesaplama and at least one clickable tool/card/link is visible"
+    }
+  ]
+}

@@ -37,23 +37,35 @@
             </intent-filter>
 
             <!-- GALAXY:DEEPLINKS:START -->
-            <!-- ÜRETİLDİ: icthat — sahiplenilen yollar: /icthat, /yargi-kararlari -->
+            <!-- ÜRETİLDİ: asistan — sahiplenilen yollar: /mevzuat, /ara, /kavram, /hesaplama, /icthat, /yargi-kararlari, /bilgi, /rehber -->
             <intent-filter android:autoVerify="true">
                 <action android:name="android.intent.action.VIEW" />
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.BROWSABLE" />
+                <data android:scheme="https" android:host="www.avfethiguzel.com" android:pathPrefix="/mevzuat" />
+                <data android:scheme="https" android:host="www.avfethiguzel.com" android:pathPrefix="/ara" />
+                <data android:scheme="https" android:host="www.avfethiguzel.com" android:pathPrefix="/kavram" />
+                <data android:scheme="https" android:host="www.avfethiguzel.com" android:pathPrefix="/hesaplama" />
                 <data android:scheme="https" android:host="www.avfethiguzel.com" android:pathPrefix="/icthat" />
                 <data android:scheme="https" android:host="www.avfethiguzel.com" android:pathPrefix="/yargi-kararlari" />
+                <data android:scheme="https" android:host="www.avfethiguzel.com" android:pathPrefix="/bilgi" />
+                <data android:scheme="https" android:host="www.avfethiguzel.com" android:pathPrefix="/rehber" />
+                <data android:scheme="https" android:host="avfethiguzel.com" android:pathPrefix="/mevzuat" />
+                <data android:scheme="https" android:host="avfethiguzel.com" android:pathPrefix="/ara" />
+                <data android:scheme="https" android:host="avfethiguzel.com" android:pathPrefix="/kavram" />
+                <data android:scheme="https" android:host="avfethiguzel.com" android:pathPrefix="/hesaplama" />
                 <data android:scheme="https" android:host="avfethiguzel.com" android:pathPrefix="/icthat" />
                 <data android:scheme="https" android:host="avfethiguzel.com" android:pathPrefix="/yargi-kararlari" />
+                <data android:scheme="https" android:host="avfethiguzel.com" android:pathPrefix="/bilgi" />
+                <data android:scheme="https" android:host="avfethiguzel.com" android:pathPrefix="/rehber" />
             </intent-filter>
 
-            <!-- Uygulamaya özel şema: avfethiguzel-icthat://… -->
+            <!-- Uygulamaya özel şema: avfethiguzel-asistan://… -->
             <intent-filter>
                 <action android:name="android.intent.action.VIEW" />
                 <category android:name="android.intent.category.DEFAULT" />
                 <category android:name="android.intent.category.BROWSABLE" />
-                <data android:scheme="avfethiguzel-icthat" />
+                <data android:scheme="avfethiguzel-asistan" />
             </intent-filter>
             <!-- GALAXY:DEEPLINKS:END -->
 

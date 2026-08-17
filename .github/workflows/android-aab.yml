@@ -26,6 +26,12 @@ jobs:
   # ── 1. Ortak hazırlık: içerik paketleri ve dört arayüz derlemesi ──────────
   web:
     runs-on: ubuntu-latest
+    outputs:
+      # Hangi uygulamaların AAB'si üretilecek — katalogdan türetilir.
+      # Sabit liste tutulursa, katalogda yayın durumu değiştiğinde matris
+      # geride kalır ve ya yayınlanmayan bir uygulama derlenir ya da
+      # yayınlanan biri hiç derlenmez.
+      apps: ${{ steps.apps.outputs.list }}
     steps:
       - uses: actions/checkout@v4
 
@@ -57,9 +63,20 @@ jobs:
         working-directory: mobile
         run: node scripts/generate-icons.mjs
 
-      - name: Dört arayüzü derle
+      - name: Yayınlanan arayüzleri derle
         working-directory: mobile
         run: node scripts/build-app.mjs
+
+      - name: Yayınlanan uygulamaları belirle
+        id: apps
+        run: |
+          LIST=$(node -p "JSON.stringify(require('./mobile/galaxy/catalog.json').apps.filter(a => a.published === true).map(a => a.id))")
+          echo "Yayınlanacak: $LIST"
+          if [ "$LIST" = "[]" ]; then
+            echo "::error::katalogda published:true olan uygulama yok"
+            exit 1
+          fi
+          echo "list=$LIST" >> "$GITHUB_OUTPUT"
 
       - name: Derleme betiği testleri
         working-directory: mobile
@@ -81,7 +98,7 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        app: [portal, hesap, icthat, rehber]
+        app: ${{ fromJSON(needs.web.outputs.apps) }}
 
     steps:
       - uses: actions/checkout@v4
