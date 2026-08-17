@@ -39,6 +39,16 @@ jobs:
       - name: Uygulama paketlerini üret
         run: node scripts/build-app-packs.mjs
 
+      # Hukuki Hesap uygulaması, 33 aracı iki kez yazmamak için portalın
+      # gerçek `components/hesaplama/HesaplamaTools.tsx` dosyasını olduğu
+      # gibi kullanır (mobile/vite.config.mjs → `@/…` takma adı). O dosya
+      # kök `node_modules`'a ihtiyaç duyar (lucide-react gibi) — mobile/
+      # içindeki npm ci bunu kurmaz, ikisi kardeş klasördür. Bu adım
+      # olmadan "Dört arayüzü derle" hesap flavor'ında Rollup'ın
+      # `lucide-react`'i çözemediği bir hatayla patlar.
+      - name: Kök bağımlılıklar (paylaşılan bileşenler için)
+        run: npm ci --no-audit --no-fund
+
       - name: Mobil bağımlılıklar
         working-directory: mobile
         run: npm ci --no-audit --no-fund
