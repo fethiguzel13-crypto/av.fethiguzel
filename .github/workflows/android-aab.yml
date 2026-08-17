@@ -118,8 +118,13 @@ jobs:
             exit 1
           fi
           echo "$KEYSTORE_B64" | base64 -d > upload.jks
+          # Mutlak yol kullanılır: android/app/build.gradle bu değeri kendi
+          # proje dizinine (android/app/) göre çözer, keystore.properties'in
+          # bulunduğu android/'e göre değil. Göreli "../upload.jks" bu yüzden
+          # bir klasör yanlış hesaplanıyordu (android/upload.jks) ve Gradle
+          # dosyayı bulamayınca hata vermeden sessizce imzasız derliyordu.
           cat > android/keystore.properties <<EOF
-          storeFile=../upload.jks
+          storeFile=$(pwd)/upload.jks
           storePassword=${{ secrets.ANDROID_KEYSTORE_PASSWORD }}
           keyAlias=${{ secrets.ANDROID_KEY_ALIAS }}
           keyPassword=${{ secrets.ANDROID_KEY_PASSWORD }}
